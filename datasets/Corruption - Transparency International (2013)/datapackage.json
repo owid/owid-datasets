@@ -1,0 +1,42 @@
+{
+  "name": "Corruption - Transparency International (2013)",
+  "title": "Corruption - Transparency International (2013)",
+  "id": 305,
+  "description": "",
+  "sources": [
+    {
+      "name": "CPI (Transparency International (2016))",
+      "dataPublishedBy": "Transparency International",
+      "dataPublisherSource": "Various expert surveys including (as available for each country):  African Development Bank Governance Ratings, Bertelsmann Foundation Sustainable Governance Indicators, Bertelsmann Foundation Transformation Index, Economist Intelligence Unit Country Risk Ratings, Freedom House Nations in Transit, Global Insight Country Risk Ratings, IMD World Competitiveness Yearbook, Political and Economic Risk Consultancy Asian Intelligence, Political Risk Services International Country Risk Guide, World Bank - Country Policy and Institutional Assessment, World Economic Forum Executive Opinion Survey, World Justice Project Rule of Law Index ",
+      "link": "http://www.transparency.org/cpi2015",
+      "retrievedDate": "10/10/2016",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Corruption"
+  ],
+  "resources": [
+    {
+      "path": "Corruption - Transparency International (2013).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Corruption Perception Index (Transparency International (2016))",
+            "type": "any",
+            "description": "Annual ranking of countries by their perceived levels of corruption, as determined by expert assessments and opinion surveys. Scale is from 100 (very clean) to 0 (highly corrupt). ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
