@@ -1,0 +1,42 @@
+{
+  "name": "Inheritance for women - How Was Life? (2014)",
+  "title": "Inheritance for women - How Was Life? (2014)",
+  "id": 2670,
+  "description": "Gendered inheritance practices for immovables in 1920 are obtained from the Murdock data, while 1980 and 2000 are from the World Bank.\n\nInformation on inheritance practices at the start of the 20th century comes from George Murdock’s Ethnographic Atlas (1969).  To compare Murdock's figures to contemporary data available from the World Bank’s Fifty Years of Women’s Legal Rights database, a dichotomous scheme had to be used where 0 indicates inequality and 1 equality.\n\nFor further information of these data, see the link above from page 221, under the heading \"Historical sources\". ",
+  "sources": [
+    {
+      "name": "How Was Life? - Gender inequality since 1980 (2014)",
+      "dataPublishedBy": "How Was Life? Gender inequality since 1980 - Carmichael, Dili,and Rijpma",
+      "dataPublisherSource": "Historical data: Murdock's Ethnographic Atlas, and national statistics from the World Bank",
+      "link": "https://dspace.library.uu.nl/bitstream/handle/1874/306236/3014041ec016.pdf?sequence=1",
+      "retrievedDate": "21/03/2018",
+      "additionalInfo": "Gendered inheritance practices for immovables in 1920 are obtained from the Murdock data, while 1980 and 2000 are from the World Bank.\n\nInformation on inheritance practices at the start of the 20th century comes from George Murdock’s Ethnographic Atlas (1969).  To compare Murdock's figures to contemporary data available from the World Bank’s Fifty Years of Women’s Legal Rights database, a dichotomous scheme had to be used where 0 indicates inequality and 1 equality.\n\nFor further information of these data, see the link above from page 221, under the heading \"Historical sources\". "
+    }
+  ],
+  "owidTags": [
+    "Economic Gender & Race Differences"
+  ],
+  "resources": [
+    {
+      "path": "Inheritance for women - How Was Life? (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Gender-equal inheritance for women (How Was Life (2014))",
+            "type": "any",
+            "description": "Measure of institutional inequality, where 1 corresponds to gender-equal inheritance for women, and 0 otherwise.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
