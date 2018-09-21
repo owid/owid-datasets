@@ -1,0 +1,42 @@
+{
+  "name": "Access to electricity (% rural population) - World Bank (2017)",
+  "title": "Access to electricity (% rural population) - World Bank (2017)",
+  "id": 498,
+  "description": "",
+  "sources": [
+    {
+      "name": "Access to electricity (% rural population) - World Bank (2017)",
+      "dataPublishedBy": "World Bank, World Development Indicators (WDI)",
+      "dataPublisherSource": "World Bank, Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking Framework led jointly by the World Bank, International Energy Agency, and the Energy Sector Management Assistance Program",
+      "link": "http://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS?view=chart",
+      "retrievedDate": "29/05/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Electricity"
+  ],
+  "resources": [
+    {
+      "path": "Access to electricity (% rural population) - World Bank (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Access to electricity (% rural population) (World Bank (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
