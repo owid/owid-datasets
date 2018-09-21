@@ -1,0 +1,42 @@
+{
+  "name": "Clark, Flèche & Senik – Happiness Inequality",
+  "title": "Clark, Flèche & Senik – Happiness Inequality",
+  "id": 1847,
+  "description": "The data was provided to us by the authors via email.",
+  "sources": [
+    {
+      "name": "Clark, Flèche & Senik – Happiness Inequality",
+      "dataPublishedBy": "Clark, Andrew E., Sarah Flèche, and Claudia Senik. “Economic growth evens out happiness: Evidence from six surveys.” Review of Income and Wealth (2015)",
+      "dataPublisherSource": "based on the World Value Survey",
+      "link": "http://onlinelibrary.wiley.com/doi/10.1111/roiw.12190/abstract",
+      "retrievedDate": "Data received on 29 November 2017",
+      "additionalInfo": "The data was provided to us by the authors via email."
+    }
+  ],
+  "owidTags": [
+    "Happiness and Life Satisfaction"
+  ],
+  "resources": [
+    {
+      "path": "Clark, Flèche & Senik – Happiness Inequality.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Standard deviation of life satisfaction",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
