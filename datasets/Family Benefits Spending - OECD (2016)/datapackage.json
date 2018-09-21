@@ -1,0 +1,27 @@
+{
+  "name": "Family Benefits Spending - OECD (2016)",
+  "title": "Family Benefits Spending - OECD (2016)",
+  "id": 925,
+  "description": "",
+  "sources": [],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Family Benefits Spending - OECD (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          }
+        ]
+      }
+    }
+  ]
+}
