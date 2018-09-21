@@ -1,0 +1,84 @@
+{
+  "name": "Olympic competing nations and athletes (Olympic Database)",
+  "title": "Olympic competing nations and athletes (Olympic Database)",
+  "id": 2881,
+  "description": "Number of nations and athletes competing in each Olympic and Paralympic games. This is noted separately for the Summer and Winter games.",
+  "sources": [
+    {
+      "name": "Olympic competing nations and athletes (Olympic Database)",
+      "dataPublishedBy": "Olympics and Paralympics Database",
+      "dataPublisherSource": null,
+      "link": "http://www.olympiandatabase.com/; https://www.paralympic.org/paralympic-games",
+      "retrievedDate": null,
+      "additionalInfo": "Number of nations and athletes competing in each Olympic and Paralympic games. This is noted separately for the Summer and Winter games."
+    }
+  ],
+  "owidTags": [
+    "Sports"
+  ],
+  "resources": [
+    {
+      "path": "Olympic competing nations and athletes (Olympic Database).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Nations participating in Summer Olympics",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Athletes participating in Summer Olympics",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Nations participating in Winter Olympics",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Athletes participating in Winter Olympics",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Nations participating in Summer Paralympics",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Athletes participating in Summer Paralympics",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Nations participating in Winter Paralympics",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Athletes participating in Winter Paralympics",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
