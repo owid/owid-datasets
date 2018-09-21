@@ -1,0 +1,42 @@
+{
+  "name": "Female labor force participation rate - OWID (2017)",
+  "title": "Female labor force participation rate - OWID (2017)",
+  "id": 656,
+  "description": "Estimates in this series come primarily from OECD.stat. However, for Canada, Germany, Great Britain and the US, we combined estimates from Long (1958) and Heckman and Killingsworth (1986), in order to provide a longer perspective. Details on how we combined these sources can be found in this online table (https://ourworldindata.org/wp-content/uploads/2017/07/OECD-historical-female-participation-OWID.xlsx).\n\nIt is important to bear in mind that OECD estimates correspond to population ages 15+, while other estimates correspond to population 14+. Also, for France 1962-1966 we assigned missing values where the OECD.stat file reports zero.",
+  "sources": [
+    {
+      "name": "Our World In Data based on OECD (2017) and Long (1958)",
+      "dataPublishedBy": "Long, C. D. (1958) The labor force under changing income and employment. Princeton University Press. Heckman J. and Killingsworth M. (1986) Female Labor Supply: A Survey. in Handbook of Labor Economics, Volume I, Edited by O. Ashenfelter and R. Layard. OECD.Stat",
+      "dataPublisherSource": "Mainly census data (see underlying sources for more details).",
+      "link": "OECD.stat: http://stats.oecd.org/. Long (1958): http://econpapers.repec.org/bookchap/nbrnberbk/long58-1.htm. Heckman and Killingsworth (1986): http://public.econ.duke.edu/~vjh3/e262p/readings/Killingsworth_Heckman.pdf",
+      "retrievedDate": "31/07/2017",
+      "additionalInfo": "Estimates in this series come primarily from OECD.stat. However, for Canada, Germany, Great Britain and the US, we combined estimates from Long (1958) and Heckman and Killingsworth (1986), in order to provide a longer perspective. Details on how we combined these sources can be found in this online table (https://ourworldindata.org/wp-content/uploads/2017/07/OECD-historical-female-participation-OWID.xlsx).\n\nIt is important to bear in mind that OECD estimates correspond to population ages 15+, while other estimates correspond to population 14+. Also, for France 1962-1966 we assigned missing values where the OECD.stat file reports zero."
+    }
+  ],
+  "owidTags": [
+    "Labor Force Participation"
+  ],
+  "resources": [
+    {
+      "path": "Female labor force participation rate - OWID (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Female labor force participation rate (OWID based on OECD 2017 and others)",
+            "type": "any",
+            "description": "Proportion of the female population ages 15 and over that is economically active. Estimates combine various sources. For some observations before 1960, the participation rate is taken with respect to the female population 14 and over. (See complete source for more details).",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
