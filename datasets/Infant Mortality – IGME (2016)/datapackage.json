@@ -1,0 +1,44 @@
+{
+  "name": "Infant Mortality – IGME (2016)",
+  "title": "Infant Mortality – IGME (2016)",
+  "id": 319,
+  "description": "The IGME, led by the United Nations Children's Fund (UNICEF) and the World Health Organization (WHO), also includes the World Bank and the United Nations Population Division of the Department of Economic and Social Affairs as full members.",
+  "sources": [
+    {
+      "name": "Infant Mortality – IGME (2016)",
+      "dataPublishedBy": "UN Child Mortality Estimates (CME Info)",
+      "dataPublisherSource": "The UN Inter-agency Group for Child Mortality Estimation (IGME).",
+      "link": "http://childmortality.org",
+      "retrievedDate": "01/01/2016",
+      "additionalInfo": "The IGME, led by the United Nations Children's Fund (UNICEF) and the World Health Organization (WHO), also includes the World Bank and the United Nations Population Division of the Department of Economic and Social Affairs as full members."
+    }
+  ],
+  "owidTags": [
+    "Infant Mortality"
+  ],
+  "resources": [
+    {
+      "path": "Infant Mortality – IGME (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Infant Mortality (IGME (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
