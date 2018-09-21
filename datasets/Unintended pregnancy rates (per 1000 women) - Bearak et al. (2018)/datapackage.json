@@ -1,0 +1,42 @@
+{
+  "name": "Unintended pregnancy rates (per 1000 women) - Bearak et al. (2018)",
+  "title": "Unintended pregnancy rates (per 1000 women) - Bearak et al. (2018)",
+  "id": 2834,
+  "description": "To estimate the unintended pregnancy rate, the authors \"used a Bayesian hierarchical time series model in which the dependent variable was the number of unintended pregnancies among all women of reproductive age in a given country and year. The predictors were the numbers of women of reproductive age in each of the three subgroups of women (married women with an unmet need, married women experiencing failure with a contraceptive method, and all unmarried women).\"\n\nThis is measured as the number of unintended pregnancies per 1,000 women of reproductive age (15-44 years old).\n\nData was reported over the period 1990-2014 in five-year intervals. Here we allocate the given data point to the final year of the five-year interval: i.e. \"1994\" denotes the period 1990-1994; \"1999\" denotes 1995-1999; [...], \"2014\" denotes 2010-2014.",
+  "sources": [
+    {
+      "name": "Unintended pregnancy rates (per 1000 women) - Bearak et al. (2018)",
+      "dataPublishedBy": "Bearak, J., Popinchalk, A., Alkema, L., & Sedgh, G. (2018). Global, regional, and subregional trends in unintended pregnancy and its outcomes from 1990 to 2014: estimates from a Bayesian hierarchical model. The Lancet Global Health, 6(4), e380-e389.",
+      "dataPublisherSource": null,
+      "link": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(18)30029-9",
+      "retrievedDate": "16th July 2018",
+      "additionalInfo": "To estimate the unintended pregnancy rate, the authors \"used a Bayesian hierarchical time series model in which the dependent variable was the number of unintended pregnancies among all women of reproductive age in a given country and year. The predictors were the numbers of women of reproductive age in each of the three subgroups of women (married women with an unmet need, married women experiencing failure with a contraceptive method, and all unmarried women).\"\n\nThis is measured as the number of unintended pregnancies per 1,000 women of reproductive age (15-44 years old).\n\nData was reported over the period 1990-2014 in five-year intervals. Here we allocate the given data point to the final year of the five-year interval: i.e. \"1994\" denotes the period 1990-1994; \"1999\" denotes 1995-1999; [...], \"2014\" denotes 2010-2014."
+    }
+  ],
+  "owidTags": [
+    "Contraception & Abortion"
+  ],
+  "resources": [
+    {
+      "path": "Unintended pregnancy rates (per 1000 women) - Bearak et al. (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Unintended pregnancy rates",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
