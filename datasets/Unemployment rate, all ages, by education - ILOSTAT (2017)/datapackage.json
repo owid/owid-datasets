@@ -1,0 +1,72 @@
+{
+  "name": "Unemployment rate, all ages, by education - ILOSTAT (2017)",
+  "title": "Unemployment rate, all ages, by education - ILOSTAT (2017)",
+  "id": 2875,
+  "description": "The unemployment rate is the number of persons who are unemployed as a percent of the total number of employed and unemployed persons (i.e., the labour force). Data by level of education are provided on the highest level of education completed.\n\nAccording to the ISCED-11 classification, 'basic education' includes primary or lower secondary education, while 'advanced education' can refer to short-cycle tertiary education, Bachelor's or equivalent level, Master's or equivalent level, or Doctoral or equivalent level. For more information see the ILOSTAT's <a href=\"https://www.ilo.org/ilostat-files/Documents/description_EDU_EN.pdf\" rel=\"noopener\" target=_blank\">'Employment by education' document</a>. ",
+  "sources": [
+    {
+      "name": "ILOSTAT (2017)",
+      "dataPublishedBy": "ILOSTAT",
+      "dataPublisherSource": "Labor force and household surveys ",
+      "link": "https://www.ilo.org/ilostat/",
+      "retrievedDate": "08/08/2018",
+      "additionalInfo": "The unemployment rate is the number of persons who are unemployed as a percent of the total number of employed and unemployed persons (i.e., the labour force). Data by level of education are provided on the highest level of education completed.\n\nAccording to the ISCED-11 classification, 'basic education' includes primary or lower secondary education, while 'advanced education' can refer to short-cycle tertiary education, Bachelor's or equivalent level, Master's or equivalent level, or Doctoral or equivalent level. For more information see the ILOSTAT's <a href=\"https://www.ilo.org/ilostat-files/Documents/description_EDU_EN.pdf\" rel=\"noopener\" target=_blank\">'Employment by education' document</a>. "
+    }
+  ],
+  "owidTags": [
+    "Unemployment"
+  ],
+  "resources": [
+    {
+      "path": "Unemployment rate, all ages, by education - ILOSTAT (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Unemployment rate, all ages, advanced education",
+            "type": "any",
+            "description": "Unemployment rate for individuals, all ages, who have an advanced level of education.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Unemployment rate, all ages, less than basic education",
+            "type": "any",
+            "description": "Unemployment rate for individuals, all ages, who have a less than basic level of education.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Unemployment rate, all ages, all levels of education",
+            "type": "any",
+            "description": "Unemployment rate for individuals, all ages, for all levels of education.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Unemployment rate, all ages, intermediate education",
+            "type": "any",
+            "description": "Unemployment rate for individuals, all ages, who have an intermediate level of education.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Unemployment rate, all ages, basic education",
+            "type": "any",
+            "description": "Unemployment rate for individuals, all ages, who have a basic level of education.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Unemployment rate, all ages, education level not stated",
+            "type": "any",
+            "description": "Unemployment rate for individuals, all ages, whose education level was not stated.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
