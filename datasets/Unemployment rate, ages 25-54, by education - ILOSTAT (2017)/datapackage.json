@@ -1,0 +1,72 @@
+{
+  "name": "Unemployment rate, ages 25-54, by education - ILOSTAT (2017)",
+  "title": "Unemployment rate, ages 25-54, by education - ILOSTAT (2017)",
+  "id": 2872,
+  "description": "The unemployment rate is the number of persons who are unemployed as a percent of the total number of employed and unemployed persons (i.e., the labour force). Data by level of education are provided on the highest level of education completed.\n\nAccording to the ISCED-11 classification, a 'less than basic education' may refer to no schooling, or early childhood education.  'Basic education' includes primary or lower secondary education; 'Intermediate education' to upper secondary or post-secondary non-tertiary education; 'Advanced education' can refer to short-cycle tertiary education, Bachelor's or equivalent level, Master's or equivalent level, or Doctoral or equivalent level, while 'level not stated' is an education level not elsewhere classified. \n\nFor more information see the ILOSTAT's <a href=\"https://www.ilo.org/ilostat-files/Documents/description_EDU_EN.pdf\" rel=\"noopener\" target=_blank\">'Employment by education' document</a>. ",
+  "sources": [
+    {
+      "name": "ILOSTAT (2017)",
+      "dataPublishedBy": "ILOSTAT",
+      "dataPublisherSource": "Labor force and household surveys ",
+      "link": "https://www.ilo.org/ilostat/",
+      "retrievedDate": "08/08/2018",
+      "additionalInfo": "The unemployment rate is the number of persons who are unemployed as a percent of the total number of employed and unemployed persons (i.e., the labour force). Data by level of education are provided on the highest level of education completed.\n\nAccording to the ISCED-11 classification, a 'less than basic education' may refer to no schooling, or early childhood education.  'Basic education' includes primary or lower secondary education; 'Intermediate education' to upper secondary or post-secondary non-tertiary education; 'Advanced education' can refer to short-cycle tertiary education, Bachelor's or equivalent level, Master's or equivalent level, or Doctoral or equivalent level, while 'level not stated' is an education level not elsewhere classified. \n\nFor more information see the ILOSTAT's <a href=\"https://www.ilo.org/ilostat-files/Documents/description_EDU_EN.pdf\" rel=\"noopener\" target=_blank\">'Employment by education' document</a>. "
+    }
+  ],
+  "owidTags": [
+    "Unemployment"
+  ],
+  "resources": [
+    {
+      "path": "Unemployment rate, ages 25-54, by education - ILOSTAT (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Unemployment rate, ages 25-54,  advanced education",
+            "type": "any",
+            "description": "Unemployment rate for individuals, ages 25-54, who have an advanced level of education.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Unemployment rate, ages 25-54,  basic education",
+            "type": "any",
+            "description": "Unemployment rate for individuals, ages 25-54, who have a basic level of education.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Unemployment rate, ages 25-54,  less than basic education",
+            "type": "any",
+            "description": "Unemployment rate for individuals, ages 25-54, who have a less than basic level of education.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Unemployment rate, ages 25-54,  all levels of education",
+            "type": "any",
+            "description": "Unemployment rate for individuals, ages 25-54, for all levels of education.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Unemployment rate, ages 25-54,  intermediate education",
+            "type": "any",
+            "description": "Unemployment rate for individuals, ages 25-54, who have an intermediate level of education.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Unemployment rate, ages 25-54,  education level not stated",
+            "type": "any",
+            "description": "Unemployment rate for individuals, ages 25-54, whose education level was not stated.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
