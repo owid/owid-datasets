@@ -1,0 +1,66 @@
+{
+  "name": "Food waste in the European Union - Europa (2010)",
+  "title": "Food waste in the European Union - Europa (2010)",
+  "id": 967,
+  "description": "Data is measured as total food waste per year, measured in mass terms (tonnes per year).\n\nFood waste is disaggregated by wastage from manufacturing, households and 'other' categories. 'Other' is inclusive of all other sectors where food waste occurs, including agricultural production, distribution, retail and catering.",
+  "sources": [
+    {
+      "name": "Food waste in the European Union - Europa (2010)",
+      "dataPublishedBy": " European Commission (2010). Preparatory study on food waste across EU27",
+      "dataPublisherSource": "National reports & non-governmental studies",
+      "link": "http://ec.europa.eu/environment/archives/eussd/pdf/bio_foodwaste_report.pdf",
+      "retrievedDate": "12/10/2017",
+      "additionalInfo": "Data is measured as total food waste per year, measured in mass terms (tonnes per year).\n\nFood waste is disaggregated by wastage from manufacturing, households and 'other' categories. 'Other' is inclusive of all other sectors where food waste occurs, including agricultural production, distribution, retail and catering."
+    }
+  ],
+  "owidTags": [
+    "Food Waste"
+  ],
+  "resources": [
+    {
+      "path": "Food waste in the European Union - Europa (2010).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Manufacturing (Europa (2010))",
+            "type": "any",
+            "description": "Tonnes of food waste at the manufacturing stage of the supply chain. ",
+            "owidDisplaySettings": {
+              "shortUnit": "tonnes"
+            }
+          },
+          {
+            "name": "Households (Europa (2010))",
+            "type": "any",
+            "description": "Tonnes of food waste by households in the supply chain.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Other (Europa (2010))",
+            "type": "any",
+            "description": "Tonnes of food waste of 'other' stages of the supply chain including agricultural production, distribution, retail and catering. ",
+            "owidDisplaySettings": {
+              "shortUnit": "tonnes"
+            }
+          },
+          {
+            "name": "Total food waste (Europa (2010))",
+            "type": "any",
+            "description": "Total food waste, in tonnes, aggregated across the supply chain. ",
+            "owidDisplaySettings": {
+              "shortUnit": "tonnes"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
