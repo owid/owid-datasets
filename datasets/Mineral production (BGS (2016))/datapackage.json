@@ -1,0 +1,90 @@
+{
+  "name": "Mineral production (BGS (2016))",
+  "title": "Mineral production (BGS (2016))",
+  "id": 1903,
+  "description": "Where Russia and the Soviet Union both feature in the data, the Soviet Union series has been added to Russia's own figures. The same is true for the Democratic Republic of Congo/Zaire, West Germany/East Germany/Germany, and Serbia and Montenegro/Yugoslavia, Mozambique/Rhodesia.",
+  "sources": [
+    {
+      "name": "British Geological Survey (2016)",
+      "dataPublishedBy": "British Geological Survey (BGS) ",
+      "dataPublisherSource": "Home and overseas government departments, national statistics offices, specialist commodity authorities, company reports. ",
+      "link": "http://www.bgs.ac.uk/mineralsuk/statistics/wms.cfc?method=searchWMS",
+      "retrievedDate": "19/01/2017",
+      "additionalInfo": "Where Russia and the Soviet Union both feature in the data, the Soviet Union series has been added to Russia's own figures. The same is true for the Democratic Republic of Congo/Zaire, West Germany/East Germany/Germany, and Serbia and Montenegro/Yugoslavia, Mozambique/Rhodesia."
+    }
+  ],
+  "owidTags": [
+    "Non-Energy Resources"
+  ],
+  "resources": [
+    {
+      "path": "Mineral production (BGS (2016)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Cadmium (BGS (2016))",
+            "type": "any",
+            "description": "Cadmium production in metric tonnes.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cobalt (BGS (2016))",
+            "type": "any",
+            "description": "Cobalt production in tonnes (metal content).",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Diamond (BGS (2016))",
+            "type": "any",
+            "description": "Diamond production in carats.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Graphite (BGS (2016))",
+            "type": "any",
+            "description": "Graphite production in metric tonnes.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Lithium (BGS (2016))",
+            "type": "any",
+            "description": "Lithium production in metric tonnes.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Mercury (BGS (2016))",
+            "type": "any",
+            "description": "Mercury production in kgs.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Platinum (BGS (2016))",
+            "type": "any",
+            "description": "Platinum production in kgs (metal content).",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Uranium (BGS (2016))",
+            "type": "any",
+            "description": "Uranium production in tonnes (metal content).",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Silicon (BGS (2016))",
+            "type": "any",
+            "description": "Silicon production in metric tonnes. Silicon refers to the sub-commodity \"ferro-silicon\" to measure total production.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
