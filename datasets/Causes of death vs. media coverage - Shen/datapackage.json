@@ -1,0 +1,60 @@
+{
+  "name": "Causes of death vs. media coverage - Shen",
+  "title": "Causes of death vs. media coverage - Shen",
+  "id": 2766,
+  "description": "Data was compiled and published by Owen Shen, tallying comparisons between the share of deaths, google searches and media coverage across a range of causes of death.\n\nThis includes the top 10 largest causes of mortality, as well as terrorism, overdoses, and homicides (the three additional causes of death which get significant media coverage). These are normalised to be given as deaths, Google searches and media coverage as a share of the total reported across these 13 causes (which does not mean the share of deaths or coverage of all causes of death).\n\nThe values given represent their relative share, rather than absolute counts. This allows for comparison of the proportionality in representation across different sources.\n\nMortality data was sourced from the Center for Disease Control and Prevention (CDC): https://wonder.cdc.gov/\nGoogle searches from Google Trends: https://github.com/GeneralMills/pytrends\nThe Guardian's article database: http://open-platform.theguardian.com/\nThe New York Times' database: https://developer.nytimes.com/\n",
+  "sources": [
+    {
+      "name": "Causes of death vs. media coverage - Shen",
+      "dataPublishedBy": "Owen Shen. Death: Reality vs Reported.",
+      "dataPublisherSource": null,
+      "link": "https://owenshen24.github.io/charting-death/",
+      "retrievedDate": "23rd April 2018",
+      "additionalInfo": "Data was compiled and published by Owen Shen, tallying comparisons between the share of deaths, google searches and media coverage across a range of causes of death.\n\nThis includes the top 10 largest causes of mortality, as well as terrorism, overdoses, and homicides (the three additional causes of death which get significant media coverage). These are normalised to be given as deaths, Google searches and media coverage as a share of the total reported across these 13 causes (which does not mean the share of deaths or coverage of all causes of death).\n\nThe values given represent their relative share, rather than absolute counts. This allows for comparison of the proportionality in representation across different sources.\n\nMortality data was sourced from the Center for Disease Control and Prevention (CDC): https://wonder.cdc.gov/\nGoogle searches from Google Trends: https://github.com/GeneralMills/pytrends\nThe Guardian's article database: http://open-platform.theguardian.com/\nThe New York Times' database: https://developer.nytimes.com/\n"
+    }
+  ],
+  "owidTags": [
+    "Causes of Death"
+  ],
+  "resources": [
+    {
+      "path": "Causes of death vs. media coverage - Shen.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of deaths",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of Google searches",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of NYT media coverage",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of Guardian media coverage",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
