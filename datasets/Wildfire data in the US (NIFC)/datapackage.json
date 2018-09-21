@@ -1,0 +1,72 @@
+{
+  "name": "Wildfire data in the US (NIFC)",
+  "title": "Wildfire data in the US (NIFC)",
+  "id": 2961,
+  "description": "The National Interagency Coordination Center at NIFC compiles annual wildland fire statistics for federal and state agencies. This information is provided through Situation Reports, which have been in use for several decades. \n\n**Prior to 1983, sources of these figures are not known, or cannot be confirmed, and were not derived from the current situation reporting process. As a result the figures prior to 1983 should not be compared to later data.\n\nThe average acres burned per wildfire has been calculated by Our World in Data by dividing the total number of acres burned by the number of wildfires in a given year. Note this simplifies and does not account for the distribution of wildfire extents.",
+  "sources": [
+    {
+      "name": "Wildfire data in the US (NIFC)",
+      "dataPublishedBy": "National Interagency Coordination Center; National Interagency Fire Center",
+      "dataPublisherSource": null,
+      "link": "https://www.nifc.gov/fireInfo/fireInfo_stats_totalFires.html",
+      "retrievedDate": "20th September 2018",
+      "additionalInfo": "The National Interagency Coordination Center at NIFC compiles annual wildland fire statistics for federal and state agencies. This information is provided through Situation Reports, which have been in use for several decades. \n\n**Prior to 1983, sources of these figures are not known, or cannot be confirmed, and were not derived from the current situation reporting process. As a result the figures prior to 1983 should not be compared to later data.\n\nThe average acres burned per wildfire has been calculated by Our World in Data by dividing the total number of acres burned by the number of wildfires in a given year. Note this simplifies and does not account for the distribution of wildfire extents."
+    }
+  ],
+  "owidTags": [
+    "Natural Catastrophes"
+  ],
+  "resources": [
+    {
+      "path": "Wildfire data in the US (NIFC).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of wildfires - comparable data (NIFC)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Acres burned - comparable data (NIFC)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of wildfires - full series (NIFC)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Acres burned - full series (NIFC)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Acres burned per fire - comparable data (NIFC)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Acres burned per fire - full series (NIFC)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
