@@ -1,0 +1,192 @@
+{
+  "name": "Diet compositions by specific food commodities - FAO (2017)",
+  "title": "Diet compositions by specific food commodities - FAO (2017)",
+  "id": 657,
+  "description": "Data represents the average daily per capita supply of calories from the range of food commodities. Note that these figures do not correct for waste at the household/consumption level so may not directly reflect the quantity of food finally consumed by a given individual.\n\nValues given for commodities include supply provided in its raw form, as well as products derived from this commodity (for example, figures for 'wheat' are inclusive of wheat consumed in its raw form as well as derivative products such as bread).\n\nFigures for Former Soviet Union states have been allocated the average food supply figures of the USSR for the period 1961-1991, then their respective national values from there onwards.",
+  "sources": [
+    {
+      "name": "Diet compositions by specific food commodities - FAO (2017)",
+      "dataPublishedBy": "United Nations Food and Agricultural Organization (FAO)",
+      "dataPublisherSource": "Food Balance Sheets (FBS)",
+      "link": "http://www.fao.org/faostat/en/#data/FBS",
+      "retrievedDate": "01/08/2017",
+      "additionalInfo": "Data represents the average daily per capita supply of calories from the range of food commodities. Note that these figures do not correct for waste at the household/consumption level so may not directly reflect the quantity of food finally consumed by a given individual.\n\nValues given for commodities include supply provided in its raw form, as well as products derived from this commodity (for example, figures for 'wheat' are inclusive of wheat consumed in its raw form as well as derivative products such as bread).\n\nFigures for Former Soviet Union states have been allocated the average food supply figures of the USSR for the period 1961-1991, then their respective national values from there onwards."
+    }
+  ],
+  "owidTags": [
+    "Diet Composition"
+  ],
+  "resources": [
+    {
+      "path": "Diet compositions by specific food commodities - FAO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Alcoholic Beverages (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of alcoholic beverages per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Animal fats (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of animal fats per person per day.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Barley (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of barley per person per day.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Bovine Meat (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of bovine meat per person per day.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cereals, Other (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of cereals, other per person per day.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Eggs (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of eggs per person per day.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fish & seafood (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of fish and seafood consumed per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fruit (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of fruit consumed per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Maize (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of maize consumed per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Meat, Other (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of meat, other consumed per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Milk (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of milk consumed per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Miscellaneous (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of miscellaneous consumed per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Mutton & Goat Meat (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of mutton and goat meat consumed per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Oilcrops (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of oilcrops consumed per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Pigmeat (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of pigmeat consumed per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Poultry Meat (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of poultry meat consumed per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Pulses (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of pulses consumed per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Rice (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of rice consumed per person per day.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Starchy Roots (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of starchy roots consumed per person per day.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Sugar & Sweeteners (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of sugars & sweeteners consumed per person per day.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Sugar Crops (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of sugar crops consumed per person per day.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Nuts & Seeds (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of nuts & seeds consumed per person per day.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Vegetable Oils (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of vegetable oils consumed per person per day.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Vegetables (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of vegetables consumed per person per day.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Wheat (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of wheat consumed per person per day.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Treenuts (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories of treenuts consumed per person per day.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
