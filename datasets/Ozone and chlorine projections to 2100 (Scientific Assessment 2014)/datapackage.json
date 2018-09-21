@@ -1,0 +1,48 @@
+{
+  "name": "Ozone and chlorine projections to 2100 (Scientific Assessment 2014)",
+  "title": "Ozone and chlorine projections to 2100 (Scientific Assessment 2014)",
+  "id": 2812,
+  "description": "Figures represent stratospheric ozone, and effective stratospheric chlorine (ESC) based on historical measurement and future projections from chemistry-climate models.\n\nChemistry-climate models are used to make projections of total ozone amounts that account for the effects of ozone-depleting substances (ODSs) and climate change. Regional and global projections are shown for total ozone and ESC for the period\n1960–2100, referenced to 1960 values (i.e. 1960 = 0).\n\nData is based on those in Q20-2 in 'Twenty questions and answers about the ozone layer: 2014 update', published as the 2014 edition of the Scientific Assessment Panel of the Montreal Protocol.\n\nData was extracted from the static figure, Q0-1, using the extraction tool WebPlotDigitizer (https://apps.automeris.io/wpd/).",
+  "sources": [
+    {
+      "name": "Ozone and chlorine projections to 2100 (Scientific Assessment 2014)",
+      "dataPublishedBy": "Hegglin, M. I., Fahey, D. W., McFarland, M., Montzka, S. A., & Nash, E. R. (2014). Twenty questions and answers about the ozone layer: 2014 update. World Meteorological Organization, UNEP, NOAA, NASA, and European Commission.",
+      "dataPublisherSource": null,
+      "link": "https://www.wmo.int/pages/prog/arep/gaw/ozone_2014/documents/2014%20Twenty%20Questions_Final.pdf",
+      "retrievedDate": null,
+      "additionalInfo": "Figures represent stratospheric ozone, and effective stratospheric chlorine (ESC) based on historical measurement and future projections from chemistry-climate models.\n\nChemistry-climate models are used to make projections of total ozone amounts that account for the effects of ozone-depleting substances (ODSs) and climate change. Regional and global projections are shown for total ozone and ESC for the period\n1960–2100, referenced to 1960 values (i.e. 1960 = 0).\n\nData is based on those in Q20-2 in 'Twenty questions and answers about the ozone layer: 2014 update', published as the 2014 edition of the Scientific Assessment Panel of the Montreal Protocol.\n\nData was extracted from the static figure, Q0-1, using the extraction tool WebPlotDigitizer (https://apps.automeris.io/wpd/)."
+    }
+  ],
+  "owidTags": [
+    "Ozone Layer"
+  ],
+  "resources": [
+    {
+      "path": "Ozone and chlorine projections to 2100 (Scientific Assessment 2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Ozone concentration (1960 = 0)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Equivalent stratospheric chorine (ESC) (1960 = 0)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
