@@ -1,0 +1,44 @@
+{
+  "name": "PM2.5 concentration - State of Global Air (2017)",
+  "title": "PM2.5 concentration - State of Global Air (2017)",
+  "id": 386,
+  "description": "Data is gathered based on a combination of air quality observations from satellites combined with information from global chemical transport models, and available ground measurements. Global exposure to PM2.5 is then systematically estimated based on blocks or grid cells covering 0.1° x 0.1° of longitude and latitude (approximately 11 km x 11 km at the equator).\r\n\r\nTaking into account the population in each block within a country, this data is then aggregated as estimated exposure concentrations to national-level population-weighted averages for a given year.",
+  "sources": [
+    {
+      "name": "PM2.5 concentration- State of Global Air (2017)",
+      "dataPublishedBy": "State of Global Air 2017. HEI, 2017",
+      "dataPublisherSource": "Global Burden of Disease Study 2015. IHME, 2016",
+      "link": "www.stateofglobalair.org",
+      "retrievedDate": "12/04/2017",
+      "additionalInfo": "Data is gathered based on a combination of air quality observations from satellites combined with information from global chemical transport models, and available ground measurements. Global exposure to PM2.5 is then systematically estimated based on blocks or grid cells covering 0.1° x 0.1° of longitude and latitude (approximately 11 km x 11 km at the equator).\r\n\r\nTaking into account the population in each block within a country, this data is then aggregated as estimated exposure concentrations to national-level population-weighted averages for a given year."
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "PM2.5 concentration - State of Global Air (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "PM2.5 concentration (State of Global Air (2017))",
+            "type": "any",
+            "description": "Particulate Matter (PM2.5) population-weighted concentration by country (1990-2015)",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
