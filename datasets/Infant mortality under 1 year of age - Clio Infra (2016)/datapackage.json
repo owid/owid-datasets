@@ -1,0 +1,42 @@
+{
+  "name": "Infant mortality under 1 year of age - Clio Infra (2016)",
+  "title": "Infant mortality under 1 year of age - Clio Infra (2016)",
+  "id": 166,
+  "description": "",
+  "sources": [
+    {
+      "name": " ‘Clio Infra’ Project (2016)",
+      "dataPublishedBy": "‘Clio Infra’ Project",
+      "dataPublisherSource": "Various sources are used (well documented online at Clio Infra). The main source is: Aboubarb, M.R. and A.L.. Kimball. “A New Dataset on Infant Mortality Rates, 1816-2002.” Journal of Peace Research 44 (2007):743. This dataset is available for download at prio here (it is called: M. Rodwan Abouharb & Anessa L. Kimball – A New Dataset on Infant Mortality Rates, 1816-2002).Clio Infra’ Project",
+      "link": "http://www.clio-infra.eu/datasets/indicators",
+      "retrievedDate": "18/02/2016",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Infant Mortality"
+  ],
+  "resources": [
+    {
+      "path": "Infant mortality under 1 year of age - Clio Infra (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Infant mortality under 1 year of age (Clio Infra (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
