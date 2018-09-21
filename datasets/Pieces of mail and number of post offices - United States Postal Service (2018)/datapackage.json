@@ -1,0 +1,54 @@
+{
+  "name": "Pieces of mail and number of post offices - United States Postal Service (2018)",
+  "title": "Pieces of mail and number of post offices - United States Postal Service (2018)",
+  "id": 2719,
+  "description": "",
+  "sources": [
+    {
+      "name": "United States Postal Service (2018)",
+      "dataPublishedBy": "United States Postal Service",
+      "dataPublisherSource": "Annual Report of the Postmaster General",
+      "link": "https://about.usps.com/who-we-are/postal-history/pieces-of-mail-since-1789.pdf",
+      "retrievedDate": "04/04/2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Communication Technology & Mobile Phone"
+  ],
+  "resources": [
+    {
+      "path": "Pieces of mail and number of post offices - United States Postal Service (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Pieces of mail handled (UN Postal Service (2018))",
+            "type": "any",
+            "description": "The total pieces of mail handled, per year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of post offices (UN Postal Service (2018))",
+            "type": "any",
+            "description": "Total number of post offices.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Mail handled per post office (UN Postal Service (2018))",
+            "type": "any",
+            "description": "Pieces of mail handled per post office. Arrived at estimate by dividing pieces of mail by the number of post offices open, per year.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
