@@ -1,0 +1,42 @@
+{
+  "name": "Cereal yield index - (World Bank (2017) & OWID)",
+  "title": "Cereal yield index - (World Bank (2017) & OWID)",
+  "id": 579,
+  "description": "Cereal yield index was derived by OurWorldinData based on original data sourced from the World Bank's World Development Indicators (WDI).\n\nThe cereal yield index measures annual cereal production as an index to average yields in 1961, the first year of the original dataset. This index was calculated by dividing cereal yield values (which are measured in kilograms per hectare) in any given year by cereal yields in 1961. 1961 = 100. Values >100 indicate an increase in yield vs. 1961, and values <100 indicate a decrease.\nThe original dataset from WDI used in this calculation was \"Cereal yield (kg per hectare)\", which is defined by the World Bank/FAO as: \"Cereal yield, measured as kilograms per hectare of harvested land, includes wheat, rice, maize, barley, oats, rye, millet, sorghum, buckwheat, and mixed grains. Production data on cereals relate to crops harvested for dry grain only. Cereal crops harvested for hay or harvested green for food, feed, or silage and those used for grazing are excluded. The FAO allocates production data to the calendar year in which the bulk of the harvest took place. Most of a crop harvested near the end of a year will be used in the following year.\"\nData available at: http://data.worldbank.org/data-catalog/world-development-indicators [accessed 18th July 2017]",
+  "sources": [
+    {
+      "name": "Cereal Yield Index - World Bank (2017) & OWID",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "Cereal yield index was derived by OurWorldinData based on original data sourced from the World Bank's World Development Indicators (WDI).\n\nThe cereal yield index measures annual cereal production as an index to average yields in 1961, the first year of the original dataset. This index was calculated by dividing cereal yield values (which are measured in kilograms per hectare) in any given year by cereal yields in 1961. 1961 = 100. Values >100 indicate an increase in yield vs. 1961, and values <100 indicate a decrease.\nThe original dataset from WDI used in this calculation was \"Cereal yield (kg per hectare)\", which is defined by the World Bank/FAO as: \"Cereal yield, measured as kilograms per hectare of harvested land, includes wheat, rice, maize, barley, oats, rye, millet, sorghum, buckwheat, and mixed grains. Production data on cereals relate to crops harvested for dry grain only. Cereal crops harvested for hay or harvested green for food, feed, or silage and those used for grazing are excluded. The FAO allocates production data to the calendar year in which the bulk of the harvest took place. Most of a crop harvested near the end of a year will be used in the following year.\"\nData available at: http://data.worldbank.org/data-catalog/world-development-indicators [accessed 18th July 2017]"
+    }
+  ],
+  "owidTags": [
+    "Yields"
+  ],
+  "resources": [
+    {
+      "path": "Cereal yield index - (World Bank (2017) & OWID).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Cereal yield index (World Bank (2017) & OWID)",
+            "type": "any",
+            "description": "The cereal yield index measures annual cereal production as an index to average yields in 1961, the first year of the original dataset.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
