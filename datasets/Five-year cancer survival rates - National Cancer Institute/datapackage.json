@@ -1,0 +1,138 @@
+{
+  "name": "Five-year cancer survival rates - National Cancer Institute",
+  "title": "Five-year cancer survival rates - National Cancer Institute",
+  "id": 2461,
+  "description": "Five-year cancer survival rate, measured as the percentage of people who survive at least five years since diagnosis. \n\nData is given as a single year, but denotes the average over a given period as follows:\n1963: 1960-1963\n1973: 1970-1973\n1977: 1975-1977\n1980: 1978-1980\n1983: 1981-1983\n1986: 1984-1986\n1989: 1987-1989\n1992: 1989-1992\n1995: 1992-1995\n1998: 1996-1998\n2001: 1999-2001\n2006: 2002-2006\n2013: 2007-2013",
+  "sources": [
+    {
+      "name": "Five-year cancer survival rates - National Cancer Institute",
+      "dataPublishedBy": "SEEAR (Surveillance, Epidemiology and End Results Program), National Cancer Institute",
+      "dataPublisherSource": null,
+      "link": "https://seer.cancer.gov/csr/1975_2014/results_merged/topic_survival.pdf",
+      "retrievedDate": "20th February 2018",
+      "additionalInfo": "Five-year cancer survival rate, measured as the percentage of people who survive at least five years since diagnosis. \n\nData is given as a single year, but denotes the average over a given period as follows:\n1963: 1960-1963\n1973: 1970-1973\n1977: 1975-1977\n1980: 1978-1980\n1983: 1981-1983\n1986: 1984-1986\n1989: 1987-1989\n1992: 1989-1992\n1995: 1992-1995\n1998: 1996-1998\n2001: 1999-2001\n2006: 2002-2006\n2013: 2007-2013"
+    }
+  ],
+  "owidTags": [
+    "Cancer"
+  ],
+  "resources": [
+    {
+      "path": "Five-year cancer survival rates - National Cancer Institute.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "All cancers",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Brain and nervous system",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Breast cancer",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cervix Uteri cancer",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Colon and rectum cancer",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Esophagal cancer",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Leukemia",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Lung and bronchus cancer",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Liver cancer",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Myeloma",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Pancreatic cancer",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prostate cancer",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Stomach cancer",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Thyroid cancer",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Bladder cancer",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Ovarian cancer",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Skin cancer",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
