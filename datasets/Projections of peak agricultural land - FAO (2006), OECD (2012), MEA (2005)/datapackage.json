@@ -1,0 +1,84 @@
+{
+  "name": "Projections of peak agricultural land - FAO (2006), OECD (2012), MEA (2005)",
+  "title": "Projections of peak agricultural land - FAO (2006), OECD (2012), MEA (2005)",
+  "id": 677,
+  "description": "This dataset combines actual reported trends in global agricultural land area from the UN Food and Agricultural Organization from 1961-2014, with future projections from various sources.\n\nData for the period 1961-2014 is based on the metric \"Agricultural land\" from the FAO Database. Available at: http://www.fao.org/faostat/en/#data/RL [accessed 22nd August 2017].\n\nAgricultural land includes arable land, permanent crops and meadows and pasture land.\n\nProjections to 2050 are based on those reported in OECD (2012) – OECD Environmental Outlook to 2050: The Consequences of Inaction. Available at: http://www.oecd.org/environment/indicators-modelling-outlooks/oecdenvironmentaloutlookto2050theconsequencesofinaction.htm [accessed 22nd August 2017].\n\nThe original sources for these projections are as follows:\n\nFAO/IMAGE = FAO (UN Food and Agriculture Organisation) (2006), World Agriculture Towards 2030/2050, FAO, Rome.\n\nIAASTD = International Assessment of Agricultural Knowledge, Science and Technology for Development (2009). Global report, Island Press, Washington, DC.\n\nMEA = Millennium Ecosystem Assessment (2005), Synthesis report, Island Press, Washington, DC.",
+  "sources": [
+    {
+      "name": "Projections of peak agricultural land - FAO (2006), OECD (2012), MEA (2005)",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "This dataset combines actual reported trends in global agricultural land area from the UN Food and Agricultural Organization from 1961-2014, with future projections from various sources.\n\nData for the period 1961-2014 is based on the metric \"Agricultural land\" from the FAO Database. Available at: http://www.fao.org/faostat/en/#data/RL [accessed 22nd August 2017].\n\nAgricultural land includes arable land, permanent crops and meadows and pasture land.\n\nProjections to 2050 are based on those reported in OECD (2012) – OECD Environmental Outlook to 2050: The Consequences of Inaction. Available at: http://www.oecd.org/environment/indicators-modelling-outlooks/oecdenvironmentaloutlookto2050theconsequencesofinaction.htm [accessed 22nd August 2017].\n\nThe original sources for these projections are as follows:\n\nFAO/IMAGE = FAO (UN Food and Agriculture Organisation) (2006), World Agriculture Towards 2030/2050, FAO, Rome.\n\nIAASTD = International Assessment of Agricultural Knowledge, Science and Technology for Development (2009). Global report, Island Press, Washington, DC.\n\nMEA = Millennium Ecosystem Assessment (2005), Synthesis report, Island Press, Washington, DC."
+    }
+  ],
+  "owidTags": [
+    "Land Use in Agriculture"
+  ],
+  "resources": [
+    {
+      "path": "Projections of peak agricultural land - FAO (2006), OECD (2012), MEA (2005).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Agricultural area (FAO (2006), OECD (2012), MEA (2005))",
+            "type": "any",
+            "description": "Agricultural area in hectares.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "FAO/IMAGE (FAO (2006), OECD (2012), MEA (2005))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "IAASTD (FAO (2006), OECD (2012), MEA (2005))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "OECD Outlook Baseline (FAO (2006), OECD (2012), MEA (2005))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "MEA Scenario 1 (FAO (2006), OECD (2012), MEA (2005))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "MEA Scenario 2 (FAO (2006), OECD (2012), MEA (2005))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "MEA Scenario 3 (FAO (2006), OECD (2012), MEA (2005))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "MEA Scenario 4 (FAO (2006), OECD (2012), MEA (2005))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
