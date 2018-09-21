@@ -1,0 +1,48 @@
+{
+  "name": "Urban population living in slums (WB WDI)",
+  "title": "Urban population living in slums (WB WDI)",
+  "id": 2809,
+  "description": "Data on the total size of urban populations living in slums was calculated by Our World in Data based on metrics published within the World Bank, World Development Indicators: 'Urban population (total)' and '% urban population living in slums'.\n\nPopulation living in slums is the proportion of the urban population living in slum households. A slum household is defined as a group of individuals living under the same roof lacking one or more of the following conditions: access to improved water, access to improved sanitation, sufficient living area, and durability of housing.",
+  "sources": [
+    {
+      "name": "Urban population living in slums (WB WDI)",
+      "dataPublishedBy": "OWID based on World Bank, World Development Indicators",
+      "dataPublisherSource": null,
+      "link": "http://data.worldbank.org/data-catalog/world-development-indicators",
+      "retrievedDate": "13th June 2018",
+      "additionalInfo": "Data on the total size of urban populations living in slums was calculated by Our World in Data based on metrics published within the World Bank, World Development Indicators: 'Urban population (total)' and '% urban population living in slums'.\n\nPopulation living in slums is the proportion of the urban population living in slum households. A slum household is defined as a group of individuals living under the same roof lacking one or more of the following conditions: access to improved water, access to improved sanitation, sufficient living area, and durability of housing."
+    }
+  ],
+  "owidTags": [
+    "Urbanization"
+  ],
+  "resources": [
+    {
+      "path": "Urban population living in slums (WB WDI).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Urban population living in slums",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Urban population not living in slums",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
