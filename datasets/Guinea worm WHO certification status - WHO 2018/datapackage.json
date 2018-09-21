@@ -1,0 +1,42 @@
+{
+  "name": "Guinea worm WHO certification status - WHO 2018",
+  "title": "Guinea worm WHO certification status - WHO 2018",
+  "id": 2077,
+  "description": "",
+  "sources": [
+    {
+      "name": "World Health Organization (2018)",
+      "dataPublishedBy": "World Health Organization",
+      "dataPublisherSource": "Own certification process",
+      "link": "http://apps.who.int/dracunculiasis/dradata/html/report_Countries_t0.html",
+      "retrievedDate": "9 February 2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Eradication of Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Guinea worm WHO certification status - WHO 2018.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Guinea worm certification status (WHO 2018)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
