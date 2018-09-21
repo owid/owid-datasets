@@ -1,0 +1,108 @@
+{
+  "name": "UK electricity production by source - DECC (2016)",
+  "title": "UK electricity production by source - DECC (2016)",
+  "id": 953,
+  "description": "Data originally published by UK Department for Energy and Climate Change (DECC) in 2013. Data updated by UK Department for Business, Energy & Industrial Strategy in 2017.\r\n\r\n'Other fuels' refers to additional sources including coke, coke oven gas, blast furnace gas, waste products from chemical processes, refuse derived fuels, and other renewables.",
+  "sources": [
+    {
+      "name": "UK electricity production by source - DECC (2016)",
+      "dataPublishedBy": "UK Department for Energy and Climate Change (DECC). Historical electricity data: 1920 to 2016.",
+      "dataPublisherSource": null,
+      "link": "https://www.gov.uk/government/statistical-data-sets/historical-electricity-data-1920-to-2011",
+      "retrievedDate": "06/10/2017",
+      "additionalInfo": "Data originally published by UK Department for Energy and Climate Change (DECC) in 2013. Data updated by UK Department for Business, Energy & Industrial Strategy in 2017.\r\n\r\n'Other fuels' refers to additional sources including coke, coke oven gas, blast furnace gas, waste products from chemical processes, refuse derived fuels, and other renewables."
+    }
+  ],
+  "owidTags": [
+    "Energy Production & Changing Energy Sources"
+  ],
+  "resources": [
+    {
+      "path": "UK electricity production by source - DECC (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total electricity production (DECC (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Coal (DECC (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "terrawatt-hours",
+              "shortUnit": "TWh",
+              "conversionFactor": 11.63
+            }
+          },
+          {
+            "name": "Oil (DECC (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "terrawatt-hours",
+              "shortUnit": "TWh",
+              "conversionFactor": 11.63
+            }
+          },
+          {
+            "name": "Gas (DECC (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Nuclear (DECC (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "terrawatt-hours",
+              "shortUnit": "TWh",
+              "conversionFactor": 11.63
+            }
+          },
+          {
+            "name": "Natural flow hydropower (DECC (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "terrawatt-hours",
+              "shortUnit": "TWh",
+              "conversionFactor": 11.63
+            }
+          },
+          {
+            "name": "Wind and solar (DECC (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "terrawatt-hours",
+              "shortUnit": "TWh",
+              "conversionFactor": 11.63
+            }
+          },
+          {
+            "name": "Other fuels (DECC (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "terrawatt-hours",
+              "shortUnit": "TWh",
+              "conversionFactor": 11.63
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
