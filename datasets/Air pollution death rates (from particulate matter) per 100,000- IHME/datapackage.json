@@ -1,0 +1,44 @@
+{
+  "name": "Air pollution death rates (from particulate matter) per 100,000- IHME",
+  "title": "Air pollution death rates (from particulate matter) per 100,000- IHME",
+  "id": 400,
+  "description": "",
+  "sources": [
+    {
+      "name": "Air pollution death rates (from particulate matter) per 100,000- IHME",
+      "dataPublishedBy": "Institute for Health Metrics and Evaluation (IHME), 2016",
+      "dataPublisherSource": "Global Burden of Disease Study 2015. Global Burden of Disease Study 2015 (GBD 2015)",
+      "link": "http://vizhub.healthdata.org/gbd-compare/",
+      "retrievedDate": "18/04/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Air Pollution"
+  ],
+  "resources": [
+    {
+      "path": "Air pollution death rates (from particulate matter) per 100,000- IHME.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Air pollution death rates (from particulate matter) per 100,000- IHME",
+            "type": "any",
+            "description": "Age-standardized air pollution death rates (from particulate matter) per 100,000- IHME",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
