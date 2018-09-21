@@ -1,0 +1,54 @@
+{
+  "name": "Prevalence of alcohol drinking in the USA - CDC",
+  "title": "Prevalence of alcohol drinking in the USA - CDC",
+  "id": 2706,
+  "description": "\"Binge drinking is defined as a pattern of alcohol consumption that brings the blood alcohol concentration (BAC) level to 0.08% or more. This pattern of drinking usually corresponds to 5 or more drinks on a single occasion for men or 4 or more drinks on a single occasion for women, generally within about 2 hours.\"\n\n\"For men, heavy drinking is typically defined as consuming 15 drinks or more per week. For women, heavy drinking is typically defined as consuming 8 drinks or more per week.\"",
+  "sources": [
+    {
+      "name": "Prevalence of alcohol drinking in the USA - CDC",
+      "dataPublishedBy": "Centers for Disease Control and Prevention (CDC)",
+      "dataPublisherSource": null,
+      "link": "https://www.cdc.gov/alcoholportal/index.html",
+      "retrievedDate": null,
+      "additionalInfo": "\"Binge drinking is defined as a pattern of alcohol consumption that brings the blood alcohol concentration (BAC) level to 0.08% or more. This pattern of drinking usually corresponds to 5 or more drinks on a single occasion for men or 4 or more drinks on a single occasion for women, generally within about 2 hours.\"\n\n\"For men, heavy drinking is typically defined as consuming 15 drinks or more per week. For women, heavy drinking is typically defined as consuming 8 drinks or more per week.\""
+    }
+  ],
+  "owidTags": [
+    "Alcohol Consumption"
+  ],
+  "resources": [
+    {
+      "path": "Prevalence of alcohol drinking in the USA - CDC.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Binge drinking",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Heavy drinking",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Adults who drank in last 30 days",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
