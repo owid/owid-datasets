@@ -1,0 +1,68 @@
+{
+  "name": "Poverty Measures - World Bank (WDI) (2017)",
+  "title": "Poverty Measures - World Bank (WDI) (2017)",
+  "id": 346,
+  "description": "Definitions.\r\n\r\nThis dataset has two different sets of variables concerning poverty: (i) Poverty Headcount Ratio and (ii) Poverty Gap. In turn, these are measured with respect to two different 'poverty lines': (a) 1.90$ a day and (b) 3.10$ a day. Poverty headcount ratio is a proxy for the 'quantity of poverty', while poverty gap represents the 'intensity of poverty'. A more detailed definition of these two variables is available here. (https://ourworldindata.org/extreme-poverty/#key-definitions).\r\n\r\nConsumption per capita is the preferred welfare indicator for the World Bank’s analysis of global poverty. But not all national statistical agencies report to the World Bank consistent estimates of consumption based on expenditure surveys. For about 25% of the countries, estimates correspond to income, rather than consumption. \r\n\r\nAs a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions. \r\n\r\n \r\n\r\nData and Methodology.\r\n\r\nAccording to the World Bank's definition: \"PovcalNet is an interactive computational tool that allows you to replicate the calculations made by the World Bank's researchers in estimating the extent of absolute poverty in the world\".\r\n\r\nData are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet. (http://iresearch.worldbank.org/PovcalNet/methodology.aspx).\r\n\r\nPovcalNet data are updated annually. Details on how the new version differs from the previous one can be found here. (http://iresearch.worldbank.org/PovcalNet/whatIsNew.aspx)",
+  "sources": [
+    {
+      "name": "Poverty  - World Bank (WDI) (2017)",
+      "dataPublishedBy": "World Bank - World Development Indicator (WDI)",
+      "dataPublisherSource": "World Bank (Development Research Group). PovcalNet",
+      "link": "http://data.worldbank.org/topic/poverty?name_desc=false",
+      "retrievedDate": "07/02/2017",
+      "additionalInfo": "Definitions.\r\n\r\nThis dataset has two different sets of variables concerning poverty: (i) Poverty Headcount Ratio and (ii) Poverty Gap. In turn, these are measured with respect to two different 'poverty lines': (a) 1.90$ a day and (b) 3.10$ a day. Poverty headcount ratio is a proxy for the 'quantity of poverty', while poverty gap represents the 'intensity of poverty'. A more detailed definition of these two variables is available here. (https://ourworldindata.org/extreme-poverty/#key-definitions).\r\n\r\nConsumption per capita is the preferred welfare indicator for the World Bank’s analysis of global poverty. But not all national statistical agencies report to the World Bank consistent estimates of consumption based on expenditure surveys. For about 25% of the countries, estimates correspond to income, rather than consumption. \r\n\r\nAs a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions. \r\n\r\n \r\n\r\nData and Methodology.\r\n\r\nAccording to the World Bank's definition: \"PovcalNet is an interactive computational tool that allows you to replicate the calculations made by the World Bank's researchers in estimating the extent of absolute poverty in the world\".\r\n\r\nData are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet. (http://iresearch.worldbank.org/PovcalNet/methodology.aspx).\r\n\r\nPovcalNet data are updated annually. Details on how the new version differs from the previous one can be found here. (http://iresearch.worldbank.org/PovcalNet/whatIsNew.aspx)"
+    }
+  ],
+  "owidTags": [
+    "World Poverty"
+  ],
+  "resources": [
+    {
+      "path": "Poverty Measures - World Bank (WDI) (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Poverty headcount ratio at $1.90 a day (2011 PPP) by country, income group and region (World Bank (WDI) (2017))",
+            "type": "any",
+            "description": "\"Poverty headcount ratio at $1.90 a day is the percentage of the population living on less than $1.90 a day at 2011 international prices\" (World Bank).",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Poverty headcount ratio at $3.10 a day (2011 PPP) by country, income group and region (World Bank (WDI) (2017))",
+            "type": "any",
+            "description": "\"Poverty headcount ratio at $3.10 a day is the percentage of the population living on less than $3.10 a day at 2011 international prices\" (World Bank).",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Poverty gap at $1.90 a day (2011 PPP) by country, income group and region (World Bank (WDI) (2017))",
+            "type": "any",
+            "description": "\"Poverty gap at $1.90 a day (2011 PPP) is the mean shortfall in income or consumption from the poverty line $1.90 a day (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line\" (World Bank).",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Poverty gap at $3.10 a day (2011 PPP) by country, income group and region (World Bank (WDI) (2017))",
+            "type": "any",
+            "description": "\"Poverty gap at $3.10 a day (2011 PPP) is the mean shortfall in income or consumption from the poverty line $3.10 a day (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line.\" (World Bank).",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
