@@ -1,0 +1,42 @@
+{
+  "name": "Total Economy Productivity Growth - OECD",
+  "title": "Total Economy Productivity Growth - OECD",
+  "id": 1844,
+  "description": "Data reports the annual growth rate (%) in productivity, measured as gross domestic product (GDP) per hour worked across all sectors of the economy. Percentage growth data is derived from underlying productivity data measured in 2010 USD PPP. \n\nThe OECD note: \"Productivity is a key driver of economic growth and changes in living standards. Labour productivity growth implies a higher level of output for unit of labour input (hours worked or persons employed). This can be achieved if more capital is used in production or through improved overall efficiency with which labour and capital are used together, i.e., higher multifactor productivity growth (MFP). Productivity is also a key driver of international competitiveness, e.g. as measured by Unit Labour Costs (ULC).\"",
+  "sources": [
+    {
+      "name": "Total Economy Productivity Growth - OECD",
+      "dataPublishedBy": "OECD (2017), \"GDP per capita and productivity growth\", OECD Productivity Statistics (database).",
+      "dataPublisherSource": null,
+      "link": "http://www.oecd-ilibrary.org/employment/data/oecd-productivity-statistics/gdp-per-capita-and-productivity-growth_data-00685-en",
+      "retrievedDate": "2017-11-26",
+      "additionalInfo": "Data reports the annual growth rate (%) in productivity, measured as gross domestic product (GDP) per hour worked across all sectors of the economy. Percentage growth data is derived from underlying productivity data measured in 2010 USD PPP. \n\nThe OECD note: \"Productivity is a key driver of economic growth and changes in living standards. Labour productivity growth implies a higher level of output for unit of labour input (hours worked or persons employed). This can be achieved if more capital is used in production or through improved overall efficiency with which labour and capital are used together, i.e., higher multifactor productivity growth (MFP). Productivity is also a key driver of international competitiveness, e.g. as measured by Unit Labour Costs (ULC).\""
+    }
+  ],
+  "owidTags": [
+    "Wages & Other Measures of Income"
+  ],
+  "resources": [
+    {
+      "path": "Total Economy Productivity Growth - OECD.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Annual productivity growth rate",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}

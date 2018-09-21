@@ -1,0 +1,5 @@
+# Total Economy Productivity Growth - OECD
+
+Data reports the annual growth rate (%) in productivity, measured as gross domestic product (GDP) per hour worked across all sectors of the economy. Percentage growth data is derived from underlying productivity data measured in 2010 USD PPP. 
+
+The OECD note: "Productivity is a key driver of economic growth and changes in living standards. Labour productivity growth implies a higher level of output for unit of labour input (hours worked or persons employed). This can be achieved if more capital is used in production or through improved overall efficiency with which labour and capital are used together, i.e., higher multifactor productivity growth (MFP). Productivity is also a key driver of international competitiveness, e.g. as measured by Unit Labour Costs (ULC)."
