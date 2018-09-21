@@ -1,0 +1,42 @@
+{
+  "name": "J. Doyne Farmer and François Lafond (2016)",
+  "title": "J. Doyne Farmer and François Lafond (2016)",
+  "id": 247,
+  "description": "",
+  "sources": [
+    {
+      "name": "J. Doyne Farmer and François Lafond (2016)",
+      "dataPublishedBy": "This dataset is from J. Doyne Farmer and François Lafond (2016) – How predictable is technological progress? In Research Policy Volume 45, Issue 3, April 2016, Pages 647–665 http://www.sciencedirect.com/science/article/pii/S0048733315001699",
+      "dataPublisherSource": null,
+      "link": "The original research paper is open access available at: http://www.sciencedirect.com/science/article/pii/S0048733315001699",
+      "retrievedDate": "The authors of the dataset provided the data to Max Roser on 7 July 2016",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Quality of Technology"
+  ],
+  "resources": [
+    {
+      "path": "J. Doyne Farmer and François Lafond (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "J. Doyne Farmer and François Lafond (2016)",
+            "type": "any",
+            "description": "Costs of technologies",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
