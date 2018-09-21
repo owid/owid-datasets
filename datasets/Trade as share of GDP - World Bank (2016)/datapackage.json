@@ -1,0 +1,44 @@
+{
+  "name": "Trade as share of GDP - World Bank (2016)",
+  "title": "Trade as share of GDP - World Bank (2016)",
+  "id": 145,
+  "description": "The World Bank is using data from the World Bank national accounts data, and OECD National Accounts data files.",
+  "sources": [
+    {
+      "name": "Trade as share of GDP - World Bank (2016)",
+      "dataPublishedBy": "World Bank",
+      "dataPublisherSource": "World Development Indicators",
+      "link": "http://data.worldbank.org/indicator/NE.TRD.GNFS.ZS",
+      "retrievedDate": "05/01/2016",
+      "additionalInfo": "The World Bank is using data from the World Bank national accounts data, and OECD National Accounts data files."
+    }
+  ],
+  "owidTags": [
+    "International Trade"
+  ],
+  "resources": [
+    {
+      "path": "Trade as share of GDP - World Bank (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Trade as share of GDP (World Bank (2016))",
+            "type": "any",
+            "description": "Trade measured as a percentage of GDP. ",
+            "owidDisplaySettings": {
+              "unit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
