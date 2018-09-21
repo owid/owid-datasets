@@ -1,0 +1,54 @@
+{
+  "name": "Share of employment in the financial sector (GGDC, 2017)",
+  "title": "Share of employment in the financial sector (GGDC, 2017)",
+  "id": 1882,
+  "description": "Population data taken from World Bank Health Nutrition and Population Statistics",
+  "sources": [
+    {
+      "name": "Groningen Growth and Development Centre (2017)",
+      "dataPublishedBy": "Groningen Growth and Development Centre (2017)",
+      "dataPublisherSource": "National governments' statistics (for more information see https://www.rug.nl/ggdc/docs/10sector_sm_jan2015.pdf)",
+      "link": "https://www.rug.nl/ggdc/productivity/10-sector/",
+      "retrievedDate": "7 December 2017",
+      "additionalInfo": "Population data taken from World Bank Health Nutrition and Population Statistics"
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Share of employment in the financial sector (GGDC, 2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of workers in financial sector (GGDC, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of population in financial sector (GGDC, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of workers in financial sector",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
