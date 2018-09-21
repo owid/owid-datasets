@@ -1,0 +1,54 @@
+{
+  "name": "Deaths from Smalllpox and all causes in London 1629-1902",
+  "title": "Deaths from Smalllpox and all causes in London 1629-1902",
+  "id": 1874,
+  "description": "1629-1881: Guy, W. (1882). Two Hundred and Fifty Years of Small Pox in London. Journal Of The Statistical Society Of London, 45(3), 399.\n1882-1885: Registrar-general. (1886). Summary of Weekly Returns (Annual Summary) of (marriages) Births, Deaths and Causes of Death in London and other great towns. Eyre and Spottiswoode\n1886-1887: Registrar-general. (1888). Summary of Weekly Returns (Annual Summary) of (marriages) Births, Deaths and Causes of Death in London and other great towns. Eyre and Spottiswoode\n1888-1899: Registrar-general. (1900). Summary of Weekly Returns (Annual Summary) of (marriages) Births, Deaths and Causes of Death in London and other great towns. Eyre and Spottiswoode\n1900-1902: Registrar-general. (1903). Summary of Weekly Returns (Annual Summary) of (marriages) Births, Deaths and Causes of Death in London and other great towns. Eyre and Spottiswoode",
+  "sources": [
+    {
+      "name": "Our World in Data (2017)",
+      "dataPublishedBy": "Our World in Data (compiled by Sophie Ochmann)",
+      "dataPublisherSource": "Guy (1882) and several years of the Registrar General of births, deaths, and marriages in England",
+      "link": "http://www.jstor.org/stable/2979319",
+      "retrievedDate": "4 December 2017",
+      "additionalInfo": "1629-1881: Guy, W. (1882). Two Hundred and Fifty Years of Small Pox in London. Journal Of The Statistical Society Of London, 45(3), 399.\n1882-1885: Registrar-general. (1886). Summary of Weekly Returns (Annual Summary) of (marriages) Births, Deaths and Causes of Death in London and other great towns. Eyre and Spottiswoode\n1886-1887: Registrar-general. (1888). Summary of Weekly Returns (Annual Summary) of (marriages) Births, Deaths and Causes of Death in London and other great towns. Eyre and Spottiswoode\n1888-1899: Registrar-general. (1900). Summary of Weekly Returns (Annual Summary) of (marriages) Births, Deaths and Causes of Death in London and other great towns. Eyre and Spottiswoode\n1900-1902: Registrar-general. (1903). Summary of Weekly Returns (Annual Summary) of (marriages) Births, Deaths and Causes of Death in London and other great towns. Eyre and Spottiswoode"
+    }
+  ],
+  "owidTags": [
+    "Eradication of Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Deaths from Smalllpox and all causes in London 1629-1902.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Deaths from Smallpox",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Deaths from all causes",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Smallpox death rate",
+            "type": "any",
+            "description": "Deaths from smallpox per 100 deaths from all causes",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
