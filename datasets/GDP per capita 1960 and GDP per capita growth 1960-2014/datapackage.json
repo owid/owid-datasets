@@ -1,0 +1,48 @@
+{
+  "name": "GDP per capita 1960 and GDP per capita growth 1960-2014",
+  "title": "GDP per capita 1960 and GDP per capita growth 1960-2014",
+  "id": 1894,
+  "description": "",
+  "sources": [
+    {
+      "name": "Penn World Table 9.0 (2016)",
+      "dataPublishedBy": "Sophie Ochmann (Our World in Data)",
+      "dataPublisherSource": "Penn World Table 9.0",
+      "link": "https://www.rug.nl/ggdc/",
+      "retrievedDate": "5 January 2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "GDP per capita 1960 and GDP per capita growth 1960-2014.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Real GDP in 1960 at chained PPPs in 2011 US$ (Penn World Table 9.0 (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Real GDP growth 1960-2014 at chained PPPs in 2011 US$ (Penn World Table 9.0 (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
