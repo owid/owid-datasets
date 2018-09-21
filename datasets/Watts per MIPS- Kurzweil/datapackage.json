@@ -1,0 +1,45 @@
+{
+  "name": "Watts per MIPS- Kurzweil",
+  "title": "Watts per MIPS- Kurzweil",
+  "id": 1855,
+  "description": "Computing efficiency is measured as the number of watts used per computation/operation per second. Here it is measured in Watts per MIPS (Millions of instructions per second). ",
+  "sources": [
+    {
+      "name": "Watts per MIPS - Ray Kurzweil",
+      "dataPublishedBy": "Ray Kurzweil (2005, updated to 2015). The Singularity Is Near: When Humans Transcend Biology.",
+      "dataPublisherSource": null,
+      "link": "http://www.singularity.com/charts/page129.html",
+      "retrievedDate": "2017-12-01",
+      "additionalInfo": "Computing efficiency is measured as the number of watts used per computation/operation per second. Here it is measured in Watts per MIPS (Millions of instructions per second). "
+    }
+  ],
+  "owidTags": [
+    "Technological Progress"
+  ],
+  "resources": [
+    {
+      "path": "Watts per MIPS- Kurzweil.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Computing efficiency",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Watts per MIPS",
+              "shortUnit": "W per MIPS"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
