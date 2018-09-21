@@ -1,0 +1,44 @@
+{
+  "name": "Life satisfaction – Eurobarometer (2017)",
+  "title": "Life satisfaction – Eurobarometer (2017)",
+  "id": 443,
+  "description": "The Eurobarometer provides estimates for dated surveys. In some years, there are some countries with multiple surveys. In those cases, we provide yearly averages.",
+  "sources": [
+    {
+      "name": "Eurobarometer (2017)",
+      "dataPublishedBy": "Eurobarometer Interactive",
+      "dataPublisherSource": "Public opinion surveys",
+      "link": "http://ec.europa.eu/commfrontoffice/publicopinion/index.cfm/Chart/index",
+      "retrievedDate": "25/04/2017",
+      "additionalInfo": "The Eurobarometer provides estimates for dated surveys. In some years, there are some countries with multiple surveys. In those cases, we provide yearly averages."
+    }
+  ],
+  "owidTags": [
+    "Happiness and Life Satisfaction"
+  ],
+  "resources": [
+    {
+      "path": "Life satisfaction – Eurobarometer (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of people who are happy (Eurobarometer 2017)",
+            "type": "any",
+            "description": "Share of people who say they are 'very satisfied' or 'fairly satisfied' with their life. Full question asks: \"On the whole are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with the life you lead?\"\n",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
