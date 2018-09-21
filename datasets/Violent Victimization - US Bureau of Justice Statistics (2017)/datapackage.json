@@ -1,0 +1,42 @@
+{
+  "name": "Violent Victimization - US Bureau of Justice Statistics (2017)",
+  "title": "Violent Victimization - US Bureau of Justice Statistics (2017)",
+  "id": 981,
+  "description": "",
+  "sources": [
+    {
+      "name": "US Bureau of Justice Statistics – NCVS Victimization Analysis Tool (2017)",
+      "dataPublishedBy": "Bureau of Justice Statistics ",
+      "dataPublisherSource": "NCVS Victimization Analysis Tool",
+      "link": "www.bjs.gov",
+      "retrievedDate": "e.g. 2017-10-24",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Violent Victimization - US Bureau of Justice Statistics (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "US Violent victimization at school (rates per 1000 people 12+) (US Bureau of Justice Statistics (2017))",
+            "type": "any",
+            "description": "Rate of violent victimization, including crimes such as rape, sexual assault, personal robbery, and assault. It covers both attempted and completed crimes at school. It does not include purse snatching or pocket picking. Victimization rates are per 1,000 persons age 12 or older.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
