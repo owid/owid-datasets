@@ -1,0 +1,132 @@
+{
+  "name": "Fatal aviation accidents & fatalties - Aviation Safety Network (ASN)",
+  "title": "Fatal aviation accidents & fatalties - Aviation Safety Network (ASN)",
+  "id": 861,
+  "description": "Data on fatal accidents, hijacking incidents and numbers of fatalities are based on airliners of 14+ passengers, and do not include corporate jet and military transport accidents.\r\n\r\nAir traffic figures are based on the number of airliner flight departures (not the number of passengers) per year.",
+  "sources": [
+    {
+      "name": "Fatal aviation accidents & fatalties - Aviation Safety Network (ASN)",
+      "dataPublishedBy": "Aviation Safety Network (ASN)",
+      "dataPublisherSource": "Information contained in the Aviation Safety Network database is based on information from official sources (authorities, safety boards).",
+      "link": "https://aviation-safety.net/statistics/",
+      "retrievedDate": "2nd January 2017",
+      "additionalInfo": "Data on fatal accidents, hijacking incidents and numbers of fatalities are based on airliners of 14+ passengers, and do not include corporate jet and military transport accidents.\r\n\r\nAir traffic figures are based on the number of airliner flight departures (not the number of passengers) per year."
+    }
+  ],
+  "owidTags": [
+    "Risk of Accidents in Transportation"
+  ],
+  "resources": [
+    {
+      "path": "Fatal aviation accidents & fatalties - Aviation Safety Network (ASN).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Fatal accidents from commercial and non-commercial airliners (ASN)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fatalities from commercial and non-commercial airliners (ASN)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Hijacking incidents (ASN)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fatalties from hijaking incidents (ASN)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fatal accidents from commercial airliners (ASN)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fatalities from commercial airliners (ASN)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of flight departures (ASN)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fatal accidents from passenger-only commercial airliners (ASN)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fatalities from passenger-only commercial airliners (ASN)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fatalities per million flights (ASN)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fatal accidents per million commercial flights (ASN)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Million flights per fatal accident (ASN)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Passengers per year (World Bank)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fatalities per million passengers (ASN)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Million passengers per fatality (ASN)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of flight departures",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
