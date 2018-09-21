@@ -1,0 +1,42 @@
+{
+  "name": "Top marginal income tax rate – Reynolds (2008)",
+  "title": "Top marginal income tax rate – Reynolds (2008)",
+  "id": 303,
+  "description": "Hong Kong’s maximum tax (the “standard rate”) has normally been 15 percent, effectively capping the marginal rate at high income levels (in exchange for no personal exemptions). The highest U.S. tax rate of 39.6 percent after 1993 was reduced to 38.6 percent in 2002 and to 35 percent in 2003.",
+  "sources": [
+    {
+      "name": "Reynolds (2008)",
+      "dataPublishedBy": "Alan Reynolds. \"Marginal Tax Rates.\" The Concise Encyclopedia of Economics. 2008. Library of Economics and Liberty. Retrieved September 22, 2016 from the World Wide Web: http://www.econlib.org/library/Enc/MarginalTaxRates.html",
+      "dataPublisherSource": "PricewaterhouseCoopers; International Bureau of Fiscal Documentation.",
+      "link": "http://www.econlib.org/library/Enc/MarginalTaxRates.html",
+      "retrievedDate": "22/09/2016",
+      "additionalInfo": "Hong Kong’s maximum tax (the “standard rate”) has normally been 15 percent, effectively capping the marginal rate at high income levels (in exchange for no personal exemptions). The highest U.S. tax rate of 39.6 percent after 1993 was reduced to 38.6 percent in 2002 and to 35 percent in 2003."
+    }
+  ],
+  "owidTags": [
+    "Income Tax & Redistribution"
+  ],
+  "resources": [
+    {
+      "path": "Top marginal income tax rate – Reynolds (2008).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Top marginal income tax rate (Reynolds (2008))",
+            "type": "any",
+            "description": "1979; 1990; 2002",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
