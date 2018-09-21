@@ -1,0 +1,42 @@
+{
+  "name": "Homicide Rates - Clio Infra",
+  "title": "Homicide Rates - Clio Infra",
+  "id": 80,
+  "description": "The authors and data collectors are Winny Bierman and Jan Luiten van Zanden. A detailed description can be found at the source: www.clio-infra.eu.",
+  "sources": [
+    {
+      "name": "Clio Infra",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "The authors and data collectors are Winny Bierman and Jan Luiten van Zanden. A detailed description can be found at the source: www.clio-infra.eu."
+    }
+  ],
+  "owidTags": [
+    "Homicides"
+  ],
+  "resources": [
+    {
+      "path": "Homicide Rates - Clio Infra.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Homicide Rate (Clio Infra)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
