@@ -1,0 +1,42 @@
+{
+  "name": "Largest cities by population density - UN Habitat (2014)",
+  "title": "Largest cities by population density - UN Habitat (2014)",
+  "id": 2895,
+  "description": "Data on population density (measured as the population per square kilometre) is provided for the world's largest 100 cities based on population.",
+  "sources": [
+    {
+      "name": "Largest cities by population density - UN Habitat (2014)",
+      "dataPublishedBy": "UN Habitat, Global Urban Observatory (2014)",
+      "dataPublisherSource": "United Nations, Department of Economic and Social Affairs, Population Division (2014). World Urbanization Prospects: The 2014 Revision, CD-ROM Edition",
+      "link": "http://urbandata.unhabitat.org/",
+      "retrievedDate": "24th August 2018",
+      "additionalInfo": "Data on population density (measured as the population per square kilometre) is provided for the world's largest 100 cities based on population."
+    }
+  ],
+  "owidTags": [
+    "Urbanization"
+  ],
+  "resources": [
+    {
+      "path": "Largest cities by population density - UN Habitat (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Population density by city",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
