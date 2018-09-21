@@ -1,0 +1,42 @@
+{
+  "name": "Countries Continents",
+  "title": "Countries Continents",
+  "id": 115,
+  "description": "",
+  "sources": [
+    {
+      "name": "Our World In Data",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Geographic"
+  ],
+  "resources": [
+    {
+      "path": "Countries Continents.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Countries Continents",
+            "type": "any",
+            "description": "Countries and their associated continents.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
