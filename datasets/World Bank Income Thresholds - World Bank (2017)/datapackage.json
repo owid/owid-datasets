@@ -1,0 +1,60 @@
+{
+  "name": "World Bank Income Thresholds - World Bank (2017)",
+  "title": "World Bank Income Thresholds - World Bank (2017)",
+  "id": 932,
+  "description": "The Atlas methodology is used to reduce the impact of exchange rate fluctuations in the cross-country comparison of national incomes.",
+  "sources": [
+    {
+      "name": "World Bank (2017)",
+      "dataPublishedBy": "World Bank, WDI",
+      "dataPublisherSource": "Member countries' statistical agencies.",
+      "link": "http://databank.worldbank.org/data/download/site-content/OGHIST.xls",
+      "retrievedDate": "19/09/2017",
+      "additionalInfo": "The Atlas methodology is used to reduce the impact of exchange rate fluctuations in the cross-country comparison of national incomes."
+    }
+  ],
+  "owidTags": [
+    "GDP Data"
+  ],
+  "resources": [
+    {
+      "path": "World Bank Income Thresholds - World Bank (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Low income (World Bank 2017)",
+            "type": "any",
+            "description": "The low income threshold is calculated using gross national income (GNI) per capita in US$ using the Atlas methodology. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Lower middle income (World Bank 2017)",
+            "type": "any",
+            "description": "The lower middle income threshold is calculated using gross national income (GNI) per capita in US$ using the Atlas methodology. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Upper middle income (World Bank 2017)",
+            "type": "any",
+            "description": "The upper middle income threshold is calculated using gross national income (GNI) per capita in US$ using the Atlas methodology. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "High income (World Bank 2017)",
+            "type": "any",
+            "description": "The high income threshold is calculated using gross national income (GNI) per capita in US$ using the Atlas methodology. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
