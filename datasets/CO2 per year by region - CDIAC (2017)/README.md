@@ -1,0 +1,7 @@
+# CO2 per year by region - CDIAC (2017)
+
+Emissions data have been converted from units of carbon to carbon dioxide (CO2) using a conversion factor of 3.67. Regions denoted "other" are given as regional totals minus emissions from the EU-28, USA, China and India. Here, we have rephrased the general term "bunker (fuels)" as "international aviation and maritime transport" for clarity.
+
+CDIAC denote a "statistical difference" component which has been included in this data. This statistical difference represents the difference between estimated global CO2 emissions and the sum of national totals. Estimates of CO2 emissions show that the global total of emissions is not equal to the sum of emissions from all countries. This is introduced in several cases: emissions within international territories, which are included in global totals but not attributed to individual countries; inconsistent national reporting where global import and export data is imbalanced; and differing treatment of non-fuel uses of hydrocarbons.
+
+Full methodology on global, regional, national and statistical difference estimations can be found in Le Quere et al. (2016): Le Quéré, C., Andrew, R. M., Canadell, J. G., Sitch, S., Korsbakken, J. I., Peters, G. P., ... & Keeling, R. F. (2016). Global carbon budget 2016. Earth System Science Data, 8(2), 605. Available at: doi:10.5194/essd-8-605-2016.
