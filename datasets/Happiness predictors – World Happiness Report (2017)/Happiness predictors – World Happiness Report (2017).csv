@@ -1,0 +1,5 @@
+Entity,Year,Happiness and Log Income (partial correlation) (Clark et al. in World Happiness Report (2017)),Happiness and Years of education  (partial correlation) (Clark et al. in World Happiness Report (2017)),Happiness and Not unemployed  (partial correlation) (Clark et al. in World Happiness Report (2017)),Happiness and Partnered  (partial correlation) (Clark et al. in World Happiness Report (2017)),Happiness and Physical illness  (partial correlation) (Clark et al. in World Happiness Report (2017)),Happiness and Mental illness  (partial correlation) (Clark et al. in World Happiness Report (2017)),Happiness and Gender  (partial correlation with 'Female') (Clark et al. in World Happiness Report (2017))
+Australia,2017,0.09,-0.03,0.04,0.14,-0.17,-0.18,0.08
+Indonesia,2017,0.18,0.05,0.02,0.04,-0.07,-0.07,0.07
+United Kingdom,2017,0.08,0.03,0.03,0.21,-0.06,-0.11,0.11
+United States,2017,0.16,0.05,0.05,0.34,-0.05,-0.21,0.08

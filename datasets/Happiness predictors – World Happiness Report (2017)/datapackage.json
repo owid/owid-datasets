@@ -1,0 +1,92 @@
+{
+  "name": "Happiness predictors – World Happiness Report (2017)",
+  "title": "Happiness predictors – World Happiness Report (2017)",
+  "id": 458,
+  "description": "The variables have been dated 2017 in our dataset, in order to be consistent with the date of publication. However, the underlying data comes from various survey waves, varying by country. The online appendix in the original article provides details regarding actual dates of data collection.",
+  "sources": [
+    {
+      "name": "Clark et al. in World Happiness Report (2017)",
+      "dataPublishedBy": "World Happiness Report",
+      "dataPublisherSource": "Various surveys. Specificaly: USA (BRFSS); Australia (HILDA); Britain (BCS); Indonesia (IFLS)",
+      "link": "http://worldhappiness.report/wp-content/uploads/sites/2/2017/03/HR17-Ch5_w-oAppendix.pdf",
+      "retrievedDate": null,
+      "additionalInfo": "The variables have been dated 2017 in our dataset, in order to be consistent with the date of publication. However, the underlying data comes from various survey waves, varying by country. The online appendix in the original article provides details regarding actual dates of data collection."
+    }
+  ],
+  "owidTags": [
+    "Happiness and Life Satisfaction"
+  ],
+  "resources": [
+    {
+      "path": "Happiness predictors – World Happiness Report (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Happiness and Log Income (partial correlation) (Clark et al. in World Happiness Report (2017))",
+            "type": "any",
+            "description": "Correlation between self-reported life satisfaction and income, after accounting for other variables (years of education, employment, marital status, physical illness, mental illness and gender)",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          },
+          {
+            "name": "Happiness and Years of education  (partial correlation) (Clark et al. in World Happiness Report (2017))",
+            "type": "any",
+            "description": "Correlation between self-reported life satisfaction and education, after accounting for other variables (personal income, employment, marital status, physical illness, mental illness and gender)",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          },
+          {
+            "name": "Happiness and Not unemployed  (partial correlation) (Clark et al. in World Happiness Report (2017))",
+            "type": "any",
+            "description": "Correlation between self-reported life satisfaction and employment status, after accounting for other variables (personal income, education, marital status, physical illness, mental illness and gender)",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          },
+          {
+            "name": "Happiness and Partnered  (partial correlation) (Clark et al. in World Happiness Report (2017))",
+            "type": "any",
+            "description": "Correlation between self-reported life satisfaction and marital status, after accounting for other variables (personal income, education, employment status, physical illness, mental illness and gender)",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          },
+          {
+            "name": "Happiness and Physical illness  (partial correlation) (Clark et al. in World Happiness Report (2017))",
+            "type": "any",
+            "description": "Correlation between self-reported life satisfaction and health status, after accounting for other variables (personal income, education, marital status, employment status, mental illness and gender)",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          },
+          {
+            "name": "Happiness and Mental illness  (partial correlation) (Clark et al. in World Happiness Report (2017))",
+            "type": "any",
+            "description": "Correlation between self-reported life satisfaction and mental illness, after accounting for other variables (personal income, education, marital status, physical illness, employment status and gender)",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          },
+          {
+            "name": "Happiness and Gender  (partial correlation with 'Female') (Clark et al. in World Happiness Report (2017))",
+            "type": "any",
+            "description": "Correlation between self-reported life satisfaction and gender, after accounting for other variables (personal income, education, marital status, employment status, physical illness, mental illness)",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
