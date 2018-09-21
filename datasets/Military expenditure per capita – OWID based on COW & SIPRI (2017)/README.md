@@ -1,0 +1,7 @@
+# Military expenditure per capita – OWID based on COW & SIPRI (2017)
+
+The National Material Capabilities (NMC) dataset, from the Correlates of War (COW) Project, publishes long-run estimates of the military power of countries.
+
+The COW data series on military expenditure ends in 2012 and it is measured in current currency units; specifically British Pounds up to the year 1914, and US Dollars thereafter. This reflects the fact that the COW data was originally intended for cross-country comparisons at specific points in time, rather than for tracking changes in military expenditure over the long-run.
+
+Considering this, at Our World in Data (OWID) we have produced a new dataset, based on the COW data, in order to show military expenditure per capita in a single currency, over the long run. Here is a description of what we have done. First, we have extended the military expenditure series in current US dollars up until 2016, appending data from the Stockholm International Peace Research Institute (SIPRI). Second, we have used exchange rates published by the Bank of England to unify the entire series into nominal US Dollars. And finally, we have  divided these estimates by total population.
