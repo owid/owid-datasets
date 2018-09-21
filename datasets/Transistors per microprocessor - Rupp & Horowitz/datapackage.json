@@ -1,0 +1,42 @@
+{
+  "name": "Transistors per microprocessor - Rupp & Horowitz",
+  "title": "Transistors per microprocessor - Rupp & Horowitz",
+  "id": 1851,
+  "description": "Sourced from Karl Rupp series on microprocessor trend data. Rupp's data for the years prior to 2000 from M. Horowitz, F. Labonte, O. Shacham, K. Olukotun, L. Hammond, and C. Batten. '35 Years of Microprocessor Trend Data'.\n\nThis data also correlates to that published in 'The Singularity Is Near: When Humans Transcend Biology' by Ray Kurzweil up to 2003. Available at: http://www.singularity.com/index.html\n\nWhere data of several microprocessors is given for a single year, we have shown the highest transistor count per chip of that year.\n\nData for 2015 and 2017 have been updated by OurWorldinData based on highest transistor count noted at: https://en.wikipedia.org/wiki/Transistor_count. The 2015 record was set by Oracle's 32-core SPARC M7 (https://www.enterprisetech.com/2014/08/13/oracle-cranks-cores-32-sparc-m7-chip/) and in 2017 by the 32-core AMD Epyc microprocessor.",
+  "sources": [
+    {
+      "name": "Transistors per microprocessor - Rupp & Horowitz",
+      "dataPublishedBy": "Karl Rupp. 40 Years of Microprocessor Trend Data.",
+      "dataPublisherSource": null,
+      "link": "https://www.karlrupp.net/2015/06/40-years-of-microprocessor-trend-data/",
+      "retrievedDate": "2017-11-30",
+      "additionalInfo": "Sourced from Karl Rupp series on microprocessor trend data. Rupp's data for the years prior to 2000 from M. Horowitz, F. Labonte, O. Shacham, K. Olukotun, L. Hammond, and C. Batten. '35 Years of Microprocessor Trend Data'.\n\nThis data also correlates to that published in 'The Singularity Is Near: When Humans Transcend Biology' by Ray Kurzweil up to 2003. Available at: http://www.singularity.com/index.html\n\nWhere data of several microprocessors is given for a single year, we have shown the highest transistor count per chip of that year.\n\nData for 2015 and 2017 have been updated by OurWorldinData based on highest transistor count noted at: https://en.wikipedia.org/wiki/Transistor_count. The 2015 record was set by Oracle's 32-core SPARC M7 (https://www.enterprisetech.com/2014/08/13/oracle-cranks-cores-32-sparc-m7-chip/) and in 2017 by the 32-core AMD Epyc microprocessor."
+    }
+  ],
+  "owidTags": [
+    "Technological Progress"
+  ],
+  "resources": [
+    {
+      "path": "Transistors per microprocessor - Rupp & Horowitz.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Transistors per microprocessor",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
