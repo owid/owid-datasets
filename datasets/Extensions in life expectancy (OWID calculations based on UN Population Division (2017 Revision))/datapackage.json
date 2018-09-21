@@ -1,0 +1,54 @@
+{
+  "name": "Extensions in life expectancy (OWID calculations based on UN Population Division (2017 Revision))",
+  "title": "Extensions in life expectancy (OWID calculations based on UN Population Division (2017 Revision))",
+  "id": 1904,
+  "description": "The increase in life expectancy in 1955 was calculated as follows: Life expectancy in 1955 minus life expectancy in 1950 provides the total increase in life expectancy across this five year interval (x). The increase in life expectancy in hours per day is given by x multiplied by 365 divided by 5x365. This total is then multiplied by 24. The increase in life expectancy in months per year is given by x divided by 5, multiplied by 12.\r\n\r\nThe increase in life expectancy between 1950-2015 has been calculated as follows: Life expectancy in 2015 minus life expectancy in 1950 provides the total increase in years over the 65 year interval (y). The increase in life expectancy in hours per day is given by y multiplied by 365 divided by 65x365. This total is then multiplied by 24. ",
+  "sources": [
+    {
+      "name": "OWID calculations based on UN Population Division (2017 Revision)",
+      "dataPublishedBy": "Diana Beltekian based on UN Population Division (2017 Report)",
+      "dataPublisherSource": "Census data.",
+      "link": "https://esa.un.org/unpd/wpp/Download/Standard/Population/ ",
+      "retrievedDate": "25/07/2017 ",
+      "additionalInfo": "The increase in life expectancy in 1955 was calculated as follows: Life expectancy in 1955 minus life expectancy in 1950 provides the total increase in life expectancy across this five year interval (x). The increase in life expectancy in hours per day is given by x multiplied by 365 divided by 5x365. This total is then multiplied by 24. The increase in life expectancy in months per year is given by x divided by 5, multiplied by 12.\r\n\r\nThe increase in life expectancy between 1950-2015 has been calculated as follows: Life expectancy in 2015 minus life expectancy in 1950 provides the total increase in years over the 65 year interval (y). The increase in life expectancy in hours per day is given by y multiplied by 365 divided by 65x365. This total is then multiplied by 24. "
+    }
+  ],
+  "owidTags": [
+    "Life Expectancy"
+  ],
+  "resources": [
+    {
+      "path": "Extensions in life expectancy (OWID calculations based on UN Population Division (2017 Revision)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Increase in life expectancy by hours per day (OWID calculations based on UN Population Division (2017 Revision))",
+            "type": "any",
+            "description": "Increase in life expectancy by hours per day, calculated over five year intervals.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Increase in life expectancy by months per year (OWID calculations based on UN Population Division (2017 Revision))",
+            "type": "any",
+            "description": "Increase in life expectancy by months per year, calculated over five year intervals.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Increase in life expectancy (hours per day) between 1950-2015 (OWID calculations based on UN Population Division (2017 Revision))",
+            "type": "any",
+            "description": "Increase in life expectancy by hours per day, calculated for the period 1950-2015. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# Extensions in life expectancy (OWID calculations based on UN Population Division (2017 Revision))
+
+The increase in life expectancy in 1955 was calculated as follows: Life expectancy in 1955 minus life expectancy in 1950 provides the total increase in life expectancy across this five year interval (x). The increase in life expectancy in hours per day is given by x multiplied by 365 divided by 5x365. This total is then multiplied by 24. The increase in life expectancy in months per year is given by x divided by 5, multiplied by 12.
+
+The increase in life expectancy between 1950-2015 has been calculated as follows: Life expectancy in 2015 minus life expectancy in 1950 provides the total increase in years over the 65 year interval (y). The increase in life expectancy in hours per day is given by y multiplied by 365 divided by 65x365. This total is then multiplied by 24. 
