@@ -1,0 +1,108 @@
+{
+  "name": "How Europeans spend their time - European Commission (2004)",
+  "title": "How Europeans spend their time - European Commission (2004)",
+  "id": 2821,
+  "description": "Ten European countries, Belgium, Germany, Estonia, France, Hungary, Slovenia, Finland, Sweden, the United Kingdom, and Norway are included because the survey methods used closely followed the <a href=\"http://ec.europa.eu/eurostat/ramon/statmanuals/files/KS-RA-08-014-EN.pdf\" rel=\"noopener\" target=\"_blank\">Guidelines on Harmonised European Time Use Surveys</a> published in September 2000. Therefore, results are considered to be comparable. \n\nA representative sample of individuals completed a diary during one weekday and one weekend day distributed over the whole year. ",
+  "sources": [
+    {
+      "name": "European Commission (2004) - How Europeans spend their time - Everyday life of men and women - Data 1998-2002",
+      "dataPublishedBy": "Eurostat",
+      "dataPublisherSource": "National time use surveys, HETUS",
+      "link": "2004 edition: http://ec.europa.eu/eurostat/web/products-pocketbooks/-/KS-58-04-998 and 2005 edition: http://ec.europa.eu/eurostat/documents/3888793/5833013/KS-CC-05-001-EN.PDF/5af70d49-9012-444d-b6a0-f28a7677d8e4",
+      "retrievedDate": "20/06/2018",
+      "additionalInfo": "Ten European countries, Belgium, Germany, Estonia, France, Hungary, Slovenia, Finland, Sweden, the United Kingdom, and Norway are included because the survey methods used closely followed the <a href=\"http://ec.europa.eu/eurostat/ramon/statmanuals/files/KS-RA-08-014-EN.pdf\" rel=\"noopener\" target=\"_blank\">Guidelines on Harmonised European Time Use Surveys</a> published in September 2000. Therefore, results are considered to be comparable. \n\nA representative sample of individuals completed a diary during one weekday and one weekend day distributed over the whole year. "
+    }
+  ],
+  "owidTags": [
+    "Working Hours"
+  ],
+  "resources": [
+    {
+      "path": "How Europeans spend their time - European Commission (2004).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Free time, women (European Commission (2004))",
+            "type": "any",
+            "description": "All other kinds of activities are included here, e.g. volunteer work and meetings, helping other households, socialising and entertainment, sports and outdoor activities, hobbies and games, reading, watching television, resting or doing nothing, as well as unspecified time use.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Meals, personal care, women (European Commission (2004))",
+            "type": "any",
+            "description": "Meals, snacks and drinks, dressing, personal hygiene, making up, shaving, sexual activities and personal healthcare.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Sleep, women (European Commission (2004))",
+            "type": "any",
+            "description": "Sleep during night or daytime, waiting for sleep, naps, as well as passive lying in bed because of sickness.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Travel, women (European Commission (2004))",
+            "type": "any",
+            "description": "Commuting and trips connected with all kinds of activities, except travel during working hours.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Domestic work, women (European Commission (2004))",
+            "type": "any",
+            "description": "Housework, child and adult care, gardening and pet care, construction and repairs, shopping and services, and household management.\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gainful work, study, women (European Commission (2004))",
+            "type": "any",
+            "description": "Time spent on main and second jobs and related activities, breaks and travel during working hours, and job seeking. The time spent on study at school and during free time is combined with gainful work.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Free time, men (European Commission (2004))",
+            "type": "any",
+            "description": "All other kinds of activities are included here, e.g. volunteer work and meetings, helping other households, socialising and entertainment, sports and outdoor activities, hobbies and games, reading, watching television, resting or doing nothing, as well as unspecified time use.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Meals, personal care, men (European Commission (2004))",
+            "type": "any",
+            "description": "Meals, snacks and drinks, dressing, personal hygiene, making up, shaving, sexual activities and personal healthcare.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Sleep, men (European Commission (2004))",
+            "type": "any",
+            "description": "Sleep during night or daytime, waiting for sleep, naps, as well as passive lying in bed because of sickness.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Travel, men (European Commission (2004))",
+            "type": "any",
+            "description": "Commuting and trips connected with all kinds of activities, except travel during working hours.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Domestic work, men (European Commission (2004))",
+            "type": "any",
+            "description": "Housework, child and adult care, gardening and pet care, construction and repairs, shopping and services, and household management.\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gainful work, study, men (European Commission (2004))",
+            "type": "any",
+            "description": "Time spent on main and second jobs and related activities, breaks and travel during working hours, and job seeking. The time spent on study at school and during free time is combined with gainful work.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
