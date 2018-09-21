@@ -1,0 +1,45 @@
+{
+  "name": "Food Prices expressed in hourly wages - U.S. Bureau of Labor Statistics (2015)",
+  "title": "Food Prices expressed in hourly wages - U.S. Bureau of Labor Statistics (2015)",
+  "id": 132,
+  "description": "",
+  "sources": [
+    {
+      "name": " U.S. Bureau of Labor Statistics (2015)",
+      "dataPublishedBy": "U.S. Bureau of Labor Statistics, Consumer Expenditure Survey",
+      "dataPublisherSource": "Own calculations by Max Roser: Hourly wage in manufacturing divided by price of ",
+      "link": "http://www.bls.gov/opub/uscs/2002-03.pdf",
+      "retrievedDate": "01/09/2015",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Food Prices"
+  ],
+  "resources": [
+    {
+      "path": "Food Prices expressed in hourly wages - U.S. Bureau of Labor Statistics (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Food Prices expressed in hourly wages (U.S. Bureau of Labor Statistics (2015))",
+            "type": "any",
+            "description": "Units of food that can be bought, per hour of work, in the manufacturing sector. ",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
