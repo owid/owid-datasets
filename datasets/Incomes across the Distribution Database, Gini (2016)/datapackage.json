@@ -1,0 +1,52 @@
+{
+  "name": "Incomes across the Distribution Database, Gini (2016)",
+  "title": "Incomes across the Distribution Database, Gini (2016)",
+  "id": 318,
+  "description": "",
+  "sources": [
+    {
+      "name": "Incomes across the Distribution Database, Gini (2016)",
+      "dataPublishedBy": "Incomes across the Distribution Database",
+      "dataPublisherSource": "The data source for the Incomes Across the Distribution Database is LIS microdata: Luxembourg Income Study (LIS) Database, http://www.lisdatacenter.org (multiple countries; Micro data runs for multiple countries completed in September 2015.). Luxembourg: LIS.",
+      "link": "https://ourworldindata.org/incomes-across-the-distribution/",
+      "retrievedDate": "01/11/2016",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Income Inequality"
+  ],
+  "resources": [
+    {
+      "path": "Incomes across the Distribution Database, Gini (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Gini equivalised disposable household income entire pop (Incomes across the Distribution Database (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Gini equivalised market household income entire pop (Incomes across the Distribution Database (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
