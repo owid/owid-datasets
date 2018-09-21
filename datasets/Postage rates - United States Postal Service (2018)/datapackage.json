@@ -1,0 +1,63 @@
+{
+  "name": "Postage rates - United States Postal Service (2018)",
+  "title": "Postage rates - United States Postal Service (2018)",
+  "id": 2720,
+  "description": "Postage rate refers to 1/2 ounces for 1863 and 1883. 1885 onward postage rates refer to 1 ounce letters. Two observations were reported for 1981, the average of the two observations is reported.\n\nThe real postage rates were calculated: \n\nReal postage rate = Nominal postage rate / ( Price Index / 100 )\n\nReal rates for stamped cards and postcards, and domestic letters were calculated using the annual consumer price index for the United States, available at: https://www.measuringworth.com/datasets/uscpi/\nFull reference: Samuel H. Williamson, \"The Annual Consumer Price Index for the United States, 1774-Present,\" MeasuringWorth, 2018. ",
+  "sources": [
+    {
+      "name": "Letter postage - United States Postal Service",
+      "dataPublishedBy": "United States Postal Service",
+      "dataPublisherSource": "Historical data",
+      "link": "https://about.usps.com/who-we-are/postal-history/domestic-letter-rates-since-1863.pdf",
+      "retrievedDate": "04/04/2018",
+      "additionalInfo": "Postage rate refers to 1/2 ounces for 1863 and 1883. 1885 onward postage rates refer to 1 ounce letters. Two observations were reported for 1981, the average of the two observations is reported.\n\nThe real postage rates were calculated: \n\nReal postage rate = Nominal postage rate / ( Price Index / 100 )\n\nReal rates for stamped cards and postcards, and domestic letters were calculated using the annual consumer price index for the United States, available at: https://www.measuringworth.com/datasets/uscpi/\nFull reference: Samuel H. Williamson, \"The Annual Consumer Price Index for the United States, 1774-Present,\" MeasuringWorth, 2018. "
+    }
+  ],
+  "owidTags": [
+    "Communication Technology & Mobile Phone"
+  ],
+  "resources": [
+    {
+      "path": "Postage rates - United States Postal Service (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Nominal rates for domestic letters (United States Postal Service (2018))",
+            "type": "any",
+            "description": "Nominal postage rates for domestic letters (in cents).",
+            "owidDisplaySettings": {
+              "unit": "cents",
+              "shortUnit": "cents"
+            }
+          },
+          {
+            "name": "Nominal rates for stamped cards and postcards (United States Postal Service (2018))",
+            "type": "any",
+            "description": "Nominal postage rates for stamped cards and postcards (in cents).",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Real rates for stamped cards and postcards (United States Postal Service (2018))",
+            "type": "any",
+            "description": "Real postage rates for stamped cards and postcards (in cents).",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Real rates for domestic letters (United States Postal Service (2018))",
+            "type": "any",
+            "description": "Real postage rates for domestic letters (in cents).",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
