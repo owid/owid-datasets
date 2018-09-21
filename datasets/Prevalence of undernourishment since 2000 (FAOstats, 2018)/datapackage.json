@@ -1,0 +1,48 @@
+{
+  "name": "Prevalence of undernourishment since 2000 (FAOstats, 2018)",
+  "title": "Prevalence of undernourishment since 2000 (FAOstats, 2018)",
+  "id": 2965,
+  "description": "Estimated prevalence and total number of undernourished individuals as reported by the UN Food and Agriculture Organization (FAO).\n\nData is based on its latest statistics on FAOstats (http://www.fao.org/faostat/en/#data/FS). This data extends from the year 2000 through to 2016 at national levels, and 2017 estimates by region and at the global level.\n\nFigures at the national level are reported as 3-year averages; here we have allocated these figures to the mid-year. For example, the UN FAO reports national data for \"2014-2016\" which we allocate to the year 2015.\n\nSome data, particularly for high-income countries, is not reported by the UN FAO. This is often the case for countries where the prevalence of undernourishment is less than 2.5% of the total population.",
+  "sources": [
+    {
+      "name": "Prevalence of undernourishment since 2000 (FAOstats, 2018)",
+      "dataPublishedBy": "Food and Agriculture Organization (FAO) of the United Nations",
+      "dataPublisherSource": null,
+      "link": "http://www.fao.org/faostat/en/#data/FS",
+      "retrievedDate": "20th September 2018",
+      "additionalInfo": "Estimated prevalence and total number of undernourished individuals as reported by the UN Food and Agriculture Organization (FAO).\n\nData is based on its latest statistics on FAOstats (http://www.fao.org/faostat/en/#data/FS). This data extends from the year 2000 through to 2016 at national levels, and 2017 estimates by region and at the global level.\n\nFigures at the national level are reported as 3-year averages; here we have allocated these figures to the mid-year. For example, the UN FAO reports national data for \"2014-2016\" which we allocate to the year 2015.\n\nSome data, particularly for high-income countries, is not reported by the UN FAO. This is often the case for countries where the prevalence of undernourishment is less than 2.5% of the total population."
+    }
+  ],
+  "owidTags": [
+    "Hunger & Undernourishment"
+  ],
+  "resources": [
+    {
+      "path": "Prevalence of undernourishment since 2000 (FAOstats, 2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Prevalence of undernourishment",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of people who are undernourished (millions)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
