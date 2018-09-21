@@ -1,0 +1,42 @@
+{
+  "name": "Intercontinental Trade - Costa, Palma and Reis (2015)",
+  "title": "Intercontinental Trade - Costa, Palma and Reis (2015)",
+  "id": 136,
+  "description": "Citation: Costa, Palma and Reis (2015). The Great Escape? The Contribution of the Empire to Portugal's Economic Growth, 1500-1800. European Review of Economic History (2015) 19 (1): 1-22",
+  "sources": [
+    {
+      "name": "Costa, Palma and Reis (2015)",
+      "dataPublishedBy": "Nuno Palma",
+      "dataPublisherSource": "Costa, Palma and Reis (2015)",
+      "link": "http://ereh.oxfordjournals.org/content/19/1/1.abstract",
+      "retrievedDate": "09/12/2015",
+      "additionalInfo": "Citation: Costa, Palma and Reis (2015). The Great Escape? The Contribution of the Empire to Portugal's Economic Growth, 1500-1800. European Review of Economic History (2015) 19 (1): 1-22"
+    }
+  ],
+  "owidTags": [
+    "International Trade"
+  ],
+  "resources": [
+    {
+      "path": "Intercontinental Trade - Costa, Palma and Reis (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Intercontinental trade, 1500-1800 (Costa, Palma and Reis (2015))",
+            "type": "any",
+            "description": "Intercontinental trade betwen 1500-1800 in £ per capita in constant prices of 1700",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
