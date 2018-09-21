@@ -1,0 +1,42 @@
+{
+  "name": "ODA for scholarships - OECD",
+  "title": "ODA for scholarships - OECD",
+  "id": 1931,
+  "description": "Scholarships are defined as: \"Financial aid awards for individual students and contributions to trainees. The beneficiary students and trainees are nationals of developing countries. Financial aid awards include bilateral grants to students registered for systematic instruction in private or public institutions of higher education to follow full-time studies or training courses in the donor country. Estimated tuition costs of students attending schools financed by the donor but not receiving individual grants are not included here, but under item imputed student costs. Training costs relate to contributions for trainees from developing countries receiving mainly non-academic, practical or vocational training in the donor country.\"\n\nMore information on this metric is available at: https://unstats.un.org/sdgs/metadata/files/Metadata-04-0B-01.pdf\n",
+  "sources": [
+    {
+      "name": "ODA for scholarships - OECD",
+      "dataPublishedBy": "Organisation for Economic Co-operation and Development (OECD)",
+      "dataPublisherSource": null,
+      "link": "http://www.oecd.org/dac/stats",
+      "retrievedDate": "28th January 2018",
+      "additionalInfo": "Scholarships are defined as: \"Financial aid awards for individual students and contributions to trainees. The beneficiary students and trainees are nationals of developing countries. Financial aid awards include bilateral grants to students registered for systematic instruction in private or public institutions of higher education to follow full-time studies or training courses in the donor country. Estimated tuition costs of students attending schools financed by the donor but not receiving individual grants are not included here, but under item imputed student costs. Training costs relate to contributions for trainees from developing countries receiving mainly non-academic, practical or vocational training in the donor country.\"\n\nMore information on this metric is available at: https://unstats.un.org/sdgs/metadata/files/Metadata-04-0B-01.pdf\n"
+    }
+  ],
+  "owidTags": [
+    "Financing of Education"
+  ],
+  "resources": [
+    {
+      "path": "ODA for scholarships - OECD.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Gross disbursements of total ODA for scholarships",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
