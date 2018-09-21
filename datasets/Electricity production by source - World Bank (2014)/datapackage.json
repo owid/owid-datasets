@@ -1,0 +1,70 @@
+{
+  "name": "Electricity production by source - World Bank (2014)",
+  "title": "Electricity production by source - World Bank (2014)",
+  "id": 485,
+  "description": "World Bank data derived from IEA Statistics © OECD/IEA 2014 (Available at: http://www.iea.org/stats/index.asp), and World Bank, Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking",
+  "sources": [
+    {
+      "name": "Global electricity production by source - World Bank (2014)",
+      "dataPublishedBy": "World Bank, World Development Indicators (WDI)",
+      "dataPublisherSource": null,
+      "link": "http://data.worldbank.org/indicator",
+      "retrievedDate": "19/05/2017",
+      "additionalInfo": "World Bank data derived from IEA Statistics © OECD/IEA 2014 (Available at: http://www.iea.org/stats/index.asp), and World Bank, Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking"
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "Electricity production by source - World Bank (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Nuclear (% electricity production) (World Bank (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          },
+          {
+            "name": "Renewable electricity (% electricity production) (World Bank (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "local currency"
+            }
+          },
+          {
+            "name": "Nuclear + Renewables (% electricity production) (World Bank (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          },
+          {
+            "name": "Fossil fuels (% electricity production) (World Bank (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Local currency"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
