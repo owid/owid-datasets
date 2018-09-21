@@ -1,0 +1,42 @@
+{
+  "name": "School Attendance – UNESCO (2015)",
+  "title": "School Attendance – UNESCO (2015)",
+  "id": 290,
+  "description": "Complete definitions for the main variables can be found in http://www.unicef.org/infobycountry/stats_popup5.html",
+  "sources": [
+    {
+      "name": "UNESCO UIS (2015)",
+      "dataPublishedBy": "UNESCO (2015)",
+      "dataPublisherSource": "Household surveys such as the Demographic and Health Surveys (DHS) and the Multiple Indicator Cluster Surveys (MICS)",
+      "link": "http://data.uis.unesco.org/#",
+      "retrievedDate": "18/08/2015",
+      "additionalInfo": "Complete definitions for the main variables can be found in http://www.unicef.org/infobycountry/stats_popup5.html"
+    }
+  ],
+  "owidTags": [
+    "Inequality of Education"
+  ],
+  "resources": [
+    {
+      "path": "School Attendance – UNESCO (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Net primary school attendance (UNESCO (2015))",
+            "type": "any",
+            "description": "Percentage of children in the age group that officially corresponds to primary schooling who attend primary school. These data come from national household surveys.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
