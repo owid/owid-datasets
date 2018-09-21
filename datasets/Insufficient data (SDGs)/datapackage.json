@@ -1,0 +1,42 @@
+{
+  "name": "Insufficient data (SDGs)",
+  "title": "Insufficient data (SDGs)",
+  "id": 2797,
+  "description": "",
+  "sources": [
+    {
+      "name": "Insufficient data (SDGs)",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Insufficient data (SDGs).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Insufficient data",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
