@@ -1,0 +1,73 @@
+{
+  "name": "Oil & Gas Production & Consumption in the UK - DECC (2013)",
+  "title": "Oil & Gas Production & Consumption in the UK - DECC (2013)",
+  "id": 952,
+  "description": "Data originally published by UK Department for Energy and Climate Change (DECC) in 2013. Data updated by UK Department for Business, Energy & Industrial Strategy in 2017.\r\n\r\nData measured based on crude oil, including natural gas liquids and feedstocks. Between 1920 and 1962, data includes crude oil from shale oil.\r\n\r\n'Refinery throughput' provides the balance of domestic production, imports and exports.\r\n\r\nData on oil available from: Crude oil and petroleum: production, imports and exports 1890 to 2016. Available at: https://www.gov.uk/government/statistical-data-sets/crude-oil-and-petroleum-production-imports-and-exports-1890-to-2011 [accessed 6th October 2017].\r\n\r\nData on natural gas available from: Historical gas data: gas production and consumption and fuel input 1920 to 2016. Available at: https://www.gov.uk/government/statistical-data-sets/historical-gas-data-gas-production-and-consumption-and-fuel-input-1882-to-2011 [accessed 6th October 2017].",
+  "sources": [
+    {
+      "name": "Oil & Gas Production & Consumption in the UK - DECC (2013)",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "Data originally published by UK Department for Energy and Climate Change (DECC) in 2013. Data updated by UK Department for Business, Energy & Industrial Strategy in 2017.\r\n\r\nData measured based on crude oil, including natural gas liquids and feedstocks. Between 1920 and 1962, data includes crude oil from shale oil.\r\n\r\n'Refinery throughput' provides the balance of domestic production, imports and exports.\r\n\r\nData on oil available from: Crude oil and petroleum: production, imports and exports 1890 to 2016. Available at: https://www.gov.uk/government/statistical-data-sets/crude-oil-and-petroleum-production-imports-and-exports-1890-to-2011 [accessed 6th October 2017].\r\n\r\nData on natural gas available from: Historical gas data: gas production and consumption and fuel input 1920 to 2016. Available at: https://www.gov.uk/government/statistical-data-sets/historical-gas-data-gas-production-and-consumption-and-fuel-input-1882-to-2011 [accessed 6th October 2017]."
+    }
+  ],
+  "owidTags": [
+    "Fossil Fuels"
+  ],
+  "resources": [
+    {
+      "path": "Oil & Gas Production & Consumption in the UK - DECC (2013).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Oil Imports (DECC (2013))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Domestic oil production (DECC (2013))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "name": "Crude oil production",
+              "unit": "tonnes",
+              "shortUnit": "t",
+              "conversionFactor": 1000
+            }
+          },
+          {
+            "name": "Oil Exports (DECC (2013))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Oil refinery throughput (DECC (2013))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Natural gas consumption (DECC (2013))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "shortUnit": "GWh"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
