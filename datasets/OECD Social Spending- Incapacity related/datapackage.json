@@ -1,0 +1,46 @@
+{
+  "name": "OECD Social Spending- Incapacity related",
+  "title": "OECD Social Spending- Incapacity related",
+  "id": 476,
+  "description": "Dimension of social spending given as the percentage of a country's gross domestic product (%GDP)",
+  "sources": [
+    {
+      "name": "OECD Social Spending- Incapacity related",
+      "dataPublishedBy": "Organisation for Economic Co-operation and Development (OECD)",
+      "dataPublisherSource": null,
+      "link": "http://stats.oecd.org/Index.aspx?datasetcode=SOCX_AGG",
+      "retrievedDate": "17/05/2017",
+      "additionalInfo": "Dimension of social spending given as the percentage of a country's gross domestic product (%GDP)"
+    }
+  ],
+  "owidTags": [
+    "Social Spending"
+  ],
+  "resources": [
+    {
+      "path": "OECD Social Spending- Incapacity related.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Incapacity related",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "name": "Solar PV Module Cost",
+              "unit": "2016 $ per watt-peak (2016 $/Wp)",
+              "shortUnit": "$/W"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
