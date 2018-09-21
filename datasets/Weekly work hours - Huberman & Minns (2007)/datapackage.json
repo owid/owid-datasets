@@ -1,0 +1,44 @@
+{
+  "name": "Weekly work hours - Huberman & Minns (2007)",
+  "title": "Weekly work hours - Huberman & Minns (2007)",
+  "id": 234,
+  "description": "",
+  "sources": [
+    {
+      "name": "Huberman & Minns (2007)",
+      "dataPublishedBy": "Huberman & Minns (2007) – The times they are not changin’: Days and hours of work in Old and New Worlds, 1870–2000. Explorations in Economic History, 44(4):538–567.",
+      "dataPublisherSource": "The original sources according to Hubermann & Minns (2007): 1870–1913: Huberman (2004); 1929–1938, ILO (1934–38), except for Canada (Ostry and Zaidi, 1972), U.S. (Jones, 1963 and Owen, 1988), and for Australia (Butlin, 1977); the values for Spain in 1938 are for 1936; 1950–1980: ILO (1950–80), except for U.S. (McGratten and Rogerson, 2004), and Australia ( Butlin, 1977); 1980–2000: ILO (2005), except for U.S. (McGratten and Rogerson, 2004), Canada (Heisz and LaRochelle-Côté, 2003), and Denmark (Eurostat, 1995).",
+      "link": "The paper is online here http://www.sciencedirect.com/science/article/pii/S0014498307000058",
+      "retrievedDate": null,
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Working Hours"
+  ],
+  "resources": [
+    {
+      "path": "Weekly work hours - Huberman & Minns (2007).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Full-time production workers (male and female) in non-agricultural activities (Weekly Work Hours) (Huberman & Minns (2007)) ",
+            "type": "any",
+            "description": "Data refers to full-time production workers (male and female) in non-agricultural activities. Only for 2000 Huberman & Minns give estimates for both genders separately. The average of the two measures have been calculated and visualised. ",
+            "owidDisplaySettings": {
+              "name": "Weekly Work Hours – Full-time production workers in non-agricultural activities"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
