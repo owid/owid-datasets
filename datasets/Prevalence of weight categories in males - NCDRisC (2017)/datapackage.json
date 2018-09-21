@@ -1,0 +1,66 @@
+{
+  "name": "Prevalence of weight categories in males - NCDRisC (2017)",
+  "title": "Prevalence of weight categories in males - NCDRisC (2017)",
+  "id": 587,
+  "description": "Body Mass Index (BMI) is a person's weight in kilograms (kg) divided by his or her height in meters squared (m2). The WHO define a BMI <=18.5 as 'underweight'; 18.5 to <25 as 'normal/healthy'; 25.0 to <30 as 'overweight'; and >30.0 as 'obese'.\n\nNCD Risk Factor Collaboration (NCD-RisC) is a network of health scientists around the world that provides rigorous and timely data on risk factors for non-communicable diseases (NCDs) for 200 countries and territories. The group works closely with the World Health Organisation (WHO), through the WHO Collaborating Centre on NCD Surveillance and Epidemiology at Imperial College London. NCD-RisC pools high-quality population-based data using advanced statistical methods, designed specifically for analysing NCD risk factors. The Collaboration currently has data from over 2,000 population-based surveys from 189 countries since 1957, with nearly 25 million participants whose risk factor levels have been measured.",
+  "sources": [
+    {
+      "name": "Prevalence of weight categories in males - NCDRisC (2017)",
+      "dataPublishedBy": "NCD Risk Factor Collaboration (NCD-RisC) Database",
+      "dataPublisherSource": null,
+      "link": "http://www.ncdrisc.org/index.html",
+      "retrievedDate": "20/07/2017",
+      "additionalInfo": "Body Mass Index (BMI) is a person's weight in kilograms (kg) divided by his or her height in meters squared (m2). The WHO define a BMI <=18.5 as 'underweight'; 18.5 to <25 as 'normal/healthy'; 25.0 to <30 as 'overweight'; and >30.0 as 'obese'.\n\nNCD Risk Factor Collaboration (NCD-RisC) is a network of health scientists around the world that provides rigorous and timely data on risk factors for non-communicable diseases (NCDs) for 200 countries and territories. The group works closely with the World Health Organisation (WHO), through the WHO Collaborating Centre on NCD Surveillance and Epidemiology at Imperial College London. NCD-RisC pools high-quality population-based data using advanced statistical methods, designed specifically for analysing NCD risk factors. The Collaboration currently has data from over 2,000 population-based surveys from 189 countries since 1957, with nearly 25 million participants whose risk factor levels have been measured."
+    }
+  ],
+  "owidTags": [
+    "Obesity & BMI"
+  ],
+  "resources": [
+    {
+      "path": "Prevalence of weight categories in males - NCDRisC (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Underweight (NCDRisC (2017))",
+            "type": "any",
+            "description": "Share of men (% of adult population), who are underweight based on body mass index (BMI)",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Healthy (NCDRisC (2017))",
+            "type": "any",
+            "description": "Share of men (% of adult population), who are healthy/normal based on body mass index (BMI)",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Overweight (NCDRisC (2017))",
+            "type": "any",
+            "description": "Share of men (% of adult population), who are overweight based on body mass index (BMI)",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Obese (NCDRisC (2017))",
+            "type": "any",
+            "description": "Share of men (% of adult population), who are obese based on body mass index (BMI)",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Overweight or Obese (NCDRisC (2017))",
+            "type": "any",
+            "description": "Share of men (% of adult population), who are overweight or obese based on body mass index (BMI)",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
