@@ -1,0 +1,42 @@
+{
+  "name": "Son preference in education - World Values Survey (2014)",
+  "title": "Son preference in education - World Values Survey (2014)",
+  "id": 2778,
+  "description": "Share of people who say they are 'agree' or 'strongly agree' with the statement  \"A university education is more important for a boy than for a girl\". Possible answers include 'Strongly Agree', 'Agree', 'Disagree', 'Strongly Disagree' and 'Don't Know'. Our estimates exclude those answering 'Don't Know'.\n\nThe methodology followed for constructing the variable is as follows:\n<ul>\n<li>Created a dichotomous son preference variable, combining responses of strongly agree (strongly disagree), and agree (disagree)., where 1=agree and 0=disagree </li>\n<li>Generated a variable for the number of respondents in each country, by survey year </li>\n<li>Summed to give the total number of people who 'agree' or 'strongly agree' with the above statement and the total number of surveyed responses, for each country in each year </li>\n<li>Calculated the % of respondents who agree university is more important for boys = (number of people who agree or strongly agree with the statement / number of respondents) * 100 </li>\n</ul>\nNote: For India in 2014, we have used the WVS Online Data Analysis tool to overwrite the initial value obtained from our methodology using the longitudinal dataset as it appears to be too high (62.14%) when comparing it with the WVS estimates (38.50%). It has been calculated as follows: % who strongly agree or agree university education for boys is more important than for girls = ((761+676)/3732)*100. This estimate also excludes those answering 'Don't Know'.\n\nThe number of survey respondents varies from country-to-country and year-to-year. Therefore, comparisons across countries should be made with caution.\n\nFull reference: WORLD VALUES SURVEY 1981-2014 LONGITUDINAL AGGREGATE v.20150418. World Values Survey Association (www.worldvaluessurvey.org). Aggregate File Producer: JDSystems, Madrid SPAIN.",
+  "sources": [
+    {
+      "name": "World Values Survey (2014)",
+      "dataPublishedBy": "WORLD VALUES SURVEY 1981-2014 LONGITUDINAL AGGREGATE v.20150418. World Values Survey Association (www.worldvaluessurvey.org). Aggregate File Producer: JDSystems, Madrid SPAIN.",
+      "dataPublisherSource": "Survey",
+      "link": "http://www.worldvaluessurvey.org/WVSDocumentationWVL.jsp WVS Online Data Analysis tool: http://www.worldvaluessurvey.org/WVSOnline.jsp",
+      "retrievedDate": "30/04/2018",
+      "additionalInfo": "Share of people who say they are 'agree' or 'strongly agree' with the statement  \"A university education is more important for a boy than for a girl\". Possible answers include 'Strongly Agree', 'Agree', 'Disagree', 'Strongly Disagree' and 'Don't Know'. Our estimates exclude those answering 'Don't Know'.\n\nThe methodology followed for constructing the variable is as follows:\n<ul>\n<li>Created a dichotomous son preference variable, combining responses of strongly agree (strongly disagree), and agree (disagree)., where 1=agree and 0=disagree </li>\n<li>Generated a variable for the number of respondents in each country, by survey year </li>\n<li>Summed to give the total number of people who 'agree' or 'strongly agree' with the above statement and the total number of surveyed responses, for each country in each year </li>\n<li>Calculated the % of respondents who agree university is more important for boys = (number of people who agree or strongly agree with the statement / number of respondents) * 100 </li>\n</ul>\nNote: For India in 2014, we have used the WVS Online Data Analysis tool to overwrite the initial value obtained from our methodology using the longitudinal dataset as it appears to be too high (62.14%) when comparing it with the WVS estimates (38.50%). It has been calculated as follows: % who strongly agree or agree university education for boys is more important than for girls = ((761+676)/3732)*100. This estimate also excludes those answering 'Don't Know'.\n\nThe number of survey respondents varies from country-to-country and year-to-year. Therefore, comparisons across countries should be made with caution.\n\nFull reference: WORLD VALUES SURVEY 1981-2014 LONGITUDINAL AGGREGATE v.20150418. World Values Survey Association (www.worldvaluessurvey.org). Aggregate File Producer: JDSystems, Madrid SPAIN."
+    }
+  ],
+  "owidTags": [
+    "Economic Gender & Race Differences"
+  ],
+  "resources": [
+    {
+      "path": "Son preference in education - World Values Survey (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Son preference in education (%) (WVS (2014))",
+            "type": "any",
+            "description": "Share of people who say they are 'agree' or 'strongly agree' with the statement  \"A university education is more important for a boy than for a girl\". Possible answers include 'Strongly Agree', 'Agree', 'Disagree', 'Strongly Disagree' and 'Don't Know'. Our estimates exclude those answering 'Don't Know'.\n\n% who agree university is more important for boys = (number of respondents who agree or strongly agree with the statement / number of respondents) *100. \n\nFor India in 2014, we have used the WVS Online Data Analysis tool to overwrite the initial value obtained from our methodology using the longitudinal dataset as it appears to be too high (62.14%) when comparing it with the WVS estimates (38.50%). It has been calculated as follows: % who strongly agree or agree university education for boys is more important than for girls = ((761+676)/3732)*100. This estimate also excludes those answering 'Don't Know'.\n\nNote the number of survey respondents vary country-to-country and year-by-year. Hence, cross-country comparisons should be made with caution. See the sources tab for more details on the methodology followed to construct this variable. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
