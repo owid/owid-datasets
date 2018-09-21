@@ -1,0 +1,44 @@
+{
+  "name": "Motor vehicles per 1000 people - NationMaster (2014)",
+  "title": "Motor vehicles per 1000 people - NationMaster (2014)",
+  "id": 394,
+  "description": "\"All countries compared for Transport > Road > Motor vehicles per 1000 people\", Wikipedia: List of countries by vehicles per capita. Aggregates compiled by NationMaster. Retrieved from http://www.nationmaster.com/country-info/stats/Transport/Road/Motor-vehicles-per-1000-people",
+  "sources": [
+    {
+      "name": "NationMaster (2014)",
+      "dataPublishedBy": "NationMaster",
+      "dataPublisherSource": "Data aggregated based on national and regional reports and census data",
+      "link": "http://www.nationmaster.com/country-info/stats/Transport/Road/Motor-vehicles-per-1000-people",
+      "retrievedDate": "17/04/2017",
+      "additionalInfo": "\"All countries compared for Transport > Road > Motor vehicles per 1000 people\", Wikipedia: List of countries by vehicles per capita. Aggregates compiled by NationMaster. Retrieved from http://www.nationmaster.com/country-info/stats/Transport/Road/Motor-vehicles-per-1000-people"
+    }
+  ],
+  "owidTags": [
+    "Vehicles, Public Transport & Street Lights"
+  ],
+  "resources": [
+    {
+      "path": "Motor vehicles per 1000 people - NationMaster (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Motor vehicles per 1000 people (NationMaster (2014))",
+            "type": "any",
+            "description": "Number of private motor vehicles per 1000 people in 2014 by country. 'Motor vehicle' includes automobiles, SUVs, trucks, vans, buses, commercial vehicles and freight motor road vehicles. This data excludes motorcycles and other two-wheelers.\r\n\r\n",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
