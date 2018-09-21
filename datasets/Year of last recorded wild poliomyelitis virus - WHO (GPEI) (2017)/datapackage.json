@@ -1,0 +1,42 @@
+{
+  "name": "Year of last recorded wild poliomyelitis virus - WHO (GPEI) (2017)",
+  "title": "Year of last recorded wild poliomyelitis virus - WHO (GPEI) (2017)",
+  "id": 914,
+  "description": "In three countries polio remains endemic today: Afghanistan, Nigeria and Pakistan. \n\nSwitzerland's data point was missing in the original dataset and was obtained from the WHO (2017) time series dataset \"Reported Cases of Selected Vaccine Preventable Diseases (VPDs)\" which can be found under point \"3.1 Reported incidence time series\" here: http://www.who.int/immunization/monitoring_surveillance/data/en/ \n\nSomalia was listed twice in the GPEI table, so again the WHO (2017) dataset cited above was consulted to make out which year was in fact the correct information. \n\nTimor's datapoint originally read \"pre 1985\" and was replaced with 1985 for this visualization.",
+  "sources": [
+    {
+      "name": "World Health Organization, Report of Selected Vaccine Preventable Diseases (2017)",
+      "dataPublishedBy": "Global Poverty Eradication Initiative (2017)",
+      "dataPublisherSource": "The GPEI website does not specify the source(s) of their table.",
+      "link": "http://polioeradication.org/where-we-work/polio-free-countries/",
+      "retrievedDate": "10/09/2017",
+      "additionalInfo": "In three countries polio remains endemic today: Afghanistan, Nigeria and Pakistan. \n\nSwitzerland's data point was missing in the original dataset and was obtained from the WHO (2017) time series dataset \"Reported Cases of Selected Vaccine Preventable Diseases (VPDs)\" which can be found under point \"3.1 Reported incidence time series\" here: http://www.who.int/immunization/monitoring_surveillance/data/en/ \n\nSomalia was listed twice in the GPEI table, so again the WHO (2017) dataset cited above was consulted to make out which year was in fact the correct information. \n\nTimor's datapoint originally read \"pre 1985\" and was replaced with 1985 for this visualization."
+    }
+  ],
+  "owidTags": [
+    "Eradication of Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Year of last recorded wild poliomyelitis virus - WHO (GPEI) (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Year of last polio case (WHO (GPEI) (2017))",
+            "type": "any",
+            "description": "Year of the last recorded case of indigenous wild poliomyelitis virus (excluding polio cases imported from other countries)",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
