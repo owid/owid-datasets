@@ -1,0 +1,126 @@
+{
+  "name": "Time use across activities - OECD Gender data (2018)",
+  "title": "Time use across activities - OECD Gender data (2018)",
+  "id": 2724,
+  "description": "Australia, Belgium, Greece, Hungary, Poland, Sweden, Turkey, China time use estimates are not fully comparable, due to differences in the age of reference. The remaining countries' age of reference are between 15-64.\n\nNote: Data are normalized to 1440 minutes per day. In other words, for those countries for which the time use does not sum up to 1440 minutes, the missing minutes are equally distributed across all activities. \n\nThe survey years also differ amongst the countries included. The second link above includes a breakdown of the minutes spent in sub-activities that make up each of the five activities in this dataset: paid work or study, unpaid work, personal care, leisure, and other (which includes religious/spiritual activities and civic obligations).\n\nSurvey year used by country:\nAustralia\t(2006); Austria\t(2008/09); Belgium (2013); Canada\t(2015); Denmark (2001); Estonia (2009/10); Finland (2009/10); France (2009/10); Germany (2012/13); Greece (2013); Hungary (1999/2000); Ireland (2005); Italy (2013/14); Japan (2016); Korea (2009); Latvia (2003); Mexico (2014); Netherlands (2005/06); New Zealand (2009/10); Norway (2010/11); Poland\t(2013); Portugal (1999); Slovenia (2000/01); Spain (2009/10); Sweden (2010); Turkey (2014/15); UK (2014/15); US (2016); OECD 28 (no date); China (2008); India (1998/99); South Africa (2010).\n\nOECD estimates based on national time use surveys. Methodological documentation on national time-use surveys used for the estimates is in Miranda V. (2011) \"Cooking, Caring and Volunteering: Unpaid Work Around the World\" available at: https://www.oecd-ilibrary.org/social-issues-migration-health/cooking-caring-and-volunteering-unpaid-work-around-the-world_5kghrjm8s142-en",
+  "sources": [
+    {
+      "name": "OECD Gender Data (2018)",
+      "dataPublishedBy": "OECD",
+      "dataPublisherSource": "OECD based on national time use surveys",
+      "link": "http://www.oecd.org/gender/data/balancingpaidworkunpaidworkandleisure.htm and excel document: http://www.oecd.org/gender/data/OECD_1564_TUSupdatePortal.xlsx",
+      "retrievedDate": "05/04/2018",
+      "additionalInfo": "Australia, Belgium, Greece, Hungary, Poland, Sweden, Turkey, China time use estimates are not fully comparable, due to differences in the age of reference. The remaining countries' age of reference are between 15-64.\n\nNote: Data are normalized to 1440 minutes per day. In other words, for those countries for which the time use does not sum up to 1440 minutes, the missing minutes are equally distributed across all activities. \n\nThe survey years also differ amongst the countries included. The second link above includes a breakdown of the minutes spent in sub-activities that make up each of the five activities in this dataset: paid work or study, unpaid work, personal care, leisure, and other (which includes religious/spiritual activities and civic obligations).\n\nSurvey year used by country:\nAustralia\t(2006); Austria\t(2008/09); Belgium (2013); Canada\t(2015); Denmark (2001); Estonia (2009/10); Finland (2009/10); France (2009/10); Germany (2012/13); Greece (2013); Hungary (1999/2000); Ireland (2005); Italy (2013/14); Japan (2016); Korea (2009); Latvia (2003); Mexico (2014); Netherlands (2005/06); New Zealand (2009/10); Norway (2010/11); Poland\t(2013); Portugal (1999); Slovenia (2000/01); Spain (2009/10); Sweden (2010); Turkey (2014/15); UK (2014/15); US (2016); OECD 28 (no date); China (2008); India (1998/99); South Africa (2010).\n\nOECD estimates based on national time use surveys. Methodological documentation on national time-use surveys used for the estimates is in Miranda V. (2011) \"Cooking, Caring and Volunteering: Unpaid Work Around the World\" available at: https://www.oecd-ilibrary.org/social-issues-migration-health/cooking-caring-and-volunteering-unpaid-work-around-the-world_5kghrjm8s142-en"
+    }
+  ],
+  "owidTags": [
+    "Gender"
+  ],
+  "resources": [
+    {
+      "path": "Time use across activities - OECD Gender data (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Minutes spent on paid work or study - men (OECD Gender data (2018))",
+            "type": "any",
+            "description": "Average minutes men spent on paid work or study out of 24 hours (1440 minutes). Average minutes spent in different activities includes both weekdays and weekends. \n\nIncludes paid work (all jobs), travel to and from work/study, time in school or classes, research/homework, job search, and other paid work or study-related activities. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on unpaid work - men (OECD Gender data (2018))",
+            "type": "any",
+            "description": "Average minutes men spent on unpaid work out of 24 hours (1440 minutes). Average minutes spent in different activities includes both weekdays and weekends. \n\nIncludes routine housework, shopping, care for household members, child care, adult care, care for non-household members, volunteering, travel related to household activities, other unpaid work. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on personal care - men (OECD Gender data (2018))",
+            "type": "any",
+            "description": "Average minutes men spent on personal care out of 24 hours (1440 minutes). Average minutes spent in different activities includes both weekdays and weekends. \n\nPersonal care includes sleeping, eating and drinking, personal, household and medical services, plus travel related to personal care.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on leisure - men (OECD Gender data (2018))",
+            "type": "any",
+            "description": "Average minutes men spent on leisure activities out of 24 hours (1440 minutes). Average minutes spent in different activities includes both weekdays and weekends. \n\nLeisure includes sports, participating/attending events, visiting or entertaining friends,  TV or radio at home, and other leisure activities.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on other activities - men (OECD Gender data (2018))",
+            "type": "any",
+            "description": "Average minutes men spent on other activities out of 24 hours (1440 minutes). Average minutes spent in different activities includes both weekdays and weekends. \n\nOther activities include religious/spiritual activities and civic obligations. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on paid work or study - women (OECD Gender data (2018))",
+            "type": "any",
+            "description": "Average minutes women spent on paid work or study out of 24 hours (1440 minutes). Average minutes spent in different activities includes both weekdays and weekends. \n\nIncludes paid work (all jobs), travel to and from work/study, time in school or classes, research/homework, job search, and other paid work or study-related activities. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on unpaid work - women (OECD Gender data (2018))",
+            "type": "any",
+            "description": "Average minutes women spent on unpaid work out of 24 hours (1440 minutes). Average minutes spent in different activities includes both weekdays and weekends. \n\nIncludes routine housework, shopping, care for household members, child care, adult care, care for non-household members, volunteering, travel related to household activities, other unpaid work. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on personal care - women (OECD Gender data (2018))",
+            "type": "any",
+            "description": "Average minutes women spent on personal care out of 24 hours (1440 minutes). Average minutes spent in different activities includes both weekdays and weekends. \n\nPersonal care includes sleeping, eating and drinking, personal, household and medical services, plus travel related to personal care.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on leisure - women (OECD Gender data (2018))",
+            "type": "any",
+            "description": "Average minutes women spent on leisure activities out of 24 hours (1440 minutes). Average minutes spent in different activities includes both weekdays and weekends.  \n\nLeisure includes sports, participating/attending events, visiting or entertaining friends,  TV or radio at home, and other leisure activities.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on other activities - women (OECD Gender data (2018))",
+            "type": "any",
+            "description": "Average minutes women spent on other activities out of 24 hours (1440 minutes). Average minutes spent in different activities includes both weekdays and weekends. \n\nOther activities include religious/spiritual activities and civic obligations. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on paid work or study - total (OECD Gender data (2018))",
+            "type": "any",
+            "description": "Average minutes spent on paid work or study out of 24 hours (1440 minutes) for individuals in the population aged 15-64. Average minutes spent in different activities includes both weekdays and weekends. \n\nIncludes paid work (all jobs), travel to and from work/study, time in school or classes, research/homework, job search, and other paid work or study-related activities. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on unpaid work - total (OECD Gender data (2018))",
+            "type": "any",
+            "description": "Average minutes spent on unpaid work out of 24 hours (1440 minutes) for individuals in the population aged 15-64. Average minutes spent in different activities includes both weekdays and weekends. \n\nIncludes routine housework, shopping, care for household members, child care, adult care, care for non-household members, volunteering, travel related to household activities, other unpaid work. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on personal care - total (OECD Gender data (2018))",
+            "type": "any",
+            "description": "Average minutes spent on personal care out of 24 hours (1440 minutes) for individuals in the population aged 15-64. Average minutes spent in different activities includes both weekdays and weekends. \n\nPersonal care includes sleeping, eating and drinking, personal, household and medical services, plus travel related to personal care.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on leisure - total (OECD Gender data (2018))",
+            "type": "any",
+            "description": "Average minutes spent on leisure activities out of 24 hours (1440 minutes) for individuals in the population aged 15-64. Average minutes spent in different activities includes both weekdays and weekends. \n\nLeisure includes sports, participating/attending events, visiting or entertaining friends,  TV or radio at home, and other leisure activities.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on other activities - total (OECD Gender data (2018))",
+            "type": "any",
+            "description": "Average minutes spent on other activities out of 24 hours (1440 minutes) for individuals in the population aged 15-64. Average minutes spent in different activities includes both weekdays and weekends. \n\nOther activities include religious/spiritual activities and civic obligations. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
