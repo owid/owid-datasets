@@ -1,0 +1,60 @@
+{
+  "name": "Government spending – World Bank",
+  "title": "Government spending – World Bank",
+  "id": 308,
+  "description": "The source notes: \"For most countries central government finance data have been consolidated into one account, but for others only budgetary central government accounts are available. Countries reporting budgetary data are noted in the country metadata. Because budgetary accounts may not include all central government units (such as social security funds), they usually provide an incomplete picture. In federal states the central government accounts provide an incomplete view of total public finance. Data on government revenue and expense are collected by the IMF through questionnaires to member countries and by the Organisation for Economic Co-operation and Development (OECD). Despite IMF efforts to standardize data collection, statistics are often incomplete, untimely, and not comparable across countries.\"",
+  "sources": [
+    {
+      "name": "Government spending – World Bank",
+      "dataPublishedBy": "World Bank, World Development Indicators",
+      "dataPublisherSource": "International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates.",
+      "link": "http://data.worldbank.org/",
+      "retrievedDate": "19/10/2016",
+      "additionalInfo": "The source notes: \"For most countries central government finance data have been consolidated into one account, but for others only budgetary central government accounts are available. Countries reporting budgetary data are noted in the country metadata. Because budgetary accounts may not include all central government units (such as social security funds), they usually provide an incomplete picture. In federal states the central government accounts provide an incomplete view of total public finance. Data on government revenue and expense are collected by the IMF through questionnaires to member countries and by the Organisation for Economic Co-operation and Development (OECD). Despite IMF efforts to standardize data collection, statistics are often incomplete, untimely, and not comparable across countries.\""
+    }
+  ],
+  "owidTags": [
+    "Public Spending"
+  ],
+  "resources": [
+    {
+      "path": "Government spending – World Bank.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Government spending (%GDP) (World Bank)",
+            "type": "any",
+            "description": "1972-2015",
+            "owidDisplaySettings": {
+              "unit": "%"
+            }
+          },
+          {
+            "name": "Government spending, employee compensation (World Bank)",
+            "type": "any",
+            "description": "1972-2014",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Government spending on interests (World Bank)",
+            "type": "any",
+            "description": "1972-2014",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
