@@ -1,0 +1,52 @@
+{
+  "name": "Households using solid fuels for cooking (Urban vs. Rural) - UN",
+  "title": "Households using solid fuels for cooking (Urban vs. Rural) - UN",
+  "id": 991,
+  "description": "\n\tData presents the percentage of households using solid fuels (wood, crop residues, dung, charcoal, and coal) for cooking by region. This data has been aggregated by urban vs. rural households.\n\n",
+  "sources": [
+    {
+      "name": "Households using solid fuels for cooking (Urban vs. Rural) - UN",
+      "dataPublishedBy": "United Nations Publications (2010). The World's Women 2010: Trends and Statistics.",
+      "dataPublisherSource": "Demographic and Household Surveys (DHS)",
+      "link": "https://unstats.un.org/unsd/demographic/products/Worldswomen/WW2010%20Report_by%20chapter(pdf)/Environment.pdf",
+      "retrievedDate": "2017-11-01",
+      "additionalInfo": "\n\tData presents the percentage of households using solid fuels (wood, crop residues, dung, charcoal, and coal) for cooking by region. This data has been aggregated by urban vs. rural households.\n\n"
+    }
+  ],
+  "owidTags": [
+    "Indoor Air Pollution"
+  ],
+  "resources": [
+    {
+      "path": "Households using solid fuels for cooking (Urban vs. Rural) - UN.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Urban",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "name": "Percentage of urban households using solid fuels for cooking"
+            }
+          },
+          {
+            "name": "Rural",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "name": "Percentage of rural households using solid fuels for cooking"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
