@@ -1,0 +1,42 @@
+{
+  "name": "Child mortality by income level (1960-2012) - World Bank (WDI) (2016)",
+  "title": "Child mortality by income level (1960-2012) - World Bank (WDI) (2016)",
+  "id": 194,
+  "description": "",
+  "sources": [
+    {
+      "name": "World Bank (WDI) (2016)",
+      "dataPublishedBy": "World Bank, World Development Indicators (WDI)",
+      "dataPublisherSource": "Estimates Developed by the UN Inter-agency Group for Child Mortality Estimation (UNICEF, WHO, World Bank, UN DESA Population Division)",
+      "link": "http://data.worldbank.org/indicator/SH.DYN.MORT",
+      "retrievedDate": null,
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Child Mortality"
+  ],
+  "resources": [
+    {
+      "path": "Child mortality by income level (1960-2012) - World Bank (WDI) (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Child mortality by income level (1960-2012) (World Bank (WDI) (2016))",
+            "type": "any",
+            "description": "Mortality rate, under-5 (per 1,000)",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}

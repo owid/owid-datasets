@@ -1,0 +1,256 @@
+Entity,Year,Child mortality by income level (1960-2012) (World Bank (WDI) (2016))
+High income,1960,44.6
+High income,1961,43.1
+High income,1962,41.2
+High income,1963,39.5
+High income,1964,37.7
+High income,1965,35.9
+High income,1966,34.1
+High income,1967,32.5
+High income,1968,30.6
+High income,1969,29.3
+High income,1970,29.9
+High income,1971,28.5
+High income,1972,29.4
+High income,1973,28.1
+High income,1974,26.9
+High income,1975,25.8
+High income,1976,24.6
+High income,1977,23.6
+High income,1978,22.6
+High income,1979,21.7
+High income,1980,20.9
+High income,1981,20.1
+High income,1982,19.4
+High income,1983,18.6
+High income,1984,17.9
+High income,1985,17.3
+High income,1986,16.7
+High income,1987,16.2
+High income,1988,15.6
+High income,1989,15.1
+High income,1990,14.5
+High income,1991,13.8
+High income,1992,13.1
+High income,1993,12.3
+High income,1994,11.6
+High income,1995,11
+High income,1996,10.5
+High income,1997,10.2
+High income,1998,10
+High income,1999,9.9
+High income,2000,9.7
+High income,2001,9.4
+High income,2002,9.1
+High income,2003,8.7
+High income,2004,8.3
+High income,2005,8
+High income,2006,7.8
+High income,2007,7.5
+High income,2008,7.2
+High income,2009,7
+High income,2010,6.7
+High income,2011,6.5
+High income,2012,6.2
+Low income,1961,273.2
+Low income,1962,268.9
+Low income,1963,262.8
+Low income,1964,260.7
+Low income,1965,253.3
+Low income,1966,247.5
+Low income,1967,245.5
+Low income,1968,236.3
+Low income,1969,235.9
+Low income,1970,232.8
+Low income,1971,230.7
+Low income,1972,227.8
+Low income,1973,225.4
+Low income,1974,222.9
+Low income,1975,222
+Low income,1976,218.7
+Low income,1977,215
+Low income,1978,211.1
+Low income,1979,208.3
+Low income,1980,204.1
+Low income,1981,200
+Low income,1982,195.8
+Low income,1983,191.6
+Low income,1984,187.4
+Low income,1985,180
+Low income,1986,176.3
+Low income,1987,173.1
+Low income,1988,170.5
+Low income,1989,168
+Low income,1990,165.6
+Low income,1991,163.2
+Low income,1992,160.5
+Low income,1993,157.8
+Low income,1994,155.6
+Low income,1995,152.1
+Low income,1996,148.5
+Low income,1997,145.4
+Low income,1998,142.3
+Low income,1999,138.4
+Low income,2000,134.2
+Low income,2001,129.7
+Low income,2002,125
+Low income,2003,120.2
+Low income,2004,115.5
+Low income,2005,110.9
+Low income,2006,106.4
+Low income,2007,101.8
+Low income,2008,97.3
+Low income,2009,93.1
+Low income,2010,90.2
+Low income,2011,85.4
+Low income,2012,81.8
+Lower middle income,1960,232.7
+Lower middle income,1961,229
+Lower middle income,1962,229.1
+Lower middle income,1963,224.7
+Lower middle income,1964,220.5
+Lower middle income,1965,216.5
+Lower middle income,1966,212.7
+Lower middle income,1967,208.8
+Lower middle income,1968,205
+Lower middle income,1969,201.4
+Lower middle income,1970,197.6
+Lower middle income,1971,190.7
+Lower middle income,1972,186.7
+Lower middle income,1973,182.5
+Lower middle income,1974,178.1
+Lower middle income,1975,173.7
+Lower middle income,1976,169.1
+Lower middle income,1977,164.7
+Lower middle income,1978,160.5
+Lower middle income,1979,155.8
+Lower middle income,1980,151.6
+Lower middle income,1981,147.5
+Lower middle income,1982,143.6
+Lower middle income,1983,139.9
+Lower middle income,1984,136.4
+Lower middle income,1985,133
+Lower middle income,1986,129.9
+Lower middle income,1987,126.8
+Lower middle income,1988,123.7
+Lower middle income,1989,120.9
+Lower middle income,1990,118.1
+Lower middle income,1991,115.5
+Lower middle income,1992,113
+Lower middle income,1993,110.5
+Lower middle income,1994,108.2
+Lower middle income,1995,105.9
+Lower middle income,1996,103.6
+Lower middle income,1997,101.2
+Lower middle income,1998,98.6
+Lower middle income,1999,95.9
+Lower middle income,2000,93
+Lower middle income,2001,90
+Lower middle income,2002,86.9
+Lower middle income,2003,83.6
+Lower middle income,2004,80.6
+Lower middle income,2005,77.7
+Lower middle income,2006,74.9
+Lower middle income,2007,72.3
+Lower middle income,2008,69.9
+Lower middle income,2009,67.6
+Lower middle income,2010,65.4
+Lower middle income,2011,63.2
+Lower middle income,2012,61.2
+Upper middle income,1969,122.4
+Upper middle income,1970,116.9
+Upper middle income,1971,111.7
+Upper middle income,1972,106.8
+Upper middle income,1973,102
+Upper middle income,1974,97.9
+Upper middle income,1975,93.2
+Upper middle income,1976,88.7
+Upper middle income,1977,84.6
+Upper middle income,1978,80.7
+Upper middle income,1979,76.9
+Upper middle income,1980,74.4
+Upper middle income,1981,70.9
+Upper middle income,1982,67.7
+Upper middle income,1983,64.6
+Upper middle income,1984,61.8
+Upper middle income,1985,59.7
+Upper middle income,1986,58.1
+Upper middle income,1987,56.9
+Upper middle income,1988,56
+Upper middle income,1989,55.1
+Upper middle income,1990,54.3
+Upper middle income,1991,53.3
+Upper middle income,1992,52
+Upper middle income,1993,50.3
+Upper middle income,1994,48.6
+Upper middle income,1995,46.8
+Upper middle income,1996,45
+Upper middle income,1997,43.3
+Upper middle income,1998,41.5
+Upper middle income,1999,39.7
+Upper middle income,2000,37.9
+Upper middle income,2001,36.1
+Upper middle income,2002,34.3
+Upper middle income,2003,32.5
+Upper middle income,2004,30.8
+Upper middle income,2005,29.2
+Upper middle income,2006,27.7
+Upper middle income,2007,26.2
+Upper middle income,2008,24.9
+Upper middle income,2009,23.6
+Upper middle income,2010,22.3
+Upper middle income,2011,21.1
+Upper middle income,2012,20.2
+World,1960,181
+World,1961,179.1
+World,1962,179.7
+World,1963,175.6
+World,1964,173.5
+World,1965,170.6
+World,1966,169.1
+World,1967,168.7
+World,1968,163.3
+World,1969,149.6
+World,1970,144.6
+World,1971,140.6
+World,1972,137.3
+World,1973,133.9
+World,1974,130.5
+World,1975,127.9
+World,1976,125.1
+World,1977,122.6
+World,1978,120.4
+World,1979,118.2
+World,1980,115.7
+World,1981,112.4
+World,1982,109.2
+World,1983,105.8
+World,1984,102.3
+World,1985,99.2
+World,1986,96.7
+World,1987,94.5
+World,1988,92.6
+World,1989,91.1
+World,1990,89.8
+World,1991,88.6
+World,1992,87.5
+World,1993,86.6
+World,1994,85.7
+World,1995,84.5
+World,1996,83.3
+World,1997,81.8
+World,1998,79.9
+World,1999,77.7
+World,2000,75.4
+World,2001,73
+World,2002,70.4
+World,2003,67.8
+World,2004,65.3
+World,2005,62.8
+World,2006,60.3
+World,2007,58
+World,2008,55.7
+World,2009,53.5
+World,2010,51.7
+World,2011,49.6
+World,2012,47.8
