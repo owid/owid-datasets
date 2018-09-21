@@ -1,0 +1,42 @@
+{
+  "name": "Death rates from natural disasters per 100,000",
+  "title": "Death rates from natural disasters per 100,000",
+  "id": 1883,
+  "description": "Disaster-related deaths from EMDAT (OFDA/CRED International Disaster Database) have been normalised by OurWorldinData to global population size based on Gapminder (1900-1949) &  UN (1950 onwards) population estimates. This provides data in terms of deaths per 100,000 people. The population interpolated series used here (with sources) is available for download at: https://ourworldindata.org/world-population-growth/.\n\nThe data presented here includes all categories classified as \"natural disasters\" (distinguished from technological disasters, such as oil spills and industrial accidents). This includes those from drought, floods, biological epidemics, extreme weather, extreme temperature, landslides, dry mass movements, extraterrestrial impacts, wildfires, volcanic activity and earthquakes.\nThe combined set of \"all natural disasters\" also includes disasters defined as \"insect infestations\", however this has not been included as a discrete dataset due to low impact numbers.",
+  "sources": [
+    {
+      "name": "Death rates from natural disasters per 100,000 - EMDAT & UN/Gapminder",
+      "dataPublishedBy": "EMDAT (2017): OFDA/CRED International Disaster Database, Université catholique de Louvain – Brussels – Belgium",
+      "dataPublisherSource": "Census data",
+      "link": "http://www.emdat.be/",
+      "retrievedDate": "2017/12/11",
+      "additionalInfo": "Disaster-related deaths from EMDAT (OFDA/CRED International Disaster Database) have been normalised by OurWorldinData to global population size based on Gapminder (1900-1949) &  UN (1950 onwards) population estimates. This provides data in terms of deaths per 100,000 people. The population interpolated series used here (with sources) is available for download at: https://ourworldindata.org/world-population-growth/.\n\nThe data presented here includes all categories classified as \"natural disasters\" (distinguished from technological disasters, such as oil spills and industrial accidents). This includes those from drought, floods, biological epidemics, extreme weather, extreme temperature, landslides, dry mass movements, extraterrestrial impacts, wildfires, volcanic activity and earthquakes.\nThe combined set of \"all natural disasters\" also includes disasters defined as \"insect infestations\", however this has not been included as a discrete dataset due to low impact numbers."
+    }
+  ],
+  "owidTags": [
+    "Natural Catastrophes"
+  ],
+  "resources": [
+    {
+      "path": "Death rates from natural disasters per 100,000.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Death rate per 100,000",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
