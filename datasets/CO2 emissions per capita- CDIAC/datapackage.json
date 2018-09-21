@@ -1,0 +1,27 @@
+{
+  "name": "CO2 emissions per capita- CDIAC",
+  "title": "CO2 emissions per capita- CDIAC",
+  "id": 378,
+  "description": "",
+  "sources": [],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "CO2 emissions per capita- CDIAC.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          }
+        ]
+      }
+    }
+  ]
+}
