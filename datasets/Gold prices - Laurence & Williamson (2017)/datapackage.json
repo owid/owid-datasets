@@ -1,0 +1,42 @@
+{
+  "name": "Gold prices - Laurence & Williamson (2017)",
+  "title": "Gold prices - Laurence & Williamson (2017)",
+  "id": 701,
+  "description": "Gold prices are based on New York Market Prices, and are measured in US$ per fine ounce.",
+  "sources": [
+    {
+      "name": "Gold prices - Laurence & Williamson (2017)",
+      "dataPublishedBy": "Lawrence H. Officer and Samuel H. Williamson (2017). \"The Price of Gold, 1257-Present,\" MeasuringWorth.",
+      "dataPublisherSource": "Scholarly work. ",
+      "link": "http://www.measuringworth.com/gold/",
+      "retrievedDate": "25/08/2017",
+      "additionalInfo": "Gold prices are based on New York Market Prices, and are measured in US$ per fine ounce."
+    }
+  ],
+  "owidTags": [
+    "Non-Energy Resources"
+  ],
+  "resources": [
+    {
+      "path": "Gold prices - Laurence & Williamson (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Gold (New York Market Price) (Laurence & Williamson (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
