@@ -1,0 +1,54 @@
+{
+  "name": "Newsworthiness of disasters by disaster type and region - Eisensee and Strömberg (2007)",
+  "title": "Newsworthiness of disasters by disaster type and region - Eisensee and Strömberg (2007)",
+  "id": 577,
+  "description": "",
+  "sources": [
+    {
+      "name": "Eisensee and Strömberg (2007)",
+      "dataPublishedBy": "Eisensee and Strömberg (2007)",
+      "dataPublisherSource": "The data was produced using disasters identified and documented by the Centre for Research on the Epidemiology of Disasters (CRED) between 1968 - 2002, and coverage in evening news broadcasts of major US networks as recorded by the Vanderbilt News Archives.",
+      "link": "http://perseus.iies.su.se/~dstro/wpdisasters.pdf",
+      "retrievedDate": "30/06/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Natural Catastrophes"
+  ],
+  "resources": [
+    {
+      "path": "Newsworthiness of disasters by disaster type and region - Eisensee and Strömberg (2007).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share in news (Eisensee and Strömberg 2007)",
+            "type": "any",
+            "description": "This data is derived by considering ~5,000 natural disasters occurring between 1968 and 2002 and corresponding news coverage in major US networks.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fixed effects regression (Eisensee and Strömberg 2007)",
+            "type": "any",
+            "description": "This data is derived by considering ~5,000 natural disasters occurring between 1968 and 2002 and corresponding news coverage in major US networks. Here, it is controlled for the number killed and affected, country, year, and month.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Equal coverage casualties ratio (Eisensee and Strömberg 2007)",
+            "type": "any",
+            "description": "The casualties ratio indicates how many casualties would make media coverage equally likely, all else equal (controlling for: the number killed and affected, country, year, and month).",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
