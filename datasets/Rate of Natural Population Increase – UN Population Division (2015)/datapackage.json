@@ -1,0 +1,44 @@
+{
+  "name": "Rate of Natural Population Increase – UN Population Division (2015)",
+  "title": "Rate of Natural Population Increase – UN Population Division (2015)",
+  "id": 329,
+  "description": "The Rate of Natural Population Increase is the crude birth rate minus the crude death rate. Represents the portion of population growth (or decline) determined exclusively by births and deaths.\r\n\r\n The data refers to the 5 year interval preceding the shown year (e.g. 1955 is '1950 to 1955')\r\n\r\nIn the original dataset it is expressed per 1,000 population annually. Here it is expressed in percentage terms (original value divided by 10).",
+  "sources": [
+    {
+      "name": "Rate of Natural Population Increase – UN Population Division (2015)",
+      "dataPublishedBy": "UN Population Division – 2015 revision",
+      "dataPublisherSource": null,
+      "link": "https://esa.un.org/unpd/wpp/Download/Standard/Population/",
+      "retrievedDate": "20/12/2016",
+      "additionalInfo": "The Rate of Natural Population Increase is the crude birth rate minus the crude death rate. Represents the portion of population growth (or decline) determined exclusively by births and deaths.\r\n\r\n The data refers to the 5 year interval preceding the shown year (e.g. 1955 is '1950 to 1955')\r\n\r\nIn the original dataset it is expressed per 1,000 population annually. Here it is expressed in percentage terms (original value divided by 10)."
+    }
+  ],
+  "owidTags": [
+    "World Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Rate of Natural Population Increase – UN Population Division (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Rate of Natural Population Increase (UN Population Division (2015))",
+            "type": "any",
+            "description": "1950-2015",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
