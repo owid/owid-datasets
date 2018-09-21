@@ -1,0 +1,108 @@
+{
+  "name": "Renewables Patents - IRENA (2016)",
+  "title": "Renewables Patents - IRENA (2016)",
+  "id": 976,
+  "description": "Data reports the annual number of new patents filed under the category of each renewable technology.\r\nAnnual number of patents by technology for the years 2014-2016 was calculated by OWID based on IRENA's cumulative number of patents for each technology in these years (i.e. annual number in 2014 = cumulative total in 2015 minus cumulative total in 2014).\r\n\r\nNote that figures for 2014-16 may be subject to a time lag; processing times of patent applications vary and some patents submitted over this period may not yet be recorded in statistics. These figures will be updated with time if additional patent applications are recorded.\r\n\r\n",
+  "sources": [
+    {
+      "name": "Renewables Patents - IRENA (2016)",
+      "dataPublishedBy": "International Renewable Energy Agency (IRENA) REsource Database",
+      "dataPublisherSource": "EPO PATSTAT Database",
+      "link": "http://resourceirena.irena.org/gateway/dashboard/",
+      "retrievedDate": "20/10/2017",
+      "additionalInfo": "Data reports the annual number of new patents filed under the category of each renewable technology.\r\nAnnual number of patents by technology for the years 2014-2016 was calculated by OWID based on IRENA's cumulative number of patents for each technology in these years (i.e. annual number in 2014 = cumulative total in 2015 minus cumulative total in 2014).\r\n\r\nNote that figures for 2014-16 may be subject to a time lag; processing times of patent applications vary and some patents submitted over this period may not yet be recorded in statistics. These figures will be updated with time if additional patent applications are recorded.\r\n\r\n"
+    }
+  ],
+  "owidTags": [
+    "Renewable Energy"
+  ],
+  "resources": [
+    {
+      "path": "Renewables Patents - IRENA (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Wind",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Solar PV",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Solar Thermal",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Solar PV-Thermal Hybrid",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total solar technologies",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Bioenergy",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Geothermal",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Hydropower",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Marine",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Other",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total patents",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cumulative patents",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
