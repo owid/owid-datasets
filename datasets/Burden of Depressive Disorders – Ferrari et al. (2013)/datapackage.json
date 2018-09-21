@@ -1,0 +1,44 @@
+{
+  "name": "Burden of Depressive Disorders – Ferrari et al. (2013)",
+  "title": "Burden of Depressive Disorders – Ferrari et al. (2013)",
+  "id": 159,
+  "description": "Prevalence of Major Depressive Disorder",
+  "sources": [
+    {
+      "name": "Ferrari et al. (2013)",
+      "dataPublishedBy": "Academic paper published in PLOS",
+      "dataPublisherSource": "Ferrari AJ, Charlson FJ, Norman RE, Patten SB, Freedman G, Murray CJ, et al. (2013) – Burden of Depressive Disorders by Country, Sex, Age, and Year: Findings from the Global Burden of Disease Study 2010. PLoS Med 10(11): e1001547. doi:10.1371/journal.pmed.1001547",
+      "link": "http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001547",
+      "retrievedDate": "27/01/2010",
+      "additionalInfo": "Prevalence of Major Depressive Disorder"
+    }
+  ],
+  "owidTags": [
+    "Mental Health"
+  ],
+  "resources": [
+    {
+      "path": "Burden of Depressive Disorders – Ferrari et al. (2013).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Burden of Depressive Disorders (Ferrari et al. (2013))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "GBP (current) per head"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
