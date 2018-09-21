@@ -1,0 +1,54 @@
+{
+  "name": "Proportion of youth and adults with ICT skills - UNESCO",
+  "title": "Proportion of youth and adults with ICT skills - UNESCO",
+  "id": 1928,
+  "description": "The proportion of youth and adults with information and communications technology (ICT) skills, by type of skill as defined as the percentage of youth (aged 15-24 years) and adults (aged 15 years and above) that have undertaken certain computer-related activities in a given time period (e.g. last three months).\n\nIn this case, it is measured as the share of youth and adults who have ICT skills in creating electronic presentations with presentation software.\n",
+  "sources": [
+    {
+      "name": "Proportion of youth and adults with ICT skills - UNESCO",
+      "dataPublishedBy": "UNESCO Institute for Statistics (UNESCO-UIS)",
+      "dataPublisherSource": null,
+      "link": "https://unstats.un.org/sdgs/indicators/database/?indicator=4.4.1",
+      "retrievedDate": "25th January 2018",
+      "additionalInfo": "The proportion of youth and adults with information and communications technology (ICT) skills, by type of skill as defined as the percentage of youth (aged 15-24 years) and adults (aged 15 years and above) that have undertaken certain computer-related activities in a given time period (e.g. last three months).\n\nIn this case, it is measured as the share of youth and adults who have ICT skills in creating electronic presentations with presentation software.\n"
+    }
+  ],
+  "owidTags": [
+    "Lifelong Education"
+  ],
+  "resources": [
+    {
+      "path": "Proportion of youth and adults with ICT skills - UNESCO.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Both sexes",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Female",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Male",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
