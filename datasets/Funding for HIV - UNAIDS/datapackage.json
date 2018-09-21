@@ -1,0 +1,42 @@
+{
+  "name": "Funding for HIV - UNAIDS",
+  "title": "Funding for HIV - UNAIDS",
+  "id": 2489,
+  "description": "Data denotes the total expenditure for a given country towards HIV/AIDS efforts. This is measured in US$ per year.",
+  "sources": [
+    {
+      "name": "Funding for HIV - UNAIDS",
+      "dataPublishedBy": "UNAIDS",
+      "dataPublisherSource": null,
+      "link": "http://aidsinfoonline.org/",
+      "retrievedDate": "2nd March 2018",
+      "additionalInfo": "Data denotes the total expenditure for a given country towards HIV/AIDS efforts. This is measured in US$ per year."
+    }
+  ],
+  "owidTags": [
+    "HIV / AIDS"
+  ],
+  "resources": [
+    {
+      "path": "Funding for HIV - UNAIDS.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "HIV funding (US$)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
