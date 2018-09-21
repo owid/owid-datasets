@@ -1,0 +1,111 @@
+{
+  "name": "Metal production - Clio Infra & USGS",
+  "title": "Metal production - Clio Infra & USGS",
+  "id": 919,
+  "description": "Data on metal production is based on the combination of two sources.\r\n\r\nHistorical data from 1850-2011 is sourced from the ClioInfra database, available at: https://www.clio-infra.eu/ [accessed 9th September 2017].\r\n\r\nThis has been combined with recent data from the USGS Mineral Statistics from 2012 onwards. Available at: https://minerals.usgs.gov/minerals/pubs/commodity/aluminum/ [accessed 9th September 2017].\r\n\r\nBoth sources report primary production in thousand metric tonnes.\r\nNote: Gold production is measured in metric tons. ",
+  "sources": [
+    {
+      "name": "Metal production - Clio Infra & USGS",
+      "dataPublishedBy": null,
+      "dataPublisherSource": "Historical data, census data, and geological surveys",
+      "link": "https://www.clio-infra.eu/ and https://minerals.usgs.gov/minerals/pubs/commodity/aluminum/ ",
+      "retrievedDate": null,
+      "additionalInfo": "Data on metal production is based on the combination of two sources.\r\n\r\nHistorical data from 1850-2011 is sourced from the ClioInfra database, available at: https://www.clio-infra.eu/ [accessed 9th September 2017].\r\n\r\nThis has been combined with recent data from the USGS Mineral Statistics from 2012 onwards. Available at: https://minerals.usgs.gov/minerals/pubs/commodity/aluminum/ [accessed 9th September 2017].\r\n\r\nBoth sources report primary production in thousand metric tonnes.\r\nNote: Gold production is measured in metric tons. "
+    }
+  ],
+  "owidTags": [
+    "Non-Energy Resources"
+  ],
+  "resources": [
+    {
+      "path": "Metal production - Clio Infra & USGS.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Nickel Production (Clio-Infra & USGS)",
+            "type": "any",
+            "description": "Nickel mine production measured in thousand metric tons. Clio infra data up until 2012 and 2013 onwards uses USGS data.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Tungsten Production (Clio-Infra & USGS)",
+            "type": "any",
+            "description": "Tungsten mine production measured in thousand metric tons. Clio infra data up until 2012 and 2013 onwards uses USGS data.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Zinc Production (Clio-Infra & USGS)",
+            "type": "any",
+            "description": "Zinc mine production (zinc content) measured in thousand metric tons. Clio infra data up until 2012 and 2013 onwards uses USGS data.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Silver Production (Clio-Infra & USGS)",
+            "type": "any",
+            "description": "Silver mine production measured in thousand metric tons. Clio infra data up until 2012 and 2013 onwards uses USGS data.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Bauxite Production (Clio-Infra & USGS)",
+            "type": "any",
+            "description": "Bauxite mine production measured in thousand metric tons. Clio infra data up until 2012 and 2013 onwards uses USGS data.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Iron Ore Production (Clio-Infra & USGS)",
+            "type": "any",
+            "description": "Iron ore mine production measured in thousand metric tons. Clio infra data up until 2012 and 2013 onwards uses USGS data.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gold Production (Clio-Infra & USGS)",
+            "type": "any",
+            "description": "Gold mine production measured in metric tons. Clio infra data up until 2012 and 2013 onwards uses USGS data.",
+            "owidDisplaySettings": {
+              "unit": "metric tons",
+              "shortUnit": "tons"
+            }
+          },
+          {
+            "name": "Tin Production (Clio-Infra & USGS)",
+            "type": "any",
+            "description": "Tin mine production measured in thousand metric tons. Clio infra data up until 2012 and 2013 onwards uses USGS data.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Lead Production (Clio-Infra & USGS)",
+            "type": "any",
+            "description": "Lead mine production (lead content) measured in thousand metric tons. Clio infra data up until 2012 and 2013 onwards uses USGS data.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Copper Production (Clio-Infra & USGS)",
+            "type": "any",
+            "description": "Copper mine production (copper content) measured in thousand metric tons. Clio infra data up until 2012 and 2013 onwards uses USGS data.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Aluminium Production (Clio-Infra & USGS)",
+            "type": "any",
+            "description": "Aluminium production (primary smelter and refinery production) measured in thousand metric tons. Clio infra data up until 2012 and 2013 onwards uses USGS data.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Manganese Production (Clio-Infra & USGS)",
+            "type": "any",
+            "description": "Manganese mine production measured in thousand metric tons. Clio infra data up until 2012 and 2013 onwards uses USGS data.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
