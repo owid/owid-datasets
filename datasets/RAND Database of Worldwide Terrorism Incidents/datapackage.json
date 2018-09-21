@@ -1,0 +1,57 @@
+{
+  "name": "RAND Database of Worldwide Terrorism Incidents",
+  "title": "RAND Database of Worldwide Terrorism Incidents",
+  "id": 134,
+  "description": "Several changes were made to the coding of terrorist incidents:\n\nAzores added to Portugal\nCanary Islands added to Spain\nChechnya added to Russia\nCroatians added to Croatia\nNorthern Ireland added to United Kingdom\nSri Lanka (Ceylon) added to Sri Lanka\nSouth Vietnam added to Vietnam\nTranskei added to South Africa\nTrucial Oman States added to United Arab Emirates\nZimbabwe (Rhodesia) added to Zimbabwe\nWest Bank/Gaza coded to Palestine",
+  "sources": [
+    {
+      "name": "RAND Database of Worldwide Terrorism Incidents",
+      "dataPublishedBy": "RAND Corporation",
+      "dataPublisherSource": "RAND Corporation",
+      "link": "http://www.rand.org/nsrd/projects/terrorism-incidents.html",
+      "retrievedDate": "21/09/2015",
+      "additionalInfo": "Several changes were made to the coding of terrorist incidents:\n\nAzores added to Portugal\nCanary Islands added to Spain\nChechnya added to Russia\nCroatians added to Croatia\nNorthern Ireland added to United Kingdom\nSri Lanka (Ceylon) added to Sri Lanka\nSouth Vietnam added to Vietnam\nTranskei added to South Africa\nTrucial Oman States added to United Arab Emirates\nZimbabwe (Rhodesia) added to Zimbabwe\nWest Bank/Gaza coded to Palestine"
+    }
+  ],
+  "owidTags": [
+    "Terrorism"
+  ],
+  "resources": [
+    {
+      "path": "RAND Database of Worldwide Terrorism Incidents.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Count of terrorist incidents (RAND)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "% of girls ages 10-14",
+              "shortUnit": "%"
+            }
+          },
+          {
+            "name": "Injuries due to terrorism (RAND)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fatalities due to terrorism (RAND)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
