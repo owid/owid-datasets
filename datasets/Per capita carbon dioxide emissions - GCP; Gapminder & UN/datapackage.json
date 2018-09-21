@@ -1,0 +1,42 @@
+{
+  "name": "Per capita carbon dioxide emissions - GCP; Gapminder & UN",
+  "title": "Per capita carbon dioxide emissions - GCP; Gapminder & UN",
+  "id": 2493,
+  "description": "Per capita carbon dioxide emissions were derived based on total national CO₂ emissions per year from the Global Carbon Project, divided by population figures from Gapminder and the UN.\n\nCO₂ emissions sourced from Le Quéré et al. (2017). Global Carbon Project. Data has been converted from million tonnes of carbon to million tonnes of carbon dioxide (CO₂) using a conversion factor of 3.664. Available at: http://www.globalcarbonproject.org/carbonbudget/17/data.htm.\n\nPopulation data based on our combined population series (https://ourworldindata.org/grapher/population-by-country-gapminder+un); this is based on Gapminder (http://www.gapminder.org/) figures until 1949, and UN thereafter (https://esa.un.org/unpd/wpp/Download/Standard/Population/).\n",
+  "sources": [
+    {
+      "name": "Per capita CO₂ emissions (Global Carbon Project; Gapminder; UN)",
+      "dataPublishedBy": "OWID based on the Global Carbon Project, Gapminder and UN population estimates",
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "Per capita carbon dioxide emissions were derived based on total national CO₂ emissions per year from the Global Carbon Project, divided by population figures from Gapminder and the UN.\n\nCO₂ emissions sourced from Le Quéré et al. (2017). Global Carbon Project. Data has been converted from million tonnes of carbon to million tonnes of carbon dioxide (CO₂) using a conversion factor of 3.664. Available at: http://www.globalcarbonproject.org/carbonbudget/17/data.htm.\n\nPopulation data based on our combined population series (https://ourworldindata.org/grapher/population-by-country-gapminder+un); this is based on Gapminder (http://www.gapminder.org/) figures until 1949, and UN thereafter (https://esa.un.org/unpd/wpp/Download/Standard/Population/).\n"
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "Per capita carbon dioxide emissions - GCP; Gapminder & UN.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Per capita CO₂ emissions (Global Carbon Project; Gapminder; UN)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
