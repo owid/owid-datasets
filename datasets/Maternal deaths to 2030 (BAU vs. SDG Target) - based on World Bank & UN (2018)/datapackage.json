@@ -1,0 +1,72 @@
+{
+  "name": "Maternal deaths to 2030 (BAU vs. SDG Target) - based on World Bank & UN (2018)",
+  "title": "Maternal deaths to 2030 (BAU vs. SDG Target) - based on World Bank & UN (2018)",
+  "id": 2910,
+  "description": "Maternal deaths were calculated by Our World in Data under two scenarios:\n- extrapolation of average annual progress (during the period 2005-2015) in maternal mortality rates through to 2030; this provides a 'business-as-usual' trajectory;\n- for countries who would not under a business-as-usual trajectory reach the UN SDG Target 3.1 of at least as low as 70 deaths per 100,000 live births, the required trajectory necessary to reach this target.\n\nMaternal deaths were derived from these two scenarios by multiplying the maternal mortality ratio (described below from the World Bank) by the annual number of births under the UN Population Division (2018) median fertility scenario from 2015 to 2030.\n\nThe difference in maternal deaths between these two trajectories is here assumed to be the 'maternal lives at stake' from not reaching SDG Target 3.1. \n\nMaternal mortality trajectories were calculated by Our World in Data based on a combination of business-as-usual extrapolations of historical trends published by the World Bank (2018).\n\nMaternal mortality ratio is the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births. The data are estimated with a regression model using information on the proportion of maternal deaths among non-AIDS deaths in women ages 15-49, fertility, birth attendants, and GDP.\n\nThe World Bank's source data is derived from: WHO, UNICEF, UNFPA, World Bank Group, and the United Nations Population Division. Trends in Maternal Mortality: 1990 to 2015. Geneva, World Health Organization, 2015.\n\nOur future figures, extending from 2015 to 2030 were estimated assuming a 'business-as-usual' continuation of average progress in the latest 10 years of maternal mortality data (2005-2015). Here we calculated the average annual change over this period, and applied it from 2015 onwards to derive estimates by 2030. \n\nNote that these figures therefore do not represent a forecast or prediction, but simply represent expected change if progress continues at recent rates.\n\nThe rates required to reach SDG Target 3.1 (70 per 100,000 live births) were quantified by calculating the average annual rate of decline necessary to reach 70 per 100,000 by 2030 from the 2015 value of a given country. This is shown only for countries who would not reach the SDG Target by 2030 under a business-as-usual trajectory.\n\nSources:\nThe World Bank's World Development Indicators (https://datacatalog.worldbank.org/search/indicators). Data was downloaded on 30th August 2018.\n\nUnited Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, DVD Edition (https://esa.un.org/unpd/wpp/Download/Standard/Population/). Data was downloaded on 30th August 2018.\n",
+  "sources": [
+    {
+      "name": "Maternal deaths to 2030 (BAU vs. SDG Target) - based on World Bank & UN (2018)",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "Maternal deaths were calculated by Our World in Data under two scenarios:\n- extrapolation of average annual progress (during the period 2005-2015) in maternal mortality rates through to 2030; this provides a 'business-as-usual' trajectory;\n- for countries who would not under a business-as-usual trajectory reach the UN SDG Target 3.1 of at least as low as 70 deaths per 100,000 live births, the required trajectory necessary to reach this target.\n\nMaternal deaths were derived from these two scenarios by multiplying the maternal mortality ratio (described below from the World Bank) by the annual number of births under the UN Population Division (2018) median fertility scenario from 2015 to 2030.\n\nThe difference in maternal deaths between these two trajectories is here assumed to be the 'maternal lives at stake' from not reaching SDG Target 3.1. \n\nMaternal mortality trajectories were calculated by Our World in Data based on a combination of business-as-usual extrapolations of historical trends published by the World Bank (2018).\n\nMaternal mortality ratio is the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births. The data are estimated with a regression model using information on the proportion of maternal deaths among non-AIDS deaths in women ages 15-49, fertility, birth attendants, and GDP.\n\nThe World Bank's source data is derived from: WHO, UNICEF, UNFPA, World Bank Group, and the United Nations Population Division. Trends in Maternal Mortality: 1990 to 2015. Geneva, World Health Organization, 2015.\n\nOur future figures, extending from 2015 to 2030 were estimated assuming a 'business-as-usual' continuation of average progress in the latest 10 years of maternal mortality data (2005-2015). Here we calculated the average annual change over this period, and applied it from 2015 onwards to derive estimates by 2030. \n\nNote that these figures therefore do not represent a forecast or prediction, but simply represent expected change if progress continues at recent rates.\n\nThe rates required to reach SDG Target 3.1 (70 per 100,000 live births) were quantified by calculating the average annual rate of decline necessary to reach 70 per 100,000 by 2030 from the 2015 value of a given country. This is shown only for countries who would not reach the SDG Target by 2030 under a business-as-usual trajectory.\n\nSources:\nThe World Bank's World Development Indicators (https://datacatalog.worldbank.org/search/indicators). Data was downloaded on 30th August 2018.\n\nUnited Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, DVD Edition (https://esa.un.org/unpd/wpp/Download/Standard/Population/). Data was downloaded on 30th August 2018.\n"
+    }
+  ],
+  "owidTags": [
+    "Maternal Mortality"
+  ],
+  "resources": [
+    {
+      "path": "Maternal deaths to 2030 (BAU vs. SDG Target) - based on World Bank & UN (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Annual maternal deaths to 2030 (business-as-usual)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Annual maternal deaths to 2030 (required rate for SDGs)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Annual maternal lives at stake to 2030",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cumulative maternal deaths (business-as-usual)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cumulative maternal deaths (required rate)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cumulative maternal lives saved",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
