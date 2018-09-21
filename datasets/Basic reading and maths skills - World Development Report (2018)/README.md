@@ -1,0 +1,5 @@
+# Basic reading and maths skills - World Development Report (2018)
+
+The World Development Report (2018) includes the following information regarding sources: "WDR 2018 team, using reading and mathematics data for Kenya and Uganda from Uwezo, Annual Assessment Reports, 2015 (www.uwezo.net/); reading and mathematics data for rural India from ASER Centre (2017); reading data for all other countries from U.S. Agency for International Development (USAID), Early Grade Reading Barometer, 2017, accessed May 30, 2017 (www.earlygradereadingbarometer.org/); and mathematics data for all other countries from USAID/RTI Early Grade Mathematics Assessment intervention reports, 2012â€“15 (shared.rti.org/sub-topic/early-grade-math-assessment-egma)."
+
+The original source notes: "These data typically pertain to selected regions in the countries and are not necessarily nationally representative. Data for India pertain to rural areas."

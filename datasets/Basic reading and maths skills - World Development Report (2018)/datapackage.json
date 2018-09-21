@@ -1,0 +1,42 @@
+{
+  "name": "Basic reading and maths skills - World Development Report (2018)",
+  "title": "Basic reading and maths skills - World Development Report (2018)",
+  "id": 1018,
+  "description": "The World Development Report (2018) includes the following information regarding sources: \"WDR 2018 team, using reading and mathematics data for Kenya and Uganda from Uwezo, Annual Assessment Reports, 2015 (www.uwezo.net/); reading and mathematics data for rural India from ASER Centre (2017); reading data for all other countries from U.S. Agency for International Development (USAID), Early Grade Reading Barometer, 2017, accessed May 30, 2017 (www.earlygradereadingbarometer.org/); and mathematics data for all other countries from USAID/RTI Early Grade Mathematics Assessment intervention reports, 2012â€“15 (shared.rti.org/sub-topic/early-grade-math-assessment-egma).\"\n\nThe original source notes: \"These data typically pertain to selected regions in the countries and are not necessarily nationally representative. Data for India pertain to rural areas.\"",
+  "sources": [
+    {
+      "name": "World Development Report, Shortfalls in Learning (2018)",
+      "dataPublishedBy": "World Development Report (2018)",
+      "dataPublisherSource": "Early Grade Reading Barometer and other country-specific surveys",
+      "link": "http://www.worldbank.org/en/publication/wdr2018/brief/world-development-report-2018-data",
+      "retrievedDate": "6 November 2017",
+      "additionalInfo": "The World Development Report (2018) includes the following information regarding sources: \"WDR 2018 team, using reading and mathematics data for Kenya and Uganda from Uwezo, Annual Assessment Reports, 2015 (www.uwezo.net/); reading and mathematics data for rural India from ASER Centre (2017); reading data for all other countries from U.S. Agency for International Development (USAID), Early Grade Reading Barometer, 2017, accessed May 30, 2017 (www.earlygradereadingbarometer.org/); and mathematics data for all other countries from USAID/RTI Early Grade Mathematics Assessment intervention reports, 2012â€“15 (shared.rti.org/sub-topic/early-grade-math-assessment-egma).\"\n\nThe original source notes: \"These data typically pertain to selected regions in the countries and are not necessarily nationally representative. Data for India pertain to rural areas.\""
+    }
+  ],
+  "owidTags": [
+    "Education"
+  ],
+  "resources": [
+    {
+      "path": "Basic reading and maths skills - World Development Report (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Percent of students who could not read a single word of a short text",
+            "type": "any",
+            "description": "Percent of grade 2 students who could not read a single word of a short text",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
