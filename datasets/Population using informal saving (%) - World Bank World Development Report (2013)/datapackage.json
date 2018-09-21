@@ -1,0 +1,42 @@
+{
+  "name": "Population using informal saving (%) - World Bank World Development Report (2013)",
+  "title": "Population using informal saving (%) - World Bank World Development Report (2013)",
+  "id": 2787,
+  "description": "Underlying source: World Bank, Global Financial Inclusion Database, at http://data.worldbank.org/data-catalog/financial_inclusion",
+  "sources": [
+    {
+      "name": "World Bank World Development Report (2013)",
+      "dataPublishedBy": "World Bank. 2013. World Development Report 2014 : Risk and Opportunity—Managing Risk for Development. Washington, DC. © World Bank. https://openknowledge.worldbank.org/handle/10986/16092 License: CC BY 3.0 IGO.",
+      "dataPublisherSource": "Survey data",
+      "link": "http://siteresources.worldbank.org/EXTNWDR2013/Resources/8258024-1352909193861/8936935-1356011448215/8986901-1380046989056/WDR-2014_Complete_Report.pdf ",
+      "retrievedDate": "07/05/2018",
+      "additionalInfo": "Underlying source: World Bank, Global Financial Inclusion Database, at http://data.worldbank.org/data-catalog/financial_inclusion"
+    }
+  ],
+  "owidTags": [
+    "Banks & Financial Institutions"
+  ],
+  "resources": [
+    {
+      "path": "Population using informal saving (%) - World Bank World Development Report (2013).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Population using informal saving (%) (World Bank World Development Report (2013))",
+            "type": "any",
+            "description": "The population using informal savings is calculated as the difference between the percentage of respondents (aged 15+) who have “saved any money in the past year” and those who “saved at a financial institution in the past year”.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
