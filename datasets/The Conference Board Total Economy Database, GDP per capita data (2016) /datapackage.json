@@ -1,0 +1,45 @@
+{
+  "name": "The Conference Board Total Economy Database, GDP per capita data (2016) ",
+  "title": "The Conference Board Total Economy Database, GDP per capita data (2016) ",
+  "id": 238,
+  "description": "For further information concerning this data, please see The Conference Board Total Economy Database website at the 'sources and methods' tab at: https://www.conference-board.org/data/economydatabase/index.cfm?id=27770 [accessed 13/11/2017]",
+  "sources": [
+    {
+      "name": "GDP per capita - The Conference Board Total Economy Database (2016)",
+      "dataPublishedBy": "The Conference Board Total Economy Database (2016)",
+      "dataPublisherSource": "Official national accounts data wherever available,  but adjustments are made in some cases to ensure comparability across countries and time",
+      "link": "https://www.conference-board.org/data/economydatabase/index.cfm?id=27762",
+      "retrievedDate": "1 June 2016",
+      "additionalInfo": "For further information concerning this data, please see The Conference Board Total Economy Database website at the 'sources and methods' tab at: https://www.conference-board.org/data/economydatabase/index.cfm?id=27770 [accessed 13/11/2017]"
+    }
+  ],
+  "owidTags": [
+    "GDP Data"
+  ],
+  "resources": [
+    {
+      "path": "The Conference Board Total Economy Database, GDP per capita data (2016) .csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "GDP per capita (The Conference Board Total Economy Database (2016) )",
+            "type": "any",
+            "description": "GDP per capita in 2015 US$ (converted to 2015 price level with updated 2011 PPPs)",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
