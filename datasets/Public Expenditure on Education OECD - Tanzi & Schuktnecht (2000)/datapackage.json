@@ -1,0 +1,42 @@
+{
+  "name": "Public Expenditure on Education OECD - Tanzi & Schuktnecht (2000)",
+  "title": "Public Expenditure on Education OECD - Tanzi & Schuktnecht (2000)",
+  "id": 242,
+  "description": "The underlying sources for Tanzi & Schuktnecht (2000) include: League of Nations Statistical Yearbook (various years), Mitchell (1962), OECD Education at a Glance (1996), UNESCO World Education Report (1993), UNDP Human Development Report (1996), UN World Economics Survey (various years). To the extent that the authors do not specify which sources were prioritised for each year/country, it is not possible for us to reliably extend the time series with newer data. For instance, the OECD Education at a Glance report (1998), which presents estimates for the years 1990 and 1995, suggests discrepancies with the values reported by Tanzi & Schuktnecht (2000) for 1993.",
+  "sources": [
+    {
+      "name": "Tanzi & Schuktnecht (2000)",
+      "dataPublishedBy": "Vito and Schuknecht (2000) Public Spending in the 20th Century A Global Perspective",
+      "dataPublisherSource": "Census data, long-term statistical data",
+      "link": "https://link.springer.com/article/10.1023%2FA%3A1017578302202?LI=true",
+      "retrievedDate": "30/09/2017",
+      "additionalInfo": "The underlying sources for Tanzi & Schuktnecht (2000) include: League of Nations Statistical Yearbook (various years), Mitchell (1962), OECD Education at a Glance (1996), UNESCO World Education Report (1993), UNDP Human Development Report (1996), UN World Economics Survey (various years). To the extent that the authors do not specify which sources were prioritised for each year/country, it is not possible for us to reliably extend the time series with newer data. For instance, the OECD Education at a Glance report (1998), which presents estimates for the years 1990 and 1995, suggests discrepancies with the values reported by Tanzi & Schuktnecht (2000) for 1993."
+    }
+  ],
+  "owidTags": [
+    "Financing of Education"
+  ],
+  "resources": [
+    {
+      "path": "Public Expenditure on Education OECD - Tanzi & Schuktnecht (2000).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Public Expenditure on Education (Tanzi & Schuktnecht (2000))",
+            "type": "any",
+            "description": " Public Expenditure on Education (% GDP)",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}

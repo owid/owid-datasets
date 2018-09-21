@@ -1,0 +1,3 @@
+# Public Expenditure on Education OECD - Tanzi & Schuktnecht (2000)
+
+The underlying sources for Tanzi & Schuktnecht (2000) include: League of Nations Statistical Yearbook (various years), Mitchell (1962), OECD Education at a Glance (1996), UNESCO World Education Report (1993), UNDP Human Development Report (1996), UN World Economics Survey (various years). To the extent that the authors do not specify which sources were prioritised for each year/country, it is not possible for us to reliably extend the time series with newer data. For instance, the OECD Education at a Glance report (1998), which presents estimates for the years 1990 and 1995, suggests discrepancies with the values reported by Tanzi & Schuktnecht (2000) for 1993.
