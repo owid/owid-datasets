@@ -1,0 +1,45 @@
+{
+  "name": "Renewable Energy (% electricity production) - World Bank (2015)",
+  "title": "Renewable Energy (% electricity production) - World Bank (2015)",
+  "id": 482,
+  "description": "Countries aggregated by income group have been classified based on the World Bank's own definition of income level (low, lower middle, middle, middle upper, and high)",
+  "sources": [
+    {
+      "name": "Renewable electricity (% electricity production) - World Bank (2015)",
+      "dataPublishedBy": "World Bank, World Development Indicators (WDI)",
+      "dataPublisherSource": "World Bank, Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking Framework led jointly by the World Bank, International Energy Agency, and the Energy Sector Management Assistance Program",
+      "link": "http://data.worldbank.org/indicator/EG.ELC.RNEW.ZS?name_desc=true&view=map&year=2015",
+      "retrievedDate": "18/05/2017",
+      "additionalInfo": "Countries aggregated by income group have been classified based on the World Bank's own definition of income level (low, lower middle, middle, middle upper, and high)"
+    }
+  ],
+  "owidTags": [
+    "Renewable Energy"
+  ],
+  "resources": [
+    {
+      "path": "Renewable Energy (% electricity production) - World Bank (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Renewable electricity (% electricity production) (World Bank (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
