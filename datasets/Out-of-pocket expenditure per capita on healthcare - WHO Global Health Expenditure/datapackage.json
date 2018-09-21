@@ -1,0 +1,42 @@
+{
+  "name": "Out-of-pocket expenditure per capita on healthcare - WHO Global Health Expenditure",
+  "title": "Out-of-pocket expenditure per capita on healthcare - WHO Global Health Expenditure",
+  "id": 2789,
+  "description": "",
+  "sources": [
+    {
+      "name": "WHO Global Health Expenditure Database",
+      "dataPublishedBy": "World Health Organization (WHO)",
+      "dataPublisherSource": "System of Health Accounts (SHA) ",
+      "link": "http://apps.who.int/nha/database/ViewData/Indicators/en",
+      "retrievedDate": "08/05/2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Health Insurance & Spending"
+  ],
+  "resources": [
+    {
+      "path": "Out-of-pocket expenditure per capita on healthcare - WHO Global Health Expenditure.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Out-of-pocket expenditure per capita on healthcare (PPP USD) (WHO Global Health Expenditure)",
+            "type": "any",
+            "description": "Out-of-pocket expenditures are defined as direct payments made by individuals to health care providers at the time of service use. This excludes any prepayment for health services, e.g. in the form of taxes or specific insurance premiums or contributions and, where possible, net of any reimbursements to the individual who made the payments. \n\nExpenditure per capita is measured in PPP int-US$.\n\nFor further information on out of pocket payments see: http://www.who.int/health_financing/topics/financial-protection/out-of-pocket-payments/en/",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
