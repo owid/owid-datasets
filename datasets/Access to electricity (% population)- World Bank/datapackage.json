@@ -1,0 +1,27 @@
+{
+  "name": "Access to electricity (% population)- World Bank",
+  "title": "Access to electricity (% population)- World Bank",
+  "id": 467,
+  "description": "",
+  "sources": [],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "Access to electricity (% population)- World Bank.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          }
+        ]
+      }
+    }
+  ]
+}
