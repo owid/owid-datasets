@@ -1,0 +1,44 @@
+{
+  "name": "Medium Projection – UN Population Division (2015 revision)",
+  "title": "Medium Projection – UN Population Division (2015 revision)",
+  "id": 322,
+  "description": "Total Population - Both Sexes. De facto population in a country, area or region as of 1 July of the year indicated. The original dataset was presented in thousands.",
+  "sources": [
+    {
+      "name": "Medium Projection – UN Population Division (2015 revision)",
+      "dataPublishedBy": "UN Population Division (2015 revision) Medium Projection",
+      "dataPublisherSource": "The UN Population Division is producing this projection.",
+      "link": "https://esa.un.org/unpd/wpp/Download/Standard/Population/",
+      "retrievedDate": "16/11/2016",
+      "additionalInfo": "Total Population - Both Sexes. De facto population in a country, area or region as of 1 July of the year indicated. The original dataset was presented in thousands."
+    }
+  ],
+  "owidTags": [
+    "Future World Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Medium Projection – UN Population Division (2015 revision).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Medium Projection (UN Population Division (2015 revision))",
+            "type": "any",
+            "description": "2015-2100",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
