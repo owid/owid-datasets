@@ -1,0 +1,60 @@
+{
+  "name": "OECD – Consumption Tax Trends 2016",
+  "title": "OECD – Consumption Tax Trends 2016",
+  "id": 327,
+  "description": "",
+  "sources": [
+    {
+      "name": "OECD – Consumption Tax Trends 2016",
+      "dataPublishedBy": "OECD (2016), Consumption Tax Trends, OECD Publishing, Paris.",
+      "dataPublisherSource": "Various sources - see report for details. ",
+      "link": "http://www.oecd-ilibrary.org/taxation/consumption-tax-trends-2016_ctt-2016-en",
+      "retrievedDate": "15/12/2016",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Other Taxes"
+  ],
+  "resources": [
+    {
+      "path": "OECD – Consumption Tax Trends 2016.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Countries with VAT (OECD (2016))",
+            "type": "any",
+            "description": "1960-2016",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Value Added Taxes (OECD (2016))",
+            "type": "any",
+            "description": "1965-2014",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Taxes on specific goods and services (OECD (2016))",
+            "type": "any",
+            "description": "1965-2014",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
