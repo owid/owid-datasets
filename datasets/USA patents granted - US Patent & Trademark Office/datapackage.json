@@ -1,0 +1,78 @@
+{
+  "name": "USA patents granted - US Patent & Trademark Office",
+  "title": "USA patents granted - US Patent & Trademark Office",
+  "id": 1852,
+  "description": "Total patents granted from 1790-1839, as well as 2015 is based on the US Patent and Trademark Office's reported \"Utility Patents\" which refers to \"patents for inventions\". Available at: https://www.uspto.gov/web/offices/ac/ido/oeip/taf/h_counts.htm\n\n'Chemical' patents includes those from agriculture, food, textiles, coatings, gas, organic compounds, and resins.\n\n'Computers & communications' includes those from communications, computer hardware and software, peripherals, information storage, electronic business methods and software.\n\n'Medical' includes drugs, surgery, medical instruments and biotechnology. \n\n'Electrical & electronics' includes electrical devices, electrical lighting, measuring, testing, nuclear, x-rays, power systems, and semiconductor devices.\n\n'Mechanical' includes materials processing & handling, metal working, motors, engines, parts, optics and transportation.\n\n'Others' includes agriculture, husbandry, food, amusement devices, apparel & textile, earth working & wells, furniture, house fixtures, heating, pipes & joints, and receptacles.",
+  "sources": [
+    {
+      "name": "USA patents granted - US Patent & Trademark Office",
+      "dataPublishedBy": "Marco, Alan C. and Carley, Michael and Jackson, Steven and Myers, Amanda F., The USPTO Historical Patent Data Files: Two Centuries of Innovation (June 1, 2015). SSRN working paper",
+      "dataPublisherSource": null,
+      "link": "http://ssrn.com/abstract=2616724",
+      "retrievedDate": "2017-11-30",
+      "additionalInfo": "Total patents granted from 1790-1839, as well as 2015 is based on the US Patent and Trademark Office's reported \"Utility Patents\" which refers to \"patents for inventions\". Available at: https://www.uspto.gov/web/offices/ac/ido/oeip/taf/h_counts.htm\n\n'Chemical' patents includes those from agriculture, food, textiles, coatings, gas, organic compounds, and resins.\n\n'Computers & communications' includes those from communications, computer hardware and software, peripherals, information storage, electronic business methods and software.\n\n'Medical' includes drugs, surgery, medical instruments and biotechnology. \n\n'Electrical & electronics' includes electrical devices, electrical lighting, measuring, testing, nuclear, x-rays, power systems, and semiconductor devices.\n\n'Mechanical' includes materials processing & handling, metal working, motors, engines, parts, optics and transportation.\n\n'Others' includes agriculture, husbandry, food, amusement devices, apparel & textile, earth working & wells, furniture, house fixtures, heating, pipes & joints, and receptacles."
+    }
+  ],
+  "owidTags": [
+    "Patents & Innovation"
+  ],
+  "resources": [
+    {
+      "path": "USA patents granted - US Patent & Trademark Office.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total patents granted",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Chemical",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Computers & Communications",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Medical",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Electronics",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Mechanical",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Other",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
