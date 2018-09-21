@@ -1,0 +1,54 @@
+{
+  "name": "GDP in England (using BoE, 2017)",
+  "title": "GDP in England (using BoE, 2017)",
+  "id": 700,
+  "description": "This dataset is produced using ‘A1. Headline Series’ sheet of the BoE dataset. The variables Real GDP (at market prices) and Population are taken directly from BoE. Real GDP per capita is, however, calculated by dividing Real GDP with Population. ",
+  "sources": [
+    {
+      "name": "GDP in England (using BoE (2017))",
+      "dataPublishedBy": "Bank of England (BoE) 2017",
+      "dataPublisherSource": "Broadberry, S., Campbell, B. M., Klein, A., Overton, M., & Van Leeuwen, B. (2015). British economic growth, 1270–1870. Cambridge University Press.",
+      "link": "http://www.bankofengland.co.uk/research/Pages/datasets/default.aspx#threecenturies",
+      "retrievedDate": "25/08/2017",
+      "additionalInfo": "This dataset is produced using ‘A1. Headline Series’ sheet of the BoE dataset. The variables Real GDP (at market prices) and Population are taken directly from BoE. Real GDP per capita is, however, calculated by dividing Real GDP with Population. "
+    }
+  ],
+  "owidTags": [
+    "GDP Data"
+  ],
+  "resources": [
+    {
+      "path": "GDP in England (using BoE, 2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Population (BoE (2017))",
+            "type": "any",
+            "description": "Population of England",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Real GDP per capita (BoE (2017))",
+            "type": "any",
+            "description": "Real gross domestic product (GDP) per capita of England is calculated by dividing its Real GDP (in market prices) with the population. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Real GDP (at market prices) (BoE (2017))",
+            "type": "any",
+            "description": "It measures the gross domestic product (GDP) of England at market prices. GDP is calculated in real terms using 2013 prices. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
