@@ -1,0 +1,42 @@
+{
+  "name": "Tax Revenue - World Bank",
+  "title": "Tax Revenue - World Bank",
+  "id": 268,
+  "description": "The World Bank describes the data set as follows: \r\n\r\nTax revenue refers to compulsory transfers to the central government for public purposes. Certain compulsory transfers such as fines, penalties, and most social security contributions are excluded. Refunds and corrections of erroneously collected tax revenue are treated as negative revenue.",
+  "sources": [
+    {
+      "name": "World Bank",
+      "dataPublishedBy": "World Bank, World Development Indicators (WDI)",
+      "dataPublisherSource": "World Development Indicators (WDI)",
+      "link": "http://databank.worldbank.org/",
+      "retrievedDate": "18/07/2016",
+      "additionalInfo": "The World Bank describes the data set as follows: \r\n\r\nTax revenue refers to compulsory transfers to the central government for public purposes. Certain compulsory transfers such as fines, penalties, and most social security contributions are excluded. Refunds and corrections of erroneously collected tax revenue are treated as negative revenue."
+    }
+  ],
+  "owidTags": [
+    "Government Revenue"
+  ],
+  "resources": [
+    {
+      "path": "Tax Revenue - World Bank.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Tax Revenue (World Bank)",
+            "type": "any",
+            "description": "1990-2014",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
