@@ -1,0 +1,44 @@
+{
+  "name": "Child mortality data - IHME (2017)",
+  "title": "Child mortality data - IHME (2017)",
+  "id": 530,
+  "description": "Data from the IHME GBDx database on child mortality is defined as the probability (expressed as the rate per 1,000 live births) that children born alive will die before reaching the age of 5 years",
+  "sources": [
+    {
+      "name": "under 5 mortality rate - IHME (2017)",
+      "dataPublishedBy": "Institute for Health Metrics and Evaluation (IHME); Global Burden of Disease database (GHDx)",
+      "dataPublisherSource": null,
+      "link": "http://ghdx.healthdata.org/",
+      "retrievedDate": "12/06/2017",
+      "additionalInfo": "Data from the IHME GBDx database on child mortality is defined as the probability (expressed as the rate per 1,000 live births) that children born alive will die before reaching the age of 5 years"
+    }
+  ],
+  "owidTags": [
+    "Child Mortality"
+  ],
+  "resources": [
+    {
+      "path": "Child mortality data - IHME (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Under 5 mortality rate (IHME (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
