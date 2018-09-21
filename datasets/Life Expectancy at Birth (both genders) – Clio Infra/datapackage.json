@@ -1,0 +1,42 @@
+{
+  "name": "Life Expectancy at Birth (both genders) – Clio Infra",
+  "title": "Life Expectancy at Birth (both genders) – Clio Infra",
+  "id": 81,
+  "description": "The data are from Clio Infra and the author of the data set is Richard Zijdeman.",
+  "sources": [
+    {
+      "name": "Life expectancy, both genders - Clio Infra ",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "The data are from Clio Infra and the author of the data set is Richard Zijdeman."
+    }
+  ],
+  "owidTags": [
+    "Life Expectancy"
+  ],
+  "resources": [
+    {
+      "path": "Life Expectancy at Birth (both genders) – Clio Infra.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Life Expectancy at Birth (both genders) (Clio Infra)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
