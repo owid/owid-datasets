@@ -1,0 +1,48 @@
+{
+  "name": "Coal reserves - BP Statistical Review (2016)",
+  "title": "Coal reserves - BP Statistical Review (2016)",
+  "id": 495,
+  "description": "The definition of 'proven reserves' is taken to be the following: \"Generally taken to be those quantities that geological and engineering information indicates with reasonable certainty can be recovered in the future from known reservoirs under existing economic and operating conditions. The data series for total proved coal does not necessarily meet the definitions, guidelines and practices used for determining proved reserves at company level, for instance as published by the US Securities and Exchange Commission, nor does it necessarily represent BP’s view of proved reserves by country.\"",
+  "sources": [
+    {
+      "name": "Coal reserves - BP Statistical Review (2016)",
+      "dataPublishedBy": "BP Statistical Review of World Energy 2016",
+      "dataPublisherSource": null,
+      "link": "https://www.bp.com/content/dam/bp/pdf/energy-economics/statistical-review-2016/bp-statistical-review-of-world-energy-2016-full-report.pdf",
+      "retrievedDate": "25/05/2017",
+      "additionalInfo": "The definition of 'proven reserves' is taken to be the following: \"Generally taken to be those quantities that geological and engineering information indicates with reasonable certainty can be recovered in the future from known reservoirs under existing economic and operating conditions. The data series for total proved coal does not necessarily meet the definitions, guidelines and practices used for determining proved reserves at company level, for instance as published by the US Securities and Exchange Commission, nor does it necessarily represent BP’s view of proved reserves by country.\""
+    }
+  ],
+  "owidTags": [
+    "Fossil Fuels"
+  ],
+  "resources": [
+    {
+      "path": "Coal reserves - BP Statistical Review (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Coal Reserves (BP Statistical Review (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of global coal reserves (%) (BP Statistical Review (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
