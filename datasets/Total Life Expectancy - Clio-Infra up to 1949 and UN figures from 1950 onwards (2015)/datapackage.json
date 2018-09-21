@@ -1,0 +1,42 @@
+{
+  "name": "Total Life Expectancy - Clio-Infra up to 1949 and UN figures from 1950 onwards (2015)",
+  "title": "Total Life Expectancy - Clio-Infra up to 1949 and UN figures from 1950 onwards (2015)",
+  "id": 1892,
+  "description": "For historical data up until 1949, Clio-Infra's dataset compiled by Zijdeman and Ribeira da Silva (2015) was used. Further information can be found using this link: https://datasets.socialhistory.org/dataset.xhtml?persistentId=hdl:10622/LKYT53. \nData from 1950 onward uses the UN Population Division data, further information can be found at https://esa.un.org/unpd/wpp/Download/Standard/Population/",
+  "sources": [
+    {
+      "name": "Clio-Infra estimates until 1949; UN Population Division from 1950 to 2015",
+      "dataPublishedBy": "OWID has combined two data sources: Clio-Infra's dataset for life expectancy up until 1949; and the UN Population Division for data from 1950 to 2015.",
+      "dataPublisherSource": "Census data.",
+      "link": "https://datasets.socialhistory.org/dataset.xhtml?persistentId=hdl:10622/LKYT53  and https://esa.un.org/unpd/wpp/Download/Standard/Population/",
+      "retrievedDate": "04/01/2018",
+      "additionalInfo": "For historical data up until 1949, Clio-Infra's dataset compiled by Zijdeman and Ribeira da Silva (2015) was used. Further information can be found using this link: https://datasets.socialhistory.org/dataset.xhtml?persistentId=hdl:10622/LKYT53. \nData from 1950 onward uses the UN Population Division data, further information can be found at https://esa.un.org/unpd/wpp/Download/Standard/Population/"
+    }
+  ],
+  "owidTags": [
+    "Life Expectancy"
+  ],
+  "resources": [
+    {
+      "path": "Total Life Expectancy - Clio-Infra up to 1949 and UN figures from 1950 onwards (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Life expectancy (Clio-Infra up to 1949; UN Population Division for 1950 to 2015)",
+            "type": "any",
+            "description": "Clio-Infra data measures life expectancy at birth for the total population per country and year. UN Population Division figures estimate life expectancy at birth for both sexes combined.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
