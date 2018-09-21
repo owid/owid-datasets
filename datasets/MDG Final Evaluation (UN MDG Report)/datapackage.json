@@ -1,0 +1,90 @@
+{
+  "name": "MDG Final Evaluation (UN MDG Report)",
+  "title": "MDG Final Evaluation (UN MDG Report)",
+  "id": 2831,
+  "description": "Data is based on the UN's final evaluation of the Millennium Development Goals (MDGs) and sourced from its final report (http://www.un.org/millenniumgoals/2015_MDG_Report/pdf/MDG%202015%20rev%20(July%201).pdf) and Statistical Database (http://mdgs.un.org/unsd/mdg/Resources/Static/Products/Progress2015/StatAnnex.pdf).\n\nThe specific Targets with data here are:\nMDG1.A: halve share of people living in extreme poverty (defined as living on less than $1.25 per day - the historical poverty line).\n\nMDG1.B: achieve full and productive employment, as well as decent work for all, including young people and women.\n\nMDG1.C: halve the proportion of individuals suffering from hunger.\n\nMDG2: ensure that children universally – including both boys and girls – will be able to complete a full course of primary education by 2015.\n\nMDG3.A: eliminate gender disparity in primary and secondary education, preferably by 2005, and in all levels of education no later than 2015.\n\nMDG4.A: reduce the under-five mortality rate by two-thirds in the period between 1990 and 2015.\n\nMDG5.A: reduce the maternal mortality ratio by 75 percent.\n\nMDG5.B: achieve universal access to reproductive health.",
+  "sources": [
+    {
+      "name": "MDG Final Evaluation (UN MDG Report)",
+      "dataPublishedBy": "United Nations (UN) Millennium Development Goals (MDG) Report",
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "Data is based on the UN's final evaluation of the Millennium Development Goals (MDGs) and sourced from its final report (http://www.un.org/millenniumgoals/2015_MDG_Report/pdf/MDG%202015%20rev%20(July%201).pdf) and Statistical Database (http://mdgs.un.org/unsd/mdg/Resources/Static/Products/Progress2015/StatAnnex.pdf).\n\nThe specific Targets with data here are:\nMDG1.A: halve share of people living in extreme poverty (defined as living on less than $1.25 per day - the historical poverty line).\n\nMDG1.B: achieve full and productive employment, as well as decent work for all, including young people and women.\n\nMDG1.C: halve the proportion of individuals suffering from hunger.\n\nMDG2: ensure that children universally – including both boys and girls – will be able to complete a full course of primary education by 2015.\n\nMDG3.A: eliminate gender disparity in primary and secondary education, preferably by 2005, and in all levels of education no later than 2015.\n\nMDG4.A: reduce the under-five mortality rate by two-thirds in the period between 1990 and 2015.\n\nMDG5.A: reduce the maternal mortality ratio by 75 percent.\n\nMDG5.B: achieve universal access to reproductive health."
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "MDG Final Evaluation (UN MDG Report).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "MDG1.A: share in extreme poverty ($1.25 per day)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "MDG1.B: share in productive employment",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "MDG1.C: share undernourished",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "MDG2.A: universal primary education",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "MDG3.A: gender parity index",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "MDG4.A: child mortality rate",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "MDG5.A: maternal mortality rate",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "MDG5.B: share of pregnant women receiving antenatal care",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "MDG5.B: share of married women using contraceptives",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
