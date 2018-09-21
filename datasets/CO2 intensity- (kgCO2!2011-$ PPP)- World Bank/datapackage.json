@@ -1,0 +1,27 @@
+{
+  "name": "CO2 intensity- (kgCO2/2011-$ PPP)- World Bank",
+  "title": "CO2 intensity- (kgCO2/2011-$ PPP)- World Bank",
+  "id": 408,
+  "description": "",
+  "sources": [],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "CO2 intensity- (kgCO2/2011-$ PPP)- World Bank.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          }
+        ]
+      }
+    }
+  ]
+}
