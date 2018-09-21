@@ -1,0 +1,42 @@
+{
+  "name": "Child mortality estimates - Gapminder (2015)",
+  "title": "Child mortality estimates - Gapminder (2015)",
+  "id": 226,
+  "description": "This is Version 8 of the data set uploaded by Gapminder on 2015 October 18\r\n \r\n \r\nThe World series for 1800 to 1960 was calculated by Max Roser on the basis of the Gapminder estimates of child mortality and the Gapminder series on population by country. For each estimate in that period a population weighted global average was calculated.\r\nThe recent annual observations of the World series (1960 and later) is taken from the World Bank (http://data.worldbank.org/indicator/SH.DYN.MORT).",
+  "sources": [
+    {
+      "name": "Child mortality estimates, version 8 - Gapminder (2015)",
+      "dataPublishedBy": "Gapminder.org",
+      "dataPublisherSource": "Several sources were used: CME info estimates, Human Mortality Database, Estimated from Gapminder's IMR series, Data extrapolated back to 1800 based on Gapminder Life Expectancy combined with model life tables, Particularly, the earlier data for many  countries are \"guesstimates\" by the data publishers at Gapminder.org and come with a large uncertainty. ",
+      "link": "http://www.gapminder.org/data/documentation/gd005/",
+      "retrievedDate": "22/05/2016",
+      "additionalInfo": "This is Version 8 of the data set uploaded by Gapminder on 2015 October 18\r\n \r\n \r\nThe World series for 1800 to 1960 was calculated by Max Roser on the basis of the Gapminder estimates of child mortality and the Gapminder series on population by country. For each estimate in that period a population weighted global average was calculated.\r\nThe recent annual observations of the World series (1960 and later) is taken from the World Bank (http://data.worldbank.org/indicator/SH.DYN.MORT)."
+    }
+  ],
+  "owidTags": [
+    "Child Mortality"
+  ],
+  "resources": [
+    {
+      "path": "Child mortality estimates - Gapminder (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Child mortality estimates (Gapminder (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
