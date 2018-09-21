@@ -1,0 +1,66 @@
+{
+  "name": "Fossil fuel consumption per capita - BP & UN (2017 revision)",
+  "title": "Fossil fuel consumption per capita - BP & UN (2017 revision)",
+  "id": 974,
+  "description": "Per capita trends in fossil fuel consumption were calculated by OWID based on population data from the UN Population Division, and national fossil fuel data - coal, oil, and natural gas - from BP's Statistical Review of Global Energy.\r\n\r\nPer capita consumption was calculated by dividing total population in any given year by a country or region's coal, oil or gas consumption.\r\n\r\nPopulation data was sourced from the UN Population Division (2017 Revision). Available at: https://esa.un.org/unpd/wpp/DataQuery/ [accessed 17th October 2017].\r\n\r\nFossil fuel consumption data was sourced from the BP's Statistical Review of Global Energy. Available at: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html [accessed 17th October 2017].",
+  "sources": [
+    {
+      "name": "Fossil fuel consumption per capita - BP & UN (2017 revision)",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "Per capita trends in fossil fuel consumption were calculated by OWID based on population data from the UN Population Division, and national fossil fuel data - coal, oil, and natural gas - from BP's Statistical Review of Global Energy.\r\n\r\nPer capita consumption was calculated by dividing total population in any given year by a country or region's coal, oil or gas consumption.\r\n\r\nPopulation data was sourced from the UN Population Division (2017 Revision). Available at: https://esa.un.org/unpd/wpp/DataQuery/ [accessed 17th October 2017].\r\n\r\nFossil fuel consumption data was sourced from the BP's Statistical Review of Global Energy. Available at: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html [accessed 17th October 2017]."
+    }
+  ],
+  "owidTags": [
+    "Fossil Fuels"
+  ],
+  "resources": [
+    {
+      "path": "Fossil fuel consumption per capita - BP & UN (2017 revision).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Oil consumption per capita (BP & UN (2017 revision))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "megawatt-hours",
+              "shortUnit": "MWh",
+              "conversionFactor": 0.001
+            }
+          },
+          {
+            "name": "Coal consumption per capita (BP & UN (2017 revision))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "megawatt-hours",
+              "shortUnit": "MWh",
+              "conversionFactor": 0.001
+            }
+          },
+          {
+            "name": "Gas consumption per capita (BP & UN (2017 revision))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "megawatt-hours",
+              "shortUnit": "MWh",
+              "conversionFactor": 0.001
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
