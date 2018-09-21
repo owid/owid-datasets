@@ -1,0 +1,186 @@
+{
+  "name": "Growth of cities - Bairoch (1988)",
+  "title": "Growth of cities - Bairoch (1988)",
+  "id": 2841,
+  "description": "See Table 8.2 (pp. 137), Table 13.5 (pp. 225), Table 26.1 (pp. 414), Table 26.3 (pp. 423), and Table 27.4 (pp. 438) for original data. ",
+  "sources": [
+    {
+      "name": "Bairoch (1988)",
+      "dataPublishedBy": "Bairoch, P., 1988. Cities and Economic Development, translated by Christopher Braider.",
+      "dataPublisherSource": "Historical and scholarly sources.",
+      "link": "http://press.uchicago.edu/ucp/books/book/chicago/C/bo5971175.html",
+      "retrievedDate": "19/07/2018",
+      "additionalInfo": "See Table 8.2 (pp. 137), Table 13.5 (pp. 225), Table 26.1 (pp. 414), Table 26.3 (pp. 423), and Table 27.4 (pp. 438) for original data. "
+    }
+  ],
+  "owidTags": [
+    "Urbanization"
+  ],
+  "resources": [
+    {
+      "path": "Growth of cities - Bairoch (1988).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of European cities (Bairoch (1988))",
+            "type": "any",
+            "description": "Number of European cities, by the population size of the city (in 000s). ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Europe urban population share (Bairoch (1988))",
+            "type": "any",
+            "description": "The percentage of the population classified as urban. A criterion of 5000 inhabitants is used for urban population.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of developed country cities (Bairoch (1988))",
+            "type": "any",
+            "description": "Number of developed country cities, by the population size of the city (in 000s). ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Developed country urban population share (Bairoch (1988))",
+            "type": "any",
+            "description": "The percentage of the population classified as urban. A criterion of 5000 inhabitants is used for urban population.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of African cities (Bairoch (1988))",
+            "type": "any",
+            "description": "Number of African cities, by the population size of the city (in 000s). ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Africa urban population share (Bairoch (1988))",
+            "type": "any",
+            "description": "The percentage of the population classified as urban. A criterion of 5000 inhabitants is used for urban population.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of Latin American cities (Bairoch (1988))",
+            "type": "any",
+            "description": "Number of Latin American cities, by the population size of the city (in 000s). ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Latin America urban population share (Bairoch (1988))",
+            "type": "any",
+            "description": "The percentage of the population classified as urban. A criterion of 5000 inhabitants is used for urban population.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of third world market cities (Bairoch (1988))",
+            "type": "any",
+            "description": "Number of third world market cities, by the population size of the city (in 000s). ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Third world market urban population share (Bairoch (1988))",
+            "type": "any",
+            "description": "The percentage of the population classified as urban. A criterion of 5000 inhabitants is used for urban population.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Europe urban population (Bairoch (1988))",
+            "type": "any",
+            "description": "The total urban population in Europe.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Europe rural population (Bairoch (1988))",
+            "type": "any",
+            "description": "The total rural population in Europe.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Europe rural population share (Bairoch (1988))",
+            "type": "any",
+            "description": "The percentage of the population classified as rural. A criterion of 5000 inhabitants is used for urban population.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Developed country urban population (Bairoch (1988))",
+            "type": "any",
+            "description": "The total urban population in developed countries.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Developed country rural population (Bairoch (1988))",
+            "type": "any",
+            "description": "The total rural population in developed countries.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Developed country rural population share (Bairoch (1988))",
+            "type": "any",
+            "description": "The percentage of the population classified as rural. A criterion of 5000 inhabitants is used for urban population.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Africa urban population (Bairoch (1988))",
+            "type": "any",
+            "description": "The total urban population in African countries.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Africa rural population (Bairoch (1988))",
+            "type": "any",
+            "description": "The total rural population in African countries.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Africa rural population share (Bairoch (1988))",
+            "type": "any",
+            "description": "The percentage of the population classified as rural. A criterion of 5000 inhabitants is used for urban population.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Latin America urban population (Bairoch (1988))",
+            "type": "any",
+            "description": "The total urban population in Latin American countries.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Latin America rural population (Bairoch (1988))",
+            "type": "any",
+            "description": "The total rural population in Latin American countries.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Latin America rural population share (Bairoch (1988))",
+            "type": "any",
+            "description": "The percentage of the population classified as rural. A criterion of 5000 inhabitants is used for urban population.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Third world market urban population (Bairoch (1988))",
+            "type": "any",
+            "description": "The total urban population in third world markets.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Third world market rural population (Bairoch (1988))",
+            "type": "any",
+            "description": "The total rural population in third world markets.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Third world market rural population share (Bairoch (1988))",
+            "type": "any",
+            "description": "The percentage of the population classified as rural. A criterion of 5000 inhabitants is used for urban population.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
