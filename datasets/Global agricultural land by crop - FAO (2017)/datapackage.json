@@ -1,0 +1,42 @@
+{
+  "name": "Global agricultural land by crop - FAO (2017)",
+  "title": "Global agricultural land by crop - FAO (2017)",
+  "id": 665,
+  "description": "Data for crops refers to the total global area under production, measured in hectares.",
+  "sources": [
+    {
+      "name": "Global agricultural land by crop - FAO (2017)",
+      "dataPublishedBy": "United Nations Food and Agricultural Organization (FAO)",
+      "dataPublisherSource": null,
+      "link": "http://www.fao.org/faostat/en/#home",
+      "retrievedDate": "11/08/2017",
+      "additionalInfo": "Data for crops refers to the total global area under production, measured in hectares."
+    }
+  ],
+  "owidTags": [
+    "Land Use in Agriculture"
+  ],
+  "resources": [
+    {
+      "path": "Global agricultural land by crop - FAO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Area used for production (FAO (2017))",
+            "type": "any",
+            "description": "Data for crops refers to the total global area under production, measured in hectares.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
