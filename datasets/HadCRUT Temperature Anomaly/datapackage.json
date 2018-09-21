@@ -1,0 +1,60 @@
+{
+  "name": "HadCRUT Temperature Anomaly",
+  "title": "HadCRUT Temperature Anomaly",
+  "id": 958,
+  "description": "For land regions of the world over 4800 monthly station temperature time series are used and CRUTEM4 (land) is created. For marine regions, sea surface temperature (SST) measurements taken on board merchant and some naval vessels are used and HadSST3 (ocean) is created. HadCRUT4 combines both datasets.\n\nThe temperature anomaly is measured relative to the 1961-1990 global average temperature. Country-level values were created by averaging all grid cells whose centroids were within the border of a country. Area weighted measures were weighted by the area of the grid cell when averaging the gridd cells and population weighted averages used gridded population data from 2015 created by the Center for International Earth Science Information Network - CIESIN (http://dx.doi.org/10.7927/H4X63JVC).",
+  "sources": [
+    {
+      "name": "Country-level surface temperature anomaly - HadCRUT4",
+      "dataPublishedBy": "Climatic Research Unit (University of East Anglia) in conjunction with the Hadley Centre (UK Met Office)",
+      "dataPublisherSource": null,
+      "link": "https://crudata.uea.ac.uk/cru/data/temperature/",
+      "retrievedDate": "25/09/2017",
+      "additionalInfo": "For land regions of the world over 4800 monthly station temperature time series are used and CRUTEM4 (land) is created. For marine regions, sea surface temperature (SST) measurements taken on board merchant and some naval vessels are used and HadSST3 (ocean) is created. HadCRUT4 combines both datasets.\n\nThe temperature anomaly is measured relative to the 1961-1990 global average temperature. Country-level values were created by averaging all grid cells whose centroids were within the border of a country. Area weighted measures were weighted by the area of the grid cell when averaging the gridd cells and population weighted averages used gridded population data from 2015 created by the Center for International Earth Science Information Network - CIESIN (http://dx.doi.org/10.7927/H4X63JVC)."
+    }
+  ],
+  "owidTags": [
+    "Climate Change"
+  ],
+  "resources": [
+    {
+      "path": "HadCRUT Temperature Anomaly.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Surface temperature anomaly",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "shortUnit": "℃"
+            }
+          },
+          {
+            "name": "Surface temperature anomaly weighted by population",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "shortUnit": "℃"
+            }
+          },
+          {
+            "name": "Surface temperature anomaly weighted by area",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "shortUnit": "℃"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
