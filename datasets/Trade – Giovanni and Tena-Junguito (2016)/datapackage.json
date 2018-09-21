@@ -1,0 +1,42 @@
+{
+  "name": "Trade – Giovanni and Tena-Junguito (2016)",
+  "title": "Trade – Giovanni and Tena-Junguito (2016)",
+  "id": 292,
+  "description": "",
+  "sources": [
+    {
+      "name": "Federico and Tena-Junguito (2016)",
+      "dataPublishedBy": "Federico, Giovanni and Antonio Tena-Junguito  (2016 b). 'A tale of two globalizations: gains from trade and openness 1800-2010'. London, Centre for Economic Policy Research. (CEPR WP.11128).",
+      "dataPublisherSource": "Various sources . Further details available in the online appendix of Federico Giovanni and Antonio Tena-Junguito (2016a) “World trade, 1800-1938: a new data-set” EHES Working paper n.93. http://www.ehes.org/EHES_93.pdf.",
+      "link": "https://e-archivo.uc3m.es/bitstream/handle/10016/22354/wh1602.pdf?sequence=1",
+      "retrievedDate": "09/09/2016",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Trade from Antiquity to Early Modern Times"
+  ],
+  "resources": [
+    {
+      "path": "Trade – Giovanni and Tena-Junguito (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "World Trade (relative to 1913) (Federico and Tena-Junguito (2016))",
+            "type": "any",
+            "description": "Time series of value of world exports at constant prices, relative to 1913 (i.e. values correspond to world export volumes indexed at 1913=100) ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
