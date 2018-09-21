@@ -1,0 +1,72 @@
+{
+  "name": "Minimum reading and maths proficiency (GEM Report (2017/8))",
+  "title": "Minimum reading and maths proficiency (GEM Report (2017/8))",
+  "id": 1886,
+  "description": "",
+  "sources": [
+    {
+      "name": "GEM Report - Statistical Tables (2017/8)",
+      "dataPublishedBy": "UNESCO Institute for Statistics (UIS) ",
+      "dataPublisherSource": "UIS database ",
+      "link": "https://en.unesco.org/gem-report/statistical-tables ",
+      "retrievedDate": "8/12/2017 ",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Quality of Education & Drop-Out Rates"
+  ],
+  "resources": [
+    {
+      "path": "Minimum reading and maths proficiency (GEM Report (2017/8)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Percentage of students at end of lower secondary education achieving at least a minimum proficiency level in reading (GEM Report (2017/8))",
+            "type": "any",
+            "description": "Percentage of students at end of lower secondary education achieving at least a minimum proficiency level in reading, as per nationally representative learning assessments. The minimum proficiency level in reading and mathematics is as defined by each assessment. Data need to be interpreted with caution since the different assessments are not comparable. The full list of underlying sources are available at the SDG Indicators Global Database https://unstats.un.org/sdgs/indicators/database/",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percentage of students at end of lower secondary education achieving at least a minimum proficiency level in mathematics (GEM Report (2017/8))",
+            "type": "any",
+            "description": "Percentage of students at end of lower secondary education achieving at least a minimum proficiency level in mathematics, as per nationally representative learning assessments. The minimum proficiency level in reading and mathematics is as defined by each assessment. Data need to be interpreted with caution since the different assessments are not comparable. The full list of underlying sources are available at the SDG Indicators Global Database https://unstats.un.org/sdgs/indicators/database/",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percentage of pupils in early primary education grades (2 or 3) achieving at least a minimum proficiency level in reading (GEM Report (2017/8))",
+            "type": "any",
+            "description": "Percentage of pupils in early primary education grades (2 or 3) achieving at least a minimum proficiency level in reading. The minimum proficiency level in reading and mathematics is as defined by each assessment. Data need to be interpreted with caution since the different assessments are not comparable. The full list of underlying sources are available at the SDG Indicators Global Database https://unstats.un.org/sdgs/indicators/database/",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percentage of pupils in early primary education grades (2 or 3) achieving at least a minimum proficiency level in mathematics (GEM Report (2017/8))",
+            "type": "any",
+            "description": "Percentage of pupils in early primary education grades (2 or 3) achieving at least a minimum proficiency level in mathematics. The minimum proficiency level in reading and mathematics is as defined by each assessment. Data need to be interpreted with caution since the different assessments are not comparable. The full list of underlying sources are available at the SDG Indicators Global Database https://unstats.un.org/sdgs/indicators/database/",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percentage of pupils at end of primary education achieving at least a minimum proficiency level in reading (GEM Report (2017/8))",
+            "type": "any",
+            "description": "Percentage of pupils at end of primary education achieving at least a minimum proficiency level in reading. The minimum proficiency level in reading and mathematics is as defined by each assessment. Data need to be interpreted with caution since the different assessments are not comparable. The full list of underlying sources are available at the SDG Indicators Global Database https://unstats.un.org/sdgs/indicators/database/",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percentage of pupils at end of primary education achieving at least a minimum proficiency level in mathematics (GEM Report (2017/8))",
+            "type": "any",
+            "description": "Percentage of pupils at end of primary education achieving at least a minimum proficiency level in mathematics. The minimum proficiency level in reading and mathematics is as defined by each assessment. Data need to be interpreted with caution since the different assessments are not comparable. The full list of underlying sources are available at the SDG Indicators Global Database https://unstats.un.org/sdgs/indicators/database/",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
