@@ -1,0 +1,50 @@
+{
+  "name": "Age-adjusted male suicide rates, 1950-2005 - WHO (2005)",
+  "title": "Age-adjusted male suicide rates, 1950-2005 - WHO (2005)",
+  "id": 21,
+  "description": "Age-adjusted suicide rates",
+  "sources": [
+    {
+      "name": "World Health Organization (2005)",
+      "dataPublishedBy": "Gapminder using data from (i) WHO Violence and Injury Prevention (VIP) and (ii) WHO Global Burden of Disease 2002 and 2004.",
+      "dataPublisherSource": null,
+      "link": "http://spreadsheets.google.com/pub?key=troMumuI0Y6Phpwnj6qXa_A&output=xls",
+      "retrievedDate": null,
+      "additionalInfo": "Age-adjusted suicide rates"
+    }
+  ],
+  "owidTags": [
+    "Suicides"
+  ],
+  "resources": [
+    {
+      "path": "Age-adjusted male suicide rates, 1950-2005 - WHO (2005).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Male suicide rates for selected countries, 1950-2005 (WHO (2005))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "age-adjusted male suicides per 100,000"
+            }
+          },
+          {
+            "name": "Male suicide rate (WHO (2005))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
