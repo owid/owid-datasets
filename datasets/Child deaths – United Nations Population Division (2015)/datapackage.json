@@ -1,0 +1,44 @@
+{
+  "name": "Child deaths – United Nations Population Division (2015)",
+  "title": "Child deaths – United Nations Population Division (2015)",
+  "id": 351,
+  "description": "– The original data is presented in 1,000s live births. Here it was multiplied by 1,000 for this reason.\r\n\r\n– Importantly data refer to 5 year intervals around the indicated year. E.g. 1952 refers to 1950-1954 in the original dataset. Here the value for the 5 year interval is divided by 5 and attributed to the mid-year of the interval.",
+  "sources": [
+    {
+      "name": "Child deaths – United Nations Population Division (2015)",
+      "dataPublishedBy": "United Nations, Department of Economic and Social Affairs, Population Division (2015). World Population Prospects: The 2015 Revision, custom data acquired via website.",
+      "dataPublisherSource": "Various, including censuses, vital registrations and maternity histories. Full source information can be found here: https://esa.un.org/unpd/wpp/DataSources/",
+      "link": "https://esa.un.org/unpd/wpp/Download/Standard/Mortality/",
+      "retrievedDate": "13/02/2017",
+      "additionalInfo": "– The original data is presented in 1,000s live births. Here it was multiplied by 1,000 for this reason.\r\n\r\n– Importantly data refer to 5 year intervals around the indicated year. E.g. 1952 refers to 1950-1954 in the original dataset. Here the value for the 5 year interval is divided by 5 and attributed to the mid-year of the interval."
+    }
+  ],
+  "owidTags": [
+    "Child Mortality"
+  ],
+  "resources": [
+    {
+      "path": "Child deaths – United Nations Population Division (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Child deaths (United Nations Population Division (2015))",
+            "type": "any",
+            "description": "1950-2015",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
