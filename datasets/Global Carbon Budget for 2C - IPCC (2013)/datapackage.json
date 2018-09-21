@@ -1,0 +1,44 @@
+{
+  "name": "Global Carbon Budget for 2C - IPCC (2013)",
+  "title": "Global Carbon Budget for 2C - IPCC (2013)",
+  "id": 527,
+  "description": "The carbon budget refers to the maximum quantity of carbon which can be released to maintain a 50 percent probability of global average temperature rise remaining below two-degrees celcius (the target set within the UN Paris climate agreement).\r\n\r\nThis has been measured relative to the quantity of carbon which would be released if all fossil fuel reserves were burned without the use of carbon capture and storage (CCS) technology. The difference between the two is defined as 'unburnable carbon'.\r\n\r\nReferences:\r\n\r\nIntergovernmental Panel on Climate Change Climate Change 2013: The Physical Science Basis, Summary for Policy Makers, WG1 Contribution to IPCC AR5. Available at: http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf",
+  "sources": [
+    {
+      "name": "Global Carbon Budget for 2C - IPCC (2013)",
+      "dataPublishedBy": "IPCC Assessment Report 5 (2013)",
+      "dataPublisherSource": null,
+      "link": "http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf",
+      "retrievedDate": "10/06/2017",
+      "additionalInfo": "The carbon budget refers to the maximum quantity of carbon which can be released to maintain a 50 percent probability of global average temperature rise remaining below two-degrees celcius (the target set within the UN Paris climate agreement).\r\n\r\nThis has been measured relative to the quantity of carbon which would be released if all fossil fuel reserves were burned without the use of carbon capture and storage (CCS) technology. The difference between the two is defined as 'unburnable carbon'.\r\n\r\nReferences:\r\n\r\nIntergovernmental Panel on Climate Change Climate Change 2013: The Physical Science Basis, Summary for Policy Makers, WG1 Contribution to IPCC AR5. Available at: http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf"
+    }
+  ],
+  "owidTags": [
+    "Fossil Fuels"
+  ],
+  "resources": [
+    {
+      "path": "Global Carbon Budget for 2C - IPCC (2013).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Global Carbon Budget (IPCC (2013))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Per 100,000 population"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
