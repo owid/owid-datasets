@@ -1,0 +1,44 @@
+{
+  "name": "SO2 per capita - Clio Infra",
+  "title": "SO2 per capita - Clio Infra",
+  "id": 391,
+  "description": "",
+  "sources": [
+    {
+      "name": "SO2 emissions per capita - Clio Infra",
+      "dataPublishedBy": "ClioInfra",
+      "dataPublisherSource": null,
+      "link": "https://www.clio-infra.eu/",
+      "retrievedDate": "16/04/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "SO2 per capita - Clio Infra.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "SO2 emissions per capita (Clio Infra)",
+            "type": "any",
+            "description": "SO2 emissions per capita (tonnes per year)- ClioInfra",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
