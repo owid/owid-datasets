@@ -1,0 +1,58 @@
+{
+  "name": "Child Labor in US - Economic History Association (2017)",
+  "title": "Child Labor in US - Economic History Association (2017)",
+  "id": 471,
+  "description": "Total/all figures on child labour have been calculated as a weighted-average based on male:female ratio of 10-14 year-olds in the US from the United States Census Bureau in each respective year.\n\nReferences:\n\nWhaples, Robert. “Child Labor in the United States”. EH.Net Encyclopedia, edited by Robert Whaples. October 7, 2005. Available at: http://eh.net/encyclopedia/child-labor-in-the-united-states/\n\nCarter, Susan and Richard Sutch. “Fixing the Facts: Editing of the 1880 U.S. Census of Occupations with Implications for Long-Term Labor Force Trends and the Sociology of Official Statistics.” Historical Methods 29 (1996): 5-24\n\nHistorical Statistics of the United States Colonial Times to 1970 (1790-1970). Available at: https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html",
+  "sources": [
+    {
+      "name": "Child Labour in US- Economic History Association",
+      "dataPublishedBy": "Whaples, R. Wake Forest University. Economic History Association.",
+      "dataPublisherSource": "1880 figures are based on Carter and Sutch (1996). Other numbers are unadjusted from those reported by the Bureau of the Census",
+      "link": "https://eh.net/encyclopedia/child-labor-in-the-united-states/",
+      "retrievedDate": "17/05/2017",
+      "additionalInfo": "Total/all figures on child labour have been calculated as a weighted-average based on male:female ratio of 10-14 year-olds in the US from the United States Census Bureau in each respective year.\n\nReferences:\n\nWhaples, Robert. “Child Labor in the United States”. EH.Net Encyclopedia, edited by Robert Whaples. October 7, 2005. Available at: http://eh.net/encyclopedia/child-labor-in-the-united-states/\n\nCarter, Susan and Richard Sutch. “Fixing the Facts: Editing of the 1880 U.S. Census of Occupations with Implications for Long-Term Labor Force Trends and the Sociology of Official Statistics.” Historical Methods 29 (1996): 5-24\n\nHistorical Statistics of the United States Colonial Times to 1970 (1790-1970). Available at: https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html"
+    }
+  ],
+  "owidTags": [
+    "Child Labor"
+  ],
+  "resources": [
+    {
+      "path": "Child Labor in US - Economic History Association (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Child Labor- Boys (%) (Economic History Association (2017))",
+            "type": "any",
+            "description": "Share of boys in employment. ",
+            "owidDisplaySettings": {
+              "unit": "tonnes"
+            }
+          },
+          {
+            "name": "Child Labor- Girls (%) (Economic History Association (2017))",
+            "type": "any",
+            "description": "Share of girls in employment.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Child Labor- All (%) (Economic History Association (2017))",
+            "type": "any",
+            "description": "Share of children in employment. ",
+            "owidDisplaySettings": {
+              "unit": "2010 USD PPP"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
