@@ -1,0 +1,52 @@
+{
+  "name": "Employment and Gender attitudes - Pew Research Centre (2012)",
+  "title": "Employment and Gender attitudes - Pew Research Centre (2012)",
+  "id": 2668,
+  "description": "Figures for China and India are non-national samples. \n\nCountry figures are taken from the Spring 2010 Survey conducted by the Pew Research Centre with the exception of Turkey, Pakistan, Lebanon, Jordan, and Egypt, for which figures are taken from the Spring 2012 Survey. ",
+  "sources": [
+    {
+      "name": "Employment and gender (Pew Research Centre (2012))",
+      "dataPublishedBy": "Pew Research centre",
+      "dataPublisherSource": "Spring 2010, 2012 survey data.",
+      "link": "http://www.pewglobal.org/question-search/?keywordtext=when+jobs+are+scarce&btnSubmit=Search&topic=&startdate=1970&enddate=2018&txtAreaCntIDsStndr=&txtAreaStdIDs=",
+      "retrievedDate": "21/03/2018",
+      "additionalInfo": "Figures for China and India are non-national samples. \n\nCountry figures are taken from the Spring 2010 Survey conducted by the Pew Research Centre with the exception of Turkey, Pakistan, Lebanon, Jordan, and Egypt, for which figures are taken from the Spring 2012 Survey. "
+    }
+  ],
+  "owidTags": [
+    "Economic Gender & Race Differences"
+  ],
+  "resources": [
+    {
+      "path": "Employment and Gender attitudes - Pew Research Centre (2012).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share who agree (Pew Research Centre (2012))",
+            "type": "any",
+            "description": "Statement posed in the survey: Please tell me whether you completely agree, mostly agree, mostly disagree, or completely disagree with the following statements...When jobs are scarce, men should have more right to a job than women.\n\nTo arrive at the 'agree' estimate, we have added the shares corresponding to 'completely agree' and 'mostly agree' for the statement above.",
+            "owidDisplaySettings": {
+              "unit": "%"
+            }
+          },
+          {
+            "name": "Share who disagree (Pew Research Centre (2012))",
+            "type": "any",
+            "description": "Statement posed in the survey: Please tell me whether you completely agree, mostly agree, mostly disagree, or completely disagree with the following statements...When jobs are scarce, men should have more right to a job than women.\n\nTo arrive at the 'disagree' estimate, we have added the shares corresponding to 'completely disagree' and 'mostly disagree' for the statement above.",
+            "owidDisplaySettings": {
+              "unit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
