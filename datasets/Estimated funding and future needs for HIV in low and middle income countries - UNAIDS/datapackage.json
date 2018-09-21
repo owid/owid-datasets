@@ -1,0 +1,48 @@
+{
+  "name": "Estimated funding and future needs for HIV in low and middle income countries - UNAIDS",
+  "title": "Estimated funding and future needs for HIV in low and middle income countries - UNAIDS",
+  "id": 2490,
+  "description": "Estimated funding to addressing HIV in low-to-middle income countries by region until the year 2016. Also provided by UNAIDS are estimates of resource requirements from 2018-2030 in low-to-middle income countries to meet fast-track HIV targets by 2030.",
+  "sources": [
+    {
+      "name": "Estimated funding and future needs for HIV in low and middle income countries - UNAIDS",
+      "dataPublishedBy": "UNAIDS",
+      "dataPublisherSource": null,
+      "link": "http://aidsinfoonline.org/",
+      "retrievedDate": "2nd March 2018",
+      "additionalInfo": "Estimated funding to addressing HIV in low-to-middle income countries by region until the year 2016. Also provided by UNAIDS are estimates of resource requirements from 2018-2030 in low-to-middle income countries to meet fast-track HIV targets by 2030."
+    }
+  ],
+  "owidTags": [
+    "HIV / AIDS"
+  ],
+  "resources": [
+    {
+      "path": "Estimated funding and future needs for HIV in low and middle income countries - UNAIDS.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Estimated HIV resource availability for low- and middle-income countries (million US$)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Estimated resource needs for fast-track targets (million US$)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
