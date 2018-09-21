@@ -1,0 +1,66 @@
+{
+  "name": "Fishery catch breakdown - Pauly and Zeller (2016)",
+  "title": "Fishery catch breakdown - Pauly and Zeller (2016)",
+  "id": 2498,
+  "description": "Data from the Pauly and Zeller (2016) paper is available at the Dryad Digital Repository:\n\nPauly D, Zeller D (2016) Data from: Catch reconstructions reveal that global marine fisheries catches are higher than reported and declining. Dryad Digital Repository. https://doi.org/10.5061/dryad.4s4t1",
+  "sources": [
+    {
+      "name": "Fishery catch breakdown - Pauly and Zeller (2016)",
+      "dataPublishedBy": "Pauly D, Zeller D (2016) Catch reconstructions reveal that global marine fisheries catches are higher than reported and declining. Nature Communications 7: 10244. ",
+      "dataPublisherSource": null,
+      "link": "https://doi.org/10.1038/ncomms10244",
+      "retrievedDate": "8th March 2018",
+      "additionalInfo": "Data from the Pauly and Zeller (2016) paper is available at the Dryad Digital Repository:\n\nPauly D, Zeller D (2016) Data from: Catch reconstructions reveal that global marine fisheries catches are higher than reported and declining. Dryad Digital Repository. https://doi.org/10.5061/dryad.4s4t1"
+    }
+  ],
+  "owidTags": [
+    "Seafood"
+  ],
+  "resources": [
+    {
+      "path": "Fishery catch breakdown - Pauly and Zeller (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Industrial (large-scale commercial)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Artisanal (small-scale commercial)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Discards",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Subsistence",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Recreational",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
