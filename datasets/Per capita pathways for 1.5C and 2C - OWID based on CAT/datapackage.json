@@ -1,0 +1,48 @@
+{
+  "name": "Per capita pathways for 1.5C and 2C - OWID based on CAT",
+  "title": "Per capita pathways for 1.5C and 2C - OWID based on CAT",
+  "id": 2771,
+  "description": "Per capita pathways were derived by Our World in Data based on 1.5C and 2C emission pathways from Climate Action Tracker (CAT) and UN population projections. \n\n1.5C and 2C pathways represent the median future scenarios of greenhouse gas emission reductions needed to limit warming. Dividing this total budget by global population figures provides a value of an equitable budget per person.\n\nClimate Action Tracker data sourced from: http://climateactiontracker.org/\nUN population projections (median fertility): https://esa.un.org/unpd/wpp/Download/Standard/Population/ ",
+  "sources": [
+    {
+      "name": "Per capita pathways for 1.5C and 2C - OWID based on CAT",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "Per capita pathways were derived by Our World in Data based on 1.5C and 2C emission pathways from Climate Action Tracker (CAT) and UN population projections. \n\n1.5C and 2C pathways represent the median future scenarios of greenhouse gas emission reductions needed to limit warming. Dividing this total budget by global population figures provides a value of an equitable budget per person.\n\nClimate Action Tracker data sourced from: http://climateactiontracker.org/\nUN population projections (median fertility): https://esa.un.org/unpd/wpp/Download/Standard/Population/ "
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "Per capita pathways for 1.5C and 2C - OWID based on CAT.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "1.5C pathways (per capita)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "2C pathways (per capita)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
