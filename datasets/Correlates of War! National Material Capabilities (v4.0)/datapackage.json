@@ -1,0 +1,66 @@
+{
+  "name": "Correlates of War: National Material Capabilities (v4.0)",
+  "title": "Correlates of War: National Material Capabilities (v4.0)",
+  "id": 124,
+  "description": "The variable 'milex' has been split into two variables as the currency of expenditure changes pre and post-1914. Pre-1914, military expenditure is in thousands of UK pounds and post-1914 it is in thousands of US dollars. Both expenditure figures are measured in current prices.\n\nFor values in real prices: Deflated the pre-1914 series to give the value in 1900 UK £s and  deflated the post-1914 series to give the value in 2000 US $s. Uses Quandl data.",
+  "sources": [
+    {
+      "name": "Correlates of War: National Material Capabilities (v4.0)",
+      "dataPublishedBy": "Correlates of War",
+      "dataPublisherSource": "Correlates of War",
+      "link": "http://cow.dss.ucdavis.edu/data-sets/national-material-capabilities",
+      "retrievedDate": "09/09/2015",
+      "additionalInfo": "The variable 'milex' has been split into two variables as the currency of expenditure changes pre and post-1914. Pre-1914, military expenditure is in thousands of UK pounds and post-1914 it is in thousands of US dollars. Both expenditure figures are measured in current prices.\n\nFor values in real prices: Deflated the pre-1914 series to give the value in 1900 UK £s and  deflated the post-1914 series to give the value in 2000 US $s. Uses Quandl data."
+    }
+  ],
+  "owidTags": [
+    "Military Spending"
+  ],
+  "resources": [
+    {
+      "path": "Correlates of War: National Material Capabilities (v4.0).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Iron and steel production (Correlates of War: National Material Capabilities (v4.0))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "years"
+            }
+          },
+          {
+            "name": "Military expenditure (1816-1913, current prices) (Correlates of War: National Material Capabilities (v4.0))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Military expenditure (1914-2007, current prices) (Correlates of War: National Material Capabilities (v4.0))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "shortUnit": "%"
+            }
+          },
+          {
+            "name": "Military personnel (Correlates of War: National Material Capabilities (v4.0))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
