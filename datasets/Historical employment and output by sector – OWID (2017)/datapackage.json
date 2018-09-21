@@ -1,0 +1,84 @@
+{
+  "name": "Historical employment and output by sector – OWID (2017)",
+  "title": "Historical employment and output by sector – OWID (2017)",
+  "id": 464,
+  "description": "Observations in this dataset correspond to the data published by Herrendorf, Rogerson, and Valentinyi (2014), except in some cases where we have updated observation using new releases of the same underlying data sources. The most important update corresponds to the 2015 release of the Groningen Growth and Development Centre’s (GGDC) 10-sector database. However, some other country-specific updates were also considered (e.g. US data published by the Bureau of Economic Analysis). In the attached documentation (https://ourworldindata.org/wp-content/uploads/2017/05/Documentation-for-Historical-employment-and-output-by-sector-%E2%80%93-OWID-2017.pdf) we describe sources and updates, country by country.",
+  "sources": [
+    {
+      "name": "Our World In Data based on Herrendorf et al. (2014)",
+      "dataPublishedBy": "Our World in Data (Nicolas Lippolis) based on Berthold Herrendorf, Richard Rogerson and Akos Valentinyi (2014) – “Growth and Structural Transformation” Handbook of Economic Growth Vol. 2B",
+      "dataPublisherSource": "Various sources, but mainly Groningen Growth and Development Centre 10-Sector Database",
+      "link": "Data from Herrendorf et al. (2014) is available from https://sites.google.com/site/valentinyiakos/Home/papers/handbook Links to other data used is available in our attached documentation.",
+      "retrievedDate": "24/04/2017",
+      "additionalInfo": "Observations in this dataset correspond to the data published by Herrendorf, Rogerson, and Valentinyi (2014), except in some cases where we have updated observation using new releases of the same underlying data sources. The most important update corresponds to the 2015 release of the Groningen Growth and Development Centre’s (GGDC) 10-sector database. However, some other country-specific updates were also considered (e.g. US data published by the Bureau of Economic Analysis). In the attached documentation (https://ourworldindata.org/wp-content/uploads/2017/05/Documentation-for-Historical-employment-and-output-by-sector-%E2%80%93-OWID-2017.pdf) we describe sources and updates, country by country."
+    }
+  ],
+  "owidTags": [
+    "Industrialization & Technological Progress"
+  ],
+  "resources": [
+    {
+      "path": "Historical employment and output by sector – OWID (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of agriculture in GDP at current prices (Herrendorf et al. data)",
+            "type": "any",
+            "description": "Historical estimates of value added by economic sector, at current prices (expressed as share of total value added at current prices)",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          },
+          {
+            "name": "Share of industry in GDP at current prices (Herrendorf et al. data)",
+            "type": "any",
+            "description": "Historical estimates of value added by economic sector, at current prices (expressed as share of total value added at current prices)",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          },
+          {
+            "name": "Share of services in GDP at current prices (Herrendorf et al. data)",
+            "type": "any",
+            "description": "Historical estimates of value added by economic sector, at current prices (expressed as share of total value added at current prices)",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          },
+          {
+            "name": "Number of people employed in agriculture  (Herrendorf et al. data)",
+            "type": "any",
+            "description": "Historical estimates of employment (number of people) by economic sector.",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          },
+          {
+            "name": "Number of people employed in industry  (Herrendorf et al. data)",
+            "type": "any",
+            "description": "Historical estimates of employment (number of people) by economic sector.",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          },
+          {
+            "name": "Number of people employed in services (Herrendorf et al. data)",
+            "type": "any",
+            "description": "Historical estimates of employment (number of people) by economic sector.",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

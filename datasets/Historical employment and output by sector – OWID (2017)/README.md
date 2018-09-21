@@ -1,0 +1,3 @@
+# Historical employment and output by sector – OWID (2017)
+
+Observations in this dataset correspond to the data published by Herrendorf, Rogerson, and Valentinyi (2014), except in some cases where we have updated observation using new releases of the same underlying data sources. The most important update corresponds to the 2015 release of the Groningen Growth and Development Centre’s (GGDC) 10-sector database. However, some other country-specific updates were also considered (e.g. US data published by the Bureau of Economic Analysis). In the attached documentation (https://ourworldindata.org/wp-content/uploads/2017/05/Documentation-for-Historical-employment-and-output-by-sector-%E2%80%93-OWID-2017.pdf) we describe sources and updates, country by country.
