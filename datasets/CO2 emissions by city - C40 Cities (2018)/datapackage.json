@@ -1,0 +1,60 @@
+{
+  "name": "CO2 emissions by city - C40 Cities (2018)",
+  "title": "CO2 emissions by city - C40 Cities (2018)",
+  "id": 2890,
+  "description": "",
+  "sources": [
+    {
+      "name": "CO2 emissions by city -C40 Cities (2018)",
+      "dataPublishedBy": "GHG Interactive Dashboard Data. 2017. London, UK: C40 Cities Climate Leadership Group.",
+      "dataPublisherSource": null,
+      "link": "https://www.c40.org/other/gpc-dashboard",
+      "retrievedDate": "23rd August 2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Urbanization"
+  ],
+  "resources": [
+    {
+      "path": "CO2 emissions by city - C40 Cities (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Population density",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "CO2 emissions per capita",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Transport emissions per capita (tCO2)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Waste emissions per capita",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
