@@ -1,0 +1,42 @@
+{
+  "name": "Legality Status of Abortion - Guttmacher Institute",
+  "title": "Legality Status of Abortion - Guttmacher Institute",
+  "id": 2836,
+  "description": "Countries are grouped by abortion legality status based on four categories:\n- Banned (meaning there is no explicit legal exception)\n- Highly restricted (meaning abortion is illegal with some exceptions: to save the life of the mother, or in some cases preserve the health of the mother)\n- Legal (but with some restrictions)\n- Legal with no restrictions (apart from standard requirements such as gestation period)",
+  "sources": [
+    {
+      "name": "Legality Status of Abortion - Guttmacher Institute",
+      "dataPublishedBy": "Guttmacher Institute",
+      "dataPublisherSource": null,
+      "link": "https://www.guttmacher.org/sites/default/files/report_downloads/aww_appendix_table_1.pdf",
+      "retrievedDate": "16th July 2018",
+      "additionalInfo": "Countries are grouped by abortion legality status based on four categories:\n- Banned (meaning there is no explicit legal exception)\n- Highly restricted (meaning abortion is illegal with some exceptions: to save the life of the mother, or in some cases preserve the health of the mother)\n- Legal (but with some restrictions)\n- Legal with no restrictions (apart from standard requirements such as gestation period)"
+    }
+  ],
+  "owidTags": [
+    "Contraception & Abortion"
+  ],
+  "resources": [
+    {
+      "path": "Legality Status of Abortion - Guttmacher Institute.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Legality status of abortion",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
