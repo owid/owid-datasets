@@ -1,0 +1,44 @@
+{
+  "name": "CO2 emissions per capita by nation - CDIAC (2017)",
+  "title": "CO2 emissions per capita by nation - CDIAC (2017)",
+  "id": 453,
+  "description": "Data based on per capita carbon emissions converted to per capita carbon dioxide emissions using a conversion factor of 3.67.",
+  "sources": [
+    {
+      "name": "CO2 emissions per capita by nation - CDIAC (2017)",
+      "dataPublishedBy": "Carbon Dioxide Information Analysis Center",
+      "dataPublisherSource": "Tom Boden and Bob Andres (Oak Ridge National Laboratory); Gregg Marland (Appalachian State University)",
+      "link": "http://cdiac.ornl.gov/CO2_Emission/",
+      "retrievedDate": "24/04/2017",
+      "additionalInfo": "Data based on per capita carbon emissions converted to per capita carbon dioxide emissions using a conversion factor of 3.67."
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "CO2 emissions per capita by nation - CDIAC (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "CO2 emissions per capita by nation (CDIAC (2017))",
+            "type": "any",
+            "description": "CO2 emissions per capita per year.",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
