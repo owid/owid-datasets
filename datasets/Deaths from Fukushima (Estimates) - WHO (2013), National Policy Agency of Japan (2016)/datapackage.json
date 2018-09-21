@@ -1,0 +1,42 @@
+{
+  "name": "Deaths from Fukushima (Estimates) - WHO (2013), National Policy Agency of Japan (2016)",
+  "title": "Deaths from Fukushima (Estimates) - WHO (2013), National Policy Agency of Japan (2016)",
+  "id": 643,
+  "description": "Estimates of the total number of deaths from the Fukushima nuclear incidents remain contested.\r\n\r\nEstimates for Fukushima have been derived from the WHO (2013), and estimated stress-induced deaths in evacuation from the Government of Japan.\r\n\r\nSources:\r\n\r\nWorld Health Organisation (2013). Health risk assessment from the nuclear accident after the 2011 Great East Japan Earthquake and Tsunami based on a preliminary dose estimation. Available at: http://apps.who.int/iris/bitstream/10665/78218/1/9789241505130_eng.pdf\r\n\r\nNational Police Agency of Japan (2016). Damage Situation and Police Countermeasures associated with 2011 Tohoku district – off the Pacific Ocean Earthquake.",
+  "sources": [
+    {
+      "name": "Deaths from Fukushima (Estimates) - WHO (2013), National Policy Agency of Japan (2016)",
+      "dataPublishedBy": "WHO, National Policy Agency of Japan",
+      "dataPublisherSource": "Variety of sources, see additional information. ",
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "Estimates of the total number of deaths from the Fukushima nuclear incidents remain contested.\r\n\r\nEstimates for Fukushima have been derived from the WHO (2013), and estimated stress-induced deaths in evacuation from the Government of Japan.\r\n\r\nSources:\r\n\r\nWorld Health Organisation (2013). Health risk assessment from the nuclear accident after the 2011 Great East Japan Earthquake and Tsunami based on a preliminary dose estimation. Available at: http://apps.who.int/iris/bitstream/10665/78218/1/9789241505130_eng.pdf\r\n\r\nNational Police Agency of Japan (2016). Damage Situation and Police Countermeasures associated with 2011 Tohoku district – off the Pacific Ocean Earthquake."
+    }
+  ],
+  "owidTags": [
+    "Safety of Different Energy Sources"
+  ],
+  "resources": [
+    {
+      "path": "Deaths from Fukushima (Estimates) - WHO (2013), National Policy Agency of Japan (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Fukushima (WHO (2013), National Policy Agency of Japan (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
