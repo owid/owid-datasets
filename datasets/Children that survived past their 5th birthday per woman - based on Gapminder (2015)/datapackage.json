@@ -1,0 +1,42 @@
+{
+  "name": "Children that survived past their 5th birthday per woman - based on Gapminder (2015)",
+  "title": "Children that survived past their 5th birthday per woman - based on Gapminder (2015)",
+  "id": 277,
+  "description": "The child mortality rate is the probability that a child born in a specific year will die before reaching the age of five if subject to current age-specific mortality rates.\r\nThe child survival rate is 1-child mortality rate\r\nChild survival rate was multiplied by fertility to obtain the data on how many children died on average per woman.",
+  "sources": [
+    {
+      "name": "Children that survived past their 5th birthday per woman - Gapminder (2015)",
+      "dataPublishedBy": "This data was calculated by Max Roser based on fertility and child mortality estimates from 1800 to 2015 published by Gapminder.org",
+      "dataPublisherSource": "The two Gapminder.org datasets used were: Gapminder child mortality estimates version 8, Gapminder Total Fertility Rate estimates version 6",
+      "link": null,
+      "retrievedDate": "30/07/2016",
+      "additionalInfo": "The child mortality rate is the probability that a child born in a specific year will die before reaching the age of five if subject to current age-specific mortality rates.\r\nThe child survival rate is 1-child mortality rate\r\nChild survival rate was multiplied by fertility to obtain the data on how many children died on average per woman."
+    }
+  ],
+  "owidTags": [
+    "Child Mortality"
+  ],
+  "resources": [
+    {
+      "path": "Children that survived past their 5th birthday per woman - based on Gapminder (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Children that survived past their 5th birthday per woman (based on Gapminder (2015))",
+            "type": "any",
+            "description": "Children that survived past their 5th birthday per woman",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
