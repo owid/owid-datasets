@@ -1,0 +1,44 @@
+{
+  "name": "Renewable Energy Capacity by Technology - IRENA (2017)",
+  "title": "Renewable Energy Capacity by Technology - IRENA (2017)",
+  "id": 450,
+  "description": "The data presented in the IRENA REsource database comes from a variety of sources. Most of the data are official statistics submitted by countries to IRENA using the IRENA renewable energy statistics questionnaire during its annual data collection cycle or taken from official publications. Where official statistics are unavailable, the statistics are supplemented with IRENA estimates or third party data such as that from industry associations.",
+  "sources": [
+    {
+      "name": "Renewable Energy Capacity by Technology - IRENA (2017)",
+      "dataPublishedBy": "International Renewable Energy Agency (IRENA)",
+      "dataPublisherSource": null,
+      "link": "http://resourceirena.irena.org/gateway/dashboard/",
+      "retrievedDate": "28/04/2017",
+      "additionalInfo": "The data presented in the IRENA REsource database comes from a variety of sources. Most of the data are official statistics submitted by countries to IRENA using the IRENA renewable energy statistics questionnaire during its annual data collection cycle or taken from official publications. Where official statistics are unavailable, the statistics are supplemented with IRENA estimates or third party data such as that from industry associations."
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "Renewable Energy Capacity by Technology - IRENA (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Renewable Energy Capacity by Technology (IRENA (2017))",
+            "type": "any",
+            "description": "Renewable Energy Capacity by Energy Technology.",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
