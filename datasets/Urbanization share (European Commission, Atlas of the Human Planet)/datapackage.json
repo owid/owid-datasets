@@ -1,0 +1,42 @@
+{
+  "name": "Urbanization share (European Commission, Atlas of the Human Planet)",
+  "title": "Urbanization share (European Commission, Atlas of the Human Planet)",
+  "id": 2892,
+  "description": "Data reports the share of people living in urban areas, as reported by the European Commission project. These results differ significantly from UN and nationally-defined figures based on differences in methodology.\n\nThe European Commission combines high-resolution satellite imagery with national census data to derive its estimates of urban and rural settlements.\n\nThe European Commission applied a universal definition of settlements across all countries:\n\n- Urban centre: must have a minimum of 50,000 inhabitants plus a population density of at least 1500 people per square kilometre (km2) or density of build-up area greater than 50 percent.\n- Urban cluster: must have a minimum of 5,000 inhabitants plus a population density of at least 300 people per square kilometre (km2).\n- Rural: fewer than 5,000 inhabitants.\n\nThe urban share is thereafter defined as the sum of urban centres and urban clusters.",
+  "sources": [
+    {
+      "name": "Urbanization share (European Commission, Atlas of the Human Planet)",
+      "dataPublishedBy": "Pesaresi, M., Melchiorri, M., Siragusa, A., & Kemper, T. (2016). Atlas of the human planet–Mapping human presence on earth with the global human settlement layer. JRC103150. Publications Office of the European Union. Luxembourg (Luxembourg): European Commission, DG JRC",
+      "dataPublisherSource": null,
+      "link": "https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/atlas-human-planet-mapping-human-presence-earth-global-human-settlement-layer",
+      "retrievedDate": "24th August 2018",
+      "additionalInfo": "Data reports the share of people living in urban areas, as reported by the European Commission project. These results differ significantly from UN and nationally-defined figures based on differences in methodology.\n\nThe European Commission combines high-resolution satellite imagery with national census data to derive its estimates of urban and rural settlements.\n\nThe European Commission applied a universal definition of settlements across all countries:\n\n- Urban centre: must have a minimum of 50,000 inhabitants plus a population density of at least 1500 people per square kilometre (km2) or density of build-up area greater than 50 percent.\n- Urban cluster: must have a minimum of 5,000 inhabitants plus a population density of at least 300 people per square kilometre (km2).\n- Rural: fewer than 5,000 inhabitants.\n\nThe urban share is thereafter defined as the sum of urban centres and urban clusters."
+    }
+  ],
+  "owidTags": [
+    "Urbanization"
+  ],
+  "resources": [
+    {
+      "path": "Urbanization share (European Commission, Atlas of the Human Planet).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Degree of urbanization (% of population)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
