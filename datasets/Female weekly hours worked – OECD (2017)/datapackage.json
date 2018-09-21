@@ -1,0 +1,42 @@
+{
+  "name": "Female weekly hours worked – OECD (2017)",
+  "title": "Female weekly hours worked – OECD (2017)",
+  "id": 921,
+  "description": "Original source notes: \nPart-time employment is defined according to a common definition of less than 30-weekly-usual hours worked in the main job. \n\nFull-time employment is defined according to a common definition of more than 30-weekly-usual hours worked in the main job. \n\nInformation for all countries and all LFS subjects may be found in the attached file : \nwww.oecd.org/els/employmentpoliciesanddata/LFSNOTES_SOURCES.pdf.",
+  "sources": [
+    {
+      "name": "OECD Labor Force Statistics (2017)",
+      "dataPublishedBy": "OECD.stat",
+      "dataPublisherSource": "Country surveys",
+      "link": "http://stats.oecd.org/Index.aspx?DatasetCode=AVE_HRS#)",
+      "retrievedDate": null,
+      "additionalInfo": "Original source notes: \nPart-time employment is defined according to a common definition of less than 30-weekly-usual hours worked in the main job. \n\nFull-time employment is defined according to a common definition of more than 30-weekly-usual hours worked in the main job. \n\nInformation for all countries and all LFS subjects may be found in the attached file : \nwww.oecd.org/els/employmentpoliciesanddata/LFSNOTES_SOURCES.pdf."
+    }
+  ],
+  "owidTags": [
+    "Working Hours"
+  ],
+  "resources": [
+    {
+      "path": "Female weekly hours worked – OECD (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Average weekly hours worked (women, 15+) (OECD Labor Force Statistics (2017))",
+            "type": "any",
+            "description": "Average usual weekly hours worked on the main job, for women ages 15+. Estimates correspond to total declared employment. This includes part-time and full-time employment, as well as self-employment and dependent employment. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
