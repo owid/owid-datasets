@@ -1,0 +1,45 @@
+{
+  "name": "International Historical Statistics: European trade - Brian Mitchell (2015)",
+  "title": "International Historical Statistics: European trade - Brian Mitchell (2015)",
+  "id": 35,
+  "description": "National accounts and trade (GDP, imports and exports). The ratio is computed as the sum of imports and exports divided by GDP.",
+  "sources": [
+    {
+      "name": "International Historical Statistics - Brian Mitchell (2015)",
+      "dataPublishedBy": "International Historical Statistics",
+      "dataPublisherSource": "Brian Mitchell",
+      "link": "http://www.palgraveconnect.com/pc/doifinder/10.1057/9781137305688",
+      "retrievedDate": "07/07/2015",
+      "additionalInfo": "National accounts and trade (GDP, imports and exports). The ratio is computed as the sum of imports and exports divided by GDP."
+    }
+  ],
+  "owidTags": [
+    "Trade from the Recent Past to Present"
+  ],
+  "resources": [
+    {
+      "path": "International Historical Statistics: European trade - Brian Mitchell (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Historical European trade (Brian Mitchell (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
