@@ -1,0 +1,42 @@
+{
+  "name": "Year of smallpox eradication by country - WHO (1988)",
+  "title": "Year of smallpox eradication by country - WHO (1988)",
+  "id": 917,
+  "description": "The only data not taken from the maps but from the text are the data for Canada, USA, Australia and New Zealand: For Canada the authors reported that “endemic smallpox was eliminated by 1944”, for the USA only that it was eliminated “the latter half of the 1940s” (I chose 1948 for the visualization). Dates for the last outbreaks of smallpox in Australia (1917) and New Zealand (1914) are reported in the text – in both countries smallpox has always been rare. \r\n\r\nThe dates for Madagascar and Namibia are not exactly known – the authors only report that smallpox was eradicated in Madagascar before 1918 and for Namibia before 1955 (so I chose these years for eradication). \r\n\r\nCountries are shown in their current borders – successor countries of Yugoslavia, the USSR and the Sudan are assigned the eradication date of these states: 1925 for Yugoslavia, 1936 for the USSR, and 1972 for the Sudan.",
+  "sources": [
+    {
+      "name": "Smallpox and its Eradication - Fenner, Henderson, Arita, Jezek, and Ladnyi (1988) - WHO",
+      "dataPublishedBy": "Maps in Chapter 8 of F. Fenner, D. A. Henderson, I. Arita, Z. Jezek, I. D. Ladnyi (1988) – Smallpox and its Eradication. World Health Organization (WHO) 1988.",
+      "dataPublisherSource": "In-text citations refer the reader to academic publications for individual countries or continents.",
+      "link": "http://whqlibdoc.who.int/smallpox/9241561106.pdf",
+      "retrievedDate": "11/09/2017",
+      "additionalInfo": "The only data not taken from the maps but from the text are the data for Canada, USA, Australia and New Zealand: For Canada the authors reported that “endemic smallpox was eliminated by 1944”, for the USA only that it was eliminated “the latter half of the 1940s” (I chose 1948 for the visualization). Dates for the last outbreaks of smallpox in Australia (1917) and New Zealand (1914) are reported in the text – in both countries smallpox has always been rare. \r\n\r\nThe dates for Madagascar and Namibia are not exactly known – the authors only report that smallpox was eradicated in Madagascar before 1918 and for Namibia before 1955 (so I chose these years for eradication). \r\n\r\nCountries are shown in their current borders – successor countries of Yugoslavia, the USSR and the Sudan are assigned the eradication date of these states: 1925 for Yugoslavia, 1936 for the USSR, and 1972 for the Sudan."
+    }
+  ],
+  "owidTags": [
+    "Eradication of Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Year of smallpox eradication by country - WHO (1988).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Year of smallpox eradication (WHO (1988))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
