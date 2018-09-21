@@ -1,0 +1,44 @@
+{
+  "name": "Cross-country literacy rates - World Bank, CIA World Factbook, and other sources",
+  "title": "Cross-country literacy rates - World Bank, CIA World Factbook, and other sources",
+  "id": 2762,
+  "description": "Additional Information\n</br>\nThis long run cross-country dataset combines data from a number of sources. We took the estimates from the World Bank’s WDI as our base, and then extended coverage by adding literacy estimates from the CIA Factbook, as well as several other long-run series, as follows:\n<ul>\n<li>Data before 1800: Buringh, E., & Van Zanden, J. L. (2009). Charting the “Rise of the West”: Manuscripts and Printed Books in Europe, A long-term perspective from the sixth through eighteenth centuries. The Journal of Economic History. Online <a href=\"http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.553.9220&rep=rep1&type=pdf\">here</a>. Observations before 1800 are plotted at the midpoint of the given time range (1475 refers to 1451–1500, 1550 refers to 1501-1600 etc.)</li>\n<li>Data for 1820 and 1870 (except for the US): Broadberry  and O'Rourke (2010) – The Cambridge Economic History of Modern Europe: Volume 1, 1700-1870 </li>\n<li>Data for the US: National Center for Education Statistics, online <a href=\"nces.ed.gov/naal/lit_history.asp\">here</a>. </li>\n <li>Global estimates for 1820-2000: van Zanden, J.L., et al. (eds.) (2014), How Was Life?: Global Well-being since 1820, OECD Publishing. Online <a href=\"http://www.oecd.org/statistics/how-was-life-9789264214262-en.htm\">here</a>. </li>\n<li>Historical estimates for Latin America: OxLAD – Oxford Latin American Economic History Data Base, online <a href=\"http://moxlad-staging.herokuapp.com/home/en\">here</a>. </li>\n<li>Most recent estimates for high-income countries, as well as any available estimates for 2016: <a href=\"https://www.cia.gov/library/publications/the-world-factbook/\">CIA World Factbook</a>. </li>\n</ul>\nFurther notes: \n</br>\n- All sources rely on the same conceptual definition, but in many cases sources do not agree with one another. Because of this, year to year changes should be interpreted with caution. You can read more about literacy measurement here: https://ourworldindata.org/how-is-literacy-measured\n</br>\n- The World Bank's WDI estimates correspond to UNESCO Institute for Statistics. OxLAD estimates come from several underlying sources (see original documentation for more details).\n</br>\n- For Paraguay in 1982, the OxLAD data source was favoured over the World Bank (WDI) as the latter estimates literacy rates at 78.46%, a much lower estimate compared to neighbouring years for which there was data available.\n</br>\n- Sources for each country-year observation can be found in <a href=\"https://owid.cloud/wp-content/uploads/2018/06/cross-country-literacy-sources-final.csv\" rel=\"noopener\" target=\"_blank\">this table.</a>  ",
+  "sources": [
+    {
+      "name": "Literacy rates (World Bank, CIA World Factbook, and other sources)",
+      "dataPublishedBy": "Our World in Data ",
+      "dataPublisherSource": "Sources for each country-year observation can be found in <a href=\"https://ourworldindata.org/wp-content/uploads/2018/06/cross-country-literacy-sources-final.csv\" rel=\"noopener\" target=\"_blank\">this table.</a> ",
+      "link": "- World Bank: https://data.worldbank.org/indicator/SE.ADT.LITR.ZS </br> - CIA Factbook: https://www.cia.gov/library/publications/the-world-factbook/ </br> - Links to other sources below",
+      "retrievedDate": "18/04/2018",
+      "additionalInfo": "Additional Information\n</br>\nThis long run cross-country dataset combines data from a number of sources. We took the estimates from the World Bank’s WDI as our base, and then extended coverage by adding literacy estimates from the CIA Factbook, as well as several other long-run series, as follows:\n<ul>\n<li>Data before 1800: Buringh, E., & Van Zanden, J. L. (2009). Charting the “Rise of the West”: Manuscripts and Printed Books in Europe, A long-term perspective from the sixth through eighteenth centuries. The Journal of Economic History. Online <a href=\"http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.553.9220&rep=rep1&type=pdf\">here</a>. Observations before 1800 are plotted at the midpoint of the given time range (1475 refers to 1451–1500, 1550 refers to 1501-1600 etc.)</li>\n<li>Data for 1820 and 1870 (except for the US): Broadberry  and O'Rourke (2010) – The Cambridge Economic History of Modern Europe: Volume 1, 1700-1870 </li>\n<li>Data for the US: National Center for Education Statistics, online <a href=\"nces.ed.gov/naal/lit_history.asp\">here</a>. </li>\n <li>Global estimates for 1820-2000: van Zanden, J.L., et al. (eds.) (2014), How Was Life?: Global Well-being since 1820, OECD Publishing. Online <a href=\"http://www.oecd.org/statistics/how-was-life-9789264214262-en.htm\">here</a>. </li>\n<li>Historical estimates for Latin America: OxLAD – Oxford Latin American Economic History Data Base, online <a href=\"http://moxlad-staging.herokuapp.com/home/en\">here</a>. </li>\n<li>Most recent estimates for high-income countries, as well as any available estimates for 2016: <a href=\"https://www.cia.gov/library/publications/the-world-factbook/\">CIA World Factbook</a>. </li>\n</ul>\nFurther notes: \n</br>\n- All sources rely on the same conceptual definition, but in many cases sources do not agree with one another. Because of this, year to year changes should be interpreted with caution. You can read more about literacy measurement here: https://ourworldindata.org/how-is-literacy-measured\n</br>\n- The World Bank's WDI estimates correspond to UNESCO Institute for Statistics. OxLAD estimates come from several underlying sources (see original documentation for more details).\n</br>\n- For Paraguay in 1982, the OxLAD data source was favoured over the World Bank (WDI) as the latter estimates literacy rates at 78.46%, a much lower estimate compared to neighbouring years for which there was data available.\n</br>\n- Sources for each country-year observation can be found in <a href=\"https://owid.cloud/wp-content/uploads/2018/06/cross-country-literacy-sources-final.csv\" rel=\"noopener\" target=\"_blank\">this table.</a>  "
+    }
+  ],
+  "owidTags": [
+    "Literacy"
+  ],
+  "resources": [
+    {
+      "path": "Cross-country literacy rates - World Bank, CIA World Factbook, and other sources.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Literacy rates (World Bank, CIA World Factbook, and other sources)",
+            "type": "any",
+            "description": "Percentage of the population (aged 15 and above) who can read and write.",
+            "owidDisplaySettings": {
+              "unit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
