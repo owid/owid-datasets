@@ -1,0 +1,156 @@
+{
+  "name": "Cancer deaths grouped - OWID based on IHME",
+  "title": "Cancer deaths grouped - OWID based on IHME",
+  "id": 1936,
+  "description": "Total annual number of deaths from cancers (termed 'Neoplasms' within the IHME, Global Burden of Disease Study). This measures cancer deaths across both sexes and all ages.\r\n\r\nSmaller categories of cancer types have been grouped by Our World in Data into a collective category 'Other cancers'. This grouping was set based on cancer types with global annual deaths in 2016 under 100,000. This includes testicular, Hodgkin lymphoma, mesothelioma, thyroid, non-melanoma skin cancer, nasopharynx, malignant skin melanoma, uterine cancer, and multiple myeloma.",
+  "sources": [
+    {
+      "name": "Cancer deaths grouped - OWID based on IHME",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2016 (GBD 2016) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2017.",
+      "dataPublisherSource": null,
+      "link": "http://ghdx.healthdata.org/gbd-results-tool",
+      "retrievedDate": "1st February 2018",
+      "additionalInfo": "Total annual number of deaths from cancers (termed 'Neoplasms' within the IHME, Global Burden of Disease Study). This measures cancer deaths across both sexes and all ages.\r\n\r\nSmaller categories of cancer types have been grouped by Our World in Data into a collective category 'Other cancers'. This grouping was set based on cancer types with global annual deaths in 2016 under 100,000. This includes testicular, Hodgkin lymphoma, mesothelioma, thyroid, non-melanoma skin cancer, nasopharynx, malignant skin melanoma, uterine cancer, and multiple myeloma."
+    }
+  ],
+  "owidTags": [
+    "Cancer"
+  ],
+  "resources": [
+    {
+      "path": "Cancer deaths grouped - OWID based on IHME.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Lip and oral cavity cancer (deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Other pharynx cancer (deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Esophageal cancer (deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Stomach cancer (deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Colon and rectum cancer (deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Liver cancer (deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gallbladder cancer (deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Pancreatic cancer (deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Larynx cancer (deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Tracheal, bronchus, and lung cancer (deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Breast cancer (deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cervical cancer (deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Ovarian cancer (deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prostate cancer (deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Kidney cancer (deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Bladder cancer (deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Brain and nervous system cancer (deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Non-Hodgkin lymphoma (deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Leukemia (deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Other cancers (deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
