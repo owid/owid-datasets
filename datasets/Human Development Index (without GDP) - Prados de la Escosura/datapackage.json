@@ -1,0 +1,42 @@
+{
+  "name": "Human Development Index (without GDP) - Prados de la Escosura",
+  "title": "Human Development Index (without GDP) - Prados de la Escosura",
+  "id": 2781,
+  "description": "The Human Development Index (HDI) is a composite statistic (index) that measures key dimensions of human development:\n- life expectancy\n- literacy\n- educational enrolment\n– and per capita gross domestic product (GDP)\n\nThis particular metric presents the assessed HDI normalised without the variable of per capita gross domestic product (GDP), so includes life expectancy, literacy and schooling rates only.\n\nSources on the following dimensions can be found at: https://espacioinvestiga.org/home-hihd/about-indices-hihd/hihd-sources-and-procedures/?lang=en",
+  "sources": [
+    {
+      "name": "Human Development Index (without GDP) - Prados de la Escosura",
+      "dataPublishedBy": "Leandro Prados de la Escosura (HIHD)",
+      "dataPublisherSource": null,
+      "link": "https://espacioinvestiga.org/home-hihd/?lang=en",
+      "retrievedDate": "2nd May 2018",
+      "additionalInfo": "The Human Development Index (HDI) is a composite statistic (index) that measures key dimensions of human development:\n- life expectancy\n- literacy\n- educational enrolment\n– and per capita gross domestic product (GDP)\n\nThis particular metric presents the assessed HDI normalised without the variable of per capita gross domestic product (GDP), so includes life expectancy, literacy and schooling rates only.\n\nSources on the following dimensions can be found at: https://espacioinvestiga.org/home-hihd/about-indices-hihd/hihd-sources-and-procedures/?lang=en"
+    }
+  ],
+  "owidTags": [
+    "Human Development Index (HDI)"
+  ],
+  "resources": [
+    {
+      "path": "Human Development Index (without GDP) - Prados de la Escosura.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Human Development Index (without GDP metric)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}

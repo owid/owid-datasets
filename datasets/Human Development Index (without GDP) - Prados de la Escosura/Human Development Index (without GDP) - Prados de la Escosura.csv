@@ -1,0 +1,3212 @@
+Entity,Year,Human Development Index (without GDP metric)
+Afghanistan,1950,0.02
+Afghanistan,1955,0.02
+Afghanistan,1960,0.02
+Afghanistan,1965,0.04
+Afghanistan,1970,0.05
+Afghanistan,1975,0.05
+Afghanistan,1980,0.06
+Afghanistan,1985,0.06
+Afghanistan,1990,0.07
+Afghanistan,1995,0.08
+Afghanistan,2000,0.07
+Afghanistan,2005,0.11
+Afghanistan,2007,0.11
+Afghanistan,2010,0.12
+Afghanistan,2015,0.19
+Albania,1913,0.03
+Albania,1925,0.04
+Albania,1929,0.04
+Albania,1933,0.04
+Albania,1938,0.07
+Albania,1950,0.17
+Albania,1955,0.19
+Albania,1960,0.21
+Albania,1965,0.24
+Albania,1970,0.29
+Albania,1975,0.32
+Albania,1980,0.32
+Albania,1985,0.32
+Albania,1990,0.33
+Albania,1995,0.33
+Albania,2000,0.37
+Albania,2005,0.40
+Albania,2007,0.45
+Albania,2010,0.48
+Albania,2015,0.56
+Algeria,1870,0.02
+Algeria,1880,0.02
+Algeria,1890,0.02
+Algeria,1900,0.02
+Algeria,1913,0.03
+Algeria,1925,0.03
+Algeria,1929,0.03
+Algeria,1933,0.03
+Algeria,1938,0.04
+Algeria,1950,0.06
+Algeria,1955,0.07
+Algeria,1960,0.08
+Algeria,1965,0.10
+Algeria,1970,0.12
+Algeria,1975,0.15
+Algeria,1980,0.17
+Algeria,1985,0.20
+Algeria,1990,0.23
+Algeria,1995,0.26
+Algeria,2000,0.28
+Algeria,2005,0.32
+Algeria,2007,0.33
+Algeria,2010,0.35
+Algeria,2015,0.40
+Angola,1870,0.01
+Angola,1880,0.01
+Angola,1890,0.01
+Angola,1900,0.01
+Angola,1913,0.01
+Angola,1925,0.01
+Angola,1929,0.01
+Angola,1933,0.01
+Angola,1938,0.01
+Angola,1950,0.01
+Angola,1955,0.02
+Angola,1960,0.03
+Angola,1965,0.03
+Angola,1970,0.05
+Angola,1975,0.06
+Angola,1980,0.10
+Angola,1985,0.10
+Angola,1990,0.10
+Angola,1995,0.10
+Angola,2000,0.12
+Angola,2005,0.17
+Angola,2007,0.18
+Angola,2010,0.18
+Angola,2015,0.21
+Argentina,1870,0.04
+Argentina,1880,0.05
+Argentina,1890,0.07
+Argentina,1900,0.09
+Argentina,1913,0.12
+Argentina,1925,0.15
+Argentina,1929,0.16
+Argentina,1933,0.18
+Argentina,1938,0.19
+Argentina,1950,0.24
+Argentina,1955,0.27
+Argentina,1960,0.29
+Argentina,1965,0.29
+Argentina,1970,0.33
+Argentina,1975,0.35
+Argentina,1980,0.37
+Argentina,1985,0.40
+Argentina,1990,0.43
+Argentina,1995,0.44
+Argentina,2000,0.49
+Argentina,2005,0.56
+Argentina,2007,0.57
+Argentina,2010,0.60
+Argentina,2015,0.67
+Armenia,1980,0.38
+Armenia,1985,0.39
+Armenia,1990,0.39
+Armenia,1995,0.41
+Armenia,2000,0.46
+Armenia,2005,0.46
+Armenia,2007,0.48
+Armenia,2010,0.49
+Armenia,2015,0.49
+Australia,1870,0.15
+Australia,1880,0.18
+Australia,1890,0.19
+Australia,1900,0.22
+Australia,1913,0.27
+Australia,1925,0.30
+Australia,1929,0.31
+Australia,1933,0.32
+Australia,1938,0.34
+Australia,1950,0.39
+Australia,1955,0.41
+Australia,1960,0.43
+Australia,1965,0.43
+Australia,1970,0.45
+Australia,1975,0.46
+Australia,1980,0.48
+Australia,1985,0.50
+Australia,1990,0.53
+Australia,1995,0.74
+Australia,2000,0.78
+Australia,2005,0.82
+Australia,2007,0.83
+Australia,2010,0.85
+Australia,2015,0.89
+Austria,1870,0.08
+Austria,1880,0.11
+Austria,1890,0.13
+Austria,1900,0.16
+Austria,1913,0.18
+Austria,1925,0.23
+Austria,1929,0.26
+Austria,1933,0.28
+Austria,1938,0.30
+Austria,1950,0.35
+Austria,1955,0.36
+Austria,1960,0.38
+Austria,1965,0.39
+Austria,1970,0.44
+Austria,1975,0.45
+Austria,1980,0.46
+Austria,1985,0.47
+Austria,1990,0.50
+Austria,1995,0.56
+Austria,2000,0.61
+Austria,2005,0.64
+Austria,2007,0.65
+Austria,2010,0.68
+Austria,2015,0.75
+Azerbaijan,1990,0.39
+Azerbaijan,1995,0.38
+Azerbaijan,2000,0.38
+Azerbaijan,2005,0.41
+Azerbaijan,2007,0.43
+Azerbaijan,2010,0.43
+Azerbaijan,2015,0.43
+Bahamas,1950,0.23
+Bahamas,1955,0.24
+Bahamas,1960,0.27
+Bahamas,1965,0.30
+Bahamas,1970,0.32
+Bahamas,1975,0.33
+Bahamas,1980,0.37
+Bahamas,1985,0.37
+Bahamas,1990,0.39
+Bahamas,1995,0.38
+Bahamas,2000,0.38
+Bahamas,2005,0.42
+Bahamas,2007,0.42
+Bahamas,2010,0.48
+Bahamas,2015,0.49
+Bahrain,1950,0.09
+Bahrain,1955,0.12
+Bahrain,1960,0.17
+Bahrain,1965,0.21
+Bahrain,1970,0.21
+Bahrain,1975,0.24
+Bahrain,1980,0.27
+Bahrain,1985,0.31
+Bahrain,1990,0.37
+Bahrain,1995,0.40
+Bahrain,2000,0.42
+Bahrain,2005,0.46
+Bahrain,2007,0.49
+Bahrain,2010,0.52
+Bahrain,2015,0.54
+Bangladesh,1950,0.05
+Bangladesh,1955,0.06
+Bangladesh,1960,0.06
+Bangladesh,1965,0.07
+Bangladesh,1970,0.08
+Bangladesh,1975,0.10
+Bangladesh,1980,0.11
+Bangladesh,1985,0.11
+Bangladesh,1990,0.13
+Bangladesh,1995,0.14
+Bangladesh,2000,0.18
+Bangladesh,2005,0.20
+Bangladesh,2007,0.22
+Bangladesh,2010,0.24
+Bangladesh,2015,0.28
+Barbados,1950,0.24
+Barbados,1955,0.29
+Barbados,1960,0.34
+Barbados,1965,0.37
+Barbados,1970,0.39
+Barbados,1975,0.41
+Barbados,1980,0.43
+Barbados,1985,0.47
+Barbados,1990,0.49
+Barbados,1995,0.50
+Barbados,2000,0.56
+Barbados,2005,0.57
+Barbados,2007,0.64
+Barbados,2010,0.68
+Barbados,2015,0.62
+Belarus,1980,0.45
+Belarus,1985,0.45
+Belarus,1990,0.44
+Belarus,1995,0.52
+Belarus,2000,0.57
+Belarus,2005,0.58
+Belarus,2007,0.51
+Belarus,2010,0.52
+Belarus,2015,0.61
+Belgium,1870,0.12
+Belgium,1880,0.13
+Belgium,1890,0.14
+Belgium,1900,0.17
+Belgium,1913,0.19
+Belgium,1925,0.22
+Belgium,1929,0.24
+Belgium,1933,0.26
+Belgium,1938,0.28
+Belgium,1950,0.30
+Belgium,1955,0.34
+Belgium,1960,0.40
+Belgium,1965,0.40
+Belgium,1970,0.47
+Belgium,1975,0.48
+Belgium,1980,0.48
+Belgium,1985,0.51
+Belgium,1990,0.54
+Belgium,1995,0.54
+Belgium,2000,0.56
+Belgium,2005,0.75
+Belgium,2007,0.68
+Belgium,2010,0.74
+Belgium,2015,0.82
+Belize,1950,0.21
+Belize,1955,0.21
+Belize,1960,0.22
+Belize,1965,0.23
+Belize,1970,0.24
+Belize,1975,0.26
+Belize,1980,0.33
+Belize,1985,0.34
+Belize,1990,0.37
+Belize,1995,0.40
+Belize,2000,0.41
+Belize,2005,0.45
+Belize,2007,0.39
+Belize,2010,0.42
+Belize,2015,0.35
+Benin,1870,0.01
+Benin,1880,0.01
+Benin,1890,0.01
+Benin,1900,0.01
+Benin,1913,0.01
+Benin,1925,0.01
+Benin,1929,0.01
+Benin,1933,0.02
+Benin,1938,0.02
+Benin,1950,0.02
+Benin,1955,0.03
+Benin,1960,0.04
+Benin,1965,0.05
+Benin,1970,0.06
+Benin,1975,0.07
+Benin,1980,0.09
+Benin,1985,0.10
+Benin,1990,0.11
+Benin,1995,0.13
+Benin,2000,0.15
+Benin,2005,0.18
+Benin,2007,0.16
+Benin,2010,0.19
+Benin,2015,0.19
+Bolivia,1870,0.01
+Bolivia,1880,0.02
+Bolivia,1890,0.02
+Bolivia,1900,0.02
+Bolivia,1913,0.03
+Bolivia,1925,0.04
+Bolivia,1929,0.05
+Bolivia,1933,0.05
+Bolivia,1938,0.06
+Bolivia,1950,0.08
+Bolivia,1955,0.08
+Bolivia,1960,0.09
+Bolivia,1965,0.12
+Bolivia,1970,0.14
+Bolivia,1975,0.15
+Bolivia,1980,0.19
+Bolivia,1985,0.22
+Bolivia,1990,0.24
+Bolivia,1995,0.27
+Bolivia,2000,0.31
+Bolivia,2005,0.35
+Bolivia,2007,0.36
+Bolivia,2010,0.37
+Bolivia,2015,0.42
+Botswana,1870,0.01
+Botswana,1880,0.01
+Botswana,1890,0.01
+Botswana,1900,0.02
+Botswana,1913,0.02
+Botswana,1925,0.03
+Botswana,1929,0.03
+Botswana,1933,0.03
+Botswana,1938,0.04
+Botswana,1950,0.07
+Botswana,1955,0.08
+Botswana,1960,0.09
+Botswana,1965,0.12
+Botswana,1970,0.13
+Botswana,1975,0.15
+Botswana,1980,0.19
+Botswana,1985,0.22
+Botswana,1990,0.24
+Botswana,1995,0.24
+Botswana,2000,0.21
+Botswana,2005,0.22
+Botswana,2007,0.24
+Botswana,2010,0.26
+Botswana,2015,0.31
+Brazil,1870,0.02
+Brazil,1880,0.02
+Brazil,1890,0.03
+Brazil,1900,0.04
+Brazil,1913,0.04
+Brazil,1925,0.05
+Brazil,1929,0.06
+Brazil,1933,0.06
+Brazil,1938,0.07
+Brazil,1950,0.12
+Brazil,1955,0.14
+Brazil,1960,0.15
+Brazil,1965,0.18
+Brazil,1970,0.19
+Brazil,1975,0.23
+Brazil,1980,0.25
+Brazil,1985,0.27
+Brazil,1990,0.30
+Brazil,1995,0.34
+Brazil,2000,0.41
+Brazil,2005,0.42
+Brazil,2007,0.42
+Brazil,2010,0.43
+Brazil,2015,0.48
+Brunei,1990,0.37
+Brunei,1995,0.40
+Brunei,2000,0.43
+Brunei,2005,0.46
+Brunei,2007,0.49
+Brunei,2010,0.50
+Brunei,2015,0.54
+Bulgaria,1870,0.05
+Bulgaria,1880,0.05
+Bulgaria,1890,0.06
+Bulgaria,1900,0.08
+Bulgaria,1913,0.10
+Bulgaria,1925,0.13
+Bulgaria,1929,0.14
+Bulgaria,1933,0.16
+Bulgaria,1938,0.19
+Bulgaria,1950,0.25
+Bulgaria,1955,0.28
+Bulgaria,1960,0.32
+Bulgaria,1965,0.36
+Bulgaria,1970,0.37
+Bulgaria,1975,0.38
+Bulgaria,1980,0.39
+Bulgaria,1985,0.41
+Bulgaria,1990,0.43
+Bulgaria,1995,0.43
+Bulgaria,2000,0.45
+Bulgaria,2005,0.47
+Bulgaria,2007,0.47
+Bulgaria,2010,0.48
+Bulgaria,2015,0.52
+Burkina Faso,1870,0.01
+Burkina Faso,1880,0.01
+Burkina Faso,1890,0.01
+Burkina Faso,1900,0.01
+Burkina Faso,1913,0.01
+Burkina Faso,1925,0.01
+Burkina Faso,1929,0.01
+Burkina Faso,1933,0.01
+Burkina Faso,1938,0.01
+Burkina Faso,1950,0.02
+Burkina Faso,1955,0.02
+Burkina Faso,1960,0.03
+Burkina Faso,1965,0.03
+Burkina Faso,1970,0.04
+Burkina Faso,1975,0.04
+Burkina Faso,1980,0.05
+Burkina Faso,1985,0.06
+Burkina Faso,1990,0.07
+Burkina Faso,1995,0.08
+Burkina Faso,2000,0.09
+Burkina Faso,2005,0.10
+Burkina Faso,2007,0.12
+Burkina Faso,2010,0.13
+Burkina Faso,2015,0.16
+Burundi,1870,0.01
+Burundi,1880,0.01
+Burundi,1890,0.01
+Burundi,1900,0.01
+Burundi,1913,0.01
+Burundi,1925,0.01
+Burundi,1929,0.01
+Burundi,1933,0.02
+Burundi,1938,0.02
+Burundi,1950,0.03
+Burundi,1955,0.04
+Burundi,1960,0.05
+Burundi,1965,0.05
+Burundi,1970,0.07
+Burundi,1975,0.07
+Burundi,1980,0.07
+Burundi,1985,0.09
+Burundi,1990,0.10
+Burundi,1995,0.11
+Burundi,2000,0.13
+Burundi,2005,0.13
+Burundi,2007,0.19
+Burundi,2010,0.20
+Burundi,2015,0.24
+Cambodia,1870,0.01
+Cambodia,1880,0.01
+Cambodia,1890,0.01
+Cambodia,1900,0.01
+Cambodia,1913,0.01
+Cambodia,1925,0.01
+Cambodia,1929,0.02
+Cambodia,1933,0.03
+Cambodia,1938,0.03
+Cambodia,1950,0.05
+Cambodia,1955,0.08
+Cambodia,1960,0.09
+Cambodia,1965,0.11
+Cambodia,1970,0.09
+Cambodia,1975,0.07
+Cambodia,1980,0.12
+Cambodia,1985,0.19
+Cambodia,1990,0.18
+Cambodia,1995,0.19
+Cambodia,2000,0.20
+Cambodia,2005,0.23
+Cambodia,2007,0.25
+Cambodia,2010,0.25
+Cambodia,2015,0.30
+Cameroon,1870,0.01
+Cameroon,1880,0.01
+Cameroon,1890,0.01
+Cameroon,1900,0.01
+Cameroon,1913,0.01
+Cameroon,1925,0.01
+Cameroon,1929,0.02
+Cameroon,1933,0.02
+Cameroon,1938,0.03
+Cameroon,1950,0.04
+Cameroon,1955,0.04
+Cameroon,1960,0.05
+Cameroon,1965,0.06
+Cameroon,1970,0.10
+Cameroon,1975,0.12
+Cameroon,1980,0.14
+Cameroon,1985,0.16
+Cameroon,1990,0.18
+Cameroon,1995,0.18
+Cameroon,2000,0.17
+Cameroon,2005,0.18
+Cameroon,2007,0.18
+Cameroon,2010,0.18
+Cameroon,2015,0.23
+Canada,1870,0.14
+Canada,1880,0.16
+Canada,1890,0.18
+Canada,1900,0.19
+Canada,1913,0.23
+Canada,1925,0.29
+Canada,1929,0.31
+Canada,1933,0.30
+Canada,1938,0.33
+Canada,1950,0.38
+Canada,1955,0.42
+Canada,1960,0.45
+Canada,1965,0.50
+Canada,1970,0.51
+Canada,1975,0.51
+Canada,1980,0.52
+Canada,1985,0.59
+Canada,1990,0.64
+Canada,1995,0.74
+Canada,2000,0.69
+Canada,2005,0.79
+Canada,2007,0.80
+Canada,2010,0.82
+Canada,2015,0.87
+Cape Verde,1950,0.07
+Cape Verde,1955,0.08
+Cape Verde,1960,0.10
+Cape Verde,1965,0.12
+Cape Verde,1970,0.15
+Cape Verde,1975,0.18
+Cape Verde,1980,0.19
+Cape Verde,1985,0.21
+Cape Verde,1990,0.24
+Cape Verde,1995,0.29
+Cape Verde,2000,0.31
+Cape Verde,2005,0.33
+Cape Verde,2007,0.35
+Cape Verde,2010,0.36
+Cape Verde,2015,0.40
+Central African Republic,1870,0.01
+Central African Republic,1880,0.01
+Central African Republic,1890,0.01
+Central African Republic,1900,0.01
+Central African Republic,1913,0.01
+Central African Republic,1925,0.01
+Central African Republic,1929,0.01
+Central African Republic,1933,0.01
+Central African Republic,1938,0.01
+Central African Republic,1950,0.02
+Central African Republic,1955,0.03
+Central African Republic,1960,0.05
+Central African Republic,1965,0.07
+Central African Republic,1970,0.07
+Central African Republic,1975,0.08
+Central African Republic,1980,0.10
+Central African Republic,1985,0.11
+Central African Republic,1990,0.11
+Central African Republic,1995,0.11
+Central African Republic,2000,0.12
+Central African Republic,2005,0.12
+Central African Republic,2007,0.12
+Central African Republic,2010,0.12
+Central African Republic,2015,0.13
+Chad,1870,0.01
+Chad,1880,0.01
+Chad,1890,0.01
+Chad,1900,0.01
+Chad,1913,0.01
+Chad,1925,0.01
+Chad,1929,0.01
+Chad,1933,0.01
+Chad,1938,0.01
+Chad,1950,0.01
+Chad,1955,0.02
+Chad,1960,0.03
+Chad,1965,0.04
+Chad,1970,0.05
+Chad,1975,0.05
+Chad,1980,0.07
+Chad,1985,0.08
+Chad,1990,0.10
+Chad,1995,0.11
+Chad,2000,0.10
+Chad,2005,0.11
+Chad,2007,0.12
+Chad,2010,0.13
+Chad,2015,0.14
+Chile,1870,0.03
+Chile,1880,0.03
+Chile,1890,0.04
+Chile,1900,0.05
+Chile,1913,0.07
+Chile,1925,0.10
+Chile,1929,0.10
+Chile,1933,0.11
+Chile,1938,0.12
+Chile,1950,0.19
+Chile,1955,0.21
+Chile,1960,0.23
+Chile,1965,0.26
+Chile,1970,0.29
+Chile,1975,0.33
+Chile,1980,0.35
+Chile,1985,0.38
+Chile,1990,0.41
+Chile,1995,0.45
+Chile,2000,0.49
+Chile,2005,0.55
+Chile,2007,0.60
+Chile,2010,0.59
+Chile,2015,0.70
+China,1870,0.01
+China,1880,0.01
+China,1890,0.02
+China,1900,0.02
+China,1913,0.02
+China,1925,0.02
+China,1929,0.04
+China,1933,0.04
+China,1938,0.05
+China,1950,0.09
+China,1955,0.12
+China,1960,0.11
+China,1965,0.19
+China,1970,0.21
+China,1975,0.25
+China,1980,0.26
+China,1985,0.25
+China,1990,0.27
+China,1995,0.29
+China,2000,0.34
+China,2005,0.36
+China,2007,0.39
+China,2010,0.40
+China,2015,0.47
+Colombia,1870,0.03
+Colombia,1880,0.03
+Colombia,1890,0.03
+Colombia,1900,0.04
+Colombia,1913,0.05
+Colombia,1925,0.06
+Colombia,1929,0.07
+Colombia,1933,0.07
+Colombia,1938,0.08
+Colombia,1950,0.12
+Colombia,1955,0.15
+Colombia,1960,0.17
+Colombia,1965,0.19
+Colombia,1970,0.23
+Colombia,1975,0.25
+Colombia,1980,0.28
+Colombia,1985,0.29
+Colombia,1990,0.31
+Colombia,1995,0.33
+Colombia,2000,0.37
+Colombia,2005,0.41
+Colombia,2007,0.43
+Colombia,2010,0.46
+Colombia,2015,0.49
+Comoros,1980,0.15
+Comoros,1985,0.16
+Comoros,1990,0.16
+Comoros,1995,0.19
+Comoros,2000,0.22
+Comoros,2005,0.22
+Comoros,2007,0.24
+Comoros,2010,0.27
+Comoros,2015,0.27
+Congo,1870,0.01
+Congo,1880,0.01
+Congo,1890,0.01
+Congo,1900,0.01
+Congo,1913,0.01
+Congo,1925,0.01
+Congo,1929,0.01
+Congo,1933,0.01
+Congo,1938,0.02
+Congo,1950,0.04
+Congo,1955,0.06
+Congo,1960,0.07
+Congo,1965,0.08
+Congo,1970,0.12
+Congo,1975,0.14
+Congo,1980,0.22
+Congo,1985,0.24
+Congo,1990,0.25
+Congo,1995,0.23
+Congo,2000,0.20
+Congo,2005,0.22
+Congo,2007,0.21
+Congo,2010,0.22
+Congo,2015,0.27
+Costa Rica,1913,0.07
+Costa Rica,1925,0.10
+Costa Rica,1929,0.11
+Costa Rica,1933,0.12
+Costa Rica,1938,0.14
+Costa Rica,1950,0.20
+Costa Rica,1955,0.22
+Costa Rica,1960,0.24
+Costa Rica,1965,0.28
+Costa Rica,1970,0.31
+Costa Rica,1975,0.33
+Costa Rica,1980,0.36
+Costa Rica,1985,0.38
+Costa Rica,1990,0.40
+Costa Rica,1995,0.44
+Costa Rica,2000,0.45
+Costa Rica,2005,0.52
+Costa Rica,2007,0.52
+Costa Rica,2010,0.57
+Costa Rica,2015,0.63
+Cote d'Ivoire,1870,0.01
+Cote d'Ivoire,1880,0.01
+Cote d'Ivoire,1890,0.01
+Cote d'Ivoire,1900,0.01
+Cote d'Ivoire,1913,0.01
+Cote d'Ivoire,1925,0.01
+Cote d'Ivoire,1929,0.01
+Cote d'Ivoire,1933,0.01
+Cote d'Ivoire,1938,0.02
+Cote d'Ivoire,1950,0.02
+Cote d'Ivoire,1955,0.03
+Cote d'Ivoire,1960,0.05
+Cote d'Ivoire,1965,0.06
+Cote d'Ivoire,1970,0.08
+Cote d'Ivoire,1975,0.09
+Cote d'Ivoire,1980,0.13
+Cote d'Ivoire,1985,0.14
+Cote d'Ivoire,1990,0.15
+Cote d'Ivoire,1995,0.15
+Cote d'Ivoire,2000,0.16
+Cote d'Ivoire,2005,0.16
+Cote d'Ivoire,2007,0.16
+Cote d'Ivoire,2010,0.18
+Cote d'Ivoire,2015,0.15
+Croatia,1980,0.38
+Croatia,1985,0.40
+Croatia,1990,0.40
+Croatia,1995,0.43
+Croatia,2000,0.46
+Croatia,2005,0.50
+Croatia,2007,0.53
+Croatia,2010,0.55
+Croatia,2015,0.59
+Cuba,1870,0.04
+Cuba,1880,0.04
+Cuba,1890,0.06
+Cuba,1900,0.07
+Cuba,1913,0.09
+Cuba,1925,0.11
+Cuba,1929,0.12
+Cuba,1933,0.12
+Cuba,1938,0.13
+Cuba,1950,0.19
+Cuba,1955,0.21
+Cuba,1960,0.25
+Cuba,1965,0.29
+Cuba,1970,0.33
+Cuba,1975,0.35
+Cuba,1980,0.41
+Cuba,1985,0.42
+Cuba,1990,0.42
+Cuba,1995,0.43
+Cuba,2000,0.47
+Cuba,2005,0.53
+Cuba,2007,0.70
+Cuba,2010,0.75
+Cuba,2015,0.61
+Cyprus,1913,0.08
+Cyprus,1925,0.12
+Cyprus,1929,0.14
+Cyprus,1933,0.15
+Cyprus,1938,0.17
+Cyprus,1950,0.22
+Cyprus,1955,0.26
+Cyprus,1960,0.30
+Cyprus,1965,0.30
+Cyprus,1970,0.31
+Cyprus,1975,0.33
+Cyprus,1980,0.35
+Cyprus,1985,0.36
+Cyprus,1990,0.39
+Cyprus,1995,0.46
+Cyprus,2000,0.51
+Cyprus,2005,0.55
+Cyprus,2007,0.57
+Cyprus,2010,0.59
+Cyprus,2015,0.62
+Czech Republic,1870,0.09
+Czech Republic,1880,0.10
+Czech Republic,1890,0.12
+Czech Republic,1900,0.15
+Czech Republic,1913,0.18
+Czech Republic,1925,0.20
+Czech Republic,1929,0.22
+Czech Republic,1933,0.25
+Czech Republic,1938,0.27
+Czech Republic,1950,0.32
+Czech Republic,1955,0.37
+Czech Republic,1960,0.40
+Czech Republic,1965,0.41
+Czech Republic,1970,0.41
+Czech Republic,1975,0.42
+Czech Republic,1980,0.44
+Czech Republic,1985,0.46
+Czech Republic,1990,0.46
+Czech Republic,1995,0.46
+Czech Republic,2000,0.46
+Czech Republic,2005,0.53
+Czech Republic,2007,0.55
+Czech Republic,2010,0.57
+Czech Republic,2015,0.63
+Democratic Republic of Congo,1870,0.01
+Democratic Republic of Congo,1880,0.01
+Democratic Republic of Congo,1890,0.01
+Democratic Republic of Congo,1900,0.01
+Democratic Republic of Congo,1913,0.01
+Democratic Republic of Congo,1925,0.01
+Democratic Republic of Congo,1929,0.01
+Democratic Republic of Congo,1933,0.02
+Democratic Republic of Congo,1938,0.03
+Democratic Republic of Congo,1950,0.04
+Democratic Republic of Congo,1955,0.06
+Democratic Republic of Congo,1960,0.07
+Democratic Republic of Congo,1965,0.08
+Democratic Republic of Congo,1970,0.10
+Democratic Republic of Congo,1975,0.11
+Democratic Republic of Congo,1980,0.12
+Democratic Republic of Congo,1985,0.13
+Democratic Republic of Congo,1990,0.13
+Democratic Republic of Congo,1995,0.13
+Democratic Republic of Congo,2000,0.12
+Democratic Republic of Congo,2005,0.14
+Democratic Republic of Congo,2007,0.16
+Democratic Republic of Congo,2010,0.17
+Democratic Republic of Congo,2015,0.23
+Denmark,1870,0.17
+Denmark,1880,0.17
+Denmark,1890,0.20
+Denmark,1900,0.23
+Denmark,1913,0.25
+Denmark,1925,0.28
+Denmark,1929,0.29
+Denmark,1933,0.30
+Denmark,1938,0.31
+Denmark,1950,0.36
+Denmark,1955,0.39
+Denmark,1960,0.40
+Denmark,1965,0.40
+Denmark,1970,0.46
+Denmark,1975,0.47
+Denmark,1980,0.50
+Denmark,1985,0.51
+Denmark,1990,0.52
+Denmark,1995,0.54
+Denmark,2000,0.61
+Denmark,2005,0.73
+Denmark,2007,0.74
+Denmark,2010,0.75
+Denmark,2015,0.80
+Djibouti,1950,0.03
+Djibouti,1955,0.04
+Djibouti,1960,0.05
+Djibouti,1965,0.05
+Djibouti,1970,0.06
+Djibouti,1975,0.07
+Djibouti,1980,0.09
+Djibouti,1985,0.10
+Djibouti,1990,0.11
+Djibouti,1995,0.12
+Djibouti,2000,0.13
+Djibouti,2005,0.15
+Djibouti,2007,0.16
+Djibouti,2010,0.17
+Djibouti,2015,0.20
+Dominican Republic,1950,0.11
+Dominican Republic,1955,0.14
+Dominican Republic,1960,0.17
+Dominican Republic,1965,0.18
+Dominican Republic,1970,0.21
+Dominican Republic,1975,0.22
+Dominican Republic,1980,0.26
+Dominican Republic,1985,0.29
+Dominican Republic,1990,0.31
+Dominican Republic,1995,0.31
+Dominican Republic,2000,0.35
+Dominican Republic,2005,0.37
+Dominican Republic,2007,0.38
+Dominican Republic,2010,0.39
+Dominican Republic,2015,0.42
+Ecuador,1870,0.02
+Ecuador,1880,0.02
+Ecuador,1890,0.02
+Ecuador,1900,0.03
+Ecuador,1913,0.03
+Ecuador,1925,0.05
+Ecuador,1929,0.05
+Ecuador,1933,0.06
+Ecuador,1938,0.07
+Ecuador,1950,0.13
+Ecuador,1955,0.15
+Ecuador,1960,0.16
+Ecuador,1965,0.19
+Ecuador,1970,0.21
+Ecuador,1975,0.23
+Ecuador,1980,0.28
+Ecuador,1985,0.32
+Ecuador,1990,0.35
+Ecuador,1995,0.37
+Ecuador,2000,0.40
+Ecuador,2005,0.43
+Ecuador,2007,0.40
+Ecuador,2010,0.46
+Ecuador,2015,0.51
+Egypt,1870,0.01
+Egypt,1880,0.01
+Egypt,1890,0.02
+Egypt,1900,0.02
+Egypt,1913,0.02
+Egypt,1925,0.03
+Egypt,1929,0.04
+Egypt,1933,0.04
+Egypt,1938,0.05
+Egypt,1950,0.07
+Egypt,1955,0.09
+Egypt,1960,0.10
+Egypt,1965,0.11
+Egypt,1970,0.12
+Egypt,1975,0.14
+Egypt,1980,0.16
+Egypt,1985,0.18
+Egypt,1990,0.21
+Egypt,1995,0.24
+Egypt,2000,0.27
+Egypt,2005,0.31
+Egypt,2007,0.31
+Egypt,2010,0.31
+Egypt,2015,0.34
+El Salvador,1913,0.03
+El Salvador,1925,0.04
+El Salvador,1929,0.03
+El Salvador,1933,0.04
+El Salvador,1938,0.06
+El Salvador,1950,0.09
+El Salvador,1955,0.11
+El Salvador,1960,0.13
+El Salvador,1965,0.15
+El Salvador,1970,0.18
+El Salvador,1975,0.19
+El Salvador,1980,0.20
+El Salvador,1985,0.21
+El Salvador,1990,0.26
+El Salvador,1995,0.29
+El Salvador,2000,0.32
+El Salvador,2005,0.35
+El Salvador,2007,0.37
+El Salvador,2010,0.38
+El Salvador,2015,0.40
+Equatorial Guinea,1950,0.06
+Equatorial Guinea,1955,0.07
+Equatorial Guinea,1960,0.08
+Equatorial Guinea,1965,0.10
+Equatorial Guinea,1970,0.12
+Equatorial Guinea,1975,0.12
+Equatorial Guinea,1980,0.15
+Equatorial Guinea,1985,0.17
+Equatorial Guinea,1990,0.19
+Equatorial Guinea,1995,0.19
+Equatorial Guinea,2000,0.20
+Equatorial Guinea,2005,0.21
+Equatorial Guinea,2007,0.23
+Equatorial Guinea,2010,0.24
+Equatorial Guinea,2015,0.28
+Eritrea,1950,0.02
+Eritrea,1955,0.02
+Eritrea,1960,0.03
+Eritrea,1965,0.05
+Eritrea,1970,0.07
+Eritrea,1975,0.08
+Eritrea,1980,0.10
+Eritrea,1985,0.10
+Eritrea,1990,0.11
+Eritrea,1995,0.13
+Eritrea,2000,0.15
+Eritrea,2005,0.17
+Eritrea,2007,0.18
+Eritrea,2010,0.19
+Eritrea,2015,0.21
+Estonia,1980,0.47
+Estonia,1985,0.47
+Estonia,1990,0.44
+Estonia,1995,0.43
+Estonia,2000,0.48
+Estonia,2005,0.54
+Estonia,2007,0.55
+Estonia,2010,0.56
+Estonia,2015,0.66
+Ethiopia,1870,0.01
+Ethiopia,1880,0.01
+Ethiopia,1890,0.01
+Ethiopia,1900,0.01
+Ethiopia,1913,0.01
+Ethiopia,1925,0.01
+Ethiopia,1929,0.01
+Ethiopia,1933,0.01
+Ethiopia,1938,0.01
+Ethiopia,1950,0.02
+Ethiopia,1955,0.02
+Ethiopia,1960,0.02
+Ethiopia,1965,0.03
+Ethiopia,1970,0.05
+Ethiopia,1975,0.05
+Ethiopia,1980,0.07
+Ethiopia,1985,0.08
+Ethiopia,1990,0.09
+Ethiopia,1995,0.09
+Ethiopia,2000,0.11
+Ethiopia,2005,0.14
+Ethiopia,2007,0.15
+Ethiopia,2010,0.17
+Ethiopia,2015,0.21
+Finland,1870,0.04
+Finland,1880,0.05
+Finland,1890,0.06
+Finland,1900,0.09
+Finland,1913,0.11
+Finland,1925,0.17
+Finland,1929,0.19
+Finland,1933,0.21
+Finland,1938,0.24
+Finland,1950,0.35
+Finland,1955,0.38
+Finland,1960,0.39
+Finland,1965,0.39
+Finland,1970,0.42
+Finland,1975,0.44
+Finland,1980,0.48
+Finland,1985,0.50
+Finland,1990,0.53
+Finland,1995,0.61
+Finland,2000,0.72
+Finland,2005,0.75
+Finland,2007,0.77
+Finland,2010,0.79
+Finland,2015,0.82
+France,1870,0.12
+France,1880,0.14
+France,1890,0.17
+France,1900,0.18
+France,1913,0.20
+France,1925,0.21
+France,1929,0.24
+France,1933,0.26
+France,1938,0.28
+France,1950,0.32
+France,1955,0.37
+France,1960,0.41
+France,1965,0.41
+France,1970,0.45
+France,1975,0.46
+France,1980,0.48
+France,1985,0.50
+France,1990,0.54
+France,1995,0.60
+France,2000,0.65
+France,2005,0.68
+France,2007,0.72
+France,2010,0.75
+France,2015,0.79
+Gabon,1870,0.01
+Gabon,1880,0.01
+Gabon,1890,0.01
+Gabon,1900,0.01
+Gabon,1913,0.01
+Gabon,1925,0.01
+Gabon,1929,0.01
+Gabon,1933,0.01
+Gabon,1938,0.01
+Gabon,1950,0.04
+Gabon,1955,0.05
+Gabon,1960,0.07
+Gabon,1965,0.10
+Gabon,1970,0.12
+Gabon,1975,0.14
+Gabon,1980,0.18
+Gabon,1985,0.23
+Gabon,1990,0.25
+Gabon,1995,0.28
+Gabon,2000,0.26
+Gabon,2005,0.27
+Gabon,2007,0.31
+Gabon,2010,0.30
+Gabon,2015,0.32
+Gambia,1913,0.01
+Gambia,1925,0.01
+Gambia,1929,0.01
+Gambia,1933,0.01
+Gambia,1938,0.02
+Gambia,1950,0.02
+Gambia,1955,0.03
+Gambia,1960,0.03
+Gambia,1965,0.04
+Gambia,1970,0.04
+Gambia,1975,0.05
+Gambia,1980,0.08
+Gambia,1985,0.10
+Gambia,1990,0.10
+Gambia,1995,0.12
+Gambia,2000,0.14
+Gambia,2005,0.16
+Gambia,2007,0.17
+Gambia,2010,0.19
+Gambia,2015,0.20
+Georgia,1990,0.46
+Georgia,1995,0.44
+Georgia,2000,0.44
+Georgia,2005,0.45
+Georgia,2007,0.46
+Georgia,2010,0.46
+Georgia,2015,0.53
+Germany,1870,0.14
+Germany,1880,0.16
+Germany,1890,0.19
+Germany,1900,0.21
+Germany,1913,0.23
+Germany,1925,0.26
+Germany,1929,0.29
+Germany,1933,0.31
+Germany,1938,0.32
+Germany,1950,0.37
+Germany,1955,0.36
+Germany,1960,0.39
+Germany,1965,0.40
+Germany,1970,0.43
+Germany,1975,0.47
+Germany,1980,0.47
+Germany,1985,0.48
+Germany,1990,0.51
+Germany,1995,0.55
+Germany,2000,0.60
+Germany,2005,0.63
+Germany,2007,0.64
+Germany,2010,0.68
+Germany,2015,0.76
+Ghana,1870,0.01
+Ghana,1880,0.01
+Ghana,1890,0.01
+Ghana,1900,0.01
+Ghana,1913,0.02
+Ghana,1925,0.02
+Ghana,1929,0.03
+Ghana,1933,0.03
+Ghana,1938,0.03
+Ghana,1950,0.07
+Ghana,1955,0.08
+Ghana,1960,0.09
+Ghana,1965,0.11
+Ghana,1970,0.12
+Ghana,1975,0.13
+Ghana,1980,0.15
+Ghana,1985,0.16
+Ghana,1990,0.18
+Ghana,1995,0.19
+Ghana,2000,0.19
+Ghana,2005,0.21
+Ghana,2007,0.21
+Ghana,2010,0.22
+Ghana,2015,0.26
+Greece,1870,0.06
+Greece,1880,0.07
+Greece,1890,0.07
+Greece,1900,0.09
+Greece,1913,0.09
+Greece,1925,0.13
+Greece,1929,0.14
+Greece,1933,0.16
+Greece,1938,0.18
+Greece,1950,0.23
+Greece,1955,0.26
+Greece,1960,0.28
+Greece,1965,0.32
+Greece,1970,0.35
+Greece,1975,0.37
+Greece,1980,0.40
+Greece,1985,0.44
+Greece,1990,0.46
+Greece,1995,0.49
+Greece,2000,0.50
+Greece,2005,0.60
+Greece,2007,0.66
+Greece,2010,0.73
+Greece,2015,0.74
+Guatemala,1913,0.03
+Guatemala,1925,0.03
+Guatemala,1929,0.03
+Guatemala,1933,0.03
+Guatemala,1938,0.04
+Guatemala,1950,0.07
+Guatemala,1955,0.08
+Guatemala,1960,0.09
+Guatemala,1965,0.11
+Guatemala,1970,0.13
+Guatemala,1975,0.14
+Guatemala,1980,0.16
+Guatemala,1985,0.18
+Guatemala,1990,0.20
+Guatemala,1995,0.22
+Guatemala,2000,0.26
+Guatemala,2005,0.28
+Guatemala,2007,0.31
+Guatemala,2010,0.32
+Guatemala,2015,0.34
+Guinea,1870,0.01
+Guinea,1880,0.01
+Guinea,1890,0.01
+Guinea,1900,0.01
+Guinea,1913,0.01
+Guinea,1925,0.01
+Guinea,1929,0.01
+Guinea,1933,0.01
+Guinea,1938,0.02
+Guinea,1950,0.02
+Guinea,1955,0.02
+Guinea,1960,0.03
+Guinea,1965,0.04
+Guinea,1970,0.05
+Guinea,1975,0.06
+Guinea,1980,0.08
+Guinea,1985,0.09
+Guinea,1990,0.09
+Guinea,1995,0.09
+Guinea,2000,0.11
+Guinea,2005,0.14
+Guinea,2007,0.16
+Guinea,2010,0.14
+Guinea,2015,0.16
+Guinea-Bissau,1870,0.01
+Guinea-Bissau,1880,0.01
+Guinea-Bissau,1890,0.01
+Guinea-Bissau,1900,0.01
+Guinea-Bissau,1913,0.01
+Guinea-Bissau,1925,0.01
+Guinea-Bissau,1929,0.01
+Guinea-Bissau,1933,0.01
+Guinea-Bissau,1938,0.01
+Guinea-Bissau,1950,0.02
+Guinea-Bissau,1955,0.03
+Guinea-Bissau,1960,0.04
+Guinea-Bissau,1965,0.04
+Guinea-Bissau,1970,0.05
+Guinea-Bissau,1975,0.06
+Guinea-Bissau,1980,0.07
+Guinea-Bissau,1985,0.08
+Guinea-Bissau,1990,0.08
+Guinea-Bissau,1995,0.10
+Guinea-Bissau,2000,0.11
+Guinea-Bissau,2005,0.14
+Guinea-Bissau,2007,0.16
+Guinea-Bissau,2010,0.17
+Guinea-Bissau,2015,0.19
+Guyana,1950,0.19
+Guyana,1955,0.21
+Guyana,1960,0.24
+Guyana,1965,0.28
+Guyana,1970,0.28
+Guyana,1975,0.29
+Guyana,1980,0.31
+Guyana,1985,0.30
+Guyana,1990,0.32
+Guyana,1995,0.33
+Guyana,2000,0.38
+Guyana,2005,0.40
+Guyana,2007,0.41
+Guyana,2010,0.33
+Guyana,2015,0.32
+Haiti,1950,0.04
+Haiti,1955,0.06
+Haiti,1960,0.06
+Haiti,1965,0.07
+Haiti,1970,0.08
+Haiti,1975,0.10
+Haiti,1980,0.11
+Haiti,1985,0.13
+Haiti,1990,0.15
+Haiti,1995,0.17
+Haiti,2000,0.18
+Haiti,2005,0.20
+Haiti,2007,0.19
+Haiti,2010,0.19
+Haiti,2015,0.22
+Honduras,1913,0.04
+Honduras,1925,0.04
+Honduras,1929,0.05
+Honduras,1933,0.05
+Honduras,1938,0.06
+Honduras,1950,0.09
+Honduras,1955,0.10
+Honduras,1960,0.12
+Honduras,1965,0.14
+Honduras,1970,0.15
+Honduras,1975,0.17
+Honduras,1980,0.20
+Honduras,1985,0.23
+Honduras,1990,0.26
+Honduras,1995,0.28
+Honduras,2000,0.30
+Honduras,2005,0.34
+Honduras,2007,0.36
+Honduras,2010,0.37
+Honduras,2015,0.38
+Hong Kong,1870,0.02
+Hong Kong,1913,0.04
+Hong Kong,1950,0.16
+Hong Kong,1955,0.19
+Hong Kong,1960,0.23
+Hong Kong,1965,0.26
+Hong Kong,1970,0.28
+Hong Kong,1975,0.31
+Hong Kong,1980,0.35
+Hong Kong,1985,0.38
+Hong Kong,1990,0.43
+Hong Kong,1995,0.45
+Hong Kong,2000,0.48
+Hong Kong,2005,0.56
+Hong Kong,2007,0.57
+Hong Kong,2010,0.65
+Hong Kong,2015,0.74
+Hungary,1870,0.05
+Hungary,1880,0.07
+Hungary,1890,0.09
+Hungary,1900,0.10
+Hungary,1913,0.12
+Hungary,1925,0.15
+Hungary,1929,0.18
+Hungary,1933,0.20
+Hungary,1938,0.22
+Hungary,1950,0.28
+Hungary,1955,0.33
+Hungary,1960,0.36
+Hungary,1965,0.40
+Hungary,1970,0.38
+Hungary,1975,0.38
+Hungary,1980,0.39
+Hungary,1985,0.42
+Hungary,1990,0.42
+Hungary,1995,0.42
+Hungary,2000,0.46
+Hungary,2005,0.52
+Hungary,2007,0.54
+Hungary,2010,0.55
+Hungary,2015,0.57
+Iceland,1980,0.50
+Iceland,1985,0.52
+Iceland,1990,0.55
+Iceland,1995,0.59
+Iceland,2000,0.65
+Iceland,2005,0.74
+Iceland,2007,0.77
+Iceland,2010,0.79
+Iceland,2015,0.90
+India,1870,0.01
+India,1880,0.01
+India,1890,0.01
+India,1900,0.01
+India,1913,0.02
+India,1925,0.02
+India,1929,0.03
+India,1933,0.03
+India,1938,0.04
+India,1950,0.06
+India,1955,0.07
+India,1960,0.09
+India,1965,0.11
+India,1970,0.12
+India,1975,0.13
+India,1980,0.14
+India,1985,0.16
+India,1990,0.17
+India,1995,0.19
+India,2000,0.20
+India,2005,0.22
+India,2007,0.24
+India,2010,0.25
+India,2015,0.29
+Indonesia,1870,0.01
+Indonesia,1880,0.01
+Indonesia,1890,0.01
+Indonesia,1900,0.01
+Indonesia,1913,0.01
+Indonesia,1925,0.02
+Indonesia,1929,0.03
+Indonesia,1933,0.03
+Indonesia,1938,0.03
+Indonesia,1950,0.06
+Indonesia,1955,0.08
+Indonesia,1960,0.09
+Indonesia,1965,0.12
+Indonesia,1970,0.14
+Indonesia,1975,0.16
+Indonesia,1980,0.18
+Indonesia,1985,0.22
+Indonesia,1990,0.26
+Indonesia,1995,0.28
+Indonesia,2000,0.31
+Indonesia,2005,0.34
+Indonesia,2007,0.36
+Indonesia,2010,0.38
+Indonesia,2015,0.39
+Iran,1870,0.01
+Iran,1913,0.01
+Iran,1950,0.06
+Iran,1955,0.07
+Iran,1960,0.08
+Iran,1965,0.10
+Iran,1970,0.13
+Iran,1975,0.15
+Iran,1980,0.19
+Iran,1985,0.20
+Iran,1990,0.25
+Iran,1995,0.29
+Iran,2000,0.31
+Iran,2005,0.33
+Iran,2007,0.33
+Iran,2010,0.35
+Iran,2015,0.45
+Iraq,1870,0.01
+Iraq,1913,0.01
+Iraq,1950,0.06
+Iraq,1955,0.07
+Iraq,1960,0.09
+Iraq,1965,0.11
+Iraq,1970,0.13
+Iraq,1975,0.15
+Iraq,1980,0.17
+Iraq,1985,0.19
+Iraq,1990,0.20
+Iraq,1995,0.21
+Iraq,2000,0.22
+Iraq,2005,0.23
+Iraq,2007,0.29
+Iraq,2010,0.30
+Iraq,2015,0.31
+Ireland,1870,0.10
+Ireland,1880,0.12
+Ireland,1890,0.14
+Ireland,1900,0.16
+Ireland,1913,0.20
+Ireland,1925,0.24
+Ireland,1929,0.26
+Ireland,1933,0.26
+Ireland,1938,0.27
+Ireland,1950,0.34
+Ireland,1955,0.36
+Ireland,1960,0.40
+Ireland,1965,0.41
+Ireland,1970,0.41
+Ireland,1975,0.43
+Ireland,1980,0.45
+Ireland,1985,0.48
+Ireland,1990,0.50
+Ireland,1995,0.53
+Ireland,2000,0.56
+Ireland,2005,0.66
+Ireland,2007,0.75
+Ireland,2010,0.79
+Ireland,2015,0.82
+Israel,1950,0.25
+Israel,1955,0.29
+Israel,1960,0.35
+Israel,1965,0.36
+Israel,1970,0.36
+Israel,1975,0.36
+Israel,1980,0.39
+Israel,1985,0.44
+Israel,1990,0.45
+Israel,1995,0.49
+Israel,2000,0.55
+Israel,2005,0.62
+Israel,2007,0.69
+Israel,2010,0.71
+Israel,2015,0.78
+Italy,1870,0.06
+Italy,1880,0.07
+Italy,1890,0.09
+Italy,1900,0.10
+Italy,1913,0.12
+Italy,1925,0.15
+Italy,1929,0.17
+Italy,1933,0.18
+Italy,1938,0.21
+Italy,1950,0.25
+Italy,1955,0.28
+Italy,1960,0.30
+Italy,1965,0.32
+Italy,1970,0.38
+Italy,1975,0.39
+Italy,1980,0.43
+Italy,1985,0.44
+Italy,1990,0.47
+Italy,1995,0.51
+Italy,2000,0.57
+Italy,2005,0.65
+Italy,2007,0.70
+Italy,2010,0.71
+Italy,2015,0.80
+Jamaica,1870,0.04
+Jamaica,1880,0.06
+Jamaica,1890,0.08
+Jamaica,1900,0.09
+Jamaica,1913,0.09
+Jamaica,1925,0.10
+Jamaica,1929,0.12
+Jamaica,1933,0.12
+Jamaica,1938,0.14
+Jamaica,1950,0.20
+Jamaica,1955,0.22
+Jamaica,1960,0.26
+Jamaica,1965,0.29
+Jamaica,1970,0.31
+Jamaica,1975,0.34
+Jamaica,1980,0.35
+Jamaica,1985,0.36
+Jamaica,1990,0.35
+Jamaica,1995,0.37
+Jamaica,2000,0.38
+Jamaica,2005,0.38
+Jamaica,2007,0.38
+Jamaica,2010,0.39
+Jamaica,2015,0.43
+Japan,1870,0.05
+Japan,1880,0.08
+Japan,1890,0.09
+Japan,1900,0.12
+Japan,1913,0.15
+Japan,1925,0.16
+Japan,1929,0.19
+Japan,1933,0.21
+Japan,1938,0.23
+Japan,1950,0.31
+Japan,1955,0.37
+Japan,1960,0.39
+Japan,1965,0.42
+Japan,1970,0.44
+Japan,1975,0.48
+Japan,1980,0.52
+Japan,1985,0.56
+Japan,1990,0.58
+Japan,1995,0.60
+Japan,2000,0.65
+Japan,2005,0.70
+Japan,2007,0.73
+Japan,2010,0.76
+Japan,2015,0.81
+Jordan,1950,0.07
+Jordan,1955,0.11
+Jordan,1960,0.12
+Jordan,1965,0.14
+Jordan,1970,0.19
+Jordan,1975,0.23
+Jordan,1980,0.27
+Jordan,1985,0.29
+Jordan,1990,0.32
+Jordan,1995,0.35
+Jordan,2000,0.37
+Jordan,2005,0.41
+Jordan,2007,0.42
+Jordan,2010,0.43
+Jordan,2015,0.47
+Kazakhstan,1990,0.44
+Kazakhstan,1995,0.41
+Kazakhstan,2000,0.39
+Kazakhstan,2005,0.45
+Kazakhstan,2007,0.45
+Kazakhstan,2010,0.44
+Kazakhstan,2015,0.49
+Kenya,1870,0.02
+Kenya,1880,0.02
+Kenya,1890,0.02
+Kenya,1900,0.02
+Kenya,1913,0.02
+Kenya,1925,0.02
+Kenya,1929,0.02
+Kenya,1933,0.02
+Kenya,1938,0.03
+Kenya,1950,0.07
+Kenya,1955,0.08
+Kenya,1960,0.09
+Kenya,1965,0.10
+Kenya,1970,0.12
+Kenya,1975,0.14
+Kenya,1980,0.19
+Kenya,1985,0.21
+Kenya,1990,0.23
+Kenya,1995,0.22
+Kenya,2000,0.20
+Kenya,2005,0.22
+Kenya,2007,0.21
+Kenya,2010,0.23
+Kenya,2015,0.26
+Kuwait,1950,0.09
+Kuwait,1955,0.12
+Kuwait,1960,0.17
+Kuwait,1965,0.20
+Kuwait,1970,0.23
+Kuwait,1975,0.25
+Kuwait,1980,0.29
+Kuwait,1985,0.34
+Kuwait,1990,0.36
+Kuwait,1995,0.33
+Kuwait,2000,0.43
+Kuwait,2005,0.49
+Kuwait,2007,0.46
+Kuwait,2010,0.49
+Kuwait,2015,0.45
+Kyrgyzstan,1990,0.43
+Kyrgyzstan,1995,0.41
+Kyrgyzstan,2000,0.40
+Kyrgyzstan,2005,0.42
+Kyrgyzstan,2007,0.43
+Kyrgyzstan,2010,0.43
+Kyrgyzstan,2015,0.45
+Laos,1950,0.04
+Laos,1955,0.06
+Laos,1960,0.06
+Laos,1965,0.07
+Laos,1970,0.09
+Laos,1975,0.09
+Laos,1980,0.14
+Laos,1985,0.15
+Laos,1990,0.17
+Laos,1995,0.19
+Laos,2000,0.22
+Laos,2005,0.25
+Laos,2007,0.25
+Laos,2010,0.28
+Laos,2015,0.29
+Latvia,1980,0.43
+Latvia,1985,0.44
+Latvia,1990,0.44
+Latvia,1995,0.41
+Latvia,2000,0.45
+Latvia,2005,0.53
+Latvia,2007,0.56
+Latvia,2010,0.56
+Latvia,2015,0.56
+Lebanon,1950,0.15
+Lebanon,1955,0.17
+Lebanon,1960,0.19
+Lebanon,1965,0.23
+Lebanon,1970,0.26
+Lebanon,1975,0.27
+Lebanon,1980,0.29
+Lebanon,1985,0.30
+Lebanon,1990,0.33
+Lebanon,1995,0.34
+Lebanon,2000,0.39
+Lebanon,2005,0.40
+Lebanon,2007,0.39
+Lebanon,2010,0.42
+Lebanon,2015,0.49
+Lesotho,1870,0.01
+Lesotho,1880,0.02
+Lesotho,1890,0.03
+Lesotho,1900,0.04
+Lesotho,1913,0.03
+Lesotho,1925,0.05
+Lesotho,1929,0.05
+Lesotho,1933,0.06
+Lesotho,1938,0.08
+Lesotho,1950,0.10
+Lesotho,1955,0.11
+Lesotho,1960,0.12
+Lesotho,1965,0.15
+Lesotho,1970,0.15
+Lesotho,1975,0.17
+Lesotho,1980,0.19
+Lesotho,1985,0.21
+Lesotho,1990,0.24
+Lesotho,1995,0.24
+Lesotho,2000,0.21
+Lesotho,2005,0.19
+Lesotho,2007,0.20
+Lesotho,2010,0.18
+Lesotho,2015,0.20
+Liberia,1870,0.01
+Liberia,1880,0.01
+Liberia,1890,0.01
+Liberia,1900,0.01
+Liberia,1913,0.01
+Liberia,1925,0.01
+Liberia,1929,0.01
+Liberia,1933,0.01
+Liberia,1938,0.02
+Liberia,1950,0.03
+Liberia,1955,0.04
+Liberia,1960,0.05
+Liberia,1965,0.07
+Liberia,1970,0.07
+Liberia,1975,0.09
+Liberia,1980,0.10
+Liberia,1985,0.09
+Liberia,1990,0.10
+Liberia,1995,0.11
+Liberia,2000,0.18
+Liberia,2005,0.17
+Liberia,2007,0.18
+Liberia,2010,0.19
+Liberia,2015,0.20
+Libya,1870,0.01
+Libya,1880,0.01
+Libya,1890,0.01
+Libya,1900,0.02
+Libya,1913,0.02
+Libya,1925,0.03
+Libya,1929,0.03
+Libya,1933,0.03
+Libya,1938,0.04
+Libya,1950,0.06
+Libya,1955,0.07
+Libya,1960,0.09
+Libya,1965,0.11
+Libya,1970,0.15
+Libya,1975,0.18
+Libya,1980,0.22
+Libya,1985,0.26
+Libya,1990,0.30
+Libya,1995,0.38
+Libya,2000,0.44
+Libya,2005,0.45
+Libya,2007,0.49
+Libya,2010,0.51
+Libya,2015,0.48
+Lithuania,1980,0.47
+Lithuania,1985,0.46
+Lithuania,1990,0.44
+Lithuania,1995,0.43
+Lithuania,2000,0.47
+Lithuania,2005,0.55
+Lithuania,2007,0.57
+Lithuania,2010,0.58
+Lithuania,2015,0.58
+Macedonia,1990,0.42
+Macedonia,1995,0.38
+Macedonia,2000,0.41
+Macedonia,2005,0.43
+Macedonia,2007,0.44
+Macedonia,2010,0.45
+Macedonia,2015,0.46
+Madagascar,1870,0.02
+Madagascar,1880,0.02
+Madagascar,1890,0.02
+Madagascar,1900,0.03
+Madagascar,1913,0.03
+Madagascar,1925,0.04
+Madagascar,1929,0.05
+Madagascar,1933,0.05
+Madagascar,1938,0.05
+Madagascar,1950,0.07
+Madagascar,1955,0.07
+Madagascar,1960,0.08
+Madagascar,1965,0.10
+Madagascar,1970,0.11
+Madagascar,1975,0.13
+Madagascar,1980,0.14
+Madagascar,1985,0.16
+Madagascar,1990,0.15
+Madagascar,1995,0.16
+Madagascar,2000,0.18
+Madagascar,2005,0.22
+Madagascar,2007,0.22
+Madagascar,2010,0.23
+Madagascar,2015,0.26
+Malawi,1870,0.01
+Malawi,1880,0.01
+Malawi,1890,0.01
+Malawi,1900,0.01
+Malawi,1913,0.02
+Malawi,1925,0.02
+Malawi,1929,0.03
+Malawi,1933,0.03
+Malawi,1938,0.04
+Malawi,1950,0.05
+Malawi,1955,0.06
+Malawi,1960,0.07
+Malawi,1965,0.08
+Malawi,1970,0.08
+Malawi,1975,0.09
+Malawi,1980,0.11
+Malawi,1985,0.12
+Malawi,1990,0.13
+Malawi,1995,0.16
+Malawi,2000,0.19
+Malawi,2005,0.19
+Malawi,2007,0.20
+Malawi,2010,0.20
+Malawi,2015,0.26
+Malaysia,1870,0.01
+Malaysia,1880,0.01
+Malaysia,1890,0.01
+Malaysia,1900,0.02
+Malaysia,1913,0.02
+Malaysia,1925,0.03
+Malaysia,1929,0.04
+Malaysia,1933,0.04
+Malaysia,1938,0.06
+Malaysia,1950,0.11
+Malaysia,1955,0.14
+Malaysia,1960,0.16
+Malaysia,1965,0.17
+Malaysia,1970,0.20
+Malaysia,1975,0.23
+Malaysia,1980,0.25
+Malaysia,1985,0.28
+Malaysia,1990,0.30
+Malaysia,1995,0.32
+Malaysia,2000,0.37
+Malaysia,2005,0.39
+Malaysia,2007,0.40
+Malaysia,2010,0.41
+Malaysia,2015,0.43
+Mali,1870,0.01
+Mali,1880,0.01
+Mali,1890,0.01
+Mali,1900,0.01
+Mali,1913,0.01
+Mali,1925,0.01
+Mali,1929,0.01
+Mali,1933,0.01
+Mali,1938,0.01
+Mali,1950,0.02
+Mali,1955,0.02
+Mali,1960,0.03
+Mali,1965,0.04
+Mali,1970,0.04
+Mali,1975,0.05
+Mali,1980,0.05
+Mali,1985,0.06
+Mali,1990,0.06
+Mali,1995,0.07
+Mali,2000,0.09
+Mali,2005,0.11
+Mali,2007,0.11
+Mali,2010,0.12
+Mali,2015,0.16
+Malta,1980,0.34
+Malta,1985,0.37
+Malta,1990,0.41
+Malta,1995,0.43
+Malta,2000,0.47
+Malta,2005,0.50
+Malta,2007,0.52
+Malta,2010,0.53
+Malta,2015,0.54
+Mauritania,1870,0.01
+Mauritania,1880,0.01
+Mauritania,1890,0.01
+Mauritania,1900,0.01
+Mauritania,1913,0.01
+Mauritania,1925,0.01
+Mauritania,1929,0.01
+Mauritania,1933,0.01
+Mauritania,1938,0.01
+Mauritania,1950,0.02
+Mauritania,1955,0.02
+Mauritania,1960,0.03
+Mauritania,1965,0.04
+Mauritania,1970,0.06
+Mauritania,1975,0.07
+Mauritania,1980,0.10
+Mauritania,1985,0.12
+Mauritania,1990,0.12
+Mauritania,1995,0.13
+Mauritania,2000,0.15
+Mauritania,2005,0.15
+Mauritania,2007,0.16
+Mauritania,2010,0.17
+Mauritania,2015,0.20
+Mauritius,1870,0.02
+Mauritius,1880,0.02
+Mauritius,1890,0.02
+Mauritius,1900,0.03
+Mauritius,1913,0.04
+Mauritius,1925,0.05
+Mauritius,1929,0.06
+Mauritius,1933,0.06
+Mauritius,1938,0.06
+Mauritius,1950,0.13
+Mauritius,1955,0.17
+Mauritius,1960,0.20
+Mauritius,1965,0.22
+Mauritius,1970,0.22
+Mauritius,1975,0.24
+Mauritius,1980,0.25
+Mauritius,1985,0.27
+Mauritius,1990,0.29
+Mauritius,1995,0.31
+Mauritius,2000,0.34
+Mauritius,2005,0.36
+Mauritius,2007,0.39
+Mauritius,2010,0.39
+Mauritius,2015,0.43
+Mexico,1870,0.02
+Mexico,1880,0.02
+Mexico,1890,0.03
+Mexico,1900,0.03
+Mexico,1913,0.04
+Mexico,1925,0.06
+Mexico,1929,0.06
+Mexico,1933,0.07
+Mexico,1938,0.08
+Mexico,1950,0.14
+Mexico,1955,0.16
+Mexico,1960,0.18
+Mexico,1965,0.21
+Mexico,1970,0.23
+Mexico,1975,0.25
+Mexico,1980,0.30
+Mexico,1985,0.33
+Mexico,1990,0.35
+Mexico,1995,0.36
+Mexico,2000,0.39
+Mexico,2005,0.42
+Mexico,2007,0.44
+Mexico,2010,0.45
+Mexico,2015,0.47
+Moldova,1980,0.33
+Moldova,1985,0.36
+Moldova,1990,0.40
+Moldova,1995,0.39
+Moldova,2000,0.39
+Moldova,2005,0.41
+Moldova,2007,0.41
+Moldova,2010,0.41
+Moldova,2015,0.44
+Mongolia,1980,0.30
+Mongolia,1985,0.32
+Mongolia,1990,0.33
+Mongolia,1995,0.32
+Mongolia,2000,0.33
+Mongolia,2005,0.39
+Mongolia,2007,0.39
+Mongolia,2010,0.43
+Mongolia,2015,0.47
+Morocco,1870,0.01
+Morocco,1880,0.01
+Morocco,1890,0.01
+Morocco,1900,0.01
+Morocco,1913,0.01
+Morocco,1925,0.01
+Morocco,1929,0.02
+Morocco,1933,0.02
+Morocco,1938,0.02
+Morocco,1950,0.05
+Morocco,1955,0.06
+Morocco,1960,0.08
+Morocco,1965,0.09
+Morocco,1970,0.09
+Morocco,1975,0.10
+Morocco,1980,0.13
+Morocco,1985,0.15
+Morocco,1990,0.17
+Morocco,1995,0.19
+Morocco,2000,0.22
+Morocco,2005,0.25
+Morocco,2007,0.26
+Morocco,2010,0.28
+Morocco,2015,0.34
+Mozambique,1870,0.01
+Mozambique,1880,0.01
+Mozambique,1890,0.01
+Mozambique,1900,0.01
+Mozambique,1913,0.01
+Mozambique,1925,0.01
+Mozambique,1929,0.01
+Mozambique,1933,0.02
+Mozambique,1938,0.02
+Mozambique,1950,0.03
+Mozambique,1955,0.04
+Mozambique,1960,0.05
+Mozambique,1965,0.05
+Mozambique,1970,0.06
+Mozambique,1975,0.07
+Mozambique,1980,0.09
+Mozambique,1985,0.09
+Mozambique,1990,0.09
+Mozambique,1995,0.10
+Mozambique,2000,0.12
+Mozambique,2005,0.14
+Mozambique,2007,0.15
+Mozambique,2010,0.15
+Mozambique,2015,0.19
+Myanmar,1870,0.02
+Myanmar,1880,0.02
+Myanmar,1890,0.02
+Myanmar,1900,0.03
+Myanmar,1913,0.04
+Myanmar,1925,0.04
+Myanmar,1929,0.05
+Myanmar,1933,0.05
+Myanmar,1938,0.05
+Myanmar,1950,0.06
+Myanmar,1955,0.10
+Myanmar,1960,0.11
+Myanmar,1965,0.13
+Myanmar,1970,0.15
+Myanmar,1975,0.16
+Myanmar,1980,0.19
+Myanmar,1985,0.21
+Myanmar,1990,0.21
+Myanmar,1995,0.23
+Myanmar,2000,0.24
+Myanmar,2005,0.24
+Myanmar,2007,0.27
+Myanmar,2010,0.28
+Myanmar,2015,0.30
+Namibia,1870,0.01
+Namibia,1880,0.01
+Namibia,1890,0.02
+Namibia,1900,0.03
+Namibia,1913,0.03
+Namibia,1925,0.03
+Namibia,1929,0.04
+Namibia,1933,0.04
+Namibia,1938,0.04
+Namibia,1950,0.06
+Namibia,1955,0.07
+Namibia,1960,0.07
+Namibia,1965,0.11
+Namibia,1970,0.14
+Namibia,1975,0.17
+Namibia,1980,0.22
+Namibia,1985,0.25
+Namibia,1990,0.27
+Namibia,1995,0.28
+Namibia,2000,0.26
+Namibia,2005,0.27
+Namibia,2007,0.26
+Namibia,2010,0.30
+Namibia,2015,0.33
+Nepal,1870,0.01
+Nepal,1913,0.01
+Nepal,1950,0.02
+Nepal,1955,0.02
+Nepal,1960,0.04
+Nepal,1965,0.05
+Nepal,1970,0.06
+Nepal,1975,0.07
+Nepal,1980,0.09
+Nepal,1985,0.11
+Nepal,1990,0.14
+Nepal,1995,0.17
+Nepal,2000,0.19
+Nepal,2005,0.22
+Nepal,2007,0.25
+Nepal,2010,0.26
+Nepal,2015,0.30
+Netherlands,1870,0.13
+Netherlands,1880,0.15
+Netherlands,1890,0.17
+Netherlands,1900,0.20
+Netherlands,1913,0.24
+Netherlands,1925,0.28
+Netherlands,1929,0.31
+Netherlands,1933,0.32
+Netherlands,1938,0.34
+Netherlands,1950,0.40
+Netherlands,1955,0.41
+Netherlands,1960,0.42
+Netherlands,1965,0.43
+Netherlands,1970,0.45
+Netherlands,1975,0.47
+Netherlands,1980,0.51
+Netherlands,1985,0.52
+Netherlands,1990,0.56
+Netherlands,1995,0.62
+Netherlands,2000,0.71
+Netherlands,2005,0.75
+Netherlands,2007,0.77
+Netherlands,2010,0.79
+Netherlands,2015,0.85
+New Zealand,1870,0.16
+New Zealand,1880,0.20
+New Zealand,1890,0.22
+New Zealand,1900,0.24
+New Zealand,1913,0.29
+New Zealand,1925,0.33
+New Zealand,1929,0.34
+New Zealand,1933,0.33
+New Zealand,1938,0.34
+New Zealand,1950,0.41
+New Zealand,1955,0.44
+New Zealand,1960,0.45
+New Zealand,1965,0.47
+New Zealand,1970,0.45
+New Zealand,1975,0.46
+New Zealand,1980,0.48
+New Zealand,1985,0.48
+New Zealand,1990,0.51
+New Zealand,1995,0.58
+New Zealand,2000,0.69
+New Zealand,2005,0.78
+New Zealand,2007,0.79
+New Zealand,2010,0.80
+New Zealand,2015,0.86
+Nicaragua,1913,0.03
+Nicaragua,1925,0.03
+Nicaragua,1929,0.04
+Nicaragua,1933,0.05
+Nicaragua,1938,0.06
+Nicaragua,1950,0.09
+Nicaragua,1955,0.10
+Nicaragua,1960,0.12
+Nicaragua,1965,0.14
+Nicaragua,1970,0.15
+Nicaragua,1975,0.17
+Nicaragua,1980,0.19
+Nicaragua,1985,0.21
+Nicaragua,1990,0.22
+Nicaragua,1995,0.25
+Nicaragua,2000,0.31
+Nicaragua,2005,0.34
+Nicaragua,2007,0.35
+Nicaragua,2010,0.36
+Nicaragua,2015,0.38
+Niger,1870,0.01
+Niger,1880,0.01
+Niger,1890,0.01
+Niger,1900,0.01
+Niger,1913,0.01
+Niger,1925,0.01
+Niger,1929,0.01
+Niger,1933,0.01
+Niger,1938,0.01
+Niger,1950,0.01
+Niger,1955,0.01
+Niger,1960,0.02
+Niger,1965,0.03
+Niger,1970,0.03
+Niger,1975,0.03
+Niger,1980,0.04
+Niger,1985,0.05
+Niger,1990,0.05
+Niger,1995,0.06
+Niger,2000,0.07
+Niger,2005,0.09
+Niger,2007,0.10
+Niger,2010,0.09
+Niger,2015,0.13
+Nigeria,1870,0.01
+Nigeria,1880,0.01
+Nigeria,1890,0.01
+Nigeria,1900,0.01
+Nigeria,1913,0.01
+Nigeria,1925,0.02
+Nigeria,1929,0.02
+Nigeria,1933,0.02
+Nigeria,1938,0.03
+Nigeria,1950,0.04
+Nigeria,1955,0.05
+Nigeria,1960,0.06
+Nigeria,1965,0.06
+Nigeria,1970,0.07
+Nigeria,1975,0.09
+Nigeria,1980,0.10
+Nigeria,1985,0.13
+Nigeria,1990,0.13
+Nigeria,1995,0.14
+Nigeria,2000,0.15
+Nigeria,2005,0.15
+Nigeria,2007,0.16
+Nigeria,2010,0.16
+Nigeria,2015,0.18
+Norway,1870,0.19
+Norway,1880,0.19
+Norway,1890,0.22
+Norway,1900,0.24
+Norway,1913,0.26
+Norway,1925,0.29
+Norway,1929,0.30
+Norway,1933,0.31
+Norway,1938,0.33
+Norway,1950,0.39
+Norway,1955,0.41
+Norway,1960,0.43
+Norway,1965,0.43
+Norway,1970,0.47
+Norway,1975,0.49
+Norway,1980,0.51
+Norway,1985,0.52
+Norway,1990,0.53
+Norway,1995,0.59
+Norway,2000,0.66
+Norway,2005,0.78
+Norway,2007,0.80
+Norway,2010,0.79
+Norway,2015,0.81
+Oman,1950,0.03
+Oman,1955,0.04
+Oman,1960,0.05
+Oman,1965,0.07
+Oman,1970,0.08
+Oman,1975,0.10
+Oman,1980,0.13
+Oman,1985,0.17
+Oman,1990,0.23
+Oman,1995,0.28
+Oman,2000,0.32
+Oman,2005,0.36
+Oman,2007,0.39
+Oman,2010,0.40
+Oman,2015,0.44
+Pakistan,1950,0.05
+Pakistan,1955,0.06
+Pakistan,1960,0.07
+Pakistan,1965,0.08
+Pakistan,1970,0.09
+Pakistan,1975,0.10
+Pakistan,1980,0.12
+Pakistan,1985,0.12
+Pakistan,1990,0.14
+Pakistan,1995,0.16
+Pakistan,2000,0.17
+Pakistan,2005,0.19
+Pakistan,2007,0.21
+Pakistan,2010,0.21
+Pakistan,2015,0.22
+Panama,1950,0.18
+Panama,1955,0.21
+Panama,1960,0.22
+Panama,1965,0.25
+Panama,1970,0.27
+Panama,1975,0.31
+Panama,1980,0.35
+Panama,1985,0.35
+Panama,1990,0.36
+Panama,1995,0.37
+Panama,2000,0.41
+Panama,2005,0.44
+Panama,2007,0.45
+Panama,2010,0.46
+Panama,2015,0.49
+Paraguay,1950,0.20
+Paraguay,1955,0.22
+Paraguay,1960,0.23
+Paraguay,1965,0.25
+Paraguay,1970,0.25
+Paraguay,1975,0.26
+Paraguay,1980,0.28
+Paraguay,1985,0.29
+Paraguay,1990,0.31
+Paraguay,1995,0.34
+Paraguay,2000,0.37
+Paraguay,2005,0.40
+Paraguay,2007,0.40
+Paraguay,2010,0.40
+Paraguay,2015,0.42
+Peru,1870,0.02
+Peru,1880,0.02
+Peru,1890,0.02
+Peru,1900,0.02
+Peru,1913,0.04
+Peru,1925,0.05
+Peru,1929,0.06
+Peru,1933,0.06
+Peru,1938,0.07
+Peru,1950,0.12
+Peru,1955,0.13
+Peru,1960,0.15
+Peru,1965,0.17
+Peru,1970,0.20
+Peru,1975,0.23
+Peru,1980,0.26
+Peru,1985,0.29
+Peru,1990,0.32
+Peru,1995,0.35
+Peru,2000,0.39
+Peru,2005,0.41
+Peru,2007,0.42
+Peru,2010,0.43
+Peru,2015,0.47
+Philippines,1870,0.02
+Philippines,1880,0.02
+Philippines,1890,0.02
+Philippines,1900,0.02
+Philippines,1913,0.03
+Philippines,1925,0.09
+Philippines,1929,0.09
+Philippines,1933,0.09
+Philippines,1938,0.12
+Philippines,1950,0.17
+Philippines,1955,0.18
+Philippines,1960,0.19
+Philippines,1965,0.23
+Philippines,1970,0.25
+Philippines,1975,0.26
+Philippines,1980,0.28
+Philippines,1985,0.31
+Philippines,1990,0.34
+Philippines,1995,0.37
+Philippines,2000,0.38
+Philippines,2005,0.42
+Philippines,2007,0.42
+Philippines,2010,0.44
+Philippines,2015,0.40
+Poland,1870,0.05
+Poland,1880,0.06
+Poland,1890,0.07
+Poland,1900,0.09
+Poland,1913,0.10
+Poland,1925,0.15
+Poland,1929,0.16
+Poland,1933,0.18
+Poland,1938,0.19
+Poland,1950,0.27
+Poland,1955,0.30
+Poland,1960,0.35
+Poland,1965,0.38
+Poland,1970,0.40
+Poland,1975,0.40
+Poland,1980,0.42
+Poland,1985,0.43
+Poland,1990,0.45
+Poland,1995,0.47
+Poland,2000,0.51
+Poland,2005,0.55
+Poland,2007,0.55
+Poland,2010,0.56
+Poland,2015,0.62
+Portugal,1870,0.05
+Portugal,1880,0.06
+Portugal,1890,0.07
+Portugal,1900,0.07
+Portugal,1913,0.08
+Portugal,1925,0.09
+Portugal,1929,0.09
+Portugal,1933,0.11
+Portugal,1938,0.12
+Portugal,1950,0.15
+Portugal,1955,0.19
+Portugal,1960,0.21
+Portugal,1965,0.23
+Portugal,1970,0.28
+Portugal,1975,0.30
+Portugal,1980,0.33
+Portugal,1985,0.36
+Portugal,1990,0.38
+Portugal,1995,0.44
+Portugal,2000,0.51
+Portugal,2005,0.55
+Portugal,2007,0.57
+Portugal,2010,0.60
+Portugal,2015,0.73
+Puerto Rico,1913,0.08
+Puerto Rico,1925,0.10
+Puerto Rico,1929,0.11
+Puerto Rico,1933,0.12
+Puerto Rico,1938,0.14
+Puerto Rico,1950,0.25
+Puerto Rico,1955,0.30
+Puerto Rico,1960,0.33
+Puerto Rico,1965,0.35
+Puerto Rico,1970,0.40
+Puerto Rico,1975,0.41
+Puerto Rico,1980,0.41
+Puerto Rico,1985,0.43
+Puerto Rico,1990,0.44
+Puerto Rico,1995,0.48
+Puerto Rico,2000,0.52
+Puerto Rico,2005,0.55
+Puerto Rico,2007,0.56
+Puerto Rico,2010,0.57
+Puerto Rico,2015,0.55
+Qatar,1950,0.07
+Qatar,1955,0.10
+Qatar,1960,0.14
+Qatar,1965,0.17
+Qatar,1970,0.20
+Qatar,1975,0.24
+Qatar,1980,0.27
+Qatar,1985,0.30
+Qatar,1990,0.32
+Qatar,1995,0.34
+Qatar,2000,0.39
+Qatar,2005,0.42
+Qatar,2007,0.40
+Qatar,2010,0.42
+Qatar,2015,0.56
+Romania,1870,0.03
+Romania,1880,0.03
+Romania,1890,0.04
+Romania,1900,0.06
+Romania,1913,0.08
+Romania,1925,0.11
+Romania,1929,0.12
+Romania,1933,0.13
+Romania,1938,0.16
+Romania,1950,0.21
+Romania,1955,0.24
+Romania,1960,0.28
+Romania,1965,0.35
+Romania,1970,0.34
+Romania,1975,0.35
+Romania,1980,0.40
+Romania,1985,0.40
+Romania,1990,0.39
+Romania,1995,0.37
+Romania,2000,0.40
+Romania,2005,0.44
+Romania,2007,0.46
+Romania,2010,0.50
+Romania,2015,0.53
+Russia,1870,0.03
+Russia,1880,0.03
+Russia,1890,0.04
+Russia,1900,0.05
+Russia,1913,0.06
+Russia,1925,0.10
+Russia,1929,0.11
+Russia,1933,0.14
+Russia,1938,0.20
+Russia,1950,0.28
+Russia,1955,0.32
+Russia,1960,0.36
+Russia,1965,0.41
+Russia,1970,0.44
+Russia,1975,0.42
+Russia,1980,0.42
+Russia,1985,0.43
+Russia,1990,0.44
+Russia,1995,0.42
+Russia,2000,0.41
+Russia,2005,0.43
+Russia,2007,0.42
+Russia,2010,0.44
+Russia,2015,0.50
+Rwanda,1870,0.01
+Rwanda,1880,0.01
+Rwanda,1890,0.01
+Rwanda,1900,0.01
+Rwanda,1913,0.01
+Rwanda,1925,0.01
+Rwanda,1929,0.02
+Rwanda,1933,0.02
+Rwanda,1938,0.02
+Rwanda,1950,0.05
+Rwanda,1955,0.06
+Rwanda,1960,0.07
+Rwanda,1965,0.08
+Rwanda,1970,0.09
+Rwanda,1975,0.09
+Rwanda,1980,0.10
+Rwanda,1985,0.12
+Rwanda,1990,0.08
+Rwanda,1995,0.08
+Rwanda,2000,0.14
+Rwanda,2005,0.17
+Rwanda,2007,0.19
+Rwanda,2010,0.19
+Rwanda,2015,0.28
+Saint Kitts and Nevis,1980,0.38
+Saint Kitts and Nevis,1985,0.38
+Saint Kitts and Nevis,1990,0.40
+Saint Kitts and Nevis,1995,0.43
+Saint Kitts and Nevis,2000,0.47
+Saint Kitts and Nevis,2005,0.43
+Saint Kitts and Nevis,2007,0.43
+Saint Kitts and Nevis,2010,0.47
+Saint Kitts and Nevis,2015,0.52
+Saint Vincent and the Grenadines,1980,0.38
+Saint Vincent and the Grenadines,1985,0.43
+Saint Vincent and the Grenadines,1990,0.40
+Saint Vincent and the Grenadines,1995,0.45
+Saint Vincent and the Grenadines,2000,0.45
+Saint Vincent and the Grenadines,2005,0.46
+Saint Vincent and the Grenadines,2007,0.43
+Saint Vincent and the Grenadines,2010,0.45
+Saint Vincent and the Grenadines,2015,0.49
+Saudi Arabia,1870,0.01
+Saudi Arabia,1913,0.01
+Saudi Arabia,1950,0.02
+Saudi Arabia,1955,0.03
+Saudi Arabia,1960,0.04
+Saudi Arabia,1965,0.05
+Saudi Arabia,1970,0.10
+Saudi Arabia,1975,0.14
+Saudi Arabia,1980,0.17
+Saudi Arabia,1985,0.21
+Saudi Arabia,1990,0.24
+Saudi Arabia,1995,0.28
+Saudi Arabia,2000,0.31
+Saudi Arabia,2005,0.36
+Saudi Arabia,2007,0.38
+Saudi Arabia,2010,0.43
+Saudi Arabia,2015,0.40
+Senegal,1870,0.01
+Senegal,1880,0.01
+Senegal,1890,0.01
+Senegal,1900,0.01
+Senegal,1913,0.01
+Senegal,1925,0.01
+Senegal,1929,0.01
+Senegal,1933,0.02
+Senegal,1938,0.02
+Senegal,1950,0.02
+Senegal,1955,0.03
+Senegal,1960,0.04
+Senegal,1965,0.05
+Senegal,1970,0.06
+Senegal,1975,0.07
+Senegal,1980,0.08
+Senegal,1985,0.10
+Senegal,1990,0.11
+Senegal,1995,0.12
+Senegal,2000,0.13
+Senegal,2005,0.14
+Senegal,2007,0.15
+Senegal,2010,0.17
+Senegal,2015,0.23
+Serbia,1870,0.03
+Serbia,1880,0.04
+Serbia,1890,0.05
+Serbia,1900,0.07
+Serbia,1913,0.08
+Serbia,1925,0.09
+Serbia,1929,0.11
+Serbia,1933,0.12
+Serbia,1938,0.14
+Serbia,1950,0.20
+Serbia,1955,0.23
+Serbia,1960,0.27
+Serbia,1965,0.30
+Serbia,1970,0.32
+Serbia,1975,0.35
+Serbia,1980,0.35
+Serbia,1985,0.36
+Serbia,1990,0.39
+Serbia,1995,0.38
+Serbia,2000,0.43
+Serbia,2005,0.44
+Serbia,2007,0.45
+Serbia,2010,0.49
+Serbia,2015,0.51
+Seychelles,1980,0.23
+Seychelles,1985,0.32
+Seychelles,1990,0.35
+Seychelles,1995,0.36
+Seychelles,2000,0.36
+Seychelles,2005,0.38
+Seychelles,2007,0.39
+Seychelles,2010,0.41
+Seychelles,2015,0.43
+Sierra Leone,1870,0.01
+Sierra Leone,1880,0.01
+Sierra Leone,1890,0.01
+Sierra Leone,1900,0.01
+Sierra Leone,1913,0.01
+Sierra Leone,1925,0.01
+Sierra Leone,1929,0.01
+Sierra Leone,1933,0.01
+Sierra Leone,1938,0.02
+Sierra Leone,1950,0.02
+Sierra Leone,1955,0.03
+Sierra Leone,1960,0.03
+Sierra Leone,1965,0.04
+Sierra Leone,1970,0.04
+Sierra Leone,1975,0.05
+Sierra Leone,1980,0.07
+Sierra Leone,1985,0.09
+Sierra Leone,1990,0.08
+Sierra Leone,1995,0.08
+Sierra Leone,2000,0.10
+Sierra Leone,2005,0.12
+Sierra Leone,2007,0.12
+Sierra Leone,2010,0.13
+Sierra Leone,2015,0.15
+Singapore,1870,0.01
+Singapore,1913,0.02
+Singapore,1950,0.17
+Singapore,1955,0.20
+Singapore,1960,0.23
+Singapore,1965,0.30
+Singapore,1970,0.27
+Singapore,1975,0.29
+Singapore,1980,0.31
+Singapore,1985,0.34
+Singapore,1990,0.39
+Singapore,1995,0.42
+Singapore,2000,0.45
+Singapore,2005,0.56
+Singapore,2007,0.58
+Singapore,2010,0.60
+Singapore,2015,0.77
+Slovakia,1990,0.44
+Slovakia,1995,0.44
+Slovakia,2000,0.44
+Slovakia,2005,0.49
+Slovakia,2007,0.51
+Slovakia,2010,0.52
+Slovakia,2015,0.54
+Slovenia,1980,0.39
+Slovenia,1985,0.42
+Slovenia,1990,0.45
+Slovenia,1995,0.48
+Slovenia,2000,0.53
+Slovenia,2005,0.63
+Slovenia,2007,0.65
+Slovenia,2010,0.66
+Slovenia,2015,0.74
+South Africa,1870,0.03
+South Africa,1880,0.03
+South Africa,1890,0.05
+South Africa,1900,0.05
+South Africa,1913,0.06
+South Africa,1925,0.07
+South Africa,1929,0.07
+South Africa,1933,0.08
+South Africa,1938,0.09
+South Africa,1950,0.11
+South Africa,1955,0.13
+South Africa,1960,0.15
+South Africa,1965,0.17
+South Africa,1970,0.19
+South Africa,1975,0.21
+South Africa,1980,0.22
+South Africa,1985,0.25
+South Africa,1990,0.27
+South Africa,1995,0.28
+South Africa,2000,0.27
+South Africa,2005,0.25
+South Africa,2007,0.25
+South Africa,2010,0.26
+South Africa,2015,0.30
+South Korea,1870,0.01
+South Korea,1880,0.01
+South Korea,1890,0.01
+South Korea,1900,0.01
+South Korea,1913,0.01
+South Korea,1925,0.04
+South Korea,1929,0.05
+South Korea,1933,0.06
+South Korea,1938,0.09
+South Korea,1950,0.14
+South Korea,1955,0.17
+South Korea,1960,0.19
+South Korea,1965,0.22
+South Korea,1970,0.26
+South Korea,1975,0.29
+South Korea,1980,0.32
+South Korea,1985,0.37
+South Korea,1990,0.42
+South Korea,1995,0.47
+South Korea,2000,0.56
+South Korea,2005,0.66
+South Korea,2007,0.73
+South Korea,2010,0.78
+South Korea,2015,0.83
+Spain,1870,0.05
+Spain,1880,0.06
+Spain,1890,0.07
+Spain,1900,0.08
+Spain,1913,0.10
+Spain,1925,0.13
+Spain,1929,0.15
+Spain,1933,0.17
+Spain,1938,0.18
+Spain,1950,0.24
+Spain,1955,0.27
+Spain,1960,0.32
+Spain,1965,0.33
+Spain,1970,0.36
+Spain,1975,0.38
+Spain,1980,0.43
+Spain,1985,0.46
+Spain,1990,0.51
+Spain,1995,0.55
+Spain,2000,0.61
+Spain,2005,0.66
+Spain,2007,0.73
+Spain,2010,0.79
+Spain,2015,0.87
+Sri Lanka,1870,0.02
+Sri Lanka,1880,0.03
+Sri Lanka,1890,0.04
+Sri Lanka,1900,0.05
+Sri Lanka,1913,0.05
+Sri Lanka,1925,0.06
+Sri Lanka,1929,0.07
+Sri Lanka,1933,0.08
+Sri Lanka,1938,0.12
+Sri Lanka,1950,0.19
+Sri Lanka,1955,0.22
+Sri Lanka,1960,0.24
+Sri Lanka,1965,0.25
+Sri Lanka,1970,0.26
+Sri Lanka,1975,0.27
+Sri Lanka,1980,0.30
+Sri Lanka,1985,0.31
+Sri Lanka,1990,0.33
+Sri Lanka,1995,0.35
+Sri Lanka,2000,0.37
+Sri Lanka,2005,0.40
+Sri Lanka,2007,0.39
+Sri Lanka,2010,0.42
+Sri Lanka,2015,0.43
+Sudan,1870,0.01
+Sudan,1880,0.01
+Sudan,1890,0.01
+Sudan,1900,0.01
+Sudan,1913,0.01
+Sudan,1925,0.01
+Sudan,1929,0.01
+Sudan,1933,0.01
+Sudan,1938,0.02
+Sudan,1950,0.03
+Sudan,1955,0.04
+Sudan,1960,0.05
+Sudan,1965,0.06
+Sudan,1970,0.08
+Sudan,1975,0.09
+Sudan,1980,0.11
+Sudan,1985,0.12
+Sudan,1990,0.13
+Sudan,1995,0.15
+Sudan,2000,0.16
+Sudan,2005,0.18
+Sudan,2007,0.19
+Sudan,2010,0.21
+Sudan,2015,0.21
+Swaziland,1870,0.01
+Swaziland,1880,0.01
+Swaziland,1890,0.02
+Swaziland,1900,0.02
+Swaziland,1913,0.02
+Swaziland,1925,0.03
+Swaziland,1929,0.03
+Swaziland,1933,0.04
+Swaziland,1938,0.04
+Swaziland,1950,0.05
+Swaziland,1955,0.07
+Swaziland,1960,0.08
+Swaziland,1965,0.10
+Swaziland,1970,0.13
+Swaziland,1975,0.15
+Swaziland,1980,0.18
+Swaziland,1985,0.21
+Swaziland,1990,0.23
+Swaziland,1995,0.24
+Swaziland,2000,0.20
+Swaziland,2005,0.18
+Swaziland,2007,0.19
+Swaziland,2010,0.19
+Swaziland,2015,0.22
+Sweden,1870,0.17
+Sweden,1880,0.19
+Sweden,1890,0.21
+Sweden,1900,0.22
+Sweden,1913,0.26
+Sweden,1925,0.27
+Sweden,1929,0.28
+Sweden,1933,0.29
+Sweden,1938,0.30
+Sweden,1950,0.37
+Sweden,1955,0.40
+Sweden,1960,0.41
+Sweden,1965,0.42
+Sweden,1970,0.46
+Sweden,1975,0.47
+Sweden,1980,0.50
+Sweden,1985,0.52
+Sweden,1990,0.53
+Sweden,1995,0.60
+Sweden,2000,0.77
+Sweden,2005,0.80
+Sweden,2007,0.72
+Sweden,2010,0.72
+Sweden,2015,0.84
+Switzerland,1870,0.16
+Switzerland,1880,0.18
+Switzerland,1890,0.21
+Switzerland,1900,0.23
+Switzerland,1913,0.25
+Switzerland,1925,0.28
+Switzerland,1929,0.29
+Switzerland,1933,0.30
+Switzerland,1938,0.32
+Switzerland,1950,0.34
+Switzerland,1955,0.38
+Switzerland,1960,0.39
+Switzerland,1965,0.39
+Switzerland,1970,0.40
+Switzerland,1975,0.44
+Switzerland,1980,0.49
+Switzerland,1985,0.50
+Switzerland,1990,0.51
+Switzerland,1995,0.55
+Switzerland,2000,0.61
+Switzerland,2005,0.66
+Switzerland,2007,0.68
+Switzerland,2010,0.70
+Switzerland,2015,0.75
+Syria,1870,0.01
+Syria,1913,0.02
+Syria,1950,0.09
+Syria,1955,0.10
+Syria,1960,0.11
+Syria,1965,0.14
+Syria,1970,0.16
+Syria,1975,0.18
+Syria,1980,0.22
+Syria,1985,0.24
+Syria,1990,0.28
+Syria,1995,0.29
+Syria,2000,0.30
+Syria,2005,0.35
+Syria,2007,0.37
+Syria,2010,0.39
+Syria,2015,0.36
+Taiwan,1870,0.01
+Taiwan,1880,0.01
+Taiwan,1890,0.01
+Taiwan,1900,0.01
+Taiwan,1913,0.02
+Taiwan,1925,0.07
+Taiwan,1929,0.07
+Taiwan,1933,0.08
+Taiwan,1938,0.10
+Taiwan,1950,0.15
+Taiwan,1955,0.21
+Taiwan,1960,0.25
+Taiwan,1965,0.30
+Taiwan,1970,0.33
+Taiwan,1975,0.35
+Taiwan,1980,0.37
+Taiwan,1985,0.39
+Taiwan,1990,0.45
+Taiwan,1995,0.45
+Taiwan,2000,0.54
+Taiwan,2005,0.66
+Taiwan,2007,0.70
+Taiwan,2010,0.76
+Taiwan,2015,0.78
+Tajikistan,1980,0.33
+Tajikistan,1985,0.37
+Tajikistan,1990,0.37
+Tajikistan,1995,0.36
+Tajikistan,2000,0.36
+Tajikistan,2005,0.38
+Tajikistan,2007,0.39
+Tajikistan,2010,0.40
+Tajikistan,2015,0.42
+Tanzania,1870,0.01
+Tanzania,1880,0.01
+Tanzania,1890,0.01
+Tanzania,1900,0.01
+Tanzania,1913,0.01
+Tanzania,1925,0.02
+Tanzania,1929,0.03
+Tanzania,1933,0.03
+Tanzania,1938,0.02
+Tanzania,1950,0.03
+Tanzania,1955,0.05
+Tanzania,1960,0.07
+Tanzania,1965,0.08
+Tanzania,1970,0.09
+Tanzania,1975,0.10
+Tanzania,1980,0.14
+Tanzania,1985,0.15
+Tanzania,1990,0.15
+Tanzania,1995,0.15
+Tanzania,2000,0.16
+Tanzania,2005,0.20
+Tanzania,2007,0.21
+Tanzania,2010,0.21
+Tanzania,2015,0.27
+Thailand,1870,0.01
+Thailand,1880,0.01
+Thailand,1890,0.01
+Thailand,1900,0.01
+Thailand,1913,0.02
+Thailand,1925,0.03
+Thailand,1929,0.04
+Thailand,1933,0.06
+Thailand,1938,0.08
+Thailand,1950,0.13
+Thailand,1955,0.15
+Thailand,1960,0.17
+Thailand,1965,0.18
+Thailand,1970,0.22
+Thailand,1975,0.23
+Thailand,1980,0.28
+Thailand,1985,0.31
+Thailand,1990,0.31
+Thailand,1995,0.32
+Thailand,2000,0.33
+Thailand,2005,0.36
+Thailand,2007,0.37
+Thailand,2010,0.40
+Thailand,2015,0.42
+Togo,1870,0.01
+Togo,1880,0.01
+Togo,1890,0.01
+Togo,1900,0.01
+Togo,1913,0.01
+Togo,1925,0.01
+Togo,1929,0.01
+Togo,1933,0.01
+Togo,1938,0.02
+Togo,1950,0.04
+Togo,1955,0.05
+Togo,1960,0.05
+Togo,1965,0.07
+Togo,1970,0.09
+Togo,1975,0.10
+Togo,1980,0.15
+Togo,1985,0.16
+Togo,1990,0.16
+Togo,1995,0.18
+Togo,2000,0.20
+Togo,2005,0.23
+Togo,2007,0.22
+Togo,2010,0.23
+Togo,2015,0.24
+Trinidad and Tobago,1950,0.23
+Trinidad and Tobago,1955,0.26
+Trinidad and Tobago,1960,0.28
+Trinidad and Tobago,1965,0.31
+Trinidad and Tobago,1970,0.32
+Trinidad and Tobago,1975,0.33
+Trinidad and Tobago,1980,0.35
+Trinidad and Tobago,1985,0.35
+Trinidad and Tobago,1990,0.38
+Trinidad and Tobago,1995,0.39
+Trinidad and Tobago,2000,0.38
+Trinidad and Tobago,2005,0.40
+Trinidad and Tobago,2007,0.39
+Trinidad and Tobago,2010,0.41
+Trinidad and Tobago,2015,0.42
+Tunisia,1870,0.01
+Tunisia,1880,0.01
+Tunisia,1890,0.01
+Tunisia,1900,0.01
+Tunisia,1913,0.02
+Tunisia,1925,0.03
+Tunisia,1929,0.03
+Tunisia,1933,0.04
+Tunisia,1938,0.04
+Tunisia,1950,0.06
+Tunisia,1955,0.08
+Tunisia,1960,0.09
+Tunisia,1965,0.12
+Tunisia,1970,0.14
+Tunisia,1975,0.16
+Tunisia,1980,0.18
+Tunisia,1985,0.22
+Tunisia,1990,0.26
+Tunisia,1995,0.29
+Tunisia,2000,0.33
+Tunisia,2005,0.36
+Tunisia,2007,0.37
+Tunisia,2010,0.38
+Tunisia,2015,0.40
+Turkey,1870,0.01
+Turkey,1880,0.01
+Turkey,1890,0.02
+Turkey,1900,0.02
+Turkey,1913,0.02
+Turkey,1925,0.03
+Turkey,1929,0.04
+Turkey,1933,0.05
+Turkey,1938,0.06
+Turkey,1950,0.10
+Turkey,1955,0.10
+Turkey,1960,0.12
+Turkey,1965,0.15
+Turkey,1970,0.18
+Turkey,1975,0.20
+Turkey,1980,0.21
+Turkey,1985,0.24
+Turkey,1990,0.27
+Turkey,1995,0.29
+Turkey,2000,0.32
+Turkey,2005,0.37
+Turkey,2007,0.39
+Turkey,2010,0.41
+Turkey,2015,0.47
+Uganda,1870,0.01
+Uganda,1880,0.01
+Uganda,1890,0.01
+Uganda,1900,0.01
+Uganda,1913,0.01
+Uganda,1925,0.03
+Uganda,1929,0.03
+Uganda,1933,0.03
+Uganda,1938,0.04
+Uganda,1950,0.07
+Uganda,1955,0.08
+Uganda,1960,0.08
+Uganda,1965,0.09
+Uganda,1970,0.10
+Uganda,1975,0.11
+Uganda,1980,0.12
+Uganda,1985,0.13
+Uganda,1990,0.14
+Uganda,1995,0.13
+Uganda,2000,0.17
+Uganda,2005,0.20
+Uganda,2007,0.20
+Uganda,2010,0.22
+Uganda,2015,0.24
+Ukraine,1980,0.44
+Ukraine,1985,0.46
+Ukraine,1990,0.47
+Ukraine,1995,0.44
+Ukraine,2000,0.45
+Ukraine,2005,0.48
+Ukraine,2007,0.49
+Ukraine,2010,0.50
+Ukraine,2015,0.55
+United Arab Emirates,1950,0.05
+United Arab Emirates,1955,0.06
+United Arab Emirates,1960,0.08
+United Arab Emirates,1965,0.13
+United Arab Emirates,1970,0.16
+United Arab Emirates,1975,0.19
+United Arab Emirates,1980,0.23
+United Arab Emirates,1985,0.28
+United Arab Emirates,1990,0.31
+United Arab Emirates,1995,0.34
+United Arab Emirates,2000,0.36
+United Arab Emirates,2005,0.41
+United Arab Emirates,2007,0.43
+United Arab Emirates,2010,0.49
+United Arab Emirates,2015,0.51
+United Kingdom,1870,0.13
+United Kingdom,1880,0.15
+United Kingdom,1890,0.17
+United Kingdom,1900,0.19
+United Kingdom,1913,0.24
+United Kingdom,1925,0.27
+United Kingdom,1929,0.28
+United Kingdom,1933,0.28
+United Kingdom,1938,0.30
+United Kingdom,1950,0.38
+United Kingdom,1955,0.40
+United Kingdom,1960,0.42
+United Kingdom,1965,0.41
+United Kingdom,1970,0.44
+United Kingdom,1975,0.45
+United Kingdom,1980,0.47
+United Kingdom,1985,0.47
+United Kingdom,1990,0.49
+United Kingdom,1995,0.53
+United Kingdom,2000,0.61
+United Kingdom,2005,0.65
+United Kingdom,2007,0.63
+United Kingdom,2010,0.64
+United Kingdom,2015,0.71
+United States,1870,0.15
+United States,1880,0.14
+United States,1890,0.17
+United States,1900,0.20
+United States,1913,0.22
+United States,1925,0.27
+United States,1929,0.29
+United States,1933,0.29
+United States,1938,0.33
+United States,1950,0.37
+United States,1955,0.40
+United States,1960,0.42
+United States,1965,0.46
+United States,1970,0.45
+United States,1975,0.47
+United States,1980,0.49
+United States,1985,0.52
+United States,1990,0.55
+United States,1995,0.61
+United States,2000,0.64
+United States,2005,0.65
+United States,2007,0.68
+United States,2010,0.70
+United States,2015,0.71
+Uruguay,1870,0.07
+Uruguay,1880,0.08
+Uruguay,1890,0.09
+Uruguay,1900,0.11
+Uruguay,1913,0.13
+Uruguay,1925,0.15
+Uruguay,1929,0.17
+Uruguay,1933,0.18
+Uruguay,1938,0.20
+Uruguay,1950,0.26
+Uruguay,1955,0.28
+Uruguay,1960,0.31
+Uruguay,1965,0.32
+Uruguay,1970,0.36
+Uruguay,1975,0.36
+Uruguay,1980,0.37
+Uruguay,1985,0.40
+Uruguay,1990,0.44
+Uruguay,1995,0.45
+Uruguay,2000,0.49
+Uruguay,2005,0.55
+Uruguay,2007,0.56
+Uruguay,2010,0.57
+Uruguay,2015,0.60
+Uzbekistan,1990,0.42
+Uzbekistan,1995,0.41
+Uzbekistan,2000,0.39
+Uzbekistan,2005,0.41
+Uzbekistan,2007,0.40
+Uzbekistan,2010,0.41
+Uzbekistan,2015,0.43
+Venezuela,1870,0.02
+Venezuela,1880,0.02
+Venezuela,1890,0.03
+Venezuela,1900,0.03
+Venezuela,1913,0.04
+Venezuela,1925,0.04
+Venezuela,1929,0.04
+Venezuela,1933,0.05
+Venezuela,1938,0.06
+Venezuela,1950,0.14
+Venezuela,1955,0.16
+Venezuela,1960,0.19
+Venezuela,1965,0.22
+Venezuela,1970,0.25
+Venezuela,1975,0.27
+Venezuela,1980,0.30
+Venezuela,1985,0.33
+Venezuela,1990,0.36
+Venezuela,1995,0.38
+Venezuela,2000,0.38
+Venezuela,2005,0.42
+Venezuela,2007,0.47
+Venezuela,2010,0.48
+Venezuela,2015,0.49
+Vietnam,1870,0.01
+Vietnam,1913,0.01
+Vietnam,1950,0.05
+Vietnam,1955,0.09
+Vietnam,1960,0.10
+Vietnam,1965,0.12
+Vietnam,1970,0.19
+Vietnam,1975,0.23
+Vietnam,1980,0.24
+Vietnam,1985,0.25
+Vietnam,1990,0.28
+Vietnam,1995,0.33
+Vietnam,2000,0.36
+Vietnam,2005,0.39
+Vietnam,2007,0.39
+Vietnam,2010,0.41
+Vietnam,2015,0.43
+Yemen,1990,0.14
+Yemen,1995,0.16
+Yemen,2000,0.18
+Yemen,2005,0.20
+Yemen,2007,0.22
+Yemen,2010,0.24
+Yemen,2015,0.24
+Zambia,1870,0.01
+Zambia,1880,0.01
+Zambia,1890,0.01
+Zambia,1900,0.01
+Zambia,1913,0.01
+Zambia,1925,0.03
+Zambia,1929,0.04
+Zambia,1933,0.05
+Zambia,1938,0.06
+Zambia,1950,0.07
+Zambia,1955,0.08
+Zambia,1960,0.09
+Zambia,1965,0.11
+Zambia,1970,0.13
+Zambia,1975,0.15
+Zambia,1980,0.17
+Zambia,1985,0.17
+Zambia,1990,0.17
+Zambia,1995,0.16
+Zambia,2000,0.14
+Zambia,2005,0.17
+Zambia,2007,0.17
+Zambia,2010,0.19
+Zambia,2015,0.27
+Zimbabwe,1870,0.01
+Zimbabwe,1880,0.01
+Zimbabwe,1890,0.01
+Zimbabwe,1900,0.01
+Zimbabwe,1913,0.01
+Zimbabwe,1925,0.03
+Zimbabwe,1929,0.03
+Zimbabwe,1933,0.03
+Zimbabwe,1938,0.04
+Zimbabwe,1950,0.08
+Zimbabwe,1955,0.10
+Zimbabwe,1960,0.12
+Zimbabwe,1965,0.13
+Zimbabwe,1970,0.14
+Zimbabwe,1975,0.16
+Zimbabwe,1980,0.19
+Zimbabwe,1985,0.26
+Zimbabwe,1990,0.26
+Zimbabwe,1995,0.22
+Zimbabwe,2000,0.18
+Zimbabwe,2005,0.17
+Zimbabwe,2007,0.18
+Zimbabwe,2010,0.19
+Zimbabwe,2015,0.25
