@@ -1,0 +1,3 @@
+# Environmental footprint by food type (kcal) - Clark & Tilman (2017)
+
+The figures presented here are given as the environmental footprint per kilocalorie of production across different food types. Here, we show the mean value presented by Clark & Tilman based on their large-scale meta-analysis. Note that some production systems (such as aquaculture systems) can have large standard errors around these mean values based on the production context.
