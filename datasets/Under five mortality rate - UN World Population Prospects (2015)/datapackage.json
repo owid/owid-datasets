@@ -1,0 +1,44 @@
+{
+  "name": "Under five mortality rate - UN World Population Prospects (2015)",
+  "title": "Under five mortality rate - UN World Population Prospects (2015)",
+  "id": 330,
+  "description": "– The original data is presented in deaths per 1,000 live births. Here it is changed to percentages by dividing the original estimates by 100.\n\n– Importantly data refer to 5 year intervals preceding the indicated year. E.g. 1955 refers to 1950-1955 in the original dataset.",
+  "sources": [
+    {
+      "name": "UN World Population Prospects (2015)",
+      "dataPublishedBy": "United Nations, Department of Economic and Social Affairs, Population Division (2015). World Population Prospects: The 2015 Revision, custom data acquired via website.",
+      "dataPublisherSource": "Various, including censuses, vital registrations and maternity histories. Full source information can be found here: https://esa.un.org/unpd/wpp/DataSources/",
+      "link": "https://esa.un.org/unpd/wpp/DataQuery/",
+      "retrievedDate": "10/02/2017",
+      "additionalInfo": "– The original data is presented in deaths per 1,000 live births. Here it is changed to percentages by dividing the original estimates by 100.\n\n– Importantly data refer to 5 year intervals preceding the indicated year. E.g. 1955 refers to 1950-1955 in the original dataset."
+    }
+  ],
+  "owidTags": [
+    "Child Mortality"
+  ],
+  "resources": [
+    {
+      "path": "Under five mortality rate - UN World Population Prospects (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Under five mortality rate (UN World Population Prospects (2015))",
+            "type": "any",
+            "description": "1950-2015",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
