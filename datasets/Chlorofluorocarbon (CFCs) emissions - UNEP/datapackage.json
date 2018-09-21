@@ -1,0 +1,42 @@
+{
+  "name": "Chlorofluorocarbon (CFCs) emissions - UNEP",
+  "title": "Chlorofluorocarbon (CFCs) emissions - UNEP",
+  "id": 2726,
+  "description": "Emissions of CFCs are measured in ODS (ozone-depleting substance) tonnes, which is the amount of ODS consumed, multiplied by their respective ozone depleting potential value.",
+  "sources": [
+    {
+      "name": "Chlorofluorocarbon (CFCs) emissions - UNEP",
+      "dataPublishedBy": "United Nations Environment Programme",
+      "dataPublisherSource": null,
+      "link": "http://ozone.unep.org/Data_Access/",
+      "retrievedDate": "5th April 2018",
+      "additionalInfo": "Emissions of CFCs are measured in ODS (ozone-depleting substance) tonnes, which is the amount of ODS consumed, multiplied by their respective ozone depleting potential value."
+    }
+  ],
+  "owidTags": [
+    "Ozone Layer"
+  ],
+  "resources": [
+    {
+      "path": "Chlorofluorocarbon (CFCs) emissions - UNEP.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Chlorofluorocarbon (CFCs) emissions (UNEP)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
