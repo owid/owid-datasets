@@ -1,0 +1,54 @@
+{
+  "name": "Land use by food production type - Tilman & Clark (2017)",
+  "title": "Land use by food production type - Tilman & Clark (2017)",
+  "id": 2492,
+  "description": "The figures presented here are given as the land use per gram of protein, kilocalorie or unit mass across different food types. Here, we show the mean value presented by Clark & Tilman based on their large-scale meta-analysis. Note that some production systems can have large standard errors around these mean values based on the geographical context.",
+  "sources": [
+    {
+      "name": "Land use by food production type - Clark & Tilman (2017)",
+      "dataPublishedBy": "Clark & Tilman (2017). Comparative analysis of environmental impacts of agricultural production systems, agricultural input efficiency, and food choice. Environmental Research Letters, Volume 12, Number 6.",
+      "dataPublisherSource": "Authors reviewed the life-cycle analysis (LCA) results of 742 agricultural systems and over 90 unique foods produced within different systems.",
+      "link": "http://iopscience.iop.org/article/10.1088/1748-9326/aa6cd5",
+      "retrievedDate": "3rd March 2018",
+      "additionalInfo": "The figures presented here are given as the land use per gram of protein, kilocalorie or unit mass across different food types. Here, we show the mean value presented by Clark & Tilman based on their large-scale meta-analysis. Note that some production systems can have large standard errors around these mean values based on the geographical context."
+    }
+  ],
+  "owidTags": [
+    "Land Use in Agriculture"
+  ],
+  "resources": [
+    {
+      "path": "Land use by food production type - Tilman & Clark (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Land use per kilocalorie",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Land use per unit protein",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Land use per unit mass",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
