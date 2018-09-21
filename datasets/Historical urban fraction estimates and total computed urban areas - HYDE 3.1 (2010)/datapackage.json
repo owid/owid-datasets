@@ -1,0 +1,54 @@
+{
+  "name": "Historical urban fraction estimates and total computed urban areas - HYDE 3.1 (2010)",
+  "title": "Historical urban fraction estimates and total computed urban areas - HYDE 3.1 (2010)",
+  "id": 2803,
+  "description": "Authors' note on the data sources used: \"Urban/rural fractions for all countries were derived from the UN after ad 1950 (UN, 2008b). Earlier historical urbanization estimates for Europe were derived from De Vries (1984), Bairoch et al. (1988), Chandler (1987), for Canada after ad 1890 from Urquhart and Buckley (1965), for China from Rozman (1973) and Maddison (1995), for Colombia from Etter et al. (2006), USA from Dodd (1993), all other countries were estimated similar to De Vries (1984), which data yielded roughly a factor 10 lower in ad 1700 compared with the 1950 value of the UN.\"\n\nFull citation: \nKlein Goldewijk, K. , A. Beusen, M. de Vos and G. van Drecht (2011). The HYDE 3.1 spatially explicit database of human induced land use change over the past 12,000 years, Global Ecology and Biogeography20(1): 73-86. DOI: 10.1111/j.1466-8238.2010.00587.x.\n\nKlein Goldewijk, K. , A. Beusen, and P. Janssen (2010). Long term dynamic modeling of global population and built-up area in a spatially explicit way, HYDE 3 .1. The Holocene20(4):565-573. http://dx.doi.org/10.1177/0959683609356587",
+  "sources": [
+    {
+      "name": "HYDE 3.1",
+      "dataPublishedBy": "Klein Goldewijk, K. , A. Beusen, and P. Janssen (2010). Long term dynamic modeling of global population and built-up area in a spatially explicit way, HYDE 3 .1. The Holocene20(4):565-573. http://dx.doi.org/10.1177/0959683609356587",
+      "dataPublisherSource": "Historical population and land use data",
+      "link": "http://journals.sagepub.com/doi/pdf/10.1177/0959683609356587",
+      "retrievedDate": "07/06/2018",
+      "additionalInfo": "Authors' note on the data sources used: \"Urban/rural fractions for all countries were derived from the UN after ad 1950 (UN, 2008b). Earlier historical urbanization estimates for Europe were derived from De Vries (1984), Bairoch et al. (1988), Chandler (1987), for Canada after ad 1890 from Urquhart and Buckley (1965), for China from Rozman (1973) and Maddison (1995), for Colombia from Etter et al. (2006), USA from Dodd (1993), all other countries were estimated similar to De Vries (1984), which data yielded roughly a factor 10 lower in ad 1700 compared with the 1950 value of the UN.\"\n\nFull citation: \nKlein Goldewijk, K. , A. Beusen, M. de Vos and G. van Drecht (2011). The HYDE 3.1 spatially explicit database of human induced land use change over the past 12,000 years, Global Ecology and Biogeography20(1): 73-86. DOI: 10.1111/j.1466-8238.2010.00587.x.\n\nKlein Goldewijk, K. , A. Beusen, and P. Janssen (2010). Long term dynamic modeling of global population and built-up area in a spatially explicit way, HYDE 3 .1. The Holocene20(4):565-573. http://dx.doi.org/10.1177/0959683609356587"
+    }
+  ],
+  "owidTags": [
+    "Urbanization"
+  ],
+  "resources": [
+    {
+      "path": "Historical urban fraction estimates and total computed urban areas - HYDE 3.1 (2010).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Historical urban fraction estimate per region (HYDE 3.1 (2010))",
+            "type": "any",
+            "description": "Estimates of urbanization fractions for different world regions over time. \n\nNote: Asia-Stan refers to countries in Central and southern Asia where country names end in -stan; Afghanistan, Kazakhstan, Kyrgyzstan, Pakistan, Tajikistan, Turkmenistan, and Uzbekistan. \n\nSee Table 4 for the original data.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total urban area per world region (HYDE 3.1 (2010))",
+            "type": "any",
+            "description": "Total computed urban area per world region (in km^2).\n\nSee Table 6 for the original data.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Historical rural fraction estimate per region (HYDE 3.1 (2010))",
+            "type": "any",
+            "description": "Estimates of rural share for different world regions over time. Calculated using the 'Historical urban fraction estimate per region' variable.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
