@@ -1,0 +1,3 @@
+# Population Estimates and Projection - Wittgenstein Centre for Demography and Global Human Capital
+
+The new set of projections by levels of educational attainment was produced by a large team of researchers at the Wittgenstein Centre for Demography and Global Human Capital and at other institutions. It also includes population projections developed for the 5th assessment report of the Intergovernmental Panel on Climate Change (IPCC) according to a set of Shared Socioeconomic Pathways (SSP) scenarios.

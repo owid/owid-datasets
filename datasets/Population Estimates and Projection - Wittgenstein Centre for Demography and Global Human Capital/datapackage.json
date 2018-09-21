@@ -1,0 +1,108 @@
+{
+  "name": "Population Estimates and Projection - Wittgenstein Centre for Demography and Global Human Capital",
+  "title": "Population Estimates and Projection - Wittgenstein Centre for Demography and Global Human Capital",
+  "id": 855,
+  "description": "The new set of projections by levels of educational attainment was produced by a large team of researchers at the Wittgenstein Centre for Demography and Global Human Capital and at other institutions. It also includes population projections developed for the 5th assessment report of the Intergovernmental Panel on Climate Change (IPCC) according to a set of Shared Socioeconomic Pathways (SSP) scenarios.",
+  "sources": [
+    {
+      "name": "Medium SSP2 - Wittgenstein Centre for Demography and Global Human Capital",
+      "dataPublishedBy": "Wittgenstein Centre Data Explorer",
+      "dataPublisherSource": "These projections were produced by a large team of researchers at the Wittgenstein Centre for Demography and Global Human Capital and at other institutions.",
+      "link": "http://www.wittgensteincentre.org/dataexplorer",
+      "retrievedDate": "06/09/2017",
+      "additionalInfo": "The new set of projections by levels of educational attainment was produced by a large team of researchers at the Wittgenstein Centre for Demography and Global Human Capital and at other institutions. It also includes population projections developed for the 5th assessment report of the Intergovernmental Panel on Climate Change (IPCC) according to a set of Shared Socioeconomic Pathways (SSP) scenarios."
+    }
+  ],
+  "owidTags": [
+    "World Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Population Estimates and Projection - Wittgenstein Centre for Demography and Global Human Capital.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Population Total",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Population younger than 5",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Population younger than 15",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "PopulationTotal_SSP2",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "PopulationUnder5_SSP2",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "PopulationUnder15_SSP2",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "PopulationTotal_SSP2_FT",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "PopulationUnder5_SSP2_FT",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "PopulationUnder15_SSP2_FT",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "PopulationTotal_SSP2_CER",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "PopulationUnder5_SSP2_CER",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "PopulationUnder15_SSP2_CER",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
