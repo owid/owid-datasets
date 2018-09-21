@@ -1,0 +1,48 @@
+{
+  "name": "Urban and rural population 1950-2050 - UN World Urbanization Prospects 2018",
+  "title": "Urban and rural population 1950-2050 - UN World Urbanization Prospects 2018",
+  "id": 2804,
+  "description": "",
+  "sources": [
+    {
+      "name": "UN World Urbanization Prospects 2018",
+      "dataPublishedBy": "United Nations, Department of Economic and Social Affairs, Population Division (2018). World Urbanization Prospects: The 2018 Revision, Online Edition.",
+      "dataPublisherSource": "National estimates",
+      "link": "https://esa.un.org/unpd/wup/Download/ see File 19 and 20 for Annual Urban and Rural Population. ",
+      "retrievedDate": "08/06/2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Urbanization"
+  ],
+  "resources": [
+    {
+      "path": "Urban and rural population 1950-2050 - UN World Urbanization Prospects 2018.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Urban population 1950-2050 (UN World Urbanization Prospects 2018)",
+            "type": "any",
+            "description": "Annual urban population at mid-year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Rural population 1950-2050 (UN World Urbanization Prospects 2018)",
+            "type": "any",
+            "description": "Annual rural population at mid-year.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
