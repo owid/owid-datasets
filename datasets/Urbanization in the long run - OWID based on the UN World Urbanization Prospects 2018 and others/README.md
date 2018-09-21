@@ -1,0 +1,9 @@
+# Urbanization in the long run - OWID based on the UN World Urbanization Prospects 2018 and others
+
+To construct the long run urbanization series we began with the UN World Urbanization Prospects database covering the period from 1950 to 2050. 
+
+Then we extended the series backwards using additional data sources including the US Census Bureau, Bairoch (1988), Kuroda (1984), HYDE 3.1 (2010), and De Vries (1984) to arrive at the longest single series possible for each country and region included. For further information on the source used for particular observations by country-year, see the following <a href="https://docs.google.com/spreadsheets/d/1tl3FmKTD_FaQ-i4VUlusS-OcZHOl30zkK7oIsuQPtJ4/edit?usp=sharing" rel="noopener" target="_blank">documentation</a>. 
+
+To calculate the absolute rural and urban populations, we have multiplied the rural and urban percentages by the historic population series published by Gapminder until 1949 and extended using the UN Population Division data from 1950 to 2016. The long run 'Gapminder + UN Population' population series is available <a href="https://ourworldindata.org/grapher/population-by-country-gapminder+un" rel="noopener" target="_blank">here</a>.  For absolute population estimates before 1950 for the 'World', we used the <a href="https://ourworldindata.org/grapher/world-population-1750-2015-and-un-projection-until-2100" rel="noopener" target="_blank">'World Population over 12,000 years' series</a>.
+
+Note: Urbanization data for Japan in 1900 has been excluded as the estimate (HYDE 3.1) was inconsistent with figures for neighbouring years (Kuroda (1986)).
