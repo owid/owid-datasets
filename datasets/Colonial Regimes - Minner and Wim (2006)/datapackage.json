@@ -1,0 +1,42 @@
+{
+  "name": "Colonial Regimes - Minner and Wim (2006)",
+  "title": "Colonial Regimes - Minner and Wim (2006)",
+  "id": 281,
+  "description": "The data was extended to 2015 by Our World In Data. The original data set ends in 2001.",
+  "sources": [
+    {
+      "name": "Colonial Regimes - Minner and Wim (2006)",
+      "dataPublishedBy": "Wimmer and Min (2006) – “From empire to nation-state: Explaining war in the modern world, 1816-2001”, American Sociological Review 71(6):867-897, 2006.",
+      "dataPublisherSource": "Scholarly work. ",
+      "link": "http://www.columbia.edu/~aw2951/Datasets.html",
+      "retrievedDate": "08/03/2016",
+      "additionalInfo": "The data was extended to 2015 by Our World In Data. The original data set ends in 2001."
+    }
+  ],
+  "owidTags": [
+    "Colonialism & Imperialism"
+  ],
+  "resources": [
+    {
+      "path": "Colonial Regimes - Minner and Wim (2006).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Colonial Regimes (Minner and Wim (2006))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
