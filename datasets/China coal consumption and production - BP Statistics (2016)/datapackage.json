@@ -1,0 +1,48 @@
+{
+  "name": "China coal consumption and production - BP Statistics (2016)",
+  "title": "China coal consumption and production - BP Statistics (2016)",
+  "id": 511,
+  "description": "",
+  "sources": [
+    {
+      "name": "China coal consumption and production - BP Statistics (2016)",
+      "dataPublishedBy": "BP Statistical Review of World Energy 2016",
+      "dataPublisherSource": "Government sources and publicly-available data",
+      "link": "http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html",
+      "retrievedDate": "02/06/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Fossil Fuels"
+  ],
+  "resources": [
+    {
+      "path": "China coal consumption and production - BP Statistics (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Coal consumption (BP Statistics (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Coal production (BP Statistics (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
