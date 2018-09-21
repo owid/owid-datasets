@@ -1,0 +1,45 @@
+{
+  "name": "Executions by country - Amnesty International",
+  "title": "Executions by country - Amnesty International",
+  "id": 985,
+  "description": "\tAmnesty Interntional note: \r\n\"Amnesty\r\nInternational reports only on executions, death sentences and other aspects of the use of\r\nthe death penalty, such as commutations and exonerations, where there is reasonable\r\nconfirmation.\r\nIn many countries governments do not publish information on their use of the\r\ndeath penalty. In Belarus, China and Viet Nam, data on the use of the death penalty is\r\nclassified as a state secret. During 2016 little or no information was available on some\r\ncountries – in particular Laos, North Korea (the Democratic People’s Republic of Korea),\r\nSyria and Yemen – due to restrictive state practice and/or armed conflict.\r\nTherefore, with only a few exceptions, Amnesty International’s figures on the use of the death\r\npenalty are minimum figures.\r\nThe true figures are likely to be higher. Where the organization\r\nobtains fuller information on a specific country in a given year this is noted in Amnesty International's report.\r\nIn 2009 Amnesty International stopped publishing its estimated figures on the use of the\r\ndeath penalty in China. Amnesty International always made clear that the figures it was able\r\nto publish on China were significantly lower than the reality, because of the restrictions on\r\naccess to information. Amnesty International’s decision to stop publishing data reflected\r\nconcerns about how the Chinese authorities misrepresented Amnesty International’s\r\nnumbers. Since 2009 the organization challenged China to publish information on the use of\r\nthe death penalty. China has yet to publish any figures on the death penalty. However,\r\navailable information indicates that thousands of people are executed and sentenced to death\r\nin China each year.\" \r\n\r\n",
+  "sources": [
+    {
+      "name": "Executions by country - Amnesty International",
+      "dataPublishedBy": "Amnesty International",
+      "dataPublisherSource": "Official figures; information from individuals sentenced to death and their families andrepresentatives; reporting by other civil society organizations; and media reports. ",
+      "link": "https://www.amnesty.org/en/what-we-do/death-penalty/",
+      "retrievedDate": "29/10/2017",
+      "additionalInfo": "\tAmnesty Interntional note: \r\n\"Amnesty\r\nInternational reports only on executions, death sentences and other aspects of the use of\r\nthe death penalty, such as commutations and exonerations, where there is reasonable\r\nconfirmation.\r\nIn many countries governments do not publish information on their use of the\r\ndeath penalty. In Belarus, China and Viet Nam, data on the use of the death penalty is\r\nclassified as a state secret. During 2016 little or no information was available on some\r\ncountries – in particular Laos, North Korea (the Democratic People’s Republic of Korea),\r\nSyria and Yemen – due to restrictive state practice and/or armed conflict.\r\nTherefore, with only a few exceptions, Amnesty International’s figures on the use of the death\r\npenalty are minimum figures.\r\nThe true figures are likely to be higher. Where the organization\r\nobtains fuller information on a specific country in a given year this is noted in Amnesty International's report.\r\nIn 2009 Amnesty International stopped publishing its estimated figures on the use of the\r\ndeath penalty in China. Amnesty International always made clear that the figures it was able\r\nto publish on China were significantly lower than the reality, because of the restrictions on\r\naccess to information. Amnesty International’s decision to stop publishing data reflected\r\nconcerns about how the Chinese authorities misrepresented Amnesty International’s\r\nnumbers. Since 2009 the organization challenged China to publish information on the use of\r\nthe death penalty. China has yet to publish any figures on the death penalty. However,\r\navailable information indicates that thousands of people are executed and sentenced to death\r\nin China each year.\" \r\n\r\n"
+    }
+  ],
+  "owidTags": [
+    "Human Rights"
+  ],
+  "resources": [
+    {
+      "path": "Executions by country - Amnesty International.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of executions (Amnesty International)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "name": "Executions",
+              "unit": "deaths"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
