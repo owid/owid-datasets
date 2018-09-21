@@ -1,0 +1,54 @@
+{
+  "name": "Mortality from all forms of violence  (IHME (2016))",
+  "title": "Mortality from all forms of violence  (IHME (2016))",
+  "id": 1898,
+  "description": "Data was amended by Our World in Data to represent the total number of deaths and age-standardized death rate from all forms of violence. This includes the IHME GBD categories of 'interpersonal violence'; 'conflict and terrorism' and 'executions and police conflict'.",
+  "sources": [
+    {
+      "name": "Institute for Health Metrics and Evaluation, GBD (amended by OWID)",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2016 (GBD 2016) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2017.",
+      "dataPublisherSource": "Census data",
+      "link": "http://ghdx.healthdata.org/gbd-results-tool",
+      "retrievedDate": "10/01/2018",
+      "additionalInfo": "Data was amended by Our World in Data to represent the total number of deaths and age-standardized death rate from all forms of violence. This includes the IHME GBD categories of 'interpersonal violence'; 'conflict and terrorism' and 'executions and police conflict'."
+    }
+  ],
+  "owidTags": [
+    "Homicides"
+  ],
+  "resources": [
+    {
+      "path": "Mortality from all forms of violence  (IHME (2016)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Age-standardized death rate from all forms of violence (IHME (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total deaths from all forms of violence (IHME (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Death rate from all forms of violence (IHME (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
