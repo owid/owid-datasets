@@ -1,0 +1,72 @@
+{
+  "name": "Labor productivity in cotton spinning and weaving (Ellison (1886))",
+  "title": "Labor productivity in cotton spinning and weaving (Ellison (1886))",
+  "id": 2425,
+  "description": "Full reference: Ellison, T., 1886. The cotton trade of Great Britain: including a history of the Liverpool cotton market and of the Liverpool cotton brokers' association. E. Wilson. [Please see the table at the bottom of page 68 titled 'YARN' and the table at the top of page 69 titled 'GOODS' for the original data.]",
+  "sources": [
+    {
+      "name": "Ellison (1886)",
+      "dataPublishedBy": "Ellison, T., 1886. The cotton trade of Great Britain: including a history of the Liverpool cotton market and of the Liverpool cotton brokers' association. E. Wilson.",
+      "dataPublisherSource": "Historical data. ",
+      "link": "https://archive.org/details/cottontradeofgre00elli",
+      "retrievedDate": "15/02/2018",
+      "additionalInfo": "Full reference: Ellison, T., 1886. The cotton trade of Great Britain: including a history of the Liverpool cotton market and of the Liverpool cotton brokers' association. E. Wilson. [Please see the table at the bottom of page 68 titled 'YARN' and the table at the top of page 69 titled 'GOODS' for the original data.]"
+    }
+  ],
+  "owidTags": [
+    "Industrialization & Technological Progress"
+  ],
+  "resources": [
+    {
+      "path": "Labor productivity in cotton spinning and weaving (Ellison (1886)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Yarn spun (Ellison (1886))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Hands employed (spinning) (Ellison (1886))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Output per hand (spun) (Ellison (1886))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cloth woven (Ellison (1886))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Hands employed (weaving) (Ellison (1886))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Output per hand (woven) (Ellison (1886))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
