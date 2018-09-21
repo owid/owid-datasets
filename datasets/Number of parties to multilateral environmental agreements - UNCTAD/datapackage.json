@@ -1,0 +1,120 @@
+{
+  "name": "Number of parties to multilateral environmental agreements - UNCTAD",
+  "title": "Number of parties to multilateral environmental agreements - UNCTAD",
+  "id": 965,
+  "description": "Data represents the number of parties signed into international, multilateral environmental agreements.\n\nAcronyms:\n\nCBD: Convention on Biological Diversity. \nCMS: Convention on the Conservation of Migratory Species of Wild Animals \nUNCCD: United Nations Convention to Combat Desertification \nUNCLOS: United Nations Convention on the Law of the Sea \nUNFCCC: United Nations Framework Convention on Climate Change \nStockholm: Stockholm Convention on Persistent Organic Pollutants \nCartagena: Cartagena Protocol on Biosafety \nCITES: Convention on International Trade in Endangered Species of Wild Fauna and Flora \nHeritage: World Heritage Convention. Kyoto: Kyoto Protocol \nOzone: Ozone Vienna Convention \nRamsar: Ramsar Convention \nRotterdam: Rotterdam Convention.",
+  "sources": [
+    {
+      "name": "Number of parties to multilateral environmental agreements - UNCTAD",
+      "dataPublishedBy": "UNCTAD Development and Globalization: Facts and Figures (2016). United Nations Conference on Trade and Development",
+      "dataPublisherSource": "United Nations Treaty Collection",
+      "link": "http://stats.unctad.org/Dgff2016/index.html",
+      "retrievedDate": "12/10/2017",
+      "additionalInfo": "Data represents the number of parties signed into international, multilateral environmental agreements.\n\nAcronyms:\n\nCBD: Convention on Biological Diversity. \nCMS: Convention on the Conservation of Migratory Species of Wild Animals \nUNCCD: United Nations Convention to Combat Desertification \nUNCLOS: United Nations Convention on the Law of the Sea \nUNFCCC: United Nations Framework Convention on Climate Change \nStockholm: Stockholm Convention on Persistent Organic Pollutants \nCartagena: Cartagena Protocol on Biosafety \nCITES: Convention on International Trade in Endangered Species of Wild Fauna and Flora \nHeritage: World Heritage Convention. Kyoto: Kyoto Protocol \nOzone: Ozone Vienna Convention \nRamsar: Ramsar Convention \nRotterdam: Rotterdam Convention."
+    }
+  ],
+  "owidTags": [
+    "Environmental Protection Efforts"
+  ],
+  "resources": [
+    {
+      "path": "Number of parties to multilateral environmental agreements - UNCTAD.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Cartagena Protocol on Biosafety",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Convention on Biological Diversity (CBD)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cites Convention on International Trade in Endangered Species of Wild Fauna nad Flora",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Convention on the Conservation of Migratory Species of Wild Animals",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "World Heritage Convention",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Kyoto Protocol",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Vienna Convention (Ozone)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Ramsar Convention",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Rotterdam Convention",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Stockholm Convention on Persistent Organic Pollutants",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "UN Convention to Combat Desertification (UNCCD)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "UN Convention on the Law of the Sea (UNCLOS)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "UN Framework Convention on Climate Change (UNFCCC)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cites Convention on International Trade in Endangered Species of Wild Fauna and Flora",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
