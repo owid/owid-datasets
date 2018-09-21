@@ -1,0 +1,118 @@
+{
+  "name": "Global Primary Energy Consumption - Vaclav Smil (2017)",
+  "title": "Global Primary Energy Consumption - Vaclav Smil (2017)",
+  "id": 502,
+  "description": "This data comprises of a combination of data from Appendix A of Vaclav Smil's Updated and Revised Edition of his book, 'Energy Transitions: Global and National Perspectives' (2017). & BP Statistical Review of World Energy.\r\n\r\nAll data prior to the year 1965 is sourced from Smil (2017). All data from 1965 onwards, with the exception of traditional biomass is sourced from BP Statistical Review. Smil's estimates of traditional biomass have been used for the full series, with interpolation of annual changes by Our World in Data between reported 5-year increments by Smil.\r\n\r\n\r\n\r\n",
+  "sources": [
+    {
+      "name": "Global Energy Production by Source - Vaclav Smil (2017)",
+      "dataPublishedBy": "Vaclav Smil (2017). Energy Transitions: Global and National Perspectives. & BP Statistical Review of World Energy.",
+      "dataPublisherSource": null,
+      "link": "http://vaclavsmil.com/2016/12/14/energy-transitions-global-and-national-perspectives-second-expanded-and-updated-edition/ ; http://www.bp.com/statisticalreview",
+      "retrievedDate": null,
+      "additionalInfo": "This data comprises of a combination of data from Appendix A of Vaclav Smil's Updated and Revised Edition of his book, 'Energy Transitions: Global and National Perspectives' (2017). & BP Statistical Review of World Energy.\r\n\r\nAll data prior to the year 1965 is sourced from Smil (2017). All data from 1965 onwards, with the exception of traditional biomass is sourced from BP Statistical Review. Smil's estimates of traditional biomass have been used for the full series, with interpolation of annual changes by Our World in Data between reported 5-year increments by Smil.\r\n\r\n\r\n\r\n"
+    }
+  ],
+  "owidTags": [
+    "Energy Production & Changing Energy Sources"
+  ],
+  "resources": [
+    {
+      "path": "Global Primary Energy Consumption - Vaclav Smil (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Coal (Vaclav Smil, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "people per day"
+            }
+          },
+          {
+            "name": "Crude oil (Vaclav Smil, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "2016 US-$"
+            }
+          },
+          {
+            "name": "Natural gas (Vaclav Smil, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "deaths per 100,000 individuals"
+            }
+          },
+          {
+            "name": "Hydropower (Vaclav Smil, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "terrawatt-hours",
+              "shortUnit": "TWh",
+              "tolerance": 5,
+              "conversionFactor": 1
+            }
+          },
+          {
+            "name": "Nuclear (Vaclav Smil, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "terrawatt-hours",
+              "shortUnit": "TWh",
+              "tolerance": 5,
+              "conversionFactor": 1
+            }
+          },
+          {
+            "name": "Solar (Vaclav Smil, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "%"
+            }
+          },
+          {
+            "name": "Other renewables (Vaclav Smil, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "℃"
+            }
+          },
+          {
+            "name": "Traditional biofuels (Vaclav Smil, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "terrawatt-hours",
+              "shortUnit": "TWh",
+              "tolerance": 5,
+              "conversionFactor": 1
+            }
+          },
+          {
+            "name": "Wind (Vaclav Smil, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "terrawatt-hours",
+              "shortUnit": "TWh"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
