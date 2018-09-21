@@ -1,0 +1,42 @@
+{
+  "name": "Carbon Tetrachloride emissions - UNEP",
+  "title": "Carbon Tetrachloride emissions - UNEP",
+  "id": 2729,
+  "description": "Ozone-depleting substances (ODS) consumption in units of tonnes of ODS, which is the amount of ODS consumed, multiplied by their respective ozone depleting potential value.",
+  "sources": [
+    {
+      "name": "Carbon Tetrachloride emissions - UNEP",
+      "dataPublishedBy": "United Nations Environment Programme (UNEP)",
+      "dataPublisherSource": null,
+      "link": "http://ozone.unep.org/Data_Access/",
+      "retrievedDate": "5th April 2018",
+      "additionalInfo": "Ozone-depleting substances (ODS) consumption in units of tonnes of ODS, which is the amount of ODS consumed, multiplied by their respective ozone depleting potential value."
+    }
+  ],
+  "owidTags": [
+    "Ozone Layer"
+  ],
+  "resources": [
+    {
+      "path": "Carbon Tetrachloride emissions - UNEP.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Carbon Tetrachloride emissions (UNEP)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
