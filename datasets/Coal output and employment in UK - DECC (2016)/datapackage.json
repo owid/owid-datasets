@@ -1,0 +1,69 @@
+{
+  "name": "Coal output and employment in UK - DECC (2016)",
+  "title": "Coal output and employment in UK - DECC (2016)",
+  "id": 951,
+  "description": "Data originally published by the UK's Department for Energy and Climate Change (DECC) in 2013. Updated in 2017 by the UK's Department for Business, Energy & Industrial Strategy (BEIS).\r\n\r\nEmployment figures in the coal industry include contractors, and are sourced by DECC from The Coal Authority.\r\n\r\nCoal production per worker was calculated by dividing total UK coal output by the number employed in any given year.\r\n\r\nThe share of the total workforce employed in the coal industry was calculated by dividing by total UK workforce figures available in 'A millennium of macroeconomic data' by the Bank of England. Available at: http://www.bankofengland.co.uk/research/Pages/datasets/default.aspx [accessed 5th October 2017].",
+  "sources": [
+    {
+      "name": "Coal output and employment in UK - DECC (2016)",
+      "dataPublishedBy": "Department for Energy and Climate Change (DECC). Historical coal data: coal production, availability and consumption 1853 to 2016.",
+      "dataPublisherSource": null,
+      "link": "https://www.gov.uk/government/statistical-data-sets/historical-coal-data-coal-production-availability-and-consumption-1853-to-2011",
+      "retrievedDate": "05/10/2017",
+      "additionalInfo": "Data originally published by the UK's Department for Energy and Climate Change (DECC) in 2013. Updated in 2017 by the UK's Department for Business, Energy & Industrial Strategy (BEIS).\r\n\r\nEmployment figures in the coal industry include contractors, and are sourced by DECC from The Coal Authority.\r\n\r\nCoal production per worker was calculated by dividing total UK coal output by the number employed in any given year.\r\n\r\nThe share of the total workforce employed in the coal industry was calculated by dividing by total UK workforce figures available in 'A millennium of macroeconomic data' by the Bank of England. Available at: http://www.bankofengland.co.uk/research/Pages/datasets/default.aspx [accessed 5th October 2017]."
+    }
+  ],
+  "owidTags": [
+    "Fossil Fuels"
+  ],
+  "resources": [
+    {
+      "path": "Coal output and employment in UK - DECC (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Coal Output (DECC (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "tonnes",
+              "shortUnit": "t",
+              "conversionFactor": 1000000
+            }
+          },
+          {
+            "name": "Employment in coal industry (DECC (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "employed",
+              "conversionFactor": 1000
+            }
+          },
+          {
+            "name": "Coal production per worker (DECC (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "shortUnit": "t"
+            }
+          },
+          {
+            "name": "Percentage of workforce in coal industry (DECC (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
