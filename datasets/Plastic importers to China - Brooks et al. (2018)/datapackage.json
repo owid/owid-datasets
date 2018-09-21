@@ -1,0 +1,48 @@
+{
+  "name": "Plastic importers to China - Brooks et al. (2018)",
+  "title": "Plastic importers to China - Brooks et al. (2018)",
+  "id": 2850,
+  "description": "Quantity of plastic exports to China by the top 10 exporting countries in 2016. This is given in tonnes of plastic waste imported by China.\n\nData is based on the UN Comtrade Database.",
+  "sources": [
+    {
+      "name": "Plastic importers to China - Brooks et al. (2018)",
+      "dataPublishedBy": "Brooks, A. L., Wang, S., & Jambeck, J. R. (2018). The Chinese import ban and its impact on global plastic waste trade. Science Advances, 4(6), eaat0131.",
+      "dataPublisherSource": null,
+      "link": "http://advances.sciencemag.org/content/4/6/eaat0131",
+      "retrievedDate": null,
+      "additionalInfo": "Quantity of plastic exports to China by the top 10 exporting countries in 2016. This is given in tonnes of plastic waste imported by China.\n\nData is based on the UN Comtrade Database."
+    }
+  ],
+  "owidTags": [
+    "Waste"
+  ],
+  "resources": [
+    {
+      "path": "Plastic importers to China - Brooks et al. (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Plastic exports to China (tonnes)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of Chinese plastic imports (%)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
