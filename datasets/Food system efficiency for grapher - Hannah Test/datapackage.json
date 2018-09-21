@@ -1,0 +1,104 @@
+{
+  "name": "Food system efficiency for grapher - Hannah Test",
+  "title": "Food system efficiency for grapher - Hannah Test",
+  "id": 708,
+  "description": "",
+  "sources": [
+    {
+      "name": "Food system efficiency for grapher - Hannah Test",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Food system efficiency for grapher - Hannah Test.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Production ",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Food system efficiency",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Caloric production",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "kcal",
+              "shortUnit": "kcal"
+            }
+          },
+          {
+            "name": "Caloric domestic supply",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Production system efficiency (%; calories)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Domestic supply system efficiency (%; calories)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "shortUnit": "%"
+            }
+          },
+          {
+            "name": "Protein production",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Protein domestic supply",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Production system efficiency (%; protein)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Domestic supply system efficiency (%; protein)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
