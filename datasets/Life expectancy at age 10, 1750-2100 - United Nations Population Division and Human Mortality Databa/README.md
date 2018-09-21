@@ -1,0 +1,7 @@
+# Life expectancy at age 10, 1750-2100 - United Nations Population Division and Human Mortality Database (2015)
+
+The data file used is called “Life Expectancy at exact age x (ex) - Both Sexes” on the website given under “Mortality indicators”. This original data file has life expectancy at multiple ages for every country and different regions. We use only the countries and “World” data for age 10.
+Each country has a life table from which we extracted the life expectancy at age 10 (column ex, row where Age is 10 for each country.)
+We combined the information from the UN Population Division (UNPD) and the Human Mortality Database (HMD) using an R script. In the final data set, UNPD values are used for 1950-2100, and HMD values are used pre-1950, where available. The data set uses the first year of the period to graph the data, i.e. the e10 value for 1950-1954 is graphed at 1950.
+
+We omitted data from the first period for which data is available for each country, because often this first period was not a full 5 years long. For instance, the life table for Australia begins with the 4-year period 1921-1924, and every subsequent period is a full 5 years long. With data manipulation or extrapolation, this first data point can be included in the future.
