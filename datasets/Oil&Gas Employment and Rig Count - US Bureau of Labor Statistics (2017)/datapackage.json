@@ -1,0 +1,42 @@
+{
+  "name": "Oil&Gas Employment and Rig Count - US Bureau of Labor Statistics (2017)",
+  "title": "Oil&Gas Employment and Rig Count - US Bureau of Labor Statistics (2017)",
+  "id": 569,
+  "description": "Dataset from BLS includes all employees working in oil & gas extraction in the United States.",
+  "sources": [
+    {
+      "name": "Oil & Gas Employment - US Bureau of Labor Statistics (2017)",
+      "dataPublishedBy": "United States Bureau of Labor Statistics (BLS)",
+      "dataPublisherSource": null,
+      "link": "https://data.bls.gov/timeseries/CES1021100001?data_tool=XGtable",
+      "retrievedDate": "11/07/2017",
+      "additionalInfo": "Dataset from BLS includes all employees working in oil & gas extraction in the United States."
+    }
+  ],
+  "owidTags": [
+    "Energy Production & Changing Energy Sources"
+  ],
+  "resources": [
+    {
+      "path": "Oil&Gas Employment and Rig Count - US Bureau of Labor Statistics (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Oil & Gas Employees (US Bureau of Labor Statistics (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
