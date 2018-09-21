@@ -1,0 +1,60 @@
+{
+  "name": "Life expectancy projections - UK ONS",
+  "title": "Life expectancy projections - UK ONS",
+  "id": 2701,
+  "description": "Data provides projections from the UK ONS publications in its 2014 and 2016 revisions. \n\n2014 revisions are available at: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/compendium/nationalpopulationprojections/2015-10-29/mortalityassumptions\n\n2016 revisions are available at: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/compendium/nationalpopulationprojections/2016basedprojections/mortalityassumptions\n\nHistoric estimates are given on a calendar year basis, whereas future projections are on mid-year basis.",
+  "sources": [
+    {
+      "name": "Life expectancy projections - UK ONS",
+      "dataPublishedBy": "UK Office for National Statistics (ONS)",
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "Data provides projections from the UK ONS publications in its 2014 and 2016 revisions. \n\n2014 revisions are available at: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/compendium/nationalpopulationprojections/2015-10-29/mortalityassumptions\n\n2016 revisions are available at: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/compendium/nationalpopulationprojections/2016basedprojections/mortalityassumptions\n\nHistoric estimates are given on a calendar year basis, whereas future projections are on mid-year basis."
+    }
+  ],
+  "owidTags": [
+    "Life Expectancy"
+  ],
+  "resources": [
+    {
+      "path": "Life expectancy projections - UK ONS.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Male Life Expectancy (2016 Projections)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Female Life Expectancy (2016 Projections)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Male Life Expectancy (2014 Projections)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Female Life Expectancy (2014 Projections)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
