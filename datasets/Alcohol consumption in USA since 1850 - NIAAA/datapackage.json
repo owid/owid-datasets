@@ -1,0 +1,60 @@
+{
+  "name": "Alcohol consumption in USA since 1850 - NIAAA",
+  "title": "Alcohol consumption in USA since 1850 - NIAAA",
+  "id": 2761,
+  "description": "Litres of ethanol per capita (differentiated by beverage type), based on population aged 15 and older prior to 1970 and on population aged 14 and older thereafter.\n\nThe period 1920-1933 marks a period of alcohol prohibition in the United States. Here it is assumed consumption was zero by the NIAAA.\n\nData prior to 1977 are from: HYMAN, M.; ZIMMERMAN, M.; GURIOLI, C.; and HELRICH, A. Drinkers, Drinking and Alcohol–Related Mortality and Hospitalizations: A Statistical Compendium, 1980 Edition. New Brunswick, NJ: Rutgers University, 1980.",
+  "sources": [
+    {
+      "name": "Alcohol consumption in USA since 1850 - NIAAA",
+      "dataPublishedBy": "National Institute on Alcohol Abuse and Alcoholism",
+      "dataPublisherSource": null,
+      "link": "https://pubs.niaaa.nih.gov/publications/surveillance102/tab1_13.htm",
+      "retrievedDate": "17th April 2018",
+      "additionalInfo": "Litres of ethanol per capita (differentiated by beverage type), based on population aged 15 and older prior to 1970 and on population aged 14 and older thereafter.\n\nThe period 1920-1933 marks a period of alcohol prohibition in the United States. Here it is assumed consumption was zero by the NIAAA.\n\nData prior to 1977 are from: HYMAN, M.; ZIMMERMAN, M.; GURIOLI, C.; and HELRICH, A. Drinkers, Drinking and Alcohol–Related Mortality and Hospitalizations: A Statistical Compendium, 1980 Edition. New Brunswick, NJ: Rutgers University, 1980."
+    }
+  ],
+  "owidTags": [
+    "Alcohol Consumption"
+  ],
+  "resources": [
+    {
+      "path": "Alcohol consumption in USA since 1850 - NIAAA.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Beer (NIAAA)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Wine (NIAAA)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Spirits (NIAAA)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "All beverages (NIAAA)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
