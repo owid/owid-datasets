@@ -1,0 +1,44 @@
+{
+  "name": "Gas production - Etemad & Luciana",
+  "title": "Gas production - Etemad & Luciana",
+  "id": 972,
+  "description": "Data from 1900-1980 is sourced from Bouda Etemad and Jean Luciani, World Energy Production 1800 – 1985, ISBN 2-600-56007-6.\n\nData from 1980 onwards is source from U.S. Energy Information Administration, International Energy Statistics.",
+  "sources": [
+    {
+      "name": "Gas production - Etemad & Luciana",
+      "dataPublishedBy": "The SHIFT Project Data Portal",
+      "dataPublisherSource": "Etemad & Luciana; US IEA Historical Statistics",
+      "link": "http://www.tsp-data-portal.org/",
+      "retrievedDate": "16/10/2017",
+      "additionalInfo": "Data from 1900-1980 is sourced from Bouda Etemad and Jean Luciani, World Energy Production 1800 – 1985, ISBN 2-600-56007-6.\n\nData from 1980 onwards is source from U.S. Energy Information Administration, International Energy Statistics."
+    }
+  ],
+  "owidTags": [
+    "Fossil Fuels"
+  ],
+  "resources": [
+    {
+      "path": "Gas production - Etemad & Luciana.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Natural gas production (Etemad & Luciana)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "shortUnit": "TWh"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
