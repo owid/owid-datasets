@@ -1,0 +1,96 @@
+{
+  "name": "Diet compositions by commodity categories - FAO (2017)",
+  "title": "Diet compositions by commodity categories - FAO (2017)",
+  "id": 658,
+  "description": "Data represents the average daily per capita supply of calories from the full range of commodities, grouped by food categories. Note that these figures do not correct for waste at the household/consumption level so may not directly reflect the quantity of food finally consumed by a given individual.\n\nFigures for Former Soviet Union states have been allocated the average food supply figures of the USSR for the period 1961-1991, then their respective national values from there onwards.\n\nSpecific food commodities have been grouped into higher-level categories. The presented categories include the following FAO items:\n\nCereals and grains: wheat, rice, maize, barley, oats, millet, sorghum, rye, cereals (other) and all derivative products\n\nPulses: pulses, total\n\nStarchy roots: starchy roots, total\n\nFruits and vegetables: fruits - excluding wine, vegetables\n\nOils & fats: vegetable oils, animal fats, oilcrops, treenuts\n\nSugar: sugar & sweeteners, sugar crops\n\nMeat: bovine meat, poultry, pigmeat, mutton & goat meat, meat (other), fish and seafood (total)\n\nDairy & eggs: Milk - excluding butter\n\nAlcoholic beverages: Alcohol, not including Alcohol (non-food)\n\nOther: additional categories including infant food, spices, and miscellaneous",
+  "sources": [
+    {
+      "name": "Diet compositions by commodity categories - (FAO) (2017)",
+      "dataPublishedBy": "United Nations Food and Agricultural Organization (FAO)",
+      "dataPublisherSource": "Food Balance Sheets (FBS)",
+      "link": "http://www.fao.org/faostat/en/#data/FBS",
+      "retrievedDate": "01/08/2017",
+      "additionalInfo": "Data represents the average daily per capita supply of calories from the full range of commodities, grouped by food categories. Note that these figures do not correct for waste at the household/consumption level so may not directly reflect the quantity of food finally consumed by a given individual.\n\nFigures for Former Soviet Union states have been allocated the average food supply figures of the USSR for the period 1961-1991, then their respective national values from there onwards.\n\nSpecific food commodities have been grouped into higher-level categories. The presented categories include the following FAO items:\n\nCereals and grains: wheat, rice, maize, barley, oats, millet, sorghum, rye, cereals (other) and all derivative products\n\nPulses: pulses, total\n\nStarchy roots: starchy roots, total\n\nFruits and vegetables: fruits - excluding wine, vegetables\n\nOils & fats: vegetable oils, animal fats, oilcrops, treenuts\n\nSugar: sugar & sweeteners, sugar crops\n\nMeat: bovine meat, poultry, pigmeat, mutton & goat meat, meat (other), fish and seafood (total)\n\nDairy & eggs: Milk - excluding butter\n\nAlcoholic beverages: Alcohol, not including Alcohol (non-food)\n\nOther: additional categories including infant food, spices, and miscellaneous"
+    }
+  ],
+  "owidTags": [
+    "Diet Composition"
+  ],
+  "resources": [
+    {
+      "path": "Diet compositions by commodity categories - FAO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Cereals and Grains (FAO (2017)) (kilocalories per person per day)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Pulses (FAO (2017)) (kilocalories per person per day)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Starchy Roots (FAO (2017)) (kilocalories per person per day)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Sugar (FAO (2017)) (kilocalories per person per day)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Oils & Fats (FAO (2017)) (kilocalories per person per day)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Meat (FAO (2017)) (kilocalories per person per day)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Dairy & Eggs (FAO (2017)) (kilocalories per person per day)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fruit and Vegetables (FAO (2017)) (kilocalories per person per day)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Other (FAO (2017)) (kilocalories per person per day)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Alcoholic Beverages (FAO (2017)) (kilocalories per person per day)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
