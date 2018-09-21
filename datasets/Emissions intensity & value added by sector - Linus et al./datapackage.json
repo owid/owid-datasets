@@ -1,0 +1,108 @@
+{
+  "name": "Emissions intensity & value added by sector - Linus et al.",
+  "title": "Emissions intensity & value added by sector - Linus et al.",
+  "id": 2672,
+  "description": "Figures are derived from authors based on data from the (WIOD) World Input-Output Dataset. \n\nWorld Input-Output Database 2013 release [Timmer, M. P., Dietzenbacher, E., Los, B., Stehrer, R. and de Vries, G. J. (2015),\"An Illustrated User Guide to the World Input–Output Database: the Case of Global Automotive Production\", Review of International Economics., 23: 575–605]. Year 2009 in basic prices, value added computed as net sectoral output (gross sectoral output less sectoral input).",
+  "sources": [
+    {
+      "name": "Emissions intensity & value added by sector - World Input-Output Tables",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "Figures are derived from authors based on data from the (WIOD) World Input-Output Dataset. \n\nWorld Input-Output Database 2013 release [Timmer, M. P., Dietzenbacher, E., Los, B., Stehrer, R. and de Vries, G. J. (2015),\"An Illustrated User Guide to the World Input–Output Database: the Case of Global Automotive Production\", Review of International Economics., 23: 575–605]. Year 2009 in basic prices, value added computed as net sectoral output (gross sectoral output less sectoral input)."
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "Emissions intensity & value added by sector - Linus et al..csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of CO2 emissions (%) - China",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Value added to GDP (%) - China",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Emissions growth (%) - China",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Value added growth (%) - China",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of CO2 emissions (%) - USA",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Value added to GDP (%) - USA",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Emissions growth (%) - USA",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Value added growth (%) - USA",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of CO2 emissions (%) - Germany",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Value added to GDP (%) - Germany",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Emissions growth (%) - Germany",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Value added growth (%) - Germany",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
