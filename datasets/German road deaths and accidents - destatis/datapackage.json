@@ -1,0 +1,72 @@
+{
+  "name": "German road deaths and accidents - destatis",
+  "title": "German road deaths and accidents - destatis",
+  "id": 2497,
+  "description": "",
+  "sources": [
+    {
+      "name": "German road deaths and accidents - destatis",
+      "dataPublishedBy": "Statistisches Bundesamt",
+      "dataPublisherSource": null,
+      "link": "https://www.destatis.de/EN/FactsFigures/EconomicSectors/TransportTraffic/TrafficAccidents/Tables_/RoadTrafficAccidents.html",
+      "retrievedDate": "7th March 2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Risk of Accidents in Transportation"
+  ],
+  "resources": [
+    {
+      "path": "German road deaths and accidents - destatis.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Accidents reported to police",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Accidents reported with injury",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Accidents reported with material damage",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Road casualties",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Road deaths",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Road injuries",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
