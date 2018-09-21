@@ -1,0 +1,72 @@
+{
+  "name": "OECD: Education Statistics (2017)",
+  "title": "OECD: Education Statistics (2017)",
+  "id": 246,
+  "description": "",
+  "sources": [
+    {
+      "name": "OECD: Education Statistics (2017)",
+      "dataPublishedBy": "OECD: Education Statistics (2017)",
+      "dataPublisherSource": "Census data",
+      "link": "http://www.oecd-ilibrary.org/education/data/education-at-a-glance_eag-data-en",
+      "retrievedDate": "29/06/2016",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Financing of Education"
+  ],
+  "resources": [
+    {
+      "path": "OECD: Education Statistics (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share Public Education Expenditure (OECD Education Statistics (2017))",
+            "type": "any",
+            "description": "Education Finance and Attainment Indicators (as per analysis and definitions in the OECD's report Education at a Glance)",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Private Expenditure on Education (OECD Education Statistics (2017))",
+            "type": "any",
+            "description": "Education Finance and Attainment Indicators (as per analysis and definitions in the OECD's report Education at a Glance)",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Public Expenditure on Education (OECD Education Statistics (2017))",
+            "type": "any",
+            "description": "Education Finance and Attainment Indicators (as per analysis and definitions in the OECD's report Education at a Glance)",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Capital Expenditure (OECD Education Statistics (2017))",
+            "type": "any",
+            "description": "Education Finance and Attainment Indicators (as per analysis and definitions in the OECD's report Education at a Glance)",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Current Expenditure Staff (OECD Education Statistics (2017))",
+            "type": "any",
+            "description": "Education Finance and Attainment Indicators (as per analysis and definitions in the OECD's report Education at a Glance)",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Current Expenditure Non-staff (OECD Education Statistics (2017))",
+            "type": "any",
+            "description": "Education Finance and Attainment Indicators (as per analysis and definitions in the OECD's report Education at a Glance)",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
