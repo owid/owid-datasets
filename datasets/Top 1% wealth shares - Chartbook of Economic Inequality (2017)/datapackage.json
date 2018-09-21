@@ -1,0 +1,42 @@
+{
+  "name": "Top 1% wealth shares - Chartbook of Economic Inequality (2017)",
+  "title": "Top 1% wealth shares - Chartbook of Economic Inequality (2017)",
+  "id": 2510,
+  "description": "",
+  "sources": [
+    {
+      "name": "Chartbook of Economic Inequality (2017)",
+      "dataPublishedBy": "Atkinson, Hasell, Morelli, and Roser (2017), “The Chartbook of Economic Inequality”",
+      "dataPublisherSource": null,
+      "link": "https://www.chartbookofeconomicinequality.com",
+      "retrievedDate": null,
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Economic Inequality"
+  ],
+  "resources": [
+    {
+      "path": "Top 1% wealth shares - Chartbook of Economic Inequality (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of wealth held by top 1% (Chartbook of Economic Inequality 2017)",
+            "type": "any",
+            "description": "Share of wealth held by top 1% of individuals (Finland, France, New Zealand, UK, US), or households (Australia, Italy, Netherlands, Norway, Switzerland). (Sweden individuals post-2000 and households before; Spain, unknown unit of analysis).",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
