@@ -1,0 +1,42 @@
+{
+  "name": "Labor Productivity - The Conference Board Total Economy Database (2016) ",
+  "title": "Labor Productivity - The Conference Board Total Economy Database (2016) ",
+  "id": 232,
+  "description": "Shown is the data series \"LP-Hour EKS\" from the original source. As the alternative series \"LP-Hour GK\" this series is series is expressed in PPP adjusted currency. The PPP adjustment is based on the 2011 PPPs and updated to 2015 prices.",
+  "sources": [
+    {
+      "name": "Labor Productivity - The Conference Board Total Economy Database (2016) ",
+      "dataPublishedBy": "The Conference Board Total Economy Database (2016)",
+      "dataPublisherSource": "In detail described by the publisher at https://www.conference-board.org/data/economydatabase/",
+      "link": "https://www.conference-board.org/data/economydatabase/",
+      "retrievedDate": "27/05/2016",
+      "additionalInfo": "Shown is the data series \"LP-Hour EKS\" from the original source. As the alternative series \"LP-Hour GK\" this series is series is expressed in PPP adjusted currency. The PPP adjustment is based on the 2011 PPPs and updated to 2015 prices."
+    }
+  ],
+  "owidTags": [
+    "Productivity of Technologies"
+  ],
+  "resources": [
+    {
+      "path": "Labor Productivity - The Conference Board Total Economy Database (2016) .csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Labor productivity per hour worked (The Conference Board Total Economy Database (2016))",
+            "type": "any",
+            "description": "Labor productivity per hour worked in 2015 US$ (converted to 2015 price level with updated 2011 PPPs)",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
