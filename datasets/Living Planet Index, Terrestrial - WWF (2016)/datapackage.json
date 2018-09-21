@@ -1,0 +1,54 @@
+{
+  "name": "Living Planet Index, Terrestrial - WWF (2016)",
+  "title": "Living Planet Index, Terrestrial - WWF (2016)",
+  "id": 640,
+  "description": "The Living Planet Index (LPI) is a measure of the state of global biological diversity based on population trends of vertebrate species from around the world. The Living Planet Database (LPD) currently holds time-series data for over 18,000 populations of more than 3,600 mammal, bird, fish, reptile and amphibian species from around the world, which are gathered from a variety of sources such as journals, online databases and government reports. Using a method developed by ZSL and WWF, these species population trends are aggregated to produce indices of the state of biodiversity.\n\nThe index value is measured relative to species' populations in 1970 (i.e. 1970 = 1).\n\nTo calculate an LPI, a generalised additive modelling framework is used to determine the underlying trend in each population time-series. Average rates of change are then calculated and aggregated to the species level. For the global LPI, the method of aggregation has recently been revised to include a weighting system which gives trends from more species-rich systems, realms and groups more weight in the final index.",
+  "sources": [
+    {
+      "name": "Living Planet Index, Terrestrial - WWF (2016)",
+      "dataPublishedBy": "WWF. 2016. Living Planet Report 2016. Risk and resilience in a new era. WWF International, Gland, Switzerland.",
+      "dataPublisherSource": "Living Planet Index Database (http://www.livingplanetindex.org/data_portal)",
+      "link": "http://awsassets.panda.org/downloads/lpr_living_planet_report_2016.pdf",
+      "retrievedDate": "25/07/2017",
+      "additionalInfo": "The Living Planet Index (LPI) is a measure of the state of global biological diversity based on population trends of vertebrate species from around the world. The Living Planet Database (LPD) currently holds time-series data for over 18,000 populations of more than 3,600 mammal, bird, fish, reptile and amphibian species from around the world, which are gathered from a variety of sources such as journals, online databases and government reports. Using a method developed by ZSL and WWF, these species population trends are aggregated to produce indices of the state of biodiversity.\n\nThe index value is measured relative to species' populations in 1970 (i.e. 1970 = 1).\n\nTo calculate an LPI, a generalised additive modelling framework is used to determine the underlying trend in each population time-series. Average rates of change are then calculated and aggregated to the species level. For the global LPI, the method of aggregation has recently been revised to include a weighting system which gives trends from more species-rich systems, realms and groups more weight in the final index."
+    }
+  ],
+  "owidTags": [
+    "Biodiversity"
+  ],
+  "resources": [
+    {
+      "path": "Living Planet Index, Terrestrial - WWF (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Terrestrial Living Planet Index (WWF (2016))",
+            "type": "any",
+            "description": "Measures the state of the world's biological diversity based on population trends of vertebrate species from terrestrial habitats.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Lower CI (WWF (2016))",
+            "type": "any",
+            "description": "95 percent lower confidence interval. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Upper CI (WWF (2016))",
+            "type": "any",
+            "description": "95 percent upper confidence interval. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
