@@ -1,0 +1,27 @@
+{
+  "name": "Real GDP at chained PPPs in 2011 US$ - Penn World Table 9.0 (2016)",
+  "title": "Real GDP at chained PPPs in 2011 US$ - Penn World Table 9.0 (2016)",
+  "id": 147,
+  "description": "",
+  "sources": [],
+  "owidTags": [
+    "GDP Data"
+  ],
+  "resources": [
+    {
+      "path": "Real GDP at chained PPPs in 2011 US$ - Penn World Table 9.0 (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          }
+        ]
+      }
+    }
+  ]
+}
