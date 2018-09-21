@@ -1,0 +1,48 @@
+{
+  "name": "Global plastic production - Geyer et al. (2017)",
+  "title": "Global plastic production - Geyer et al. (2017)",
+  "id": 2827,
+  "description": "Data denotes annual global polymer resin and fiber production (plastic production), measured in metric tonnes.",
+  "sources": [
+    {
+      "name": "Global plastic production - Geyer et al. (2017)",
+      "dataPublishedBy": "Geyer, R., Jambeck, J. R., & Law, K. L. (2017). Production, use, and fate of all plastics ever made. Science Advances, 3(7), e1700782.",
+      "dataPublisherSource": null,
+      "link": "http://advances.sciencemag.org/content/3/7/e1700782.full",
+      "retrievedDate": "2nd July 2018",
+      "additionalInfo": "Data denotes annual global polymer resin and fiber production (plastic production), measured in metric tonnes."
+    }
+  ],
+  "owidTags": [
+    "Waste"
+  ],
+  "resources": [
+    {
+      "path": "Global plastic production - Geyer et al. (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Global plastics production (million tonnes)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cumulative global plastics production (million tonnes)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
