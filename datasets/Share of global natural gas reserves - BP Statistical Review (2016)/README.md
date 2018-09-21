@@ -1,0 +1,5 @@
+# Share of global natural gas reserves - BP Statistical Review (2016)
+
+The definition of 'proven reserves' is taken to be the following: "Generally taken to be those quantities that geological and engineering information indicates with reasonable certainty can be recovered in the future from known reservoirs under existing economic and operating conditions. The data series for total proved natural gas does not necessarily meet the definitions, guidelines and practices used for determining proved reserves at company level, for instance as published by the US Securities and Exchange Commission, nor does it necessarily represent BP’s view of proved reserves by country."
+
+The estimates in this table have been compiled by the BP using a combination of primary official sources and third-party data from Cedigaz and the OPEC Secretariat.
