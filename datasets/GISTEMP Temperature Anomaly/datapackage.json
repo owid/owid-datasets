@@ -1,0 +1,60 @@
+{
+  "name": "GISTEMP Temperature Anomaly",
+  "title": "GISTEMP Temperature Anomaly",
+  "id": 959,
+  "description": "The temperature anomaly is measured relative to the 1951-1980 global average temperature.\n\nThe GISTEMP analysis recalculates consistent temperature anomaly series from 1880 to the present for a regularly spaced array of virtual stations covering the whole globe. Those data are used to investigate regional and global patterns and trends. Country-level values were created by averaging all grid cells whose centroids were within the border of a country. Area weighted measures were weighted by the area of the grid cell when averaging the grid cells and population weighted averages used gridded population data from 2015 created by the Center for International Earth Science Information Network - CIESIN (http://dx.doi.org/10.7927/H4X63JVC).",
+  "sources": [
+    {
+      "name": "GISTEMP Temperature Anomaly",
+      "dataPublishedBy": "NASA Goddard Institute for Space Studies",
+      "dataPublisherSource": "NOAA GHCN v3 (meteorological stations), ERSST v5 (ocean areas), and SCAR (Antarctic stations)",
+      "link": "https://data.giss.nasa.gov/gistemp/",
+      "retrievedDate": "18/09/2017",
+      "additionalInfo": "The temperature anomaly is measured relative to the 1951-1980 global average temperature.\n\nThe GISTEMP analysis recalculates consistent temperature anomaly series from 1880 to the present for a regularly spaced array of virtual stations covering the whole globe. Those data are used to investigate regional and global patterns and trends. Country-level values were created by averaging all grid cells whose centroids were within the border of a country. Area weighted measures were weighted by the area of the grid cell when averaging the grid cells and population weighted averages used gridded population data from 2015 created by the Center for International Earth Science Information Network - CIESIN (http://dx.doi.org/10.7927/H4X63JVC)."
+    }
+  ],
+  "owidTags": [
+    "Climate Change"
+  ],
+  "resources": [
+    {
+      "path": "GISTEMP Temperature Anomaly.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Surface temperature anomaly",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "shortUnit": "℃"
+            }
+          },
+          {
+            "name": "Surface temperature anomaly weighted by population",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "shortUnit": "℃"
+            }
+          },
+          {
+            "name": "Surface temperature anomaly weighted by area",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "shortUnit": "℃"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
