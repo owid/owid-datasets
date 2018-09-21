@@ -1,0 +1,4 @@
+# Global education (OECD + IIASA (2016))
+
+The series shows the share of the global population (older than 15) with at least basic education. The data for 1820 to 1960 is taken from the OECD (2014). The series measures the percentage of population aged over 15 enrolled in formal education. The estimate for 1820 is labelled a ’Best Guess' in the OECD publication and should be considered as such.
+The data for 1970 and later is taken from the Wittgenstein Centre for Demography and Global Human Capital (2015). It shows the share of the population (older than 15 years) that has attained at least some basic education.

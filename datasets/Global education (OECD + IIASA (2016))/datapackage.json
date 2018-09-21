@@ -1,0 +1,52 @@
+{
+  "name": "Global education (OECD + IIASA (2016))",
+  "title": "Global education (OECD + IIASA (2016))",
+  "id": 324,
+  "description": "The series shows the share of the global population (older than 15) with at least basic education. The data for 1820 to 1960 is taken from the OECD (2014). The series measures the percentage of population aged over 15 enrolled in formal education. The estimate for 1820 is labelled a ’Best Guess' in the OECD publication and should be considered as such.\nThe data for 1970 and later is taken from the Wittgenstein Centre for Demography and Global Human Capital (2015). It shows the share of the population (older than 15 years) that has attained at least some basic education.",
+  "sources": [
+    {
+      "name": "Global education (OECD + IIASA (2016))",
+      "dataPublishedBy": "Our World in Data based on IIASA and OECD",
+      "dataPublisherSource": "OECD (2014) – How Was Life? - Global Well-being since 1820\nThe Wittgenstein Centre data was obtained through the ‘Wittgenstein Centre Data Explorer Version 1.2.’ The data for 2015 is a projection (Medium projection).",
+      "link": "http://www.oecd.org/statistics/how-was-life-9789264214262-en.htm",
+      "retrievedDate": "14/12/2016",
+      "additionalInfo": "The series shows the share of the global population (older than 15) with at least basic education. The data for 1820 to 1960 is taken from the OECD (2014). The series measures the percentage of population aged over 15 enrolled in formal education. The estimate for 1820 is labelled a ’Best Guess' in the OECD publication and should be considered as such.\nThe data for 1970 and later is taken from the Wittgenstein Centre for Demography and Global Human Capital (2015). It shows the share of the population (older than 15 years) that has attained at least some basic education."
+    }
+  ],
+  "owidTags": [
+    "Primary Education and Schools"
+  ],
+  "resources": [
+    {
+      "path": "Global education (OECD + IIASA (2016)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share that has at least some formal basic education (OECD + IIASA (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Share without any formal education (OECD + IIASA (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
