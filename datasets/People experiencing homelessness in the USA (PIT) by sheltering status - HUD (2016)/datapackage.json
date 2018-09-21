@@ -1,0 +1,52 @@
+{
+  "name": "People experiencing homelessness in the USA (PIT) by sheltering status - HUD (2016)",
+  "title": "People experiencing homelessness in the USA (PIT) by sheltering status - HUD (2016)",
+  "id": 355,
+  "description": "HUD's description of the report:\r\n\r\n\"This report outlines the key findings of the 2016 Point-In-Time (PIT) count and Housing Inventory Count (HIC) conducted in January 2016. Specifically, this report provides 2016 national, state, and CoC-level PIT and HIC estimates of homelessness, as well as estimates of chronically homeless persons, homeless veterans, and homeless children and youth\".\r\n\r\nAll HUD reports are available at https://www.hudexchange.info/programs/hdx/guides/ahar/#reports",
+  "sources": [
+    {
+      "name": "People experiencing homelessness in the USA (PIT), by shelter status - HUD (2016)",
+      "dataPublishedBy": "The U.S. Department of Housing and Urban Development (HUD Exchange)",
+      "dataPublisherSource": "The Annual Homeless Assessment Report (AHAR), HUD report to the U.S. Congress, November 2016",
+      "link": "https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/",
+      "retrievedDate": "20/02/2017",
+      "additionalInfo": "HUD's description of the report:\r\n\r\n\"This report outlines the key findings of the 2016 Point-In-Time (PIT) count and Housing Inventory Count (HIC) conducted in January 2016. Specifically, this report provides 2016 national, state, and CoC-level PIT and HIC estimates of homelessness, as well as estimates of chronically homeless persons, homeless veterans, and homeless children and youth\".\r\n\r\nAll HUD reports are available at https://www.hudexchange.info/programs/hdx/guides/ahar/#reports"
+    }
+  ],
+  "owidTags": [
+    "Poverty in Individual Countries"
+  ],
+  "resources": [
+    {
+      "path": "People experiencing homelessness in the USA (PIT) by sheltering status - HUD (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Sheltered Homeless (HUD (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Unsheltered Homeless (HUD (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
