@@ -1,0 +1,45 @@
+{
+  "name": "Current GDP (British pounds) - CEPII (2014)",
+  "title": "Current GDP (British pounds) - CEPII (2014)",
+  "id": 2722,
+  "description": "Due to the long-run nature of CEPII's time series, GDP estimates are compiled using a variety of sources. The top five sources, which together make up more than a third of the dataset (approx 11,864 observations out of 31,541) are from the following sources: World Bank (2015) (8513 obs); Mitchell (2017a,b,c) (1714); Barbieri and Keshik (2012) (1037 obs); Smits et al (2014) (335 obs); and Dincecco and Prado (2013) (265 obs). \n\nA comprehensive list of GDP sources and full references can be found here: http://www.cepii.fr/PDF_PUB/wp/2016/wp2016-14.pdf, Table 7, page 19. \n\nSimilarly, CEPII's exchange rate variable is set to the British pound value of one local currency unit. Again, it draws on a range of sources of which the top five are reported here: International Monetary Fund (2012) (4394 obs); extracted from Wikipedia (2448 obs); Barbieri and Keshk (2012) (2005 obs); Officer (2014) (1752 obs); and Denzel (2010) (1750 obs). \n\nA comprehensive list of exchange rate sources and full references can be found here: http://www.cepii.fr/PDF_PUB/wp/2016/wp2016-14.pdf, Table 8, page 21. \n\nRussia time series is comprised of Russia from 1992-2014 and the USSR from 1827-1991.",
+  "sources": [
+    {
+      "name": "GDP in British pounds - CEPII (2016)",
+      "dataPublishedBy": "Michel Fouquin & Jules Hugot , 2016. \"Two Centuries of Bilateral Trade and Gravity Data: 1827-2014,\" CEPII Working Paper 2016- 14 , May 2016 , CEPII ",
+      "dataPublisherSource": "Historical data",
+      "link": "http://www.cepii.fr/cepii/en/bdd_modele/presentation.asp?id=32",
+      "retrievedDate": "19/03/2018",
+      "additionalInfo": "Due to the long-run nature of CEPII's time series, GDP estimates are compiled using a variety of sources. The top five sources, which together make up more than a third of the dataset (approx 11,864 observations out of 31,541) are from the following sources: World Bank (2015) (8513 obs); Mitchell (2017a,b,c) (1714); Barbieri and Keshik (2012) (1037 obs); Smits et al (2014) (335 obs); and Dincecco and Prado (2013) (265 obs). \n\nA comprehensive list of GDP sources and full references can be found here: http://www.cepii.fr/PDF_PUB/wp/2016/wp2016-14.pdf, Table 7, page 19. \n\nSimilarly, CEPII's exchange rate variable is set to the British pound value of one local currency unit. Again, it draws on a range of sources of which the top five are reported here: International Monetary Fund (2012) (4394 obs); extracted from Wikipedia (2448 obs); Barbieri and Keshk (2012) (2005 obs); Officer (2014) (1752 obs); and Denzel (2010) (1750 obs). \n\nA comprehensive list of exchange rate sources and full references can be found here: http://www.cepii.fr/PDF_PUB/wp/2016/wp2016-14.pdf, Table 8, page 21. \n\nRussia time series is comprised of Russia from 1992-2014 and the USSR from 1827-1991."
+    }
+  ],
+  "owidTags": [
+    "GDP Data"
+  ],
+  "resources": [
+    {
+      "path": "Current GDP (British pounds) - CEPII (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "GDP (CEPII (2016))",
+            "type": "any",
+            "description": "GDP in British pounds at current prices.",
+            "owidDisplaySettings": {
+              "unit": "£",
+              "shortUnit": "£"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
