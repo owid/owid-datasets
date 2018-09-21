@@ -1,0 +1,102 @@
+{
+  "name": "Livestock counts - HYDE & FAO (2017)",
+  "title": "Livestock counts - HYDE & FAO (2017)",
+  "id": 964,
+  "description": "This dataset on livestock counts has been compiled by OWID based on the combination of data from the HYDE database and UN Food and Agricultural Organization (FAO) statistics.\n\nData for all livestock from 1890-1950 is sourced from the HYDE Database (History Database of the Global Environment), published by the PBL Netherlands Environmental Assessment Agency. Available at: http://themasites.pbl.nl/tridion/en/themasites/hyde/landusedata/livestock/index-2.html [accessed 12th October 2017].\n\nData from 1961 onwards is sources from the UN Food and Agricultural Organization (FAO) statistics. Available at: http://www.fao.org/faostat/en/#data/QA [accessed 12th October 2017].",
+  "sources": [
+    {
+      "name": "Livestock counts - HYDE & FAO (2017)",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "This dataset on livestock counts has been compiled by OWID based on the combination of data from the HYDE database and UN Food and Agricultural Organization (FAO) statistics.\n\nData for all livestock from 1890-1950 is sourced from the HYDE Database (History Database of the Global Environment), published by the PBL Netherlands Environmental Assessment Agency. Available at: http://themasites.pbl.nl/tridion/en/themasites/hyde/landusedata/livestock/index-2.html [accessed 12th October 2017].\n\nData from 1961 onwards is sources from the UN Food and Agricultural Organization (FAO) statistics. Available at: http://www.fao.org/faostat/en/#data/QA [accessed 12th October 2017]."
+    }
+  ],
+  "owidTags": [
+    "Meat Consumption & Livestock Counts"
+  ],
+  "resources": [
+    {
+      "path": "Livestock counts - HYDE & FAO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Asses (HYDE & FAO (2017))",
+            "type": "any",
+            "description": "Number of asses, measured as the total number within a given year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Buffalo (HYDE & FAO (2017))",
+            "type": "any",
+            "description": "Number of buffalo, measured as the total number within a given year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cattle (HYDE & FAO (2017))",
+            "type": "any",
+            "description": "Number of cattle, measured as the total number within a given year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Goats (HYDE & FAO (2017))",
+            "type": "any",
+            "description": "Number of goats, measured as the total number within a given year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Horses (HYDE & FAO (2017))",
+            "type": "any",
+            "description": "Number of horses, measured as the total number within a given year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Mules (HYDE & FAO (2017))",
+            "type": "any",
+            "description": "Number of mules, measured as the total number within a given year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Pigs (HYDE & FAO (2017))",
+            "type": "any",
+            "description": "Number of pigs, measured as the total number within a given year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Sheep (HYDE & FAO (2017))",
+            "type": "any",
+            "description": "Number of sheep, measured as the total number within a given year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Chickens (HYDE & FAO (2017))",
+            "type": "any",
+            "description": "Number of chickens, measured as the total number within a given year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Turkeys (HYDE & FAO (2017))",
+            "type": "any",
+            "description": "Number of turkeys, measured as the total number within a given year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Poultry (HYDE & FAO (2017))",
+            "type": "any",
+            "description": "Number of poultry, measured as the total number within a given year.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
