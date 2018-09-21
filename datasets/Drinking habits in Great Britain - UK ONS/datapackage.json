@@ -1,0 +1,60 @@
+{
+  "name": "Drinking habits in Great Britain - UK ONS",
+  "title": "Drinking habits in Great Britain - UK ONS",
+  "id": 2700,
+  "description": "\"Binge\" drinking is defined by the UK Government as a man consuming more than 8 units of alcohol in a single day, or 6 units of alcohol in a single day in the case of a woman.",
+  "sources": [
+    {
+      "name": "Drinking habits in Great Britain - UK ONS",
+      "dataPublishedBy": "UK Office for National Statistics (ONS)",
+      "dataPublisherSource": "Governmental surveys",
+      "link": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/drugusealcoholandsmoking",
+      "retrievedDate": "24th March 2018",
+      "additionalInfo": "\"Binge\" drinking is defined by the UK Government as a man consuming more than 8 units of alcohol in a single day, or 6 units of alcohol in a single day in the case of a woman."
+    }
+  ],
+  "owidTags": [
+    "Alcohol Consumption"
+  ],
+  "resources": [
+    {
+      "path": "Drinking habits in Great Britain - UK ONS.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Drank in last week",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Drank on 5 or more days in last week",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Don't drink",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of drinkers who \"binged\" on heaviest day of drinking in last week",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
