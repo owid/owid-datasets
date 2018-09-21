@@ -1,0 +1,48 @@
+{
+  "name": "Tax Revenue – Piketty (2014)",
+  "title": "Tax Revenue – Piketty (2014)",
+  "id": 295,
+  "description": "Data on tax revenues include all taxes, fees, social contributions, and other payments that citizens mush pay under penalty of law.\n\nData on top marginal tax rates includes general income tax supplements, but excludes all other taxes and social contributions (e.g. NHS in the UK)",
+  "sources": [
+    {
+      "name": "Piketty (2014)",
+      "dataPublishedBy": "Piketty, T. (2014). Capital in the 21st Century. Cambridge: Harvard University Press",
+      "dataPublisherSource": "Various sources (see link for details)",
+      "link": "http://piketty.pse.ens.fr/en/capital21c2",
+      "retrievedDate": "20/09/2016",
+      "additionalInfo": "Data on tax revenues include all taxes, fees, social contributions, and other payments that citizens mush pay under penalty of law.\n\nData on top marginal tax rates includes general income tax supplements, but excludes all other taxes and social contributions (e.g. NHS in the UK)"
+    }
+  ],
+  "owidTags": [
+    "Government Revenue"
+  ],
+  "resources": [
+    {
+      "path": "Tax Revenue – Piketty (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Tax Revenue (Piketty (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Top marignal income tax rate (Piketty (2014))",
+            "type": "any",
+            "description": "1900-2013",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
