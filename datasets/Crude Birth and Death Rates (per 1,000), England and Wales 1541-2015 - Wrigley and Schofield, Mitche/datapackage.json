@@ -1,0 +1,52 @@
+{
+  "name": "Crude Birth and Death Rates (per 1,000), England and Wales 1541-2015 - Wrigley and Schofield, Mitchell, UK ONS",
+  "title": "Crude Birth and Death Rates (per 1,000), England and Wales 1541-2015 - Wrigley and Schofield, Mitchell, UK ONS",
+  "id": 532,
+  "description": "*Note: Our World In Data compiled the data from the above sources as follows: for the years 1541-1861: Wrigley and Schofield (1981); for the years 1862-2003: Brian Mitchell (2010); for the years 2004-2015: UK Office for National Statistics (2016).",
+  "sources": [
+    {
+      "name": "Our World In Data based on Wrigley and Schofield (1981), Mitchell (2010), and UK ONS (2016)",
+      "dataPublishedBy": "Wrigley and Schofield (1981) \"The Population History of England: A Reconstruction\"; Brian Mitchell - International Historical Statistics (2010); UK ONS (2016)",
+      "dataPublisherSource": "See individual sources for more detail",
+      "link": "Brian Mitchell: http://www.eui.eu/Research/Library/ResearchGuides/Economics/Statistics/DataPortal/IHS.aspx#Access; UK ONS: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/",
+      "retrievedDate": "01/06/2017",
+      "additionalInfo": "*Note: Our World In Data compiled the data from the above sources as follows: for the years 1541-1861: Wrigley and Schofield (1981); for the years 1862-2003: Brian Mitchell (2010); for the years 2004-2015: UK Office for National Statistics (2016)."
+    }
+  ],
+  "owidTags": [
+    "Demographic Transition & Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Crude Birth and Death Rates (per 1,000), England and Wales 1541-2015 - Wrigley and Schofield, Mitchell, UK ONS.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Crude Birth Rate (OWID based on Wrigley and Schofield (1981), Mitchell (2010), and UK ONS (2016))",
+            "type": "any",
+            "description": "Birth rate per 1,000 people",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Crude Death Rate (OWID based on Wrigley and Schofield (1981), Mitchell (2010), and UK ONS (2016))",
+            "type": "any",
+            "description": "Death rate per 1,000 people",
+            "owidDisplaySettings": {
+              "unit": "Index"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
