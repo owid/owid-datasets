@@ -1,0 +1,42 @@
+{
+  "name": "Child Marriage – UNICEF (2017)",
+  "title": "Child Marriage – UNICEF (2017)",
+  "id": 980,
+  "description": "\t\r\n– The source notes that in some instances observations differ from the standard definition or refer to only part of a country. \r\n\r\n– The dates associated to each observation correspond to the end of the survey used as underlying source\r\n\r\n\r\n",
+  "sources": [
+    {
+      "name": "Child Marriage - UNICEF Global Databases (2016)",
+      "dataPublishedBy": "UNICEF; Data and Analytics Section; Division of Data, Research and Policy",
+      "dataPublisherSource": " DHS, MICS and other nationally representative surveys.",
+      "link": null,
+      "retrievedDate": "2017-10-24",
+      "additionalInfo": "\t\r\n– The source notes that in some instances observations differ from the standard definition or refer to only part of a country. \r\n\r\n– The dates associated to each observation correspond to the end of the survey used as underlying source\r\n\r\n\r\n"
+    }
+  ],
+  "owidTags": [
+    "Violence against & Rights for Children"
+  ],
+  "resources": [
+    {
+      "path": "Child Marriage – UNICEF (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Percentage of women 20-24 who were first married before 18 (UNICEF Global Databases (2016))",
+            "type": "any",
+            "description": "Percentage of women aged 20 to 24 years who were first married or in union before age 18.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
