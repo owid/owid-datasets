@@ -1,0 +1,44 @@
+{
+  "name": "Solar PV Cumulative Capacity - ITRPV (2016)",
+  "title": "Solar PV Cumulative Capacity - ITRPV (2016)",
+  "id": 431,
+  "description": "Global cumulative installed solar PV capacity provided in megawatts (MW).",
+  "sources": [
+    {
+      "name": "Solar PV Cumulative Capacity - ITRPV (2016)",
+      "dataPublishedBy": "International Technology Roadmap for Photovoltaic (ITRPV) 2016 Results",
+      "dataPublisherSource": null,
+      "link": "http://www.itrpv.net/Reports/Downloads/",
+      "retrievedDate": "23/04/2017",
+      "additionalInfo": "Global cumulative installed solar PV capacity provided in megawatts (MW)."
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "Solar PV Cumulative Capacity - ITRPV (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Solar PV Cumulative Capacity (ITRPV (2016))",
+            "type": "any",
+            "description": "Solar PV Global Cumulative Installed Capacity (MW).",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
