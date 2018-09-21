@@ -1,0 +1,42 @@
+{
+  "name": "Share of energy from cereals, roots and tubers - FAO (2017)",
+  "title": "Share of energy from cereals, roots and tubers - FAO (2017)",
+  "id": 650,
+  "description": "This data details the average share of dietary energy supplied by cereals, roots or tuber food commodities. It is often used as a key indicator of dietary diversity, with individuals at lower-income levels relying on cereals, roots and tubers for a high percentage of total energy intake (indicating poor dietary diversity).",
+  "sources": [
+    {
+      "name": "Share of energy from cereals, roots and tubers - FAO (2017)",
+      "dataPublishedBy": "United Nations Food and Agricultural Organization (FAO) Food Security Indicators",
+      "dataPublisherSource": "Food Balance Sheets and Household Survey Data",
+      "link": "http://www.fao.org/faostat/en/#data/FS",
+      "retrievedDate": "27/07/2017",
+      "additionalInfo": "This data details the average share of dietary energy supplied by cereals, roots or tuber food commodities. It is often used as a key indicator of dietary diversity, with individuals at lower-income levels relying on cereals, roots and tubers for a high percentage of total energy intake (indicating poor dietary diversity)."
+    }
+  ],
+  "owidTags": [
+    "Food per Person"
+  ],
+  "resources": [
+    {
+      "path": "Share of energy from cereals, roots and tubers - FAO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of energy from cereals, roots and tubers (FAO (2017))",
+            "type": "any",
+            "description": "Percentage of energy from cereals, roots and tubers.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
