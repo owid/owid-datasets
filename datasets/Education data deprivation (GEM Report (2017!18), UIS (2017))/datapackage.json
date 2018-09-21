@@ -1,0 +1,54 @@
+{
+  "name": "Education data deprivation (GEM Report (2017/18), UIS (2017))",
+  "title": "Education data deprivation (GEM Report (2017/18), UIS (2017))",
+  "id": 1879,
+  "description": "",
+  "sources": [
+    {
+      "name": "GEM Report - Statistical Tables (2017/8)",
+      "dataPublishedBy": "UNESCO Institute for Statistics (UIS)",
+      "dataPublisherSource": "UIS database",
+      "link": "https://en.unesco.org/gem-report/statistical-tables",
+      "retrievedDate": "8/12/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Open Data"
+  ],
+  "resources": [
+    {
+      "path": "Education data deprivation (GEM Report (2017/18), UIS (2017)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Primary enrolment data available at last cutoff (GEM Report (2017/18))",
+            "type": "any",
+            "description": "Binary variable describing whether primary enrolment data, specifically total enrolment in primary education for the year ending 2015, was available in the SDG 4 monitoring tables (Global Monitoring Report 2018).",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Existence of nationally representative learning assessment in grades 2 or 3 of primary education (GEM Report (2017/18))",
+            "type": "any",
+            "description": "Binary variable denoting whether there is a nationally representative learning assessment in grades 2 or 3 of primary education, as per most recent survey in the period 2010-2015.   'Nationally representative learning assessment' refers to national, regional and international formative low-stake learning assessments. It is important to bear in mind that different types of assessments are not necessarily comparable.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Existence of nationally representative learning assessment at the end of primary education (GEM Report (2017/18))",
+            "type": "any",
+            "description": "Binary variable denoting whether there is a nationally representative learning assessment at the end of primary education, as per most recent survey in the period 2010-2015. 'Nationally representative learning assessment' refers to national, regional and international formative low-stake learning assessments. It is important to bear in mind that different types of assessments are not necessarily comparable.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
