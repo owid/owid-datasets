@@ -1,0 +1,108 @@
+{
+  "name": "Male and female life expectancy by age in the long run (Human Mortality Database (2018) and others)",
+  "title": "Male and female life expectancy by age in the long run (Human Mortality Database (2018) and others)",
+  "id": 2863,
+  "description": "US estimates are based on Hacker (2010) for the period 1780 to 1890. The year 1790 refers to the period 1790-99; see Table 8: New Life Tables for the White Population of the United States, 1780-1900 for the original data consulted for this period. The US Social Security Administration data is used from 1900 to today.\n\nFor other countries,  estimates are based on the Human Mortality Database period tables. Following <a href=\"http://www.nber.org/papers/w24716\" rel=\"noopener\" target=\"_blank\">Goldin and Lleras-Muney (2018)</a>, our data covers only years in which a census was undertaken. Goldin and Lleras-Muney (2018) explain: \"census data are available every ten years starting in 1841 for England, and every ten years starting in 1860 for Sweden. For France they occurred every 5 years between 1836 and 1936 (except for 1871 which was held in 1872, and for 1916 which was cancelled) and then for 1946, 1962, 1968, 1975, 1982, 1990 and 1999.\"\n\nNote: the United Kingdom refers to the total population of England and Wales.",
+  "sources": [
+    {
+      "name": "Human Mortality Database (2018) and others",
+      "dataPublishedBy": "Human Mortality Database, Hacker (2010), and the US Social Security Administration (2017)",
+      "dataPublisherSource": "Scholarly sources and historical data",
+      "link": "Human Mortality Database (2018): https://www.mortality.org/ Hacker (2010): https://www.tandfonline.com/doi/pdf/10.1080/01615441003720449?needAccess=true and the US Social Security Administration: https://www.ssa.gov/oact/HistEst/PerLifeTables/2017/PerLifeTables2017.html",
+      "retrievedDate": "27/08/2018",
+      "additionalInfo": "US estimates are based on Hacker (2010) for the period 1780 to 1890. The year 1790 refers to the period 1790-99; see Table 8: New Life Tables for the White Population of the United States, 1780-1900 for the original data consulted for this period. The US Social Security Administration data is used from 1900 to today.\n\nFor other countries,  estimates are based on the Human Mortality Database period tables. Following <a href=\"http://www.nber.org/papers/w24716\" rel=\"noopener\" target=\"_blank\">Goldin and Lleras-Muney (2018)</a>, our data covers only years in which a census was undertaken. Goldin and Lleras-Muney (2018) explain: \"census data are available every ten years starting in 1841 for England, and every ten years starting in 1860 for Sweden. For France they occurred every 5 years between 1836 and 1936 (except for 1871 which was held in 1872, and for 1916 which was cancelled) and then for 1946, 1962, 1968, 1975, 1982, 1990 and 1999.\"\n\nNote: the United Kingdom refers to the total population of England and Wales."
+    }
+  ],
+  "owidTags": [
+    "Life Expectancy"
+  ],
+  "resources": [
+    {
+      "path": "Male and female life expectancy by age in the long run (Human Mortality Database (2018) and others).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Male life expectancy at birth (HMD (2018) and others)",
+            "type": "any",
+            "description": "Life expectancy at age 0. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Male life expectancy at 15 (HMD (2018) and others)",
+            "type": "any",
+            "description": "Life expectancy conditional on reaching age 15, expressed as expected age at death, not as years left to live.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Male life expectancy at 45 (HMD (2018) and others)",
+            "type": "any",
+            "description": "Life expectancy conditional on reaching age 45, expressed as expected age at death, not as years left to live.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Female life expectancy at birth (HMD (2018) and others)",
+            "type": "any",
+            "description": "Life expectancy at age 0. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Female life expectancy at 15 (HMD (2018) and others)",
+            "type": "any",
+            "description": "Life expectancy conditional on reaching age 15, expressed as expected age at death, not as years left to live.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Female life expectancy at 45 (HMD (2018) and others)",
+            "type": "any",
+            "description": "Life expectancy conditional on reaching age 45, expressed as expected age at death, not as years left to live.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Female minus male life expectancy at birth (HMD (2018) and others)",
+            "type": "any",
+            "description": "The difference in female and male life expectancy at age 0. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Female minus male life expectancy at 15 (HMD (2018) and others)",
+            "type": "any",
+            "description": "The difference in female and male life expectancy at age 15. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Female minus male life expectancy at 45 (HMD (2018) and others)",
+            "type": "any",
+            "description": "The difference in female and male life expectancy at age 45. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Female-to-male life expectancy ratio at birth (HMD (2018) and others)",
+            "type": "any",
+            "description": "Female-to-male life expectancy ratio at age 0. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Female-to-male life expectancy ratio at 15 (HMD (2018) and others)",
+            "type": "any",
+            "description": "Female-to-male life expectancy ratio conditional on reaching age 15. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Female-to-male life expectancy ratio at 45 (HMD (2018) and others)",
+            "type": "any",
+            "description": "Female-to-male life expectancy ratio conditional on reaching age 45.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
