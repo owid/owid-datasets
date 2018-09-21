@@ -1,0 +1,44 @@
+{
+  "name": "Real GDP per capita, London and Delhi - OWID",
+  "title": "Real GDP per capita, London and Delhi - OWID",
+  "id": 520,
+  "description": "The data presented here from 1990 onwards is from the World Bank. It is GDP per capita in 2011 international-$ as published here: http://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD (accessed on April 16, 2017).\r\n\r\nData earlier than 1990 is backwards extended from the World Bank observation for 1990 based on the growth rates implied by Maddison data. The Maddison data is published here: http://www.ggdc.net/maddison/maddison-project/data.htm\r\n\r\nHere we have assumed GDP per capita for the UK and India is a proxy for London and Delhi, respectively.",
+  "sources": [
+    {
+      "name": "Real GDP per capita, London and Delhi (OWID)",
+      "dataPublishedBy": "New Maddison Project Database and World Bank",
+      "dataPublisherSource": "Our World In Data",
+      "link": null,
+      "retrievedDate": "16/04/2017",
+      "additionalInfo": "The data presented here from 1990 onwards is from the World Bank. It is GDP per capita in 2011 international-$ as published here: http://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD (accessed on April 16, 2017).\r\n\r\nData earlier than 1990 is backwards extended from the World Bank observation for 1990 based on the growth rates implied by Maddison data. The Maddison data is published here: http://www.ggdc.net/maddison/maddison-project/data.htm\r\n\r\nHere we have assumed GDP per capita for the UK and India is a proxy for London and Delhi, respectively."
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Real GDP per capita, London and Delhi - OWID.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Real GDP per capita (OWID)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "deaths per 100,000 individuals"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
