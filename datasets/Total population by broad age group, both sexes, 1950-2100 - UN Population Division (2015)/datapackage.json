@@ -1,0 +1,77 @@
+{
+  "name": "Total population by broad age group, both sexes, 1950-2100 - UN Population Division (2015)",
+  "title": "Total population by broad age group, both sexes, 1950-2100 - UN Population Division (2015)",
+  "id": 133,
+  "description": "The data file used is called “Annual Population by Age Groups - Both Sexes” on the website given. This original data file divides the population into 5-year age groups. These columns were added together to create the broad age groups in this file.",
+  "sources": [
+    {
+      "name": "UN Population Division (2015)",
+      "dataPublishedBy": "United Nations Population Division",
+      "dataPublisherSource": "United Nations",
+      "link": "http://esa.un.org/unpd/wpp/DVD/",
+      "retrievedDate": "14/09/2015",
+      "additionalInfo": "The data file used is called “Annual Population by Age Groups - Both Sexes” on the website given. This original data file divides the population into 5-year age groups. These columns were added together to create the broad age groups in this file."
+    }
+  ],
+  "owidTags": [
+    "World Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Total population by broad age group, both sexes, 1950-2100 - UN Population Division (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "0 to 4 (UN Population Division (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "5 to 14 (UN Population Division (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "% girls ages 7-14",
+              "shortUnit": "%"
+            }
+          },
+          {
+            "name": "15 to 24 (UN Population Division (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Deaths per 1,000 live births"
+            }
+          },
+          {
+            "name": "25 to 60 (UN Population Division (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "% girls ages 10-14",
+              "shortUnit": "%"
+            }
+          },
+          {
+            "name": "70+ (UN Population Division (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "% children ages 10-14",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
