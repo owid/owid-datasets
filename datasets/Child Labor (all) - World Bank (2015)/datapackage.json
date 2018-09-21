@@ -1,0 +1,64 @@
+{
+  "name": "Child Labor (all) - World Bank (2015)",
+  "title": "Child Labor (all) - World Bank (2015)",
+  "id": 165,
+  "description": "Children in Employment",
+  "sources": [
+    {
+      "name": "Understanding Children's Work project based on data from ILO, UNICEF and the World Bank",
+      "dataPublishedBy": "World Bank",
+      "dataPublisherSource": "Census Data, ILO, UNICEF",
+      "link": "http://data.worldbank.org/indicators",
+      "retrievedDate": "02/04/2015",
+      "additionalInfo": "Children in Employment"
+    }
+  ],
+  "owidTags": [
+    "Child Labor"
+  ],
+  "resources": [
+    {
+      "path": "Child Labor (all) - World Bank (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Child labor (World Bank (2015))",
+            "type": "any",
+            "description": "Share of children in employment",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Child labour (work only) (World Bank (2015))",
+            "type": "any",
+            "description": "The percentage of children who only work between the ages of 7 and 14.",
+            "owidDisplaySettings": {
+              "unit": "1,000 metric tons of Carbon"
+            }
+          },
+          {
+            "name": "Child labor (boys) (World Bank (2015))",
+            "type": "any",
+            "description": "The percentage of boys in employment ages 7-14.",
+            "owidDisplaySettings": {
+              "unit": "people"
+            }
+          },
+          {
+            "name": "Child labor (girls) (World Bank (2015))",
+            "type": "any",
+            "description": "The percentage of girls aged 7-14. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
