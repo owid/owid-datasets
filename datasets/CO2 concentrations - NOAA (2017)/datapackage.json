@@ -1,0 +1,44 @@
+{
+  "name": "CO2 concentrations - NOAA (2017)",
+  "title": "CO2 concentrations - NOAA (2017)",
+  "id": 418,
+  "description": "",
+  "sources": [
+    {
+      "name": "CO2 concentrations - NOAA (2017)",
+      "dataPublishedBy": "NOAA",
+      "dataPublisherSource": "Ed Dlugokencky and Pieter Tans, NOAA/ESRL",
+      "link": "www.esrl.noaa.gov/gmd/ccgg/trends/",
+      "retrievedDate": "20/04/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "CO2 concentrations - NOAA (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "CO2 concentrations (NOAA (2017))",
+            "type": "any",
+            "description": "Global CO2 concentrations (parts per million) 1980-2016- NOAA",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
