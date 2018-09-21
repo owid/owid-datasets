@@ -1,0 +1,108 @@
+{
+  "name": "Food expenditure in the USA - USDA",
+  "title": "Food expenditure in the USA - USDA",
+  "id": 2659,
+  "description": "Data on food expenditure does not include alcoholic beverages or tobacco.",
+  "sources": [
+    {
+      "name": "Food expenditure in the USA - USDA",
+      "dataPublishedBy": "United States Department of Agriculture (USDA) Economic Research Service",
+      "dataPublisherSource": null,
+      "link": "https://www.ers.usda.gov/data-products/food-expenditures.aspx",
+      "retrievedDate": "17th March 2018",
+      "additionalInfo": "Data on food expenditure does not include alcoholic beverages or tobacco."
+    }
+  ],
+  "owidTags": [
+    "Food Prices"
+  ],
+  "resources": [
+    {
+      "path": "Food expenditure in the USA - USDA.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Food consumed at home as share of disposable income",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Food consumed away from home as share of disposable income",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Food as share of disposable income (at and away from home)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Restaurant prices relative to retail prices",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Manufacturers' and shippers' prices relative to retail prices",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Food eaten away from home as share of total food expenditure",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Food expenditure at home (current prices)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Food expenditure away from home (current prices)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Food expenditure, total (current prices)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Food expenditure at home (constant 1988 prices)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Food expenditure away from home (constant 1988 prices)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Food expenditure, total (constant 1988 prices)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
