@@ -1,0 +1,48 @@
+{
+  "name": "Female and male life expectancy at birth - OWID based on UN Population Division (2017)",
+  "title": "Female and male life expectancy at birth - OWID based on UN Population Division (2017)",
+  "id": 2870,
+  "description": "Annually interpolated demographic indicators.\n\nNote: Guadeloupe includes Saint-Barthelemy and Saint-Martin.",
+  "sources": [
+    {
+      "name": "UN Population Division 2017",
+      "dataPublishedBy": "United Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, DVD Edition.",
+      "dataPublisherSource": "Demographic indicators",
+      "link": "https://esa.un.org/unpd/wpp/Download/Standard/Population/ (Standard Projections -> Interpolated Indicators -> Annual Demographic Indicators (XLSX)",
+      "retrievedDate": "06/08/2018",
+      "additionalInfo": "Annually interpolated demographic indicators.\n\nNote: Guadeloupe includes Saint-Barthelemy and Saint-Martin."
+    }
+  ],
+  "owidTags": [
+    "Life Expectancy"
+  ],
+  "resources": [
+    {
+      "path": "Female and male life expectancy at birth - OWID based on UN Population Division (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Female-to-male life expectancy ratio at birth (OWID)",
+            "type": "any",
+            "description": "Female-to-male life expectancy ratio at birth.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Female minus male life expectancy at birth (OWID)",
+            "type": "any",
+            "description": "The difference in female and male life expectancy at birth.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
