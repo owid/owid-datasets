@@ -1,0 +1,68 @@
+{
+  "name": "Reserves-Production Ratio - BP Statistics (2016)",
+  "title": "Reserves-Production Ratio - BP Statistics (2016)",
+  "id": 526,
+  "description": "The Reserves-to-Production (R/P) Ratio measures the number of years of fuel supplies left based on current annual consumption rates. Note that this can change through time through the discovery of new fuel reserves, and increases in annual consumption.",
+  "sources": [
+    {
+      "name": "Reserves-Production Ratio - BP Statistics (2016)",
+      "dataPublishedBy": "BP (2016). BP Statistical Review of World Energy 2016",
+      "dataPublisherSource": null,
+      "link": "http://www.bp.com/content/dam/bp/pdf/energy-economics/statistical-review-2016/bp-statistical-review-of-world-energy-2016-full-report.pdf",
+      "retrievedDate": "09/06/2017",
+      "additionalInfo": "The Reserves-to-Production (R/P) Ratio measures the number of years of fuel supplies left based on current annual consumption rates. Note that this can change through time through the discovery of new fuel reserves, and increases in annual consumption."
+    }
+  ],
+  "owidTags": [
+    "Fossil Fuels"
+  ],
+  "resources": [
+    {
+      "path": "Reserves-Production Ratio - BP Statistics (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Coal (BP Statistics (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Number"
+            }
+          },
+          {
+            "name": "Oil (BP Statistics (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Natural Gas (BP Statistics (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Reserves-Production Ratio (BP Statistics (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Hectares"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
