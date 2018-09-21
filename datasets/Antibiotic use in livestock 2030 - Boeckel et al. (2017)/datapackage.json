@@ -1,0 +1,42 @@
+{
+  "name": "Antibiotic use in livestock 2030 - Boeckel et al. (2017)",
+  "title": "Antibiotic use in livestock 2030 - Boeckel et al. (2017)",
+  "id": 1035,
+  "description": "Boeker et al. (2017) project global antibiotic use under business-as-usual antibiotic concentrations and projected meat consumption.\r\n\r\nThe authors also project a number of potential reduction scenarios:\r\n- a global limit of 50 milligrams of antibiotic use per kilogram of meat production.\r\n- a limit of 50 milligrams of antibiotic use per kilogram of meat production for OECD countries & China.\r\n- global per capita meat consumption of 40 grams per day (the equivalent of an average burger patty)\r\n- global per capita meat consumption of 165 grams per day (the projected EU average in 2030)\r\n\r\nProjected global antibiotic use for livestock are shown for each of these potential reduction scenarios.",
+  "sources": [
+    {
+      "name": "Antibiotic use in livestock 2030 - Boeckel et al. (2017)",
+      "dataPublishedBy": "Van Boeckel, T. P., Glennon, E. E., Chen, D., Gilbert, M., Robinson, T. P., Grenfell, B. T.,Laxminarayan, R. (2017). Reducing antimicrobial use in food animals. Science, 357, 1350-1352.",
+      "dataPublisherSource": null,
+      "link": "https://www.cddep.org/wp-content/uploads/2017/10/science.0929PolicyForum-1.pdf",
+      "retrievedDate": "2017-11-11",
+      "additionalInfo": "Boeker et al. (2017) project global antibiotic use under business-as-usual antibiotic concentrations and projected meat consumption.\r\n\r\nThe authors also project a number of potential reduction scenarios:\r\n- a global limit of 50 milligrams of antibiotic use per kilogram of meat production.\r\n- a limit of 50 milligrams of antibiotic use per kilogram of meat production for OECD countries & China.\r\n- global per capita meat consumption of 40 grams per day (the equivalent of an average burger patty)\r\n- global per capita meat consumption of 165 grams per day (the projected EU average in 2030)\r\n\r\nProjected global antibiotic use for livestock are shown for each of these potential reduction scenarios."
+    }
+  ],
+  "owidTags": [
+    "Productivity per Animal"
+  ],
+  "resources": [
+    {
+      "path": "Antibiotic use in livestock 2030 - Boeckel et al. (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Global antibiotic use",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
