@@ -1,0 +1,54 @@
+{
+  "name": "Fertility Rate - WC-IIASA (2017)",
+  "title": "Fertility Rate - WC-IIASA (2017)",
+  "id": 920,
+  "description": "In the original data the fertility rate refer to 5 year windows. Here the mid year for each window is taken. For example 1978 here refers to the period 1975-1980.",
+  "sources": [
+    {
+      "name": "WC-IIASA (Fertility Rate by education scenario) (2017)",
+      "dataPublishedBy": "Wittgenstein Centre Data Explorer",
+      "dataPublisherSource": "These projections were produced by a large team of researchers at the Wittgenstein Centre for Demography and Global Human Capital and at related institutions.",
+      "link": "http://www.wittgensteincentre.org/dataexplorer",
+      "retrievedDate": "11/09/2017",
+      "additionalInfo": "In the original data the fertility rate refer to 5 year windows. Here the mid year for each window is taken. For example 1978 here refers to the period 1975-1980."
+    }
+  ],
+  "owidTags": [
+    "Future World Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Fertility Rate - WC-IIASA (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Fertility Rate (SSP2 GET scenario; WC-IIASA)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fertility Rate (SSP2 CER scenario; WC-IIASA)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fertility Rate (SSP2 FT scenario; WC-IIASA)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
