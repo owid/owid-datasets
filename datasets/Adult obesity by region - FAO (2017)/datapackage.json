@@ -1,0 +1,42 @@
+{
+  "name": "Adult obesity by region - FAO (2017)",
+  "title": "Adult obesity by region - FAO (2017)",
+  "id": 934,
+  "description": "Obesity is defined as having a body-mass index (BMI) greater than 30 kg per m2.\n\nThis data presents the prevalence of obesity in adults (male and female) aged 18 and above.",
+  "sources": [
+    {
+      "name": "Adult obesity by region - FAO (2017)",
+      "dataPublishedBy": "FAO, IFAD, UNICEF, WFP and WHO. 2017. The State of Food Security and Nutrition in the World 2017. Building resilience for peace and food security. Rome, FAO.",
+      "dataPublisherSource": "WHO/NCD-RisC and WHO Global Health Observatory Data Repository, 2017",
+      "link": "http://www.fao.org/3/a-I7695e.pdf",
+      "retrievedDate": "25/09/2017",
+      "additionalInfo": "Obesity is defined as having a body-mass index (BMI) greater than 30 kg per m2.\n\nThis data presents the prevalence of obesity in adults (male and female) aged 18 and above."
+    }
+  ],
+  "owidTags": [
+    "Obesity & BMI"
+  ],
+  "resources": [
+    {
+      "path": "Adult obesity by region - FAO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Prevalence of obesity in adults (18+ years old) (FAO (2017))",
+            "type": "any",
+            "description": "Measured as the percentage of adults aged 18 years and older(both male and female) with a body-mass index (BMI) greater than 30 kilograms per metre squared.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}

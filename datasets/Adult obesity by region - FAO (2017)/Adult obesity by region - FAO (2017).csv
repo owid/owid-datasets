@@ -1,0 +1,241 @@
+Entity,Year,Prevalence of obesity in adults (18+ years old) (FAO (2017))
+Africa,1975,3
+Africa,1976,3.1
+Africa,1977,3.2
+Africa,1978,3.3
+Africa,1979,3.5
+Africa,1980,3.6
+Africa,1981,3.7
+Africa,1982,3.8
+Africa,1983,4
+Africa,1984,4.1
+Africa,1985,4.3
+Africa,1986,4.4
+Africa,1987,4.5
+Africa,1988,4.7
+Africa,1989,4.9
+Africa,1990,5
+Africa,1991,5.2
+Africa,1992,5.3
+Africa,1993,5.5
+Africa,1994,5.7
+Africa,1995,5.8
+Africa,1996,6
+Africa,1997,6.2
+Africa,1998,6.4
+Africa,1999,6.6
+Africa,2000,6.9
+Africa,2001,7.1
+Africa,2002,7.3
+Africa,2003,7.6
+Africa,2004,7.8
+Africa,2005,8.1
+Africa,2006,8.4
+Africa,2007,8.7
+Africa,2008,9
+Africa,2009,9.3
+Africa,2010,9.7
+Africa,2011,10
+Africa,2012,10.3
+Africa,2013,10.7
+Africa,2014,11.1
+Asia,1975,1
+Asia,1976,1.1
+Asia,1977,1.1
+Asia,1978,1.1
+Asia,1979,1.2
+Asia,1980,1.2
+Asia,1981,1.3
+Asia,1982,1.4
+Asia,1983,1.4
+Asia,1984,1.5
+Asia,1985,1.5
+Asia,1986,1.6
+Asia,1987,1.7
+Asia,1988,1.8
+Asia,1989,1.9
+Asia,1990,2
+Asia,1991,2.1
+Asia,1992,2.2
+Asia,1993,2.3
+Asia,1994,2.4
+Asia,1995,2.5
+Asia,1996,2.6
+Asia,1997,2.8
+Asia,1998,2.9
+Asia,1999,3.1
+Asia,2000,3.3
+Asia,2001,3.5
+Asia,2002,3.7
+Asia,2003,3.9
+Asia,2004,4.1
+Asia,2005,4.4
+Asia,2006,4.6
+Asia,2007,4.9
+Asia,2008,5.2
+Asia,2009,5.5
+Asia,2010,5.9
+Asia,2011,6.2
+Asia,2012,6.6
+Asia,2013,7
+Asia,2014,7.4
+Latin America and the Caribbean,1975,6.8
+Latin America and the Caribbean,1976,7.1
+Latin America and the Caribbean,1977,7.3
+Latin America and the Caribbean,1978,7.6
+Latin America and the Caribbean,1979,7.9
+Latin America and the Caribbean,1980,8.1
+Latin America and the Caribbean,1981,8.4
+Latin America and the Caribbean,1982,8.7
+Latin America and the Caribbean,1983,9
+Latin America and the Caribbean,1984,9.3
+Latin America and the Caribbean,1985,9.5
+Latin America and the Caribbean,1986,9.8
+Latin America and the Caribbean,1987,10.1
+Latin America and the Caribbean,1988,10.5
+Latin America and the Caribbean,1989,10.8
+Latin America and the Caribbean,1990,11.1
+Latin America and the Caribbean,1991,11.5
+Latin America and the Caribbean,1992,11.8
+Latin America and the Caribbean,1993,12.2
+Latin America and the Caribbean,1994,12.6
+Latin America and the Caribbean,1995,13
+Latin America and the Caribbean,1996,13.4
+Latin America and the Caribbean,1997,13.8
+Latin America and the Caribbean,1998,14.2
+Latin America and the Caribbean,1999,14.7
+Latin America and the Caribbean,2000,15.1
+Latin America and the Caribbean,2001,15.5
+Latin America and the Caribbean,2002,16
+Latin America and the Caribbean,2003,16.4
+Latin America and the Caribbean,2004,17
+Latin America and the Caribbean,2005,17.5
+Latin America and the Caribbean,2006,18
+Latin America and the Caribbean,2007,18.6
+Latin America and the Caribbean,2008,19.2
+Latin America and the Caribbean,2009,19.8
+Latin America and the Caribbean,2010,20.3
+Latin America and the Caribbean,2011,20.9
+Latin America and the Caribbean,2012,21.6
+Latin America and the Caribbean,2013,22.2
+Latin America and the Caribbean,2014,22.8
+North America and Europe,1975,11.1
+North America and Europe,1976,11.4
+North America and Europe,1977,11.7
+North America and Europe,1978,12
+North America and Europe,1979,12.3
+North America and Europe,1980,12.6
+North America and Europe,1981,12.9
+North America and Europe,1982,13.2
+North America and Europe,1983,13.5
+North America and Europe,1984,13.8
+North America and Europe,1985,14.2
+North America and Europe,1986,14.6
+North America and Europe,1987,15
+North America and Europe,1988,15.4
+North America and Europe,1989,15.8
+North America and Europe,1990,16.2
+North America and Europe,1991,16.6
+North America and Europe,1992,17
+North America and Europe,1993,17.4
+North America and Europe,1994,17.7
+North America and Europe,1995,18.1
+North America and Europe,1996,18.5
+North America and Europe,1997,19
+North America and Europe,1998,19.4
+North America and Europe,1999,19.9
+North America and Europe,2000,20.3
+North America and Europe,2001,20.9
+North America and Europe,2002,21.4
+North America and Europe,2003,21.9
+North America and Europe,2004,22.4
+North America and Europe,2005,23
+North America and Europe,2006,23.5
+North America and Europe,2007,24.1
+North America and Europe,2008,24.7
+North America and Europe,2009,25.2
+North America and Europe,2010,25.6
+North America and Europe,2011,26.1
+North America and Europe,2012,26.7
+North America and Europe,2013,27.2
+North America and Europe,2014,27.7
+Oceania,1975,9.6
+Oceania,1976,9.8
+Oceania,1977,10.1
+Oceania,1978,10.3
+Oceania,1979,10.6
+Oceania,1980,10.9
+Oceania,1981,11.2
+Oceania,1982,11.4
+Oceania,1983,11.7
+Oceania,1984,12
+Oceania,1985,12.3
+Oceania,1986,12.7
+Oceania,1987,13
+Oceania,1988,13.3
+Oceania,1989,13.7
+Oceania,1990,14.1
+Oceania,1991,14.5
+Oceania,1992,14.9
+Oceania,1993,15.4
+Oceania,1994,15.8
+Oceania,1995,16.4
+Oceania,1996,16.9
+Oceania,1997,17.6
+Oceania,1998,18.1
+Oceania,1999,18.7
+Oceania,2000,19.3
+Oceania,2001,19.9
+Oceania,2002,20.5
+Oceania,2003,21.2
+Oceania,2004,21.7
+Oceania,2005,22.2
+Oceania,2006,22.8
+Oceania,2007,23.3
+Oceania,2008,23.9
+Oceania,2009,24.5
+Oceania,2010,25
+Oceania,2011,25.6
+Oceania,2012,26.2
+Oceania,2013,26.9
+Oceania,2014,27.5
+World,1975,4.5
+World,1976,4.6
+World,1977,4.7
+World,1978,4.8
+World,1979,4.9
+World,1980,5
+World,1981,5.1
+World,1982,5.3
+World,1983,5.4
+World,1984,5.5
+World,1985,5.6
+World,1986,5.8
+World,1987,5.9
+World,1988,6
+World,1989,6.2
+World,1990,6.3
+World,1991,6.5
+World,1992,6.7
+World,1993,6.8
+World,1994,7
+World,1995,7.2
+World,1996,7.3
+World,1997,7.6
+World,1998,7.8
+World,1999,8
+World,2000,8.2
+World,2001,8.5
+World,2002,8.7
+World,2003,9
+World,2004,9.3
+World,2005,9.6
+World,2006,9.9
+World,2007,10.2
+World,2008,10.6
+World,2009,10.9
+World,2010,11.3
+World,2011,11.6
+World,2012,12
+World,2013,12.4
+World,2014,12.8
