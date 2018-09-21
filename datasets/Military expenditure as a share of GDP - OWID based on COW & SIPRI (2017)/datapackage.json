@@ -1,0 +1,45 @@
+{
+  "name": "Military expenditure as a share of GDP - OWID based on COW & SIPRI (2017)",
+  "title": "Military expenditure as a share of GDP - OWID based on COW & SIPRI (2017)",
+  "id": 2732,
+  "description": "The National Material Capabilities dataset, from the Correlates of War (COW) Project, contains long-run estimates of the military power of countries.\n\nThe COW data series on military expenditure ends in 2012 and it is measured in current currency units; specifically British Pounds up to the year 1914, and US Dollars thereafter. This reflects the fact that the COW data was originally intended for cross-country comparisons at specific points in time, rather than for tracking changes in military expenditure over the long-run.\n\nConsidering this, at Our World in Data we have produced a new dataset, based on the COW data, which does allow for comparisons both across countries and time. Here is a description of what we have done. \n<ol>\n\t<li>We first took the COW dataset and used historical exchange rates from the Bank of England to unify the entire series into a single currency (nominal British Pounds).</li>\n\t<li>Then we converted this series into shares of GDP. For this we used historical cross-country estimates of nominal GDP, also available in British Pounds from the CEPII research centre.</li>\n\t<li>Finally, we extended the series forward up until 2016 by appending data from SIPRI, as published in the World Bank's World Development Indicators <a href=\"https://data.worldbank.org/indicator/MS.MIL.XPND.GD.ZS?page\" rel=\"noopener\" target=\"_blank\">here</a>.</li></ol>\nPlease note that we use exchange rates from the Bank of England because the original exchange rates used to produce the COW estimates are not available. While we are aware that this introduces noise to the series, we believe that this does not affect trends or levels in any systematic way. It simply adds to the margin of error that historical estimates already had.\n\nAlso note that the entity 'World' shows values from SIPRI for the period 1960-2016. ",
+  "sources": [
+    {
+      "name": "Our World in Data (based on COW & SIPRI 2018)",
+      "dataPublishedBy": "Our World In Data",
+      "dataPublisherSource": "For all years up until 2012, estimates of military expenditure are based on the National Material Capabilities Dataset Version 5.0, The Correlates of War (COW) Project.  For the period 2013-2016, estimates correspond to Military Expenditure Database, Stockholm International Peace Research Institute (SIPRI). Historical GDP estimates come from CEPII (2014).",
+      "link": "COW Project Dataset: http://www.correlatesofwar.org/data-sets/national-material-capabilities  SIPRI Database: https://www.sipri.org/databases/milex  BOE Exchange Rate: http://www.bankofengland.co.uk/research/Pages/datasets/default.aspx; CEPII (2016) GDP data: http://www.cepii.fr/cepii/en/bdd_modele/presentation.asp?id=32",
+      "retrievedDate": "06/04/2018",
+      "additionalInfo": "The National Material Capabilities dataset, from the Correlates of War (COW) Project, contains long-run estimates of the military power of countries.\n\nThe COW data series on military expenditure ends in 2012 and it is measured in current currency units; specifically British Pounds up to the year 1914, and US Dollars thereafter. This reflects the fact that the COW data was originally intended for cross-country comparisons at specific points in time, rather than for tracking changes in military expenditure over the long-run.\n\nConsidering this, at Our World in Data we have produced a new dataset, based on the COW data, which does allow for comparisons both across countries and time. Here is a description of what we have done. \n<ol>\n\t<li>We first took the COW dataset and used historical exchange rates from the Bank of England to unify the entire series into a single currency (nominal British Pounds).</li>\n\t<li>Then we converted this series into shares of GDP. For this we used historical cross-country estimates of nominal GDP, also available in British Pounds from the CEPII research centre.</li>\n\t<li>Finally, we extended the series forward up until 2016 by appending data from SIPRI, as published in the World Bank's World Development Indicators <a href=\"https://data.worldbank.org/indicator/MS.MIL.XPND.GD.ZS?page\" rel=\"noopener\" target=\"_blank\">here</a>.</li></ol>\nPlease note that we use exchange rates from the Bank of England because the original exchange rates used to produce the COW estimates are not available. While we are aware that this introduces noise to the series, we believe that this does not affect trends or levels in any systematic way. It simply adds to the margin of error that historical estimates already had.\n\nAlso note that the entity 'World' shows values from SIPRI for the period 1960-2016. "
+    }
+  ],
+  "owidTags": [
+    "Military Spending"
+  ],
+  "resources": [
+    {
+      "path": "Military expenditure as a share of GDP - OWID based on COW & SIPRI (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Military expenditure as a share of GDP (OWID calculated based on NMC, COW & SIPRI (2017))",
+            "type": "any",
+            "description": "Military expenditure as a share of GDP is calculated by dividing total military expenditure sourced from COW's NMC database (converted to current British pounds for the period 1914-2012) by the country's GDP sourced from CEPII (also in current British pounds). From 2012 onward, military expenditure shares are sourced from SIPRI.",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
