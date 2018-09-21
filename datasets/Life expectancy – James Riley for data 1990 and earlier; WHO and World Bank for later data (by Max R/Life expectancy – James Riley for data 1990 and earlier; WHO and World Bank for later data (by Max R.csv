@@ -1,0 +1,157 @@
+Entity,Year,Life expectancy (James Riley for data 1990 and earlier; WHO and World Bank for later data (by Max Roser))
+Africa,1770,26.4
+Africa,1925,26.4
+Africa,1950,35.6
+Africa,1973,46.9
+Africa,1990,52.9
+Africa,2000,50.6
+Africa,2001,51
+Africa,2002,51.3
+Africa,2003,51.7
+Africa,2004,52.2
+Africa,2005,53
+Africa,2006,53.8
+Africa,2007,54.6
+Africa,2008,55.5
+Africa,2009,56.3
+Africa,2010,57
+Africa,2011,57.6
+Africa,2012,58.2
+Africa,2013,58.8
+Africa,2014,59.3
+Africa,2015,60
+Americas,1770,34.8
+Americas,1830,34.8
+Americas,1850,35.1
+Americas,1870,35.1
+Americas,1900,41
+Americas,1913,45.1
+Americas,1950,58.4
+Americas,1973,66
+Americas,1990,70.8
+Americas,2000,73.7
+Americas,2001,74
+Americas,2002,74.2
+Americas,2003,74.4
+Americas,2004,74.7
+Americas,2005,74.9
+Americas,2006,75.3
+Americas,2007,75.5
+Americas,2008,75.6
+Americas,2009,75.9
+Americas,2010,75.3
+Americas,2011,76.2
+Americas,2012,76.4
+Americas,2013,76.5
+Americas,2014,76.7
+Americas,2015,76.9
+Asia,1770,27.5
+Asia,1880,27.5
+Asia,1900,28
+Asia,1913,28.1
+Asia,1950,41.6
+Asia,1973,57.5
+Asia,1990,64.5
+Asia,2000,67.73
+Asia,2001,68.11
+Asia,2002,68.48
+Asia,2003,68.83
+Asia,2004,69.18
+Asia,2005,69.5
+Asia,2006,69.82
+Asia,2007,70.12
+Asia,2008,70.41
+Asia,2009,70.7
+Asia,2010,70.97
+Asia,2011,71.23
+Asia,2012,71.5
+Asia,2013,71.76
+Asia,2014,72.02
+Europe,1770,34.3
+Europe,1800,33.3
+Europe,1820,35.6
+Europe,1850,36.3
+Europe,1870,36.2
+Europe,1900,42.7
+Europe,1913,46.8
+Europe,1950,64.7
+Europe,1973,70.9
+Europe,1990,74.2
+Europe,2000,77.16
+Europe,2001,77.49
+Europe,2002,77.61
+Europe,2003,77.69
+Europe,2004,78.19
+Europe,2005,78.36
+Europe,2006,78.74
+Europe,2007,78.97
+Europe,2008,79.18
+Europe,2009,79.44
+Europe,2010,79.72
+Europe,2011,80.29
+Europe,2012,80.31
+Europe,2013,80.59
+Europe,2014,80.67
+Former Soviet Union,1770,29
+Former Soviet Union,1913,36.4
+Former Soviet Union,1950,56.1
+Former Soviet Union,1973,68.9
+Former Soviet Union,1990,69.1
+Former Soviet Union,2000,66.36
+Former Soviet Union,2001,66.55
+Former Soviet Union,2002,66.39
+Former Soviet Union,2003,66.41
+Former Soviet Union,2004,66.68
+Former Soviet Union,2005,66.7
+Former Soviet Union,2006,67.37
+Former Soviet Union,2007,67.91
+Former Soviet Union,2008,68.21
+Former Soviet Union,2009,68.89
+Former Soviet Union,2010,69.22
+Former Soviet Union,2011,69.8
+Former Soviet Union,2012,70.3
+Former Soviet Union,2013,70.44
+Former Soviet Union,2014,70.56
+Oceania,1870,34.7
+Oceania,1900,47.6
+Oceania,1913,51
+Oceania,1950,63.4
+Oceania,1973,68.2
+Oceania,1990,72.8
+Oceania,2000,74.44
+Oceania,2001,74.78
+Oceania,2002,75.07
+Oceania,2003,75.38
+Oceania,2004,75.67
+Oceania,2005,76.02
+Oceania,2006,76.24
+Oceania,2007,76.48
+Oceania,2008,76.63
+Oceania,2009,76.82
+Oceania,2010,76.96
+Oceania,2011,77.16
+Oceania,2012,77.34
+Oceania,2013,77.47
+Oceania,2014,77.58
+World,1770,29
+World,1820,29
+World,1870,29.7
+World,1913,34.1
+World,1950,48
+World,1973,60
+World,2000,66.4
+World,2001,66.7
+World,2002,67
+World,2003,67.2
+World,2004,67.6
+World,2005,68
+World,2006,68.4
+World,2007,68.8
+World,2008,69.1
+World,2009,69.6
+World,2010,69.8
+World,2011,70.3
+World,2012,70.5
+World,2013,70.8
+World,2014,71.1
+World,2015,71.4
