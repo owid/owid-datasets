@@ -1,0 +1,48 @@
+{
+  "name": "Gender Inequality Index - Human Development Report (2015)",
+  "title": "Gender Inequality Index - Human Development Report (2015)",
+  "id": 2675,
+  "description": "All observations for 1995 use 'share of seats in parliament' that refers to 1997.",
+  "sources": [
+    {
+      "name": "Human Development Report (2015)",
+      "dataPublishedBy": "UN Development Programme",
+      "dataPublisherSource": "Relies on data from the UN's MMEIG which includes WHO, UNICEF, UNFPA, and the World Bank as well as the UN Department of Economic and Social Affairs, UNESCO, IPU, ILO",
+      "link": "http://hdr.undp.org/en/data#",
+      "retrievedDate": "23/03/2018",
+      "additionalInfo": "All observations for 1995 use 'share of seats in parliament' that refers to 1997."
+    }
+  ],
+  "owidTags": [
+    "Economic Gender & Race Differences"
+  ],
+  "resources": [
+    {
+      "path": "Gender Inequality Index - Human Development Report (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Gender Inequality Index (Human Development Report (2015))",
+            "type": "any",
+            "description": "The GII is an inequality index. It shows the loss in potential human development due to disparity between female and male achievements in two dimensions, empowerment and economic status. The GII ranges between 0 and 1. Higher GII values indicate higher inequalities and thus higher loss to human development.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "HDI 2015 Ranking (Human Development Report (2015))",
+            "type": "any",
+            "description": "The 2015 country ranking according to the Human Development Index.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
