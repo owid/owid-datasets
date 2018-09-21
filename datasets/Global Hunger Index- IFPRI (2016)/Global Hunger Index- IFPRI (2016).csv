@@ -1,0 +1,553 @@
+Entity,Year,Global Hunger Index (IFPRI (2016))
+Afghanistan,1992,49.3
+Afghanistan,2000,52.4
+Afghanistan,2008,39.2
+Afghanistan,2016,34.8
+Afghanistan,2017,33.3
+Albania,1992,20.4
+Albania,2000,21.1
+Albania,2008,16.9
+Albania,2016,11.9
+Albania,2017,11.1
+Algeria,1992,16.8
+Algeria,2000,14.8
+Algeria,2008,10.8
+Algeria,2016,8.7
+Algeria,2017,9.5
+Angola,1992,65.9
+Angola,2000,57.8
+Angola,2008,40.5
+Angola,2016,32.8
+Angola,2017,32.5
+Argentina,1992,5.8
+Argentina,2000,5.3
+Argentina,2008,5
+Argentina,2016,5
+Argentina,2017,5.4
+Armenia,2000,17.4
+Armenia,2008,11.7
+Armenia,2016,8.7
+Armenia,2017,7.7
+Azerbaijan,2000,27.2
+Azerbaijan,2008,15.7
+Azerbaijan,2016,9.8
+Azerbaijan,2017,9.6
+Bangladesh,1992,52.4
+Bangladesh,2000,38.5
+Bangladesh,2008,32.4
+Bangladesh,2016,27.1
+Bangladesh,2017,26.5
+Belarus,2000,5
+Belarus,2008,5
+Belarus,2016,5
+Benin,1992,44.6
+Benin,2000,38.1
+Benin,2008,31.8
+Benin,2016,23.2
+Benin,2017,24.4
+Bolivia,1992,36.7
+Bolivia,2000,30.8
+Bolivia,2008,23.9
+Bolivia,2016,15.4
+Bolivia,2017,17.2
+Bosnia and Herzegovina,2000,9.6
+Bosnia and Herzegovina,2008,6.7
+Bosnia and Herzegovina,2016,5
+Botswana,1992,32.4
+Botswana,2000,33
+Botswana,2008,30.9
+Botswana,2016,23
+Botswana,2017,24.4
+Brazil,1992,16.1
+Brazil,2000,11.8
+Brazil,2008,5.4
+Brazil,2016,5
+Brazil,2017,5.4
+Bulgaria,1992,9.3
+Bulgaria,2000,9.5
+Bulgaria,2008,8.8
+Bulgaria,2016,8.3
+Bulgaria,2017,5.4
+Burkina Faso,1992,47.7
+Burkina Faso,2000,48.4
+Burkina Faso,2008,37.1
+Burkina Faso,2016,31
+Burkina Faso,2017,27.6
+Cambodia,1992,45.3
+Cambodia,2000,44.7
+Cambodia,2008,26.6
+Cambodia,2016,21.7
+Cambodia,2017,22.2
+Cameroon,1992,40.4
+Cameroon,2000,40.3
+Cameroon,2008,30.5
+Cameroon,2016,22.9
+Cameroon,2017,22.1
+Central African Republic,1992,52.2
+Central African Republic,2000,51.5
+Central African Republic,2008,48
+Central African Republic,2016,46.1
+Central African Republic,2017,50.9
+Chad,1992,62.5
+Chad,2000,51.9
+Chad,2008,50.9
+Chad,2016,44.3
+Chad,2017,43.5
+Chile,1992,6.2
+Chile,2000,5
+Chile,2008,5
+Chile,2016,5
+China,1992,26.4
+China,2000,15.9
+China,2008,11.5
+China,2016,7.7
+China,2017,7.5
+Colombia,1992,15.1
+Colombia,2000,11.4
+Colombia,2008,9.3
+Colombia,2016,8.5
+Colombia,2017,8
+Congo,1992,37.6
+Congo,2000,37.2
+Congo,2008,31.9
+Congo,2016,26.6
+Congo,2017,25.6
+Costa Rica,1992,7.6
+Costa Rica,2000,6.3
+Costa Rica,2008,5
+Costa Rica,2016,5
+Costa Rica,2017,5.3
+Cote d'Ivoire,1992,31.8
+Cote d'Ivoire,2000,31.4
+Cote d'Ivoire,2008,34.1
+Cote d'Ivoire,2016,25.7
+Cote d'Ivoire,2017,26.5
+Croatia,2000,6.2
+Croatia,2008,5
+Croatia,2016,5
+Cuba,1992,8.7
+Cuba,2000,6.1
+Cuba,2008,5
+Cuba,2016,5
+Djibouti,1992,61.1
+Djibouti,2000,48.5
+Djibouti,2008,35.9
+Djibouti,2016,32.7
+Djibouti,2017,31.4
+Dominican Republic,1992,25
+Dominican Republic,2000,19.4
+Dominican Republic,2008,15.6
+Dominican Republic,2016,11.1
+Dominican Republic,2017,11.6
+Ecuador,1992,23.6
+Ecuador,2000,20.2
+Ecuador,2008,17.5
+Ecuador,2016,13.9
+Ecuador,2017,14.4
+Egypt,1992,19.3
+Egypt,2000,15.3
+Egypt,2008,16.1
+Egypt,2016,13.7
+Egypt,2017,14.7
+El Salvador,1992,19.1
+El Salvador,2000,16.8
+El Salvador,2008,12.6
+El Salvador,2016,11.2
+El Salvador,2017,11.1
+Estonia,2000,5.3
+Estonia,2008,5
+Estonia,2016,5
+Ethiopia,1992,70.9
+Ethiopia,2000,58.5
+Ethiopia,2008,43
+Ethiopia,2016,33.4
+Ethiopia,2017,32.3
+Fiji,1992,11.7
+Fiji,2000,10.2
+Fiji,2008,8.7
+Fiji,2016,8.5
+Fiji,2017,8.1
+Gabon,1992,21.1
+Gabon,2000,18.5
+Gabon,2008,15.6
+Gabon,2016,12
+Gabon,2017,13.8
+Gambia,1992,33.5
+Gambia,2000,27.9
+Gambia,2008,24.5
+Gambia,2016,20.9
+Gambia,2017,23.2
+Georgia,2000,15.2
+Georgia,2008,8.2
+Georgia,2016,8.2
+Georgia,2017,7.7
+Ghana,1992,42.7
+Ghana,2000,29.9
+Ghana,2008,22.7
+Ghana,2016,13.9
+Ghana,2017,16.2
+Guatemala,1992,28.4
+Guatemala,2000,28
+Guatemala,2008,21.9
+Guatemala,2016,20.7
+Guatemala,2017,20.7
+Guinea,1992,46.1
+Guinea,2000,44.4
+Guinea,2008,33.9
+Guinea,2016,28.1
+Guinea,2017,28.6
+Guinea-Bissau,1992,45.2
+Guinea-Bissau,2000,43.9
+Guinea-Bissau,2008,31.9
+Guinea-Bissau,2016,27.4
+Guinea-Bissau,2017,30.6
+Guyana,1992,24.1
+Guyana,2000,18.8
+Guyana,2008,16.9
+Guyana,2016,14.5
+Guyana,2017,13.7
+Haiti,1992,51.6
+Haiti,2000,42.8
+Haiti,2008,43.4
+Haiti,2016,36.9
+Haiti,2017,34.2
+Honduras,1992,25.8
+Honduras,2000,20.3
+Honduras,2008,16.8
+Honduras,2016,13.2
+Honduras,2017,14.3
+India,1992,46.4
+India,2000,38.2
+India,2008,36
+India,2016,28.5
+India,2017,31.4
+Indonesia,1992,35.8
+Indonesia,2000,25.3
+Indonesia,2008,28.6
+Indonesia,2016,21.9
+Indonesia,2017,22
+Iran,1992,17.5
+Iran,2000,13.7
+Iran,2008,8.8
+Iran,2016,6.7
+Iran,2017,7.6
+Iraq,1992,19.6
+Iraq,2000,24.9
+Iraq,2008,24.5
+Iraq,2016,22
+Iraq,2017,22.9
+Jamaica,1992,12.4
+Jamaica,2000,8.6
+Jamaica,2008,7.4
+Jamaica,2016,7.9
+Jamaica,2017,8
+Jordan,1992,12.6
+Jordan,2000,9.8
+Jordan,2008,5.9
+Jordan,2016,5.7
+Jordan,2017,6.7
+Kazakhstan,2000,10.7
+Kazakhstan,2008,10.7
+Kazakhstan,2016,7.8
+Kazakhstan,2017,5.8
+Kenya,1992,38.5
+Kenya,2000,37.6
+Kenya,2008,29.6
+Kenya,2016,21.9
+Kenya,2017,21
+Kuwait,1992,26
+Kuwait,2000,5
+Kuwait,2008,5
+Kuwait,2016,5
+Kyrgyzstan,2000,19.4
+Kyrgyzstan,2008,13.1
+Kyrgyzstan,2016,9.1
+Kyrgyzstan,2017,9.3
+Laos,1992,52.2
+Laos,2000,48.8
+Laos,2008,33.9
+Laos,2016,28.1
+Laos,2017,27.5
+Latvia,2000,6.6
+Latvia,2008,5
+Latvia,2016,5
+Lebanon,1992,11.4
+Lebanon,2000,9
+Lebanon,2008,8.3
+Lebanon,2016,7.1
+Lebanon,2017,8.1
+Lesotho,1992,25.9
+Lesotho,2000,32.9
+Lesotho,2008,28
+Lesotho,2016,22.7
+Lesotho,2017,24.1
+Liberia,1992,49.7
+Liberia,2000,47.4
+Liberia,2008,38.6
+Liberia,2016,30.7
+Liberia,2017,35.3
+Lithuania,2000,5.2
+Lithuania,2008,5
+Lithuania,2016,5
+Macedonia,2000,7.9
+Macedonia,2008,6.2
+Macedonia,2016,5.8
+Macedonia,2017,5.3
+Madagascar,1992,44.6
+Madagascar,2000,44.2
+Madagascar,2008,37.1
+Madagascar,2016,35.4
+Madagascar,2017,38.3
+Malawi,1992,57.6
+Malawi,2000,45.3
+Malawi,2008,31.8
+Malawi,2016,26.9
+Malawi,2017,27.2
+Malaysia,1992,20.1
+Malaysia,2000,15.5
+Malaysia,2008,13.4
+Malaysia,2016,9.7
+Malaysia,2017,10.2
+Mali,1992,50.2
+Mali,2000,43.9
+Mali,2008,34.4
+Mali,2016,28.1
+Mali,2017,28.6
+Mauritania,1992,39.7
+Mauritania,2000,33.6
+Mauritania,2008,23.6
+Mauritania,2016,22.1
+Mauritania,2017,25.2
+Mauritius,1992,17.5
+Mauritius,2000,16.2
+Mauritius,2008,14.8
+Mauritius,2016,13.2
+Mauritius,2017,13.3
+Mexico,1992,14.6
+Mexico,2000,10.8
+Mexico,2008,8.4
+Mexico,2016,7.2
+Mexico,2017,6.5
+Moldova,2000,15.1
+Moldova,2008,11.9
+Moldova,2016,9.2
+Moldova,2017,7.6
+Mongolia,1992,34
+Mongolia,2000,33
+Mongolia,2008,20.5
+Mongolia,2016,13.8
+Mongolia,2017,13.4
+Montenegro,2008,5.1
+Montenegro,2016,5
+Morocco,1992,18.3
+Morocco,2000,15.6
+Morocco,2008,12
+Morocco,2016,9.3
+Morocco,2017,10.2
+Mozambique,1992,65.6
+Mozambique,2000,49.4
+Mozambique,2008,38.2
+Mozambique,2016,31.7
+Mozambique,2017,30.5
+Myanmar,1992,55.8
+Myanmar,2000,45.3
+Myanmar,2008,32
+Myanmar,2016,22
+Myanmar,2017,22.6
+Namibia,1992,35.8
+Namibia,2000,32.5
+Namibia,2008,29.6
+Namibia,2016,31.4
+Namibia,2017,25.7
+Nepal,1992,43.1
+Nepal,2000,36.8
+Nepal,2008,29.2
+Nepal,2016,21.9
+Nepal,2017,22
+Nicaragua,1992,36.1
+Nicaragua,2000,25.6
+Nicaragua,2008,17.9
+Nicaragua,2016,13.3
+Nicaragua,2017,13.6
+Niger,1992,64.8
+Niger,2000,53
+Niger,2008,37.1
+Niger,2016,33.7
+Niger,2017,34.5
+Nigeria,1992,49.5
+Nigeria,2000,40.9
+Nigeria,2008,33.6
+Nigeria,2016,25.5
+Nigeria,2017,25.5
+North Korea,1992,30.9
+North Korea,2000,40.4
+North Korea,2008,30.1
+North Korea,2016,28.6
+North Korea,2017,28.2
+Oman,1992,21.1
+Oman,2000,14.2
+Oman,2008,10.7
+Oman,2016,10.4
+Oman,2017,11.3
+Pakistan,1992,43.4
+Pakistan,2000,37.8
+Pakistan,2008,35.1
+Pakistan,2016,33.4
+Pakistan,2017,32.6
+Panama,1992,21.1
+Panama,2000,19.9
+Panama,2008,14.9
+Panama,2016,9.3
+Panama,2017,9.2
+Paraguay,1992,17.1
+Paraguay,2000,14.2
+Paraguay,2008,11.7
+Paraguay,2016,10.4
+Paraguay,2017,11
+Peru,1992,28.4
+Peru,2000,20.8
+Peru,2008,15.8
+Peru,2016,8.6
+Peru,2017,8.7
+Philippines,1992,30.8
+Philippines,2000,26.2
+Philippines,2008,20.4
+Philippines,2016,19.9
+Philippines,2017,20
+Romania,1992,9
+Romania,2000,8.6
+Romania,2008,5.9
+Romania,2016,5.5
+Romania,2017,5.2
+Russia,2000,10.5
+Russia,2008,6.8
+Russia,2016,6.8
+Russia,2017,6.2
+Rwanda,1992,54.6
+Rwanda,2000,58.7
+Rwanda,2008,37.9
+Rwanda,2016,27.4
+Rwanda,2017,31.4
+Saudi Arabia,1992,11.8
+Saudi Arabia,2000,10.4
+Saudi Arabia,2008,9.1
+Saudi Arabia,2016,5
+Saudi Arabia,2017,7.1
+Senegal,1992,37.1
+Senegal,2000,37.7
+Senegal,2008,24.4
+Senegal,2016,16.5
+Senegal,2017,18.4
+Serbia,2008,7.8
+Serbia,2016,7.1
+Serbia,2017,6.6
+Sierra Leone,1992,57.8
+Sierra Leone,2000,53.9
+Sierra Leone,2008,45.3
+Sierra Leone,2016,35
+Sierra Leone,2017,38.5
+Slovakia,2000,7.7
+Slovakia,2008,6
+Slovakia,2016,5.3
+South Africa,1992,18.5
+South Africa,2000,18.7
+South Africa,2008,16.3
+South Africa,2016,11.8
+South Africa,2017,13.2
+Sri Lanka,1992,31.8
+Sri Lanka,2000,27
+Sri Lanka,2008,24.4
+Sri Lanka,2016,25.5
+Sri Lanka,2017,25.5
+Sudan,2017,35.5
+Suriname,1992,17.5
+Suriname,2000,16.5
+Suriname,2008,11.7
+Suriname,2016,10.1
+Suriname,2017,9.9
+Swaziland,1992,24.8
+Swaziland,2000,30.9
+Swaziland,2008,30
+Swaziland,2016,24.2
+Swaziland,2017,21.2
+Tajikistan,2000,40.3
+Tajikistan,2008,32.4
+Tajikistan,2016,30
+Tajikistan,2017,28.7
+Tanzania,1992,42.1
+Tanzania,2000,42.4
+Tanzania,2008,32.9
+Tanzania,2016,28.4
+Tanzania,2017,28.8
+Thailand,1992,26.1
+Thailand,2000,18.3
+Thailand,2008,11.9
+Thailand,2016,11.8
+Thailand,2017,10.6
+Timor,2008,46.9
+Timor,2016,34.3
+Timor,2017,34.3
+Togo,1992,45.2
+Togo,2000,38.5
+Togo,2008,28.2
+Togo,2016,22.4
+Togo,2017,22.5
+Trinidad and Tobago,1992,13.9
+Trinidad and Tobago,2000,12.3
+Trinidad and Tobago,2008,10.5
+Trinidad and Tobago,2016,8.5
+Trinidad and Tobago,2017,6.9
+Tunisia,1992,13.6
+Tunisia,2000,9
+Tunisia,2008,6.2
+Tunisia,2016,5.5
+Tunisia,2017,7.4
+Turkey,1992,14.3
+Turkey,2000,10.4
+Turkey,2008,5.6
+Turkey,2016,5
+Turkmenistan,2000,22.2
+Turkmenistan,2008,16.6
+Turkmenistan,2016,12.3
+Turkmenistan,2017,12.2
+Uganda,1992,41.3
+Uganda,2000,39.4
+Uganda,2008,31.2
+Uganda,2016,26.4
+Uganda,2017,32
+Ukraine,2000,13.5
+Ukraine,2008,5
+Ukraine,2016,5
+Uruguay,1992,10
+Uruguay,2000,7.6
+Uruguay,2008,6.7
+Uruguay,2016,5.6
+Uzbekistan,2000,21.8
+Uzbekistan,2008,15.8
+Uzbekistan,2016,13.1
+Uzbekistan,2017,13.1
+Venezuela,1992,14.9
+Venezuela,2000,15.3
+Venezuela,2008,8.7
+Venezuela,2016,7
+Venezuela,2017,13
+Vietnam,1992,41.5
+Vietnam,2000,30.2
+Vietnam,2008,22.1
+Vietnam,2016,14.5
+Vietnam,2017,16
+Yemen,1992,43.8
+Yemen,2000,43.2
+Yemen,2008,36.5
+Yemen,2016,35
+Yemen,2017,36.1
+Zambia,1992,47.1
+Zambia,2000,50.4
+Zambia,2008,45.2
+Zambia,2016,39
+Zambia,2017,38.2
+Zimbabwe,1992,36.1
+Zimbabwe,2000,41
+Zimbabwe,2008,35.1
+Zimbabwe,2016,28.8
+Zimbabwe,2017,33.8
