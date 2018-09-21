@@ -1,0 +1,52 @@
+{
+  "name": "Energy production by source 1900-2014 - SHIFT Project (2014)",
+  "title": "Energy production by source 1900-2014 - SHIFT Project (2014)",
+  "id": 457,
+  "description": "",
+  "sources": [
+    {
+      "name": "Energy Production - The Shift Project Data Portal (2014)",
+      "dataPublishedBy": "The Shift Project Data Portal",
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "Energy production by source 1900-2014 - SHIFT Project (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Oil production (The Shift Project Data Portal (2014))",
+            "type": "any",
+            "description": "Oil production",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          },
+          {
+            "name": "Other Renewables (The Shift Project Data Portal (2014))",
+            "type": "any",
+            "description": "Other Renewables",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
