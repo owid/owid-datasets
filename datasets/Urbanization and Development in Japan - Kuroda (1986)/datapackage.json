@@ -1,0 +1,60 @@
+{
+  "name": "Urbanization and Development in Japan - Kuroda (1986)",
+  "title": "Urbanization and Development in Japan - Kuroda (1986)",
+  "id": 2882,
+  "description": "See Table 2 for original data. \n\nUrbanization estimates are taken from:\n-Minami, Ryoshin, Economic Development in Japan\" Toyo Keizai Shinpo, 1981, pp.216\n-1980 National Census Monograph Series No.3 of the Statistics Bureau of the Prime Minister's Office, \"Regional Distribution of Japanese Population and Its Changes\" 1983, pp.60",
+  "sources": [
+    {
+      "name": "Kuroda (1986)",
+      "dataPublishedBy": "Kuroda et al (1986). Urbanization and Development in Japan. \"Population and Development\" Series No.3. The Asian Population and Development Association (foundation)",
+      "dataPublisherSource": "Historical data",
+      "link": "http://www.apda.jp/pdf/p04_jinkou_series/popdev_series_3_en.pdf",
+      "retrievedDate": "16/08/2018",
+      "additionalInfo": "See Table 2 for original data. \n\nUrbanization estimates are taken from:\n-Minami, Ryoshin, Economic Development in Japan\" Toyo Keizai Shinpo, 1981, pp.216\n-1980 National Census Monograph Series No.3 of the Statistics Bureau of the Prime Minister's Office, \"Regional Distribution of Japanese Population and Its Changes\" 1983, pp.60"
+    }
+  ],
+  "owidTags": [
+    "Urbanization"
+  ],
+  "resources": [
+    {
+      "path": "Urbanization and Development in Japan - Kuroda (1986).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Percentage of urban population (Kuroda (1986))",
+            "type": "any",
+            "description": "Proportion of the population classified as urban, as a share of the total population.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percentage of densely inhabited districts (D.I.D) (Kuroda (1986))",
+            "type": "any",
+            "description": "Share of the population living in densely inhabited districts (D.I.D) which represents an urban area. To qualify as a D.I.D, a district must have a population density of 4,000 inhabitants or more, per square kilometre, and a population of 5,000 or more at the time of the Population Census of Japan. \n\nFor further information and criteria defining densely inhabited districts see: http://www.stat.go.jp/english/data/chiri/did/1-1.html",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percentage of rural population (Kuroda (1986))",
+            "type": "any",
+            "description": "Proportion of the population classified as rural, as a share of the total population.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percentage of non-densely inhabited districts (D.I.D) (Kuroda (1986))",
+            "type": "any",
+            "description": "Share of the population living in non-densely inhabited districts (D.I.D). To qualify as a D.I.D, a district must have a population density of 4,000 inhabitants or more, per square kilometre, and a population of 5,000 or more at the time of the Population Census of Japan. \n\nFor further information and criteria defining densely inhabited districts see: http://www.stat.go.jp/english/data/chiri/did/1-1.html",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
