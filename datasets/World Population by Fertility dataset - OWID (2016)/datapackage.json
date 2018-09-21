@@ -1,0 +1,72 @@
+{
+  "name": "World Population by Fertility dataset - OWID (2016)",
+  "title": "World Population by Fertility dataset - OWID (2016)",
+  "id": 285,
+  "description": "Population by country data comes from the following sources:\r\n\r\nBefore 1950: From Gapminder.org\r\n\r\n1950-2015: UN Population Division (2015 Revision)\r\n\r\n2016 onwards: Medium Variant – UN Population Division (2015 Revision)\r\n\r\nFertility by country data comes from the following sources:\r\n\r\nBefore 1950: From Gapminder.org\r\n\r\n1950-2015: UN Population Division (2015 Revision)\r\n\r\n2016 onwards: Medium Variant – UN Population Division (2015 Revision)",
+  "sources": [
+    {
+      "name": "World Population by Fertility dataset - OWID (2016)",
+      "dataPublishedBy": "This dataset was calculated by Max Roser using data from the UN Population Division, Gapminder.org, and Childmortality.org",
+      "dataPublisherSource": "Estimates are aggregated on the country level. Country level information is taken from the sources below. Alternatively it would be interesting to aggregate by the population of women in reproductive age; as this data is not available prior to 1950 this is approximated by the total population.",
+      "link": null,
+      "retrievedDate": "08/11/2016",
+      "additionalInfo": "Population by country data comes from the following sources:\r\n\r\nBefore 1950: From Gapminder.org\r\n\r\n1950-2015: UN Population Division (2015 Revision)\r\n\r\n2016 onwards: Medium Variant – UN Population Division (2015 Revision)\r\n\r\nFertility by country data comes from the following sources:\r\n\r\nBefore 1950: From Gapminder.org\r\n\r\n1950-2015: UN Population Division (2015 Revision)\r\n\r\n2016 onwards: Medium Variant – UN Population Division (2015 Revision)"
+    }
+  ],
+  "owidTags": [
+    "Fertility Rates"
+  ],
+  "resources": [
+    {
+      "path": "World Population by Fertility dataset - OWID (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Fertility_Below_2",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fertility_Above_2_Below_3",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fertility_Above_3_Below_4",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fertility_Above_4_Below_5",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fertility_Above_5_Below_6",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fertility_Above_6",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
