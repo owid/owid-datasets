@@ -1,0 +1,42 @@
+{
+  "name": "Total population - Gapminder, UN Population Division",
+  "title": "Total population - Gapminder, UN Population Division",
+  "id": 2753,
+  "description": "Gapminder's total population estimates are used until 1949; the UN Population Division's estimates are used from 1950-2015; and the UN's population projections are used to extend the series to 2016.",
+  "sources": [
+    {
+      "name": "Gapminder until 1949, UN Population Division from 1950-2015, UN projection for 2016",
+      "dataPublishedBy": "Gapminder, UN Population Division",
+      "dataPublisherSource": "Gapminder, United Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, DVD Edition; historical data",
+      "link": "Gapminder: https://www.gapminder.org/data/documentation/gd003/ UN Population Division and the UN population projections: https://esa.un.org/unpd/wpp/Download/Standard/Population/",
+      "retrievedDate": "11/04/2018",
+      "additionalInfo": "Gapminder's total population estimates are used until 1949; the UN Population Division's estimates are used from 1950-2015; and the UN's population projections are used to extend the series to 2016."
+    }
+  ],
+  "owidTags": [
+    "World Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Total population - Gapminder, UN Population Division.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total population (Gapminder, UN Population Division)",
+            "type": "any",
+            "description": "Gapminder's total population estimates are used until 1949; the UN Population Division's estimates are used from 1950-2015; and the UN's population projections are used to extend the series to 2016.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
