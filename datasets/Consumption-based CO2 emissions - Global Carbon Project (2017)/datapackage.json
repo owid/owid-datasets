@@ -1,0 +1,45 @@
+{
+  "name": "Consumption-based CO2 emissions - Global Carbon Project (2017)",
+  "title": "Consumption-based CO2 emissions - Global Carbon Project (2017)",
+  "id": 1091,
+  "description": "Data has been converted from million tonnes of carbon to million tonnes of carbon dioxide (CO₂) using a conversion factor of 3.664.\r\n\r\nConsumption-based emissions are national or regional emissions which have been adjusted for trade (i.e. territorial/production emissions minus emissions embedded in exports, plus emissions embedded in imports). If a country's consumption-based emissions are higher than its production emissions it is a net importer of carbon dioxide.\r\n\r\nFull reference: Le Quéré, Corinne, Robbie M. Andrew, Pierre Friedlingstein, Stephen Sitch, Julia Pongratz, Andrew C. Manning, Jan Ivar Korsbakken, Glen P. Peters, Josep G. Canadell, Robert B. Jackson, Thomas A. Boden, Pieter P. Tans, Oliver D. Andrews, Vivek Arora, Dorothee C. E. Bakker, Leticia Barbero, Meike Becker, Richard A. Betts, Laurent Bopp, Frédéric Chevallier, Louise P. Chini, Philippe Ciais, Cathy Cosca, Jessica Cross, Kim Currie, Thomas Gasser, Ian Harris, Judith Hauck, Vanessa Haverd, Richard A. Houghton, Christopher W.  Hunt, George Hurtt, Tatiana Ilyina, Atul K. Jain, Etsushi Kato, Markus Kautz, Ralph F. Keeling, Kees Klein Goldewijk, Arne Körtzinger, Peter Landschützer, Nathalie Lefèvre, Andrew Lenton, Sebastian Lienert, Ivan Lima, Danica Lombardozzi, Nicolas Metzl, Frank Millero, Pedro M. S. Monteiro, David R. Munro, Julia E. M. S. Nabel, Shin-ichiro Nakaoka, Yukihiro Nojiri, X. Antoni Padin, Benjamin Pfeil, Denis Pierrot, Benjamin Poulter, Gregor Rehder, Janet Reimer, Christian Rödenbeck, Jörg Schwinger, Roland Séférian, Ingunn Skjelvan, Benjamin D. Stocker, Hanqin Tian, Bronte Tilbrook, Ingrid T. van der Laan-Luijkx, Guido R. van der Werf, Steven M. A. C. van Heuven, Nicolas Viovy, Nicolas Vuichard, Anthony P. Walker, Andrew J. Watson, Andrew J. Wiltshire, Sönke Zaehle, Dan Zhu: Global Carbon Budget 2017, Earth Syst. Sci. Data Discussions, 2017. https://doi.org/10.5194/essdd-2017-123",
+  "sources": [
+    {
+      "name": "Consumption-based CO2 emissions - Global Carbon Project (2017)",
+      "dataPublishedBy": "Le Quéré et al. (2017). Global Carbon Project. ",
+      "dataPublisherSource": "UNFCCC and CDIAC ",
+      "link": "http://www.globalcarbonproject.org/carbonbudget/17/data.htm ",
+      "retrievedDate": "16/11/2017",
+      "additionalInfo": "Data has been converted from million tonnes of carbon to million tonnes of carbon dioxide (CO₂) using a conversion factor of 3.664.\r\n\r\nConsumption-based emissions are national or regional emissions which have been adjusted for trade (i.e. territorial/production emissions minus emissions embedded in exports, plus emissions embedded in imports). If a country's consumption-based emissions are higher than its production emissions it is a net importer of carbon dioxide.\r\n\r\nFull reference: Le Quéré, Corinne, Robbie M. Andrew, Pierre Friedlingstein, Stephen Sitch, Julia Pongratz, Andrew C. Manning, Jan Ivar Korsbakken, Glen P. Peters, Josep G. Canadell, Robert B. Jackson, Thomas A. Boden, Pieter P. Tans, Oliver D. Andrews, Vivek Arora, Dorothee C. E. Bakker, Leticia Barbero, Meike Becker, Richard A. Betts, Laurent Bopp, Frédéric Chevallier, Louise P. Chini, Philippe Ciais, Cathy Cosca, Jessica Cross, Kim Currie, Thomas Gasser, Ian Harris, Judith Hauck, Vanessa Haverd, Richard A. Houghton, Christopher W.  Hunt, George Hurtt, Tatiana Ilyina, Atul K. Jain, Etsushi Kato, Markus Kautz, Ralph F. Keeling, Kees Klein Goldewijk, Arne Körtzinger, Peter Landschützer, Nathalie Lefèvre, Andrew Lenton, Sebastian Lienert, Ivan Lima, Danica Lombardozzi, Nicolas Metzl, Frank Millero, Pedro M. S. Monteiro, David R. Munro, Julia E. M. S. Nabel, Shin-ichiro Nakaoka, Yukihiro Nojiri, X. Antoni Padin, Benjamin Pfeil, Denis Pierrot, Benjamin Poulter, Gregor Rehder, Janet Reimer, Christian Rödenbeck, Jörg Schwinger, Roland Séférian, Ingunn Skjelvan, Benjamin D. Stocker, Hanqin Tian, Bronte Tilbrook, Ingrid T. van der Laan-Luijkx, Guido R. van der Werf, Steven M. A. C. van Heuven, Nicolas Viovy, Nicolas Vuichard, Anthony P. Walker, Andrew J. Watson, Andrew J. Wiltshire, Sönke Zaehle, Dan Zhu: Global Carbon Budget 2017, Earth Syst. Sci. Data Discussions, 2017. https://doi.org/10.5194/essdd-2017-123"
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "Consumption-based CO2 emissions - Global Carbon Project (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Consumption-based CO₂ emissions (Global Carbon Project (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "name": "Consumption-based",
+              "shortUnit": "Mt"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
