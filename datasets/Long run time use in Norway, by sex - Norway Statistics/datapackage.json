@@ -1,0 +1,144 @@
+{
+  "name": "Long run time use in Norway, by sex - Norway Statistics",
+  "title": "Long run time use in Norway, by sex - Norway Statistics",
+  "id": 2893,
+  "description": "Note: Data are normalized to 1440 minutes per day. In other words, for those countries for which the time use does not sum up to 1440 minutes, the missing minutes are equally distributed across all activities. ",
+  "sources": [
+    {
+      "name": "Statistics Norway",
+      "dataPublishedBy": "Statistics Norway",
+      "dataPublisherSource": "National time use surveys (1970-2010)",
+      "link": "https://www.ssb.no/en/statbank/list/tidsbruk",
+      "retrievedDate": "24/08/2018",
+      "additionalInfo": "Note: Data are normalized to 1440 minutes per day. In other words, for those countries for which the time use does not sum up to 1440 minutes, the missing minutes are equally distributed across all activities. "
+    }
+  ],
+  "owidTags": [
+    "Working Hours"
+  ],
+  "resources": [
+    {
+      "path": "Long run time use in Norway, by sex - Norway Statistics.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Time spent on education, all (Statistics Norway)",
+            "type": "any",
+            "description": "Time spent on education activities on an average day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent on education, female (Statistics Norway)",
+            "type": "any",
+            "description": "Time spent on education activities, by females, on an average day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent on education, male (Statistics Norway)",
+            "type": "any",
+            "description": "Time spent on education activities, by males, on an average day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent on household work, all (Statistics Norway)",
+            "type": "any",
+            "description": "Time spent on household work on an average day. Household work includes activities such as house work, maintenance, family care, shopping and services, other household work, and travel connected to household work. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent on household work, female (Statistics Norway)",
+            "type": "any",
+            "description": "Time spent on household work, by females, on an average day. Household work includes activities such as house work, maintenance, family care, shopping and services, other household work, and travel connected to household work. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent on household work, male (Statistics Norway)",
+            "type": "any",
+            "description": "Time spent on household work, by males, on an average day. Household work includes activities such as house work, maintenance, family care, shopping and services, other household work, and travel connected to household work. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent on income producing work, all (Statistics Norway)",
+            "type": "any",
+            "description": "Time spent on income producing work on an average day. Income producing work includes the travel to/from work. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent on income producing work, female (Statistics Norway)",
+            "type": "any",
+            "description": "Time spent on income producing work, by females, on an average day. Income producing work includes the travel to/from work. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent on income producing work, male (Statistics Norway)",
+            "type": "any",
+            "description": "Time spent on income producing work, by males, on an average day. Income producing work includes the travel to/from work. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent on leisure, all (Statistics Norway)",
+            "type": "any",
+            "description": "Time spent on leisure on an average day. Leisure activities includes sports and outdoor activities, entertainment and culture, socialising, reading, television viewing, other leisure time, and travel connected to leisure time activities.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent on leisure, female (Statistics Norway)",
+            "type": "any",
+            "description": "Time spent on leisure, by females, on an average day. Leisure activities includes sports and outdoor activities, entertainment and culture, socialising, reading, television viewing, other leisure time, and travel connected to leisure time activities.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent on leisure, male (Statistics Norway)",
+            "type": "any",
+            "description": "Time spent on leisure, by males, on an average day. Leisure activities includes sports and outdoor activities, entertainment and culture, socialising, reading, television viewing, other leisure time, and travel connected to leisure time activities.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent on other activities, all (Statistics Norway)",
+            "type": "any",
+            "description": "Time spent on other activities on an average day. Other activities includes all time that has not been accounted for by income producing work, household work, education, personal needs, or leisure time. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent on other activities, females (Statistics Norway)",
+            "type": "any",
+            "description": "Time spent on other activities, by females, on an average day. Other activities includes all time that has not been accounted for by income producing work, household work, education, personal needs, or leisure time. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent on other activities, males (Statistics Norway)",
+            "type": "any",
+            "description": "Time spent on other activities, by males, on an average day. Other activities includes all time that has not been accounted for by income producing work, household work, education, personal needs, or leisure time. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent on personal needs, all (Statistics Norway)",
+            "type": "any",
+            "description": "Time spent on personal needs on an average day. Personal needs include night sleep, other personal care, and meals. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent on personal needs, females (Statistics Norway)",
+            "type": "any",
+            "description": "Time spent on personal needs, by females, on an average day. Personal needs include night sleep, other personal care, and meals. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent on personal needs, males (Statistics Norway)",
+            "type": "any",
+            "description": "Time spent on personal needs, by males, on an average day. Personal needs include night sleep, other personal care, and meals. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
