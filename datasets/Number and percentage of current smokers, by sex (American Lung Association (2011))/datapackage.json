@@ -1,0 +1,60 @@
+{
+  "name": "Number and percentage of current smokers, by sex (American Lung Association (2011))",
+  "title": "Number and percentage of current smokers, by sex (American Lung Association (2011))",
+  "id": 2520,
+  "description": "For the original data, please see Table 3: Number of Adults Who Were Current Smokers By Sex, Race and Age, Selected Years, 1965-2009. Due to the redesign of the NHIS survey in 1997, comparisons with data from prior years must be conducted with caution.",
+  "sources": [
+    {
+      "name": "Trends in Tobacco Use, American Lung Association (2011)",
+      "dataPublishedBy": "American Lung Association",
+      "dataPublisherSource": "Centers for Disease Control and Prevention. National Center for Health Statistics",
+      "link": "http://www.lung.org/assets/documents/research/tobacco-trend-report.pdf",
+      "retrievedDate": "15/03/2018",
+      "additionalInfo": "For the original data, please see Table 3: Number of Adults Who Were Current Smokers By Sex, Race and Age, Selected Years, 1965-2009. Due to the redesign of the NHIS survey in 1997, comparisons with data from prior years must be conducted with caution."
+    }
+  ],
+  "owidTags": [
+    "Smoking"
+  ],
+  "resources": [
+    {
+      "path": "Number and percentage of current smokers, by sex (American Lung Association (2011)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of Adults Who Were Current Smokers, Male (American Lung Association (2011))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of Adults Who Were Current Smokers, Female (American Lung Association (2011))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percent of Adults Who Were Current Smokers, Male (American Lung Association (2011))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percent of Adults Who Were Current Smokers, Female (American Lung Association (2011))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
