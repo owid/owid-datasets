@@ -1,0 +1,144 @@
+{
+  "name": "Mental and substance use disorder disaggregated - IHME",
+  "title": "Mental and substance use disorder disaggregated - IHME",
+  "id": 2676,
+  "description": "",
+  "sources": [
+    {
+      "name": "Mental and substance use disorder disaggregated - OWID based on IHME",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2016 (GBD 2016) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2017.",
+      "dataPublisherSource": null,
+      "link": "http://ghdx.healthdata.org/gbd-results-tool",
+      "retrievedDate": null,
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Mental Health"
+  ],
+  "resources": [
+    {
+      "path": "Mental and substance use disorder disaggregated - IHME.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Prevalence - Mental health disorders: Both (age-standardized percent)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prevalence - Mental health disorders: Male (age-standardized percent)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prevalence - Mental health disorders: Female (age-standardized percent)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prevalence - Mental health disorders: Both (Number)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prevalence - Mental health disorders: Male (Number)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prevalence - Mental health disorders: Female (Number)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prevalence - Alcohol and substance use disorders: Both (age-standardized percent)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prevalence - Alcohol and substance use disorders: Male (age-standardized percent)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prevalence - Alcohol and substance use disorders: Female (age-standardized percent)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prevalence - Alcohol and substance use disorders: Both (Number)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prevalence - Alcohol and substance use disorders: Male (Number)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prevalence - Alcohol and substance use disorders: Female (Number)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Deaths - Alcohol and substance use disorders",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Deaths - Alcohol and substance use disorders (Age-standardized rate)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "DALYs (Disability-Adjusted Life Years) - Alcohol and substance use disorders (Age-standardized percent)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "DALYs (Disability-Adjusted Life Years) - Mental health disorders (Age-standardized percent)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "DALYs (Disability-Adjusted Life Years) - Alcohol and substance use disorders (Age-standardized rate)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "DALYs (Disability-Adjusted Life Years) - Mental health disorders (Age-standardized rate)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
