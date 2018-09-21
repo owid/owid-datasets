@@ -1,0 +1,44 @@
+{
+  "name": "Per capita energy use - World Bank (2017)",
+  "title": "Per capita energy use - World Bank (2017)",
+  "id": 440,
+  "description": "",
+  "sources": [
+    {
+      "name": "Per capita energy use - World Bank (2017)",
+      "dataPublishedBy": "The World Bank",
+      "dataPublisherSource": "Data derived from the International Energy Agency (IEA)",
+      "link": "http://data.worldbank.org/",
+      "retrievedDate": "25/04/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "Per capita energy use - World Bank (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Per capita energy use (World Bank (2017))",
+            "type": "any",
+            "description": "Per capita energy use by country.",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
