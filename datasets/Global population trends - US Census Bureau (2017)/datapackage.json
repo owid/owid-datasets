@@ -1,0 +1,42 @@
+{
+  "name": "Global population trends - US Census Bureau (2017)",
+  "title": "Global population trends - US Census Bureau (2017)",
+  "id": 928,
+  "description": "Population data is reported annually based on review of census data, surveys, vital registration and administrative records from a variety of sources.\r\n\r\nPopulation is recorded as 'de facto' meaning it includes all persons who are physically present in the country at the reference date, whether or not they are usual and/or legal residents.",
+  "sources": [
+    {
+      "name": "Global population trends - US Census Bureau (2017)",
+      "dataPublishedBy": "United States Census Bureau International Database (IDB)",
+      "dataPublisherSource": null,
+      "link": "https://www.census.gov/population/international/data/idb/informationGateway.php",
+      "retrievedDate": "15/09/2017",
+      "additionalInfo": "Population data is reported annually based on review of census data, surveys, vital registration and administrative records from a variety of sources.\r\n\r\nPopulation is recorded as 'de facto' meaning it includes all persons who are physically present in the country at the reference date, whether or not they are usual and/or legal residents."
+    }
+  ],
+  "owidTags": [
+    "World Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Global population trends - US Census Bureau (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Population (US Census Bureau (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
