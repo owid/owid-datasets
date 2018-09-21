@@ -1,0 +1,168 @@
+{
+  "name": "Mental health prevalence (IHME)",
+  "title": "Mental health prevalence (IHME)",
+  "id": 1907,
+  "description": "Mental health data is based on the IHME, GBD 'prevalence' data. The IHME denotes prevalence as: \"The total number of cases of a given disease in a specified population at a designated time. It is differentiated from INCIDENCE, which refers to the number of new cases in the population at a given time.\"\r\n\r\nThe variable 'depressive disorders' refers to the sum of those suffering from 'major depressive disorder' and 'persistent depressive disorder'.\r\n\r\n'Eating disorders' is the sum of those suffering from 'anorexia nervosa' and 'bulimia nervosa'.\r\n\r\nGBD define drug and alcohol use disorders by:\r\n\"Drug dependence is defined by the International Classification of Diseases 10th Revision (ICD-10) as the presence of three or more indicators of dependence for at least a month within the previous year. These indicators consist of a strong desire to take the substance, impaired control over use, a withdrawal syndrome on ceasing or reducing use, tolerance to the effects of the drug, the need for larger doses to achieve the desired psychological effect, a disproportionate amount of time spent by the user obtaining, using, and recovering from drug use, and persistence of drug taking despite the problems that occur. \"",
+  "sources": [
+    {
+      "name": "Mental Health Prevalence (IHME, GBD)",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2016 (GBD 2016) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2017.",
+      "dataPublisherSource": null,
+      "link": "http://ghdx.healthdata.org/gbd-results-tool",
+      "retrievedDate": "21st January 2018",
+      "additionalInfo": "Mental health data is based on the IHME, GBD 'prevalence' data. The IHME denotes prevalence as: \"The total number of cases of a given disease in a specified population at a designated time. It is differentiated from INCIDENCE, which refers to the number of new cases in the population at a given time.\"\r\n\r\nThe variable 'depressive disorders' refers to the sum of those suffering from 'major depressive disorder' and 'persistent depressive disorder'.\r\n\r\n'Eating disorders' is the sum of those suffering from 'anorexia nervosa' and 'bulimia nervosa'.\r\n\r\nGBD define drug and alcohol use disorders by:\r\n\"Drug dependence is defined by the International Classification of Diseases 10th Revision (ICD-10) as the presence of three or more indicators of dependence for at least a month within the previous year. These indicators consist of a strong desire to take the substance, impaired control over use, a withdrawal syndrome on ceasing or reducing use, tolerance to the effects of the drug, the need for larger doses to achieve the desired psychological effect, a disproportionate amount of time spent by the user obtaining, using, and recovering from drug use, and persistence of drug taking despite the problems that occur. \""
+    }
+  ],
+  "owidTags": [
+    "Mental Health"
+  ],
+  "resources": [
+    {
+      "path": "Mental health prevalence (IHME).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Alcohol use disorders - both sexes (percent)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Anorexia nervosa - both sexes (percent)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Anxiety disorders - both sexes (percent)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Bipolar disorder - both sexes (percent)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Bulimia nervosa - both sexes (percent)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Depressive disorders - both sexes (percent)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Drug use disorders - both sexes (percent)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Persistent Depressive Disorder - both sexes (percent)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Eating disorders - both sexes (percent)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Major depressive disorder - both sexes (percent)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Schizophrenia - both sexes (percent)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Alcohol use disorders - both sexes (number)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Anorexia nervosa - both sexes (number)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Anxiety disorders - both sexes (number)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Bipolar disorder - both sexes (number)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Bulimia nervosa - both sexes (number)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Depressive disorders - both sexes (number)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Drug use disorders - both sexes (number)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Persistent Depressive Disorder - both sexes (number)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Eating disorders - both sexes (number)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Major depressive disorder - both sexes (number)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Schizophrenia - both sexes (number)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
