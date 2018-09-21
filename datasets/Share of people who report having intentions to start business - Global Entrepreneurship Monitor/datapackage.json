@@ -1,0 +1,42 @@
+{
+  "name": "Share of people who report having intentions to start business - Global Entrepreneurship Monitor",
+  "title": "Share of people who report having intentions to start business - Global Entrepreneurship Monitor",
+  "id": 2788,
+  "description": "",
+  "sources": [
+    {
+      "name": "Global Entrepreneurship Monitor ",
+      "dataPublishedBy": "Global Entrepreneurship Monitor ",
+      "dataPublisherSource": "Survey data.",
+      "link": "http://www.gemconsortium.org/data/key-aps",
+      "retrievedDate": "07/05/2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Economic Prosperity"
+  ],
+  "resources": [
+    {
+      "path": "Share of people who report having intentions to start business - Global Entrepreneurship Monitor.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of people who report having intentions to start business (Global Entrepreneurship Monitor)",
+            "type": "any",
+            "description": "Percentage of 18-64 population who intend to start a business within three years (individuals already involved in any stage of entrepreneurial activity excluded)",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
