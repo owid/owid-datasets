@@ -1,0 +1,42 @@
+{
+  "name": "Natural gas reserves - BP Statistical Review (2016)",
+  "title": "Natural gas reserves - BP Statistical Review (2016)",
+  "id": 493,
+  "description": "The definition of 'proven reserves' is taken to be the following: \"Generally taken to be those quantities that geological and engineering information indicates with reasonable certainty can be recovered in the future from known reservoirs under existing economic and operating conditions. The data series for total proved natural gas does not necessarily meet the definitions, guidelines and practices used for determining proved reserves at company level, for instance as published by the US Securities and Exchange Commission, nor does it necessarily represent BP’s view of proved reserves by country.\"\r\n\r\nThe estimates in this table have been compiled by the BP using a combination of primary official sources and third-party data from Cedigaz and the OPEC Secretariat.",
+  "sources": [
+    {
+      "name": "Natural gas reserves - BP Statistical Review (2016)",
+      "dataPublishedBy": "BP Statistical Review of World Energy 2016",
+      "dataPublisherSource": null,
+      "link": "https://www.bp.com/content/dam/bp/pdf/energy-economics/statistical-review-2016/bp-statistical-review-of-world-energy-2016-full-report.pdf",
+      "retrievedDate": "25/05/2017",
+      "additionalInfo": "The definition of 'proven reserves' is taken to be the following: \"Generally taken to be those quantities that geological and engineering information indicates with reasonable certainty can be recovered in the future from known reservoirs under existing economic and operating conditions. The data series for total proved natural gas does not necessarily meet the definitions, guidelines and practices used for determining proved reserves at company level, for instance as published by the US Securities and Exchange Commission, nor does it necessarily represent BP’s view of proved reserves by country.\"\r\n\r\nThe estimates in this table have been compiled by the BP using a combination of primary official sources and third-party data from Cedigaz and the OPEC Secretariat."
+    }
+  ],
+  "owidTags": [
+    "Fossil Fuels"
+  ],
+  "resources": [
+    {
+      "path": "Natural gas reserves - BP Statistical Review (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Natural gas reserves (BP Statistical Review (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
