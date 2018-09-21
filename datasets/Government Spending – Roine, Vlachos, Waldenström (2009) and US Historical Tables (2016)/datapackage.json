@@ -1,0 +1,42 @@
+{
+  "name": "Government Spending – Roine, Vlachos, Waldenström (2009) and US Historical Tables (2016)",
+  "title": "Government Spending – Roine, Vlachos, Waldenström (2009) and US Historical Tables (2016)",
+  "id": 306,
+  "description": "",
+  "sources": [
+    {
+      "name": "Roine, Vlachos, Waldenström (2009) and US Historical Tables (2016)",
+      "dataPublishedBy": "(a) All countries except United States: Roine, J., Vlachos, J., & Waldenström, D. (2007). What Determines Top Income Shares? Evidence from the Twentieth Century (No. 2007: 17). Stockholm University, Department of Economics. (b) United States: United States. Office of Management and Budget. \"Fiscal Year 2017,\" Historical Tables, Budget of the United States Government (February 9, 2016).",
+      "dataPublisherSource": "(a) Rousseau, Peter and Richard Sylla (2003), “Financial Systems, Economic Growth, and Globalization”. In Bordo, M., A. Taylor, and J. Williamson, eds., Globalization in Historical Perspective, Chicago: University of Chicago Press for the National Bureau of Economic Research. (b) United States: United States. Office of Management and Budget. \"Fiscal Year 2017,\" Historical Tables, Budget of the United States Government (February 9, 2016).",
+      "link": "(a) http://www.ifn.se/Wfiles/wp/wp721.pdf (b) https://fraser.stlouisfed.org/scribd/?item_id=522154&filepath=/docs/publications/usbhist/BUDGET-2017-TAB.pdf",
+      "retrievedDate": "18/10/2016",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Public Spending"
+  ],
+  "resources": [
+    {
+      "path": "Government Spending – Roine, Vlachos, Waldenström (2009) and US Historical Tables (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Central Gov Expenditure (Roine, Vlachos, Waldenström (2009) and US Historical Tables (2016))",
+            "type": "any",
+            "description": "1900-2005",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
