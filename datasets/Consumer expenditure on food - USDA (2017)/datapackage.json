@@ -1,0 +1,60 @@
+{
+  "name": "Consumer expenditure on food - USDA (2017)",
+  "title": "Consumer expenditure on food - USDA (2017)",
+  "id": 844,
+  "description": "Data on the share of consumer expenditure spent on food, and on alcoholic beverages and tobacco are given as the percentage of total consumer expenditures per person.\n\nData on overall annual consumer expenditure, and that spend on food is given in US$ per year.",
+  "sources": [
+    {
+      "name": "Consumer expenditure on food - USDA (2017)",
+      "dataPublishedBy": "United States Department of Agriculture (USDA) Economic Research Service",
+      "dataPublisherSource": null,
+      "link": "https://www.ers.usda.gov/data-products/food-expenditures.aspx",
+      "retrievedDate": "30/08/2017",
+      "additionalInfo": "Data on the share of consumer expenditure spent on food, and on alcoholic beverages and tobacco are given as the percentage of total consumer expenditures per person.\n\nData on overall annual consumer expenditure, and that spend on food is given in US$ per year."
+    }
+  ],
+  "owidTags": [
+    "Food Prices"
+  ],
+  "resources": [
+    {
+      "path": "Consumer expenditure on food - USDA (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of consumer expenditure on food (USDA (2017))",
+            "type": "any",
+            "description": "Percentage of consumer expenditure on food.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of consumer expenditure on alcoholic beverages and tobacco (USDA (2017))",
+            "type": "any",
+            "description": "Percentage of consumer expenditure on alcoholic beverages and tobacco. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Consumer expenditure (USDA (2017))",
+            "type": "any",
+            "description": "Total consumer expenditure in US$. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Food expenditure (USDA (2017))",
+            "type": "any",
+            "description": "Total food expenditure in US$.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
