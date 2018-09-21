@@ -1,0 +1,42 @@
+{
+  "name": "Prevalence of undernourishment by region - UN FAO SOFI (2017 & 2018)",
+  "title": "Prevalence of undernourishment by region - UN FAO SOFI (2017 & 2018)",
+  "id": 2938,
+  "description": "Regional figures on the prevalence of undernourishment from 2005-2017 are based on latest estimates from the UN FAO SOFI (2018) report. Figures for the year 2000 are from the UN FAO SOFI (2017) report.\n\nReferences:\nFAO, IFAD, UNICEF, WFP and WHO. 2018. The State of Food Security and Nutrition in the World 2018. Building climate resilience for food security and nutrition. Rome, FAO.\n\nFAO, IFAD, UNICEF, WFP and WHO. 2017. The State of Food Security and Nutrition in the World 2017. Building resilience for peace and food security. Rome, FAO.",
+  "sources": [
+    {
+      "name": "Prevalence of undernourishment (UN FAO SOFI 2018 & 2017)",
+      "dataPublishedBy": "FAO, IFAD, UNICEF, WFP and WHO. 2018. The State of Food Security and Nutrition in the World 2018. Building climate resilience for food security and nutrition. Rome, FAO.",
+      "dataPublisherSource": null,
+      "link": "http://www.fao.org/3/I9553EN/i9553en.pdf",
+      "retrievedDate": "12th September 2018",
+      "additionalInfo": "Regional figures on the prevalence of undernourishment from 2005-2017 are based on latest estimates from the UN FAO SOFI (2018) report. Figures for the year 2000 are from the UN FAO SOFI (2017) report.\n\nReferences:\nFAO, IFAD, UNICEF, WFP and WHO. 2018. The State of Food Security and Nutrition in the World 2018. Building climate resilience for food security and nutrition. Rome, FAO.\n\nFAO, IFAD, UNICEF, WFP and WHO. 2017. The State of Food Security and Nutrition in the World 2017. Building resilience for peace and food security. Rome, FAO."
+    }
+  ],
+  "owidTags": [
+    "Hunger & Undernourishment"
+  ],
+  "resources": [
+    {
+      "path": "Prevalence of undernourishment by region - UN FAO SOFI (2017 & 2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Prevalence of undernourishment (UN FAO SOFI 2018 & 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
