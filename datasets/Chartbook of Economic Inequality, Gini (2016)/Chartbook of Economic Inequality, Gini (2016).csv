@@ -1,0 +1,652 @@
+Entity,Year,Gini (Chartbook of Economic Inequality (2016))
+Argentina,1953,37.01
+Argentina,1959,41.35
+Argentina,1961,38.76
+Argentina,1972,32.66
+Argentina,1974,32.66
+Argentina,1980,38.13
+Argentina,1986,41.08
+Argentina,1987,43.71
+Argentina,1988,44.32
+Argentina,1991,44.83
+Argentina,1992,43
+Argentina,1993,42.4
+Argentina,1994,43.2
+Argentina,1995,46.11
+Argentina,1996,46.41
+Argentina,1997,46.21
+Argentina,1998,48.11
+Argentina,1999,47.11
+Argentina,2000,48.52
+Argentina,2001,50.43
+Argentina,2002,51.54
+Argentina,2003,50.93
+Argentina,2004,47.95
+Argentina,2005,46.85
+Argentina,2006,45.75
+Argentina,2007,44.65
+Argentina,2008,43.7
+Argentina,2009,43.15
+Argentina,2010,41.95
+Argentina,2011,40.9
+Argentina,2012,39.95
+Argentina,2013,39.45
+Argentina,2014,39.45
+Australia,1981,27.01
+Australia,1985,28.06
+Australia,1989,29.22
+Australia,1994,30.2
+Australia,1995,29.6
+Australia,1996,29.2
+Australia,1997,30.3
+Australia,1999,31
+Australia,2000,31.1
+Australia,2002,30.9
+Australia,2003,30.6
+Australia,2005,31.4
+Australia,2007,32.6
+Australia,2009,31.9
+Australia,2011,31
+Australia,2013,32.3
+Brazil,1981,54.72
+Brazil,1982,55.32
+Brazil,1983,55.92
+Brazil,1984,55.42
+Brazil,1985,52.63
+Brazil,1986,55.72
+Brazil,1987,56.81
+Brazil,1988,58.8
+Brazil,1989,60.69
+Brazil,1990,58.21
+Brazil,1993,58.21
+Brazil,1995,57.41
+Brazil,1996,57.71
+Brazil,1997,57.71
+Brazil,1998,57.41
+Brazil,1999,56.8
+Brazil,2001,57
+Brazil,2002,56.5
+Brazil,2003,55.7
+Brazil,2004,54.6
+Brazil,2005,54.4
+Brazil,2006,53.7
+Brazil,2007,52.8
+Brazil,2008,52
+Brazil,2009,51.8
+Brazil,2011,50.7
+Brazil,2012,50.2
+Brazil,2013,50.5
+Brazil,2014,49.5
+Canada,1976,30
+Canada,1977,28.6
+Canada,1978,29.1
+Canada,1979,28.6
+Canada,1980,28.6
+Canada,1981,28.5
+Canada,1982,28.8
+Canada,1983,29.6
+Canada,1984,29.3
+Canada,1985,29
+Canada,1986,29
+Canada,1987,28.7
+Canada,1988,28.2
+Canada,1989,28.1
+Canada,1990,28.6
+Canada,1991,29.2
+Canada,1992,29.1
+Canada,1993,28.9
+Canada,1994,29
+Canada,1995,29.3
+Canada,1996,30.1
+Canada,1997,30.4
+Canada,1998,31.1
+Canada,1999,31
+Canada,2000,31.7
+Canada,2001,31.8
+Canada,2002,31.8
+Canada,2003,31.6
+Canada,2004,32.2
+Canada,2005,31.7
+Canada,2006,31.8
+Canada,2007,31.5
+Canada,2008,31.8
+Canada,2009,31.6
+Canada,2010,31.5
+Canada,2011,31.2
+Canada,2012,31.8
+Canada,2013,31.9
+Finland,1966,31.1
+Finland,1971,27
+Finland,1976,21.5
+Finland,1981,20.9
+Finland,1987,20.2
+Finland,1988,20.7
+Finland,1989,21
+Finland,1990,20.8
+Finland,1991,20.7
+Finland,1992,20.5
+Finland,1993,20.9
+Finland,1994,20.8
+Finland,1995,21.4
+Finland,1996,21.9
+Finland,1997,23
+Finland,1998,23.8
+Finland,1999,24.5
+Finland,2000,24.9
+Finland,2001,25.7
+Finland,2002,25.2
+Finland,2003,25.6
+Finland,2004,26.1
+Finland,2005,25.9
+Finland,2006,26.2
+Finland,2007,26.4
+Finland,2008,26
+Finland,2009,25.5
+Finland,2010,25.9
+Finland,2011,25.9
+Finland,2012,25.5
+Finland,2013,25.6
+Finland,2014,25.2
+France,1956,39.89
+France,1962,39.89
+France,1965,38.26
+France,1970,35.82
+France,1975,34.74
+France,1979,32.56
+France,1984,31.48
+France,1990,30.39
+France,1996,29.42
+France,1997,29.31
+France,1998,29.09
+France,1999,29.2
+France,2000,29.53
+France,2001,29.53
+France,2002,28.98
+France,2003,28.98
+France,2004,28.87
+France,2005,28.98
+France,2006,29.49
+France,2007,29.29
+France,2008,29.29
+France,2009,29.39
+France,2010,30.3
+France,2011,30.6
+France,2012,30.3
+France,2013,28.9
+Germany,1962,29.2
+Germany,1969,25.8
+Germany,1973,24.81
+Germany,1978,24.73
+Germany,1983,24.7
+Germany,1984,25.2
+Germany,1985,24
+Germany,1986,23.9
+Germany,1987,23.6
+Germany,1988,24.2
+Germany,1989,24.5
+Germany,1990,24.8
+Germany,1991,24.8
+Germany,1992,25.2
+Germany,1993,25.3
+Germany,1994,26
+Germany,1995,25.5
+Germany,1996,25
+Germany,1997,25
+Germany,1998,25
+Germany,1999,24.9
+Germany,2000,25.5
+Germany,2001,25.7
+Germany,2002,26.8
+Germany,2003,26.9
+Germany,2004,27.4
+Germany,2005,28.8
+Germany,2006,28.5
+Germany,2007,28.6
+Germany,2008,28.3
+Germany,2009,28.3
+Germany,2010,28
+Germany,2011,28.6
+Germany,2012,28.8
+Iceland,2003,24.1
+Iceland,2004,25.1
+Iceland,2005,26.3
+Iceland,2006,28
+Iceland,2007,27.3
+Iceland,2008,29.6
+Iceland,2009,25.7
+Iceland,2010,23.6
+Iceland,2011,24
+Iceland,2012,24
+Iceland,2013,22.7
+India,2004,47.2
+India,2011,47.9
+Indonesia,1964,35
+Indonesia,1969,35
+Indonesia,1976,34
+Indonesia,1978,38
+Indonesia,1980,34
+Indonesia,1981,33
+Indonesia,1984,33
+Indonesia,1987,32
+Indonesia,1990,32
+Indonesia,1993,34
+Indonesia,1996,36.6
+Indonesia,1999,37.3
+Indonesia,2001,31
+Indonesia,2002,32.9
+Indonesia,2005,36.3
+Indonesia,2007,36.4
+Indonesia,2008,35
+Indonesia,2009,37
+Indonesia,2010,38
+Indonesia,2011,41
+Indonesia,2012,41
+Indonesia,2013,41.3
+Indonesia,2014,41
+Indonesia,2015,41
+Italy,1901,48.5
+Italy,1911,46
+Italy,1921,45.1
+Italy,1931,44.9
+Italy,1948,41.6
+Italy,1967,39.1
+Italy,1968,40.8
+Italy,1969,39.7
+Italy,1970,38.3
+Italy,1971,39.7
+Italy,1972,38.5
+Italy,1973,40
+Italy,1974,39.1
+Italy,1975,35.2
+Italy,1977,34.9
+Italy,1978,33.3
+Italy,1979,34.6
+Italy,1980,32.5
+Italy,1981,31.9
+Italy,1982,29.5
+Italy,1983,30.1
+Italy,1984,31.9
+Italy,1986,31
+Italy,1987,32.2
+Italy,1989,29.6
+Italy,1991,29.3
+Italy,1993,32.7
+Italy,1995,33.2
+Italy,1998,33.6
+Italy,2000,33.3
+Italy,2002,33.3
+Italy,2004,34.9
+Italy,2006,33.8
+Italy,2008,33.3
+Italy,2010,34.7
+Italy,2012,35
+Japan,1962,24.71
+Japan,1967,23.56
+Japan,1972,22.55
+Japan,1975,24.85
+Japan,1978,24.27
+Japan,1981,22.55
+Japan,1982,22.1
+Japan,1983,22.22
+Japan,1984,22.17
+Japan,1985,23.07
+Japan,1986,23.14
+Japan,1987,23.21
+Japan,1988,23.94
+Japan,1989,24.01
+Japan,1990,23.97
+Japan,1991,24.32
+Japan,1992,24.14
+Japan,1993,23.61
+Japan,1994,24.21
+Japan,1995,24.38
+Japan,1996,24.19
+Japan,1997,23.98
+Japan,1998,24.37
+Japan,1999,23.78
+Japan,2000,24.56
+Japan,2001,24.83
+Japan,2002,25.54
+Japan,2003,25.22
+Japan,2004,25.22
+Japan,2005,25.87
+Japan,2006,24.78
+Japan,2007,25.43
+Japan,2008,25.44
+Malaysia,1967,49.8
+Malaysia,1970,51.3
+Malaysia,1976,52.9
+Malaysia,1979,50.5
+Malaysia,1984,48.3
+Malaysia,1987,45.8
+Malaysia,1990,44.6
+Malaysia,1993,45.9
+Malaysia,1995,45.6
+Malaysia,1997,45.9
+Malaysia,1999,44.3
+Malaysia,2002,46.1
+Malaysia,2004,46
+Malaysia,2007,44
+Malaysia,2009,44.1
+Malaysia,2012,43.1
+Malaysia,2014,40.1
+Mauritius,1962,50
+Mauritius,1975,41.9
+Mauritius,1980,45.7
+Mauritius,1986,39.8
+Mauritius,1991,37
+Mauritius,1996,38.7
+Mauritius,2001,37.1
+Mauritius,2006,38.9
+Mauritius,2012,41.3
+Netherlands,1959,31.47
+Netherlands,1970,27.69
+Netherlands,1977,24.84
+Netherlands,1981,25.05
+Netherlands,1985,24.95
+Netherlands,1989,25.9
+Netherlands,1990,27.39
+Netherlands,1991,27.39
+Netherlands,1992,27.17
+Netherlands,1993,27.28
+Netherlands,1994,27.07
+Netherlands,1995,26.86
+Netherlands,1996,27.28
+Netherlands,1997,26.96
+Netherlands,1998,27.17
+Netherlands,1999,27.39
+Netherlands,2000,27.49
+Netherlands,2001,26.5
+Netherlands,2002,26.6
+Netherlands,2003,26.6
+Netherlands,2004,26.9
+Netherlands,2005,26.4
+Netherlands,2006,27.6
+Netherlands,2007,27.6
+Netherlands,2008,27.2
+Netherlands,2009,25.5
+Netherlands,2010,25.8
+Netherlands,2011,25.4
+Netherlands,2012,25.1
+Netherlands,2013,26.2
+Netherlands,2014,26.4
+New Zealand,1982,25.8
+New Zealand,1984,27
+New Zealand,1988,26.2
+New Zealand,1990,30
+New Zealand,1992,31.1
+New Zealand,1994,31.8
+New Zealand,1996,32.5
+New Zealand,1998,32.7
+New Zealand,2001,33.4
+New Zealand,2004,32.9
+New Zealand,2007,32
+New Zealand,2009,32.9
+New Zealand,2010,32.4
+New Zealand,2011,35.1
+New Zealand,2012,32.4
+New Zealand,2013,33.4
+New Zealand,2014,34.2
+Norway,1986,21
+Norway,1987,21
+Norway,1988,21.1
+Norway,1989,22.8
+Norway,1990,21.7
+Norway,1991,21.9
+Norway,1992,22.3
+Norway,1993,22.9
+Norway,1994,24.1
+Norway,1995,23.6
+Norway,1996,24.5
+Norway,1997,24.9
+Norway,1998,23.8
+Norway,1999,24.2
+Norway,2000,26.2
+Norway,2001,22.9
+Norway,2002,26.4
+Norway,2003,27.4
+Norway,2004,28.3
+Norway,2006,24.3
+Norway,2007,25.2
+Norway,2008,24.8
+Norway,2009,24.1
+Norway,2010,24.5
+Norway,2011,24.7
+Norway,2012,24.9
+Norway,2013,25
+Norway,2014,25.6
+Portugal,1993,38.7
+Portugal,1994,37.4
+Portugal,1995,36.1
+Portugal,1996,36.3
+Portugal,1997,36.8
+Portugal,1998,36.3
+Portugal,1999,35.7
+Portugal,2000,36.9
+Portugal,2003,37.8
+Portugal,2004,38.1
+Portugal,2005,37.7
+Portugal,2006,36.8
+Portugal,2007,35.8
+Portugal,2008,35.4
+Portugal,2009,33.7
+Portugal,2010,34.2
+Portugal,2011,34.5
+Portugal,2012,34.2
+Portugal,2013,34.5
+Singapore,2000,41.4
+Singapore,2001,41.9
+Singapore,2002,41.4
+Singapore,2003,42.2
+Singapore,2004,41.9
+Singapore,2005,42.2
+Singapore,2006,41.8
+Singapore,2007,43.9
+Singapore,2008,42.4
+Singapore,2009,42.2
+Singapore,2010,42.5
+Singapore,2011,42.3
+Singapore,2012,43.2
+Singapore,2013,40.9
+Singapore,2014,41.1
+Singapore,2015,41
+South Africa,1975,67
+South Africa,1991,67.01
+South Africa,1993,67
+South Africa,2000,67
+South Africa,2005,72
+South Africa,2006,72
+South Africa,2009,70
+South Africa,2011,69
+Spain,1980,29.22
+Spain,1985,28.86
+Spain,1990,27.75
+Spain,1994,32.44
+Spain,1995,32.44
+Spain,1996,33.39
+Spain,1997,32.44
+Spain,1998,31.49
+Spain,1999,30.53
+Spain,2000,31.49
+Spain,2002,31.49
+Spain,2003,31.49
+Spain,2004,32.7
+Spain,2005,32.4
+Spain,2006,32.4
+Spain,2007,32.4
+Spain,2008,32.9
+Spain,2009,33.5
+Spain,2010,34
+Spain,2011,34.2
+Spain,2012,33.7
+Spain,2013,34.7
+Spain,2014,34.6
+Sweden,1975,23.84
+Sweden,1978,22.52
+Sweden,1980,22.08
+Sweden,1981,21.86
+Sweden,1982,22.3
+Sweden,1983,22.08
+Sweden,1984,23.07
+Sweden,1985,23.18
+Sweden,1986,24.17
+Sweden,1987,22.96
+Sweden,1988,22.96
+Sweden,1989,23.4
+Sweden,1990,23.7
+Sweden,1991,24.9
+Sweden,1992,24.1
+Sweden,1993,24.3
+Sweden,1994,27.1
+Sweden,1995,24.4
+Sweden,1996,25.3
+Sweden,1997,27.7
+Sweden,1998,26.3
+Sweden,1999,28.1
+Sweden,2000,31.3
+Sweden,2001,28.2
+Sweden,2002,28
+Sweden,2003,27.6
+Sweden,2004,28.1
+Sweden,2005,29.6
+Sweden,2006,31.1
+Sweden,2007,33.2
+Sweden,2008,31.4
+Sweden,2009,32
+Sweden,2010,32.5
+Sweden,2011,32.6
+Sweden,2012,32
+Sweden,2013,33
+Switzerland,2006,30.3
+Switzerland,2007,32
+Switzerland,2008,30.2
+Switzerland,2009,29.6
+Switzerland,2010,29.7
+Switzerland,2011,28.8
+Switzerland,2012,28.5
+United Kingdom,1961,26.1
+United Kingdom,1962,24.8
+United Kingdom,1963,27.1
+United Kingdom,1964,26.4
+United Kingdom,1965,25.1
+United Kingdom,1966,26.1
+United Kingdom,1967,25.1
+United Kingdom,1968,25
+United Kingdom,1969,25.7
+United Kingdom,1970,25.9
+United Kingdom,1971,26.6
+United Kingdom,1972,26.9
+United Kingdom,1973,25.9
+United Kingdom,1974,25.1
+United Kingdom,1975,24.3
+United Kingdom,1976,24.3
+United Kingdom,1977,23.9
+United Kingdom,1978,24
+United Kingdom,1979,25.3
+United Kingdom,1980,25.7
+United Kingdom,1981,26.3
+United Kingdom,1982,26.1
+United Kingdom,1983,26.8
+United Kingdom,1984,27
+United Kingdom,1985,28.2
+United Kingdom,1986,29.1
+United Kingdom,1987,30.5
+United Kingdom,1988,32.3
+United Kingdom,1989,32.7
+United Kingdom,1990,33.9
+United Kingdom,1991,34.1
+United Kingdom,1992,34
+United Kingdom,1993,34
+United Kingdom,1994,33.3
+United Kingdom,1995,33.3
+United Kingdom,1996,33.3
+United Kingdom,1997,34.1
+United Kingdom,1998,34.8
+United Kingdom,1999,34.6
+United Kingdom,2000,35.3
+United Kingdom,2001,34.9
+United Kingdom,2002,34.28
+United Kingdom,2003,33.87
+United Kingdom,2004,33.97
+United Kingdom,2005,34.46
+United Kingdom,2006,35.06
+United Kingdom,2007,35.7
+United Kingdom,2008,35.55
+United Kingdom,2009,35.67
+United Kingdom,2010,33.66
+United Kingdom,2011,33.96
+United Kingdom,2012,33.55
+United Kingdom,2013,34.2
+United States,1918,40.26
+United States,1929,48.24
+United States,1936,45.54
+United States,1941,43.12
+United States,1944,39.15
+United States,1945,36.9
+United States,1947,38.61
+United States,1948,38.07
+United States,1949,38.43
+United States,1950,38.7
+United States,1951,37.35
+United States,1952,37.35
+United States,1954,38.52
+United States,1955,37.71
+United States,1956,37.26
+United States,1957,37.53
+United States,1958,37.35
+United States,1959,37.89
+United States,1960,37.98
+United States,1961,38.79
+United States,1962,37.8
+United States,1963,37.53
+United States,1964,37.62
+United States,1965,37.44
+United States,1966,37.08
+United States,1967,37.35
+United States,1968,36.25
+United States,1969,36.45
+United States,1970,36.85
+United States,1971,37.05
+United States,1972,37.35
+United States,1973,37.15
+United States,1974,36.55
+United States,1975,37.05
+United States,1976,37.05
+United States,1977,37.35
+United States,1978,37.45
+United States,1979,37.75
+United States,1980,37.85
+United States,1981,38.45
+United States,1982,39.55
+United States,1983,40.05
+United States,1984,40.05
+United States,1985,40.55
+United States,1986,40.85
+United States,1987,41.05
+United States,1988,41.35
+United States,1989,41.95
+United States,1990,41.75
+United States,1991,41.75
+United States,1992,42.45
+United States,1993,43.6
+United States,1994,43.6
+United States,1995,43.3
+United States,1996,43.7
+United States,1997,44
+United States,1998,43.9
+United States,1999,44.1
+United States,2000,44.2
+United States,2001,44.6
+United States,2002,44.3
+United States,2003,44.5
+United States,2004,44.7
+United States,2005,45
+United States,2006,45.2
+United States,2007,44.4
+United States,2008,45
+United States,2009,45.6
+United States,2010,45.6
+United States,2011,46.3
+United States,2012,46.3
+United States,2013,45.9
+United States,2014,45.6

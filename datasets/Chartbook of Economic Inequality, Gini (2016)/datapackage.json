@@ -1,0 +1,44 @@
+{
+  "name": "Chartbook of Economic Inequality, Gini (2016)",
+  "title": "Chartbook of Economic Inequality, Gini (2016)",
+  "id": 317,
+  "description": "Please note that for some countries the Chartbook includes additional time series for economic inequality.\r\n\r\nThe purpose of the Chartbook is to present consistent time-series for each country over time. Unfortunately there are important cases in which the comparability between countries is limited. The table below lists the definition of the Gini time series for each country and differences in definitions should be taken into account when making cross-country comparisons.\r\n\r\nThe addition of series x behind the definition indicates that there are several Gini time-series available for this country in the Chartbook and they can be found at the country page there.\r\n\r\n \r\n\r\nArgentina Gini coefficient, household equivalised income\r\nAustralia Gini coefficient equivalised disposable household income (*)\r\nBrazil Gini coefficient, household equivalised income\r\nCanada Gini coefficient equivalised disposable household income (*) series 3\r\nFinland Gini coefficient, equivalised disposable household income (*), series 1\r\nFrance Gini coefficient, equivalised household disposable income (*)\r\nGermany Gini coefficient, equivalised household disposable income, (*)\r\nIceland Gini coefficient, equiv dispos household income (*)\r\nIndia Gini coefficient equivalent disposable income, series 2 (*)\r\nIndonesia Gini coefficient, household expenditure data\r\nItaly Gini coefficient, per capita income \r\nJapan Gini coefficient,  equiv dispos household income, series 3 (*)\r\nMalaysia Gini household income, series 2\r\nMauritius Gini coefficient, disposable household income\r\nNetherlands Gini coefficient, equivalised disposable household income (*)\r\nNew Zealand Gini coefficient, equivalised disposable household income (*) series 1\r\nNorway Gini coefficient, equivalised disposable household income (*), series 2\r\nPortugal Gini coefficient, equivalised disposable household income, series 3 (*)\r\nSingapore Gini coefficient among employed households (modified OECD equiv scale), income from work after government benefits and taxes, series 3\r\nSouth Africa Gini coefficient, per capita income\r\nSpain Gini coefficient, equivalised disposable household income, series 2 (*)\r\nSweden Gini coefficient, equivalised household disposable income (*)\r\nSwitzerland Gini coefficient, equivalised household disposable income (*), EU-SILC Series 3\r\nUK Gini coefficient, equivalised household disposable income (*)\r\nUS Gini coefficient, equivalised household gross income",
+  "sources": [
+    {
+      "name": "Chartbook of Economic Inequality (2016)",
+      "dataPublishedBy": "Atkinson, Morelli, and Roser (2016) – Chartbook of Economic Inequality. (www.chartbookofeconomicinequality.com/)",
+      "dataPublisherSource": "All data sources can be found in the Chartbook of Economic Inequality at the page dedicated to the country in question",
+      "link": "http://www.chartbookofeconomicinequality.com/",
+      "retrievedDate": "01/11/2016",
+      "additionalInfo": "Please note that for some countries the Chartbook includes additional time series for economic inequality.\r\n\r\nThe purpose of the Chartbook is to present consistent time-series for each country over time. Unfortunately there are important cases in which the comparability between countries is limited. The table below lists the definition of the Gini time series for each country and differences in definitions should be taken into account when making cross-country comparisons.\r\n\r\nThe addition of series x behind the definition indicates that there are several Gini time-series available for this country in the Chartbook and they can be found at the country page there.\r\n\r\n \r\n\r\nArgentina Gini coefficient, household equivalised income\r\nAustralia Gini coefficient equivalised disposable household income (*)\r\nBrazil Gini coefficient, household equivalised income\r\nCanada Gini coefficient equivalised disposable household income (*) series 3\r\nFinland Gini coefficient, equivalised disposable household income (*), series 1\r\nFrance Gini coefficient, equivalised household disposable income (*)\r\nGermany Gini coefficient, equivalised household disposable income, (*)\r\nIceland Gini coefficient, equiv dispos household income (*)\r\nIndia Gini coefficient equivalent disposable income, series 2 (*)\r\nIndonesia Gini coefficient, household expenditure data\r\nItaly Gini coefficient, per capita income \r\nJapan Gini coefficient,  equiv dispos household income, series 3 (*)\r\nMalaysia Gini household income, series 2\r\nMauritius Gini coefficient, disposable household income\r\nNetherlands Gini coefficient, equivalised disposable household income (*)\r\nNew Zealand Gini coefficient, equivalised disposable household income (*) series 1\r\nNorway Gini coefficient, equivalised disposable household income (*), series 2\r\nPortugal Gini coefficient, equivalised disposable household income, series 3 (*)\r\nSingapore Gini coefficient among employed households (modified OECD equiv scale), income from work after government benefits and taxes, series 3\r\nSouth Africa Gini coefficient, per capita income\r\nSpain Gini coefficient, equivalised disposable household income, series 2 (*)\r\nSweden Gini coefficient, equivalised household disposable income (*)\r\nSwitzerland Gini coefficient, equivalised household disposable income (*), EU-SILC Series 3\r\nUK Gini coefficient, equivalised household disposable income (*)\r\nUS Gini coefficient, equivalised household gross income"
+    }
+  ],
+  "owidTags": [
+    "Income Inequality"
+  ],
+  "resources": [
+    {
+      "path": "Chartbook of Economic Inequality, Gini (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Gini (Chartbook of Economic Inequality (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
