@@ -1,0 +1,42 @@
+{
+  "name": "Population data (Gapminder up to 1949; UN Population Division 1950 to 2015)",
+  "title": "Population data (Gapminder up to 1949; UN Population Division 1950 to 2015)",
+  "id": 1939,
+  "description": "",
+  "sources": [
+    {
+      "name": "Gapminder estimates until 1949; UN Population Division from 1950 to 2015",
+      "dataPublishedBy": "OWID has combined two datasets: Gapminder's population data until 1949; UN Population Division's population estimates from 1950 to 2015",
+      "dataPublisherSource": "Census data",
+      "link": "http://www.gapminder.org/ and https://esa.un.org/unpd/wpp/Download/Standard/Population/ ",
+      "retrievedDate": "6 February 2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "World Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Population data (Gapminder up to 1949; UN Population Division 1950 to 2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total population (Gapminder up to 1949; UN Population Division 1950 to 2015)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
