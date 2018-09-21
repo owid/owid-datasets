@@ -1,0 +1,45 @@
+{
+  "name": "Estimated historical literacy rates - Buringh and Van Zanden (2009)",
+  "title": "Estimated historical literacy rates - Buringh and Van Zanden (2009)",
+  "id": 2703,
+  "description": "See Table 9 (pg 434) for the original estimates.",
+  "sources": [
+    {
+      "name": "Buringh and Van Zanden (2009)",
+      "dataPublishedBy": "Buringh, E. and Van Zanden, J.L., 2009. Charting the “Rise of the West”: Manuscripts and Printed Books in Europe, a long-term Perspective from the Sixth through Eighteenth Centuries. The Journal of Economic History, 69(2), pp.409-445.",
+      "dataPublisherSource": "Historical data",
+      "link": "https://goo.gl/5qGho2",
+      "retrievedDate": "26/03/2018",
+      "additionalInfo": "See Table 9 (pg 434) for the original estimates."
+    }
+  ],
+  "owidTags": [
+    "Literacy"
+  ],
+  "resources": [
+    {
+      "path": "Estimated historical literacy rates - Buringh and Van Zanden (2009).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Estimated literacy rates (Buringh and Van Zanden (2009))",
+            "type": "any",
+            "description": "Estimate of the proportion of people who are literate. The year 1451 refers to the period 1451-1500, while years 1501, 1601, and 1701 represent the century.",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
