@@ -1,0 +1,52 @@
+{
+  "name": "Health Expenditure UK 1950-2012 - Office of Health Economics (2012)",
+  "title": "Health Expenditure UK 1950-2012 - Office of Health Economics (2012)",
+  "id": 199,
+  "description": "",
+  "sources": [
+    {
+      "name": "Office of Health Economics (2012)",
+      "dataPublishedBy": "Office of Health Economics",
+      "dataPublisherSource": "Official Statistics (see sources in OHE Guide to UK Health and Health Care Statistics)",
+      "link": "https://www.ohe.org/publications/ohe-guide-uk-health-and-health-care-statistics",
+      "retrievedDate": "31/03/2016",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Health Insurance & Spending"
+  ],
+  "resources": [
+    {
+      "path": "Health Expenditure UK 1950-2012 - Office of Health Economics (2012).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "NHS Expenditure %GDP 1950-2012 (Office of Health Economics (2012))",
+            "type": "any",
+            "description": "NHS expenditure as percent of GDP",
+            "owidDisplaySettings": {
+              "unit": "per 1,000 (in the entire population)"
+            }
+          },
+          {
+            "name": "NHS Expenditure per capita (Office of Health Economics (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "per 1,000"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
