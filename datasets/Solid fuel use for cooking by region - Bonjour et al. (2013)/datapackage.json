@@ -1,0 +1,42 @@
+{
+  "name": "Solid fuel use for cooking by region - Bonjour et al. (2013)",
+  "title": "Solid fuel use for cooking by region - Bonjour et al. (2013)",
+  "id": 990,
+  "description": "\n\t95% Confidence Intervals for the years 1990, 2000, and 2010 are given in the Supplemental Material, Table S3. To give one example: The world’s households primarily relying on solid fuels for cooking declined from 62% to 41% between 1980 and 2010. The 95% confidence interval for 1980 is from 58% to 66% and for 2010 from 37% to 44%.\n\nCountries are grouped by WHO region and income category (WHO 2012e; see Supplemental Material, Table S2).\n\n",
+  "sources": [
+    {
+      "name": "Solid fuel use for cooking by region - Bonjour et al. (2013)",
+      "dataPublishedBy": "Bonjour et al. (2013) – Solid Fuel Use for Household Cooking: Country and Regional Estimates for 1980–2010. Environmental Health Perspectives.",
+      "dataPublisherSource": null,
+      "link": "https://ehp.niehs.nih.gov/1205987/",
+      "retrievedDate": "2017-11-01",
+      "additionalInfo": "\n\t95% Confidence Intervals for the years 1990, 2000, and 2010 are given in the Supplemental Material, Table S3. To give one example: The world’s households primarily relying on solid fuels for cooking declined from 62% to 41% between 1980 and 2010. The 95% confidence interval for 1980 is from 58% to 66% and for 2010 from 37% to 44%.\n\nCountries are grouped by WHO region and income category (WHO 2012e; see Supplemental Material, Table S2).\n\n"
+    }
+  ],
+  "owidTags": [
+    "Indoor Air Pollution"
+  ],
+  "resources": [
+    {
+      "path": "Solid fuel use for cooking by region - Bonjour et al. (2013).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Households using solid fuels as the main cooking fuel",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
