@@ -1,0 +1,42 @@
+{
+  "name": "Population growth 1992-2015 (listed 2017) (UN Population Division 2015)",
+  "title": "Population growth 1992-2015 (listed 2017) (UN Population Division 2015)",
+  "id": 2474,
+  "description": "",
+  "sources": [
+    {
+      "name": "UN Population Division (2015)",
+      "dataPublishedBy": "UN Population Division",
+      "dataPublisherSource": "Census Data",
+      "link": "https://esa.un.org/unpd/wpp/Download/Standard/Population/",
+      "retrievedDate": null,
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "World Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Population growth 1992-2015 (listed 2017) (UN Population Division 2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Population growth 1992-2015 (UN Population Division)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
