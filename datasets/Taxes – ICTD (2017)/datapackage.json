@@ -1,0 +1,72 @@
+{
+  "name": "Taxes – ICTD (2017)",
+  "title": "Taxes – ICTD (2017)",
+  "id": 301,
+  "description": "This data comes from the 'merged' dataset provided by ICTD, after excluding observations flagged as unreliable. Specifically, we excluded the observations where the ICTD indicated concerns about their quality, accuracy or comparability. Details regarding these flags, as well as the dataset more generally, are available Prichard, W. (2016). Reassessing Tax and Development Research: A New Dataset, New Findings, and Lessons for Research. World Development, 80, 48-60.\n\nThe November 2017 version of the ICTD dataset differs from the previous release because of minor revisions to metadata, corrections made to 'Total Revenue' figures for Tunisia, and the addition of a GDP series to the 'merged' file. Revisions made in the <a href=\"https://www.wider.unu.edu/sites/default/files/Data/2017-GRD-Updates.pdf\">July 2017 update</a> are outlined in the linked supporting documentation. \n\nFor more details on the Government Revenue Dataset see its <a href=\"https://www.wider.unu.edu/about-grd\">update history</a>. ",
+  "sources": [
+    {
+      "name": "ICTD - Government Revenue Dataset, November 2017",
+      "dataPublishedBy": "International Centre for Tax and Development / UNU-WIDER",
+      "dataPublisherSource": "OECD Revenue Statistics; OECD Latin American Tax Statistics; IMF Government Finance Statistics (GFS); IMF Article IV Staff Reports; CEPALSTAT Revenue Statistics in Latin America.",
+      "link": "https://www.wider.unu.edu/project/government-revenue-dataset",
+      "retrievedDate": "17/07/2018",
+      "additionalInfo": "This data comes from the 'merged' dataset provided by ICTD, after excluding observations flagged as unreliable. Specifically, we excluded the observations where the ICTD indicated concerns about their quality, accuracy or comparability. Details regarding these flags, as well as the dataset more generally, are available Prichard, W. (2016). Reassessing Tax and Development Research: A New Dataset, New Findings, and Lessons for Research. World Development, 80, 48-60.\n\nThe November 2017 version of the ICTD dataset differs from the previous release because of minor revisions to metadata, corrections made to 'Total Revenue' figures for Tunisia, and the addition of a GDP series to the 'merged' file. Revisions made in the <a href=\"https://www.wider.unu.edu/sites/default/files/Data/2017-GRD-Updates.pdf\">July 2017 update</a> are outlined in the linked supporting documentation. \n\nFor more details on the Government Revenue Dataset see its <a href=\"https://www.wider.unu.edu/about-grd\">update history</a>. "
+    }
+  ],
+  "owidTags": [
+    "Government Revenue"
+  ],
+  "resources": [
+    {
+      "path": "Taxes – ICTD (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total tax revenue (% of GDP) (ICTD (2017))",
+            "type": "any",
+            "description": "Total tax revenue, including social contributions as a share of national GDP.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total taxes on goods and services (% of GDP) (ICTD (2017))",
+            "type": "any",
+            "description": "Total taxes on goods and services, which includes (but is not necessarily always equal to) sales taxes and excise taxes as a share of national GDP.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total taxes on income, profits, and capital gains (% of GDP) (ICTD (2017))",
+            "type": "any",
+            "description": "Total taxes on income, profits, and capital gains, including taxes on natural resource firms as a share of national GDP. This figure is always exclusive of social contributions.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total taxes on payroll and workforce (% of GDP) (ICTD (2017))",
+            "type": "any",
+            "description": "Total taxes on payroll and workforce as a share of national GDP. This variable is entirely distinct from social contributions, though in underlying sources social contributions are very occasionally reported as payroll taxes.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Other taxes (% of GDP) (ICTD (2017))",
+            "type": "any",
+            "description": "Total other taxes, not recorded in other tax categories, as a share of national GDP.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Social contributions (% of GDP) (ICTD (2017))",
+            "type": "any",
+            "description": "Total social contributions as a share of national GDP.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
