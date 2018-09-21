@@ -1,0 +1,17 @@
+Entity,Year,Muscle (Gales et al. (2007)),Firewood (Gales et al. (2007)),"Wind, water (Gales et al. (2007))",Fossil fuels (Gales et al. (2007)),Primary electricity (Gales et al. (2007))
+Italy,1861,41,51,1,7,
+Italy,1900,39,34,1,26,0.1
+Italy,1950,27,17,0,47,9
+Italy,2000,4,2,,88,6
+Netherlands,1850,28,13,12,47,
+Netherlands,1900,15,2,3,80,0
+Netherlands,1950,9,0,0,91,0
+Netherlands,2000,2,0,,88,10
+Spain,1850,50,46,2,2,
+Spain,1900,31,26,5,38,0
+Spain,1950,27,12,0,59,2
+Spain,2000,5,0,,88,7
+Sweden,1850,25,72,1,2,
+Sweden,1900,17,44,1,38,0.1
+Sweden,1950,6,20,1,63,9
+Sweden,2000,2,23,,40,33
