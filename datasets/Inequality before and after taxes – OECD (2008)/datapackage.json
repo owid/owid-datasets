@@ -1,0 +1,42 @@
+{
+  "name": "Inequality before and after taxes – OECD (2008)",
+  "title": "Inequality before and after taxes – OECD (2008)",
+  "id": 304,
+  "description": "Inequality before and after taxes measured with the Gini index. ",
+  "sources": [
+    {
+      "name": "OECD (2008)",
+      "dataPublishedBy": "OECD. (2008). Growing unequal?: Income distribution and poverty in OECD countries.",
+      "dataPublisherSource": "OECD Income distribution questionnaire.",
+      "link": "http://www.oecd.org/els/soc/growingunequalincomedistributionandpovertyinoecdcountries.htm",
+      "retrievedDate": "26/09/2016",
+      "additionalInfo": "Inequality before and after taxes measured with the Gini index. "
+    }
+  ],
+  "owidTags": [
+    "Income Inequality"
+  ],
+  "resources": [
+    {
+      "path": "Inequality before and after taxes – OECD (2008).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Percentage reduction in Gini (OECD (2008))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
