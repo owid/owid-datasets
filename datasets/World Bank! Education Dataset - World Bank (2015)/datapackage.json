@@ -1,0 +1,59 @@
+{
+  "name": "World Bank: Education Dataset - World Bank (2015)",
+  "title": "World Bank: Education Dataset - World Bank (2015)",
+  "id": 92,
+  "description": "Educational attainment, enrolment and expenditure data",
+  "sources": [
+    {
+      "name": "World Bank: Education (2) - World Bank (2015)",
+      "dataPublishedBy": "World Bank EdStats",
+      "dataPublisherSource": "UNESCO Institute for Statistics",
+      "link": "http://data.worldbank.org/",
+      "retrievedDate": "28/06/2015",
+      "additionalInfo": "Educational attainment, enrolment and expenditure data"
+    }
+  ],
+  "owidTags": [
+    "Quality of Education & Drop-Out Rates"
+  ],
+  "resources": [
+    {
+      "path": "World Bank: Education Dataset - World Bank (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total government expenditure on education (World Bank (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of education in government expenditure (World Bank (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "million tonnes",
+              "shortUnit": "m tonnes"
+            }
+          },
+          {
+            "name": "Expenditure on primary as % of government expenditure on education (World Bank (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "million tonnes"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
