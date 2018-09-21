@@ -1,0 +1,108 @@
+{
+  "name": "Air pollution sources in the UK - DEFRA",
+  "title": "Air pollution sources in the UK - DEFRA",
+  "id": 2496,
+  "description": "Data refers to the national total emissions of specific air pollutants by source, as reported by DEFRA. 'Small non-road mobile sources & machinery' refers to mobile machinery and sources such as residential, commercial, agricultural and fishery machinery.",
+  "sources": [
+    {
+      "name": "Air pollution sources in the UK - DEFRA",
+      "dataPublishedBy": "UK Department for Environment, Food & Rural Affairs (DEFRA)",
+      "dataPublisherSource": null,
+      "link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/681445/Emissions_of_air_pollutants_statistical_release_FINALv4.pdf",
+      "retrievedDate": null,
+      "additionalInfo": "Data refers to the national total emissions of specific air pollutants by source, as reported by DEFRA. 'Small non-road mobile sources & machinery' refers to mobile machinery and sources such as residential, commercial, agricultural and fishery machinery."
+    }
+  ],
+  "owidTags": [
+    "Air Pollution"
+  ],
+  "resources": [
+    {
+      "path": "Air pollution sources in the UK - DEFRA.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Energy production",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Manufacturing industry & construction",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Road transport",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Non-road transport",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Small non-road mobile sources & machinery",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Military aircraft and naval shipping",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fugitive emissions",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Industrial processes",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Agriculture",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Waste",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Other",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
