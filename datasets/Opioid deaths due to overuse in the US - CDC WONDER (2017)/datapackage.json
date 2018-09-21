@@ -1,0 +1,102 @@
+{
+  "name": "Opioid deaths due to overuse in the US - CDC WONDER (2017)",
+  "title": "Opioid deaths due to overuse in the US - CDC WONDER (2017)",
+  "id": 852,
+  "description": "The total number of deaths as cited by the National Institute of Drug Abuse (2017) were divided by the US national population figures as cited on the US Census website and subsequently multiplied by 100,000.",
+  "sources": [
+    {
+      "name": "CDC WONDER (2017)",
+      "dataPublishedBy": "National Institute of Drug Abuse (2017)",
+      "dataPublisherSource": "Centers for Disease Control and Prevention (2017)",
+      "link": "https://www.drugabuse.gov/related-topics/trends-statistics/overdose-death-rates",
+      "retrievedDate": "04/09/2017",
+      "additionalInfo": "The total number of deaths as cited by the National Institute of Drug Abuse (2017) were divided by the US national population figures as cited on the US Census website and subsequently multiplied by 100,000."
+    }
+  ],
+  "owidTags": [
+    "Marijuana & Other Drugs"
+  ],
+  "resources": [
+    {
+      "path": "Opioid deaths due to overuse in the US - CDC WONDER (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total Overdose Deaths (CDC WONDER (2017))",
+            "type": "any",
+            "description": "Deaths per 100,000 people of total overdose deaths.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prescription Drugs (CDC WONDER (2017))",
+            "type": "any",
+            "description": "Deaths per 100,000 people attributed to prescription drugs.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Opioid Pain Relievers (CDC WONDER (2017))",
+            "type": "any",
+            "description": "Deaths per 100,000 people attributed to opioid pain relievers.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Benzodiazepines (CDC WONDER (2017))",
+            "type": "any",
+            "description": "Deaths per 100,000 people attributed to benzodiazepines.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Illicit Drugs (CDC WONDER (2017))",
+            "type": "any",
+            "description": "Deaths per 100,000 people attributed to illicit drugs.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cocaine (CDC WONDER (2017))",
+            "type": "any",
+            "description": "Death per rate of 100,000 people attributed to cocaine use.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Heroin (CDC WONDER (2017))",
+            "type": "any",
+            "description": "Death per rate of 100,000 people attributed to heroin use.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Any Opioids (CDC WONDER (2017))",
+            "type": "any",
+            "description": "Deaths per 100,000 people attributed to any opioids.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Opioid Pain Relievers other than synthetic opioids (CDC WONDER (2017))",
+            "type": "any",
+            "description": "Deaths per 100,000 people attributed to opioid pain relievers other than synthetic opioids. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Synthetic Opioids other than Methadone (CDC WONDER (2017))",
+            "type": "any",
+            "description": "Deaths per 100,000 people attributed to synthetic opioids other than methadone.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Illicit Opioids (Heroin and Synthetic Opioids other than Methadone) (CDC WONDER (2017))",
+            "type": "any",
+            "description": "Deaths per 100,000 people attributed to illicit opioids (heroin and synthetic opioids other than methadone). ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
