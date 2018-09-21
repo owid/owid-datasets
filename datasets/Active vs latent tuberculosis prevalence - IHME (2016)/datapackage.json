@@ -1,0 +1,54 @@
+{
+  "name": "Active vs latent tuberculosis prevalence - IHME (2016)",
+  "title": "Active vs latent tuberculosis prevalence - IHME (2016)",
+  "id": 2856,
+  "description": "",
+  "sources": [
+    {
+      "name": "Institute for Health Metrics and Evaluation (2016)",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2016 (GBD 2016) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2017.",
+      "dataPublisherSource": null,
+      "link": "http://ghdx.healthdata.org/gbd-results-tool",
+      "retrievedDate": "28 July 2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Tuberculosis"
+  ],
+  "resources": [
+    {
+      "path": "Active vs latent tuberculosis prevalence - IHME (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Prevalence of latent tuberculosis (IHME 2016)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prevalence of active and latent tuberculosis (IHME 2016)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prevalence of active tuberculosis (IHME 2016)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
