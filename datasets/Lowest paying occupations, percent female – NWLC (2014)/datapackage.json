@@ -1,0 +1,42 @@
+{
+  "name": "Lowest paying occupations, percent female – NWLC (2014)",
+  "title": "Lowest paying occupations, percent female – NWLC (2014)",
+  "id": 1003,
+  "description": "",
+  "sources": [
+    {
+      "name": "National Women's Law Center (2014)",
+      "dataPublishedBy": "National Women's Law Center",
+      "dataPublisherSource": "BLS, Occupational Employment Statistics, 2013 and Current Population Survey, 2013",
+      "link": "https://www.nwlc.org/wp-content/uploads/2015/08/women_are_76_percent_of_workers_in_the_10_largest_low-wage_jobs_and_suffer_a_10_percent_wage_gap_april_2014.pdf",
+      "retrievedDate": "01/11/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Income Inequality"
+  ],
+  "resources": [
+    {
+      "path": "Lowest paying occupations, percent female – NWLC (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Percent women (NWLC (2014))",
+            "type": "any",
+            "description": "Percent women in low-wage occupations in the US. Low-wage occupations are defined here as typically paying less than $10.10 per hour.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
