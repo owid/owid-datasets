@@ -1,0 +1,48 @@
+{
+  "name": "Teacher Absenteeism - Bold et al. (2017)",
+  "title": "Teacher Absenteeism - Bold et al. (2017)",
+  "id": 1846,
+  "description": "The data comes from Table 2 in the source paper with the following note: \" The table reports the absence rate for all teachers, the scheduled teaching time, actual teaching time and number of orphaned classrooms for all government\nschools. Teachers are marked as absent from school if during the second unannounced visit, they are not found anywhere on the school premises. Otherwise, they are marked as present. Teachers are marked as absent from class if during the second unannounced visit, they are absent from school or present at school but absent from the classroom. Otherwise, they are marked as present. The scheduled teaching time is the length of the school day minus break time. Time spent teaching adjusts the length of the school day by the share of teachers who are present in the classroom, on average, and the time the teacher spends teaching while in the classroom. The orphaned classrooms measure is the ratio of the classrooms with students but no teacher to the number of classrooms with students with or without a teacher. All individual country statistics are calculated using country-specific sampling weights. The average for all countries is taken by averaging over the country columns. Hence, each country is given equal weight. Further details on the construction of the variables and sampling weights are available in an Appendix available from the authors upon request. ",
+  "sources": [
+    {
+      "name": "Bold et al. (2017)",
+      "dataPublishedBy": "Bold, T., Filmer, D., Martin, G., Molina, E., Rockmore, C., Stacy, B., ... & Wane, W. (2017). What Do Teachers Know and Do? Does It Matter?. Policy Research Working Paper 7956, World Bank.",
+      "dataPublisherSource": "Data derived from direct observations, unannounced visits, and tests, from primary schools in seven Sub-Saharan African countries",
+      "link": "http://documents.worldbank.org/curated/en/882091485440895147/pdf/WPS7956.pdf",
+      "retrievedDate": "29/11/17",
+      "additionalInfo": "The data comes from Table 2 in the source paper with the following note: \" The table reports the absence rate for all teachers, the scheduled teaching time, actual teaching time and number of orphaned classrooms for all government\nschools. Teachers are marked as absent from school if during the second unannounced visit, they are not found anywhere on the school premises. Otherwise, they are marked as present. Teachers are marked as absent from class if during the second unannounced visit, they are absent from school or present at school but absent from the classroom. Otherwise, they are marked as present. The scheduled teaching time is the length of the school day minus break time. Time spent teaching adjusts the length of the school day by the share of teachers who are present in the classroom, on average, and the time the teacher spends teaching while in the classroom. The orphaned classrooms measure is the ratio of the classrooms with students but no teacher to the number of classrooms with students with or without a teacher. All individual country statistics are calculated using country-specific sampling weights. The average for all countries is taken by averaging over the country columns. Hence, each country is given equal weight. Further details on the construction of the variables and sampling weights are available in an Appendix available from the authors upon request. "
+    }
+  ],
+  "owidTags": [
+    "Teachers & Professors"
+  ],
+  "resources": [
+    {
+      "path": "Teacher Absenteeism - Bold et al. (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Percentage of teachers absent from class",
+            "type": "any",
+            "description": "Teachers are marked as absent from class if during an unannounced visit, they are absent from school or present at school but absent from the classroom. Otherwise, they are marked as present. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percentage of teachers absent from school",
+            "type": "any",
+            "description": "Teachers are marked as absent from school if during an unannounced visit, they are not found anywhere on the school premises. Otherwise, they are marked as present. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
