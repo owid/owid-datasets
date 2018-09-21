@@ -1,0 +1,48 @@
+{
+  "name": "Global Smallpox Cases",
+  "title": "Global Smallpox Cases",
+  "id": 1834,
+  "description": "Because smallpox was eradicated in 1977, there were no new cases since 2010 so we extended the time series until 2016. ",
+  "sources": [
+    {
+      "name": "World Health Organization (2011)",
+      "dataPublishedBy": "Earth Policy Institute",
+      "dataPublisherSource": "World Health Organization",
+      "link": "http://www.earth-policy.org/data_highlights/2011/highlights19",
+      "retrievedDate": "22 November 2017",
+      "additionalInfo": "Because smallpox was eradicated in 1977, there were no new cases since 2010 so we extended the time series until 2016. "
+    }
+  ],
+  "owidTags": [
+    "Eradication of Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Global Smallpox Cases.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Global Smallpox Cases (WHO, 2011)",
+            "type": "any",
+            "description": "The reported number of smallpox cases globally",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Reported Smallpox Cases (WHO, 2011)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
