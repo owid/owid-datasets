@@ -1,0 +1,1473 @@
+Entity,Year,CO2 from cement (CDIAC (2017))
+Africa,1884,0
+Africa,1885,0
+Africa,1886,0
+Africa,1887,0
+Africa,1888,0
+Africa,1889,0
+Africa,1890,0
+Africa,1891,0
+Africa,1892,0
+Africa,1893,0
+Africa,1894,0
+Africa,1895,0
+Africa,1896,0
+Africa,1897,0
+Africa,1898,0
+Africa,1899,0
+Africa,1900,0
+Africa,1901,0
+Africa,1902,0
+Africa,1903,0
+Africa,1904,0
+Africa,1905,0
+Africa,1906,0
+Africa,1907,0
+Africa,1908,0
+Africa,1909,0
+Africa,1910,0
+Africa,1911,0
+Africa,1912,0
+Africa,1913,0
+Africa,1914,0
+Africa,1915,0
+Africa,1916,0
+Africa,1917,0
+Africa,1918,0
+Africa,1919,0
+Africa,1920,0
+Africa,1921,0
+Africa,1922,0
+Africa,1923,0
+Africa,1924,0
+Africa,1925,0
+Africa,1926,0
+Africa,1927,0
+Africa,1928,0.12845
+Africa,1929,0.37067
+Africa,1930,0.26424
+Africa,1931,0.26424
+Africa,1932,0.43673
+Africa,1933,0.46976
+Africa,1934,0.53949
+Africa,1935,0.61656
+Africa,1936,0.6973
+Africa,1937,0.734
+Africa,1938,0.75602
+Africa,1939,0.74134
+Africa,1940,0.65693
+Africa,1941,0.72666
+Africa,1942,0.77804
+Africa,1943,0.81474
+Africa,1944,0.97989
+Africa,1945,0.94686
+Africa,1946,1.15605
+Africa,1947,1.29551
+Africa,1948,1.43864
+Africa,1949,1.56709
+Africa,1950,2.06254
+Africa,1951,2.31577
+Africa,1952,2.38917
+Africa,1953,2.69011
+Africa,1954,3.10849
+Africa,1955,3.50485
+Africa,1956,3.62229
+Africa,1957,3.79111
+Africa,1958,4.02599
+Africa,1959,4.22784
+Africa,1960,4.4407
+Africa,1961,4.34161
+Africa,1962,4.50309
+Africa,1963,4.8444
+Africa,1964,5.36921
+Africa,1965,5.74722
+Africa,1966,5.95274
+Africa,1967,6.15092
+Africa,1968,7.11246
+Africa,1969,8.18777
+Africa,1970,8.89241
+Africa,1971,9.59338
+Africa,1972,10.16957
+Africa,1973,10.77879
+Africa,1974,11.25222
+Africa,1975,11.08707
+Africa,1976,11.4137
+Africa,1977,12.23945
+Africa,1978,12.98813
+Africa,1979,13.98637
+Africa,1980,15.91312
+Africa,1981,17.30038
+Africa,1982,18.48212
+Africa,1983,20.13362
+Africa,1984,20.919
+Africa,1985,20.81257
+Africa,1986,19.95012
+Africa,1987,21.7264
+Africa,1988,23.59076
+Africa,1989,24.63304
+Africa,1990,25.00004
+Africa,1991,26.80568
+Africa,1992,27.50298
+Africa,1993,27.30847
+Africa,1994,28.76179
+Africa,1995,30.7546
+Africa,1996,31.52163
+Africa,1997,32.57492
+Africa,1998,33.36764
+Africa,1999,34.37689
+Africa,2000,36.17886
+Africa,2001,38.33682
+Africa,2002,40.69663
+Africa,2003,41.02326
+Africa,2004,45.22174
+Africa,2005,49.48995
+Africa,2006,55.21882
+Africa,2007,60.55133
+Africa,2008,65.52785
+Africa,2009,70.43831
+Africa,2010,71.55399
+Africa,2011,72.06779
+Africa,2012,82.208
+Africa,2013,81.81531
+Asia,1858,0
+Asia,1859,0
+Asia,1860,0
+Asia,1861,0
+Asia,1862,0
+Asia,1863,0
+Asia,1864,0
+Asia,1865,0
+Asia,1866,0
+Asia,1867,0
+Asia,1868,0
+Asia,1869,0
+Asia,1870,0
+Asia,1871,0
+Asia,1872,0
+Asia,1873,0
+Asia,1874,0
+Asia,1875,0
+Asia,1876,0
+Asia,1877,0
+Asia,1878,0
+Asia,1879,0
+Asia,1880,0
+Asia,1881,0
+Asia,1882,0
+Asia,1883,0
+Asia,1884,0
+Asia,1885,0
+Asia,1886,0
+Asia,1887,0
+Asia,1888,0
+Asia,1889,0
+Asia,1890,0
+Asia,1891,0
+Asia,1892,0
+Asia,1893,0
+Asia,1894,0
+Asia,1895,0
+Asia,1896,0
+Asia,1897,0
+Asia,1898,0
+Asia,1899,0
+Asia,1900,0
+Asia,1901,0
+Asia,1902,0
+Asia,1903,0
+Asia,1904,0
+Asia,1905,0
+Asia,1906,0
+Asia,1907,0
+Asia,1908,0
+Asia,1909,0
+Asia,1910,0
+Asia,1911,0
+Asia,1912,0
+Asia,1913,0
+Asia,1914,0
+Asia,1915,0
+Asia,1916,0
+Asia,1917,0.44407
+Asia,1918,0.57986
+Asia,1919,0.57986
+Asia,1920,0.63124
+Asia,1921,0.60188
+Asia,1922,0.60922
+Asia,1923,0.68629
+Asia,1924,0.83676
+Asia,1925,1.23679
+Asia,1926,1.3212
+Asia,1927,0.32296
+Asia,1928,0.60922
+Asia,1929,0.52481
+Asia,1930,2.202
+Asia,1931,2.09557
+Asia,1932,2.08823
+Asia,1933,1.75793
+Asia,1934,1.19642
+Asia,1935,1.2111
+Asia,1936,1.25514
+Asia,1937,1.36891
+Asia,1938,1.92675
+Asia,1939,2.44422
+Asia,1940,3.3397
+Asia,1941,4.35262
+Asia,1942,5.20039
+Asia,1943,6.1289
+Asia,1944,6.16193
+Asia,1945,7.45377
+Asia,1946,8.41898
+Asia,1947,10.57327
+Asia,1948,12.98813
+Asia,1949,14.54054
+Asia,1950,12.57342
+Asia,1951,13.36247
+Asia,1952,15.09471
+Asia,1953,16.2581
+Asia,1954,17.70041
+Asia,1955,18.79407
+Asia,1956,18.69498
+Asia,1957,21.02543
+Asia,1958,23.43295
+Asia,1959,24.72846
+Asia,1960,33.66491
+Asia,1961,34.85032
+Asia,1962,37.92211
+Asia,1963,38.34783
+Asia,1964,43.80512
+Asia,1965,57.57496
+Asia,1966,63.7112
+Asia,1967,70.75393
+Asia,1968,76.40206
+Asia,1969,80.95286
+Asia,1970,85.99911
+Asia,1971,93.77584
+Asia,1972,106.23549
+Asia,1973,114.19939
+Asia,1974,127.02971
+Asia,1975,143.55939
+Asia,1976,157.08701
+Asia,1977,176.99309
+Asia,1978,184.64504
+Asia,1979,193.01631
+Asia,1980,218.97055
+Asia,1981,256.02287
+Asia,1982,295.32123
+Asia,1983,329.51095
+Asia,1984,366.27334
+Asia,1985,387.04187
+Asia,1986,398.4886
+Asia,1987,391.50092
+Asia,1988,415.7009
+Asia,1989,436.06206
+Asia,1990,478.85426
+Asia,1991,526.76978
+Asia,1992,606.19592
+Asia,1993,663.69014
+Asia,1994,725.26173
+Asia,1995,820.53493
+Asia,1996,891.06132
+Asia,1997,923.61422
+Asia,1998,1060.34374
+Asia,1999,1163.99922
+Asia,2000,1323.49008
+Asia,2001,1394.57431
+Asia,2002,1508.60855
+Europe,1751,0
+Europe,1752,0
+Europe,1753,0
+Europe,1754,0
+Europe,1755,0
+Europe,1756,0
+Europe,1757,0
+Europe,1758,0
+Europe,1759,0
+Europe,1760,0
+Europe,1761,0
+Europe,1762,0
+Europe,1763,0
+Europe,1764,0
+Europe,1765,0
+Europe,1766,0
+Europe,1767,0
+Europe,1768,0
+Europe,1769,0
+Europe,1770,0
+Europe,1771,0
+Europe,1772,0
+Europe,1773,0
+Europe,1774,0
+Europe,1775,0
+Europe,1776,0
+Europe,1777,0
+Europe,1778,0
+Europe,1779,0
+Europe,1780,0
+Europe,1781,0
+Europe,1782,0
+Europe,1783,0
+Europe,1784,0
+Europe,1785,0
+Europe,1786,0
+Europe,1787,0
+Europe,1788,0
+Europe,1789,0
+Europe,1790,0
+Europe,1791,0
+Europe,1792,0
+Europe,1793,0
+Europe,1794,0
+Europe,1795,0
+Europe,1796,0
+Europe,1797,0
+Europe,1798,0
+Europe,1799,0
+Europe,1800,0
+Europe,1801,0
+Europe,1802,0
+Europe,1803,0
+Europe,1804,0
+Europe,1805,0
+Europe,1806,0
+Europe,1807,0
+Europe,1808,0
+Europe,1809,0
+Europe,1810,0
+Europe,1811,0
+Europe,1812,0
+Europe,1813,0
+Europe,1814,0
+Europe,1815,0
+Europe,1816,0
+Europe,1817,0
+Europe,1818,0
+Europe,1819,0
+Europe,1820,0
+Europe,1821,0
+Europe,1822,0
+Europe,1823,0
+Europe,1824,0
+Europe,1825,0
+Europe,1826,0
+Europe,1827,0
+Europe,1828,0
+Europe,1829,0
+Europe,1830,0
+Europe,1831,0
+Europe,1832,0
+Europe,1833,0
+Europe,1834,0
+Europe,1835,0
+Europe,1836,0
+Europe,1837,0
+Europe,1838,0
+Europe,1839,0
+Europe,1840,0
+Europe,1841,0
+Europe,1842,0
+Europe,1843,0
+Europe,1844,0
+Europe,1845,0
+Europe,1846,0
+Europe,1847,0
+Europe,1848,0
+Europe,1849,0
+Europe,1850,0
+Europe,1851,0
+Europe,1852,0
+Europe,1853,0
+Europe,1854,0
+Europe,1855,0
+Europe,1856,0
+Europe,1857,0
+Europe,1858,0
+Europe,1859,0
+Europe,1860,0
+Europe,1861,0
+Europe,1862,0
+Europe,1863,0
+Europe,1864,0
+Europe,1865,0
+Europe,1866,0
+Europe,1867,0
+Europe,1868,0
+Europe,1869,0
+Europe,1870,0
+Europe,1871,0
+Europe,1872,0
+Europe,1873,0
+Europe,1874,0
+Europe,1875,0
+Europe,1876,0
+Europe,1877,0
+Europe,1878,0
+Europe,1879,0
+Europe,1880,0
+Europe,1881,0
+Europe,1882,0
+Europe,1883,0
+Europe,1884,0
+Europe,1885,0
+Europe,1886,0
+Europe,1887,0
+Europe,1888,0
+Europe,1889,0
+Europe,1890,0
+Europe,1891,0
+Europe,1892,0
+Europe,1893,0
+Europe,1894,0
+Europe,1895,0
+Europe,1896,0
+Europe,1897,0
+Europe,1898,0
+Europe,1899,0
+Europe,1900,0
+Europe,1901,0
+Europe,1902,0
+Europe,1903,0
+Europe,1904,0
+Europe,1905,0
+Europe,1906,0
+Europe,1907,0
+Europe,1908,0
+Europe,1909,0
+Europe,1910,0
+Europe,1911,0
+Europe,1912,0
+Europe,1913,0
+Europe,1914,0
+Europe,1915,0
+Europe,1916,0
+Europe,1917,0
+Europe,1918,0
+Europe,1919,0
+Europe,1920,0
+Europe,1921,0
+Europe,1922,0
+Europe,1923,0
+Europe,1924,0
+Europe,1925,0
+Europe,1926,0
+Europe,1927,0
+Europe,1928,15.93514
+Europe,1929,17.11321
+Europe,1930,16.38288
+Europe,1931,15.14242
+Europe,1932,13.43587
+Europe,1933,13.23402
+Europe,1934,16.1847
+Europe,1935,18.49313
+Europe,1936,20.9557
+Europe,1937,21.90623
+Europe,1938,22.83841
+Europe,1939,17.38846
+Europe,1940,13.58634
+Europe,1941,19.09134
+Europe,1942,13.06887
+Europe,1943,14.33502
+Europe,1944,6.78216
+Europe,1945,7.46478
+Europe,1946,13.97903
+Europe,1947,17.53526
+Europe,1948,23.20908
+Europe,1949,27.30847
+Europe,1950,32.48317
+Europe,1951,36.60458
+Europe,1952,39.7828
+Europe,1953,44.53912
+Europe,1954,48.24582
+Europe,1955,54.39307
+Europe,1956,57.5456
+Europe,1957,60.97705
+Europe,1958,64.5186
+Europe,1959,73.07337
+Europe,1960,80.63357
+Europe,1961,88.59013
+Europe,1962,95.48606
+Europe,1963,100.57635
+Europe,1964,112.34604
+Europe,1965,117.94646
+Europe,1966,126.05716
+Europe,1967,132.2668
+Europe,1968,139.22879
+Europe,1969,145.04574
+Europe,1970,152.85917
+Europe,1971,159.37709
+Europe,1972,167.88048
+Europe,1973,176.15266
+Europe,1974,177.56194
+Europe,1975,178.18584
+Europe,1976,183.91471
+Europe,1977,189.04537
+Europe,1978,192.91722
+Europe,1979,191.54097
+Europe,1980,191.69511
+Europe,1981,186.82502
+Europe,1982,183.0229
+Europe,1983,184.72211
+Europe,1984,180.35114
+Europe,1985,175.59849
+Europe,1986,179.88138
+Europe,1987,181.33837
+Europe,1988,187.49296
+Europe,1989,191.12626
+Europe,1990,183.20273
+Europe,1991,169.38518
+Europe,1992,157.95313
+Europe,1993,140.92433
+Europe,1994,134.37338
+Europe,1995,130.60062
+Europe,1996,123.1285
+Europe,1997,127.60223
+Europe,1998,131.7897
+Europe,1999,135.38997
+Europe,2000,139.23613
+Europe,2001,139.47468
+Europe,2002,141.662
+Europe,2003,149.30294
+Europe,2004,158.2504
+Europe,2005,162.41585
+Europe,2006,179.67953
+Europe,2007,188.42881
+Europe,2008,172.17805
+Europe,2009,139.6068
+Europe,2010,138.70398
+Europe,2011,145.99994
+Europe,2012,137.15524
+Europe,2013,137.09652
+Latin America and the Carribean,1884,0
+Latin America and the Carribean,1885,0
+Latin America and the Carribean,1886,0
+Latin America and the Carribean,1887,0
+Latin America and the Carribean,1888,0
+Latin America and the Carribean,1889,0
+Latin America and the Carribean,1890,0
+Latin America and the Carribean,1891,0
+Latin America and the Carribean,1892,0
+Latin America and the Carribean,1893,0
+Latin America and the Carribean,1894,0
+Latin America and the Carribean,1895,0
+Latin America and the Carribean,1896,0
+Latin America and the Carribean,1897,0
+Latin America and the Carribean,1898,0
+Latin America and the Carribean,1899,0
+Latin America and the Carribean,1900,0
+Latin America and the Carribean,1901,0
+Latin America and the Carribean,1902,0
+Latin America and the Carribean,1903,0
+Latin America and the Carribean,1904,0
+Latin America and the Carribean,1905,0
+Latin America and the Carribean,1906,0
+Latin America and the Carribean,1907,0
+Latin America and the Carribean,1908,0
+Latin America and the Carribean,1909,0
+Latin America and the Carribean,1910,0
+Latin America and the Carribean,1911,0
+Latin America and the Carribean,1912,0
+Latin America and the Carribean,1913,0
+Latin America and the Carribean,1914,0
+Latin America and the Carribean,1915,0
+Latin America and the Carribean,1916,0
+Latin America and the Carribean,1917,0
+Latin America and the Carribean,1918,0
+Latin America and the Carribean,1919,0
+Latin America and the Carribean,1920,0
+Latin America and the Carribean,1921,0
+Latin America and the Carribean,1922,0
+Latin America and the Carribean,1923,0
+Latin America and the Carribean,1924,0
+Latin America and the Carribean,1925,0
+Latin America and the Carribean,1926,0
+Latin America and the Carribean,1927,0
+Latin America and the Carribean,1928,0.34865
+Latin America and the Carribean,1929,0.43673
+Latin America and the Carribean,1930,0.32663
+Latin America and the Carribean,1931,0.41838
+Latin America and the Carribean,1932,0.46609
+Latin America and the Carribean,1933,0.51747
+Latin America and the Carribean,1934,0.67161
+Latin America and the Carribean,1935,0.95053
+Latin America and the Carribean,1936,1.08999
+Latin America and the Carribean,1937,1.33588
+Latin America and the Carribean,1938,1.52672
+Latin America and the Carribean,1939,1.56709
+Latin America and the Carribean,1940,1.64783
+Latin America and the Carribean,1941,1.85702
+Latin America and the Carribean,1942,1.83867
+Latin America and the Carribean,1943,1.80931
+Latin America and the Carribean,1944,1.9818
+Latin America and the Carribean,1945,2.12126
+Latin America and the Carribean,1946,2.3121
+Latin America and the Carribean,1947,2.64974
+Latin America and the Carribean,1948,2.80388
+Latin America and the Carribean,1949,3.17088
+Latin America and the Carribean,1950,3.64431
+Latin America and the Carribean,1951,4.0003
+Latin America and the Carribean,1952,4.38932
+Latin America and the Carribean,1953,4.83339
+Latin America and the Carribean,1954,5.35086
+Latin America and the Carribean,1955,5.97109
+Latin America and the Carribean,1956,6.77482
+Latin America and the Carribean,1957,7.35101
+Latin America and the Carribean,1958,7.61525
+Latin America and the Carribean,1959,7.86114
+Latin America and the Carribean,1960,8.30154
+Latin America and the Carribean,1961,8.86305
+Latin America and the Carribean,1962,9.41355
+Latin America and the Carribean,1963,9.69981
+Latin America and the Carribean,1964,10.88889
+Latin America and the Carribean,1965,11.34764
+Latin America and the Carribean,1966,12.2211
+Latin America and the Carribean,1967,12.74591
+Latin America and the Carribean,1968,14.52219
+Latin America and the Carribean,1969,15.33693
+Latin America and the Carribean,1970,17.22331
+Latin America and the Carribean,1971,18.13347
+Latin America and the Carribean,1972,20.4419
+Latin America and the Carribean,1973,22.72097
+Latin America and the Carribean,1974,24.17062
+Latin America and the Carribean,1975,25.63128
+Latin America and the Carribean,1976,27.64978
+Latin America and the Carribean,1977,28.97465
+Latin America and the Carribean,1978,31.11793
+Latin America and the Carribean,1979,33.9842
+Latin America and the Carribean,1980,37.08902
+Latin America and the Carribean,1981,37.48905
+Latin America and the Carribean,1982,37.30922
+Latin America and the Carribean,1983,32.9933
+Latin America and the Carribean,1984,33.6539
+Latin America and the Carribean,1985,35.12924
+Latin America and the Carribean,1986,38.46894
+Latin America and the Carribean,1987,41.5077
+Latin America and the Carribean,1988,42.05086
+Latin America and the Carribean,1989,40.72232
+Latin America and the Carribean,1990,41.72056
+Latin America and the Carribean,1991,42.89496
+Latin America and the Carribean,1992,43.21058
+Latin America and the Carribean,1993,44.9208
+Latin America and the Carribean,1994,48.1504
+Latin America and the Carribean,1995,47.84212
+Latin America and the Carribean,1996,51.9305
+Latin America and the Carribean,1997,56.60608
+Latin America and the Carribean,1998,58.46677
+Latin America and the Carribean,1999,59.07232
+Latin America and the Carribean,2000,61.18624
+Latin America and the Carribean,2001,59.21545
+Latin America and the Carribean,2002,57.77681
+Latin America and the Carribean,2003,57.73644
+Latin America and the Carribean,2004,58.63559
+Latin America and the Carribean,2005,65.1425
+Latin America and the Carribean,2006,72.74674
+Latin America and the Carribean,2007,74.89369
+Latin America and the Carribean,2008,78.11595
+Latin America and the Carribean,2009,75.70843
+Latin America and the Carribean,2010,79.61331
+Latin America and the Carribean,2011,85.15868
+Latin America and the Carribean,2012,88.69656
+Latin America and the Carribean,2013,90.02143
+Middle East,1865,0
+Middle East,1866,0
+Middle East,1867,0
+Middle East,1868,0
+Middle East,1869,0
+Middle East,1870,0
+Middle East,1871,0
+Middle East,1872,0
+Middle East,1873,0
+Middle East,1874,0
+Middle East,1875,0
+Middle East,1876,0
+Middle East,1877,0
+Middle East,1878,0
+Middle East,1879,0
+Middle East,1880,0
+Middle East,1881,0
+Middle East,1882,0
+Middle East,1883,0
+Middle East,1884,0
+Middle East,1885,0
+Middle East,1886,0
+Middle East,1887,0
+Middle East,1888,0
+Middle East,1889,0
+Middle East,1890,0
+Middle East,1891,0
+Middle East,1892,0
+Middle East,1893,0
+Middle East,1894,0
+Middle East,1895,0
+Middle East,1896,0
+Middle East,1897,0
+Middle East,1898,0
+Middle East,1899,0
+Middle East,1900,0
+Middle East,1901,0
+Middle East,1902,0
+Middle East,1903,0
+Middle East,1904,0
+Middle East,1905,0
+Middle East,1906,0
+Middle East,1907,0
+Middle East,1908,0
+Middle East,1909,0
+Middle East,1910,0
+Middle East,1911,0
+Middle East,1912,0
+Middle East,1913,0
+Middle East,1914,0
+Middle East,1915,0
+Middle East,1916,0
+Middle East,1917,0
+Middle East,1918,0
+Middle East,1919,0
+Middle East,1920,0
+Middle East,1921,0
+Middle East,1922,0
+Middle East,1923,0
+Middle East,1924,0
+Middle East,1925,0
+Middle East,1926,0
+Middle East,1927,0
+Middle East,1928,0.02936
+Middle East,1929,0.03303
+Middle East,1930,0.06973
+Middle East,1931,0.09909
+Middle East,1932,0.12845
+Middle East,1933,0.15414
+Middle East,1934,0.16515
+Middle East,1935,0.22387
+Middle East,1936,0.23488
+Middle East,1937,0.31195
+Middle East,1938,0.30461
+Middle East,1939,0.31562
+Middle East,1940,0.28259
+Middle East,1941,0.26424
+Middle East,1942,0.64959
+Middle East,1943,0.26057
+Middle East,1944,0.33397
+Middle East,1945,0.31929
+Middle East,1946,0.41104
+Middle East,1947,0.47343
+Middle East,1948,0.41471
+Middle East,1949,0.48811
+Middle East,1950,0.62023
+Middle East,1951,0.67161
+Middle East,1952,0.74868
+Middle East,1953,0.87713
+Middle East,1954,1.09366
+Middle East,1955,1.36891
+Middle East,1956,1.60746
+Middle East,1957,1.97446
+Middle East,1958,3.5599
+Middle East,1959,2.60203
+Middle East,1960,2.96169
+Middle East,1961,3.18556
+Middle East,1962,3.44246
+Middle East,1963,3.77643
+Middle East,1964,4.00764
+Middle East,1965,4.47006
+Middle East,1966,5.09763
+Middle East,1967,5.138
+Middle East,1968,6.09587
+Middle East,1969,7.17485
+Middle East,1970,7.76939
+Middle East,1971,8.85938
+Middle East,1972,10.02644
+Middle East,1973,10.06681
+Middle East,1974,11.06872
+Middle East,1975,13.02483
+Middle East,1976,14.68
+Middle East,1977,16.29113
+Middle East,1978,21.15021
+Middle East,1979,20.14463
+Middle East,1980,19.99783
+Middle East,1981,22.83841
+Middle East,1982,25.26061
+Middle East,1983,25.51017
+Middle East,1984,30.02794
+Middle East,1985,31.94735
+Middle East,1986,32.60795
+Middle East,1987,34.6448
+Middle East,1988,35.81186
+Middle East,1989,38.2047
+Middle East,1990,37.99184
+Middle East,1991,36.92754
+Middle East,1992,40.64158
+Middle East,1993,44.05101
+Middle East,1994,44.41801
+Middle East,1995,48.35592
+Middle East,1996,50.35607
+Middle East,1997,49.95971
+Middle East,1998,53.75449
+Middle East,1999,53.92698
+Middle East,2000,56.01154
+Middle East,2001,55.76565
+Middle East,2002,60.71648
+Middle East,2003,62.65424
+Middle East,2004,67.73352
+Middle East,2005,71.38517
+Middle East,2006,77.16175
+Middle East,2007,85.9514
+Middle East,2008,94.6493
+Middle East,2009,104.34911
+Middle East,2010,115.85823
+Middle East,2011,121.0366
+Middle East,2012,128.00226
+Middle East,2013,135.59916
+North America,1785,0
+North America,1786,0
+North America,1787,0
+North America,1788,0
+North America,1789,0
+North America,1790,0
+North America,1791,0
+North America,1792,0
+North America,1793,0
+North America,1794,0
+North America,1795,0
+North America,1796,0
+North America,1797,0
+North America,1798,0
+North America,1799,0
+North America,1800,0
+North America,1801,0
+North America,1802,0
+North America,1803,0
+North America,1804,0
+North America,1805,0
+North America,1806,0
+North America,1807,0
+North America,1808,0
+North America,1809,0
+North America,1810,0
+North America,1811,0
+North America,1812,0
+North America,1813,0
+North America,1814,0
+North America,1815,0
+North America,1816,0
+North America,1817,0
+North America,1818,0
+North America,1819,0
+North America,1820,0
+North America,1821,0
+North America,1822,0
+North America,1823,0
+North America,1824,0
+North America,1825,0
+North America,1826,0
+North America,1827,0
+North America,1828,0
+North America,1829,0
+North America,1830,0
+North America,1831,0
+North America,1832,0
+North America,1833,0
+North America,1834,0
+North America,1835,0
+North America,1836,0
+North America,1837,0
+North America,1838,0
+North America,1839,0
+North America,1840,0
+North America,1841,0
+North America,1842,0
+North America,1843,0
+North America,1844,0
+North America,1845,0
+North America,1846,0
+North America,1847,0
+North America,1848,0
+North America,1849,0
+North America,1850,0
+North America,1851,0
+North America,1852,0
+North America,1853,0
+North America,1854,0
+North America,1855,0
+North America,1856,0
+North America,1857,0
+North America,1858,0
+North America,1859,0
+North America,1860,0
+North America,1861,0
+North America,1862,0
+North America,1863,0
+North America,1864,0
+North America,1865,0
+North America,1866,0
+North America,1867,0
+North America,1868,0
+North America,1869,0
+North America,1870,0
+North America,1871,0
+North America,1872,0
+North America,1873,0
+North America,1874,0
+North America,1875,0
+North America,1876,0
+North America,1877,0
+North America,1878,0
+North America,1879,0
+North America,1880,0
+North America,1881,0
+North America,1882,0
+North America,1883,0
+North America,1884,0
+North America,1885,0
+North America,1886,0
+North America,1887,0
+North America,1888,0
+North America,1889,0
+North America,1890,0
+North America,1891,0
+North America,1892,0
+North America,1893,0
+North America,1894,0
+North America,1895,0
+North America,1896,0
+North America,1897,0
+North America,1898,0
+North America,1899,0
+North America,1900,0
+North America,1901,0
+North America,1902,0
+North America,1903,0
+North America,1904,0
+North America,1905,0
+North America,1906,0
+North America,1907,0
+North America,1908,0
+North America,1909,0
+North America,1910,0
+North America,1911,0
+North America,1912,0
+North America,1913,0
+North America,1914,0
+North America,1915,0
+North America,1916,0
+North America,1917,0
+North America,1918,0
+North America,1919,0
+North America,1920,0
+North America,1921,0
+North America,1922,0
+North America,1923,0
+North America,1924,0
+North America,1925,0
+North America,1926,0
+North America,1927,0
+North America,1928,16.0746
+North America,1929,15.68558
+North America,1930,14.81212
+North America,1931,11.58986
+North America,1932,6.93997
+North America,1933,5.63345
+North America,1934,6.95098
+North America,1935,6.89226
+North America,1936,10.13654
+North America,1937,10.54024
+North America,1938,9.56035
+North America,1939,11.06872
+North America,1940,11.89814
+North America,1941,14.87084
+North America,1942,16.50032
+North America,1943,12.09265
+North America,1944,8.41531
+North America,1945,9.54934
+North America,1946,15.09471
+North America,1947,17.07651
+North America,1948,18.9005
+North America,1949,19.38861
+North America,1950,20.92634
+North America,1951,22.58151
+North America,1952,22.9742
+North America,1953,24.54863
+North America,1954,25.25694
+North America,1955,28.79849
+North America,1956,30.66285
+North America,1957,29.44808
+North America,1958,30.56743
+North America,1959,33.12542
+North America,1960,31.06288
+North America,1961,31.6354
+North America,1962,33.07404
+North America,1963,34.5347
+North America,1964,36.38805
+North America,1965,36.8835
+North America,1966,38.2414
+North America,1967,36.44677
+North America,1968,38.76988
+North America,1969,39.22496
+North America,1970,37.38262
+North America,1971,40.47276
+North America,1972,42.80321
+North America,1973,44.69326
+North America,1974,42.70779
+North America,1975,36.54219
+North America,1976,38.535
+North America,1977,41.05996
+North America,1978,43.85283
+North America,1979,44.77033
+North America,1980,39.97364
+North America,1981,38.08726
+North America,1982,33.33828
+North America,1983,36.23391
+North America,1984,39.93327
+North America,1985,40.79205
+North America,1986,41.47834
+North America,1987,42.28207
+North America,1988,41.44164
+North America,1989,41.85268
+North America,1990,41.47467
+North America,1991,38.86163
+North America,1992,38.22305
+North America,1993,40.82141
+North America,1994,44.88777
+North America,1995,44.30424
+North America,1996,46.12089
+North America,1997,48.05131
+North America,1998,48.7376
+North America,1999,50.11752
+North America,2000,50.96896
+North America,2001,51.53047
+North America,2002,52.08097
+North America,2003,53.78018
+North America,2004,56.33817
+North America,2005,57.43917
+North America,2006,56.92537
+North America,2007,55.86841
+North America,2008,50.55058
+North America,2009,37.84871
+North America,2010,39.7461
+North America,2011,40.24889
+North America,2012,43.62162
+North America,2013,44.43269
+Oceania,1851,0
+Oceania,1852,0
+Oceania,1853,0
+Oceania,1854,0
+Oceania,1855,0
+Oceania,1856,0
+Oceania,1857,0
+Oceania,1858,0
+Oceania,1859,0
+Oceania,1860,0
+Oceania,1861,0
+Oceania,1862,0
+Oceania,1863,0
+Oceania,1864,0
+Oceania,1865,0
+Oceania,1866,0
+Oceania,1867,0
+Oceania,1868,0
+Oceania,1869,0
+Oceania,1870,0
+Oceania,1871,0
+Oceania,1872,0
+Oceania,1873,0
+Oceania,1874,0
+Oceania,1875,0
+Oceania,1876,0
+Oceania,1877,0
+Oceania,1878,0
+Oceania,1879,0
+Oceania,1880,0
+Oceania,1881,0
+Oceania,1882,0
+Oceania,1883,0
+Oceania,1884,0
+Oceania,1885,0
+Oceania,1886,0
+Oceania,1887,0
+Oceania,1888,0
+Oceania,1889,0
+Oceania,1890,0
+Oceania,1891,0
+Oceania,1892,0
+Oceania,1893,0
+Oceania,1894,0
+Oceania,1895,0
+Oceania,1896,0
+Oceania,1897,0
+Oceania,1898,0
+Oceania,1899,0
+Oceania,1900,0
+Oceania,1901,0
+Oceania,1902,0
+Oceania,1903,0
+Oceania,1904,0
+Oceania,1905,0
+Oceania,1906,0
+Oceania,1907,0
+Oceania,1908,0
+Oceania,1909,0
+Oceania,1910,0
+Oceania,1911,0
+Oceania,1912,0
+Oceania,1913,0
+Oceania,1914,0
+Oceania,1915,0
+Oceania,1916,0
+Oceania,1917,0
+Oceania,1918,0
+Oceania,1919,0
+Oceania,1920,0
+Oceania,1921,0
+Oceania,1922,0
+Oceania,1923,0
+Oceania,1924,0
+Oceania,1925,0
+Oceania,1926,0
+Oceania,1927,0
+Oceania,1928,2.40018
+Oceania,1929,2.59102
+Oceania,1930,2.31944
+Oceania,1931,2.08089
+Oceania,1932,2.05887
+Oceania,1933,2.63873
+Oceania,1934,2.53597
+Oceania,1935,3.27364
+Oceania,1936,3.51586
+Oceania,1937,3.46815
+Oceania,1938,3.0461
+Oceania,1939,2.99105
+Oceania,1940,2.58368
+Oceania,1941,3.36539
+Oceania,1942,2.56533
+Oceania,1943,2.19099
+Oceania,1944,1.81298
+Oceania,1945,1.05329
+Oceania,1946,0.94319
+Oceania,1947,1.1744
+Oceania,1948,1.56709
+Oceania,1949,2.30109
+Oceania,1950,2.99472
+Oceania,1951,3.96727
+Oceania,1952,4.36363
+Oceania,1953,5.31049
+Oceania,1954,6.44452
+Oceania,1955,6.47388
+Oceania,1956,7.79141
+Oceania,1957,9.00251
+Oceania,1958,8.98416
+Oceania,1959,10.2026
+Oceania,1960,12.95143
+Oceania,1961,14.04876
+Oceania,1962,16.148
+Oceania,1963,16.86365
+Oceania,1964,18.67663
+Oceania,1965,18.70599
+Oceania,1966,21.45482
+Oceania,1967,23.85867
+Oceania,1968,26.28821
+Oceania,1969,28.35442
+Oceania,1970,31.36749
+Oceania,1971,32.58226
+Oceania,1972,36.17152
+Oceania,1973,42.20867
+Oceania,1974,39.71674
+Oceania,1975,35.80452
+Oceania,1976,37.37895
+Oceania,1977,39.52957
+Oceania,1978,45.32817
+Oceania,1979,46.89159
+Oceania,1980,47.02004
+Oceania,1981,45.85665
+Oceania,1982,43.5996
+Oceania,1983,43.25095
+Oceania,1984,42.57567
+Oceania,1985,39.85987
+Oceania,1986,39.04513
+Oceania,1987,39.13688
+Oceania,1988,42.35547
+Oceania,1989,43.65832
+Oceania,1990,46.10254
+Oceania,1991,48.12471
+Oceania,1992,47.1228
+Oceania,1993,47.17418
+Oceania,1994,49.51564
+Oceania,1995,48.96881
+Oceania,1996,50.85886
+Oceania,1997,49.69547
+Oceania,1998,44.53178
+Oceania,1999,44.26754
+Oceania,2000,44.85474
+Oceania,2001,42.58668
+Oceania,2002,40.22687
+Oceania,2003,38.96439
+Oceania,2004,38.29278
+Oceania,2005,39.66536
+Oceania,2006,40.08741
+Oceania,2007,39.05981
+Oceania,2008,36.77707
+Oceania,2009,32.66667
+Oceania,2010,30.56009
+Oceania,2011,30.62615
+Oceania,2012,32.3327
+Oceania,2013,33.55848
+World,1751,0
+World,1752,0
+World,1753,0
+World,1754,0
+World,1755,0
+World,1756,0
+World,1757,0
+World,1758,0
+World,1759,0
+World,1760,0
+World,1761,0
+World,1762,0
+World,1763,0
+World,1764,0
+World,1765,0
+World,1766,0
+World,1767,0
+World,1768,0
+World,1769,0
+World,1770,0
+World,1771,0
+World,1772,0
+World,1773,0
+World,1774,0
+World,1775,0
+World,1776,0
+World,1777,0
+World,1778,0
+World,1779,0
+World,1780,0
+World,1781,0
+World,1782,0
+World,1783,0
+World,1784,0
+World,1785,0
+World,1786,0
+World,1787,0
+World,1788,0
+World,1789,0
+World,1790,0
+World,1791,0
+World,1792,0
+World,1793,0
+World,1794,0
+World,1795,0
+World,1796,0
+World,1797,0
+World,1798,0
+World,1799,0
+World,1800,0
+World,1801,0
+World,1802,0
+World,1803,0
+World,1804,0
+World,1805,0
+World,1806,0
+World,1807,0
+World,1808,0
+World,1809,0
+World,1810,0
+World,1811,0
+World,1812,0
+World,1813,0
+World,1814,0
+World,1815,0
+World,1816,0
+World,1817,0
+World,1818,0
+World,1819,0
+World,1820,0
+World,1821,0
+World,1822,0
+World,1823,0
+World,1824,0
+World,1825,0
+World,1826,0
+World,1827,0
+World,1828,0
+World,1829,0
+World,1830,0
+World,1831,0
+World,1832,0
+World,1833,0
+World,1834,0
+World,1835,0
+World,1836,0
+World,1837,0
+World,1838,0
+World,1839,0
+World,1840,0
+World,1841,0
+World,1842,0
+World,1843,0
+World,1844,0
+World,1845,0
+World,1846,0
+World,1847,0
+World,1848,0
+World,1849,0
+World,1850,0
+World,1851,0
+World,1852,0
+World,1853,0
+World,1854,0
+World,1855,0
+World,1856,0
+World,1857,0
+World,1858,0
+World,1859,0
+World,1860,0
+World,1861,0
+World,1862,0
+World,1863,0
+World,1864,0
+World,1865,0
+World,1866,0
+World,1867,0
+World,1868,0
+World,1869,0
+World,1870,0
+World,1871,0
+World,1872,0
+World,1873,0
+World,1874,0
+World,1875,0
+World,1876,0
+World,1877,0
+World,1878,0
+World,1879,0
+World,1880,0
+World,1881,0
+World,1882,0
+World,1883,0
+World,1884,0
+World,1885,0
+World,1886,0
+World,1887,0
+World,1888,0
+World,1889,0
+World,1890,0
+World,1891,0
+World,1892,0
+World,1893,0
+World,1894,0
+World,1895,0
+World,1896,0
+World,1897,0
+World,1898,0
+World,1899,0
+World,1900,0
+World,1901,0
+World,1902,0
+World,1903,0
+World,1904,0
+World,1905,0
+World,1906,0
+World,1907,0
+World,1908,0
+World,1909,0
+World,1910,0
+World,1911,0
+World,1912,0
+World,1913,0
+World,1914,0
+World,1915,0
+World,1916,0
+World,1917,0
+World,1918,0
+World,1919,0
+World,1920,0
+World,1921,0
+World,1922,0
+World,1923,0
+World,1924,0
+World,1925,0
+World,1926,0
+World,1927,0
+World,1928,36.67
+World,1929,36.67
+World,1930,36.67
+World,1931,29.336
+World,1932,25.669
+World,1933,25.669
+World,1934,29.336
+World,1935,33.003
+World,1936,40.337
+World,1937,40.337
+World,1938,44.004
+World,1939,47.671
+World,1940,40.337
+World,1941,44.004
+World,1942,40.337
+World,1943,36.67
+World,1944,25.669
+World,1945,25.669
+World,1946,36.67
+World,1947,44.004
+World,1948,51.338
+World,1949,58.672
+World,1950,66.006
+World,1951,73.34
+World,1952,80.674
+World,1953,88.008
+World,1954,99.009
+World,1955,110.01
+World,1956,117.344
+World,1957,124.678
+World,1958,132.012
+World,1959,146.68
+World,1960,157.681
+World,1961,165.015
+World,1962,179.683
+World,1963,187.017
+World,1964,209.019
+World,1965,216.353
+World,1966,231.021
+World,1967,238.355
+World,1968,256.69
+World,1969,271.358
+World,1970,286.026
+World,1971,308.028
+World,1972,326.363
+World,1973,348.365
+World,1974,352.032
+World,1975,348.365
+World,1976,377.701
+World,1977,396.036
+World,1978,425.372
+World,1979,436.373
+World,1980,440.04
+World,1981,443.707
+World,1982,443.707
+World,1983,458.375
+World,1984,469.376
+World,1985,480.377
+World,1986,502.379
+World,1987,524.381
+World,1988,557.384
+World,1989,572.052
+World,1990,575.719
+World,1991,590.387
+World,1992,612.389
+World,1993,645.392
+World,1994,682.062
+World,1995,722.399
+World,1996,744.401
+World,1997,766.403
+World,1998,766.403
+World,1999,795.739
+World,2000,828.742
+World,2001,869.079
+World,2002,924.084
+World,2003,1012.092
+World,2004,1092.766
+World,2005,1173.44
+World,2006,1305.452
+World,2007,1400.794
+World,2008,1422.796
+World,2009,1521.805
+World,2010,1642.816
+World,2011,1818.832
+World,2012,1906.84
+World,2013,2031.518
