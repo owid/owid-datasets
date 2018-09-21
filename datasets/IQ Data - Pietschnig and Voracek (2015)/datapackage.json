@@ -1,0 +1,50 @@
+{
+  "name": "IQ Data - Pietschnig and Voracek (2015)",
+  "title": "IQ Data - Pietschnig and Voracek (2015)",
+  "id": 61,
+  "description": "Citation: Pietschnig, Jakob, and Martin Voracek. \"One Century of Global IQ Gains A Formal Meta-Analysis of the Flynn Effect (1909–2013).\" Perspectives on Psychological Science 10, no. 3 (2015): 282-306.",
+  "sources": [
+    {
+      "name": "Pietschnig and Voracek (2015)",
+      "dataPublishedBy": "Pietschnig and Voracek (2015)",
+      "dataPublisherSource": "Jakob Pietschnig and Martin Voracek",
+      "link": "http://pps.sagepub.com/content/10/3/282.abstract",
+      "retrievedDate": "21/07/2015",
+      "additionalInfo": "Citation: Pietschnig, Jakob, and Martin Voracek. \"One Century of Global IQ Gains A Formal Meta-Analysis of the Flynn Effect (1909–2013).\" Perspectives on Psychological Science 10, no. 3 (2015): 282-306."
+    }
+  ],
+  "owidTags": [
+    "Intelligence"
+  ],
+  "resources": [
+    {
+      "path": "IQ Data - Pietschnig and Voracek (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Average IQ change (Pietschnig and Voracek (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "IQ points"
+            }
+          },
+          {
+            "name": "Fullscale IQ change by region 1909-2013 (Pietschnig and Voracek (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
