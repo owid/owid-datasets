@@ -1,0 +1,42 @@
+{
+  "name": "Capital city population - UN Urbanization Prospects (2018)",
+  "title": "Capital city population - UN Urbanization Prospects (2018)",
+  "id": 2897,
+  "description": "Data represents the estimated population of a given country's capital city.\n\nWhere a country has multiple capital cities, here we have opted to show the population of the Administrative or Constitutional Capital (as opposed to the Seat of Government, or otherwise).",
+  "sources": [
+    {
+      "name": "Capital city population - UN Urbanization Prospects (2018)",
+      "dataPublishedBy": "UN World Urbanization Prospects (2018)",
+      "dataPublisherSource": null,
+      "link": "https://esa.un.org/unpd/wup/Download/",
+      "retrievedDate": "26th August 2018",
+      "additionalInfo": "Data represents the estimated population of a given country's capital city.\n\nWhere a country has multiple capital cities, here we have opted to show the population of the Administrative or Constitutional Capital (as opposed to the Seat of Government, or otherwise)."
+    }
+  ],
+  "owidTags": [
+    "Urbanization"
+  ],
+  "resources": [
+    {
+      "path": "Capital city population - UN Urbanization Prospects (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Capital city population (UN Urbanization Prospects, 2018)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
