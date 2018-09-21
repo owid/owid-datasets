@@ -1,0 +1,78 @@
+{
+  "name": "Child violence – Ending Violence in Childhood Report (2017)",
+  "title": "Child violence – Ending Violence in Childhood Report (2017)",
+  "id": 1872,
+  "description": "",
+  "sources": [
+    {
+      "name": " Know Violence in Childhood Report (2017)",
+      "dataPublishedBy": "Know Violence in Childhood",
+      "dataPublisherSource": " Corporal punishment (home): UNICEF global databases, 2016, based on DHS, MICS and other nationally representative surveys, 2005-2015. (2) Bullying and physical fights (school): HBSC, 2009/2010 and GSHS, 2003-2013. (3) Physical and sexual violence against adolescent girls: UNICEF global databases, 2016, based on DHS, MICS and other nationally representative surveys, 2004-2015. (4) Child homicide rate: Data on homicide rates are from World Health Organization, Global Health Estimates (GHE) Summary Tables: Death by cause, age, sex and region, 2012. WHO, Geneva, 2014. (5) Violence against women: United Nations, 2015. The World's Women 2015: Trends and Statistics. New York: United Nations, Department of Economic and Social Affairs, Statistics Division. Sales No. E.15.XVII.8, Statistical Annex.",
+      "link": "http://globalreport.knowviolenceinchildhood.org/the-report/",
+      "retrievedDate": "5/12/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Violence against & Rights for Children"
+  ],
+  "resources": [
+    {
+      "path": "Child violence – Ending Violence in Childhood Report (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Children (1-14) who experienced any violent discipline",
+            "type": "any",
+            "description": "Percentage of children aged 1-14 who experienced any violent discipline at home (psychological aggression and/or physical punishment) in the past month",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Children (13-15) who reported being bullied",
+            "type": "any",
+            "description": "Percentage  of children aged 13-15 who reported being bullied at least once in the past couple of months",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Children (13-15) who reported being in a physical fight during past year",
+            "type": "any",
+            "description": "Percentage  of children aged 13-15 who reported being in a physical fight one or more times during the past 12 months",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Girls (15-19) who experienced any physical violence since age 15",
+            "type": "any",
+            "description": " Percentage of girls aged 15-19 who experienced any physical violence since age 15",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Girls (15-19) who ever experienced forced sexual intercourse or any other forced sexual acts",
+            "type": "any",
+            "description": "Percentage of girls aged 15-19 who ever experienced forced sexual intercourse or any other forced sexual acts (including in childhood)",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of homicide victims among children (0-19) per 100,000 population",
+            "type": "any",
+            "description": "Number of homicide victims among children aged 0-19 per 100,000",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Women (15 and above) who experienced any intimate partner physical and/or sexual violence last year",
+            "type": "any",
+            "description": "Percentage of women aged 15 and above who experienced any intimate partner physical and/or sexual violence in the last 12 months",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
