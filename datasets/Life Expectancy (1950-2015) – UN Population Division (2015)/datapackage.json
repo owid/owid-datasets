@@ -1,0 +1,42 @@
+{
+  "name": "Life Expectancy (1950-2015) – UN Population Division (2015)",
+  "title": "Life Expectancy (1950-2015) – UN Population Division (2015)",
+  "id": 188,
+  "description": "The original data refers to intervals of 5 years. Here the data is assigned the last year of that original interval. For example 1955 refers to 1950-1955.",
+  "sources": [
+    {
+      "name": "Life Expectancy (1950-2015) – UN Population Division (2015)",
+      "dataPublishedBy": "United Nations Population Division 2015",
+      "dataPublisherSource": null,
+      "link": "http://esa.un.org/unpd/wpp/Download/Standard/Mortality/",
+      "retrievedDate": "29/02/2016",
+      "additionalInfo": "The original data refers to intervals of 5 years. Here the data is assigned the last year of that original interval. For example 1955 refers to 1950-1955."
+    }
+  ],
+  "owidTags": [
+    "Life Expectancy"
+  ],
+  "resources": [
+    {
+      "path": "Life Expectancy (1950-2015) – UN Population Division (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Life Expectancy (1950-2015) (UN Population Division (2015))",
+            "type": "any",
+            "description": "Life Expectancy at birth (both genders)",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
