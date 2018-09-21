@@ -1,0 +1,68 @@
+{
+  "name": "Financing healthcare by source - WHO (2017)",
+  "title": "Financing healthcare by source - WHO (2017)",
+  "id": 548,
+  "description": "Health expenditure totals and sourcing contributions were sourced from the WHO Global Health Expenditure Database.\r\n\r\nData on gross domestic product (GDP) per capita was sourced from the World Bank (World Development Indicators). Available at: http://data.worldbank.org/data-catalog/world-development-indicators (accessed 2017-06-20)",
+  "sources": [
+    {
+      "name": "Financing healthcare by source - WHO (2017)",
+      "dataPublishedBy": "WHO Global Health Expenditure Database [online database]. Geneva: World Health Organization",
+      "dataPublisherSource": "Census data.",
+      "link": "http://apps.who.int/nha/database/Select/Indicators/en",
+      "retrievedDate": "20/06/2017",
+      "additionalInfo": "Health expenditure totals and sourcing contributions were sourced from the WHO Global Health Expenditure Database.\r\n\r\nData on gross domestic product (GDP) per capita was sourced from the World Bank (World Development Indicators). Available at: http://data.worldbank.org/data-catalog/world-development-indicators (accessed 2017-06-20)"
+    }
+  ],
+  "owidTags": [
+    "Health Insurance & Spending"
+  ],
+  "resources": [
+    {
+      "path": "Financing healthcare by source - WHO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total health expenditure per capita (WHO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Number"
+            }
+          },
+          {
+            "name": "Out of Pocket Expenditure (OOPS) (WHO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Number"
+            }
+          },
+          {
+            "name": "External Resources on Health (WHO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "GDP per capita (World Bank (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Per 100,000 population"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
