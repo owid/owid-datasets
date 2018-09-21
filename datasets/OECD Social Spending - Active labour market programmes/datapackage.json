@@ -1,0 +1,44 @@
+{
+  "name": "OECD Social Spending - Active labour market programmes",
+  "title": "OECD Social Spending - Active labour market programmes",
+  "id": 480,
+  "description": "Dimension of social spending given as the percentage of a country's gross domestic product (%GDP)",
+  "sources": [
+    {
+      "name": "Active labour market programmes - OECD Social Spending",
+      "dataPublishedBy": "Organisation for Economic Co-operation and Development (OECD)",
+      "dataPublisherSource": null,
+      "link": "http://stats.oecd.org/Index.aspx?datasetcode=SOCX_AGG",
+      "retrievedDate": "17/05/2017",
+      "additionalInfo": "Dimension of social spending given as the percentage of a country's gross domestic product (%GDP)"
+    }
+  ],
+  "owidTags": [
+    "Social Spending"
+  ],
+  "resources": [
+    {
+      "path": "OECD Social Spending - Active labour market programmes.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Active labour market programmes (OECD Social Spending)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "patents granted"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
