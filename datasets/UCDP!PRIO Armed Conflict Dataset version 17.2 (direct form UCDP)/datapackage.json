@@ -1,0 +1,42 @@
+{
+  "name": "UCDP/PRIO Armed Conflict Dataset version 17.2 (direct form UCDP)",
+  "title": "UCDP/PRIO Armed Conflict Dataset version 17.2 (direct form UCDP)",
+  "id": 2754,
+  "description": "",
+  "sources": [
+    {
+      "name": "UCDP",
+      "dataPublishedBy": "Uppsala Conflict Data Program (UCDP)",
+      "dataPublisherSource": null,
+      "link": "http://ucdp.uu.se/downloads/ ",
+      "retrievedDate": null,
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "War and Peace after 1945"
+  ],
+  "resources": [
+    {
+      "path": "UCDP/PRIO Armed Conflict Dataset version 17.2 (direct form UCDP).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of conflicts and incidences of one-sided violence",
+            "type": "any",
+            "description": "Ongoing conflicts are represented in each year in which more than 25 deaths occurred.  ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
