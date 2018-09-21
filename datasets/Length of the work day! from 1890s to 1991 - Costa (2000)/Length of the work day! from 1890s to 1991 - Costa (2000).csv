@@ -1,0 +1,55 @@
+Entity,Year,Percentage of men in each industry group (Costa (2000)),"Average daily hours of work, by industry, men (Costa (2000))","Average daily hours of work, by occupation, men (Costa (2000))"
+Clerical,1890,,,10.85
+Clerical,1973,,,8.0900002
+Clerical,1991,,,8.2299995
+Construction,1890,11.43,9.43,
+Construction,1973,9.9300003,8.159999847412109,
+Construction,1991,11.01,8.550000190734863,
+Craft,1890,,,9.9499998
+Craft,1973,,,8.1800003
+Craft,1991,,,8.4799995
+Entertainment,1890,.75999999,,
+Entertainment,1973,.64999998,7.840000152587891,
+Entertainment,1991,1.7,8.300000190734863,
+"Finance, insurance, real estate",1890,2.8099999,,
+"Finance, insurance, real estate",1973,4.6399999,8.420000076293945,
+"Finance, insurance, real estate",1991,6,8.699999809265137,
+Laborer,1890,,,9.8299999
+Laborer,1973,,,8.4099998
+Laborer,1991,,,8.7399998
+Managerial,1890,,,11.34
+Managerial,1973,,,8.8100004
+Managerial,1991,,,9.1199999
+Manufacturing,1890,31.809999,9.57,
+Manufacturing,1973,35.619999,8.260000228881836,
+Manufacturing,1991,24.65,8.590000152587891,
+Mining,1890,5.8800001,9.380000000000001,
+Mining,1973,1.48,8.449999809265137,
+Mining,1991,1.33,9.579999923706055,
+Operative,1890,,,10.2
+Operative,1973,,,8.1199999
+Operative,1991,,,8.3599997
+Personal service,1890,4.5500002,11.81,
+Personal service,1973,1.14,8.460000038146973,
+Personal service,1991,1.99,8.430000305175781,
+Professional,1890,4.5100002,,8.6599998
+Professional,1973,10.32,8.510000228881836,8.3900003
+Professional,1991,13.18,8.600000381469727,8.6599998
+Public administration,1890,2.53,10.41,
+Public administration,1973,7.8000002,8.380000114440918,
+Public administration,1991,6.0599999,8.390000343322754,
+Repair,1890,1.86,,
+Repair,1973,2.9200001,8.409999847412109,
+Repair,1991,6.5500002,8.609999656677246,
+Sales,1890,,,12.17
+Sales,1973,,,8.6700001
+Sales,1991,,,9.0500002
+Service,1890,,,11.52
+Service,1973,,,8.3900003
+Service,1991,,,8.0799999
+Trade,1890,17.98,11.52,
+Trade,1973,15.63,8.579999923706055,
+Trade,1991,17.360001,8.770000457763672,
+"Transportation, communication, utilities",1890,15.88,10.64,
+"Transportation, communication, utilities",1973,9.8599997,8.289999961853027,
+"Transportation, communication, utilities",1991,11.14,8.760000228881836,

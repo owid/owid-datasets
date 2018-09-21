@@ -1,0 +1,54 @@
+{
+  "name": "Length of the work day: from 1890s to 1991 - Costa (2000)",
+  "title": "Length of the work day: from 1890s to 1991 - Costa (2000)",
+  "id": 2879,
+  "description": "See Table 5 and 6 for original data.\n\n*The surveys that are used are from California in 1892; Kansas in 1895, 1896, 1897, and 1899; Main in 1890; Michigan stoneworkers in 1888; Michigan railway workers in 1893; Wisconsin in 1895; and women in Indianapolis in 1893",
+  "sources": [
+    {
+      "name": "Costa (2000)",
+      "dataPublishedBy": "Costa, D. (2000). The Wage and the Length of the Work Day: From the 1890s to 1991. Journal of Labor Economics, 18(1), 156-181. doi:10.1086/209954",
+      "dataPublisherSource": "State reports, cross-sectional surveys*",
+      "link": "https://www.jstor.org/stable/pdf/10.1086/209954.pdf?refreqid=excelsior%3A8920c4a4b77c89fea2c1e2839f1471d2",
+      "retrievedDate": "14/08/2018",
+      "additionalInfo": "See Table 5 and 6 for original data.\n\n*The surveys that are used are from California in 1892; Kansas in 1895, 1896, 1897, and 1899; Main in 1890; Michigan stoneworkers in 1888; Michigan railway workers in 1893; Wisconsin in 1895; and women in Indianapolis in 1893"
+    }
+  ],
+  "owidTags": [
+    "Working Hours"
+  ],
+  "resources": [
+    {
+      "path": "Length of the work day: from 1890s to 1991 - Costa (2000).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Percentage of men in each industry group (Costa (2000))",
+            "type": "any",
+            "description": "Percentage of men across 11 industry groups. \n\nNote: The 1890s industry distribution is estimated from the 1910 census. Daily hours are missing for industries where cell sizes were too small in the 1890s data. (Industry could not be assigned to all individuals.) ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Average daily hours of work, by industry, men (Costa (2000))",
+            "type": "any",
+            "description": "Average hours men worked per day, by industry. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Average daily hours of work, by occupation, men (Costa (2000))",
+            "type": "any",
+            "description": "Average hours men worked per day, by occupation.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
