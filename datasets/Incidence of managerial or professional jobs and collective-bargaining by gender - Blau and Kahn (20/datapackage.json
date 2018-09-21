@@ -1,0 +1,60 @@
+{
+  "name": "Incidence of managerial or professional jobs and collective-bargaining by gender - Blau and Kahn (2017)",
+  "title": "Incidence of managerial or professional jobs and collective-bargaining by gender - Blau and Kahn (2017)",
+  "id": 1002,
+  "description": "See the authors' data appendix for more detail on how the data was prepared and analyzed.",
+  "sources": [
+    {
+      "name": "Blau and Kahn (2017)",
+      "dataPublishedBy": "Blau, Francine D., and Lawrence M. Kahn (2017). \"The Gender Wage Gap: Extent, Trends, and Explanations.\" Journal of Economic Literature, 55(3): 789-865.",
+      "dataPublisherSource": "Blau and Kahn's calculations based on data from the PSID (Michigan Panel Study of Income Dynamics)",
+      "link": "http://pubs.aeaweb.org/doi/pdfplus/10.1257/jel.20160995",
+      "retrievedDate": "2017-10-17",
+      "additionalInfo": "See the authors' data appendix for more detail on how the data was prepared and analyzed."
+    }
+  ],
+  "owidTags": [
+    "Income Inequality"
+  ],
+  "resources": [
+    {
+      "path": "Incidence of managerial or professional jobs and collective-bargaining by gender - Blau and Kahn (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Gap between men and women in managerial jobs (Blau and Kahn (2017))",
+            "type": "any",
+            "description": "This variable is calculated as % men minus % women in managerial jobs. The sample – from PSID PSID (Michigan Panel Study of Income Dynamics) – includes full time non-farm wage and salary workers ages 25–64 with at least twenty-six weeks of employment.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gap between men and women in professional jobs (Blau and Kahn (2017))",
+            "type": "any",
+            "description": "This variable is calculated as % men minus % women in professional jobs. The sample – from PSID PSID (Michigan Panel Study of Income Dynamics) – includes full time non-farm wage and salary workers ages 25–64 with at least twenty-six weeks of employment.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gap between men and women in \"male\" professional jobs (Blau and Kahn (2017))",
+            "type": "any",
+            "description": "This variable is calculated as % men minus % women in managerial jobs. The sample – from PSID PSID (Michigan Panel Study of Income Dynamics) – includes full time non-farm wage and salary workers ages 25–64 with at least twenty-six weeks of employment. “Male” professional jobs are professional jobs excluding nurses and K–12, and other non-college teachers.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gap between men and women in collective-bargaining coverage (Blau and Kahn (2017))",
+            "type": "any",
+            "description": "This variable is calculated as % men minus % women in collective-bargaining coverage. The sample – from PSID PSID (Michigan Panel Study of Income Dynamics) – includes full time non-farm wage and salary workers ages 25–64 with at least twenty-six weeks of employment.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
