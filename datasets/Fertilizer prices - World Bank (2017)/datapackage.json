@@ -1,0 +1,66 @@
+{
+  "name": "Fertilizer prices - World Bank (2017)",
+  "title": "Fertilizer prices - World Bank (2017)",
+  "id": 696,
+  "description": "Fertilizer prices are measured as a real price index, where prices in 2010 are equal to 100 (2010 = 100).\n\nUrea prices are reported in real US$ per metric ton.",
+  "sources": [
+    {
+      "name": "Fertilizer prices - World Bank (2017)",
+      "dataPublishedBy": "World Bank Commodity Prices",
+      "dataPublisherSource": null,
+      "link": "http://databank.worldbank.org/data/reports.aspx?source=commodity-prices-~-history-and-projections#",
+      "retrievedDate": "24/08/2017",
+      "additionalInfo": "Fertilizer prices are measured as a real price index, where prices in 2010 are equal to 100 (2010 = 100).\n\nUrea prices are reported in real US$ per metric ton."
+    }
+  ],
+  "owidTags": [
+    "Fertilizer and Pesticides"
+  ],
+  "resources": [
+    {
+      "path": "Fertilizer prices - World Bank (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Urea (World Bank (2017))",
+            "type": "any",
+            "description": "Urea nutrient prices (in real $) per metric ton. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fertilizer Price Index (2010 = 100) (World Bank (2017))",
+            "type": "any",
+            "description": "The fertiliser price index, measured relative to real prices in 2010 (where 2010=100). ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Urea Price Projection (World Bank (2017))",
+            "type": "any",
+            "description": "Urea price projections in $ per metric ton. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fertilizer Price Index Projection (World Bank (2017))",
+            "type": "any",
+            "description": "Fertilizer price index projection. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fertilizer Price Index (World Bank (2017))",
+            "type": "any",
+            "description": "Fertilizer price index. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
