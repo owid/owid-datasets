@@ -1,0 +1,134 @@
+{
+  "name": "Human Capital in Long-Run - Lee-Lee (2016)",
+  "title": "Human Capital in Long-Run - Lee-Lee (2016)",
+  "id": 289,
+  "description": "Author's note: \"We construct a complete data set of historical enrollment ratios, subdivided by education level and gender, for 111 countries from 1820 to 1945 (at five-year intervals) by using newly compiled census observations and information on the year of establishment of the oldest school in individual countries. Then, by utilizing these enrollment ratios, as well as available census data from 1945 onward on different age groups' educational attainment, we construct a data set of estimated educational attainment, disaggregated by gender and age group, and aggregate human capital stock that spans from 1870 to 2010.\"\n\nFor regional estimates, the authors classify the following countries as 'Advanced Economies': Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Greece, Iceland, Ireland, Italy, Japan, Luxembourg, Netherlands, New Zealand, Norway, Portugal, Spain, Sweden, Switzerland, Turkey, USA, United Kingdom. Further details on regional classifications are available in the source paper.",
+  "sources": [
+    {
+      "name": "Lee and Lee (2016)",
+      "dataPublishedBy": "Lee and Lee (2016), Human capital in the long run. Journal of Development Economics",
+      "dataPublisherSource": "Compiled census observations and information on the year of establishment of the oldest school in individual countries.",
+      "link": "http://www.barrolee.com/Lee_Lee_LRdata_dn.htm",
+      "retrievedDate": "29/08/2016",
+      "additionalInfo": "Author's note: \"We construct a complete data set of historical enrollment ratios, subdivided by education level and gender, for 111 countries from 1820 to 1945 (at five-year intervals) by using newly compiled census observations and information on the year of establishment of the oldest school in individual countries. Then, by utilizing these enrollment ratios, as well as available census data from 1945 onward on different age groups' educational attainment, we construct a data set of estimated educational attainment, disaggregated by gender and age group, and aggregate human capital stock that spans from 1870 to 2010.\"\n\nFor regional estimates, the authors classify the following countries as 'Advanced Economies': Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Greece, Iceland, Ireland, Italy, Japan, Luxembourg, Netherlands, New Zealand, Norway, Portugal, Spain, Sweden, Switzerland, Turkey, USA, United Kingdom. Further details on regional classifications are available in the source paper."
+    }
+  ],
+  "owidTags": [
+    "Inequality of Education"
+  ],
+  "resources": [
+    {
+      "path": "Human Capital in Long-Run - Lee-Lee (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Primary adjusted enrolment ratio (Lee-Lee (2016))",
+            "type": "any",
+            "description": "Percentage of children attending primary school. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Secondary adjusted enrolment ratio (Lee-Lee (2016))",
+            "type": "any",
+            "description": "Percentage of children enrolled in secondary school education. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Tertiary adjusted enrolment ratio (Lee-Lee (2016))",
+            "type": "any",
+            "description": "Percentage of children enrolled in tertiary education. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of no schooling (Lee-Lee (2016))",
+            "type": "any",
+            "description": "Percentage of children with no schooling. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of primary schooling (Lee-Lee (2016))",
+            "type": "any",
+            "description": "Percentage of primary schooling.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of secondary schooling (Lee-Lee (2016))",
+            "type": "any",
+            "description": "Percentage of children in secondary school. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of tertiary schooling (Lee-Lee (2016))",
+            "type": "any",
+            "description": "Percentage of children with tertiary schooling. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total years of schooling (Lee-Lee (2016))",
+            "type": "any",
+            "description": "Total years of schooling. ",
+            "owidDisplaySettings": {
+              "name": "Mean years of schooling"
+            }
+          },
+          {
+            "name": "Years of primary schooling (Lee-Lee (2016))",
+            "type": "any",
+            "description": "Years of primary schooling.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Years of secondary schooling (Lee-Lee (2016))",
+            "type": "any",
+            "description": "Years of secondary schooling. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Years of tertiary schooling (Lee-Lee (2016))",
+            "type": "any",
+            "description": "Years of tertiary schooling. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Male primary adjusted enrolment (Lee-Lee (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Male secondary adjusted enrolment (Lee-Lee (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Male tertiary adjusted enrolment (Lee-Lee (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Female to male years schooling (Lee-Lee (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Regional female to male years schooling (Lee-Lee (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}

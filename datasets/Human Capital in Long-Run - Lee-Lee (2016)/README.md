@@ -1,0 +1,5 @@
+# Human Capital in Long-Run - Lee-Lee (2016)
+
+Author's note: "We construct a complete data set of historical enrollment ratios, subdivided by education level and gender, for 111 countries from 1820 to 1945 (at five-year intervals) by using newly compiled census observations and information on the year of establishment of the oldest school in individual countries. Then, by utilizing these enrollment ratios, as well as available census data from 1945 onward on different age groups' educational attainment, we construct a data set of estimated educational attainment, disaggregated by gender and age group, and aggregate human capital stock that spans from 1870 to 2010."
+
+For regional estimates, the authors classify the following countries as 'Advanced Economies': Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Greece, Iceland, Ireland, Italy, Japan, Luxembourg, Netherlands, New Zealand, Norway, Portugal, Spain, Sweden, Switzerland, Turkey, USA, United Kingdom. Further details on regional classifications are available in the source paper.
