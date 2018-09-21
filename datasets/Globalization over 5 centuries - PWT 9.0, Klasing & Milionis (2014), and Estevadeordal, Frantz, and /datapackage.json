@@ -1,0 +1,44 @@
+{
+  "name": "Globalization over 5 centuries - PWT 9.0, Klasing & Milionis (2014), and Estevadeordal, Frantz, and Taylor (2003)",
+  "title": "Globalization over 5 centuries - PWT 9.0, Klasing & Milionis (2014), and Estevadeordal, Frantz, and Taylor (2003)",
+  "id": 2845,
+  "description": "",
+  "sources": [
+    {
+      "name": "Penn World Tables 9.0",
+      "dataPublishedBy": "Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), \"The Next Generation of the Penn World Table\" American Economic Review, 105(10), 3150-3182, available for download at www.ggdc.net/pwt",
+      "dataPublisherSource": "Historical data and scholarly sources",
+      "link": "https://www.rug.nl/ggdc/productivity/pwt/",
+      "retrievedDate": "20/07/2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Trade from Antiquity to Early Modern Times"
+  ],
+  "resources": [
+    {
+      "path": "Globalization over 5 centuries - PWT 9.0, Klasing & Milionis (2014), and Estevadeordal, Frantz, and Taylor (2003).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "World trade (% of GDP) (PWT 9.0)",
+            "type": "any",
+            "description": "Sum of world exports and imports as a share of world GDP (%). ",
+            "owidDisplaySettings": {
+              "unit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
