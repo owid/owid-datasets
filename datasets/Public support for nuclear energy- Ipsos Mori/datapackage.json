@@ -1,0 +1,48 @@
+{
+  "name": "Public support for nuclear energy- Ipsos Mori",
+  "title": "Public support for nuclear energy- Ipsos Mori",
+  "id": 574,
+  "description": "The Ipsos MORI survey was conducted in 24 countries. An international sample of 18,787 adults aged 18-64 in the US and Canada, and age 16-64 in all other countries, were interviewed between May 6 and May 21, 2011 via the Ipsos Online Panel system.\n\nThe results presented here were in response to the question of support or opposition to new nuclear energy builds.",
+  "sources": [
+    {
+      "name": "Public support for nuclear energy- Ipsos Mori",
+      "dataPublishedBy": "Ipsos MORI (2011). Global Citizen Reaction to the Fukushima Nuclear Plant Disaster",
+      "dataPublisherSource": "Ipsos MORI global and national surveys",
+      "link": "https://www.ipsos.com/ipsos-mori/en-uk/strong-global-opposition-towards-nuclear-power",
+      "retrievedDate": "17/07/2017",
+      "additionalInfo": "The Ipsos MORI survey was conducted in 24 countries. An international sample of 18,787 adults aged 18-64 in the US and Canada, and age 16-64 in all other countries, were interviewed between May 6 and May 21, 2011 via the Ipsos Online Panel system.\n\nThe results presented here were in response to the question of support or opposition to new nuclear energy builds."
+    }
+  ],
+  "owidTags": [
+    "Nuclear Energy"
+  ],
+  "resources": [
+    {
+      "path": "Public support for nuclear energy- Ipsos Mori.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Continue to build nuclear",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Stop future nuclear builds",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
