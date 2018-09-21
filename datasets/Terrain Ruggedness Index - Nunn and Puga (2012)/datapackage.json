@@ -1,0 +1,46 @@
+{
+  "name": "Terrain Ruggedness Index - Nunn and Puga (2012)",
+  "title": "Terrain Ruggedness Index - Nunn and Puga (2012)",
+  "id": 2760,
+  "description": "",
+  "sources": [
+    {
+      "name": "Nunn and Puga (2012)",
+      "dataPublishedBy": "Nunn, Nathan, and Diego Puga, ‘‘Ruggedness: The Blessing of Bad Geography in Africa,’’ Review of Economics and Statistics, 94, no. 1 (2012), 20–36.",
+      "dataPublisherSource": "Based on GTOPO30 (US Geological Survey, 1996), a global elevation data set developed through a collaborative international effort led by staff at the US Geological Survey's Center for Earth Resources Observation and Science (EROS). ",
+      "link": "https://diegopuga.org/data/rugged/",
+      "retrievedDate": "2018-04-15",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Terrain Ruggedness Index - Nunn and Puga (2012).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Terrain Ruggedness Index 100m (Nunn and Puga 2012)",
+            "type": "any",
+            "description": "This is the Terrain Ruggedness Index originally devised by Riley, DeGloria, and Elliot (1999) to quantify topographic heterogeneity in wildlife habitats providing concealment for preys and lookout posts. The source of elevation data is GTOPO30 (US Geological Survey, 1996), a global elevation data set developed through a collaborative international effort led by staff at the US Geological Survey's Center for Earth Resources Observation and Science (EROS). Elevations in GTOPO30 are regularly spaced at 30 arc-seconds across the entire surface of the Earth on a map using a geographic projection, so the sea-level surface distance between two adjacent grid points on a meridian is half a nautical mile or, equivalently, 926 metres. After calculating the Terrain Ruggedness Index for each point on the grid, we average across all grid cells in the country not covered by water to obtain the average terrain ruggedness of the country's land area. Since the sea-level surface that corresponds to a 30 by 30 arcsecond cell varies in proportion to the cosine of its latitude, when calculating the average terrain ruggedness — or the average of any other variable — for each country, we weigh each cell by its latitude-varying sea-level surface. We assign land to countries — for this and other variables — using digital boundary data based on the fifth edition of the Digital Chart of the World (US National Imagery and Mapping Agency, 2000), which we have updated to reflect 2000 country boundaries using information from the International Organization for Standardization ISO 3166 Maintenance Agency and other sources. We exclude areas covered by permanent inland water area features contained in the same edition of the Digital Chart of the World. The units for the terrain ruggedness index correspond to the units used to measure elevation differences. In our calculation, ruggedness is measured in hundreds of metres of elevation difference for grid points 30 arc-seconds (926 metres on the equator or any meridian) apart.",
+            "owidDisplaySettings": {
+              "unit": "metres of elevation difference",
+              "shortUnit": "m",
+              "conversionFactor": 100
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
