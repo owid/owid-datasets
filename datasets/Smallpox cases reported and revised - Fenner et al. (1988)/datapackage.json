@@ -1,0 +1,48 @@
+{
+  "name": "Smallpox cases reported and revised - Fenner et al. (1988)",
+  "title": "Smallpox cases reported and revised - Fenner et al. (1988)",
+  "id": 2792,
+  "description": "",
+  "sources": [
+    {
+      "name": "Fenner et al. (1988)",
+      "dataPublishedBy": "Page 477 of Fenner, F., Henderson, D., Arita, I., Jezek, Z., & Ladnyi, I. (1988). Smallpox and its eradication. Geneva: World Health Organization.",
+      "dataPublisherSource": "Unpublished World Health Assembly document A20/P&B/7",
+      "link": "http://apps.who.int/iris/bitstream/10665/39485/1/9241561106.pdf",
+      "retrievedDate": "13 May 2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Eradication of Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Smallpox cases reported and revised - Fenner et al. (1988).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Smallpox cases as recorded in April 1967",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Smallpox cases as revised in 1987",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
