@@ -1,0 +1,48 @@
+{
+  "name": "Measles London",
+  "title": "Measles London",
+  "id": 1875,
+  "description": "To be filled in",
+  "sources": [
+    {
+      "name": "Our World in Data (2017)",
+      "dataPublishedBy": "Our World in Data (compiled by Sophie Ochmann)",
+      "dataPublisherSource": "I'll add this later",
+      "link": "Link",
+      "retrievedDate": "4 December 2017",
+      "additionalInfo": "To be filled in"
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Measles London.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Deaths from all causes",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Measles",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
