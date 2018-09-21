@@ -1,0 +1,42 @@
+{
+  "name": "Number of deaths from tuberculosis - GBD 2016",
+  "title": "Number of deaths from tuberculosis - GBD 2016",
+  "id": 1908,
+  "description": "",
+  "sources": [
+    {
+      "name": "Global Burden of Disease (2016)",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2016 (GBD 2016) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2017. ",
+      "dataPublisherSource": null,
+      "link": "http://ghdx.healthdata.org/gbd-results-tool ",
+      "retrievedDate": "23 January 2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Eradication of Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Number of deaths from tuberculosis - GBD 2016.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of deaths from tuberculosis (GBD 2016)",
+            "type": "any",
+            "description": "This is the Global Burden of Disease data of both sexes, all ages, and the absolute number of deaths but now includes data on world regions.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
