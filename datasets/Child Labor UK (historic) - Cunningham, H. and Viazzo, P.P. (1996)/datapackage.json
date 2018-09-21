@@ -1,0 +1,53 @@
+{
+  "name": "Child Labor UK (historic) - Cunningham, H. and Viazzo, P.P. (1996)",
+  "title": "Child Labor UK (historic) - Cunningham, H. and Viazzo, P.P. (1996)",
+  "id": 168,
+  "description": "",
+  "sources": [
+    {
+      "name": "Cunningham, H. and Viazzo, P.P. (1996)",
+      "dataPublishedBy": "Cunningham, H. and Viazzo, P.P. (1996), Child labor in historical perspective, 1800-1985: case studies from Europe, Japan and Colombia, Unicef, Firenze.",
+      "dataPublisherSource": "Census of England and Wales",
+      "link": "http://www.unicef-irc.org/publications/pdf/hisper_childlabour_low.pdf",
+      "retrievedDate": " 2017-09-27",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Child Labor"
+  ],
+  "resources": [
+    {
+      "path": "Child Labor UK (historic) - Cunningham, H. and Viazzo, P.P. (1996).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Child Labor UK (boys, historic) (Cunningham, H. and Viazzo, P.P. (1996))",
+            "type": "any",
+            "description": "Share of boys in employment aged 10-14.",
+            "owidDisplaySettings": {
+              "name": "Total fertility rate",
+              "unit": "Children per woman"
+            }
+          },
+          {
+            "name": "Child Labor UK (girls, historic) (Cunningham, H. and Viazzo, P.P. (1996))",
+            "type": "any",
+            "description": "Share of girls in employment aged 10-14.",
+            "owidDisplaySettings": {
+              "unit": "people"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
