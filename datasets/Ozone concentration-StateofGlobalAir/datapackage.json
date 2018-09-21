@@ -1,0 +1,44 @@
+{
+  "name": "Ozone concentration-StateofGlobalAir",
+  "title": "Ozone concentration-StateofGlobalAir",
+  "id": 387,
+  "description": "Data is gathered based on a combination of air quality observations from satellites combined with information from global chemical transport models, and available ground measurements. A global chemical transport model was used to calculate a seasonal (summer, when temperatures are highest) average concentration. Variation in the timing of the ozone (summer) season in different parts of the world is accounted for in these datasets. Global exposure to PM2.5 is then systematically estimated based on blocks or grid cells covering 0.1° x 0.1° of longitude and latitude (approximately 11 km x 11 km at the equator).\n\nTaking into account the population in each block within a country, this data is then aggregated as estimated exposure concentrations to national-level population-weighted averages for a given year.",
+  "sources": [
+    {
+      "name": "Ozone concentration-StateofGlobalAir",
+      "dataPublishedBy": "State of Global Air 2017. HEI, 2017",
+      "dataPublisherSource": "Global Burden of Disease Study 2015. IHME, 2016",
+      "link": "www.stateofglobalair.org",
+      "retrievedDate": "12/04/2017",
+      "additionalInfo": "Data is gathered based on a combination of air quality observations from satellites combined with information from global chemical transport models, and available ground measurements. A global chemical transport model was used to calculate a seasonal (summer, when temperatures are highest) average concentration. Variation in the timing of the ozone (summer) season in different parts of the world is accounted for in these datasets. Global exposure to PM2.5 is then systematically estimated based on blocks or grid cells covering 0.1° x 0.1° of longitude and latitude (approximately 11 km x 11 km at the equator).\n\nTaking into account the population in each block within a country, this data is then aggregated as estimated exposure concentrations to national-level population-weighted averages for a given year."
+    }
+  ],
+  "owidTags": [
+    "Air Pollution"
+  ],
+  "resources": [
+    {
+      "path": "Ozone concentration-StateofGlobalAir.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Ozone concentration-StateofGlobalAir",
+            "type": "any",
+            "description": "Population-weighted ozone (O3) concentration by country (1990-2015) in parts per billion (ppb)- via StateofGlobalAir",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
