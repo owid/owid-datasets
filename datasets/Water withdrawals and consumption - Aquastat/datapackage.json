@@ -1,0 +1,110 @@
+{
+  "name": "Water withdrawals and consumption - Aquastat",
+  "title": "Water withdrawals and consumption - Aquastat",
+  "id": 1014,
+  "description": "Data definitions for each variable included in the AQUASTAT Database is as follows:\n\nAgricultural water withdrawal: \"Annual quantity of self-supplied water withdrawn for irrigation, livestock and aquaculture purposes. It can include water from primary renewable and secondary freshwater resources, as well as water from over-abstraction of renewable groundwater or withdrawal from fossil groundwater, direct use of agricultural drainage water, direct use of (treated) wastewater, and desalinated water. Water for the dairy and meat industries and industrial processing of harvested agricultural products is included under industrial water withdrawal.\"\n\nIndustrial water withdrawal: \"Annual quantity of self-supplied water withdrawn for industrial uses. It can include water from primary renewable and secondary freshwater resources, as well as water from over-abstraction of renewable groundwater or withdrawal from fossil groundwater, direct use of agricultural drainage water, direct use of (treated) wastewater, and desalinated water. This sector refers to self-supplied industries not connected to the public distribution network. The ratio between net consumption and withdrawal is estimated at less than 5%. It includes water for the cooling of thermoelectric and nuclear power plants, but it does not include hydropower. Water withdrawn by industries that are connected to the public supply network is generally included in municipal water withdrawal.\"\n\nMunicipal water withdrawal: \"Annual quantity of water withdrawn primarily for the direct use by the population. It can include water from primary renewable and secondary freshwater resources, as well as water from over-abstraction of renewable groundwater or withdrawal from fossil groundwater, direct use of agricultural drainage water, direct use of (treated) wastewater, and desalinated water. It is usually computed as the total water withdrawn by the public distribution network. It can include that part of the industries and urban agriculture, which is connected to the municipal network. The ratio between the net consumption and the water withdrawn can vary from 5 to 15% in urban areas and from 10 to 50% in rural areas.\"\n\nIrrigation water requirement: \"The quantity of water exclusive of precipitation and soil moisture (i.e. quantity of irrigation water) required for normal crop production. It consists of water to ensure that the crop receives its full crop water requirement (i.e. irrigation consumptive water use, as well as extra water for flooding of paddy fields to facilitate land preparation and protect the plant and for leaching salt when necessary to allow for plant growth). It is usually expressed in water depth (millimetres) or water volume (m3) and may be stated in monthly, seasonal or annual terms, or for a crop period. It corresponds to net irrigation water requirement.\"\n\nIrrigation water withdrawal: \"Annual quantity of water withdrawn for irrigation purposes. In the AQUASTAT database water withdrawal for irrigation is part of agricultural water withdrawal, together with water withdrawal for livestock (watering and cleaning) and water withdrawal for aquaculture. It can include water from primary renewable and secondary freshwater resources, as well as water from over-abstraction of renewable groundwater or withdrawal from fossil groundwater, direct use of agricultural drainage water, direct use of (treated) wastewater, and desalinated water. The amount of water withdrawn for irrigation by far exceeds the consumptive use of irrigation because of water lost in its distribution from its source to the crops. The term \"water requirement ratio\" (sometimes also called \"irrigation efficiency\") is used to indicate the ratio between the net irrigation water requirements or crop water requirements, which is the volume of water needed to compensate for the deficit between potential evapotranspiration and effective precipitation over the growing period of the crop, and the amount of water withdrawn for irrigation including the losses. In the specific case of paddy rice irrigation, additional water is needed for flooding to facilitate land preparation and for plant protection. In that case, irrigation water requirements are the sum of rainfall deficit and the water needed to flood paddy fields. At scheme level, water requirement ratio values can vary from less than 20 percent to more than 80 percent.\"\n\nTotal water withdrawal: \"Annual quantity of water withdrawn for agricultural, industrial and municipal purposes. It can include water from primary renewable and secondary freshwater resources, as well as water from over-abstraction of renewable groundwater or withdrawal from fossil groundwater, direct use of agricultural drainage water, direct use of (treated) wastewater, and desalinated water. It does not include in-stream uses, which are characterized by a very low net consumption rate, such as recreation, navigation, hydropower, inland capture fisheries, etc.\"",
+  "sources": [
+    {
+      "name": "Water withdrawals and consumption - Aquastat",
+      "dataPublishedBy": "United Nations Food and Agricultural Organization (UN FAO) AQUASTAT Database",
+      "dataPublisherSource": null,
+      "link": "http://www.fao.org/nr/water/aquastat/data/query/results.html",
+      "retrievedDate": "2017-11-05",
+      "additionalInfo": "Data definitions for each variable included in the AQUASTAT Database is as follows:\n\nAgricultural water withdrawal: \"Annual quantity of self-supplied water withdrawn for irrigation, livestock and aquaculture purposes. It can include water from primary renewable and secondary freshwater resources, as well as water from over-abstraction of renewable groundwater or withdrawal from fossil groundwater, direct use of agricultural drainage water, direct use of (treated) wastewater, and desalinated water. Water for the dairy and meat industries and industrial processing of harvested agricultural products is included under industrial water withdrawal.\"\n\nIndustrial water withdrawal: \"Annual quantity of self-supplied water withdrawn for industrial uses. It can include water from primary renewable and secondary freshwater resources, as well as water from over-abstraction of renewable groundwater or withdrawal from fossil groundwater, direct use of agricultural drainage water, direct use of (treated) wastewater, and desalinated water. This sector refers to self-supplied industries not connected to the public distribution network. The ratio between net consumption and withdrawal is estimated at less than 5%. It includes water for the cooling of thermoelectric and nuclear power plants, but it does not include hydropower. Water withdrawn by industries that are connected to the public supply network is generally included in municipal water withdrawal.\"\n\nMunicipal water withdrawal: \"Annual quantity of water withdrawn primarily for the direct use by the population. It can include water from primary renewable and secondary freshwater resources, as well as water from over-abstraction of renewable groundwater or withdrawal from fossil groundwater, direct use of agricultural drainage water, direct use of (treated) wastewater, and desalinated water. It is usually computed as the total water withdrawn by the public distribution network. It can include that part of the industries and urban agriculture, which is connected to the municipal network. The ratio between the net consumption and the water withdrawn can vary from 5 to 15% in urban areas and from 10 to 50% in rural areas.\"\n\nIrrigation water requirement: \"The quantity of water exclusive of precipitation and soil moisture (i.e. quantity of irrigation water) required for normal crop production. It consists of water to ensure that the crop receives its full crop water requirement (i.e. irrigation consumptive water use, as well as extra water for flooding of paddy fields to facilitate land preparation and protect the plant and for leaching salt when necessary to allow for plant growth). It is usually expressed in water depth (millimetres) or water volume (m3) and may be stated in monthly, seasonal or annual terms, or for a crop period. It corresponds to net irrigation water requirement.\"\n\nIrrigation water withdrawal: \"Annual quantity of water withdrawn for irrigation purposes. In the AQUASTAT database water withdrawal for irrigation is part of agricultural water withdrawal, together with water withdrawal for livestock (watering and cleaning) and water withdrawal for aquaculture. It can include water from primary renewable and secondary freshwater resources, as well as water from over-abstraction of renewable groundwater or withdrawal from fossil groundwater, direct use of agricultural drainage water, direct use of (treated) wastewater, and desalinated water. The amount of water withdrawn for irrigation by far exceeds the consumptive use of irrigation because of water lost in its distribution from its source to the crops. The term \"water requirement ratio\" (sometimes also called \"irrigation efficiency\") is used to indicate the ratio between the net irrigation water requirements or crop water requirements, which is the volume of water needed to compensate for the deficit between potential evapotranspiration and effective precipitation over the growing period of the crop, and the amount of water withdrawn for irrigation including the losses. In the specific case of paddy rice irrigation, additional water is needed for flooding to facilitate land preparation and for plant protection. In that case, irrigation water requirements are the sum of rainfall deficit and the water needed to flood paddy fields. At scheme level, water requirement ratio values can vary from less than 20 percent to more than 80 percent.\"\n\nTotal water withdrawal: \"Annual quantity of water withdrawn for agricultural, industrial and municipal purposes. It can include water from primary renewable and secondary freshwater resources, as well as water from over-abstraction of renewable groundwater or withdrawal from fossil groundwater, direct use of agricultural drainage water, direct use of (treated) wastewater, and desalinated water. It does not include in-stream uses, which are characterized by a very low net consumption rate, such as recreation, navigation, hydropower, inland capture fisheries, etc.\""
+    }
+  ],
+  "owidTags": [
+    "Water Accessibility, Consumption & Sanitation"
+  ],
+  "resources": [
+    {
+      "path": "Water withdrawals and consumption - Aquastat.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total water withdrawal per capita",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "shortUnit": "m³"
+            }
+          },
+          {
+            "name": "Total water withdrawal",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Municipal water as share of total withdrawal",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Municipal water withdrawal",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "m³ per year",
+              "shortUnit": "m³",
+              "conversionFactor": 1000000000
+            }
+          },
+          {
+            "name": "Irrigation water withdrawal",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Irrigation water requirement",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Industrial water as share of total withdrawal",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Industrial water withdrawal",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "m³ per year",
+              "shortUnit": "m³",
+              "conversionFactor": 1000000000
+            }
+          },
+          {
+            "name": "Agricultural water withdrawal",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "m³ per year",
+              "shortUnit": "m³",
+              "conversionFactor": 1000000000
+            }
+          },
+          {
+            "name": "Agricultural water as share of total withdrawal",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
