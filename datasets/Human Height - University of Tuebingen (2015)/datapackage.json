@@ -1,0 +1,45 @@
+{
+  "name": "Human Height - University of Tuebingen (2015)",
+  "title": "Human Height - University of Tuebingen (2015)",
+  "id": 27,
+  "description": "Historical heights of soldiers, conscripts, prisoners and others. Please consult the sources for details for each country.",
+  "sources": [
+    {
+      "name": "University of Tuebingen: Height datahub (2015)",
+      "dataPublishedBy": "University of Tuebingen",
+      "dataPublisherSource": "Several sources (see website)",
+      "link": "http://www.uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/wirtschaftswissenschaft/lehrstuehle/volkswirtschaftslehre/wirtschaftsgeschichte/data-hub-height.html",
+      "retrievedDate": "07/01/2015",
+      "additionalInfo": "Historical heights of soldiers, conscripts, prisoners and others. Please consult the sources for details for each country."
+    }
+  ],
+  "owidTags": [
+    "Human Height"
+  ],
+  "resources": [
+    {
+      "path": "Human Height - University of Tuebingen (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Human Height (University of Tuebingen (2015))",
+            "type": "any",
+            "description": "Human height measured in centimetres.",
+            "owidDisplaySettings": {
+              "unit": "cm",
+              "shortUnit": "cm"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
