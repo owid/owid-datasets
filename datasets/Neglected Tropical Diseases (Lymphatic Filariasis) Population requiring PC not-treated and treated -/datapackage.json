@@ -1,0 +1,52 @@
+{
+  "name": "Neglected Tropical Diseases (Lymphatic Filariasis) Population requiring PC not-treated and treated - Enric Jané (2016)",
+  "title": "Neglected Tropical Diseases (Lymphatic Filariasis) Population requiring PC not-treated and treated - Enric Jané (2016)",
+  "id": 417,
+  "description": "",
+  "sources": [
+    {
+      "name": "Lymphatic Filariasis data from Enric Jané (2016)",
+      "dataPublishedBy": "Enric Jané",
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": "15/02/2016",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Neglected Tropical Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Neglected Tropical Diseases (Lymphatic Filariasis) Population requiring PC not-treated and treated - Enric Jané (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Reported number of people treated (Enric Jané (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Population requiring PC for LF but NOT treated (Enric Jané (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
