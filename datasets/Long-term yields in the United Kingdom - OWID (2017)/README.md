@@ -1,0 +1,3 @@
+# Long-term yields in the United Kingdom - OWID (2017)
+
+This dataset on agricultural yields in the United Kingdom combines yield data from the above mentioned three sources. Broadberry et al (2015) data, made available by Bank of England, comprises crop yield estimates only for England. For this dataset, we have assumed that yields in England are also representative of average UK yields. Also, figures in Brassley (2000) are provided over 5-year periods. We have assumed these figures for the first year in each 5-year set.

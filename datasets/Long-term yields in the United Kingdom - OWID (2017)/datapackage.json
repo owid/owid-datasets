@@ -1,0 +1,78 @@
+{
+  "name": "Long-term yields in the United Kingdom - OWID (2017)",
+  "title": "Long-term yields in the United Kingdom - OWID (2017)",
+  "id": 670,
+  "description": "This dataset on agricultural yields in the United Kingdom combines yield data from the above mentioned three sources. Broadberry et al (2015) data, made available by Bank of England, comprises crop yield estimates only for England. For this dataset, we have assumed that yields in England are also representative of average UK yields. Also, figures in Brassley (2000) are provided over 5-year periods. We have assumed these figures for the first year in each 5-year set.",
+  "sources": [
+    {
+      "name": "OWID Long-term crop yields in UK - OWID (2017)",
+      "dataPublishedBy": "Our World In Data (dataset constructed by Hannah Ritchie & Ruby Mittal)",
+      "dataPublisherSource": "Data from 1270-1870 corresponds to Broadberry, S., Campbell, B. M., Klein, A., Overton, M., & Van Leeuwen, B. (2015). British economic growth, 1270–1870. Cambridge University Press. Data from 1885-1946 corresponds to Brassley, P. (2000). Output and technical change in twentieth-century British agriculture. The Agricultural History Review, 60-84. Data from 1961-2014 corresponds to UN Food and Agriculture Organization (FAO).",
+      "link": "Broadberry et al (2015): http://www.bankofengland.co.uk/research/Pages/datasets/default.aspx#threecenturies. FAO: http://www.fao.org/faostat/en/#data",
+      "retrievedDate": "23/08/2017",
+      "additionalInfo": "This dataset on agricultural yields in the United Kingdom combines yield data from the above mentioned three sources. Broadberry et al (2015) data, made available by Bank of England, comprises crop yield estimates only for England. For this dataset, we have assumed that yields in England are also representative of average UK yields. Also, figures in Brassley (2000) are provided over 5-year periods. We have assumed these figures for the first year in each 5-year set."
+    }
+  ],
+  "owidTags": [
+    "Yields"
+  ],
+  "resources": [
+    {
+      "path": "Long-term yields in the United Kingdom - OWID (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Wheat (OWID (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Barley (OWID (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Oats (OWID (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Potatoes (OWID (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Sugar Beet (OWID (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Rye (OWID (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Pulses (OWID (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
