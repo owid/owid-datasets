@@ -1,0 +1,66 @@
+{
+  "name": "Urban and rural populations in the United States - US Census Bureau (2010)",
+  "title": "Urban and rural populations in the United States - US Census Bureau (2010)",
+  "id": 2822,
+  "description": "For further information on the US Census Bureau's urban and rural classifications see: https://www.census.gov/geo/reference/ua/uafaq.html or https://www.census.gov/geo/reference/ua/urban-rural-2010.html",
+  "sources": [
+    {
+      "name": "US Census Bureau (2010)",
+      "dataPublishedBy": "US Census Bureau",
+      "dataPublisherSource": "National statistics",
+      "link": "https://www.census.gov/population/censusdata/table-4.pdf and https://www.census.gov/prod/cen2010/cph-2-1.pdf (Table 4, page 6)",
+      "retrievedDate": "21/06/2018",
+      "additionalInfo": "For further information on the US Census Bureau's urban and rural classifications see: https://www.census.gov/geo/reference/ua/uafaq.html or https://www.census.gov/geo/reference/ua/urban-rural-2010.html"
+    }
+  ],
+  "owidTags": [
+    "Urbanization"
+  ],
+  "resources": [
+    {
+      "path": "Urban and rural populations in the United States - US Census Bureau (2010).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Urban population (US Census Bureau (2010))",
+            "type": "any",
+            "description": "When the US Census Bureau first defined urban places in the 1880 and 1890 censuses, an urban place was one which had a minimum population of 4,000 to 8,000 people. This threshold rose to a population of 2,500 for the 1910 census, rising again to a population of 50,000 or more by the 1950 census.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Rural population (US Census Bureau (2010))",
+            "type": "any",
+            "description": "When the US Census Bureau first defined urban places in the 1880 and 1890 censuses, an urban place was one which had a minimum population of 4,000 to 8,000 people. This threshold rose to a population of 2,500 for the 1910 census, rising again to a population of 50,000 or more by the 1950 census.\n\nThe rural population is defined as any population outside urban areas. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total population (US Census Bureau (2010))",
+            "type": "any",
+            "description": "Summation of the urban and rural populations.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percentage of the population in urban areas (US Census Bureau (2010))",
+            "type": "any",
+            "description": "Share of the total population who live in urban areas.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percentage of the population in rural areas (US Census Bureau (2010))",
+            "type": "any",
+            "description": "Share of the total population who live in rural areas.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
