@@ -1,0 +1,48 @@
+{
+  "name": "Literacy in England, by sex - Schofield (1973), Houston (1982), Cressy (1980) ",
+  "title": "Literacy in England, by sex - Schofield (1973), Houston (1982), Cressy (1980) ",
+  "id": 2702,
+  "description": "See Table 1 (pg 204) for original figures. Table 1 provides the percentage who are illiterate. To arrive at current estimates: % who are literate = 100 - (% who are illiterate)",
+  "sources": [
+    {
+      "name": "R.A Houston (1982)",
+      "dataPublishedBy": "Houston, R.A., 1982. The Development of Literacy: Northern England, 1640–1750. The Economic History Review, 35(2), pp.199-216.",
+      "dataPublisherSource": "Northern Circuit Assizes Deponents, source of data: P.R.O. ASSI45",
+      "link": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-0289.1982.tb01193.x",
+      "retrievedDate": "26/03/2018",
+      "additionalInfo": "See Table 1 (pg 204) for original figures. Table 1 provides the percentage who are illiterate. To arrive at current estimates: % who are literate = 100 - (% who are illiterate)"
+    }
+  ],
+  "owidTags": [
+    "Literacy"
+  ],
+  "resources": [
+    {
+      "path": "Literacy in England, by sex - Schofield (1973), Houston (1982), Cressy (1980) .csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Male literacy rate (Houston (1982))",
+            "type": "any",
+            "description": "Percentage of male witnesses who sign court depositions, for the North. Years given correspond to the decade, i.e. 1640 estimate covers the period 1640-1649. Original Table 1 (pg 204) gives percentage who are illiterate. To arrive at current estimates: % who are literate = 100 - (% who are illiterate)",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Female literacy rate (Houston (1982))",
+            "type": "any",
+            "description": "Percentage of female witnesses who sign court depositions, for the North. Years given correspond to the decade, i.e. 1640 estimate covers the period 1640-1649. Original Table 1 (pg 204) gives percentage who are illiterate. To arrive at current estimates: % who are literate = 100 - (% who are illiterate)",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
