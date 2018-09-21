@@ -1,0 +1,48 @@
+{
+  "name": "Ease of Doing Business Ranking (World Bank (2018))",
+  "title": "Ease of Doing Business Ranking (World Bank (2018))",
+  "id": 1897,
+  "description": "",
+  "sources": [
+    {
+      "name": "World Bank (2018)",
+      "dataPublishedBy": "World Bank",
+      "dataPublisherSource": "Own calculations based on several ease of doing business indicators",
+      "link": "http://www.doingbusiness.org/rankings",
+      "retrievedDate": "9 January 2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Tariffs, Financial Liberalization & Trade Barriers"
+  ],
+  "resources": [
+    {
+      "path": "Ease of Doing Business Ranking (World Bank (2018)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Ease of Doing Business Rank (World Bank, 2018)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gross national income per capita (World Bank, 2018)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
