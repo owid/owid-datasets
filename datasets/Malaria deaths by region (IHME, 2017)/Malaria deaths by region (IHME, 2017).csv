@@ -1,0 +1,271 @@
+Entity,Year,"Malaria deaths (IHME, 2017)"
+Central Asia,1990,18
+Central Asia,1991,18
+Central Asia,1992,18
+Central Asia,1993,19
+Central Asia,1994,20
+Central Asia,1995,20
+Central Asia,1996,21
+Central Asia,1997,22
+Central Asia,1998,22
+Central Asia,1999,21
+Central Asia,2000,19
+Central Asia,2001,17
+Central Asia,2002,15
+Central Asia,2003,14
+Central Asia,2004,13
+Central Asia,2005,12
+Central Asia,2006,11
+Central Asia,2007,11
+Central Asia,2008,10
+Central Asia,2009,9
+Central Asia,2010,9
+Central Asia,2011,8
+Central Asia,2012,7
+Central Asia,2013,5
+Central Asia,2014,5
+Central Asia,2015,5
+Central Asia,2016,5
+East Asia,1990,292
+East Asia,1991,294
+East Asia,1992,292
+East Asia,1993,284
+East Asia,1994,282
+East Asia,1995,274
+East Asia,1996,275
+East Asia,1997,270
+East Asia,1998,268
+East Asia,1999,260
+East Asia,2000,257
+East Asia,2001,259
+East Asia,2002,261
+East Asia,2003,254
+East Asia,2004,246
+East Asia,2005,242
+East Asia,2006,230
+East Asia,2007,222
+East Asia,2008,214
+East Asia,2009,207
+East Asia,2010,204
+East Asia,2011,192
+East Asia,2012,186
+East Asia,2013,185
+East Asia,2014,191
+East Asia,2015,188
+East Asia,2016,192
+Europe,1990,0
+Europe,1991,0
+Europe,1992,0
+Europe,1993,0
+Europe,1994,0
+Europe,1995,0
+Europe,1996,0
+Europe,1997,0
+Europe,1998,0
+Europe,1999,0
+Europe,2000,0
+Europe,2001,0
+Europe,2002,0
+Europe,2003,0
+Europe,2004,0
+Europe,2005,0
+Europe,2006,0
+Europe,2007,0
+Europe,2008,0
+Europe,2009,0
+Europe,2010,0
+Europe,2011,0
+Europe,2012,0
+Europe,2013,0
+Europe,2014,0
+Europe,2015,0
+Europe,2016,0
+Latin America and the Caribbean,1990,1208
+Latin America and the Caribbean,1991,1167
+Latin America and the Caribbean,1992,1083
+Latin America and the Caribbean,1993,1003
+Latin America and the Caribbean,1994,920
+Latin America and the Caribbean,1995,832
+Latin America and the Caribbean,1996,757
+Latin America and the Caribbean,1997,690
+Latin America and the Caribbean,1998,626
+Latin America and the Caribbean,1999,559
+Latin America and the Caribbean,2000,505
+Latin America and the Caribbean,2001,456
+Latin America and the Caribbean,2002,418
+Latin America and the Caribbean,2003,385
+Latin America and the Caribbean,2004,358
+Latin America and the Caribbean,2005,334
+Latin America and the Caribbean,2006,317
+Latin America and the Caribbean,2007,300
+Latin America and the Caribbean,2008,289
+Latin America and the Caribbean,2009,282
+Latin America and the Caribbean,2010,275
+Latin America and the Caribbean,2011,271
+Latin America and the Caribbean,2012,265
+Latin America and the Caribbean,2013,259
+Latin America and the Caribbean,2014,255
+Latin America and the Caribbean,2015,256
+Latin America and the Caribbean,2016,259
+North Africa and Middle East,1990,3004
+North Africa and Middle East,1991,3255
+North Africa and Middle East,1992,3409
+North Africa and Middle East,1993,3649
+North Africa and Middle East,1994,3915
+North Africa and Middle East,1995,4133
+North Africa and Middle East,1996,4431
+North Africa and Middle East,1997,4612
+North Africa and Middle East,1998,4919
+North Africa and Middle East,1999,5179
+North Africa and Middle East,2000,5523
+North Africa and Middle East,2001,5705
+North Africa and Middle East,2002,5832
+North Africa and Middle East,2003,6017
+North Africa and Middle East,2004,6128
+North Africa and Middle East,2005,6595
+North Africa and Middle East,2006,5495
+North Africa and Middle East,2007,5062
+North Africa and Middle East,2008,4651
+North Africa and Middle East,2009,4437
+North Africa and Middle East,2010,4110
+North Africa and Middle East,2011,3930
+North Africa and Middle East,2012,4020
+North Africa and Middle East,2013,4480
+North Africa and Middle East,2014,4661
+North Africa and Middle East,2015,4775
+North Africa and Middle East,2016,4844
+North America,1990,0
+North America,1991,0
+North America,1992,0
+North America,1993,0
+North America,1994,0
+North America,1995,0
+North America,1996,0
+North America,1997,0
+North America,1998,0
+North America,1999,0
+North America,2000,0
+North America,2001,0
+North America,2002,0
+North America,2003,0
+North America,2004,0
+North America,2005,0
+North America,2006,0
+North America,2007,0
+North America,2008,0
+North America,2009,0
+North America,2010,0
+North America,2011,0
+North America,2012,0
+North America,2013,0
+North America,2014,0
+North America,2015,0
+North America,2016,0
+Oceania,1990,937
+Oceania,1991,1087
+Oceania,1992,1000
+Oceania,1993,886
+Oceania,1994,847
+Oceania,1995,812
+Oceania,1996,839
+Oceania,1997,836
+Oceania,1998,904
+Oceania,1999,2904
+Oceania,2000,5597
+Oceania,2001,5518
+Oceania,2002,5007
+Oceania,2003,5355
+Oceania,2004,5350
+Oceania,2005,4753
+Oceania,2006,4420
+Oceania,2007,2974
+Oceania,2008,1989
+Oceania,2009,1579
+Oceania,2010,1225
+Oceania,2011,1027
+Oceania,2012,1027
+Oceania,2013,1196
+Oceania,2014,951
+Oceania,2015,883
+Oceania,2016,912
+South Asia,1990,83822
+South Asia,1991,84054
+South Asia,1992,83557
+South Asia,1993,83640
+South Asia,1994,83036
+South Asia,1995,82848
+South Asia,1996,81347
+South Asia,1997,81532
+South Asia,1998,81705
+South Asia,1999,80249
+South Asia,2000,79711
+South Asia,2001,78179
+South Asia,2002,75367
+South Asia,2003,72426
+South Asia,2004,69619
+South Asia,2005,66921
+South Asia,2006,65115
+South Asia,2007,64027
+South Asia,2008,61933
+South Asia,2009,60283
+South Asia,2010,59394
+South Asia,2011,59272
+South Asia,2012,57297
+South Asia,2013,57272
+South Asia,2014,57688
+South Asia,2015,57665
+South Asia,2016,56948
+Southeast Asia,1990,21679
+Southeast Asia,1991,21780
+Southeast Asia,1992,21036
+Southeast Asia,1993,20686
+Southeast Asia,1994,20738
+Southeast Asia,1995,20057
+Southeast Asia,1996,20080
+Southeast Asia,1997,21254
+Southeast Asia,1998,19909
+Southeast Asia,1999,19832
+Southeast Asia,2000,19112
+Southeast Asia,2001,18846
+Southeast Asia,2002,18648
+Southeast Asia,2003,18586
+Southeast Asia,2004,18678
+Southeast Asia,2005,18479
+Southeast Asia,2006,18340
+Southeast Asia,2007,18148
+Southeast Asia,2008,18047
+Southeast Asia,2009,17986
+Southeast Asia,2010,18024
+Southeast Asia,2011,17257
+Southeast Asia,2012,17152
+Southeast Asia,2013,17269
+Southeast Asia,2014,15712
+Southeast Asia,2015,15307
+Southeast Asia,2016,15378
+Sub-Saharan Africa,1990,635001
+Sub-Saharan Africa,1991,658280
+Sub-Saharan Africa,1992,673351
+Sub-Saharan Africa,1993,693653
+Sub-Saharan Africa,1994,708643
+Sub-Saharan Africa,1995,725632
+Sub-Saharan Africa,1996,742342
+Sub-Saharan Africa,1997,753624
+Sub-Saharan Africa,1998,779012
+Sub-Saharan Africa,1999,800720
+Sub-Saharan Africa,2000,811085
+Sub-Saharan Africa,2001,844022
+Sub-Saharan Africa,2002,863074
+Sub-Saharan Africa,2003,887890
+Sub-Saharan Africa,2004,885826
+Sub-Saharan Africa,2005,879313
+Sub-Saharan Africa,2006,876656
+Sub-Saharan Africa,2007,870949
+Sub-Saharan Africa,2008,864433
+Sub-Saharan Africa,2009,827977
+Sub-Saharan Africa,2010,793365
+Sub-Saharan Africa,2011,749423
+Sub-Saharan Africa,2012,702376
+Sub-Saharan Africa,2013,679836
+Sub-Saharan Africa,2014,663480
+Sub-Saharan Africa,2015,642582
+Sub-Saharan Africa,2016,640986
