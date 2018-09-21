@@ -1,0 +1,3 @@
+# Investment in Renewables by Region - IRENA (2016)
+
+Data on investment is included for the following renewable energy projects: all biomass, waste-to-energy, geothermal and wind projects more than 1MW in capacity; all wave and tidal; hydropower projects between 1MW and 50MW; biofuel projects of more than one million litres per year; and all solar projects (with estimates of rooftop installations less than 1MW). Hydropower projects greater than 50MW have not been included in this data, since this technology has been mature for decades and is at a different stage of development versus more recent technologies.

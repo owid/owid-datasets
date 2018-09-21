@@ -1,0 +1,44 @@
+{
+  "name": "Investment in Renewables by Region - IRENA (2016)",
+  "title": "Investment in Renewables by Region - IRENA (2016)",
+  "id": 452,
+  "description": "Data on investment is included for the following renewable energy projects: all biomass, waste-to-energy, geothermal and wind projects more than 1MW in capacity; all wave and tidal; hydropower projects between 1MW and 50MW; biofuel projects of more than one million litres per year; and all solar projects (with estimates of rooftop installations less than 1MW). Hydropower projects greater than 50MW have not been included in this data, since this technology has been mature for decades and is at a different stage of development versus more recent technologies.",
+  "sources": [
+    {
+      "name": "Renewable Energy Investment by Region - IRENA (2016)",
+      "dataPublishedBy": "International Renewable Energy Agency (IRENA)",
+      "dataPublisherSource": "Frankfurt School- UNEP Centre/Bloomberg New Energy Finance (2016), Global Trends in Renewable Energy Finance",
+      "link": "http://resourceirena.irena.org/gateway/dashboard/",
+      "retrievedDate": "02/05/2017",
+      "additionalInfo": "Data on investment is included for the following renewable energy projects: all biomass, waste-to-energy, geothermal and wind projects more than 1MW in capacity; all wave and tidal; hydropower projects between 1MW and 50MW; biofuel projects of more than one million litres per year; and all solar projects (with estimates of rooftop installations less than 1MW). Hydropower projects greater than 50MW have not been included in this data, since this technology has been mature for decades and is at a different stage of development versus more recent technologies."
+    }
+  ],
+  "owidTags": [
+    "Renewable Energy"
+  ],
+  "resources": [
+    {
+      "path": "Investment in Renewables by Region - IRENA (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Investment in Renewables by Region (IRENA (2016))",
+            "type": "any",
+            "description": "Investment in Renewable Energy by Region",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
