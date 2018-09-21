@@ -1,0 +1,60 @@
+{
+  "name": "US Revenue Public Schools - US Bureau of the Census and NCES (2017)",
+  "title": "US Revenue Public Schools - US Bureau of the Census and NCES (2017)",
+  "id": 245,
+  "description": "",
+  "sources": [
+    {
+      "name": "US Bureau of the Census and NCES (2017)",
+      "dataPublishedBy": "US Bureau of the Census and NCES (2017)",
+      "dataPublisherSource": "US Census Bureau and NCES\nRevenue Data:\n(a) Historical Statistics of the United States Colonial Times to 1970 (1890-1970)\n\n(b) NCES Digest of Education Statistics 2015 (1970-2010)\nGDP Data:\n\n(c) Historical Statistics of the United States Colonial Times to 1970 (1890-1930)\n\n(d) US Census Bureau. Statistical Abstract of the United States: 2012 (1930-2010)",
+      "link": "https://www.census.gov/data.html and https://nces.ed.gov/datatools/",
+      "retrievedDate": "30/09/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Financing of Education"
+  ],
+  "resources": [
+    {
+      "path": "US Revenue Public Schools - US Bureau of the Census and NCES (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total (US Bureau of the Census and NCES (2017))",
+            "type": "any",
+            "description": "Revenues for public elementary and secondary schools, by source of funds, as share of GDP\r\n\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Federal/Unassigned (US Bureau of the Census and NCES (2017))",
+            "type": "any",
+            "description": "Revenues for public elementary and secondary schools, by source of funds, as share of GDP\r\n\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "State (US Bureau of the Census and NCES (2017))",
+            "type": "any",
+            "description": "Revenues for public elementary and secondary schools, by source of funds, as share of GDP\r\n\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Local (US Bureau of the Census and NCES (2017))",
+            "type": "any",
+            "description": "Revenues for public elementary and secondary schools, by source of funds, as share of GDP\r\n\r\n",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
