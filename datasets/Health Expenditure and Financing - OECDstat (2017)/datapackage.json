@@ -1,0 +1,44 @@
+{
+  "name": "Health Expenditure and Financing - OECDstat (2017)",
+  "title": "Health Expenditure and Financing - OECDstat (2017)",
+  "id": 489,
+  "description": "Per capita health expenditure here is measured in 2010 international dollars.\r\n\r\nThe definition of health spending given by the OECD is the following: \"Health spending measures the final consumption of health care goods and services (i.e. current health expenditure) including personal health care (curative care, rehabilitative care, long-term care, ancillary services and medical goods) and collective services (prevention and public health services as well as health administration), but excluding spending on investments. Health care is financed through a mix of financing arrangements including government spending and compulsory health insurance (“public”) as well as voluntary health insurance and private funds such as households’ out-of-pocket payments, NGOs and private corporations (“private”). This indicator is presented as a total and by type of financing (“public”, “private”, “out-of-pocket”) and is measured as a share of GDP, as a share of total health spending and in USD per capita (using economy-wide PPPs).\"",
+  "sources": [
+    {
+      "name": "Health Expenditure and Financing - OECDstat (2017)",
+      "dataPublishedBy": "Organisation for Economic Co-operation and Development (OECD) Statistics",
+      "dataPublisherSource": "Joint OECD, EUROSTAT and WHO Health Accounts SHA Questionnaires (JHAQ)",
+      "link": "https://stats.oecd.org/",
+      "retrievedDate": "24/05/2017",
+      "additionalInfo": "Per capita health expenditure here is measured in 2010 international dollars.\r\n\r\nThe definition of health spending given by the OECD is the following: \"Health spending measures the final consumption of health care goods and services (i.e. current health expenditure) including personal health care (curative care, rehabilitative care, long-term care, ancillary services and medical goods) and collective services (prevention and public health services as well as health administration), but excluding spending on investments. Health care is financed through a mix of financing arrangements including government spending and compulsory health insurance (“public”) as well as voluntary health insurance and private funds such as households’ out-of-pocket payments, NGOs and private corporations (“private”). This indicator is presented as a total and by type of financing (“public”, “private”, “out-of-pocket”) and is measured as a share of GDP, as a share of total health spending and in USD per capita (using economy-wide PPPs).\""
+    }
+  ],
+  "owidTags": [
+    "Health Insurance & Spending"
+  ],
+  "resources": [
+    {
+      "path": "Health Expenditure and Financing - OECDstat (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Health Expenditure and Financing (per capita) (OECDstat (2017))",
+            "type": "any",
+            "description": "Per capita health expenditure and financing in OECD countries, measured in 2010 international dollars",
+            "owidDisplaySettings": {
+              "unit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
