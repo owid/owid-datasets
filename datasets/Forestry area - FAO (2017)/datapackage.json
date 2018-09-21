@@ -1,0 +1,42 @@
+{
+  "name": "Forestry area - FAO (2017)",
+  "title": "Forestry area - FAO (2017)",
+  "id": 675,
+  "description": "Data on global forestry area from 1990 onwards is based on data from the UN Food and Agricultural Organization (FAO) database.\nData on global forestry prior to 1990 is less certain, and often prone to changes in definitions concerning forestry cover and density. We have extended this dataset to 1958 using reported data from the FAO World Forestry Inventory 1958 (published in 1960). Available at: http://www.fao.org/3/a-ad906t.pdf [accessed 18th August 2017].",
+  "sources": [
+    {
+      "name": "Forestry area - FAO (2017)",
+      "dataPublishedBy": "UN Food and Agricultural Organization (FAO)(2017)",
+      "dataPublisherSource": "FAO, census data.",
+      "link": "http://www.fao.org/faostat/en/#home",
+      "retrievedDate": null,
+      "additionalInfo": "Data on global forestry area from 1990 onwards is based on data from the UN Food and Agricultural Organization (FAO) database.\nData on global forestry prior to 1990 is less certain, and often prone to changes in definitions concerning forestry cover and density. We have extended this dataset to 1958 using reported data from the FAO World Forestry Inventory 1958 (published in 1960). Available at: http://www.fao.org/3/a-ad906t.pdf [accessed 18th August 2017]."
+    }
+  ],
+  "owidTags": [
+    "Forest Cover"
+  ],
+  "resources": [
+    {
+      "path": "Forestry area - FAO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Forest area (FAO (2017))",
+            "type": "any",
+            "description": "Measures hectares of forest area. Forested area includes primary, regenerated forestry and woodlands.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
