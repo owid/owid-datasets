@@ -1,0 +1,44 @@
+{
+  "name": "Health Coverage – ILO (2014)",
+  "title": "Health Coverage – ILO (2014)",
+  "id": 385,
+  "description": "Share of population covered by health insurance:\n\nEstimate of health coverage as a percentage of total population. Coverage includes affiliated members of health insurance or estimation of the population having free access to health care services provided by the State. Consult detailed data and sources available from the original tables (http://www.social-protection.org/gimi/gess/RessourceDownload.action?ressource.ressourceId=37218) and the discussion paper (http://apps.who.int/medicinedocs/en/d/Js21558en/)\n\n---\n\nTotal health care coverage:\n\nThis dataset combines observations for OECD countries from the 1960s, with observations for non-OECD countries from the 2000s. If you are interested in complete series please visit the underlying sources.\n\nEstimate of health coverage as a percentage of total population. Coverage includes affiliated members of health insurance or estimation of the population having free access to health care services provided by the State. Consult detailed data and sources available from the original tables (http://www.social-protection.org/gimi/gess/RessourceDownload.action?ressource.ressourceId=37218) and the discussion paper (http://apps.who.int/medicinedocs/en/d/Js21558en/)",
+  "sources": [
+    {
+      "name": "OWID based on ILO (2014) and OECD (2017)",
+      "dataPublishedBy": "Scheil-Adlung, Xenia (2014), Universal Health Protection: Progress to Date and the Way Forward, International Labour Organization. OECD.Stat",
+      "dataPublisherSource": "For OECD-member countries, OECD Health Data. For other countries, various sources (mainly official country reports).",
+      "link": "http://apps.who.int/medicinedocs/en/d/Js21558en/",
+      "retrievedDate": "10/04/2017",
+      "additionalInfo": "Share of population covered by health insurance:\n\nEstimate of health coverage as a percentage of total population. Coverage includes affiliated members of health insurance or estimation of the population having free access to health care services provided by the State. Consult detailed data and sources available from the original tables (http://www.social-protection.org/gimi/gess/RessourceDownload.action?ressource.ressourceId=37218) and the discussion paper (http://apps.who.int/medicinedocs/en/d/Js21558en/)\n\n---\n\nTotal health care coverage:\n\nThis dataset combines observations for OECD countries from the 1960s, with observations for non-OECD countries from the 2000s. If you are interested in complete series please visit the underlying sources.\n\nEstimate of health coverage as a percentage of total population. Coverage includes affiliated members of health insurance or estimation of the population having free access to health care services provided by the State. Consult detailed data and sources available from the original tables (http://www.social-protection.org/gimi/gess/RessourceDownload.action?ressource.ressourceId=37218) and the discussion paper (http://apps.who.int/medicinedocs/en/d/Js21558en/)"
+    }
+  ],
+  "owidTags": [
+    "Health Insurance & Spending"
+  ],
+  "resources": [
+    {
+      "path": "Health Coverage – ILO (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of population covered by health insurance (ILO (2014))",
+            "type": "any",
+            "description": "Percentage of the population covered by health insurance (members of health insurance or free access to health care services provided by the State)",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
