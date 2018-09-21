@@ -1,0 +1,42 @@
+{
+  "name": "Political Regime - OWID based on Polity IV and Wimmer & Min",
+  "title": "Political Regime - OWID based on Polity IV and Wimmer & Min",
+  "id": 280,
+  "description": "Polity 2 Measure ranges from -10 (autocracy) to +10 (full democracy). If a country was colonized in a given year is encoded as -20. In cases in which there was data from both Min and Wimmer and also Polity IV the Polity IV data is shown.",
+  "sources": [
+    {
+      "name": "Political Regime (OWID based on Polity IV and Wimmer & Min)",
+      "dataPublishedBy": "Our World In Data combined two datasets: Wimmer and Min (2006) for information on whether a country was colonized; Center for Systemic Peace for a measure of the political regime.",
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": "03/08/2016",
+      "additionalInfo": "Polity 2 Measure ranges from -10 (autocracy) to +10 (full democracy). If a country was colonized in a given year is encoded as -20. In cases in which there was data from both Min and Wimmer and also Polity IV the Polity IV data is shown."
+    }
+  ],
+  "owidTags": [
+    "Democratisation"
+  ],
+  "resources": [
+    {
+      "path": "Political Regime - OWID based on Polity IV and Wimmer & Min.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Political Regime (OWID based on Polity IV and Wimmer & Min)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
