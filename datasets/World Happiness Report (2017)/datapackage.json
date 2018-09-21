@@ -1,0 +1,42 @@
+{
+  "name": "World Happiness Report (2017)",
+  "title": "World Happiness Report (2017)",
+  "id": 235,
+  "description": "Life evaluation was measured by the individual answers to the Cantril ladder question: “Please imagine a ladder, with steps numbered from 0 at the bottom to 10 at the top. The top of the ladder represents the best possible life for you and the bottom of the ladder represents the worst possible life for you. On which step of the ladder would you say you personally feel you stand at this time?”",
+  "sources": [
+    {
+      "name": "World Happiness Report (2017)",
+      "dataPublishedBy": "World Happiness Report 2017",
+      "dataPublisherSource": "Gallup World Poll surveys (life evaluation question)",
+      "link": "http://worldhappiness.report/",
+      "retrievedDate": "24/04/2017",
+      "additionalInfo": "Life evaluation was measured by the individual answers to the Cantril ladder question: “Please imagine a ladder, with steps numbered from 0 at the bottom to 10 at the top. The top of the ladder represents the best possible life for you and the bottom of the ladder represents the worst possible life for you. On which step of the ladder would you say you personally feel you stand at this time?”"
+    }
+  ],
+  "owidTags": [
+    "Happiness and Life Satisfaction"
+  ],
+  "resources": [
+    {
+      "path": "World Happiness Report (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Life satisfaction in Cantril Ladder (World Happiness Report 2017)",
+            "type": "any",
+            "description": "Average of survey responses to the 'Cantril Ladder' question in the Gallup World Poll. The survey question asks respondents to think of a ladder, with the best possible life for them being a 10, and the worst possible life being a 0. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
