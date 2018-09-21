@@ -1,0 +1,84 @@
+{
+  "name": "Global progress per day (World Bank (2015))",
+  "title": "Global progress per day (World Bank (2015))",
+  "id": 1896,
+  "description": "Calculations were carried out by Our World in Data based on World Bank, World Development Indicator (WDI) data. This was calculated as the average daily change per metric for any given year based on World Bank statistics on population size, percentage access to development indicators such as electricity, sanitation and improved water, and estimates rates of poverty and child mortality.\n\nFrom these variables, we calculated the net annual change per year, and divided by 365 to estimate an average daily change.",
+  "sources": [
+    {
+      "name": "Global progress per day - OWID based on World Bank",
+      "dataPublishedBy": "World Bank - World Development Indicators (WDI)",
+      "dataPublisherSource": null,
+      "link": "https://data.worldbank.org/indicator/",
+      "retrievedDate": "8th January 2018",
+      "additionalInfo": "Calculations were carried out by Our World in Data based on World Bank, World Development Indicator (WDI) data. This was calculated as the average daily change per metric for any given year based on World Bank statistics on population size, percentage access to development indicators such as electricity, sanitation and improved water, and estimates rates of poverty and child mortality.\n\nFrom these variables, we calculated the net annual change per year, and divided by 365 to estimate an average daily change."
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Global progress per day (World Bank (2015)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Net population change (World Bank (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gain access to electricity (World Bank (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gain access to improved water source (World Bank (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gain access to improved sanitation (World Bank (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gain access to clean fuels and technologies (World Bank (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gain internet access (World Bank (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fewer child deaths (World Bank (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Escape extreme poverty (World Bank (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
