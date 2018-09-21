@@ -1,0 +1,64 @@
+{
+  "name": "Country-level land precipitation - Delaware",
+  "title": "Country-level land precipitation - Delaware",
+  "id": 954,
+  "description": "Country-level values were created by averaging all grid cells whose centroids were within the border of a country. Area weighted measures were weighted by the area of the grid cell when averaging the grid cells and population weighted averages used gridded population data from 2015 created by the Center for International Earth Science Information Network - CIESIN (http://dx.doi.org/10.7927/H4X63JVC).",
+  "sources": [
+    {
+      "name": "Country-level land precipitation - Delaware",
+      "dataPublishedBy": "University of Delaware",
+      "dataPublisherSource": "Global Historical Climatology Network (GHCN version 2) and the Global Surface Summary of Day (GSOD) archive.",
+      "link": "http://climate.geog.udel.edu/~climate/html_pages/archive.html",
+      "retrievedDate": "30/09/2017",
+      "additionalInfo": "Country-level values were created by averaging all grid cells whose centroids were within the border of a country. Area weighted measures were weighted by the area of the grid cell when averaging the grid cells and population weighted averages used gridded population data from 2015 created by the Center for International Earth Science Information Network - CIESIN (http://dx.doi.org/10.7927/H4X63JVC)."
+    }
+  ],
+  "owidTags": [
+    "Climate Change"
+  ],
+  "resources": [
+    {
+      "path": "Country-level land precipitation - Delaware.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Average monthly precipitation",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "shortUnit": "mm"
+            }
+          },
+          {
+            "name": "Precipitation weighted by Population",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "name": "Monthly precipitation weighted by population",
+              "unit": "millimetres",
+              "shortUnit": "mm"
+            }
+          },
+          {
+            "name": "Precipitation weighted by Area",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "name": "Monthly precipitation weighted by area",
+              "unit": "millimetres",
+              "shortUnit": "mm"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
