@@ -1,0 +1,144 @@
+{
+  "name": "Land Use Data - HYDE (2017)",
+  "title": "Land Use Data - HYDE (2017)",
+  "id": 694,
+  "description": "The authors of the database provide the following definition clarifications for land use categories:\n\n'Cropland' refers to the same FAO category titled 'arable land and permanent crops'.\n\n'Grazing' refers to the FAO category titled 'permanent meadows and pastures'.\n\n'Pastureland' refers to \"Grazing land with an aridity index > 0.5, assumed to be more intensively managed\".\n\n'Rangeland' refers to \"Grazing land with an aridity index > 0.5, assumed to be less or not managed\".\n\nArea values have been converted from square kilometres to hectares by multiplying by 100.\n\nFull reference: Klein Goldewijk et al., 20xx (in prep). Or in full: Klein Goldewijk, K., A. Beusen, J.Doelman and E. Stehfest, New anthropogenic land use estimates for the Holocene; HYDE 3.2, in prep.",
+  "sources": [
+    {
+      "name": "Land Use Data - HYDE (2017)",
+      "dataPublishedBy": "History Database of the Global Environment (HYDE)",
+      "dataPublisherSource": null,
+      "link": "http://themasites.pbl.nl/tridion/en/themasites/hyde/",
+      "retrievedDate": "24/08/2017",
+      "additionalInfo": "The authors of the database provide the following definition clarifications for land use categories:\n\n'Cropland' refers to the same FAO category titled 'arable land and permanent crops'.\n\n'Grazing' refers to the FAO category titled 'permanent meadows and pastures'.\n\n'Pastureland' refers to \"Grazing land with an aridity index > 0.5, assumed to be more intensively managed\".\n\n'Rangeland' refers to \"Grazing land with an aridity index > 0.5, assumed to be less or not managed\".\n\nArea values have been converted from square kilometres to hectares by multiplying by 100.\n\nFull reference: Klein Goldewijk et al., 20xx (in prep). Or in full: Klein Goldewijk, K., A. Beusen, J.Doelman and E. Stehfest, New anthropogenic land use estimates for the Holocene; HYDE 3.2, in prep."
+    }
+  ],
+  "owidTags": [
+    "Land Use in Agriculture"
+  ],
+  "resources": [
+    {
+      "path": "Land Use Data - HYDE (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Cropland (HYDE (2017))",
+            "type": "any",
+            "description": "'Cropland' refers to the same FAO category titled 'arable land and permanent crops', measured in hectares.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Grazing (HYDE (2017))",
+            "type": "any",
+            "description": "'Grazing' refers to the FAO category titled 'permanent meadows and pastures', measured in hectares.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total Irrigated Area (HYDE (2017))",
+            "type": "any",
+            "description": "Measured in hectares.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Irrigated Non-rice Crops (HYDE (2017))",
+            "type": "any",
+            "description": "Irrigated non-rice crops measured in hectares.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Irrigated Rice (HYDE (2017))",
+            "type": "any",
+            "description": "Hectares of irrigated rice.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Pastureland (HYDE (2017))",
+            "type": "any",
+            "description": "'Pastureland' refers to \"Grazing land with an aridity index > 0.5, assumed to be more intensively managed\", measured in hectares.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Rangeland (HYDE (2017))",
+            "type": "any",
+            "description": "'Rangeland' refers to \"Grazing land with an aridity index > 0.5, assumed to be less or not managed\", measured in hectares.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total Rainfed Area (HYDE (2017))",
+            "type": "any",
+            "description": "Total rainfed area measured in hectares.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Rainfed Non-rice Crops (HYDE (2017))",
+            "type": "any",
+            "description": "Rainfed non-rice crops measured in hectares.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total Rice Area (HYDE (2017))",
+            "type": "any",
+            "description": "Total rice area measured in hectares.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Built-up Area (HYDE (2017))",
+            "type": "any",
+            "description": "Built-up area measured in hectares.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total population (HYDE (2017))",
+            "type": "any",
+            "description": "Number of people in the population. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Urban population (HYDE (2017))",
+            "type": "any",
+            "description": "Number of people in the urban population. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Rural Population (HYDE (2017))",
+            "type": "any",
+            "description": "Number of people in the rural population. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Agricultural area (crops & grazing) (HYDE (2017))",
+            "type": "any",
+            "description": "Agricultural area in hectares.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cropland per capita (HYDE (2017))",
+            "type": "any",
+            "description": "Cropland per person, in hectares.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Grazing land per capita (HYDE (2017))",
+            "type": "any",
+            "description": "Grazing land per person, in hectares.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Agricultural land per capita (HYDE (2017))",
+            "type": "any",
+            "description": "Agricultural land per person, in hectares.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
