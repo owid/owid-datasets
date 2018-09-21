@@ -1,0 +1,44 @@
+{
+  "name": "SO2 emissions by region - OECD (2014) and Klimont et al. (2013)",
+  "title": "SO2 emissions by region - OECD (2014) and Klimont et al. (2013)",
+  "id": 374,
+  "description": "For the period 1850-2000 we have used regional data aggregated in OECD (2014) report based on Clio Infra national emissions data. Clio Infra data is available online at: https://www.clio-infra.eu/\nData for 2010 has been derived using figures from Klimont et al. (2013).\nMetrics of emissions are the same in both sources and based on methodology developed in Smith et al. (2011). This methodology estimates emissions based on energy and industrial production and mass-balance statistics.",
+  "sources": [
+    {
+      "name": "SO2 emissions by region (1850-2010) - OECD (2014) and Klimont et al. (2013)",
+      "dataPublishedBy": "OECD (2014) and Klimont, Z; S J Smith and J Cofala (2013) – The last decade of global anthropogenic sulfur dioxide: 2000–2011 emissions. Environmental Research Letters, Volume 8, Number 1.",
+      "dataPublisherSource": "Scholarly work and census data",
+      "link": "OECD (2014) – How Was Life? Global Well-being since 1820.\nhttp://www.oecd.org/statistics/how-was-life-9789264214262-en.htm\nKlimont, Z; S J Smith and J Cofala (2013) – The last decade of global anthropogenic sulfur dioxide: 2000–2011 emissions. Environmental Research Letters, Volume 8, Number 1.\nhttp://iopscience.iop.org/article/10.1088/1748-9326/8/1/014003\nS. J. Smith, J. van Aardenne, Z. Klimont, R. J. Andres, A. Volke, and S. Delgado Arias (2011) – Anthropogenic sulfur dioxide emissions: 1850–2005. Atmospheric Chemistry and Physics, 11, 1101-1116, doi:10.5194/acp-11-1101-2011, 2011.\nhttp://www.atmos-chem-phys.net/11/1101/2011/",
+      "retrievedDate": "11/04/2017",
+      "additionalInfo": "For the period 1850-2000 we have used regional data aggregated in OECD (2014) report based on Clio Infra national emissions data. Clio Infra data is available online at: https://www.clio-infra.eu/\nData for 2010 has been derived using figures from Klimont et al. (2013).\nMetrics of emissions are the same in both sources and based on methodology developed in Smith et al. (2011). This methodology estimates emissions based on energy and industrial production and mass-balance statistics."
+    }
+  ],
+  "owidTags": [
+    "Air Pollution"
+  ],
+  "resources": [
+    {
+      "path": "SO2 emissions by region - OECD (2014) and Klimont et al. (2013).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "SO2 emissions (OECD (2014) and Klimont et al. (2013))",
+            "type": "any",
+            "description": "Annual SO2 emissions by region. ",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

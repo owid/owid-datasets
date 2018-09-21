@@ -1,0 +1,103 @@
+Entity,Year,SO2 emissions (OECD (2014) and Klimont et al. (2013))
+Africa,1850,0
+Africa,1860,0
+Africa,1870,0
+Africa,1880,0.059
+Africa,1890,0.065
+Africa,1900,0.071
+Africa,1910,0.146
+Africa,1920,0.372
+Africa,1930,0.41
+Africa,1940,0.56
+Africa,1950,0.567
+Africa,1960,2.462
+Africa,1970,3.636
+Africa,1980,4.326
+Africa,1990,5.208
+Africa,2000,6.215
+Africa,2010,7.136
+Asia,1850,0
+Asia,1860,0
+Asia,1870,0
+Asia,1880,0
+Asia,1890,0
+Asia,1900,0.476
+Asia,1910,1.488
+Asia,1920,1.601
+Asia,1930,2.362
+Asia,1940,6.458
+Asia,1950,10.096
+Asia,1960,17.588
+Asia,1970,28.616
+Asia,1980,36.72
+Asia,1990,40.582
+Asia,2000,42.56
+Asia,2010,51.731
+Europe,1850,1.362
+Europe,1860,1.991
+Europe,1870,3.038
+Europe,1880,4.778
+Europe,1890,6.411
+Europe,1900,9.063
+Europe,1910,11.64
+Europe,1920,10.587
+Europe,1930,14.734
+Europe,1940,19.104
+Europe,1950,23.616
+Europe,1960,44.583
+Europe,1970,64.743
+Europe,1980,71.248
+Europe,1990,59.754
+Europe,2000,27.079
+Europe,2010,19.787
+North America,1850,0.372
+North America,1860,0.82
+North America,1870,1.581
+North America,1880,3.072
+North America,1890,5.928
+North America,1900,10.34
+North America,1910,18.24
+North America,1920,22.44
+North America,1930,22.344
+North America,1940,23.166
+North America,1950,26.496
+North America,1960,27.798
+North America,1970,37.74
+North America,1980,30.456
+North America,1990,26.86
+North America,2000,19.893
+North America,2010,11.786
+South America,1850,0.032
+South America,1860,0.078
+South America,1870,0.084
+South America,1880,0.098
+South America,1890,0.116
+South America,1900,0.14
+South America,1910,0.498
+South America,1920,0.686
+South America,1930,1.062
+South America,1940,1.584
+South America,1950,2.256
+South America,1960,4.199
+South America,1970,5.742
+South America,1980,8.756
+South America,1990,9.58
+South America,2000,8.816
+South America,2010,6.56
+World,1850,1.766
+World,1860,2.889
+World,1870,4.703
+World,1880,8.007
+World,1890,12.52
+World,1900,20.09
+World,1910,32.012
+World,1920,35.686
+World,1930,40.912
+World,1940,50.872
+World,1950,63.031
+World,1960,96.63
+World,1970,140.477
+World,1980,151.506
+World,1990,141.984
+World,2000,104.563
+World,2010,97
