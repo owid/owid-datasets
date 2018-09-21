@@ -1,0 +1,42 @@
+{
+  "name": "Annual world population growth rate - OWID",
+  "title": "Annual world population growth rate - OWID",
+  "id": 2908,
+  "description": "",
+  "sources": [
+    {
+      "name": "OWID and others",
+      "dataPublishedBy": "OWID",
+      "dataPublisherSource": " OWID spline interpolation until 1950, UN World Population Prospects for subsequent years.",
+      "link": "https://ourworldindata.org/world-population-growth#world-population-from-10-000-bce-to-2100-ce",
+      "retrievedDate": "30/08/2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "World Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Annual world population growth rate - OWID.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Annual population growth rate (OWID)",
+            "type": "any",
+            "description": "The year-on-year growth in the world population.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
