@@ -1,0 +1,42 @@
+{
+  "name": " Literacy by years of schooling US 1947 – OECD (2014) ",
+  "title": " Literacy by years of schooling US 1947 – OECD (2014) ",
+  "id": 2501,
+  "description": "",
+  "sources": [
+    {
+      "name": "OECD (2014) - How Was Life? Global Well-being since 1820",
+      "dataPublishedBy": "OECD",
+      "dataPublisherSource": "“Progress of literacy in various countries: a preliminary statistical study of available census data since 1900”, UNESCO (Paris, 1953) (Table 152).",
+      "link": "http://dx.doi.org/10.1787/888933095704",
+      "retrievedDate": "9 March 2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Education"
+  ],
+  "resources": [
+    {
+      "path": " Literacy by years of schooling US 1947 – OECD (2014) .csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Percentage literate",
+            "type": "any",
+            "description": " Literacy by years of schooling completed in the United States, 1947. Estimates correspond to people aged 14 years and older.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
