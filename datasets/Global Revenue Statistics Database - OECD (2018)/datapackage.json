@@ -1,0 +1,78 @@
+{
+  "name": "Global Revenue Statistics Database - OECD (2018)",
+  "title": "Global Revenue Statistics Database - OECD (2018)",
+  "id": 2828,
+  "description": "In 69 countries, the reporting year of tax revenue coincides with the calendar year, whereas 11 have different reporting years.  Where the GDP reporting year differs from the calendar year, annual GDP estimates are calculated by aggregating quarterly GDP estimates corresponding to each country’s fiscal (tax) year.\n\nFor further information on the OECD classification of taxes, see the OECD's Revenue Statistics Interpretative Guide (2017) available at: https://www.oecd.org/tax/tax-policy/oecd-classification-taxes-interpretative-guide.pdf",
+  "sources": [
+    {
+      "name": "OECD (2018)",
+      "dataPublishedBy": "OECD",
+      "dataPublisherSource": "Revenue Statistics publications, national statistics",
+      "link": "Data: https://stats.oecd.org/Index.aspx?DataSetCode=RS_GBL; Technical Paper: http://www.oecd.org/tax/tax-policy/constructing-the-global-revenue-statistics-database.pdf",
+      "retrievedDate": "04/07/2018",
+      "additionalInfo": "In 69 countries, the reporting year of tax revenue coincides with the calendar year, whereas 11 have different reporting years.  Where the GDP reporting year differs from the calendar year, annual GDP estimates are calculated by aggregating quarterly GDP estimates corresponding to each country’s fiscal (tax) year.\n\nFor further information on the OECD classification of taxes, see the OECD's Revenue Statistics Interpretative Guide (2017) available at: https://www.oecd.org/tax/tax-policy/oecd-classification-taxes-interpretative-guide.pdf"
+    }
+  ],
+  "owidTags": [
+    "Composition of Tax Revenues"
+  ],
+  "resources": [
+    {
+      "path": "Global Revenue Statistics Database - OECD (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total tax (% of GDP) (OECD (2018))",
+            "type": "any",
+            "description": "The level of total tax revenues as a percentage of GDP. Total tax include sub-national revenues, and compulsory social security contributions paid to the general government. \n\nThe tax-to-GDP ratio measures tax levels used in cross-country comparisons. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Taxes on income, profits, and capital gains (% of GDP) (OECD (2018))",
+            "type": "any",
+            "description": "The level of total tax revenues from taxes on income, profits, and capital gains of individuals and enterprises, as a percentage of GDP. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Social security contributions (SSC) (% of GDP) (OECD (2018)",
+            "type": "any",
+            "description": "The level of total tax revenues collected from social security contributions (SSC), as a percentage of GDP.  SSC are classified by the OECD as \"all compulsory payments that confer an entitlement to receive a (contingent) future social benefit\". ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Taxes on payroll and workforce (% of GDP) (OECD (2018))",
+            "type": "any",
+            "description": "The level of total tax revenues collected from taxes on payroll and workforce, as a percentage of GDP. This tax heading covers taxes paid by employers. employees, or the self-employed either as a proportion of payroll or a fixed amount per person, and which do not confer entitlement to social benefits. For example, the UK's national insurance surcharge (introduced in 1977). ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Taxes on property (% of GDP) (OECD (2018))",
+            "type": "any",
+            "description": "The level of total tax revenues collected from taxes on property, as a percentage of GDP. This heading covers recurrent and non-recurrent taxes on the use, ownership or transfer of property. It includes taxes on immovable property or net wealth, taxes on the change of ownership of property through inheritance or gift and taxes on financial and capital transactions.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Taxes on goods and services (% of GDP) (OECD (2018))",
+            "type": "any",
+            "description": "The level of tax revenues collected from taxes on goods and services, as a percentage of GDP.  This heading includes all taxes and duties levied on the production, extraction, sale, transfer, leasing or\ndelivery of goods, and the rendering of services;  or in respect of the use of goods or\npermission to use goods or to perform activities",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Other tax (% of GDP) (OECD (2018))",
+            "type": "any",
+            "description": "The level of tax revenues collected from taxes other than income and profits; social security contributions; payroll and workforce; property and; goods and services, as a percentage of GDP. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
