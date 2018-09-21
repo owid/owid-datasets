@@ -1,0 +1,44 @@
+{
+  "name": "Air pollution deaths as percentage total- IHME",
+  "title": "Air pollution deaths as percentage total- IHME",
+  "id": 420,
+  "description": "",
+  "sources": [
+    {
+      "name": "Air pollution deaths as percentage total- IHME",
+      "dataPublishedBy": "Institute for Health Metrics and Evaluation (IHME), 2016",
+      "dataPublisherSource": "Global Burden of Disease Study 2015. Global Burden of Disease Study 2015 (GBD 2015)",
+      "link": "http://vizhub.healthdata.org/gbd-compare/",
+      "retrievedDate": "20/04/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Air Pollution"
+  ],
+  "resources": [
+    {
+      "path": "Air pollution deaths as percentage total- IHME.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Air pollution deaths as percentage total- IHME",
+            "type": "any",
+            "description": "Air pollution deaths as percentage of total deaths related to global disease burden- IHME",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
