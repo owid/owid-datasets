@@ -1,0 +1,45 @@
+{
+  "name": "Internet Users by World Region - World Bank (2016)",
+  "title": "Internet Users by World Region - World Bank (2016)",
+  "id": 90,
+  "description": "I have multiplied the population in each region with the variable Internet users (per 100 people). Both variables are obtianed from the World Bank. The second measure is originally from the International Telecommunication Union, World Telecommunication/ICT Development Report and database, and World Bank estimates.",
+  "sources": [
+    {
+      "name": "Science and Technology - World Bank (2016)",
+      "dataPublishedBy": "World Bank",
+      "dataPublisherSource": "International Telecommunication Union, World Telecommunication/ICT Development Report and database",
+      "link": "http://data.worldbank.org/",
+      "retrievedDate": "09/10/2016",
+      "additionalInfo": "I have multiplied the population in each region with the variable Internet users (per 100 people). Both variables are obtianed from the World Bank. The second measure is originally from the International Telecommunication Union, World Telecommunication/ICT Development Report and database, and World Bank estimates."
+    }
+  ],
+  "owidTags": [
+    "Internet"
+  ],
+  "resources": [
+    {
+      "path": "Internet Users by World Region - World Bank (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Internet Users by World Region (World Bank (2016))",
+            "type": "any",
+            "description": "1990-2015",
+            "owidDisplaySettings": {
+              "unit": "% of Government Expenditure on Education",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
