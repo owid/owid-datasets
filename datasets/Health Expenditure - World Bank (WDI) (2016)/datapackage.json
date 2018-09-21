@@ -1,0 +1,86 @@
+{
+  "name": "Health Expenditure - World Bank (WDI) (2016)",
+  "title": "Health Expenditure - World Bank (WDI) (2016)",
+  "id": 205,
+  "description": "Data from the World Bank Databank",
+  "sources": [
+    {
+      "name": "World Bank (WDI) (2016)",
+      "dataPublishedBy": "Census data.",
+      "dataPublisherSource": "World Health Organization Global Health Expenditure database",
+      "link": "http://databank.worldbank.org/data/home.aspx",
+      "retrievedDate": "04/05/2016",
+      "additionalInfo": "Data from the World Bank Databank"
+    }
+  ],
+  "owidTags": [
+    "Health Inequality"
+  ],
+  "resources": [
+    {
+      "path": "Health Expenditure - World Bank (WDI) (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Health Expenditure, Total (World Bank (WDI) (2016))",
+            "type": "any",
+            "description": "Health Expenditure",
+            "owidDisplaySettings": {
+              "unit": "People"
+            }
+          },
+          {
+            "name": "World Health Expenditure, Private (World Bank (WDI) (2016))",
+            "type": "any",
+            "description": "World Health Expenditure, Private",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          },
+          {
+            "name": "World Health Expenditure, Public (World Bank (WDI) (2016))",
+            "type": "any",
+            "description": "World Health Expenditure, Public",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Health Expenditure, Public Share (World Bank (WDI) (2016))",
+            "type": "any",
+            "description": "World Health Expenditure, Public Share",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Health Expenditure, Out-of-Pocket Share (World Bank (WDI) (2016))",
+            "type": "any",
+            "description": "World Health Expenditure, Public Share",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Health Expenditure, Public Share (World Bank (WDI by region) (2016))",
+            "type": "any",
+            "description": "World Health Expenditure, Public Share",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Health Expenditure per capita (World Bank (WDI) (2016))",
+            "type": "any",
+            "description": "Total Health Expenditure per capita PPP (constant 2011 international $) ",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
