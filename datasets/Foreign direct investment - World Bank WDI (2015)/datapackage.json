@@ -1,0 +1,42 @@
+{
+  "name": "Foreign direct investment - World Bank WDI (2015)",
+  "title": "Foreign direct investment - World Bank WDI (2015)",
+  "id": 146,
+  "description": "Foreign direct investment are the net inflows of investment to acquire a lasting management interest (10 percent or more of voting stock) in an enterprise operating in an economy other than that of the investor. It is the sum of equity capital, reinvestment of earnings, other long-term capital, and short-term capital as shown in the balance of payments. This series shows net inflows (new investment inflows less disinvestment) in the reporting economy from foreign investors, and is divided by GDP.\r\n\r\nThe World Bank relies on data from:\r\nInternational Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates.",
+  "sources": [
+    {
+      "name": "Foreign direct investment, net inflows (% of GDP) - World Bank WDI (2015)",
+      "dataPublishedBy": "World Bank",
+      "dataPublisherSource": "World Development Indicators",
+      "link": "http://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS",
+      "retrievedDate": "06/01/2015",
+      "additionalInfo": "Foreign direct investment are the net inflows of investment to acquire a lasting management interest (10 percent or more of voting stock) in an enterprise operating in an economy other than that of the investor. It is the sum of equity capital, reinvestment of earnings, other long-term capital, and short-term capital as shown in the balance of payments. This series shows net inflows (new investment inflows less disinvestment) in the reporting economy from foreign investors, and is divided by GDP.\r\n\r\nThe World Bank relies on data from:\r\nInternational Monetary Fund, International Financial Statistics and Balance of Payments databases, World Bank, International Debt Statistics, and World Bank and OECD GDP estimates."
+    }
+  ],
+  "owidTags": [
+    "Foreign Direct Investment & Capital Flows"
+  ],
+  "resources": [
+    {
+      "path": "Foreign direct investment - World Bank WDI (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Foreign direct investment, net inflows (% of GDP) - World Bank WDI (2015)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
