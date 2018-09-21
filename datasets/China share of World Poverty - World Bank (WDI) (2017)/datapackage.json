@@ -1,0 +1,60 @@
+{
+  "name": "China share of World Poverty - World Bank (WDI) (2017)",
+  "title": "China share of World Poverty - World Bank (WDI) (2017)",
+  "id": 352,
+  "description": "Definitions: \r\n\r\nOur definition of poverty is defined using World Bank's poverty headcount. People are considered poor if they live with less than 1.90$ per day (2011 int $ PPP). For more information on how the OurWorldInData team defines poverty following the World Bank's definitions see our entry on \"Global Extreme Poverty\".",
+  "sources": [
+    {
+      "name": "China share of World Poverty - World Bank (WDI) (2017)",
+      "dataPublishedBy": "World Bank (World Development Indicators)",
+      "dataPublisherSource": "World Bank (Development Research Group). PovcalNet",
+      "link": "http://data.worldbank.org/?name_desc=false",
+      "retrievedDate": "16/02/2017",
+      "additionalInfo": "Definitions: \r\n\r\nOur definition of poverty is defined using World Bank's poverty headcount. People are considered poor if they live with less than 1.90$ per day (2011 int $ PPP). For more information on how the OurWorldInData team defines poverty following the World Bank's definitions see our entry on \"Global Extreme Poverty\"."
+    }
+  ],
+  "owidTags": [
+    "World Poverty"
+  ],
+  "resources": [
+    {
+      "path": "China share of World Poverty - World Bank (WDI) (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "World (World Bank (WDI) (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "China (World Bank (WDI) (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "World not including China (World Bank (WDI) (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

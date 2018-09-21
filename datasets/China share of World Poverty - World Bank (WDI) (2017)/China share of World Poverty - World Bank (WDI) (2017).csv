@@ -1,0 +1,43 @@
+Entity,Year,World (World Bank (WDI) (2017)),China (World Bank (WDI) (2017)),World not including China (World Bank (WDI) (2017))
+China,1981,,88,
+China,1984,,75,
+China,1987,,60,
+China,1990,,66,
+China,1993,,57,
+China,1996,,42,
+China,1999,,40,
+China,2002,,31,
+China,2005,,18,
+China,2008,,14,
+China,2010,,11,
+China,2011,,7,
+China,2012,,6,
+China,2013,,1,
+World,1981,42,,
+World,1984,39,,
+World,1987,35,,
+World,1990,35,,
+World,1993,33,,
+World,1996,29,,
+World,1999,28,,
+World,2002,25,,
+World,2005,20,,
+World,2008,18,,
+World,2010,16,,
+World,2011,14,,
+World,2012,12,,
+World,2013,11,,
+World not including China,1981,,,29
+World not including China,1984,,,28
+World not including China,1987,,,27
+World not including China,1990,,,26
+World not including China,1993,,,27
+World not including China,1996,,,25
+World not including China,1999,,,24
+World not including China,2002,,,23
+World not including China,2005,,,20
+World not including China,2008,,,18
+World not including China,2010,,,16
+World not including China,2011,,,14
+World not including China,2012,,,13
+World not including China,2013,,,12
