@@ -1,0 +1,45 @@
+{
+  "name": "Energy intensity (MJ per 2011 int$ GDP) - World Bank",
+  "title": "Energy intensity (MJ per 2011 int$ GDP) - World Bank",
+  "id": 481,
+  "description": "Data collated by World Bank from Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking Framework led jointly by the World Bank, International Energy Agency, and the Energy Sector Management Assistance Program. Income groupings are allocated based on the World Bank's own income country classifications ",
+  "sources": [
+    {
+      "name": "Energy intensity - World Bank",
+      "dataPublishedBy": "World Bank, World Development Indicators (WDI)",
+      "dataPublisherSource": null,
+      "link": "http://data.worldbank.org/indicator/EG.EGY.PRIM.PP.KD?view=chart",
+      "retrievedDate": "18/05/2017",
+      "additionalInfo": "Data collated by World Bank from Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking Framework led jointly by the World Bank, International Energy Agency, and the Energy Sector Management Assistance Program. Income groupings are allocated based on the World Bank's own income country classifications "
+    }
+  ],
+  "owidTags": [
+    "Energy Efficiency"
+  ],
+  "resources": [
+    {
+      "path": "Energy intensity (MJ per 2011 int$ GDP) - World Bank.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Energy intensity (World Bank)",
+            "type": "any",
+            "description": "Energy intensity of production (MJ per 2011 int-$ GDP)",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
