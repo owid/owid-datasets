@@ -1,0 +1,42 @@
+{
+  "name": "Plastic waste generation by country - OWID based on Jambeck et al. & World Bank",
+  "title": "Plastic waste generation by country - OWID based on Jambeck et al. & World Bank",
+  "id": 2840,
+  "description": "Data on total national plastic waste generation was calculated by Our World in Data based on per capita plastic waste generation data published in Jambeck et al. (2015), and total population data published in the World Bank, World Development Indicators (available at: https://datacatalog.worldbank.org/dataset/world-development-indicators).\n\nJambeck et al. quantified municipal and plastic waste streams from coastal populations in 2010. Their estimates were therefore multiplied by coastal population numbers to derive national plastic waste at risk of entering oceans and waterways. Here we calculate the total plastic waste generation by instead multiplying by total population figures.",
+  "sources": [
+    {
+      "name": "Plastic waste generation by country - OWID based on Jambeck et al. & World Bank",
+      "dataPublishedBy": "Jambeck, J. R., Geyer, R., Wilcox, C., Siegler, T. R., Perryman, M., Andrady, A., ... & Law, K. L. (2015). Plastic waste inputs from land into the ocean. Science, 347(6223), 768-771.",
+      "dataPublisherSource": null,
+      "link": "http://science.sciencemag.org/content/347/6223/768/",
+      "retrievedDate": null,
+      "additionalInfo": "Data on total national plastic waste generation was calculated by Our World in Data based on per capita plastic waste generation data published in Jambeck et al. (2015), and total population data published in the World Bank, World Development Indicators (available at: https://datacatalog.worldbank.org/dataset/world-development-indicators).\n\nJambeck et al. quantified municipal and plastic waste streams from coastal populations in 2010. Their estimates were therefore multiplied by coastal population numbers to derive national plastic waste at risk of entering oceans and waterways. Here we calculate the total plastic waste generation by instead multiplying by total population figures."
+    }
+  ],
+  "owidTags": [
+    "Waste"
+  ],
+  "resources": [
+    {
+      "path": "Plastic waste generation by country - OWID based on Jambeck et al. & World Bank.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Plastic waste generation (tonnes, total)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
