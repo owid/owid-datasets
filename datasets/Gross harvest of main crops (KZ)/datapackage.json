@@ -1,0 +1,78 @@
+{
+  "name": "Gross harvest of main crops (KZ)",
+  "title": "Gross harvest of main crops (KZ)",
+  "id": 1841,
+  "description": "",
+  "sources": [
+    {
+      "name": "Gross harvest of main crops (KZ)",
+      "dataPublishedBy": "Agency of the Republic of Kazakhstan on Statistics",
+      "dataPublisherSource": null,
+      "link": "http://www.stat.gov.kz/",
+      "retrievedDate": "26-November-2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Yields"
+  ],
+  "resources": [
+    {
+      "path": "Gross harvest of main crops (KZ).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Grain-crops (including rice) and legumes",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Sunflower seeds",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cotton",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Sugar beet",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Tobacco",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Potatoes",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Vegetables",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
