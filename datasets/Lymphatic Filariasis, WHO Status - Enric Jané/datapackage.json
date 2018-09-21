@@ -1,0 +1,44 @@
+{
+  "name": "Lymphatic Filariasis, WHO Status - Enric Jané",
+  "title": "Lymphatic Filariasis, WHO Status - Enric Jané",
+  "id": 419,
+  "description": "",
+  "sources": [
+    {
+      "name": "Lymphatic Filariasis data from Enric Jané",
+      "dataPublishedBy": "WHO Label",
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": "Provided via email",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Neglected Tropical Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Lymphatic Filariasis, WHO Status - Enric Jané.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Lymphatic Filariasis data from Enric Jané",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
