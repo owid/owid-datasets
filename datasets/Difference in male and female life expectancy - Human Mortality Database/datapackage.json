@@ -1,0 +1,54 @@
+{
+  "name": "Difference in male and female life expectancy - Human Mortality Database",
+  "title": "Difference in male and female life expectancy - Human Mortality Database",
+  "id": 2860,
+  "description": "Uses the Human Mortality Database period tables. Following <a href=\"http://www.nber.org/papers/w24716\" rel=\"noopener\" target=\"_blank\">Goldin and Lleras-Muney (2018)</a> we plot only those years in which a census was undertaken.\n\nAs Goldin and Lleras-Muney (2018) mention: \"census data are available every ten years starting in 1841 for England, and every ten years starting in 1860 for Sweden. For France they occurred every 5 years between 1836 and 1936 (except for 1871 which was held in 1872, and for 1916 which was cancelled) and then for 1946, 1962, 1968, 1975, 1982, 1990 and 1999.\"\n\nNote: the United Kingdom refers to the total population of England and Wales.",
+  "sources": [
+    {
+      "name": "Human Mortality Database",
+      "dataPublishedBy": "Human Mortality Database ",
+      "dataPublisherSource": "Mortality and population data.",
+      "link": "https://www.mortality.org/",
+      "retrievedDate": "27/07/2018",
+      "additionalInfo": "Uses the Human Mortality Database period tables. Following <a href=\"http://www.nber.org/papers/w24716\" rel=\"noopener\" target=\"_blank\">Goldin and Lleras-Muney (2018)</a> we plot only those years in which a census was undertaken.\n\nAs Goldin and Lleras-Muney (2018) mention: \"census data are available every ten years starting in 1841 for England, and every ten years starting in 1860 for Sweden. For France they occurred every 5 years between 1836 and 1936 (except for 1871 which was held in 1872, and for 1916 which was cancelled) and then for 1946, 1962, 1968, 1975, 1982, 1990 and 1999.\"\n\nNote: the United Kingdom refers to the total population of England and Wales."
+    }
+  ],
+  "owidTags": [
+    "Life Expectancy"
+  ],
+  "resources": [
+    {
+      "path": "Difference in male and female life expectancy - Human Mortality Database.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Male minus female life expectation, age 0 - HMD",
+            "type": "any",
+            "description": "The difference in life expectation between males and females aged 0. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Male minus female life expectation, age 15 - HMD",
+            "type": "any",
+            "description": "The difference in life expectation between males and females aged 15. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Male minus female life expectation, age 45 - HMD",
+            "type": "any",
+            "description": "The difference in life expectation between males and females aged 45. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
