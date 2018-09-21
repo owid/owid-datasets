@@ -1,0 +1,42 @@
+{
+  "name": "State-based battle deaths since 1946 by world region (UCDP-PRIO)",
+  "title": "State-based battle deaths since 1946 by world region (UCDP-PRIO)",
+  "id": 2779,
+  "description": "The region refers not to the location of the battle but to the location of the primary state or states involved in the conflict. In most cases this also happens to be the world region where the battle deaths occurred. This is true even where there was foreign state involvement from other world regions, but where that foreign state was not the primary state involved in the 'incompatibility' (e.g. territorial or governmental dispute). For instance in the Vietnam War, the region is listed as Asia, despite significant US involvement, since the primary state involved in the territorial dispute was South Vietnam. Conversely, the conflict listed as being between the US and al-Qaida is ascribed to the Americas, despite the fighting mostly taking place in Pakistan, Afghanistan and elsewhere in the Middle East (with the exception of the September 11 attacks on US soil in 2001). In the most recent wars in Iraq and Afghanistan, the conflicts are ascribed multiple regions since in each case one of the sides was composed of a coalition of states from different regions (i.e. the US and UK). In these cases, we apportion the death count evenly between the number of world regions listed.",
+  "sources": [
+    {
+      "name": "UCDP/PRIO",
+      "dataPublishedBy": "Uppsala Conflict Data Program (UCDP) & Peace Research Institute Oslo (PRIO)",
+      "dataPublisherSource": "For the PRIO data, a full list of sources is available at www.prio.org/Data/Armed-Conflict",
+      "link": "http://ucdp.uu.se/downloads/ & https://www.prio.org/Data/Armed-Conflict/Battle-Deaths/The-Battle-Deaths-Dataset-version-30/",
+      "retrievedDate": null,
+      "additionalInfo": "The region refers not to the location of the battle but to the location of the primary state or states involved in the conflict. In most cases this also happens to be the world region where the battle deaths occurred. This is true even where there was foreign state involvement from other world regions, but where that foreign state was not the primary state involved in the 'incompatibility' (e.g. territorial or governmental dispute). For instance in the Vietnam War, the region is listed as Asia, despite significant US involvement, since the primary state involved in the territorial dispute was South Vietnam. Conversely, the conflict listed as being between the US and al-Qaida is ascribed to the Americas, despite the fighting mostly taking place in Pakistan, Afghanistan and elsewhere in the Middle East (with the exception of the September 11 attacks on US soil in 2001). In the most recent wars in Iraq and Afghanistan, the conflicts are ascribed multiple regions since in each case one of the sides was composed of a coalition of states from different regions (i.e. the US and UK). In these cases, we apportion the death count evenly between the number of world regions listed."
+    }
+  ],
+  "owidTags": [
+    "War and Peace after 1945"
+  ],
+  "resources": [
+    {
+      "path": "State-based battle deaths since 1946 by world region (UCDP-PRIO).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Battle-related deaths",
+            "type": "any",
+            "description": "Only conflicts that resulted in more than 25 deaths and involved the government of a state on at least one side of the conflict are included. Deaths due to disease or famine caused by conflict, as well as extra-judicial killings in custody, are excluded.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
