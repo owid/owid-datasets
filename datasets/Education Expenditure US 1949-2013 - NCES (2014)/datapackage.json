@@ -1,0 +1,53 @@
+{
+  "name": "Education Expenditure US 1949-2013 - NCES (2014)",
+  "title": "Education Expenditure US 1949-2013 - NCES (2014)",
+  "id": 243,
+  "description": "",
+  "sources": [
+    {
+      "name": "NCES (2014)",
+      "dataPublishedBy": "National Center for Education Statistics (2014)",
+      "dataPublisherSource": "Sources both government and private, and draws especially on the results of surveys and activities carried out by the National Center for Education Statistics (NCES).",
+      "link": "https://nces.ed.gov/pubs2016/2016014.pdf",
+      "retrievedDate": "30/09/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Financing of Education"
+  ],
+  "resources": [
+    {
+      "path": "Education Expenditure US 1949-2013 - NCES (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Private Education Expenditure in the US (NCES (2014))",
+            "type": "any",
+            "description": " Expenditures of educational institutions, by control of institution (public and private), expressed as share of GDP",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          },
+          {
+            "name": "Public Education Expenditure in the US (NCES (2014))",
+            "type": "any",
+            "description": " Expenditures of educational institutions, by control of institution (public and private), expressed as share of GDP",
+            "owidDisplaySettings": {
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
