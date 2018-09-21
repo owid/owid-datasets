@@ -1,0 +1,42 @@
+{
+  "name": "Freedom of the Press Status - Freedom House (2016)",
+  "title": "Freedom of the Press Status - Freedom House (2016)",
+  "id": 152,
+  "description": "Shown is the status of the Freedom of Press. The original source provides more data on particular aspects and a more fine grained score for recent years.\r\nFor earlier than 1989 the status refers only to the print category (not the broadcast category).\r\n1983 refers to Aug. 1982-Nov. 1983\r\n1981 refers to Jan. 1981-Aug. 1982\r\n\r\nMontenegro refers to \"Serbia and Montenegro” in the original source\r\n\r\nThe nominal variable is coded as follows: Not Free is coded as 1500; Partly Free is coded as 2500; Free is coded as 3500.",
+  "sources": [
+    {
+      "name": "Freedom House (Freedom of the Press Status) (2016)",
+      "dataPublishedBy": "Freedom House",
+      "dataPublisherSource": "Freedom of the Press",
+      "link": "https://freedomhouse.org/report-types/freedom-press",
+      "retrievedDate": "23/01/2016",
+      "additionalInfo": "Shown is the status of the Freedom of Press. The original source provides more data on particular aspects and a more fine grained score for recent years.\r\nFor earlier than 1989 the status refers only to the print category (not the broadcast category).\r\n1983 refers to Aug. 1982-Nov. 1983\r\n1981 refers to Jan. 1981-Aug. 1982\r\n\r\nMontenegro refers to \"Serbia and Montenegro” in the original source\r\n\r\nThe nominal variable is coded as follows: Not Free is coded as 1500; Partly Free is coded as 2500; Free is coded as 3500."
+    }
+  ],
+  "owidTags": [
+    "Freedom of Press & Speech"
+  ],
+  "resources": [
+    {
+      "path": "Freedom of the Press Status - Freedom House (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Freedom of the Press Status 4 (Freedom House (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
