@@ -1,0 +1,44 @@
+{
+  "name": "OECD Social Spending- Family",
+  "title": "OECD Social Spending- Family",
+  "id": 479,
+  "description": "Dimension of social spending given as the percentage of a country's gross domestic product (%GDP)",
+  "sources": [
+    {
+      "name": "OECD Social Spending- Family",
+      "dataPublishedBy": "Organisation for Economic Co-operation and Development (OECD)",
+      "dataPublisherSource": null,
+      "link": "http://stats.oecd.org/Index.aspx?datasetcode=SOCX_AGG",
+      "retrievedDate": "17/05/2017",
+      "additionalInfo": "Dimension of social spending given as the percentage of a country's gross domestic product (%GDP)"
+    }
+  ],
+  "owidTags": [
+    "Social Spending"
+  ],
+  "resources": [
+    {
+      "path": "OECD Social Spending- Family.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Family",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "transistors per chip"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

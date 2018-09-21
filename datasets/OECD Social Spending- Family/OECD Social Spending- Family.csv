@@ -1,0 +1,361 @@
+Entity,Year,Family
+Australia,1980,0.9
+Australia,1985,1.1
+Australia,1990,1.5
+Australia,1995,2.7
+Australia,2000,2.9
+Australia,2005,2.7
+Australia,2010,2.6
+Australia,2013,2.7
+Australia,2014,2.8
+Australia,2015,..
+Austria,1980,3.2
+Austria,1985,2.9
+Austria,1990,2.5
+Austria,1995,3
+Austria,2000,2.7
+Austria,2005,2.7
+Austria,2010,2.8
+Austria,2013,2.6
+Austria,2014,..
+Austria,2015,..
+Belgium,1980,2.9
+Belgium,1985,2.5
+Belgium,1990,2.2
+Belgium,1995,2.2
+Belgium,2000,2.5
+Belgium,2005,2.6
+Belgium,2010,2.8
+Belgium,2013,2.9
+Belgium,2014,..
+Belgium,2015,..
+Canada,1980,0.7
+Canada,1985,0.7
+Canada,1990,0.6
+Canada,1995,0.9
+Canada,2000,0.9
+Canada,2005,1.1
+Canada,2010,1.3
+Canada,2013,1.2
+Canada,2014,1.2
+Canada,2015,..
+Chile,1980,..
+Chile,1985,..
+Chile,1990,0.5
+Chile,1995,0.4
+Chile,2000,0.7
+Chile,2005,0.8
+Chile,2010,1.5
+Chile,2013,1.4
+Chile,2014,1.5
+Chile,2015,1.7
+Czech Republic,1980,..
+Czech Republic,1985,..
+Czech Republic,1990,2.3
+Czech Republic,1995,1.9
+Czech Republic,2000,1.8
+Czech Republic,2005,2.1
+Czech Republic,2010,2.4
+Czech Republic,2013,2.2
+Czech Republic,2014,..
+Czech Republic,2015,..
+Denmark,1980,2.7
+Denmark,1985,2.6
+Denmark,1990,3.2
+Denmark,1995,3.8
+Denmark,2000,3.4
+Denmark,2005,3.5
+Denmark,2010,3.8
+Denmark,2013,3.7
+Denmark,2014,..
+Denmark,2015,..
+Estonia,1980,..
+Estonia,1985,..
+Estonia,1990,..
+Estonia,1995,..
+Estonia,2000,1.7
+Estonia,2005,1.8
+Estonia,2010,2.6
+Estonia,2013,2
+Estonia,2014,..
+Estonia,2015,..
+Finland,1980,2
+Finland,1985,2.5
+Finland,1990,3.1
+Finland,1995,3.9
+Finland,2000,2.9
+Finland,2005,2.8
+Finland,2010,3.1
+Finland,2013,3.2
+Finland,2014,..
+Finland,2015,..
+France,1980,2.4
+France,1985,2.6
+France,1990,2.4
+France,1995,2.6
+France,2000,2.9
+France,2005,2.9
+France,2010,2.9
+France,2013,2.9
+France,2014,..
+France,2015,..
+Germany,1980,2
+Germany,1985,1.5
+Germany,1990,1.8
+Germany,1995,2.1
+Germany,2000,2
+Germany,2005,2
+Germany,2010,2.2
+Germany,2013,2.2
+Germany,2014,..
+Germany,2015,..
+Greece,1980,0.3
+Greece,1985,0.3
+Greece,1990,0.7
+Greece,1995,1
+Greece,2000,1
+Greece,2005,1.1
+Greece,2010,1.4
+Greece,2013,..
+Greece,2014,..
+Greece,2015,..
+Hungary,1980,..
+Hungary,1985,..
+Hungary,1990,..
+Hungary,1995,..
+Hungary,2000,3
+Hungary,2005,3
+Hungary,2010,3.4
+Hungary,2013,3
+Hungary,2014,..
+Hungary,2015,..
+Iceland,1980,..
+Iceland,1985,..
+Iceland,1990,2.3
+Iceland,1995,2.3
+Iceland,2000,2.1
+Iceland,2005,2.9
+Iceland,2010,3.7
+Iceland,2013,3.6
+Iceland,2014,..
+Iceland,2015,..
+Ireland,1980,1.1
+Ireland,1985,1.4
+Ireland,1990,1.9
+Ireland,1995,2.1
+Ireland,2000,2
+Ireland,2005,2.6
+Ireland,2010,3.7
+Ireland,2013,3.3
+Ireland,2014,..
+Ireland,2015,..
+Israel,1980,..
+Israel,1985,..
+Israel,1990,..
+Israel,1995,2.5
+Israel,2000,2.4
+Israel,2005,1.8
+Israel,2010,2
+Israel,2013,2
+Israel,2014,1.9
+Israel,2015,1.9
+Italy,1980,1
+Italy,1985,0.9
+Italy,1990,0.9
+Italy,1995,0.6
+Italy,2000,1.2
+Italy,2005,1.2
+Italy,2010,1.3
+Italy,2013,1.4
+Italy,2014,..
+Italy,2015,..
+Japan,1980,0.5
+Japan,1985,0.4
+Japan,1990,0.4
+Japan,1995,0.5
+Japan,2000,0.6
+Japan,2005,0.8
+Japan,2010,1.3
+Japan,2013,1.3
+Japan,2014,..
+Japan,2015,..
+Korea,1980,..
+Korea,1985,..
+Korea,1990,0
+Korea,1995,0.1
+Korea,2000,0.1
+Korea,2005,0.2
+Korea,2010,0.7
+Korea,2013,1.1
+Korea,2014,1.1
+Korea,2015,..
+Latvia,1980,..
+Latvia,1985,..
+Latvia,1990,..
+Latvia,1995,0
+Latvia,2000,1.5
+Latvia,2005,1.2
+Latvia,2010,1.5
+Latvia,2013,1.2
+Latvia,2014,..
+Latvia,2015,..
+Luxembourg,1980,1.6
+Luxembourg,1985,1.5
+Luxembourg,1990,1.8
+Luxembourg,1995,2.5
+Luxembourg,2000,3
+Luxembourg,2005,3.6
+Luxembourg,2010,4
+Luxembourg,2013,3.6
+Luxembourg,2014,..
+Luxembourg,2015,..
+Mexico,1980,..
+Mexico,1985,0
+Mexico,1990,0
+Mexico,1995,0.1
+Mexico,2000,0.6
+Mexico,2005,1
+Mexico,2010,1.1
+Mexico,2013,0.4
+Mexico,2014,..
+Mexico,2015,..
+Netherlands,1980,2.3
+Netherlands,1985,2
+Netherlands,1990,1.6
+Netherlands,1995,1.2
+Netherlands,2000,1.4
+Netherlands,2005,1.5
+Netherlands,2010,1.5
+Netherlands,2013,1.3
+Netherlands,2014,..
+Netherlands,2015,..
+New Zealand,1980,2.1
+New Zealand,1985,2.3
+New Zealand,1990,2.5
+New Zealand,1995,2.2
+New Zealand,2000,2.7
+New Zealand,2005,2.5
+New Zealand,2010,3.4
+New Zealand,2013,2.8
+New Zealand,2014,2.6
+New Zealand,2015,..
+Norway,1980,1.8
+Norway,1985,1.9
+Norway,1990,2.7
+Norway,1995,3.5
+Norway,2000,3
+Norway,2005,2.8
+Norway,2010,3.1
+Norway,2013,3
+Norway,2014,..
+Norway,2015,..
+OECD - Total,1980,1.5
+OECD - Total,1985,1.5
+OECD - Total,1990,1.6
+OECD - Total,1995,1.8
+OECD - Total,2000,1.8
+OECD - Total,2005,1.9
+OECD - Total,2010,2.2
+OECD - Total,2013,2.1
+OECD - Total,2014,..
+OECD - Total,2015,..
+Poland,1980,..
+Poland,1985,..
+Poland,1990,1.6
+Poland,1995,1
+Poland,2000,1.2
+Poland,2005,1.2
+Poland,2010,1.3
+Poland,2013,..
+Poland,2014,..
+Poland,2015,..
+Portugal,1980,0.6
+Portugal,1985,0.6
+Portugal,1990,0.7
+Portugal,1995,0.7
+Portugal,2000,1
+Portugal,2005,1.2
+Portugal,2010,1.4
+Portugal,2013,1.2
+Portugal,2014,..
+Portugal,2015,..
+Slovak Republic,1980,..
+Slovak Republic,1985,..
+Slovak Republic,1990,..
+Slovak Republic,1995,2.4
+Slovak Republic,2000,2
+Slovak Republic,2005,1.9
+Slovak Republic,2010,2
+Slovak Republic,2013,2.1
+Slovak Republic,2014,..
+Slovak Republic,2015,..
+Slovenia,1980,..
+Slovenia,1985,..
+Slovenia,1990,..
+Slovenia,1995,..
+Slovenia,2000,2.1
+Slovenia,2005,1.9
+Slovenia,2010,2.1
+Slovenia,2013,2
+Slovenia,2014,..
+Slovenia,2015,..
+Spain,1980,0.5
+Spain,1985,0.3
+Spain,1990,0.3
+Spain,1995,0.4
+Spain,2000,0.9
+Spain,2005,1.2
+Spain,2010,1.5
+Spain,2013,1.3
+Spain,2014,..
+Spain,2015,..
+Sweden,1980,3.5
+Sweden,1985,3.7
+Sweden,1990,4
+Sweden,1995,3.6
+Sweden,2000,2.8
+Sweden,2005,3.2
+Sweden,2010,3.4
+Sweden,2013,3.6
+Sweden,2014,..
+Sweden,2015,..
+Switzerland,1980,0.9
+Switzerland,1985,0.9
+Switzerland,1990,1.1
+Switzerland,1995,1.3
+Switzerland,2000,1.4
+Switzerland,2005,1.5
+Switzerland,2010,1.5
+Switzerland,2013,1.6
+Switzerland,2014,..
+Switzerland,2015,..
+Turkey,1980,0.6
+Turkey,1985,0.5
+Turkey,1990,0.9
+Turkey,1995,0.2
+Turkey,2000,0.2
+Turkey,2005,0.3
+Turkey,2010,0.3
+Turkey,2013,0.4
+Turkey,2014,..
+Turkey,2015,..
+United Kingdom,1980,2.2
+United Kingdom,1985,2.1
+United Kingdom,1990,1.8
+United Kingdom,1995,2.2
+United Kingdom,2000,2.6
+United Kingdom,2005,3
+United Kingdom,2010,4
+United Kingdom,2013,3.8
+United Kingdom,2014,..
+United Kingdom,2015,..
+United States,1980,0.8
+United States,1985,0.6
+United States,1990,0.5
+United States,1995,0.6
+United States,2000,0.8
+United States,2005,0.7
+United States,2010,0.7
+United States,2013,0.7
+United States,2014,..
+United States,2015,..
