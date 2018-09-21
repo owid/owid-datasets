@@ -1,0 +1,150 @@
+{
+  "name": "Crop yields by country - FAO (2017)",
+  "title": "Crop yields by country - FAO (2017)",
+  "id": 660,
+  "description": "The FAO calculate average yield data by dividing total crop production (in kilograms or tonnes) by the total area harvested (in hectares).\n\nThe FAO report yields in hectagrams per hectare (100g per hectare). Here, we have recalculated these values as tonnes per hectare by dividing by 10,000.\n\nData from 1961-1991 for Post-Soviet states are assumed to be in line with reported data for the USSR over this period.",
+  "sources": [
+    {
+      "name": "Crop yields by country - FAO (2017)",
+      "dataPublishedBy": "United Nations Food and Agricultural Organization (FAO)",
+      "dataPublisherSource": null,
+      "link": "http://www.fao.org/faostat/en/#data",
+      "retrievedDate": "02/08/2017",
+      "additionalInfo": "The FAO calculate average yield data by dividing total crop production (in kilograms or tonnes) by the total area harvested (in hectares).\n\nThe FAO report yields in hectagrams per hectare (100g per hectare). Here, we have recalculated these values as tonnes per hectare by dividing by 10,000.\n\nData from 1961-1991 for Post-Soviet states are assumed to be in line with reported data for the USSR over this period."
+    }
+  ],
+  "owidTags": [
+    "Yields"
+  ],
+  "resources": [
+    {
+      "path": "Crop yields by country - FAO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Bananas (FAO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Barley (FAO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Beans, dry (FAO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cassava (FAO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Chick peas (FAO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cocoa beans (FAO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Lentils (FAO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Maize (FAO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Millet (FAO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Peas, dry (FAO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Potatoes (FAO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Rapeseed (FAO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Rice, paddy (FAO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Rye (FAO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Sorghum (FAO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Soybeans (FAO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Sugar cane (FAO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Tomatoes (FAO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Wheat (FAO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
