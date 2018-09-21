@@ -1,0 +1,78 @@
+{
+  "name": "Length of the workday in 1880 - Atack and Bateman (1992)",
+  "title": "Length of the workday in 1880 - Atack and Bateman (1992)",
+  "id": 2877,
+  "description": "See Table 3 and Table 4 for original data.\n\nEstimates of seasonality are derived from the six winter months (November to May) and the six summer months (May to November).",
+  "sources": [
+    {
+      "name": "Atack and Bateman (1992)",
+      "dataPublishedBy": "Atack, J. and Bateman, F., (1992). How Long was the Workday in 1880?. The Journal of Economic History, 52(1), pp.129-160.",
+      "dataPublisherSource": "Census of Manufactures",
+      "link": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/15F272CAB8BD86EDF27D3347284DD60A/S0022050700010299a.pdf/how_long_was_the_workday_in_1880.pdf",
+      "retrievedDate": "13/08/2018",
+      "additionalInfo": "See Table 3 and Table 4 for original data.\n\nEstimates of seasonality are derived from the six winter months (November to May) and the six summer months (May to November)."
+    }
+  ],
+  "owidTags": [
+    "Working Hours"
+  ],
+  "resources": [
+    {
+      "path": "Length of the workday in 1880 - Atack and Bateman (1992).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Average daily minutes of work in summer, weighted by firm (Atack and Bateman (1992))",
+            "type": "any",
+            "description": "Average daily minutes of work in the summer. Calculated on the basis of each firm's reported hours of work between May and November, and November and May. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Average daily minutes of work in winter, weighted by firm (Atack and Bateman (1992))",
+            "type": "any",
+            "description": "Average daily minutes of work in the winter. Calculated on the basis of each firm's reported hours of work between May and November, and November and May. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Mean absolute difference in minutes of work between summer and winter, weighted by firm (Atack and Bateman (1992))",
+            "type": "any",
+            "description": "Mean absolute difference in minutes worked between summer and winter, weighted by firm. Calculated on the basis of each firm's reported hours of work between May and November, and November and May. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Average daily minutes of work in summer, weighted by employees (Atack and Bateman (1992))",
+            "type": "any",
+            "description": "Average daily minutes of work in the summer. Each firm observation is weighted by the sum of its male, female, and child workers.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Average daily minutes of work in winter, weighted by employees (Atack and Bateman (1992))",
+            "type": "any",
+            "description": "Average daily minutes of work in the winter. Each firm observation is weighted by the sum of its male, female, and child workers.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Mean absolute difference in minutes of work between summer and winter, weighted by employees (Atack and Bateman (1992))",
+            "type": "any",
+            "description": "Mean absolute difference in minutes worked between summer and winter, weighted by employees. Each firm observation is weighted by the sum of its male, female, and child workers.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Average scheduled minutes of work per day (Atack and Bateman (1992))",
+            "type": "any",
+            "description": "Average scheduled minutes of work per day nationwide in the United States.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}

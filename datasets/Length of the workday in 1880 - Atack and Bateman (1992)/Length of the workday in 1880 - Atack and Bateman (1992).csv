@@ -1,0 +1,22 @@
+Entity,Year,"Average daily minutes of work in summer, weighted by firm (Atack and Bateman (1992))","Average daily minutes of work in winter, weighted by firm (Atack and Bateman (1992))","Mean absolute difference in minutes of work between summer and winter, weighted by firm (Atack and Bateman (1992))","Average daily minutes of work in summer, weighted by employees (Atack and Bateman (1992))","Average daily minutes of work in winter, weighted by employees (Atack and Bateman (1992))","Mean absolute difference in minutes of work between summer and winter, weighted by employees (Atack and Bateman (1992))",Average scheduled minutes of work per day (Atack and Bateman (1992))
+Agricultural Services,1880,467,559,144,482,571,167,597
+All Industries,1880,617,585,43,607,589,26,600
+Blacksmithing,1880,628,577,54,624,577,50,600
+Chemicals,1880,625,600,37,627,604,26,620
+Clothing,1880,600,591,11,601,598,4,599
+Coke/Gas/Oil,1880,652,634,17,609,609,1,608
+Construction,1880,602,557,46,601,562,40,581
+Fabricated Metals,1880,597,575,25,600,587,14,594
+Food,1880,640,611,53,616,598,41,617
+Furniture,1880,607,580,31,599,575,37,587
+Glass/Brick,1880,607,561,52,602,565,46,588
+Leather,1880,619,605,29,604,594,14,598
+Lumber,1880,623,566,62,631,583,52,607
+Machinery,1880,604,570,37,603,569,35,586
+Miscellaneous Metals,1880,590,584,20,579,598,38,597
+Paper,1880,620,608,19,628,640,25,633
+Primary Metals,1880,604,584,26,606,581,27,593
+Printing,1880,588,583,5,594,592,2,593
+Textiles,1880,610,581,39,616,607,12,612
+Tobacco,1880,599,587,17,610,586,26,598
+Transportation Equipment,1880,596,559,37,599,594,5,595
