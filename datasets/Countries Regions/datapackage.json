@@ -1,0 +1,47 @@
+{
+  "name": "Countries Regions",
+  "title": "Countries Regions",
+  "id": 116,
+  "description": "",
+  "sources": [
+    {
+      "name": "World Bank",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Geographic"
+  ],
+  "resources": [
+    {
+      "path": "Countries Regions.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Countries Regions",
+            "type": "any",
+            "description": "Countries and their associated world regions.",
+            "owidDisplaySettings": {
+              "unit": "US-$",
+              "shortUnit": "$",
+              "tolerance": 5,
+              "conversionFactor": 1000
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
