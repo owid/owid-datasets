@@ -1,0 +1,45 @@
+{
+  "name": "UN Population Division (Median Age) (2015)",
+  "title": "UN Population Division (Median Age) (2015)",
+  "id": 237,
+  "description": "Median age is the age that divides the population in two parts of equal size, that is, there are as many persons with ages above the median as there are with ages below the median. It is expressed as years.",
+  "sources": [
+    {
+      "name": "UN Population Division (Median Age) (2015)",
+      "dataPublishedBy": "UN Population Division, World Population Prospects, 2015 Revision",
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": "01/06/2016",
+      "additionalInfo": "Median age is the age that divides the population in two parts of equal size, that is, there are as many persons with ages above the median as there are with ages below the median. It is expressed as years."
+    }
+  ],
+  "owidTags": [
+    "Age Structure and Mortality by Age"
+  ],
+  "resources": [
+    {
+      "path": "UN Population Division (Median Age) (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "UN Population Division (Median Age) (2015)",
+            "type": "any",
+            "description": "Median age of the population. Historical estimates until 2015. UN Projections for 2020 and later (medium variant of the UN projections)",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
