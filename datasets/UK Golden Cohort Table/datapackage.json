@@ -1,0 +1,42 @@
+{
+  "name": "UK Golden Cohort Table",
+  "title": "UK Golden Cohort Table",
+  "id": 2712,
+  "description": "",
+  "sources": [
+    {
+      "name": "Goldring et al. (2011)",
+      "dataPublishedBy": "Goldring, S., Henretty, N., Mills, J., Johnson, K., & Smallwood, S. (2011). Mortality of the ‘Golden Generation’: What can the ONS Longitudinal Study tell us?. Population trends, 145(1), 203-232.",
+      "dataPublisherSource": "Office for National Statistics",
+      "link": "https://link.springer.com/content/pdf/10.1057/pt.2011.24.pdf",
+      "retrievedDate": "29/03/18",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Life Expectancy"
+  ],
+  "resources": [
+    {
+      "path": "UK Golden Cohort Table.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Mortality Improvement",
+            "type": "any",
+            "description": "Rate of annualised improvement in age-standardised mortality rates, men, England and Wales (per cent)",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
