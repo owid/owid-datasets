@@ -1,0 +1,42 @@
+{
+  "name": "International Historical Statistics (Births per 1,000) - Brian Mitchell (2013)",
+  "title": "International Historical Statistics (Births per 1,000) - Brian Mitchell (2013)",
+  "id": 269,
+  "description": "Edited by Palgrave Macmillan Ltd . (April 2013). International Historical Statistics . [Online] Available at: http://www.palgrave.com/us/book/9780230005150 \r\nThese statistics – orignally published under the editorial leadership of Brian Mitchell (since 1983) – are a collection of data sets taken from many primary sources, including both official national and international abstracts dating back to 1750. The books are published in three volumes covering more than 5000 pages.",
+  "sources": [
+    {
+      "name": "International Historical Statistics (Births per 1,000) - Brian Mitchell (2013)",
+      "dataPublishedBy": "Brian Mitchell – International Historical Statistics (Births per 1,000)",
+      "dataPublisherSource": "Taken from many primary sources including official national statistics and international abstracts dating back to 1750.",
+      "link": "http://www.palgrave.com/us/book/9780230005150",
+      "retrievedDate": null,
+      "additionalInfo": "Edited by Palgrave Macmillan Ltd . (April 2013). International Historical Statistics . [Online] Available at: http://www.palgrave.com/us/book/9780230005150 \r\nThese statistics – orignally published under the editorial leadership of Brian Mitchell (since 1983) – are a collection of data sets taken from many primary sources, including both official national and international abstracts dating back to 1750. The books are published in three volumes covering more than 5000 pages."
+    }
+  ],
+  "owidTags": [
+    "Fertility Rates"
+  ],
+  "resources": [
+    {
+      "path": "International Historical Statistics (Births per 1,000) - Brian Mitchell (2013).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "International Historical Statistics (Births per 1,000) (Brian Mitchell (2013))",
+            "type": "any",
+            "description": "Birth Rate",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
