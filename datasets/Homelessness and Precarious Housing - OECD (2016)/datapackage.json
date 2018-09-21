@@ -1,0 +1,52 @@
+{
+  "name": "Homelessness and Precarious Housing - OECD (2016)",
+  "title": "Homelessness and Precarious Housing - OECD (2016)",
+  "id": 363,
+  "description": "Different OECD countries adopt different definitions of homelessness. A full table of definitions used for the purpose of data collection in the OECD can be found in Annex 1 of OECD Affordable Housing Database (2016) (https://www.oecd.org/els/family/HC3-1-Homeless-population.pdf)\r\n\r\n \r\n\r\nThe variable Homelessness – OECD corresponds to homelessness estimates including exclusively (i) people living in the streets or public spaces without a shelter that can be defined as living quarters; (ii) people in emergency accommodation with no place of usual residence, who move frequently between various types of accommodation; and (iii) people living in accommodation for the homeless, including homeless hostels, temporary accommodation and other types of shelters for the homeless.\r\n\r\n \r\n\r\nThe variable Precarious housing – OECD corresponds to  homelessness estimates including the three categories mentioned above, plus (iv) people living in institutions and (v) people living temporarily in conventional housing with family and friends.\r\n\r\n \r\n\r\nAll estimates correspond to the period 2011-2015. The following table provides details regarding the exact year in each case.\r\n\r\n \r\n\r\nHomelessness\r\nCountry Year Total number % of population\r\nChile 2011 12255 0.16%\r\nFrance 2012 141500 0.22%\r\nIreland 2015 3625 0.08%\r\nPortugal 2009 2133 0.02%\r\nSpain 2012 22938 0.05%\r\nUSA 2015 564708 0.18%\r\n\r\nPrecariously Housed \r\nCountry Year Total number % of Population\r\nCzech Republic 2015 68500 0.65%\r\nGermany  2014 335000 0.42%\r\nGreece 2009 21216 0.19%\r\nLuxemburg 2006 715 0.15%\r\nNorway 2012 6259 0.13%\r\nSweden 2011 34000 0.36%",
+  "sources": [
+    {
+      "name": "Homelessness and Precarious Housing - OECD (2016)",
+      "dataPublishedBy": "OECD Affordable Housing Database",
+      "dataPublisherSource": "2016 OECD Questionnaire on Affordable and Social Housing (QuASH 2016)",
+      "link": "http://www.oecd.org/social/affordable-housing-database.htm",
+      "retrievedDate": "01/03/2017",
+      "additionalInfo": "Different OECD countries adopt different definitions of homelessness. A full table of definitions used for the purpose of data collection in the OECD can be found in Annex 1 of OECD Affordable Housing Database (2016) (https://www.oecd.org/els/family/HC3-1-Homeless-population.pdf)\r\n\r\n \r\n\r\nThe variable Homelessness – OECD corresponds to homelessness estimates including exclusively (i) people living in the streets or public spaces without a shelter that can be defined as living quarters; (ii) people in emergency accommodation with no place of usual residence, who move frequently between various types of accommodation; and (iii) people living in accommodation for the homeless, including homeless hostels, temporary accommodation and other types of shelters for the homeless.\r\n\r\n \r\n\r\nThe variable Precarious housing – OECD corresponds to  homelessness estimates including the three categories mentioned above, plus (iv) people living in institutions and (v) people living temporarily in conventional housing with family and friends.\r\n\r\n \r\n\r\nAll estimates correspond to the period 2011-2015. The following table provides details regarding the exact year in each case.\r\n\r\n \r\n\r\nHomelessness\r\nCountry Year Total number % of population\r\nChile 2011 12255 0.16%\r\nFrance 2012 141500 0.22%\r\nIreland 2015 3625 0.08%\r\nPortugal 2009 2133 0.02%\r\nSpain 2012 22938 0.05%\r\nUSA 2015 564708 0.18%\r\n\r\nPrecariously Housed \r\nCountry Year Total number % of Population\r\nCzech Republic 2015 68500 0.65%\r\nGermany  2014 335000 0.42%\r\nGreece 2009 21216 0.19%\r\nLuxemburg 2006 715 0.15%\r\nNorway 2012 6259 0.13%\r\nSweden 2011 34000 0.36%"
+    }
+  ],
+  "owidTags": [
+    "Poverty in Individual Countries"
+  ],
+  "resources": [
+    {
+      "path": "Homelessness and Precarious Housing - OECD (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Precarious Housing per 100,000 (OECD (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Homelessness per 100,000 (OECD (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
