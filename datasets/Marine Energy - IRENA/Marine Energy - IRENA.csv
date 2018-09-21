@@ -1,0 +1,88 @@
+Entity,Year,Installed Capacity,Energy Production
+Africa,2013,0.25,0.1
+Africa,2014,0.25,0.1
+Africa,2015,0.25,0.1
+Africa,2016,0.25,
+Asia,2000,3.4,6.5
+Asia,2001,3.4,6.5
+Asia,2002,3.4,6.5
+Asia,2003,3.4,6.5
+Asia,2004,3.4,6.5
+Asia,2005,3.4,6.5
+Asia,2006,3.4,6.5
+Asia,2007,3.4,6.5
+Asia,2008,3.4,6.5
+Asia,2009,4.4,7.5
+Asia,2010,5.1,58.8
+Asia,2011,259.1,472.4
+Asia,2012,259.1,490.3
+Asia,2013,259.1,498.7
+Asia,2014,259.3,502.9
+Asia,2015,262,458
+Asia,2016,262,
+Europe,2000,240.5,507
+Europe,2001,240.5,485.02
+Europe,2002,240.5,494.05
+Europe,2003,240.5,490.03
+Europe,2004,240.5,470.04
+Europe,2005,240.5,481.03
+Europe,2006,240.5,464.01
+Europe,2007,240.5,465.02
+Europe,2008,240.5,465.04
+Europe,2009,241.215,448.83
+Europe,2010,242.845,478.24
+Europe,2011,243.2,478.44
+Europe,2012,245.61,462.22
+Europe,2013,244.187,420.34
+Europe,2014,244.713,483.92
+Europe,2015,248.233,491.5
+Europe,2016,248.393,
+North America,2000,20,32
+North America,2001,20,32
+North America,2002,20,32
+North America,2003,20,33
+North America,2004,20,31
+North America,2005,20,27.92
+North America,2006,20,19.34
+North America,2007,20,22.75
+North America,2008,20,15.17
+North America,2009,20,30.25
+North America,2010,20,27.96
+North America,2011,20,26.36
+North America,2012,20,27.4
+North America,2013,20.09,14.98
+North America,2014,20.09,15.64
+North America,2015,20.005,12.95
+North America,2016,23.925,
+Oceania,2007,1,0.001
+Oceania,2008,1,0.001
+Oceania,2009,1,0.001
+Oceania,2010,1,0.001
+Oceania,2011,1.004,0.001
+Oceania,2012,1.04,0.001
+Oceania,2013,1,0.001
+Oceania,2014,1,0.001
+Oceania,2015,1,0.001
+Oceania,2016,0,
+South America,2012,0.1,0.001
+South America,2013,0.1,0.001
+South America,2014,0.15,0.001
+South America,2015,0.05,0.001
+South America,2016,0.05,
+World,2000,264.3,545.6
+World,2001,264.3,523.6
+World,2002,264.3,523.6
+World,2003,264.3,529.6
+World,2004,264.3,507.6
+World,2005,264.3,515.5
+World,2006,264.3,489.9
+World,2007,266.6,494.6
+World,2008,266.6,487.1
+World,2009,268.3,487
+World,2010,270.6,565.4
+World,2011,525,977.6
+World,2012,527.5,980.1
+World,2013,526.4,934.3
+World,2014,527.2,1003.1
+World,2015,533.2,963.1
+World,2016,536.3,

@@ -1,0 +1,53 @@
+{
+  "name": "Marine Energy - IRENA",
+  "title": "Marine Energy - IRENA",
+  "id": 977,
+  "description": "Marine energy includes energy generation from both wave and tidal sources. \r\n\r\n",
+  "sources": [
+    {
+      "name": "Marine Energy Capacity and Production - IRENA",
+      "dataPublishedBy": "International Renewable Energy Agency (IRENA) REsource Database",
+      "dataPublisherSource": null,
+      "link": "http://resourceirena.irena.org/gateway/",
+      "retrievedDate": "23/10/2017",
+      "additionalInfo": "Marine energy includes energy generation from both wave and tidal sources. \r\n\r\n"
+    }
+  ],
+  "owidTags": [
+    "Renewable Energy"
+  ],
+  "resources": [
+    {
+      "path": "Marine Energy - IRENA.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Installed Capacity",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "shortUnit": "MW"
+            }
+          },
+          {
+            "name": "Energy Production",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "name": "Marine energy production",
+              "shortUnit": "GWh"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
