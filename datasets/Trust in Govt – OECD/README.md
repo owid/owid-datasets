@@ -1,0 +1,3 @@
+# Trust in Govt – OECD
+
+The source reports that the OECD average is based on 28 countries, as it excludes countries with more than two consecutive time-points missing in the series (i.e. Iceland, Luxembourg, Norway, the Slovak Republic, Slovenia and Switzerland). Among countries where a single time point is missing in the time series, the average of the two adjacent years is taken. The OECD 28 average is population-weighted.
