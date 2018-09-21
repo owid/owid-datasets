@@ -1,0 +1,42 @@
+{
+  "name": "Oil prices - BP Statistics (2016)",
+  "title": "Oil prices - BP Statistics (2016)",
+  "id": 514,
+  "description": "The sources for average prices were as follows:\r\n\r\n1861-1944 US Average\r\n\r\n1945-1983 Arabian Light posted at Ras Tanura\r\n\r\n1984-2015 Brent dated\r\n\r\nPrices corrected to 2015 US$ using the Consumer Price Index for the US",
+  "sources": [
+    {
+      "name": "Oil prices - BP Statistics (2016)",
+      "dataPublishedBy": "BP Statistical Review of World Energy 2016",
+      "dataPublisherSource": null,
+      "link": "http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html",
+      "retrievedDate": "03/06/2017",
+      "additionalInfo": "The sources for average prices were as follows:\r\n\r\n1861-1944 US Average\r\n\r\n1945-1983 Arabian Light posted at Ras Tanura\r\n\r\n1984-2015 Brent dated\r\n\r\nPrices corrected to 2015 US$ using the Consumer Price Index for the US"
+    }
+  ],
+  "owidTags": [
+    "Energy Prices"
+  ],
+  "resources": [
+    {
+      "path": "Oil prices - BP Statistics (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Crude Oil Prices (BP Statistics (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
