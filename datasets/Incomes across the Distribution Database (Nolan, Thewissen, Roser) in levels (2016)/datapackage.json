@@ -1,0 +1,111 @@
+{
+  "name": "Incomes across the Distribution Database (Nolan, Thewissen, Roser) in levels (2016)",
+  "title": "Incomes across the Distribution Database (Nolan, Thewissen, Roser) in levels (2016)",
+  "id": 229,
+  "description": "The decile cut-offs  are calculated on the basis of disposable household income. The measure of disposable household income employed in the Luxembourg Income Study is paid employment and self-employment income, capital income, transfer income, which includes social security transfers (work-related insurance transfers, universal benefits, and assistance benefits) and private transfers, minus income taxes and social security contributions. This follows the definitions of the Canberra Group.",
+  "sources": [
+    {
+      "name": "Incomes across the Distribution Database (Nolan, Thewissen, Roser) in levels (2016)",
+      "dataPublishedBy": "Incomes across the Distribution Database",
+      "dataPublisherSource": "Based on microdata from the Luxembourg Income Study Database",
+      "link": "The entire database was published by Brian Nolan, Stefan Thewissen here https://ourworldindata.org/incomes-across-the-distribution/",
+      "retrievedDate": "26/05/2016",
+      "additionalInfo": "The decile cut-offs  are calculated on the basis of disposable household income. The measure of disposable household income employed in the Luxembourg Income Study is paid employment and self-employment income, capital income, transfer income, which includes social security transfers (work-related insurance transfers, universal benefits, and assistance benefits) and private transfers, minus income taxes and social security contributions. This follows the definitions of the Canberra Group."
+    }
+  ],
+  "owidTags": [
+    "Incomes across the Income Distribution"
+  ],
+  "resources": [
+    {
+      "path": "Incomes across the Distribution Database (Nolan, Thewissen, Roser) in levels (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "1st (Incomes across the Distribution Database (2016))",
+            "type": "any",
+            "description": "Household disposable income by income decile for the entire population",
+            "owidDisplaySettings": {
+              "unit": "people"
+            }
+          },
+          {
+            "name": "2nd (Incomes across the Distribution Database (2016))",
+            "type": "any",
+            "description": "Household disposable income by income decile for the entire population",
+            "owidDisplaySettings": {
+              "unit": "people"
+            }
+          },
+          {
+            "name": "3rd (Incomes across the Distribution Database (2016))",
+            "type": "any",
+            "description": "Household disposable income by income decile for the entire population",
+            "owidDisplaySettings": {
+              "unit": "% of total taxation",
+              "shortUnit": "%"
+            }
+          },
+          {
+            "name": "4th (Incomes across the Distribution Database (2016))",
+            "type": "any",
+            "description": "Household disposable income by income decile for the entire population",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "5th (Incomes across the Distribution Database (2016))",
+            "type": "any",
+            "description": "Household disposable income by income decile for the entire population",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          },
+          {
+            "name": "6th (Incomes across the Distribution Database (2016))",
+            "type": "any",
+            "description": "Household disposable income by income decile for the entire population",
+            "owidDisplaySettings": {
+              "unit": "%"
+            }
+          },
+          {
+            "name": "7th (Incomes across the Distribution Database (2016))",
+            "type": "any",
+            "description": "Household disposable income by income decile for the entire population",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "8th (Incomes across the Distribution Database (2016))",
+            "type": "any",
+            "description": "Household disposable income by income decile for the entire population",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "9th (Incomes across the Distribution Database (2016))",
+            "type": "any",
+            "description": "Household disposable income by income decile for the entire population",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "mean (Incomes across the Distribution Database (2016))",
+            "type": "any",
+            "description": "Household disposable income by income decile for the entire population",
+            "owidDisplaySettings": {
+              "unit": "(% population)",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
