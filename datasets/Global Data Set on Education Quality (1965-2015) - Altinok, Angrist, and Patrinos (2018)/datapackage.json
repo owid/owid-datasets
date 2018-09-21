@@ -1,0 +1,63 @@
+{
+  "name": "Global Data Set on Education Quality (1965-2015) - Altinok, Angrist, and Patrinos (2018)",
+  "title": "Global Data Set on Education Quality (1965-2015) - Altinok, Angrist, and Patrinos (2018)",
+  "id": 2839,
+  "description": "This dataset covers 163 countries and regions over 1965–2015. The globally comparable achievement outcomes were constructed by linking standardized, psychometrically-robust international and regional achievement tests, including: <a href=\"https://nces.ed.gov/timss/\" rel=\"noopener\" target=\"_blank\">TIMSS</a>, <a href=\"https://www.iea.nl/pirls\" rel=\"noopener\" target=\"_blank\">PIRLS</a>, <a href=\"http://www.oecd.org/pisa/\" rel=\"noopener\" target=\"_blank\">PISA</a>, <a href=\"https://www.iea.nl/fims\" rel=\"noopener\" target=\"_blank\">FIMS</a>, <a href=\"https://www.iea.nl/fiss\" rel=\"noopener\" target=\"_blank\">FISS</a>, <a href=\"https://www.capita-sims.co.uk/products-and-services/sims-assessment\" rel=\"noopener\" target=\"_blank\">SIMS</a>, <a href=\"https://ips.gu.se/english/research/research_databases/compeat/Before_1995/SISS\" rel=\"noopener\" target=\"_blank\">SISS</a>, <a href=\"https://ips.gu.se/english/research/research_databases/compeat/Before_1995/Six_Subject_Survey/SSS_Reading\" rel=\"noopener\" target=\"_blank\">SRC</a>, <a href=\"https://ips.gu.se/english/research/research_databases/compeat/Before_1995/RLS\" rel=\"noopener\" target=\"_blank\">RLS</a>, <a href=\"https://www.unicef.org/education/index_achievement.html\" rel=\"noopener\" target=\"_blank\">MLA</a>, <a href=\"https://www.nap.edu/read/9174/chapter/9\" rel=\"noopener\" target\"_blank\">IAEP</a>, <a href=\"http://www.sacmeq.org/\" rel=\"noopener\" target=\"_blank\" >SACMEQ</a>, <a href=\"https://www.epdc.org/data-about-epdc-data-epdc-learning-outcomes-data/sacmeq-and-pasec\" rel=\"noopener\" target=\"_blank\">PASEC</a>, and <a href=\"http://www.unesco.org/new/en/santiago/education/education-assessment-llece/\" rel=\"noopener\" target=\"_blank\">LLECE</a>.\n\nFor the purpose of comparing outcomes, the authors construct minimum, intermediate, and advanced thresholds of educational proficiency. These thresholds are defined by level of education (primary or secondary) and by subject (maths, science, and reading). \n\nPrimary education thresholds are defined by PIRLS and TIMSS at scores of 400 (minimum threshold) , 475 (intermediate threshold), and 625 (advanced threshold) across all subjects. Secondary education thresholds are defined using PISA at scores of roughly 400, 475, and over 600, varying by subject.  For more information on thresholds used by level of education and subject, see Table 3.1, 3.2, 3.3 in the original paper.",
+  "sources": [
+    {
+      "name": "Altinok, Angrist, and Patrinos (2018)",
+      "dataPublishedBy": " Altinok, N., N. Angrist and H.A. Patrinos. 2018. “Global data set on education quality (1965-2015).” World Bank Policy Research Working Paper No. 8314. Washington, DC. ",
+      "dataPublisherSource": "International and regional standardized tests",
+      "link": "http://documents.worldbank.org/curated/en/706141516721172989/Global-data-set-on-education-quality-1965-2015 ",
+      "retrievedDate": "19/07/2018",
+      "additionalInfo": "This dataset covers 163 countries and regions over 1965–2015. The globally comparable achievement outcomes were constructed by linking standardized, psychometrically-robust international and regional achievement tests, including: <a href=\"https://nces.ed.gov/timss/\" rel=\"noopener\" target=\"_blank\">TIMSS</a>, <a href=\"https://www.iea.nl/pirls\" rel=\"noopener\" target=\"_blank\">PIRLS</a>, <a href=\"http://www.oecd.org/pisa/\" rel=\"noopener\" target=\"_blank\">PISA</a>, <a href=\"https://www.iea.nl/fims\" rel=\"noopener\" target=\"_blank\">FIMS</a>, <a href=\"https://www.iea.nl/fiss\" rel=\"noopener\" target=\"_blank\">FISS</a>, <a href=\"https://www.capita-sims.co.uk/products-and-services/sims-assessment\" rel=\"noopener\" target=\"_blank\">SIMS</a>, <a href=\"https://ips.gu.se/english/research/research_databases/compeat/Before_1995/SISS\" rel=\"noopener\" target=\"_blank\">SISS</a>, <a href=\"https://ips.gu.se/english/research/research_databases/compeat/Before_1995/Six_Subject_Survey/SSS_Reading\" rel=\"noopener\" target=\"_blank\">SRC</a>, <a href=\"https://ips.gu.se/english/research/research_databases/compeat/Before_1995/RLS\" rel=\"noopener\" target=\"_blank\">RLS</a>, <a href=\"https://www.unicef.org/education/index_achievement.html\" rel=\"noopener\" target=\"_blank\">MLA</a>, <a href=\"https://www.nap.edu/read/9174/chapter/9\" rel=\"noopener\" target\"_blank\">IAEP</a>, <a href=\"http://www.sacmeq.org/\" rel=\"noopener\" target=\"_blank\" >SACMEQ</a>, <a href=\"https://www.epdc.org/data-about-epdc-data-epdc-learning-outcomes-data/sacmeq-and-pasec\" rel=\"noopener\" target=\"_blank\">PASEC</a>, and <a href=\"http://www.unesco.org/new/en/santiago/education/education-assessment-llece/\" rel=\"noopener\" target=\"_blank\">LLECE</a>.\n\nFor the purpose of comparing outcomes, the authors construct minimum, intermediate, and advanced thresholds of educational proficiency. These thresholds are defined by level of education (primary or secondary) and by subject (maths, science, and reading). \n\nPrimary education thresholds are defined by PIRLS and TIMSS at scores of 400 (minimum threshold) , 475 (intermediate threshold), and 625 (advanced threshold) across all subjects. Secondary education thresholds are defined using PISA at scores of roughly 400, 475, and over 600, varying by subject.  For more information on thresholds used by level of education and subject, see Table 3.1, 3.2, 3.3 in the original paper."
+    }
+  ],
+  "owidTags": [
+    "Quality of Education & Drop-Out Rates"
+  ],
+  "resources": [
+    {
+      "path": "Global Data Set on Education Quality (1965-2015) - Altinok, Angrist, and Patrinos (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Average harmonised learning outcome score (Altinok, Angrist, and Patrinos (2018)) ",
+            "type": "any",
+            "description": "Average learning outcomes from standardized, psychometrically-robust international and regional achievement tests. In order to maximize coverage by country, tests have been harmonized and pooled across subjects (math, reading, science) and levels (primary and secondary education).",
+            "owidDisplaySettings": {
+              "unit": "(score)",
+              "numDecimalPlaces": 1
+            }
+          },
+          {
+            "name": "Share of students achieving the minimum threshold (Altinok, Angrist, and Patrinos (2018)) ",
+            "type": "any",
+            "description": "Proportion of students achieving a minimum proficiency benchmark. Achievement outcomes come from standardized, psychometrically-robust international and regional tests. In order to maximize coverage by country, tests have been harmonized and pooled across subjects (math, reading, science) and levels (primary and secondary education). See source for details on proficiency benchmarks.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of students achieving the intermediate threshold (Altinok, Angrist, and Patrinos (2018)) ",
+            "type": "any",
+            "description": "Proportion of students achieving an intermediate proficiency benchmark. Achievement outcomes come from standardized, psychometrically-robust international and regional tests. In order to maximize coverage by country, tests have been harmonized and pooled across subjects (math, reading, science) and levels (primary and secondary education). See source for details on proficiency benchmarks.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of students achieving the advanced threshold (Altinok, Angrist, and Patrinos (2018)) ",
+            "type": "any",
+            "description": "Proportion of students achieving an advanced proficiency benchmark. Achievement outcomes come from standardized, psychometrically-robust international and regional tests. In order to maximize coverage by country, tests have been harmonized and pooled across subjects (math, reading, science) and levels (primary and secondary education). See source for details on proficiency benchmarks.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
