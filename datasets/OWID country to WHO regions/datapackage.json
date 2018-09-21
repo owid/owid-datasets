@@ -1,0 +1,42 @@
+{
+  "name": "OWID country to WHO regions",
+  "title": "OWID country to WHO regions",
+  "id": 659,
+  "description": "",
+  "sources": [
+    {
+      "name": "World Health Organization",
+      "dataPublishedBy": "World Health Organization (WHO)",
+      "dataPublisherSource": null,
+      "link": "http://www.who.int/about/regions/en/",
+      "retrievedDate": "01/08/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "OWID country to WHO regions.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "WHO region",
+            "type": "any",
+            "description": "WHO Member Countries are grouped into six regions, called WHO regions.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
