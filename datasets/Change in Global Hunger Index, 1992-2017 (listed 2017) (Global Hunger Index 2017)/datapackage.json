@@ -1,0 +1,42 @@
+{
+  "name": "Change in Global Hunger Index, 1992-2017 (listed 2017) (Global Hunger Index 2017)",
+  "title": "Change in Global Hunger Index, 1992-2017 (listed 2017) (Global Hunger Index 2017)",
+  "id": 2476,
+  "description": "",
+  "sources": [
+    {
+      "name": "International Food Policy Research Institute (IFPRI); Welthungerhilfe (WHH); Concern Worldwide, 2017, \"2017 Global Hunger Index Data\"",
+      "dataPublishedBy": "IFPRI, WHH, Concern Worldwide",
+      "dataPublisherSource": "GHI combines UN, UNICEF, WHO, FAO data on undernourishment, child malnutrition and mortality into a single index",
+      "link": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZTCWYQ",
+      "retrievedDate": "21/02/2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Hunger & Undernourishment"
+  ],
+  "resources": [
+    {
+      "path": "Change in Global Hunger Index, 1992-2017 (listed 2017) (Global Hunger Index 2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Change in Global Hunger Index, 1992-2017 (Global Hunger Index 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
