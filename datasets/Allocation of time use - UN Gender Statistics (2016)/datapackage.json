@@ -1,0 +1,60 @@
+{
+  "name": "Allocation of time use - UN Gender Statistics (2016)",
+  "title": "Allocation of time use - UN Gender Statistics (2016)",
+  "id": 2876,
+  "description": "",
+  "sources": [
+    {
+      "name": "UN Gender Statistics (2016)",
+      "dataPublishedBy": "United Nations Statistics Division",
+      "dataPublisherSource": "National data",
+      "link": "https://unstats.un.org/unsd/gender/timeuse/index.html",
+      "retrievedDate": "09/08/2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Working Hours"
+  ],
+  "resources": [
+    {
+      "path": "Allocation of time use - UN Gender Statistics (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Paid and subsistence work, men (UNSD (2016))",
+            "type": "any",
+            "description": "Average time spent in paid work in a 24 hour period. \n\nPaid work refers to employment; subsistence work refers to own-use production of goods. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Unpaid domestic, care and volunteer work, men (UNSD (2016))",
+            "type": "any",
+            "description": "Average time spent in unpaid domestic, care, and volunteer work in a 24 hour period. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Paid and subsistence work, women (UNSD (2016))",
+            "type": "any",
+            "description": "Average time spent in paid work in a 24 hour period. \n\nPaid work refers to employment; subsistence work refers to own-use production of goods. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Unpaid domestic, care and volunteer work, women (UNSD (2016))",
+            "type": "any",
+            "description": "Average time spent in unpaid domestic, care, and volunteer work in a 24 hour period.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
