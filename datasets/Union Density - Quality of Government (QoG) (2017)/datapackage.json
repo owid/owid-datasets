@@ -1,0 +1,42 @@
+{
+  "name": "Union Density - Quality of Government (QoG) (2017)",
+  "title": "Union Density - Quality of Government (QoG) (2017)",
+  "id": 847,
+  "description": "",
+  "sources": [
+    {
+      "name": "Union Density via Quality of Government (QoG) dataset 2017 ",
+      "dataPublishedBy": "The Quality of Government Institute",
+      "dataPublisherSource": "J. Visser, ICTWSS Data base. version 5.1. Amsterdam: Amsterdam Institute for Advanced Labour Studies (AIAS), University of Amsterdam. September 2016.",
+      "link": "http://uva-aias.net/en/ictwss",
+      "retrievedDate": "01/09/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Quality of Institutions"
+  ],
+  "resources": [
+    {
+      "path": "Union Density - Quality of Government (QoG) (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Union density rate (Quality of Government (QoG) (2017))",
+            "type": "any",
+            "description": "Net union membership as a proportion of wage and salary earners in employment (WSEE). It is calculated as Num*100/WSEE.\r\n",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
