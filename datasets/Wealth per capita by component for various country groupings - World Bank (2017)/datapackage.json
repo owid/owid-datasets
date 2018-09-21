@@ -1,0 +1,180 @@
+{
+  "name": "Wealth per capita by component for various country groupings - World Bank (2017)",
+  "title": "Wealth per capita by component for various country groupings - World Bank (2017)",
+  "id": 1029,
+  "description": "",
+  "sources": [
+    {
+      "name": "World Bank (2017)",
+      "dataPublishedBy": "World Bank",
+      "dataPublisherSource": "The World Bank used various sources to calculate wealth values, see each variable for more detail.",
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Wealth"
+  ],
+  "resources": [
+    {
+      "path": "Wealth per capita by component for various country groupings - World Bank (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total wealth",
+            "type": "any",
+            "description": "Total wealth is calculated by summing up each component of wealth (“bottom-up approach”): Natural capital + Produced capital + Human capital + Net foreign assets. Each of these components is calculated separately by the World Bank, usually as the net present value of future returns. Data on each wealth component - i.e. market exchange rates - comes from various sources.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Produced capital (including urban land)",
+            "type": "any",
+            "description": "Physical capital estimates include the value of structures, machinery, and equipment, since the value of the stocks is derived (using the perpetual inventory method) from gross capital formation data that account for these elements. Urban land is also accounted for, however, in the investment figures only land improvements are captured. Thus, the final capital estimates do not entirely reflect the value of urban land.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Natural capital (timber, non-timber, protected areas, land, sub-soil assets)",
+            "type": "any",
+            "description": "Sum of values of timber, non-timber, protected areas, land, and sub-soil assets. Each of these components is calculated separately by the World Bank, usually as the net present value of future returns. Data on each wealth component - i.e. market exchange rates - comes from various sources.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Natural capital, renewable (excluding sub-soil assets)",
+            "type": "any",
+            "description": "'Renewable' in the sense that these forms of natural capital can continue to be re-used if maintained at a certain level, as opposed to 'non-renewable' natural capital, such as oil, which is finite. Includes sum of values of timber, non-timber, protected areas, and land (cropland and pastureland). Each of these components is calculated separately by the World Bank, usually as the net present value of future returns. Data on each wealth component - i.e. market exchange rates - comes from various sources.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Forest, timber",
+            "type": "any",
+            "description": "The predominant economic use of forests has been as a source of timber. Timber resources are valued according to the present discounted value of rents from the production of roundwood over the expected lifetime of standing timber resources. The World Bank calculates this value using various sources, i.e. UN FAOSTAT database.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Forest, non-timber",
+            "type": "any",
+            "description": "The annual value of non-timber forest ecosystem services is estimated by multiplying total forest area in a given year by the sum of the per-hectare monetary values for the three benefit categories (non-wood forest products; recreation, hunting, and fishing; and watershed protection). The capitalized value of non-wood services is equal to the present value of annual services, discounted into the future. The World Bank calculates estimates based on sources such as FAO's Global Forest Resources Assessment.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Protected areas",
+            "type": "any",
+            "description": "Areas protected for conservation and preservation of ecosystems provide a range of services to the country. For instance, wildlife reserves can generate significant revenues for developing countries in particular from international tourism activities. And about one-third of the world’s big cities get their drinking water from sources in or downstream of protected areas, saving billions of dollars in supply and treatment costs thanks to forests and wetlands that regulate the flow of water and remove contaminants (Dudley et al 2010). Valuing such ecosystem services on a global basis, however, is difficult. For this reason, protected areas are valued in the World Bank wealth accounts using a simplified approach. Under this approach, the quasi-opportunity cost of protection per unit area of land contained in terrestrial protected areas is estimated as the lower of returns to cropland and pastureland. This is likely to be a lower bound on the true value of protected areas. Returns are capitalized over an infinite time horizon. The World Bank bases calculations on a number of its own databases and indicators.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Land (crop, pasture)",
+            "type": "any",
+            "description": "The sum of cropland and pastureland. The value of these two forms of land is calculated as the present value of returns to the land. The World Bank uses sources such as the FAOSTAT database.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cropland",
+            "type": "any",
+            "description": "The value of cropland is calculated as the present value of returns to the land. The World Bank uses sources such as the FAOSTAT database.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Pastureland",
+            "type": "any",
+            "description": "The value of pastureland is calculated as the present value of returns to the land. The World Bank uses sources such as the FAOSTAT database.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Sub-soil assets (fossil energy resources, metals and minerals)",
+            "type": "any",
+            "description": "The sum of values of fossil energy resources (oil, gas, coal) and metals and minerals (Bauxite, copper, gold, iron ore, lead, nickel, phosphate rock, silver, tin, and zinc). ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fossil energy resources (oil, natural gas, coal)",
+            "type": "any",
+            "description": "Petroleum, natural gas, coal (all grades). The value of these resources is measured as the present value of the stream of expected rents that may be extracted from the resource until it is exhausted. The WB calculates these values using various sources, i.e. Rystad Energy, UCUBE (Upstream Database), IEA \"World Energy Statistics, etc.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Oil",
+            "type": "any",
+            "description": "The value of this resource is measured as the present value of the stream of expected rents that may be extracted from the resource until it is exhausted. The WB calculates this value using various sources, i.e. BP, Statistical Review of World Energy.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Natural gas",
+            "type": "any",
+            "description": "The value of this resource is measured as the present value of the stream of expected rents that may be extracted from the resource until it is exhausted. The WB calculates this value using various sources, i.e. BP, Statistical Review of World Energy",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Coal",
+            "type": "any",
+            "description": "The value of this resource is measured as the present value of the stream of expected rents that may be extracted from the resource until it is exhausted. The WB calculates this value using various sources, i.e. BP, Statistical Review of World Energy",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Metals and minerals",
+            "type": "any",
+            "description": "Bauxite, copper, gold, iron ore, lead, nickel, phosphate rock, silver, tin, and zinc. The value of these resources is measured as the present value of the stream of expected rents that may be extracted from the resource until it is exhausted. The WB calculates these values using various sources, i.e. US Geological Survey (USGS), Minerals Yearbook, etc.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Human capital",
+            "type": "any",
+            "description": "Total human capital is calculated as the discounted value of lifetime earnings. This method takes into account estimates of years of schooling and experience.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Human capital, total male",
+            "type": "any",
+            "description": "Human capital is calculated as the discounted value of lifetime earnings. This method takes into account estimates of years of schooling and experience.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Human capital, total female",
+            "type": "any",
+            "description": "Human capital is calculated as the discounted value of lifetime earnings. This method takes into account estimates of years of schooling and experience.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Net foreign assets",
+            "type": "any",
+            "description": "Net foreign assets (NFA) are a measure of the cross-border assets and liabilities held by a country’s residents. A country’s external asset position, or net foreign assets (NFA), is calculated as: NFA = FA - FL",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Adjusted net national income",
+            "type": "any",
+            "description": "Adjusted net national income (ANNI) is a measure of the available income that can be consumed or invested to increase the nation's future consumption. It is calculated by the World Bank as: ANNI = Gross national income - consumption of fixed capital - depletion of natural capital (energy, minerals, timber).",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Adjusted net saving",
+            "type": "any",
+            "description": "Adjusted net saving (ANS) is a measure of the net change in national wealth, and therefore an indicator of sustainability. It is calculated as: ANS = Gross national saving - consumption of fixed capital + investment in human capital - depletion of natural capital - pollution damages. Positive ANS indicates an investment in the future, negative ANS suggests that a country is running down its capital stock.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gross domestic product",
+            "type": "any",
+            "description": "Gross domestic product (GDP) is the monetary value of all the finished goods and services produced within a country's borders in a specific time period.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gross national income",
+            "type": "any",
+            "description": "Gross national income (GNI) is the total domestic and foreign output claimed by residents of a country, consisting of gross domestic product (GDP), plus factor incomes earned by foreign residents, minus income earned in the domestic economy by nonresidents.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
