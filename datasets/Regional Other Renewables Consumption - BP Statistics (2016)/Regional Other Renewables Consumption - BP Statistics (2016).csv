@@ -1,0 +1,307 @@
+Entity,Year,Other Renewables (BP Statistics (2016))
+Africa,1965,0
+Africa,1966,0
+Africa,1967,0
+Africa,1968,0
+Africa,1969,0
+Africa,1970,0
+Africa,1971,0.03710911
+Africa,1972,0.037335385
+Africa,1973,0.03846676
+Africa,1974,0.039598135
+Africa,1975,0.03891931
+Africa,1976,0.041860886
+Africa,1977,0.042765986
+Africa,1978,0.044123637
+Africa,1979,0.045481287
+Africa,1980,0.046838937
+Africa,1981,0.049327963
+Africa,1982,0.053400914
+Africa,1983,0.052043264
+Africa,1984,0.052948364
+Africa,1985,0.060867991
+Africa,1986,0.149115265
+Africa,1987,0.148888989
+Africa,1988,0.141648188
+Africa,1989,0.139611712
+Africa,1990,0.165669072
+Africa,1991,0.167086268
+Africa,1992,0.165276067
+Africa,1993,0.162334492
+Africa,1994,0.137094104
+Africa,1995,0.170107635
+Africa,1996,0.216219738
+Africa,1997,0.235475745
+Africa,1998,0.303541292
+Africa,1999,0.293785264
+Africa,2000,0.388590749
+Africa,2001,0.443843868
+Africa,2002,0.439415289
+Africa,2003,0.593310162
+Africa,2004,0.6805053
+Africa,2005,0.694204467
+Africa,2006,0.887671896
+Africa,2007,0.832394162
+Africa,2008,0.927417136
+Africa,2009,1.081905943
+Africa,2010,1.338006317
+Africa,2011,1.361348086
+Africa,2012,1.413556227
+Africa,2013,1.737023729
+Africa,2014,2.745818491
+Africa,2015,3.786327813
+Asia Pacific,1965,0.371996199
+Asia Pacific,1966,0.371769924
+Asia Pacific,1967,0.322215685
+Asia Pacific,1968,0.35683577
+Asia Pacific,1969,0.363850296
+Asia Pacific,1970,0.402023804
+Asia Pacific,1971,0.397024709
+Asia Pacific,1972,0.404034711
+Asia Pacific,1973,0.415214282
+Asia Pacific,1974,0.564843441
+Asia Pacific,1975,0.600609668
+Asia Pacific,1976,0.585388193
+Asia Pacific,1977,0.593393554
+Asia Pacific,1978,0.660151009
+Asia Pacific,1979,0.840141291
+Asia Pacific,1980,1.170618898
+Asia Pacific,1981,1.522597054
+Asia Pacific,1982,3.53167721
+Asia Pacific,1983,3.895281355
+Asia Pacific,1984,4.280023854
+Asia Pacific,1985,4.480820801
+Asia Pacific,1986,4.687274821
+Asia Pacific,1987,4.900394255
+Asia Pacific,1988,5.310846948
+Asia Pacific,1989,5.783005707
+Asia Pacific,1990,4.616320089
+Asia Pacific,1991,4.840409647
+Asia Pacific,1992,4.938177628
+Asia Pacific,1993,4.945410944
+Asia Pacific,1994,5.844291895
+Asia Pacific,1995,7.543415167
+Asia Pacific,1996,7.702433555
+Asia Pacific,1997,8.705713768
+Asia Pacific,1998,9.520398307
+Asia Pacific,1999,10.36924056
+Asia Pacific,2000,10.9055746
+Asia Pacific,2001,11.39730394
+Asia Pacific,2002,12.0369505
+Asia Pacific,2003,13.00902343
+Asia Pacific,2004,14.78245092
+Asia Pacific,2005,17.44909698
+Asia Pacific,2006,19.98934645
+Asia Pacific,2007,22.73177387
+Asia Pacific,2008,26.90319131
+Asia Pacific,2009,34.12670255
+Asia Pacific,2010,41.1702582
+Asia Pacific,2011,51.90318646
+Asia Pacific,2012,62.72859537
+Asia Pacific,2013,80.54049279
+Asia Pacific,2014,93.38802636
+Asia Pacific,2015,110.8775084
+Europe and Eurasia,1965,0.685839707
+Europe and Eurasia,1966,0.936552473
+Europe and Eurasia,1967,1.024347196
+Europe and Eurasia,1968,1.139973752
+Europe and Eurasia,1969,1.246300403
+Europe and Eurasia,1970,1.640000702
+Europe and Eurasia,1971,1.66586905
+Europe and Eurasia,1972,1.638991425
+Europe and Eurasia,1973,1.767212618
+Europe and Eurasia,1974,1.87287623
+Europe and Eurasia,1975,1.986237232
+Europe and Eurasia,1976,1.983077104
+Europe and Eurasia,1977,2.099534217
+Europe and Eurasia,1978,2.200988077
+Europe and Eurasia,1979,2.297245673
+Europe and Eurasia,1980,2.568433749
+Europe and Eurasia,1981,2.540500986
+Europe and Eurasia,1982,2.332061867
+Europe and Eurasia,1983,2.452241108
+Europe and Eurasia,1984,2.603275366
+Europe and Eurasia,1985,2.736145575
+Europe and Eurasia,1986,3.051033128
+Europe and Eurasia,1987,3.033645581
+Europe and Eurasia,1988,3.243629283
+Europe and Eurasia,1989,3.237272976
+Europe and Eurasia,1990,4.38306699
+Europe and Eurasia,1991,4.613967696
+Europe and Eurasia,1992,5.084361794
+Europe and Eurasia,1993,5.776408896
+Europe and Eurasia,1994,6.189516803
+Europe and Eurasia,1995,6.976182857
+Europe and Eurasia,1996,7.486507766
+Europe and Eurasia,1997,8.929005532
+Europe and Eurasia,1998,10.72031496
+Europe and Eurasia,1999,12.28352607
+Europe and Eurasia,2000,14.97131792
+Europe and Eurasia,2001,16.54974963
+Europe and Eurasia,2002,20.14774243
+Europe and Eurasia,2003,23.75711704
+Europe and Eurasia,2004,29.70086973
+Europe and Eurasia,2005,34.89498713
+Europe and Eurasia,2006,40.31668386
+Europe and Eurasia,2007,47.97246981
+Europe and Eurasia,2008,54.36005865
+Europe and Eurasia,2009,61.01103385
+Europe and Eurasia,2010,70.89627441
+Europe and Eurasia,2011,85.72229785
+Europe and Eurasia,2012,101.7406975
+Europe and Eurasia,2013,114.339701
+Europe and Eurasia,2014,124.0802575
+Europe and Eurasia,2015,142.843271
+Latin America and the Carribean,1965,0
+Latin America and the Carribean,1966,0
+Latin America and the Carribean,1967,0
+Latin America and the Carribean,1968,0
+Latin America and the Carribean,1969,0
+Latin America and the Carribean,1970,0.129178201
+Latin America and the Carribean,1971,0.487253097
+Latin America and the Carribean,1972,0.48523178
+Latin America and the Carribean,1973,0.514881595
+Latin America and the Carribean,1974,0.540464724
+Latin America and the Carribean,1975,0.651264073
+Latin America and the Carribean,1976,0.760788003
+Latin America and the Carribean,1977,0.833714009
+Latin America and the Carribean,1978,0.924114852
+Latin America and the Carribean,1979,0.992839626
+Latin America and the Carribean,1980,0.997592403
+Latin America and the Carribean,1981,1.10535794
+Latin America and the Carribean,1982,1.251067816
+Latin America and the Carribean,1983,1.439876964
+Latin America and the Carribean,1984,1.401612401
+Latin America and the Carribean,1985,1.388107377
+Latin America and the Carribean,1986,1.437021593
+Latin America and the Carribean,1987,1.541240404
+Latin America and the Carribean,1988,1.522766615
+Latin America and the Carribean,1989,1.59215632
+Latin America and the Carribean,1990,1.894741858
+Latin America and the Carribean,1991,1.911014112
+Latin America and the Carribean,1992,2.326873969
+Latin America and the Carribean,1993,2.242246007
+Latin America and the Carribean,1994,2.443243392
+Latin America and the Carribean,1995,2.522726729
+Latin America and the Carribean,1996,2.886781427
+Latin America and the Carribean,1997,3.094763946
+Latin America and the Carribean,1998,2.924833917
+Latin America and the Carribean,1999,3.334832603
+Latin America and the Carribean,2000,3.330262229
+Latin America and the Carribean,2001,3.884173824
+Latin America and the Carribean,2002,4.277330041
+Latin America and the Carribean,2003,4.69339354
+Latin America and the Carribean,2004,4.910364164
+Latin America and the Carribean,2005,5.16015967
+Latin America and the Carribean,2006,5.646543726
+Latin America and the Carribean,2007,6.896983054
+Latin America and the Carribean,2008,7.704793387
+Latin America and the Carribean,2009,8.930497478
+Latin America and the Carribean,2010,11.11121433
+Latin America and the Carribean,2011,12.0877587
+Latin America and the Carribean,2012,13.88253676
+Latin America and the Carribean,2013,16.1514323
+Latin America and the Carribean,2014,19.93654785
+Latin America and the Carribean,2015,24.242935
+Middle East,1965,0
+Middle East,1966,0
+Middle East,1967,0
+Middle East,1968,0
+Middle East,1969,0
+Middle East,1970,0
+Middle East,1971,0
+Middle East,1972,0
+Middle East,1973,0
+Middle East,1974,0
+Middle East,1975,0
+Middle East,1976,0
+Middle East,1977,0
+Middle East,1978,0
+Middle East,1979,0
+Middle East,1980,0
+Middle East,1981,0
+Middle East,1982,0
+Middle East,1983,0
+Middle East,1984,0
+Middle East,1985,0
+Middle East,1986,0
+Middle East,1987,0
+Middle East,1988,0
+Middle East,1989,0
+Middle East,1990,0.000226275
+Middle East,1991,0.000226275
+Middle East,1992,0.000226275
+Middle East,1993,0.000226275
+Middle East,1994,0.000226275
+Middle East,1995,0.000226275
+Middle East,1996,0.000226275
+Middle East,1997,0.000678825
+Middle East,1998,0.000678825
+Middle East,1999,0.008598452
+Middle East,2000,0.009729828
+Middle East,2001,0.011789159
+Middle East,2002,0.011087478
+Middle East,2003,0.010861203
+Middle East,2004,0.015160429
+Middle East,2005,0.020364755
+Middle East,2006,0.032583609
+Middle East,2007,0.03756166
+Middle East,2008,0.050914174
+Middle East,2009,0.073340547
+Middle East,2010,0.081690236
+Middle East,2011,0.13725073
+Middle East,2012,0.199955456
+Middle East,2013,0.249875125
+Middle East,2014,0.362007055
+Middle East,2015,0.493358226
+North America,1965,0.078064896
+North America,1966,0.086663348
+North America,1967,0.107254378
+North America,1968,0.142327013
+North America,1969,0.180793773
+North America,1970,0.184866724
+North America,1971,0.190976151
+North America,1972,0.41589356
+North America,1973,0.569751278
+North America,1974,0.736616559
+North America,1975,0.924451006
+North America,1976,1.20379812
+North America,1977,1.332194231
+North America,1978,1.171819057
+North America,1979,1.566738062
+North America,1980,1.802273409
+North America,1981,2.081462525
+North America,1982,1.998929251
+North America,1983,2.305642195
+North America,1984,2.880338688
+North America,1985,3.262996235
+North America,1986,3.884570256
+North America,1987,4.398765722
+North America,1988,4.416446361
+North America,1989,13.92514001
+North America,1990,16.48094334
+North America,1991,17.53692028
+North America,1992,18.81588809
+North America,1993,19.47917564
+North America,1994,19.6497213
+North America,1995,18.98081757
+North America,1996,19.37679045
+North America,1997,19.82315273
+North America,1998,19.91131849
+North America,1999,20.67195104
+North America,2000,21.05266219
+North America,2001,20.23393966
+North America,2002,22.26677813
+North America,2003,22.62084033
+North America,2004,23.52752652
+North America,2005,24.93320947
+North America,2006,27.02561588
+North America,2007,29.3554731
+North America,2008,33.98138707
+North America,2009,39.01540437
+North America,2010,45.32768312
+North America,2011,52.41211683
+North America,2012,58.48704659
+North America,2013,68.10854533
+North America,2014,76.09190113
+North America,2015,82.61726182
