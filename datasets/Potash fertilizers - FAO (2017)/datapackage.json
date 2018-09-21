@@ -1,0 +1,48 @@
+{
+  "name": "Potash fertilizers - FAO (2017)",
+  "title": "Potash fertilizers - FAO (2017)",
+  "id": 857,
+  "description": "Data combines UN FAO datasets related to potash fertilizer production and consumption:\n\nFor production figures: \"Potash Fertilizers - Production Quantity\" which extends from 2003-2014 and \"Fertilizers Archive - Potash Fertilizers - Production Quantity\", which extends from 1961-2002.\n\nFor consumption figures: \"Potash Fertilizers - Consumption\" which extends from 2003-2014 and \"Fertilizers Archive - Potash Fertilizers - Consumption\", which extends from 1961-2002.\n\nData is measured in tonnes of total nutrient production or consumption.",
+  "sources": [
+    {
+      "name": "Potash fertilizers - FAO (2017)",
+      "dataPublishedBy": "UN Food and Agricultural Organization (FAO)",
+      "dataPublisherSource": null,
+      "link": "http://www.fao.org/faostat/en/#data/RF",
+      "retrievedDate": "06/09/2017",
+      "additionalInfo": "Data combines UN FAO datasets related to potash fertilizer production and consumption:\n\nFor production figures: \"Potash Fertilizers - Production Quantity\" which extends from 2003-2014 and \"Fertilizers Archive - Potash Fertilizers - Production Quantity\", which extends from 1961-2002.\n\nFor consumption figures: \"Potash Fertilizers - Consumption\" which extends from 2003-2014 and \"Fertilizers Archive - Potash Fertilizers - Consumption\", which extends from 1961-2002.\n\nData is measured in tonnes of total nutrient production or consumption."
+    }
+  ],
+  "owidTags": [
+    "Fertilizer and Pesticides"
+  ],
+  "resources": [
+    {
+      "path": "Potash fertilizers - FAO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Potash production (FAO (2017))",
+            "type": "any",
+            "description": "Potash production (in tonnes). ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Potash consumption (FAO (2017))",
+            "type": "any",
+            "description": "Potash consumption (in tonnes). ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
