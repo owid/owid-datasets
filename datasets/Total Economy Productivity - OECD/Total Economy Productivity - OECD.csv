@@ -1,0 +1,684 @@
+Entity,Year,Total Productivity
+Australia,2001,90.89
+Australia,2002,92.23
+Australia,2003,94.29
+Australia,2004,94.02
+Australia,2005,94.58
+Australia,2006,95.04
+Australia,2007,96.23
+Australia,2008,99.49
+Australia,2009,98.46
+Australia,2010,100.00
+Australia,2011,100.92
+Australia,2012,103.35
+Australia,2013,105.15
+Australia,2014,105.91
+Australia,2015,108.75
+Australia,2016,109.52
+Austria,2001,88.24
+Austria,2002,89.92
+Austria,2003,90.46
+Austria,2004,92.20
+Austria,2005,94.33
+Austria,2006,96.74
+Austria,2007,99.06
+Austria,2008,99.15
+Austria,2009,98.42
+Austria,2010,100.00
+Austria,2011,100.88
+Austria,2012,102.04
+Austria,2013,102.80
+Austria,2014,103.15
+Austria,2015,104.99
+Austria,2016,104.59
+Belgium,2001,89.75
+Belgium,2002,91.85
+Belgium,2003,92.92
+Belgium,2004,95.66
+Belgium,2005,96.74
+Belgium,2006,97.64
+Belgium,2007,99.09
+Belgium,2008,98.51
+Belgium,2009,97.81
+Belgium,2010,100.00
+Belgium,2011,99.54
+Belgium,2012,99.32
+Belgium,2013,99.97
+Belgium,2014,101.06
+Belgium,2015,102.27
+Belgium,2016,102.41
+Canada,2001,92.64
+Canada,2002,94.07
+Canada,2003,94.13
+Canada,2004,94.76
+Canada,2005,97.01
+Canada,2006,98.12
+Canada,2007,98.27
+Canada,2008,98.20
+Canada,2009,98.91
+Canada,2010,100.00
+Canada,2011,101.74
+Canada,2012,101.62
+Canada,2013,103.06
+Canada,2014,105.34
+Canada,2015,105.11
+Canada,2016,105.80
+Chile,2001,81.03
+Chile,2002,81.75
+Chile,2003,82.44
+Chile,2004,86.30
+Chile,2005,90.91
+Chile,2006,94.65
+Chile,2007,98.30
+Chile,2008,100.47
+Chile,2009,100.55
+Chile,2010,100.00
+Chile,2011,102.30
+Chile,2012,107.36
+Chile,2013,106.28
+Chile,2014,108.05
+Chile,2015,108.88
+Chile,2016,110.20
+Costa Rica,2001,78.74
+Costa Rica,2002,79.18
+Costa Rica,2003,80.25
+Costa Rica,2004,82.19
+Costa Rica,2005,80.68
+Costa Rica,2006,83.79
+Costa Rica,2007,84.90
+Costa Rica,2008,87.50
+Costa Rica,2009,89.89
+Costa Rica,2010,100.00
+Costa Rica,2011,104.70
+Costa Rica,2012,103.16
+Costa Rica,2013,108.32
+Costa Rica,2014,111.04
+Costa Rica,2015,114.52
+Costa Rica,2016,119.89
+Czech Republic,2001,77.78
+Czech Republic,2002,78.65
+Czech Republic,2003,82.60
+Czech Republic,2004,86.30
+Czech Republic,2005,90.19
+Czech Republic,2006,96.03
+Czech Republic,2007,100.16
+Czech Republic,2008,100.37
+Czech Republic,2009,97.89
+Czech Republic,2010,100.00
+Czech Republic,2011,101.71
+Czech Republic,2012,102.14
+Czech Republic,2013,102.08
+Czech Republic,2014,103.47
+Czech Republic,2015,108.69
+Czech Republic,2016,108.71
+Denmark,2001,90.61
+Denmark,2002,91.35
+Denmark,2003,92.86
+Denmark,2004,95.82
+Denmark,2005,97.14
+Denmark,2006,98.42
+Denmark,2007,98.60
+Denmark,2008,97.13
+Denmark,2009,96.23
+Denmark,2010,100.00
+Denmark,2011,100.35
+Denmark,2012,102.26
+Denmark,2013,103.07
+Denmark,2014,104.54
+Denmark,2015,105.05
+Denmark,2016,105.57
+EA19,2001,93.03
+EA19,2002,93.93
+EA19,2003,94.40
+EA19,2004,95.54
+EA19,2005,96.38
+EA19,2006,97.83
+EA19,2007,98.79
+EA19,2008,98.49
+EA19,2009,97.52
+EA19,2010,100.00
+EA19,2011,101.55
+EA19,2012,102.28
+EA19,2013,103.41
+EA19,2014,104.19
+EA19,2015,105.23
+EA19,2016,105.84
+Estonia,2001,68.25
+Estonia,2002,72.33
+Estonia,2003,75.84
+Estonia,2004,80.61
+Estonia,2005,85.27
+Estonia,2006,89.98
+Estonia,2007,96.89
+Estonia,2008,93.26
+Estonia,2009,95.12
+Estonia,2010,100.00
+Estonia,2011,98.66
+Estonia,2012,103.04
+Estonia,2013,104.85
+Estonia,2014,107.43
+Estonia,2015,106.62
+Estonia,2016,108.30
+EU28,2001,90.86
+EU28,2002,92.36
+EU28,2003,93.64
+EU28,2004,95.21
+EU28,2005,96.25
+EU28,2006,97.81
+EU28,2007,98.80
+EU28,2008,98.41
+EU28,2009,97.05
+EU28,2010,100.00
+EU28,2011,101.45
+EU28,2012,102.38
+EU28,2013,103.40
+EU28,2014,104.06
+EU28,2015,105.46
+EU28,2016,106.06
+Finland,2001,89.40
+Finland,2002,90.38
+Finland,2003,92.52
+Finland,2004,95.49
+Finland,2005,97.22
+Finland,2006,99.60
+Finland,2007,102.66
+Finland,2008,101.57
+Finland,2009,96.84
+Finland,2010,100.00
+Finland,2011,101.60
+Finland,2012,100.01
+Finland,2013,100.62
+Finland,2014,100.66
+Finland,2015,100.74
+Finland,2016,102.31
+France,2001,93.17
+France,2002,95.85
+France,2003,96.34
+France,2004,97.35
+France,2005,98.15
+France,2006,100.49
+France,2007,100.15
+France,2008,99.37
+France,2009,98.61
+France,2010,100.00
+France,2011,100.85
+France,2012,101.09
+France,2013,102.42
+France,2014,103.27
+France,2015,104.11
+France,2016,105.14
+G-7,2001,87.94
+G-7,2002,89.88
+G-7,2003,91.59
+G-7,2004,93.50
+G-7,2005,95.04
+G-7,2006,96.00
+G-7,2007,96.80
+G-7,2008,97.05
+G-7,2009,97.56
+G-7,2010,100.00
+G-7,2011,100.64
+G-7,2012,101.00
+G-7,2013,101.83
+G-7,2014,102.48
+G-7,2015,103.47
+G-7,2016,103.76
+Germany,2001,92.34
+Germany,2002,93.47
+Germany,2003,94.23
+Germany,2004,95.17
+Germany,2005,96.61
+Germany,2006,98.47
+Germany,2007,99.97
+Germany,2008,100.15
+Germany,2009,97.59
+Germany,2010,100.00
+Germany,2011,102.06
+Germany,2012,102.69
+Germany,2013,103.51
+Germany,2014,104.27
+Germany,2015,105.09
+Germany,2016,106.14
+Greece,2001,91.42
+Greece,2002,93.08
+Greece,2003,97.21
+Greece,2004,100.16
+Greece,2005,97.32
+Greece,2006,101.50
+Greece,2007,104.14
+Greece,2008,102.71
+Greece,2009,100.04
+Greece,2010,100.00
+Greece,2011,96.71
+Greece,2012,94.87
+Greece,2013,94.09
+Greece,2014,95.69
+Greece,2015,94.25
+Greece,2016,93.63
+Hungary,2001,71.06
+Hungary,2002,73.90
+Hungary,2003,77.80
+Hungary,2004,82.15
+Hungary,2005,85.97
+Hungary,2006,89.05
+Hungary,2007,89.53
+Hungary,2008,91.97
+Hungary,2009,88.93
+Hungary,2010,100.00
+Hungary,2011,102.07
+Hungary,2012,101.36
+Hungary,2013,102.68
+Hungary,2014,101.68
+Hungary,2015,102.78
+Hungary,2016,101.75
+Iceland,2001,75.85
+Iceland,2002,78.78
+Iceland,2003,82.13
+Iceland,2004,88.76
+Iceland,2005,92.19
+Iceland,2006,92.69
+Iceland,2007,98.26
+Iceland,2008,98.76
+Iceland,2009,102.48
+Iceland,2010,100.00
+Iceland,2011,99.60
+Iceland,2012,101.02
+Iceland,2013,102.49
+Iceland,2014,101.82
+Iceland,2015,101.66
+Iceland,2016,104.94
+Ireland,2001,78.54
+Ireland,2002,83.04
+Ireland,2003,84.85
+Ireland,2004,88.08
+Ireland,2005,88.63
+Ireland,2006,89.60
+Ireland,2007,90.99
+Ireland,2008,88.97
+Ireland,2009,93.70
+Ireland,2010,100.00
+Ireland,2011,109.58
+Ireland,2012,109.92
+Ireland,2013,108.22
+Ireland,2014,114.53
+Ireland,2015,139.49
+Ireland,2016,142.79
+Israel,2001,89.35
+Israel,2002,87.73
+Israel,2003,88.52
+Israel,2004,92.66
+Israel,2005,93.72
+Israel,2006,97.11
+Israel,2007,98.27
+Israel,2008,97.92
+Israel,2009,97.36
+Israel,2010,100.00
+Israel,2011,102.71
+Israel,2012,102.40
+Israel,2013,104.48
+Israel,2014,105.97
+Israel,2015,106.28
+Israel,2016,106.55
+Italy,2001,100.67
+Italy,2002,99.86
+Italy,2003,99.15
+Italy,2004,100.14
+Italy,2005,100.71
+Italy,2006,100.72
+Italy,2007,100.64
+Italy,2008,99.98
+Italy,2009,97.80
+Italy,2010,100.00
+Italy,2011,100.49
+Italy,2012,100.17
+Italy,2013,101.09
+Italy,2014,101.27
+Italy,2015,101.57
+Italy,2016,100.82
+Japan,2001,90.43
+Japan,2002,92.17
+Japan,2003,93.48
+Japan,2004,95.63
+Japan,2005,97.10
+Japan,2006,97.30
+Japan,2007,98.08
+Japan,2008,97.92
+Japan,2009,96.84
+Japan,2010,100.00
+Japan,2011,100.23
+Japan,2012,101.17
+Japan,2013,103.26
+Japan,2014,103.30
+Japan,2015,104.80
+Japan,2016,105.21
+Latvia,2001,64.38
+Latvia,2002,69.70
+Latvia,2003,75.50
+Latvia,2004,83.74
+Latvia,2005,90.57
+Latvia,2006,95.75
+Latvia,2007,102.98
+Latvia,2008,93.97
+Latvia,2009,96.32
+Latvia,2010,100.00
+Latvia,2011,103.90
+Latvia,2012,107.52
+Latvia,2013,108.18
+Latvia,2014,111.14
+Latvia,2015,114.59
+Latvia,2016,117.00
+Lithuania,2001,66.37
+Lithuania,2002,69.48
+Lithuania,2003,75.82
+Lithuania,2004,77.65
+Lithuania,2005,83.01
+Lithuania,2006,89.66
+Lithuania,2007,96.10
+Lithuania,2008,98.40
+Lithuania,2009,94.24
+Lithuania,2010,100.00
+Lithuania,2011,106.98
+Lithuania,2012,109.24
+Lithuania,2013,112.54
+Lithuania,2014,114.71
+Lithuania,2015,113.95
+Lithuania,2016,112.81
+Luxembourg,2001,96.79
+Luxembourg,2002,97.98
+Luxembourg,2003,97.88
+Luxembourg,2004,99.15
+Luxembourg,2005,101.33
+Luxembourg,2006,102.49
+Luxembourg,2007,105.41
+Luxembourg,2008,99.28
+Luxembourg,2009,97.10
+Luxembourg,2010,100.00
+Luxembourg,2011,99.70
+Luxembourg,2012,97.44
+Luxembourg,2013,99.55
+Luxembourg,2014,102.28
+Luxembourg,2015,101.72
+Luxembourg,2016,101.87
+Mexico,2001,101.51
+Mexico,2002,97.67
+Mexico,2003,100.67
+Mexico,2004,102.34
+Mexico,2005,101.69
+Mexico,2006,105.47
+Mexico,2007,107.89
+Mexico,2008,104.58
+Mexico,2009,105.16
+Mexico,2010,100.00
+Mexico,2011,103.06
+Mexico,2012,103.84
+Mexico,2013,103.40
+Mexico,2014,105.81
+Mexico,2015,106.05
+Mexico,2016,105.83
+Netherlands,2001,92.09
+Netherlands,2002,92.65
+Netherlands,2003,93.98
+Netherlands,2004,95.61
+Netherlands,2005,97.97
+Netherlands,2006,99.49
+Netherlands,2007,100.25
+Netherlands,2008,100.30
+Netherlands,2009,97.90
+Netherlands,2010,100.00
+Netherlands,2011,100.71
+Netherlands,2012,100.51
+Netherlands,2013,101.19
+Netherlands,2014,101.91
+Netherlands,2015,103.61
+Netherlands,2016,103.83
+New Zealand,2001,90.99
+New Zealand,2002,92.76
+New Zealand,2003,94.49
+New Zealand,2004,94.12
+New Zealand,2005,94.02
+New Zealand,2006,95.40
+New Zealand,2007,99.09
+New Zealand,2008,95.98
+New Zealand,2009,100.98
+New Zealand,2010,100.00
+New Zealand,2011,101.97
+New Zealand,2012,105.65
+New Zealand,2013,103.63
+New Zealand,2014,102.81
+New Zealand,2015,104.58
+New Zealand,2016,104.34
+Norway,2001,96.86
+Norway,2002,98.88
+Norway,2003,101.85
+Norway,2004,103.77
+Norway,2005,104.84
+Norway,2006,104.01
+Norway,2007,102.20
+Norway,2008,99.17
+Norway,2009,99.45
+Norway,2010,100.00
+Norway,2011,99.23
+Norway,2012,99.99
+Norway,2013,100.69
+Norway,2014,101.28
+Norway,2015,102.70
+Norway,2016,103.06
+OECD,2001,88.24
+OECD,2002,89.76
+OECD,2003,91.82
+OECD,2004,93.86
+OECD,2005,95.31
+OECD,2006,96.73
+OECD,2007,98.07
+OECD,2008,98.00
+OECD,2009,98.18
+OECD,2010,100.00
+OECD,2011,101.27
+OECD,2012,101.54
+OECD,2013,102.64
+OECD,2014,103.33
+OECD,2015,104.47
+Poland,2001,73.36
+Poland,2002,77.38
+Poland,2003,80.86
+Poland,2004,84.05
+Poland,2005,85.37
+Poland,2006,87.79
+Poland,2007,90.05
+Poland,2008,90.79
+Poland,2009,93.72
+Poland,2010,100.00
+Poland,2011,104.69
+Poland,2012,106.53
+Poland,2013,108.28
+Poland,2014,109.58
+Poland,2015,111.67
+Poland,2016,114.15
+Portugal,2001,89.42
+Portugal,2002,90.08
+Portugal,2003,90.44
+Portugal,2004,92.43
+Portugal,2005,93.47
+Portugal,2006,95.15
+Portugal,2007,96.63
+Portugal,2008,97.14
+Portugal,2009,96.88
+Portugal,2010,100.00
+Portugal,2011,101.36
+Portugal,2012,102.39
+Portugal,2013,103.65
+Portugal,2014,102.69
+Portugal,2015,102.68
+Portugal,2016,103.16
+Russia,2001,70.15
+Russia,2002,71.71
+Russia,2003,76.78
+Russia,2004,81.26
+Russia,2005,85.48
+Russia,2006,91.11
+Russia,2007,96.44
+Russia,2008,101.04
+Russia,2009,96.50
+Russia,2010,100.00
+Russia,2011,102.74
+Russia,2012,105.83
+Russia,2013,107.93
+Russia,2014,108.23
+Russia,2015,104.41
+Russia,2016,104.28
+Slovakia,2001,68.41
+Slovakia,2002,73.34
+Slovakia,2003,79.03
+Slovakia,2004,81.25
+Slovakia,2005,84.03
+Slovakia,2006,89.03
+Slovakia,2007,95.72
+Slovakia,2008,97.83
+Slovakia,2009,95.07
+Slovakia,2010,100.00
+Slovakia,2011,101.71
+Slovakia,2012,103.57
+Slovakia,2013,106.98
+Slovakia,2014,109.14
+Slovakia,2015,111.49
+Slovakia,2016,113.43
+Slovenia,2001,82.08
+Slovenia,2002,82.71
+Slovenia,2003,85.16
+Slovenia,2004,87.95
+Slovenia,2005,94.08
+Slovenia,2006,99.57
+Slovenia,2007,103.81
+Slovenia,2008,103.39
+Slovenia,2009,96.77
+Slovenia,2010,100.00
+Slovenia,2011,103.40
+Slovenia,2012,102.73
+Slovenia,2013,101.63
+Slovenia,2014,103.07
+Slovenia,2015,103.74
+Slovenia,2016,106.30
+South Africa,2001,78.50
+South Africa,2002,81.91
+South Africa,2003,87.78
+South Africa,2004,89.11
+South Africa,2005,86.38
+South Africa,2006,89.93
+South Africa,2007,94.15
+South Africa,2008,91.20
+South Africa,2009,93.71
+South Africa,2010,100.00
+South Africa,2011,100.37
+South Africa,2012,101.44
+South Africa,2013,101.43
+South Africa,2014,101.38
+South Korea,2001,65.60
+South Korea,2002,69.56
+South Korea,2003,72.90
+South Korea,2004,75.98
+South Korea,2005,79.26
+South Korea,2006,82.49
+South Korea,2007,87.43
+South Korea,2008,91.76
+South Korea,2009,93.26
+South Korea,2010,100.00
+South Korea,2011,106.64
+South Korea,2012,103.54
+South Korea,2013,109.10
+South Korea,2014,108.07
+South Korea,2015,110.15
+Spain,2001,92.27
+Spain,2002,92.43
+Spain,2003,92.76
+Spain,2004,92.99
+Spain,2005,93.34
+Spain,2006,93.88
+Spain,2007,95.00
+Spain,2008,95.38
+Spain,2009,97.72
+Spain,2010,100.00
+Spain,2011,101.43
+Spain,2012,103.45
+Spain,2013,104.90
+Spain,2014,105.24
+Spain,2015,105.71
+Spain,2016,106.37
+Sweden,2001,85.34
+Sweden,2002,88.34
+Sweden,2003,91.74
+Sweden,2004,94.94
+Sweden,2005,97.39
+Sweden,2006,100.63
+Sweden,2007,100.93
+Sweden,2008,99.14
+Sweden,2009,96.79
+Sweden,2010,100.00
+Sweden,2011,100.67
+Sweden,2012,100.52
+Sweden,2013,101.41
+Sweden,2014,102.56
+Sweden,2015,105.60
+Sweden,2016,106.17
+Switzerland,2001,91.54
+Switzerland,2002,92.23
+Switzerland,2003,91.86
+Switzerland,2004,92.46
+Switzerland,2005,94.93
+Switzerland,2006,97.23
+Switzerland,2007,99.29
+Switzerland,2008,99.62
+Switzerland,2009,97.46
+Switzerland,2010,100.00
+Switzerland,2011,99.47
+Switzerland,2012,99.74
+Switzerland,2013,101.61
+Switzerland,2014,102.67
+Switzerland,2015,101.47
+Switzerland,2016,101.41
+Turkey,2001,70.50
+Turkey,2002,75.22
+Turkey,2003,80.07
+Turkey,2004,87.27
+Turkey,2005,92.25
+Turkey,2006,96.74
+Turkey,2007,101.86
+Turkey,2008,101.56
+Turkey,2009,97.49
+Turkey,2010,100.00
+Turkey,2011,105.42
+Turkey,2012,107.63
+Turkey,2013,114.90
+Turkey,2014,114.98
+Turkey,2015,118.54
+United Kingdom,2001,89.08
+United Kingdom,2002,91.44
+United Kingdom,2003,94.22
+United Kingdom,2004,96.25
+United Kingdom,2005,97.10
+United Kingdom,2006,98.83
+United Kingdom,2007,100.21
+United Kingdom,2008,100.20
+United Kingdom,2009,97.90
+United Kingdom,2010,100.00
+United Kingdom,2011,100.13
+United Kingdom,2012,99.63
+United Kingdom,2013,99.89
+United Kingdom,2014,100.16
+United Kingdom,2015,101.83
+United Kingdom,2016,101.28
+United States,2001,83.15
+United States,2002,85.53
+United States,2003,88.11
+United States,2004,90.39
+United States,2005,92.17
+United States,2006,92.91
+United States,2007,93.83
+United States,2008,94.55
+United States,2009,97.28
+United States,2010,100.00
+United States,2011,100.21
+United States,2012,100.45
+United States,2013,100.67
+United States,2014,101.23
+United States,2015,101.97
+United States,2016,102.16

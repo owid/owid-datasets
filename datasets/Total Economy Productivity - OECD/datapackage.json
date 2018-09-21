@@ -1,0 +1,42 @@
+{
+  "name": "Total Economy Productivity - OECD",
+  "title": "Total Economy Productivity - OECD",
+  "id": 1843,
+  "description": "Total economic productivity is measured as gross domestic product (GDP) per hour worked across all economic sectors of the economy. This is measured in 2010 US dollars, adjusted for purchasing power parity (PPP). \n\nOECD define this metric as: \"GDP per hour worked is a measure of labour productivity. It measures how efficiently labour input is combined with other factors of production and used in the production process. Labour input is defined as total hours worked of all persons engaged in production. Labour productivity only partially reflects the productivity of labour in terms of the personal capacities of workers or the intensity of their effort. The ratio between the output measure and the labour input depends to a large degree on the presence and/or use of other inputs (e.g. capital, intermediate inputs, technical, organisational and efficiency change, economies of scale). This indicator is measured in USD (constant prices 2010 and PPPs) and indices.\"",
+  "sources": [
+    {
+      "name": "Total Economy Productivity - OECD",
+      "dataPublishedBy": "OECD (2017), GDP per hour worked (indicator)",
+      "dataPublisherSource": null,
+      "link": "https://data.oecd.org/lprdty/gdp-per-hour-worked.htm",
+      "retrievedDate": "2017-11-26",
+      "additionalInfo": "Total economic productivity is measured as gross domestic product (GDP) per hour worked across all economic sectors of the economy. This is measured in 2010 US dollars, adjusted for purchasing power parity (PPP). \n\nOECD define this metric as: \"GDP per hour worked is a measure of labour productivity. It measures how efficiently labour input is combined with other factors of production and used in the production process. Labour input is defined as total hours worked of all persons engaged in production. Labour productivity only partially reflects the productivity of labour in terms of the personal capacities of workers or the intensity of their effort. The ratio between the output measure and the labour input depends to a large degree on the presence and/or use of other inputs (e.g. capital, intermediate inputs, technical, organisational and efficiency change, economies of scale). This indicator is measured in USD (constant prices 2010 and PPPs) and indices.\""
+    }
+  ],
+  "owidTags": [
+    "Wages & Other Measures of Income"
+  ],
+  "resources": [
+    {
+      "path": "Total Economy Productivity - OECD.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total Productivity",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
