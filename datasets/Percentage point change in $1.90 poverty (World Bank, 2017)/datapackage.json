@@ -1,0 +1,42 @@
+{
+  "name": "Percentage point change in $1.90 poverty (World Bank, 2017)",
+  "title": "Percentage point change in $1.90 poverty (World Bank, 2017)",
+  "id": 1885,
+  "description": "Limitation: The percentage point changes given are not comparable directly across countries as the time period for which data was available varies greatly. ",
+  "sources": [
+    {
+      "name": "World Bank - World Development Indicators (2017)",
+      "dataPublishedBy": "World Bank",
+      "dataPublisherSource": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. ",
+      "link": "http://data.worldbank.org/data-catalog/world-development-indicators",
+      "retrievedDate": "13 September 2017",
+      "additionalInfo": "Limitation: The percentage point changes given are not comparable directly across countries as the time period for which data was available varies greatly. "
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Percentage point change in $1.90 poverty (World Bank, 2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Percentage Point changes in $1.90 Poverty (World Bank, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
