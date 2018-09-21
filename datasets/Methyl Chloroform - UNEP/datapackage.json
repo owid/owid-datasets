@@ -1,0 +1,42 @@
+{
+  "name": "Methyl Chloroform - UNEP",
+  "title": "Methyl Chloroform - UNEP",
+  "id": 2730,
+  "description": "Ozone-depleting substance (ODS) consumption in units of tonnes of ODS, which is the amount of ODS consumed, multiplied by their respective ozone depleting potential value.",
+  "sources": [
+    {
+      "name": "Methyl Chloroform - UNEP",
+      "dataPublishedBy": "United Nations Environment Programme (UNEP)",
+      "dataPublisherSource": null,
+      "link": "http://ozone.unep.org/Data_Access/",
+      "retrievedDate": "5th April 2018",
+      "additionalInfo": "Ozone-depleting substance (ODS) consumption in units of tonnes of ODS, which is the amount of ODS consumed, multiplied by their respective ozone depleting potential value."
+    }
+  ],
+  "owidTags": [
+    "Ozone Layer"
+  ],
+  "resources": [
+    {
+      "path": "Methyl Chloroform - UNEP.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Methyl Chloroform emissions (UNEP)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
