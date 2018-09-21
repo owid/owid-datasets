@@ -1,0 +1,44 @@
+{
+  "name": "Absolute deaths from ambient PM2.5 air pollution- State of Global Air",
+  "title": "Absolute deaths from ambient PM2.5 air pollution- State of Global Air",
+  "id": 380,
+  "description": "",
+  "sources": [
+    {
+      "name": "Absolute deaths from ambient PM2.5 air pollution",
+      "dataPublishedBy": "Health Effects Institute, State of Global Air 2017",
+      "dataPublisherSource": "Global Burden of Disease Study 2015. IHME, 2016",
+      "link": "www.stateofglobalair.org",
+      "retrievedDate": "07/04/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Air Pollution"
+  ],
+  "resources": [
+    {
+      "path": "Absolute deaths from ambient PM2.5 air pollution- State of Global Air.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Absolute deaths from ambient PM2.5 air pollution- State of Global Air",
+            "type": "any",
+            "description": "Absolute number of deaths per year from ambient particulate matter air pollution- State of Global Air",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
