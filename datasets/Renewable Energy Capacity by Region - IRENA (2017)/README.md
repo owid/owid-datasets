@@ -1,0 +1,3 @@
+# Renewable Energy Capacity by Region - IRENA (2017)
+
+The data presented in the IRENA REsource database comes from a variety of sources. Most of the data are official statistics submitted by countries to IRENA using the IRENA renewable energy statistics questionnaire during its annual data collection cycle or taken from official publications. Where official statistics are unavailable, the statistics are supplemented with IRENA estimates or third party data such as that from industry associations.
