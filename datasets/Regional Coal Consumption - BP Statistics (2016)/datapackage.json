@@ -1,0 +1,47 @@
+{
+  "name": "Regional Coal Consumption - BP Statistics (2016)",
+  "title": "Regional Coal Consumption - BP Statistics (2016)",
+  "id": 505,
+  "description": "Data accounts for commercially-traded fuels and modern renewable technologies used for electricity production. As such, it does not include traditional biofuel consumption.",
+  "sources": [
+    {
+      "name": "Regional Coal Consumption - BP Statistics (2016)",
+      "dataPublishedBy": "BP Statistical Review of World Energy 2016",
+      "dataPublisherSource": "Government sources and publicly-available data",
+      "link": "http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html",
+      "retrievedDate": "01/06/2017",
+      "additionalInfo": "Data accounts for commercially-traded fuels and modern renewable technologies used for electricity production. As such, it does not include traditional biofuel consumption."
+    }
+  ],
+  "owidTags": [
+    "Energy Production & Changing Energy Sources"
+  ],
+  "resources": [
+    {
+      "path": "Regional Coal Consumption - BP Statistics (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Coal (BP Statistics (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "TWh",
+              "shortUnit": "TWh",
+              "tolerance": 5,
+              "conversionFactor": 11.63
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
