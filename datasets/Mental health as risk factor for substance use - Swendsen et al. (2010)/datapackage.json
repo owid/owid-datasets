@@ -1,0 +1,54 @@
+{
+  "name": "Mental health as risk factor for substance use - Swendsen et al. (2010)",
+  "title": "Mental health as risk factor for substance use - Swendsen et al. (2010)",
+  "id": 2763,
+  "description": "Data denotes the increased risk of developing a substance use disorder in individuals with a mental health disorder relative to those without, based on a study on over 5000 individuals over a 10-year period.\n\nFull data with confidence intervals can be found at: https://ourworldindata.org/mental-health-disorders-as-risk-for-substance-use",
+  "sources": [
+    {
+      "name": "Mental health as risk factor for substance use - Swendsen et al. (2010)",
+      "dataPublishedBy": "Swendsen, J., Conway, K. P., Degenhardt, L., Glantz, M., Jin, R., Merikangas, K. R., ... & Kessler, R. C. (2010). Mental disorders as risk factors for substance use, abuse and dependence: results from the 10‐year follow‐up of the National Comorbidity Survey. Addiction, 105(6), 1117-1128.",
+      "dataPublisherSource": null,
+      "link": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1360-0443.2010.02902.x",
+      "retrievedDate": "19th April 2018",
+      "additionalInfo": "Data denotes the increased risk of developing a substance use disorder in individuals with a mental health disorder relative to those without, based on a study on over 5000 individuals over a 10-year period.\n\nFull data with confidence intervals can be found at: https://ourworldindata.org/mental-health-disorders-as-risk-for-substance-use"
+    }
+  ],
+  "owidTags": [
+    "Mental Health"
+  ],
+  "resources": [
+    {
+      "path": "Mental health as risk factor for substance use - Swendsen et al. (2010).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Increased risk of nicotine dependency",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Increased risk of alcohol dependency",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Increased risk of illicit drug dependency",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
