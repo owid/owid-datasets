@@ -1,0 +1,44 @@
+{
+  "name": "Life Expectancy (at birth) - World Bank (2015)",
+  "title": "Life Expectancy (at birth) - World Bank (2015)",
+  "id": 140,
+  "description": "Life expectancy at birth indicates the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life.\r\n\r\nThe source notes that male and female life expectancy at birth is from sources such as: (1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Report (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database.",
+  "sources": [
+    {
+      "name": "Life Expectancy at birth - World Bank (2015)",
+      "dataPublishedBy": "World Bank, World Development Indicators (WDI)",
+      "dataPublisherSource": "Census data.",
+      "link": "http://data.worldbank.org/indicator/SP.DYN.LE00.IN",
+      "retrievedDate": "20/12/2015",
+      "additionalInfo": "Life expectancy at birth indicates the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life.\r\n\r\nThe source notes that male and female life expectancy at birth is from sources such as: (1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Report (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database."
+    }
+  ],
+  "owidTags": [
+    "Life Expectancy"
+  ],
+  "resources": [
+    {
+      "path": "Life Expectancy (at birth) - World Bank (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Life Expectancy (at birth) (World Bank (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "% girls ages 7-14"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
