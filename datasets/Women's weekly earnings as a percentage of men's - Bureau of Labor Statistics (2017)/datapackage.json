@@ -1,0 +1,42 @@
+{
+  "name": "Women's weekly earnings as a percentage of men's - Bureau of Labor Statistics (2017)",
+  "title": "Women's weekly earnings as a percentage of men's - Bureau of Labor Statistics (2017)",
+  "id": 1871,
+  "description": "Full citation: Bureau of Labor Statistics, U.S. Department of Labor, The Economics Daily, Women’s earnings as a percentage of men’s, 1979-2005 on the Internet at https://www.bls.gov/opub/ted/2006/oct/wk1/art02.htm (visited December 05, 2017).",
+  "sources": [
+    {
+      "name": "Women’s earnings as a percentage of men’s - Bureau of Labor Statistics (2017)",
+      "dataPublishedBy": "Bureau of Labor Statistics, U.S. Department of Labor (2017)",
+      "dataPublisherSource": "Census data.",
+      "link": "https://www.bls.gov/opub/ted/2006/oct/wk1/art02.txt",
+      "retrievedDate": "05/12/2017",
+      "additionalInfo": "Full citation: Bureau of Labor Statistics, U.S. Department of Labor, The Economics Daily, Women’s earnings as a percentage of men’s, 1979-2005 on the Internet at https://www.bls.gov/opub/ted/2006/oct/wk1/art02.htm (visited December 05, 2017)."
+    }
+  ],
+  "owidTags": [
+    "Wages & Other Measures of Income"
+  ],
+  "resources": [
+    {
+      "path": "Women's weekly earnings as a percentage of men's - Bureau of Labor Statistics (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Women's weekly earnings as a percentage of men's by age (Bureau of Labor Statistics (2017))",
+            "type": "any",
+            "description": "Women's weekly earnings as a share of men's, by age group. Earnings ratios are the weekly median earnings of full time workers.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
