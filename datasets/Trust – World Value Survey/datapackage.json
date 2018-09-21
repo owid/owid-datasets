@@ -1,0 +1,42 @@
+{
+  "name": "Trust – World Value Survey",
+  "title": "Trust – World Value Survey",
+  "id": 272,
+  "description": "",
+  "sources": [
+    {
+      "name": "Trust (World Values Survey (2014))",
+      "dataPublishedBy": "World Values Survey (2014)",
+      "dataPublisherSource": "World Values Survey Data, Longitudinal",
+      "link": "http://www.worldvaluessurvey.org/WVSDocumentationWVL.jsp",
+      "retrievedDate": "27/07/2016",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Trust"
+  ],
+  "resources": [
+    {
+      "path": "Trust – World Value Survey.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Trust in others (World Values Survey (2014))",
+            "type": "any",
+            "description": "Self-reported trust in others is constructed as the number of people responding to the question \"Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people?\" Possible answers include \"Most people can be trusted\", \"Don't know\" and \"Can't be too careful\".",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
