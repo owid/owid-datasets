@@ -1,0 +1,44 @@
+{
+  "name": "Poverty headcount at $1.90 a day (2011 PPP) - High-income - World Bank (Povcal) (2017)",
+  "title": "Poverty headcount at $1.90 a day (2011 PPP) - High-income - World Bank (Povcal) (2017)",
+  "id": 364,
+  "description": "According to the World Bank's definition: \"PovcalNet is an interactive computational tool that allows you to replicate the calculations made by the World Bank's researchers in estimating the extent of absolute poverty in the world\".\r\n\r\nData are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet. (http://iresearch.worldbank.org/PovcalNet/methodology.aspx).",
+  "sources": [
+    {
+      "name": "Poverty headcount at $1.90 a day (2011 PPP) - High-income - World Bank (Povcal) (2017)",
+      "dataPublishedBy": "PovcalNet: the on­line tool for poverty measurement developed by the Development Research Group of the World Bank",
+      "dataPublisherSource": "World Bank (Development Research Group). PovcalNet",
+      "link": "http://iresearch.worldbank.org/PovcalNet/povOnDemand.aspx",
+      "retrievedDate": "25/02/2017",
+      "additionalInfo": "According to the World Bank's definition: \"PovcalNet is an interactive computational tool that allows you to replicate the calculations made by the World Bank's researchers in estimating the extent of absolute poverty in the world\".\r\n\r\nData are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet. (http://iresearch.worldbank.org/PovcalNet/methodology.aspx)."
+    }
+  ],
+  "owidTags": [
+    "World Poverty"
+  ],
+  "resources": [
+    {
+      "path": "Poverty headcount at $1.90 a day (2011 PPP) - High-income - World Bank (Povcal) (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Extreme poverty headcount - High-income (World Bank (Povcal) (2017))",
+            "type": "any",
+            "description": "1981-2013",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
