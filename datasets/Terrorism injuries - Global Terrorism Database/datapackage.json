@@ -1,0 +1,42 @@
+{
+  "name": "Terrorism injuries - Global Terrorism Database",
+  "title": "Terrorism injuries - Global Terrorism Database",
+  "id": 983,
+  "description": "\tThe Global Terrorism Database notes that this metric measures:\r\n\"The number of confirmed non-fatal injuries to both perpetrators\r\nand victims.\r\nWhere there is evidence of injury, but a figure is not reported or it is too vague to\r\nbe of use, this field remains blank. If information is missing regarding the number of\r\nvictims injured in an attack, but perpetrator fatalities are known, this value will reflect\r\nonly the number of perpetrators who were injured as a result of the incident. Likewise, if\r\ninformation on the number of perpetrators injured in an attack is missing, but victim\r\ninjured are known, this field will only report the number of victims injured in the\r\nincident.\"\r\n\r\n",
+  "sources": [
+    {
+      "name": "Terrorism injuries - Global Terrorism Database",
+      "dataPublishedBy": "Global Terrorism Database (GTD). University of Maryland.",
+      "dataPublisherSource": null,
+      "link": "https://www.start.umd.edu/gtd/",
+      "retrievedDate": "28/10/2017",
+      "additionalInfo": "\tThe Global Terrorism Database notes that this metric measures:\r\n\"The number of confirmed non-fatal injuries to both perpetrators\r\nand victims.\r\nWhere there is evidence of injury, but a figure is not reported or it is too vague to\r\nbe of use, this field remains blank. If information is missing regarding the number of\r\nvictims injured in an attack, but perpetrator fatalities are known, this value will reflect\r\nonly the number of perpetrators who were injured as a result of the incident. Likewise, if\r\ninformation on the number of perpetrators injured in an attack is missing, but victim\r\ninjured are known, this field will only report the number of victims injured in the\r\nincident.\"\r\n\r\n"
+    }
+  ],
+  "owidTags": [
+    "Terrorism"
+  ],
+  "resources": [
+    {
+      "path": "Terrorism injuries - Global Terrorism Database.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Terrorism injuries (GTD)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
