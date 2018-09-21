@@ -1,0 +1,42 @@
+{
+  "name": "Share of Top 1% in net personal wealth – World Wealth and Income Database (2018)",
+  "title": "Share of Top 1% in net personal wealth – World Wealth and Income Database (2018)",
+  "id": 2513,
+  "description": "",
+  "sources": [
+    {
+      "name": "World Wealth and Income Database",
+      "dataPublishedBy": "World Wealth and Income Database",
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Inequality of Wealth"
+  ],
+  "resources": [
+    {
+      "path": "Share of Top 1% in net personal wealth – World Wealth and Income Database (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of Top 1% in net personal wealth",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
