@@ -1,0 +1,84 @@
+{
+  "name": "Investment in renewables by technology - IRENA (2017)",
+  "title": "Investment in renewables by technology - IRENA (2017)",
+  "id": 500,
+  "description": "Renewable investment figures are measured in billion USD per year. Investment adjusts for re-invested equity, and includes estimates for undisclosed deals.\r\n\r\nFigures excludes investments in large hydropower schemes.",
+  "sources": [
+    {
+      "name": "Investment in renewables by technology - IRENA (2017)",
+      "dataPublishedBy": "International Renewable Energy Agency (IRENA)",
+      "dataPublisherSource": "Frankfurt School-UNEP Centre/BNEF (2017). Global Trends in Renewable Energy Investment 2017. Available at: http://fs-unep-centre.org/sites/default/files/publications/globaltrendsinrenewableenergyinvestment2017.pdf",
+      "link": "http://resourceirena.irena.org/gateway/dashboard/",
+      "retrievedDate": "30/05/2017",
+      "additionalInfo": "Renewable investment figures are measured in billion USD per year. Investment adjusts for re-invested equity, and includes estimates for undisclosed deals.\r\n\r\nFigures excludes investments in large hydropower schemes."
+    }
+  ],
+  "owidTags": [
+    "Renewable Energy"
+  ],
+  "resources": [
+    {
+      "path": "Investment in renewables by technology - IRENA (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Solar Energy",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "%"
+            }
+          },
+          {
+            "name": "Wind Energy",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "deaths"
+            }
+          },
+          {
+            "name": "Biomass & Waste-to-Energy",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "deaths"
+            }
+          },
+          {
+            "name": "Liquid Biofuels",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Small Hydropower",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Geothermal Energy",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Marine Energy",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
