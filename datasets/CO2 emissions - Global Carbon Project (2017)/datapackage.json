@@ -1,0 +1,44 @@
+{
+  "name": "CO2 emissions - Global Carbon Project (2017)",
+  "title": "CO2 emissions - Global Carbon Project (2017)",
+  "id": 1041,
+  "description": "Data has been converted from million tonnes of carbon to million tonnes of carbon dioxide (CO₂) using a conversion factor of 3.664.\r\n\r\nArchived data is held at the Carbon Dioxide Information Analysis Centre (CDIAC). Reference: Tom Boden and Bob Andres (Oak Ridge National Laboratory); Gregg Marland (Appalachian State University). Available at: http://cdiac.ornl.gov/",
+  "sources": [
+    {
+      "name": "CO2 emissions - Global Carbon Project (2017)",
+      "dataPublishedBy": "Le Quéré et al. (2017). Global Carbon Project.",
+      "dataPublisherSource": "UNFCCC and CDIAC",
+      "link": "http://www.globalcarbonproject.org/carbonbudget/17/data.htm",
+      "retrievedDate": "14/11/2017",
+      "additionalInfo": "Data has been converted from million tonnes of carbon to million tonnes of carbon dioxide (CO₂) using a conversion factor of 3.664.\r\n\r\nArchived data is held at the Carbon Dioxide Information Analysis Centre (CDIAC). Reference: Tom Boden and Bob Andres (Oak Ridge National Laboratory); Gregg Marland (Appalachian State University). Available at: http://cdiac.ornl.gov/"
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "CO2 emissions - Global Carbon Project (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Annual CO₂ emissions (Global Carbon Project (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "shortUnit": "Mt"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
