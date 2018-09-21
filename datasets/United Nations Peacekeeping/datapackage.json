@@ -1,0 +1,72 @@
+{
+  "name": "United Nations Peacekeeping",
+  "title": "United Nations Peacekeeping",
+  "id": 120,
+  "description": "All data is taken directly from the United Nations except for the historical size of the peacekeeping force (1947-1991), which is instead taken from the Global Policy Forum. The data for the size and breakdown of the peacekeeping force for the remaining years is taken as the value reported in the December report at the end of the year (Nov in 1998).\nData on the total size of the peacekeeping force for the years 1947 to 1991 is taken from the Global Policy Forum. The source of this data is the United Nations historical reports and can be accessed directly from the United Nations website.",
+  "sources": [
+    {
+      "name": "United Nations Peacekeeping",
+      "dataPublishedBy": "United Nations & Global Policy Forum",
+      "dataPublisherSource": "United Nations",
+      "link": "https://www.globalpolicy.org/security-council/peacekeeping/peacekeeping-data.html",
+      "retrievedDate": "09/07/2015",
+      "additionalInfo": "All data is taken directly from the United Nations except for the historical size of the peacekeeping force (1947-1991), which is instead taken from the Global Policy Forum. The data for the size and breakdown of the peacekeeping force for the remaining years is taken as the value reported in the December report at the end of the year (Nov in 1998).\nData on the total size of the peacekeeping force for the years 1947 to 1991 is taken from the Global Policy Forum. The source of this data is the United Nations historical reports and can be accessed directly from the United Nations website."
+    }
+  ],
+  "owidTags": [
+    "Peacekeeping"
+  ],
+  "resources": [
+    {
+      "path": "United Nations Peacekeeping.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of peacekeeping missions (United Nations Peacekeeping)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "per hour work (in manufacturing)"
+            }
+          },
+          {
+            "name": "Size of total peacekeeping force (United Nations Peacekeeping)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "people (thousands)"
+            }
+          },
+          {
+            "name": "Civilian police (peacekeepers) (United Nations Peacekeeping)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Military Observers (peacekeepers) (United Nations Peacekeeping)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Troops (peacekeepers) (United Nations Peacekeeping)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "£ per capita"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

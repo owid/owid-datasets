@@ -1,0 +1,4 @@
+# United Nations Peacekeeping
+
+All data is taken directly from the United Nations except for the historical size of the peacekeeping force (1947-1991), which is instead taken from the Global Policy Forum. The data for the size and breakdown of the peacekeeping force for the remaining years is taken as the value reported in the December report at the end of the year (Nov in 1998).
+Data on the total size of the peacekeeping force for the years 1947 to 1991 is taken from the Global Policy Forum. The source of this data is the United Nations historical reports and can be accessed directly from the United Nations website.
