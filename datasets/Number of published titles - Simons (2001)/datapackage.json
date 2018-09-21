@@ -1,0 +1,42 @@
+{
+  "name": "Number of published titles - Simons (2001)",
+  "title": "Number of published titles - Simons (2001)",
+  "id": 2662,
+  "description": "A “title” is for the editors of the ESTC an edition. The eight editions of Robinson Crusoe published in 1719 create eight ESTC-entries",
+  "sources": [
+    {
+      "name": "Olaf Simons (2001)",
+      "dataPublishedBy": "Olaf Simons",
+      "dataPublisherSource": "Data on published English and Latin titles extracted from the ESTC in 2001, data on German titles is derived from the German VD16 and VD17 online catalogues of all books printed in German and in the German speaking territories. ",
+      "link": "https://criticalthreads.wordpress.com/2013/07/06/4-the-english-market-of-books-title-statistics-and-a-comparison-with-german-data/ and  https://criticalthreads.wordpress.com/2013/07/04/german-book-production-1500-1699/",
+      "retrievedDate": "19/03/2018",
+      "additionalInfo": "A “title” is for the editors of the ESTC an edition. The eight editions of Robinson Crusoe published in 1719 create eight ESTC-entries"
+    }
+  ],
+  "owidTags": [
+    "Books"
+  ],
+  "resources": [
+    {
+      "path": "Number of published titles - Simons (2001).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of published titles (Simons (2001))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
