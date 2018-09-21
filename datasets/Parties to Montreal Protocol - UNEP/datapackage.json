@@ -1,0 +1,48 @@
+{
+  "name": "Parties to Montreal Protocol - UNEP",
+  "title": "Parties to Montreal Protocol - UNEP",
+  "id": 2731,
+  "description": "Through The Vienna Convention on the Protection of the Ozone Layer governments committed themselves to protect the ozone layer and to co-operate with each other in scientific research to improve understanding of the atmospheric processes.\n\nThe Montreal Protocol on Substances that Deplete the Ozone Layer was adopted by Governments in 1987 and has been modified five times so far. Its control provisions were strengthened through four adjustments to the Protocol adopted in London (1990), Copenhagen (1992), Vienna (1995), Montreal (1997) and Beijing (1999). The Protocol aims to reduce and eventually eliminate the emissions of man-made ozone depleting substances",
+  "sources": [
+    {
+      "name": "Parties to Montreal Protocol - UNEP",
+      "dataPublishedBy": "United Nations Environment Programme (UNEP)",
+      "dataPublisherSource": null,
+      "link": "http://ede.grid.unep.ch/",
+      "retrievedDate": "5th April 2018",
+      "additionalInfo": "Through The Vienna Convention on the Protection of the Ozone Layer governments committed themselves to protect the ozone layer and to co-operate with each other in scientific research to improve understanding of the atmospheric processes.\n\nThe Montreal Protocol on Substances that Deplete the Ozone Layer was adopted by Governments in 1987 and has been modified five times so far. Its control provisions were strengthened through four adjustments to the Protocol adopted in London (1990), Copenhagen (1992), Vienna (1995), Montreal (1997) and Beijing (1999). The Protocol aims to reduce and eventually eliminate the emissions of man-made ozone depleting substances"
+    }
+  ],
+  "owidTags": [
+    "Ozone Layer"
+  ],
+  "resources": [
+    {
+      "path": "Parties to Montreal Protocol - UNEP.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Vienna Convention and Montreal Protocol (Parties Subscribing each Year)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Vienna Convention and Montreal Protocol (Cumulative Parties)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
