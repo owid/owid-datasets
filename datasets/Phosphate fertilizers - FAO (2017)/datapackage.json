@@ -1,0 +1,48 @@
+{
+  "name": "Phosphate fertilizers - FAO (2017)",
+  "title": "Phosphate fertilizers - FAO (2017)",
+  "id": 856,
+  "description": "Data combines UN FAO datasets related to phosphate fertilizer production and consumption:\n\nFor production figures: \"Phosphate Fertilizers - Production Quantity\" which extends from 2003-2014 and \"Fertilizers Archive - Phosphate Fertilizers - Production Quantity\", which extends from 1961-2002.\n\nFor consumption figures: \"Phosphate Fertilizers - Consumption\" which extends from 2003-2014 and \"Fertilizers Archive - Phosphate Fertilizers - Consumption\", which extends from 1961-2002.\n\nData is measured in tonnes of total nutrient production or consumption.",
+  "sources": [
+    {
+      "name": "Phosphate fertilizers - FAO (2017)",
+      "dataPublishedBy": "UN Food and Agricultural Organization (FAO)",
+      "dataPublisherSource": null,
+      "link": "http://www.fao.org/faostat/en/#data/RA",
+      "retrievedDate": "06/09/2017",
+      "additionalInfo": "Data combines UN FAO datasets related to phosphate fertilizer production and consumption:\n\nFor production figures: \"Phosphate Fertilizers - Production Quantity\" which extends from 2003-2014 and \"Fertilizers Archive - Phosphate Fertilizers - Production Quantity\", which extends from 1961-2002.\n\nFor consumption figures: \"Phosphate Fertilizers - Consumption\" which extends from 2003-2014 and \"Fertilizers Archive - Phosphate Fertilizers - Consumption\", which extends from 1961-2002.\n\nData is measured in tonnes of total nutrient production or consumption."
+    }
+  ],
+  "owidTags": [
+    "Fertilizer and Pesticides"
+  ],
+  "resources": [
+    {
+      "path": "Phosphate fertilizers - FAO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Phosphate Production (FAO (2017))",
+            "type": "any",
+            "description": "Phosphate production in tonnes. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Phosphate Consumption (FAO (2017))",
+            "type": "any",
+            "description": "Phosphate consumption in tonnes. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
