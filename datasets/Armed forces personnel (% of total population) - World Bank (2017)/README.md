@@ -1,0 +1,3 @@
+# Armed forces personnel (% of total population) - World Bank (2017)
+
+Limitations and Exceptions: Data excludes personnel not on active duty, therefore it underestimates the share of the labor force working for the defense establishment. Governments rarely report the size of their armed forces, so such data typically come from intelligence sources. Unless otherwise indicated, the reserves includes all reservists committed to rejoining the armed forces in an emergency, except when national reserve service obligations following conscription last almost a lifetime.

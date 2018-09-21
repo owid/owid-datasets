@@ -1,0 +1,56 @@
+{
+  "name": "Armed forces personnel (% of total population) - World Bank (2017)",
+  "title": "Armed forces personnel (% of total population) - World Bank (2017)",
+  "id": 2755,
+  "description": "Limitations and Exceptions: Data excludes personnel not on active duty, therefore it underestimates the share of the labor force working for the defense establishment. Governments rarely report the size of their armed forces, so such data typically come from intelligence sources. Unless otherwise indicated, the reserves includes all reservists committed to rejoining the armed forces in an emergency, except when national reserve service obligations following conscription last almost a lifetime.",
+  "sources": [
+    {
+      "name": "IISS The Military Balance Dataset via the World Bank WDI",
+      "dataPublishedBy": "World Bank",
+      "dataPublisherSource": "International Institute for Strategic Studies ",
+      "link": "https://data.worldbank.org/indicator/MS.MIL.TOTL.P1",
+      "retrievedDate": "11/04/2018 ",
+      "additionalInfo": "Limitations and Exceptions: Data excludes personnel not on active duty, therefore it underestimates the share of the labor force working for the defense establishment. Governments rarely report the size of their armed forces, so such data typically come from intelligence sources. Unless otherwise indicated, the reserves includes all reservists committed to rejoining the armed forces in an emergency, except when national reserve service obligations following conscription last almost a lifetime."
+    }
+  ],
+  "owidTags": [
+    "Military Spending"
+  ],
+  "resources": [
+    {
+      "path": "Armed forces personnel (% of total population) - World Bank (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Armed forces personnel (IISS via World Bank (2017))",
+            "type": "any",
+            "description": "Armed forces personnel are active duty military personnel, including paramilitary forces if the training, organization, equipment, and control suggest they may be used to support or replace regular military forces.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total population (World Bank (2017))",
+            "type": "any",
+            "description": "Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship. The values shown are midyear estimates.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Armed forces personnel (% of total population) (World Bank (2017))",
+            "type": "any",
+            "description": "Armed forces personnel as a share of the total population has been calculated by dividing armed forces personnel by the total population estimates, then multiplying the ratio by 100.",
+            "owidDisplaySettings": {
+              "unit": "per 100,000 people"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
