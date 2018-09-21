@@ -1,0 +1,45 @@
+{
+  "name": "Guinea Worm Cases - The Carter Center (2016)",
+  "title": "Guinea Worm Cases - The Carter Center (2016)",
+  "id": 216,
+  "description": "Up to date data is available at the Carter Center:\r\nhttp://www.cartercenter.org/resources/gallery/images/highres/guinea-worm-current-case-count-chart.pdf",
+  "sources": [
+    {
+      "name": "Guinea Worm Cases - The Carter Center (2016)",
+      "dataPublishedBy": "Carter Center",
+      "dataPublisherSource": null,
+      "link": "http://www.cartercenter.org/resources/pdfs/news/health_publications/guinea_worm/guinea-worm-cases-by-year-from-1989.pdf",
+      "retrievedDate": "02/05/2016",
+      "additionalInfo": "Up to date data is available at the Carter Center:\r\nhttp://www.cartercenter.org/resources/gallery/images/highres/guinea-worm-current-case-count-chart.pdf"
+    }
+  ],
+  "owidTags": [
+    "Eradication of Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Guinea Worm Cases - The Carter Center (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Guinea Worm Cases (The Carter Center (2016))",
+            "type": "any",
+            "description": "Individual cases",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
