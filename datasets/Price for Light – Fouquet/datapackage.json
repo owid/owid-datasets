@@ -1,0 +1,42 @@
+{
+  "name": "Price for Light – Fouquet",
+  "title": "Price for Light – Fouquet",
+  "id": 187,
+  "description": "",
+  "sources": [
+    {
+      "name": "Fouquet and Pearson (2012)",
+      "dataPublishedBy": "Fouquet and Pearson (2012) – The long run demand for lighting: elasticities and rebound effects in different phases of economic development. Economics of Energy and Environmental Policy, v.1, pp.83-100.",
+      "dataPublisherSource": "own calculations by the authors.",
+      "link": "https://www.researchgate.net/profile/Roger_Fouquet/publication/241752411_The_Long_Run_Demand_for_Lighting_Elasticities_and_Rebound_Effects_in_Different_Phases_of_Economic_Development/links/0a85e52fb80f72624c000000.pdf",
+      "retrievedDate": "27/09/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Light"
+  ],
+  "resources": [
+    {
+      "path": "Price for Light – Fouquet.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Price for Light – Fouquet and Pearson (2012)",
+            "type": "any",
+            "description": "Price of light in the UK",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
