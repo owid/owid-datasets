@@ -1,0 +1,42 @@
+{
+  "name": "Malaria deaths - IHME (2016)",
+  "title": "Malaria deaths - IHME (2016)",
+  "id": 2858,
+  "description": "",
+  "sources": [
+    {
+      "name": "Institute for Health Metrics and Evaluation (2016)",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2016 (GBD 2016) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2017.",
+      "dataPublisherSource": null,
+      "link": "http://ghdx.healthdata.org/gbd-results-tool",
+      "retrievedDate": null,
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Malaria"
+  ],
+  "resources": [
+    {
+      "path": "Malaria deaths - IHME (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Deaths from malaria (IHME 2016)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
