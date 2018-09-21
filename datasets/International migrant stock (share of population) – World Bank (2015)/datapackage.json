@@ -1,0 +1,42 @@
+{
+  "name": "International migrant stock (share of population) – World Bank (2015)",
+  "title": "International migrant stock (share of population) – World Bank (2015)",
+  "id": 142,
+  "description": "International migrant stock is the number of people born in a country other than that in which they live. It also includes refugees. The data used to estimate the international migrant stock at a particular time are obtained mainly from population censuses. The estimates are derived from the data on foreign-born population--people who have residence in one country but were born in another country. When data on the foreign-born population are not available, data on foreign population--that is, people who are citizens of a country other than the country in which they reside--are used as estimates. After the breakup of the Soviet Union in 1991 people living in one of the newly independent countries who were born in another were classified as international migrants. Estimates of migrant stock in the newly independent states from 1990 on are based on the 1989 census of the Soviet Union. For countries with information on the international migrant stock for at least two points in time, interpolation or extrapolation was used to estimate the international migrant stock on July 1 of the reference years. For countries with only one observation, estimates for the reference years were derived using rates of change in the migrant stock in the years preceding or following the single observation available. A model was used to estimate migrants for countries that had no data. Based on United Nations Population Division, Trends in Total Migrant Stock: 2008 Revision.",
+  "sources": [
+    {
+      "name": "International migrant stock (share of population) - World Bank (2015)",
+      "dataPublishedBy": "World Bank WDI",
+      "dataPublisherSource": "Census data. ",
+      "link": "http://data.worldbank.org/indicator/SM.POP.TOTL.ZS",
+      "retrievedDate": "12/12/2015",
+      "additionalInfo": "International migrant stock is the number of people born in a country other than that in which they live. It also includes refugees. The data used to estimate the international migrant stock at a particular time are obtained mainly from population censuses. The estimates are derived from the data on foreign-born population--people who have residence in one country but were born in another country. When data on the foreign-born population are not available, data on foreign population--that is, people who are citizens of a country other than the country in which they reside--are used as estimates. After the breakup of the Soviet Union in 1991 people living in one of the newly independent countries who were born in another were classified as international migrants. Estimates of migrant stock in the newly independent states from 1990 on are based on the 1989 census of the Soviet Union. For countries with information on the international migrant stock for at least two points in time, interpolation or extrapolation was used to estimate the international migrant stock on July 1 of the reference years. For countries with only one observation, estimates for the reference years were derived using rates of change in the migrant stock in the years preceding or following the single observation available. A model was used to estimate migrants for countries that had no data. Based on United Nations Population Division, Trends in Total Migrant Stock: 2008 Revision."
+    }
+  ],
+  "owidTags": [
+    "Migration"
+  ],
+  "resources": [
+    {
+      "path": "International migrant stock (share of population) – World Bank (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "International migrant stock (share of population) (World Bank (2015))",
+            "type": "any",
+            "description": "Measured as the percentage of the population constituting the international migrant stock. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
