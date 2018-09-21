@@ -1,0 +1,162 @@
+{
+  "name": "Smoking prevalence and cigarette consumption (IHME, GHDx (2012))",
+  "title": "Smoking prevalence and cigarette consumption (IHME, GHDx (2012))",
+  "id": 2473,
+  "description": "Consumption per smoker per day refers to all ages and both sexes. The unit of measurement is in cigarettes.\r\n\r\nDaily smoking prevalence for male, female, and both (male and female) also refers to all ages of each particular category. Daily male smoking prevalence is interpreted as the percentage of men, across all ages, who smoke daily. \r\n\r\nThe number of daily male smokers refers to the number of men, by country, who smoke cigarettes at least daily. ",
+  "sources": [
+    {
+      "name": "Institute for Health Metrics and Evaluation (IHME) (2012)",
+      "dataPublishedBy": "IHME, GHDx",
+      "dataPublisherSource": "Nationally representative sources, survey data",
+      "link": "http://ghdx.healthdata.org/record/global-smoking-prevalence-and-cigarette-consumption-1980-2012",
+      "retrievedDate": "22/02/2018",
+      "additionalInfo": "Consumption per smoker per day refers to all ages and both sexes. The unit of measurement is in cigarettes.\r\n\r\nDaily smoking prevalence for male, female, and both (male and female) also refers to all ages of each particular category. Daily male smoking prevalence is interpreted as the percentage of men, across all ages, who smoke daily. \r\n\r\nThe number of daily male smokers refers to the number of men, by country, who smoke cigarettes at least daily. "
+    }
+  ],
+  "owidTags": [
+    "Smoking"
+  ],
+  "resources": [
+    {
+      "path": "Smoking prevalence and cigarette consumption (IHME, GHDx (2012)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Cigarette consumption per smoker per day (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Consumption per smoker per day lower bound (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Consumption per smoker per day upper bound (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Lower bound for daily smoking prevalence - both (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Upper bound for daily smoking prevalence - both (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Daily smoking prevalence - both (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Lower bound for daily smoking prevalence - male (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Upper bound for daily smoking prevalence - male (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Daily smoking prevalence - male (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Lower bound for daily smoking prevalence - female (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Upper bound for daily smoking prevalence - female (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Daily smoking prevalence - female (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of daily smokers - both (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Lower bound for number of daily smokers - both (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Upper bound for number of daily smokers - both (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of daily female smokers (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Lower bound for number of female daily smokers (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Upper bound for number of female daily smokers (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of daily male smokers (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Lower bound for number of daily male smokers (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Upper bound for number of daily male smokers (IHME, GHDx (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
