@@ -1,0 +1,42 @@
+{
+  "name": "CO2 emissions transfers - Global Carbon Project (2014)",
+  "title": "CO2 emissions transfers - Global Carbon Project (2014)",
+  "id": 565,
+  "description": "Original data on emissions transfers from Peters et al. (2012) via the Global Carbon Project (http://www.globalcarbonproject.org/carbonbudget/16/data.htm) have been converted from carbon to carbon dioxide (CO2) equivalent values using a conversion factor of 3.664.\r\n\r\nIn this chart, positive values indicate a net import of carbon dioxide, and negative values indicate a net export of carbon dioxide in trade.",
+  "sources": [
+    {
+      "name": "CO2 emissions transfers - Global Carbon Project (2014)",
+      "dataPublishedBy": "(Updated to 2014) Peters, GP, Minx, JC, Weber, CL and Edenhofer, O 2011. Growth in emission transfers via international trade from 1990 to 2008. Proceedings of the National Academy of Sciences 108, 8903-8908.",
+      "dataPublisherSource": "Authors' input-output modelling of national emissions accounts and global trade",
+      "link": "http://www.biogeosciences.net/9/3247/2012/bg-9-3247-2012.html",
+      "retrievedDate": "06/07/2017",
+      "additionalInfo": "Original data on emissions transfers from Peters et al. (2012) via the Global Carbon Project (http://www.globalcarbonproject.org/carbonbudget/16/data.htm) have been converted from carbon to carbon dioxide (CO2) equivalent values using a conversion factor of 3.664.\r\n\r\nIn this chart, positive values indicate a net import of carbon dioxide, and negative values indicate a net export of carbon dioxide in trade."
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "CO2 emissions transfers - Global Carbon Project (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "CO2 emissions transfers (Global Carbon Project (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
