@@ -1,0 +1,52 @@
+{
+  "name": "Experience Curves - LaFond (2017)",
+  "title": "Experience Curves - LaFond (2017)",
+  "id": 531,
+  "description": "",
+  "sources": [
+    {
+      "name": "Experience Curves - LaFond (2017)",
+      "dataPublishedBy": "Lafond et al. 2017. How well do experience curves predict technological progress? A method for making distributional forecasts",
+      "dataPublisherSource": null,
+      "link": "https://arxiv.org/abs/1703.05979",
+      "retrievedDate": "12/06/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Experience Curves - LaFond (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Cumulative production (LaFond (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Unit cost (LaFond (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Number"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
