@@ -1,0 +1,126 @@
+{
+  "name": "Dietary macronutrient compositions - FAO (2017)",
+  "title": "Dietary macronutrient compositions - FAO (2017)",
+  "id": 654,
+  "description": "Dietary compositions calculated by the OWID author (Hannah Ritchie) based on food supply statistics from the UN Food and Agricultural Organization database: FAOstat.\n\nThe FAO provide annual figures from 1961 by country on daily caloric supply, fat supply (in grams), and protein supply (in grams). To calculate the daily per capita supply of carbohydrates, we assumed an energy density by macronutrient of 4 kcal per gram of both protein and carbohydrate and 9 kcal per gram of fat (based on established nutritional guidelines reported by the FAO). The daily supply of carbohydrates was therefore calculated as:\n\n((Daily supply of kcal)-(Daily supply of protein * 4 + Daily supply of fat * 9)) / 4\n\nThe quantity of calories from each macronutrient was then calculated based on the energy density figures given above (e.g. calories from protein was calculated by multiplting the daily supply of protein in grams by 4).\n\nThe share of calories derived from each macronutrient could then be calculated by dividing the number of calories derived from a given macronutrient by the total daily caloric supply.\n\nProtein of animal origin includes protein supplied in the form of all meat commodities, eggs and dairy products, and fish & seafood. Protein of plant origin was dervied as the difference between total protein supply and that of animal origin.\n\nReferences:\n\nUN Food and Agricultural Organization FAOstat food balance sheets. Available at: http://www.fao.org/faostat/en/#home [accessed 31st July 2017].\n\nChapter 3: Calculation Of The Energy Content Of Foods - Energy Conversion Factors. Food and Agriculture Organization of the United Nations. Available at: http://www.fao.org/docrep/006/Y5022E/y5022e04.htm [accessed 31st July 2017].",
+  "sources": [
+    {
+      "name": "Dietary macronutrient compositions - FAO (2017)",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "Dietary compositions calculated by the OWID author (Hannah Ritchie) based on food supply statistics from the UN Food and Agricultural Organization database: FAOstat.\n\nThe FAO provide annual figures from 1961 by country on daily caloric supply, fat supply (in grams), and protein supply (in grams). To calculate the daily per capita supply of carbohydrates, we assumed an energy density by macronutrient of 4 kcal per gram of both protein and carbohydrate and 9 kcal per gram of fat (based on established nutritional guidelines reported by the FAO). The daily supply of carbohydrates was therefore calculated as:\n\n((Daily supply of kcal)-(Daily supply of protein * 4 + Daily supply of fat * 9)) / 4\n\nThe quantity of calories from each macronutrient was then calculated based on the energy density figures given above (e.g. calories from protein was calculated by multiplting the daily supply of protein in grams by 4).\n\nThe share of calories derived from each macronutrient could then be calculated by dividing the number of calories derived from a given macronutrient by the total daily caloric supply.\n\nProtein of animal origin includes protein supplied in the form of all meat commodities, eggs and dairy products, and fish & seafood. Protein of plant origin was dervied as the difference between total protein supply and that of animal origin.\n\nReferences:\n\nUN Food and Agricultural Organization FAOstat food balance sheets. Available at: http://www.fao.org/faostat/en/#home [accessed 31st July 2017].\n\nChapter 3: Calculation Of The Energy Content Of Foods - Energy Conversion Factors. Food and Agriculture Organization of the United Nations. Available at: http://www.fao.org/docrep/006/Y5022E/y5022e04.htm [accessed 31st July 2017]."
+    }
+  ],
+  "owidTags": [
+    "Diet Composition"
+  ],
+  "resources": [
+    {
+      "path": "Dietary macronutrient compositions - FAO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Fat supply (FAO (2017))",
+            "type": "any",
+            "description": "Fat supply (in grams) per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Protein supply (FAO (2017))",
+            "type": "any",
+            "description": "Protein supply (in grams) per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Carbohydrates supply (FAO (2017))",
+            "type": "any",
+            "description": "Carbohydrates supply (in grams) per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Calories from fat (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories from fat per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Calories from protein (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories from protein per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Calories from carbohydrates (FAO (2017))",
+            "type": "any",
+            "description": "Kilocalories from carbohydrates per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of calories from fat (FAO (2017))",
+            "type": "any",
+            "description": "Share of calories from fat. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of calories from protein (FAO (2017))",
+            "type": "any",
+            "description": "Share of calories from protein. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of calories from carbohydrates (FAO (2017))",
+            "type": "any",
+            "description": "Share of calories from carbohydrates.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Protein supply of animal origin (FAO (2017))",
+            "type": "any",
+            "description": "Protein supply of animal origin (in grams) per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Protein supply of plant origin (FAO (2017))",
+            "type": "any",
+            "description": "Protein supply of plant origin (in grams) per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Calories from animal protein (FAO (2017))",
+            "type": "any",
+            "description": "Calories from animal protein per person per day.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Calories from plant protein (FAO (2017))",
+            "type": "any",
+            "description": "Calories from plant protein per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of calories from animal protein (FAO (2017))",
+            "type": "any",
+            "description": "Share of calories from animal protein. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of calories from plant protein (FAO (2017))",
+            "type": "any",
+            "description": "Share of calories from plant protein.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
