@@ -1,0 +1,60 @@
+{
+  "name": "Solar PV Systems Costs - Barbose & Darghouth (2016)",
+  "title": "Solar PV Systems Costs - Barbose & Darghouth (2016)",
+  "id": 546,
+  "description": "Data is based on median residential solar photovolatic (PV) prices in the United States only.\r\n\r\nInstalled non-module prices include hardware costs, such as inverters and racking equipment; and the wide assortment of soft costs, including such things as marketing and customer acquisition, system design, installation labor, permitting and inspection costs, and installer margins.\r\n\r\nNon-module costs have been assumed to be the total solar PV system price minus the solar module price.",
+  "sources": [
+    {
+      "name": "Solar PV Systems Costs - Barbose & Darghouth (2016)",
+      "dataPublishedBy": "Barbose & Darghouth (2016). Tracking the Sun IX: The Installed Price of Residential and Non-Residential Photovoltaic Systems in the United States",
+      "dataPublisherSource": "State agencies, utilities, and other organizations that administer PV incentive programs, solar renewable energy credit (SREC) registration systems, and interconnection processes.",
+      "link": "https://emp.lbl.gov/sites/default/files/tracking_the_sun_ix_report.pdf",
+      "retrievedDate": "19/06/2017",
+      "additionalInfo": "Data is based on median residential solar photovolatic (PV) prices in the United States only.\r\n\r\nInstalled non-module prices include hardware costs, such as inverters and racking equipment; and the wide assortment of soft costs, including such things as marketing and customer acquisition, system design, installation labor, permitting and inspection costs, and installer margins.\r\n\r\nNon-module costs have been assumed to be the total solar PV system price minus the solar module price."
+    }
+  ],
+  "owidTags": [
+    "Energy Prices"
+  ],
+  "resources": [
+    {
+      "path": "Solar PV Systems Costs - Barbose & Darghouth (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total Installed Price (Barbose & Darghouth (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Constant USD"
+            }
+          },
+          {
+            "name": "Module Price (Barbose & Darghouth (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Non-Module Costs (Barbose & Darghouth (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Number"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
