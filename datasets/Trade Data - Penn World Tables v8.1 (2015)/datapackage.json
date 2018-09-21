@@ -1,0 +1,45 @@
+{
+  "name": "Trade Data - Penn World Tables v8.1 (2015)",
+  "title": "Trade Data - Penn World Tables v8.1 (2015)",
+  "id": 34,
+  "description": "Purchasing power parity and national income accounts converted to international prices.",
+  "sources": [
+    {
+      "name": "Penn World Tables v8.1 (2015)",
+      "dataPublishedBy": "Penn World Tables",
+      "dataPublisherSource": "Penn World Tables v8.1",
+      "link": "http://www.rug.nl/research/ggdc/data/pwt/pwt-8.1",
+      "retrievedDate": "07/06/2015",
+      "additionalInfo": "Purchasing power parity and national income accounts converted to international prices."
+    }
+  ],
+  "owidTags": [
+    "Trade from the Recent Past to Present"
+  ],
+  "resources": [
+    {
+      "path": "Trade Data - Penn World Tables v8.1 (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Ratio of exports and imports to GDP (PWT v8.1 (2015))",
+            "type": "any",
+            "description": "Ratio of exports and imports to GDP. ",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
