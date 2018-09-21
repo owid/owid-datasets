@@ -1,0 +1,71 @@
+{
+  "name": "Daily protein supply - FAO (2017)",
+  "title": "Daily protein supply - FAO (2017)",
+  "id": 582,
+  "description": "Data from 1961 onwards is sourced from the UN Food and Agricultural Organization database. Available at: http://www.fao.org/faostat/en/#data/FBS [accessed 22nd August 2017].\n\nData for the years 1948 and 1949 is derived from: FAO (1949) – The state of food and agriculture, 1949 - a survey of world conditions and prospects. The State of Food and Agriculture, 1949. Available at: http://www.fao.org/docrep/016/ap637e/ap637e.pdf.\n\nData for the UK in 1837 and 1863 is derived from Clark, Gregory, Michael Huberman, and Peter Lindert. 1995. “A British Food Puzzle, 1770–1850.” Economic History Review 48(2): 215–237. Available at: https://www.jstor.org/stable/pdf/2598401.pdf?refreqid=excelsior%3A8924d3e19be34163046f26f10a92ee12\n\nData for England in 1787 is sourced from Clark (2008) - A Farewell to Alms: A Brief Economic History of the World. Princeton University Press.\n\nDaily protein supply is defined as the average per capita protein availability. Note that this indicates the availability delivered to households but does not necessarily indicate the quantity of protein actually consumed (food may be wasted at the consumer level).\n\nData from 1961-1991 for Post-Soviet states are assumed to be in line with reported data for the USSR over this period.\n\nProtein of animal origin includes protein supplied in the form of all meat commodities, eggs and dairy products, and fish & seafood.\n\nProtein of plant origin was dervied as the difference between total protein supply and that of animal origin.",
+  "sources": [
+    {
+      "name": "Daily protein supply - FAO (2017)",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "Data from 1961 onwards is sourced from the UN Food and Agricultural Organization database. Available at: http://www.fao.org/faostat/en/#data/FBS [accessed 22nd August 2017].\n\nData for the years 1948 and 1949 is derived from: FAO (1949) – The state of food and agriculture, 1949 - a survey of world conditions and prospects. The State of Food and Agriculture, 1949. Available at: http://www.fao.org/docrep/016/ap637e/ap637e.pdf.\n\nData for the UK in 1837 and 1863 is derived from Clark, Gregory, Michael Huberman, and Peter Lindert. 1995. “A British Food Puzzle, 1770–1850.” Economic History Review 48(2): 215–237. Available at: https://www.jstor.org/stable/pdf/2598401.pdf?refreqid=excelsior%3A8924d3e19be34163046f26f10a92ee12\n\nData for England in 1787 is sourced from Clark (2008) - A Farewell to Alms: A Brief Economic History of the World. Princeton University Press.\n\nDaily protein supply is defined as the average per capita protein availability. Note that this indicates the availability delivered to households but does not necessarily indicate the quantity of protein actually consumed (food may be wasted at the consumer level).\n\nData from 1961-1991 for Post-Soviet states are assumed to be in line with reported data for the USSR over this period.\n\nProtein of animal origin includes protein supplied in the form of all meat commodities, eggs and dairy products, and fish & seafood.\n\nProtein of plant origin was dervied as the difference between total protein supply and that of animal origin."
+    }
+  ],
+  "owidTags": [
+    "Food per Person"
+  ],
+  "resources": [
+    {
+      "path": "Daily protein supply - FAO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Daily protein supply (FAO (2017))",
+            "type": "any",
+            "description": "Protein supply (in grams) per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Daily protein supply of animal origin (FAO (2017))",
+            "type": "any",
+            "description": "Protein supply of animal origin (in grams) per person per day. ",
+            "owidDisplaySettings": {
+              "name": "Daily protein supply of animal origin",
+              "unit": "g/person/day",
+              "shortUnit": "g",
+              "tolerance": 5
+            }
+          },
+          {
+            "name": "Daily protein supply of plant origin (FAO (2017))",
+            "type": "any",
+            "description": "Protein supply of plant origin (in grams) per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of protein of animal origin (FAO (2017))",
+            "type": "any",
+            "description": "Percentage of animal origin in protein. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of protein of plant origin (FAO (2017))",
+            "type": "any",
+            "description": "Percentage of plant origin in protein. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
