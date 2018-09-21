@@ -1,0 +1,48 @@
+{
+  "name": "Green Climate Fund Pledges - GCF",
+  "title": "Green Climate Fund Pledges - GCF",
+  "id": 2802,
+  "description": "National pledges towards the Green Climate Fund (GCF). The Green Climate Fund (GCF) is a new global fund created to support the efforts of developing countries to respond to the challenge of climate change. GCF helps developing countries limit or reduce their greenhouse gas (GHG) emissions and adapt to climate change.\n\nGCF is an important part of the UNFCCC Paris climate agreement. Within the Paris Agreement advanced economies have formally agreed to jointly mobilize USD 100 billion per year by 2020.\n\nData reports national pledges as submitted by May 2018.",
+  "sources": [
+    {
+      "name": "Green Climate Fund Pledges - GCF (2018)",
+      "dataPublishedBy": "Green Climate Fund (GCF)",
+      "dataPublisherSource": null,
+      "link": "https://www.greenclimate.fund/how-we-work/resource-mobilization",
+      "retrievedDate": "7th June 2018",
+      "additionalInfo": "National pledges towards the Green Climate Fund (GCF). The Green Climate Fund (GCF) is a new global fund created to support the efforts of developing countries to respond to the challenge of climate change. GCF helps developing countries limit or reduce their greenhouse gas (GHG) emissions and adapt to climate change.\n\nGCF is an important part of the UNFCCC Paris climate agreement. Within the Paris Agreement advanced economies have formally agreed to jointly mobilize USD 100 billion per year by 2020.\n\nData reports national pledges as submitted by May 2018."
+    }
+  ],
+  "owidTags": [
+    "Climate Change"
+  ],
+  "resources": [
+    {
+      "path": "Green Climate Fund Pledges - GCF.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Signed pledges (GCF)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Signed pledges per capita (GCF)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
