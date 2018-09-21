@@ -1,0 +1,48 @@
+{
+  "name": "Hubbert's Peak - Cavallo & EIA",
+  "title": "Hubbert's Peak - Cavallo & EIA",
+  "id": 651,
+  "description": "Data on actual US oil production is based on reported historical figures from the US Energy Information Administration (EIA). This has been plotted based on its dataset on annual 'US Field Production of Crude Oil'. Available online at: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=mcrfpus1&f=a [accessed 30th July 2017].\r\n\r\nData on Hubbert's hypothesised peak oil production in the US is based on distribution analysis discussed and reported in: Cavallo, A. J. (2004). Hubbert’s petroleum production model: an evaluation and implications for world oil production forecasts. Natural Resources Research, 13(4), 211-221.",
+  "sources": [
+    {
+      "name": "Hubbert's Peak - Cavallo and EIA",
+      "dataPublishedBy": "EIA",
+      "dataPublisherSource": "Historical figures, census data.",
+      "link": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=mcrfpus1&f=a",
+      "retrievedDate": null,
+      "additionalInfo": "Data on actual US oil production is based on reported historical figures from the US Energy Information Administration (EIA). This has been plotted based on its dataset on annual 'US Field Production of Crude Oil'. Available online at: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=mcrfpus1&f=a [accessed 30th July 2017].\r\n\r\nData on Hubbert's hypothesised peak oil production in the US is based on distribution analysis discussed and reported in: Cavallo, A. J. (2004). Hubbert’s petroleum production model: an evaluation and implications for world oil production forecasts. Natural Resources Research, 13(4), 211-221."
+    }
+  ],
+  "owidTags": [
+    "Oil Price, Taxes, Production & Consumption"
+  ],
+  "resources": [
+    {
+      "path": "Hubbert's Peak - Cavallo & EIA.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Actual Production (Cavallo and EIA)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Hubbert's Curve (Cavallo and EIA)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
