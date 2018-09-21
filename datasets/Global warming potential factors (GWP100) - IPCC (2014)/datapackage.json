@@ -1,0 +1,78 @@
+{
+  "name": "Global warming potential factors (GWP100) - IPCC (2014)",
+  "title": "Global warming potential factors (GWP100) - IPCC (2014)",
+  "id": 860,
+  "description": "Data denotes the global warming potential (GWP) over a 100-year timescale for greenhouse gases relative to the GWP of carbon dioxide (which is denoted as 1). Global warming potential measures the relative warming impact of one unit mass of gas relative to one unit of carbon dioxide. For example, a GWP value for gas 'x' of 25 would mean one tonne of 'x' would have 25 times the warming impact of one tonne of carbon dioixde.\r\n\r\nGWP100 values are used to convert greenhouse gases into a carbon dioxide equivalent (CO2e) metric by multiplying emissions in mass terms by their respective GWP100 factors.",
+  "sources": [
+    {
+      "name": "Global warming potential factors (GWP100) - IPCC (2014)",
+      "dataPublishedBy": "IPCC, 2014: Climate Change 2014: Synthesis Report. Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change",
+      "dataPublisherSource": null,
+      "link": "https://www.ipcc.ch/pdf/assessment-report/ar5/syr/SYR_AR5_FINAL_full.pdf",
+      "retrievedDate": "08/09/2017",
+      "additionalInfo": "Data denotes the global warming potential (GWP) over a 100-year timescale for greenhouse gases relative to the GWP of carbon dioxide (which is denoted as 1). Global warming potential measures the relative warming impact of one unit mass of gas relative to one unit of carbon dioxide. For example, a GWP value for gas 'x' of 25 would mean one tonne of 'x' would have 25 times the warming impact of one tonne of carbon dioixde.\r\n\r\nGWP100 values are used to convert greenhouse gases into a carbon dioxide equivalent (CO2e) metric by multiplying emissions in mass terms by their respective GWP100 factors."
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "Global warming potential factors (GWP100) - IPCC (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "CO2 (IPCC (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "CH₄ (IPCC (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "N₂O (IPCC (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "CF₄ (IPCC (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "HFC-152a (IPCC (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "SF₆ (IPCC (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "PFC-14 (IPCC (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
