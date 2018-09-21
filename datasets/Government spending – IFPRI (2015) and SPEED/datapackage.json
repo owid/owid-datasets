@@ -1,0 +1,57 @@
+{
+  "name": "Government spending – IFPRI (2015) and SPEED",
+  "title": "Government spending – IFPRI (2015) and SPEED",
+  "id": 307,
+  "description": "",
+  "sources": [
+    {
+      "name": "IFPRI (2015) and SPEED",
+      "dataPublishedBy": "Dataset: International Food Policy Research Institute (IFPRI). 2015. Statistics on public expenditures and economic development (SPEED). Washington, D.C.: International Food Policy Research Institute. http://dx.doi.org/10.7910/DVN/INZ3QK. Data paper: Bingxin, Yu; Magalhaes, Eduardo; and Benin, Samuel. 2015. A database user manual for Statistics on Public Expenditures for Economic Development (SPEED). Washington, D.C.: International Food Policy Research Institute (IFPRI). http://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/129363/filename/129574.pdf",
+      "dataPublisherSource": "Various sources, but primarily IMF Government Financial Statistics (see Data Paper reference for complete details)",
+      "link": "http://dx.doi.org/10.7910/DVN/INZ3QK",
+      "retrievedDate": "19/10/2016",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Public Spending"
+  ],
+  "resources": [
+    {
+      "path": "Government spending – IFPRI (2015) and SPEED.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total government spending (%GDP) (IFPRI (2015) and SPEED)",
+            "type": "any",
+            "description": "1980-2012",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total government spending (per capita) (IFPRI (2015) and SPEED)",
+            "type": "any",
+            "description": "1980-2012",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total government spending (regional averages) (IFPRI (2015) and SPEED)",
+            "type": "any",
+            "description": "1980-2013",
+            "owidDisplaySettings": {
+              "unit": "litres per gram protein",
+              "shortUnit": "litres"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
