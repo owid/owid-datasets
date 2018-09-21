@@ -1,0 +1,45 @@
+{
+  "name": "Child Labor (World 1950-1995) - Basu (1999)",
+  "title": "Child Labor (World 1950-1995) - Basu (1999)",
+  "id": 169,
+  "description": "",
+  "sources": [
+    {
+      "name": "Labor force participation rates - Basu (1999) ",
+      "dataPublishedBy": "Basu, Kaushik. Child labor: cause, consequence, and cure, with remarks on international labor standards. Journal of Economic literature 37.3 (1999): 1083-1119",
+      "dataPublisherSource": "ILO Programme on Estimates and Projections of the Economically Active Population (EPEAP) ",
+      "link": "http://www.jstor.org/stable/2564873",
+      "retrievedDate": "27/09/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Child Labor"
+  ],
+  "resources": [
+    {
+      "path": "Child Labor (World 1950-1995) - Basu (1999).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Child Labor (World, ILO-EPEAP, 1950-1995)",
+            "type": "any",
+            "description": "Labor force participation rates for children aged between 10-14.",
+            "owidDisplaySettings": {
+              "unit": "% of GDP",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
