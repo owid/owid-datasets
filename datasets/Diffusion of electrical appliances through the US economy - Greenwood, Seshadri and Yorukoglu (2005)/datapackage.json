@@ -1,0 +1,42 @@
+{
+  "name": "Diffusion of electrical appliances through the US economy - Greenwood, Seshadri and Yorukoglu (2005)",
+  "title": "Diffusion of electrical appliances through the US economy - Greenwood, Seshadri and Yorukoglu (2005)",
+  "id": 138,
+  "description": "",
+  "sources": [
+    {
+      "name": "Greenwood, Seshadri and Yorukoglu (2005)",
+      "dataPublishedBy": "Jeremy Greenwood, Ananth Seshadri and Mehmet Yorukoglu (2005), \"Engines of Liberation,\" Review of Economic Studies, v.72, n.1:109-133",
+      "dataPublisherSource": "Scholarly work",
+      "link": "https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemId=127",
+      "retrievedDate": "13/10/2015",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Working Hours"
+  ],
+  "resources": [
+    {
+      "path": "Diffusion of electrical appliances through the US economy - Greenwood, Seshadri and Yorukoglu (2005).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Diffusion of electrical appliances through the US economy (Greenwood, Seshadri and Yorukoglu (2005))",
+            "type": "any",
+            "description": "Measures the proportion of US households that own electrical appliances. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
