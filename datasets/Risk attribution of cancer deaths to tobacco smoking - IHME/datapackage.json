@@ -1,0 +1,48 @@
+{
+  "name": "Risk attribution of cancer deaths to tobacco smoking - IHME",
+  "title": "Risk attribution of cancer deaths to tobacco smoking - IHME",
+  "id": 2486,
+  "description": "IHME, Global Burden of Disease provide figures on disease burden and deaths attributed to a range of environmental and lifestyle risk factors. Here data from IHME represents the age-standardized cancer death rate (per 100,000 individuals) and share of total cancer deaths attributed to tobacco smoking (which is inclusive of smoking and secondhand smoke). This impact is measured across total cancer types.",
+  "sources": [
+    {
+      "name": "Risk attribution of cancer deaths to tobacco smoking - IHME",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2016 (GBD 2016) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2017.",
+      "dataPublisherSource": null,
+      "link": "http://ghdx.healthdata.org/gbd-results-tool",
+      "retrievedDate": "1st March 2018",
+      "additionalInfo": "IHME, Global Burden of Disease provide figures on disease burden and deaths attributed to a range of environmental and lifestyle risk factors. Here data from IHME represents the age-standardized cancer death rate (per 100,000 individuals) and share of total cancer deaths attributed to tobacco smoking (which is inclusive of smoking and secondhand smoke). This impact is measured across total cancer types."
+    }
+  ],
+  "owidTags": [
+    "Cancer"
+  ],
+  "resources": [
+    {
+      "path": "Risk attribution of cancer deaths to tobacco smoking - IHME.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Age-standardized cancer death rate attributed to tobacco (per 100,000)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Age-standardized share of cancer deaths attributed to tobacco",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
