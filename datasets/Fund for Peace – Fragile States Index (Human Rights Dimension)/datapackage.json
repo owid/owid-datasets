@@ -1,0 +1,42 @@
+{
+  "name": "Fund for Peace – Fragile States Index (Human Rights Dimension)",
+  "title": "Fund for Peace – Fragile States Index (Human Rights Dimension)",
+  "id": 154,
+  "description": "The Human Rights & Rule of Law dimension. In their 2015 the authors write “When human rights are violated or unevenly protected, the state is failing in its ultimate responsibility.\nIncludes pressures and measures related to:\n– Press Freedom\n– Civil Liberties\n– Political Freedoms\n– Human Trafficking\n– Political Prisoners\n– Incarceration\n– Religious Persecution\n– Torture\n– Executions",
+  "sources": [
+    {
+      "name": "Fragile States Index (Human Rights Dimension)",
+      "dataPublishedBy": "Fund for Peace",
+      "dataPublisherSource": "Fragile States Index (Human Rights Dimension)",
+      "link": "http://fsi.fundforpeace.org/",
+      "retrievedDate": "23/01/2016",
+      "additionalInfo": "The Human Rights & Rule of Law dimension. In their 2015 the authors write “When human rights are violated or unevenly protected, the state is failing in its ultimate responsibility.\nIncludes pressures and measures related to:\n– Press Freedom\n– Civil Liberties\n– Political Freedoms\n– Human Trafficking\n– Political Prisoners\n– Incarceration\n– Religious Persecution\n– Torture\n– Executions"
+    }
+  ],
+  "owidTags": [
+    "Human Rights"
+  ],
+  "resources": [
+    {
+      "path": "Fund for Peace – Fragile States Index (Human Rights Dimension).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Fund for Peace (Fragile States Index (Human Rights Dimension))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
