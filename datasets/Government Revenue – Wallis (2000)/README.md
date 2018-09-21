@@ -1,0 +1,3 @@
+# Government Revenue – Wallis (2000)
+
+Source notes: Data after 1902 taken from Department of Commerce (1975, 1985, 1997) and Advisory on Intergovernmental Relations (1994). State revenues 1800 to 1900, data collected by Sylla, Legler, and Wallis. Local revenues 1840 to 1890, Legler, Sylla, and Wallis (1988). GNP from Gallman (1966), up to 1860; remaining years up to 1929 from Balke and Gordon (1989).
