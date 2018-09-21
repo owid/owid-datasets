@@ -1,0 +1,42 @@
+{
+  "name": "Ozone depleting emissions since 1960 (Scientific Assessment 2014)",
+  "title": "Ozone depleting emissions since 1960 (Scientific Assessment 2014)",
+  "id": 2811,
+  "description": "Figures represent emissions of ozone-depleting substances, with substances weighted by their potential to destroy ozone (their ozone-depleting potential). This gives a total value of emissions normalised to their CFC11-equivalents. \n\nTotal emissions is inclusive of naturally-occurring and man-made emissions.\n\nData is based on those in Q0-1 in 'Twenty questions and answers about the ozone layer: 2014 update', published as the 2014 edition of the Scientific Assessment Panel of the Montreal Protocol.\n\nData was extracted from the static figure, Q0-1, using the extraction tool WebPlotDigitizer (https://apps.automeris.io/wpd/).\n",
+  "sources": [
+    {
+      "name": "Ozone-depleting substance emissions (Scientific Assessment 2014)",
+      "dataPublishedBy": "Hegglin, M. I., Fahey, D. W., McFarland, M., Montzka, S. A., & Nash, E. R. (2014). Twenty questions and answers about the ozone layer: 2014 update. World Meteorological Organization, UNEP, NOAA, NASA, and European Commission.",
+      "dataPublisherSource": null,
+      "link": "https://www.wmo.int/pages/prog/arep/gaw/ozone_2014/documents/2014%20Twenty%20Questions_Final.pdf",
+      "retrievedDate": null,
+      "additionalInfo": "Figures represent emissions of ozone-depleting substances, with substances weighted by their potential to destroy ozone (their ozone-depleting potential). This gives a total value of emissions normalised to their CFC11-equivalents. \n\nTotal emissions is inclusive of naturally-occurring and man-made emissions.\n\nData is based on those in Q0-1 in 'Twenty questions and answers about the ozone layer: 2014 update', published as the 2014 edition of the Scientific Assessment Panel of the Montreal Protocol.\n\nData was extracted from the static figure, Q0-1, using the extraction tool WebPlotDigitizer (https://apps.automeris.io/wpd/).\n"
+    }
+  ],
+  "owidTags": [
+    "Ozone Layer"
+  ],
+  "resources": [
+    {
+      "path": "Ozone depleting emissions since 1960 (Scientific Assessment 2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Ozone-depleting substance emissions (Scientific Assessment 2014)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
