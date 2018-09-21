@@ -1,0 +1,54 @@
+{
+  "name": "Ozone depletion impacts on skin cancer incidence - Slaper et al.",
+  "title": "Ozone depletion impacts on skin cancer incidence - Slaper et al.",
+  "id": 2733,
+  "description": "The authors modelled the number of excess skin cancer cases they would expect among fair-skinned populations in the United States and Northwest Europe as a result of stratospheric ozone depletion.\n\nThis was modelled for a scenario of no restrictions on ozone-depleting substances, where the authors assumed a 3% annual increase in emissions of chloroflourocarbons (CFCs), halons and methyl chloroforms. \n\nThe Montreal Protocol scenario assumed a decline of five important ozone-depleting substances by 50% by the end of 1999 as agreed in the protocol in 1987.\n\nThe Copenhagen Amendment assumed the production of 21 ozone-depleting substances reduced to zero by the end of 1995.",
+  "sources": [
+    {
+      "name": "Ozone depletion impacts on skin cancer incidence - Slaper et al.",
+      "dataPublishedBy": "Slaper, H. et al. Estimates of ozone depletion and skin cancer incidence to examine the Vienna Convention achievements. Nature 384(6606): 256–258 (1996).",
+      "dataPublisherSource": null,
+      "link": "https://www.nature.com/articles/384256a0.pdf",
+      "retrievedDate": "6th April 2018",
+      "additionalInfo": "The authors modelled the number of excess skin cancer cases they would expect among fair-skinned populations in the United States and Northwest Europe as a result of stratospheric ozone depletion.\n\nThis was modelled for a scenario of no restrictions on ozone-depleting substances, where the authors assumed a 3% annual increase in emissions of chloroflourocarbons (CFCs), halons and methyl chloroforms. \n\nThe Montreal Protocol scenario assumed a decline of five important ozone-depleting substances by 50% by the end of 1999 as agreed in the protocol in 1987.\n\nThe Copenhagen Amendment assumed the production of 21 ozone-depleting substances reduced to zero by the end of 1995."
+    }
+  ],
+  "owidTags": [
+    "Ozone Layer"
+  ],
+  "resources": [
+    {
+      "path": "Ozone depletion impacts on skin cancer incidence - Slaper et al..csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Excess skin cancer cases per million (no restrictions)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Excess skin cancer cases per million (Montreal Protocol)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Excess skin cancer cases per million (Copenhagen Amendments)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
