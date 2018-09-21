@@ -1,0 +1,42 @@
+{
+  "name": "Gender wage gap (assigning zeros for no work)",
+  "title": "Gender wage gap (assigning zeros for no work)",
+  "id": 2715,
+  "description": "",
+  "sources": [
+    {
+      "name": "Center for Global Development (2018)",
+      "dataPublishedBy": "Justin Sandefur, Chart of the Week: Gender Pay Gaps around the World Are Bigger Than You Think, and Have Almost Nothing to Do with Girls Schooling, Center for Global Development (2018) ",
+      "dataPublisherSource": "World Bank STEP survey data",
+      "link": "https://www.cgdev.org/blog/chart-week-gender-pay-gaps-around-world-are-bigger-you-think-and-have-almost-nothing-do-girls",
+      "retrievedDate": "2 June 2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Gender wage gap (assigning zeros for no work).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Women's income as a percent of men's",
+            "type": "any",
+            "description": "Unadjusted pay gaps assigning zero income to individuals who are not employed. All figures correspond to women's income as a percent of men's, including wages and profits from self-employment.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
