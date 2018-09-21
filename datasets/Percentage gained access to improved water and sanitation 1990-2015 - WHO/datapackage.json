@@ -1,0 +1,48 @@
+{
+  "name": "Percentage gained access to improved water and sanitation 1990-2015 - WHO",
+  "title": "Percentage gained access to improved water and sanitation 1990-2015 - WHO",
+  "id": 1428,
+  "description": "This metric measures the proportion of the 2015 population who gained access to improved water sources or sanitation since 1990. This marks the start and end dates of the Millennium Development Goals (MDGs).",
+  "sources": [
+    {
+      "name": "Percentage gained access to improved water and sanitation 1990-2015 - WHO",
+      "dataPublishedBy": "World Health Organization. (2015). Progress on sanitation and drinking water: 2015 update and MDG assessment. World Health Organization.",
+      "dataPublisherSource": null,
+      "link": "https://books.google.co.uk/books?hl=en&lr=&id=KFA0DgAAQBAJ&oi=fnd&pg=PA1&dq=global+sanitation&ots=l5X57N-dkc&sig=bSm8CPY_3GGY3hnWgd966-_zQJg#v=onepage&q=global%20sanitation&f=false",
+      "retrievedDate": "2017-11-20",
+      "additionalInfo": "This metric measures the proportion of the 2015 population who gained access to improved water sources or sanitation since 1990. This marks the start and end dates of the Millennium Development Goals (MDGs)."
+    }
+  ],
+  "owidTags": [
+    "Water Accessibility, Consumption & Sanitation"
+  ],
+  "resources": [
+    {
+      "path": "Percentage gained access to improved water and sanitation 1990-2015 - WHO.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Population who gained access to water from 1990-2015",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Population who gained access to sanitation from 1990-2015",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
