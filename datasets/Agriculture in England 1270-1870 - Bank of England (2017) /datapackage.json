@@ -1,0 +1,168 @@
+{
+  "name": "Agriculture in England 1270-1870 - Bank of England (2017) ",
+  "title": "Agriculture in England 1270-1870 - Bank of England (2017) ",
+  "id": 698,
+  "description": "This dataset is produced using ‘A3. Eng. Agriculture 1270-1870’ sheet of the BoE dataset. To maintain consistency, all measurements are converted into either hectares or tonnes. We use the following sources to convert units:\r\n\r\n1 Acre = 0.404686 hectare\r\nBushels to tonne (for grain): Agriculture statistics, Govt. of Canada. Available at https://www.gov.mb.ca/agriculture/market-prices-and-statistics/yearbook-and-state-of-agriculture/pubs/crop_conversion_factors.pdf\r\nBushels to tonne (for potatoes): Potato weights & volumes, Northern Plains Potato Growers Association, Minnesota, USA. Available at http://nppga.org/crop_science/measurements.php\r\n1 UK gallon = 0.004546 tonnes. Available at http://convert-to.com/conversion/water-weight-volume/convert-metric-tonne-t-water-weight-to-uk-gal-of-water-volume.html\r\n1 UK ton = 1.01605 tonne\r\n1 Pound = 0.000454 tonne",
+  "sources": [
+    {
+      "name": "Agriculture in England (1270-1870) - Bank of England (2017) ",
+      "dataPublishedBy": "Bank of England (BoE) (2017)",
+      "dataPublisherSource": "Broadberry, S., Campbell, B. M., Klein, A., Overton, M., & Van Leeuwen, B. (2015). British economic growth, 1270–1870. Cambridge University Press.",
+      "link": "http://www.bankofengland.co.uk/research/Pages/datasets/default.aspx#threecenturies",
+      "retrievedDate": "24/08/2017",
+      "additionalInfo": "This dataset is produced using ‘A3. Eng. Agriculture 1270-1870’ sheet of the BoE dataset. To maintain consistency, all measurements are converted into either hectares or tonnes. We use the following sources to convert units:\r\n\r\n1 Acre = 0.404686 hectare\r\nBushels to tonne (for grain): Agriculture statistics, Govt. of Canada. Available at https://www.gov.mb.ca/agriculture/market-prices-and-statistics/yearbook-and-state-of-agriculture/pubs/crop_conversion_factors.pdf\r\nBushels to tonne (for potatoes): Potato weights & volumes, Northern Plains Potato Growers Association, Minnesota, USA. Available at http://nppga.org/crop_science/measurements.php\r\n1 UK gallon = 0.004546 tonnes. Available at http://convert-to.com/conversion/water-weight-volume/convert-metric-tonne-t-water-weight-to-uk-gal-of-water-volume.html\r\n1 UK ton = 1.01605 tonne\r\n1 Pound = 0.000454 tonne"
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Agriculture in England 1270-1870 - Bank of England (2017) .csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total arable and sown acreage",
+            "type": "any",
+            "description": "Total arable acreage and total sown acreage in millions of hectares in England, 1270-1870\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Wheat output ",
+            "type": "any",
+            "description": "Total output of wheat in million tonnes ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Rye output ",
+            "type": "any",
+            "description": "Total output of rye in million tonnes ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Barley output",
+            "type": "any",
+            "description": "Total output of barley in million tonnes ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Oats output",
+            "type": "any",
+            "description": "Total output of oats in million tonnes ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Pulses output",
+            "type": "any",
+            "description": "Total output of pulses in million tonnes ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Potatoes output",
+            "type": "any",
+            "description": "Total output of potatoes in million tonnes ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of Cattle",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of Sheep",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of Pigs",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Milk output ",
+            "type": "any",
+            "description": "Total output of milk in million tonnes ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Beef output ",
+            "type": "any",
+            "description": "Total output of beef in million tonnes ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Veal output",
+            "type": "any",
+            "description": "Total output of veal in million tonnes ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Mutton output",
+            "type": "any",
+            "description": "Total output of mutton in million tonnes ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Pork output",
+            "type": "any",
+            "description": "Total output of pork in million tonnes ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Wool output",
+            "type": "any",
+            "description": "Total output of wool in million tonnes ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Hides output",
+            "type": "any",
+            "description": "Total output of hides in million tonnes ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Hay output ",
+            "type": "any",
+            "description": "Total output of hay in million tonnes ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of Arable Output (in current prices)",
+            "type": "any",
+            "description": "Share of arable output in total agricultural production, in current prices. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of Livestock Output (in current prices)",
+            "type": "any",
+            "description": "Share of livestock output in total agricultural production, in current prices ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of Arable Output (in constant 1700 prices)",
+            "type": "any",
+            "description": "Share of arable output in total agricultural production, in constant 1700 prices. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of Livestock Output (in constant 1700 prices)",
+            "type": "any",
+            "description": "Share of livestock output in total agricultural production, in constant 1700 prices. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
