@@ -1,0 +1,48 @@
+{
+  "name": "Diabetes prevalence relative to obesity & overweight - OWID based on WHO and WDI",
+  "title": "Diabetes prevalence relative to obesity & overweight - OWID based on WHO and WDI",
+  "id": 2764,
+  "description": "Data was derived by Our World in Data based on obesity and overweight statistics from the World Health Organization (WHO) Global Health Observatory, and diabetes prevalence from the World Bank, World Development Indicators (WDI).\n\nThe ratio of diabetes prevalence to obesity prevalence was derived by dividing the share of adults with diabetes (type I or II) by the share with a body-mass index (BMI) of 30 or over (which is defined as 'obese'). This was based on data across both sexes in adults aged 18+ years old.\n\nThe ratio of diabetes prevalence to overweight was derived in the same way, but using the share of adults with a BMI of 25 or over (which is defined as 'overweight'). \n\nObesity and overweight prevalence data was sourced from: http://apps.who.int/gho/data/node.home\nDiabetes prevalence data was sourced from: http://data.worldbank.org/data-catalog/world-development-indicators",
+  "sources": [
+    {
+      "name": "Diabetes prevalence relative to obesity & overweight - OWID based on WHO and WDI",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "Data was derived by Our World in Data based on obesity and overweight statistics from the World Health Organization (WHO) Global Health Observatory, and diabetes prevalence from the World Bank, World Development Indicators (WDI).\n\nThe ratio of diabetes prevalence to obesity prevalence was derived by dividing the share of adults with diabetes (type I or II) by the share with a body-mass index (BMI) of 30 or over (which is defined as 'obese'). This was based on data across both sexes in adults aged 18+ years old.\n\nThe ratio of diabetes prevalence to overweight was derived in the same way, but using the share of adults with a BMI of 25 or over (which is defined as 'overweight'). \n\nObesity and overweight prevalence data was sourced from: http://apps.who.int/gho/data/node.home\nDiabetes prevalence data was sourced from: http://data.worldbank.org/data-catalog/world-development-indicators"
+    }
+  ],
+  "owidTags": [
+    "Obesity & BMI"
+  ],
+  "resources": [
+    {
+      "path": "Diabetes prevalence relative to obesity & overweight - OWID based on WHO and WDI.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Ratio of diabetes to obesity prevalence",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Ratio of diabetes to overweight prevalence",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
