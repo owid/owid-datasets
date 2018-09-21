@@ -1,0 +1,44 @@
+{
+  "name": "Wages in the manufacturing sector vs. several food prices in the US – U.S. Bureau of Labor Statistics (2013)",
+  "title": "Wages in the manufacturing sector vs. several food prices in the US – U.S. Bureau of Labor Statistics (2013)",
+  "id": 131,
+  "description": "Wages in the Manufacturing Sector vs. Several Food Prices USA  – BLS Data",
+  "sources": [
+    {
+      "name": "U.S. Bureau of Labor Statistics (2013)",
+      "dataPublishedBy": "U.S. Bureau of Labor Statistics, Consumer Expenditure Survey",
+      "dataPublisherSource": null,
+      "link": "http://www.bls.gov/opub/uscs/2002-03.pdf",
+      "retrievedDate": "01/01/2013",
+      "additionalInfo": "Wages in the Manufacturing Sector vs. Several Food Prices USA  – BLS Data"
+    }
+  ],
+  "owidTags": [
+    "Food Prices"
+  ],
+  "resources": [
+    {
+      "path": "Wages in the manufacturing sector vs. several food prices in the US – U.S. Bureau of Labor Statistics (2013).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Wage and Food Prices (U.S. Bureau of Labor Statistics (2013))",
+            "type": "any",
+            "description": "Wages in the Manufacturing Sector vs. Several Food Prices USA measured in US$. ",
+            "owidDisplaySettings": {
+              "unit": "(% of female children ages 7-14)"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
