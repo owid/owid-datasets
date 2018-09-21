@@ -1,0 +1,42 @@
+{
+  "name": "Global Hunger Index (IFPRI 2017)",
+  "title": "Global Hunger Index (IFPRI 2017)",
+  "id": 2472,
+  "description": "GHI is a composite index that combines data on prevalence of undernourishment, child stunting, child wasting and child mortality.",
+  "sources": [
+    {
+      "name": "International Food Policy Research Institute (IFPRI); Welthungerhilfe (WHH); Concern Worldwide, 2017, \"2017 Global Hunger Index Data\"",
+      "dataPublishedBy": "IFPRI, WHH, Concern Worldwide",
+      "dataPublisherSource": "UN, UNICEF, WHO, FAO data on undernourishment, child malnutrition and mortality",
+      "link": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZTCWYQ",
+      "retrievedDate": "21/02/2018",
+      "additionalInfo": "GHI is a composite index that combines data on prevalence of undernourishment, child stunting, child wasting and child mortality."
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Global Hunger Index (IFPRI 2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Global Hunger Index (IFPRI 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
