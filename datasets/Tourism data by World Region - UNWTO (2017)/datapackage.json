@@ -1,0 +1,44 @@
+{
+  "name": "Tourism data by World Region - UNWTO (2017)",
+  "title": "Tourism data by World Region - UNWTO (2017)",
+  "id": 437,
+  "description": "The latest data was presented in the UNWTO Tourism Barometer, Volume 15 Advance Release January 2015",
+  "sources": [
+    {
+      "name": "United Nations World Tourism Organization (UNWTO) (2017)",
+      "dataPublishedBy": "Our World In Data merged data presented by the United Nations World Tourism Organization (UNWTO) in the Tourism Barometer",
+      "dataPublisherSource": "Census data.",
+      "link": "http://mkt.unwto.org/barometer",
+      "retrievedDate": "24/04/2017",
+      "additionalInfo": "The latest data was presented in the UNWTO Tourism Barometer, Volume 15 Advance Release January 2015"
+    }
+  ],
+  "owidTags": [
+    "Traveling & Tourism"
+  ],
+  "resources": [
+    {
+      "path": "Tourism data by World Region - UNWTO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "International Tourist Arrivals (UNWTO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
