@@ -1,0 +1,76 @@
+{
+  "name": "Childhood deaths from five most lethal infectious diseases – IHME Global Burden of Disease (2017)",
+  "title": "Childhood deaths from five most lethal infectious diseases – IHME Global Burden of Disease (2017)",
+  "id": 388,
+  "description": "The estimates are calculated and published by the Institute for Health Metrics and Evaluation at the University of Washington.",
+  "sources": [
+    {
+      "name": "IHME Global Burden of Disease (child deaths by disease) (2017)",
+      "dataPublishedBy": "Institute for Health Metrics and Evaluation (IHME). GBD CompareDataVisualization.",
+      "dataPublisherSource": null,
+      "link": "http:// vizhub.healthdata.org/gbd-compare",
+      "retrievedDate": "13/04/2017",
+      "additionalInfo": "The estimates are calculated and published by the Institute for Health Metrics and Evaluation at the University of Washington."
+    }
+  ],
+  "owidTags": [
+    "Child Mortality"
+  ],
+  "resources": [
+    {
+      "path": "Childhood deaths from five most lethal infectious diseases – IHME Global Burden of Disease (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Malaria (IHME (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Diarrheal diseases (IHME (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Lower respiratory infections (IHME (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Measles (IHME (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "HIV/AIDS (IHME (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
