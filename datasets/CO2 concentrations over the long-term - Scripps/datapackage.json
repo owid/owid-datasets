@@ -1,0 +1,42 @@
+{
+  "name": "CO2 concentrations over the long-term - Scripps",
+  "title": "CO2 concentrations over the long-term - Scripps",
+  "id": 2750,
+  "description": "Spline of the atmospheric CO2 record based on ice core data before 1958 is sourced from (Ethridge et. al., 1996; MacFarling Meure et al., 2006) based on ice-core records and yearly averages of direct observations from Mauna Loa and the South Pole are used after 1958.      \n\nAdditional source:\nC. D. Keeling, S. C. Piper, R. B. Bacastow, M. Wahlen, T. P. Whorf, M. Heimann, and H. A. Meijer, Exchanges of atmospheric CO2 and 13CO2 with the terrestrial biosphere and oceans from 1978 to 2000. I. Global aspects, SIO Reference Series, No. 01-06, Scripps Institution of Oceanography, San Diego, 88 pages, 2001. ",
+  "sources": [
+    {
+      "name": "CO2 concentrations over the long-term - Scripps",
+      "dataPublishedBy": "Macfarling Meure, C. et al., 2006: Law Dome CO2, CH4 and N2O ice core records extended to 2000 years BP. Geophysical Research Letters, 33.",
+      "dataPublisherSource": null,
+      "link": "http://scrippsco2.ucsd.edu/data/atmospheric_co2/icecore_merged_products",
+      "retrievedDate": "9th April 2018",
+      "additionalInfo": "Spline of the atmospheric CO2 record based on ice core data before 1958 is sourced from (Ethridge et. al., 1996; MacFarling Meure et al., 2006) based on ice-core records and yearly averages of direct observations from Mauna Loa and the South Pole are used after 1958.      \n\nAdditional source:\nC. D. Keeling, S. C. Piper, R. B. Bacastow, M. Wahlen, T. P. Whorf, M. Heimann, and H. A. Meijer, Exchanges of atmospheric CO2 and 13CO2 with the terrestrial biosphere and oceans from 1978 to 2000. I. Global aspects, SIO Reference Series, No. 01-06, Scripps Institution of Oceanography, San Diego, 88 pages, 2001. "
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "CO2 concentrations over the long-term - Scripps.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "CO₂ concentration (Scripps)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
