@@ -1,0 +1,90 @@
+{
+  "name": "Alcohol expenditure in the USA long-term - USDA",
+  "title": "Alcohol expenditure in the USA long-term - USDA",
+  "id": 2769,
+  "description": "",
+  "sources": [
+    {
+      "name": "Alcohol expenditure in the USA long-term - USDA",
+      "dataPublishedBy": "United States Department of Agriculture (USDA) Economic Research Service (ERS)",
+      "dataPublisherSource": null,
+      "link": "https://www.ers.usda.gov/data-products/food-expenditures.aspx",
+      "retrievedDate": "27th April 2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Alcohol Consumption"
+  ],
+  "resources": [
+    {
+      "path": "Alcohol expenditure in the USA long-term - USDA.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Liquor stores (at home)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Food stores (at home)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Other (at home)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total (at home)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Restaurants & bars (away from home)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Hotels & motels (away from home)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "All other (away from home)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total (away from home)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total alcohol expenditure",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
