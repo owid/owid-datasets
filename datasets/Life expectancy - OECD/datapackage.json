@@ -1,0 +1,42 @@
+{
+  "name": "Life expectancy - OECD",
+  "title": "Life expectancy - OECD",
+  "id": 2709,
+  "description": "",
+  "sources": [
+    {
+      "name": "Life expectancy - OECD",
+      "dataPublishedBy": "OECD (2018), Life expectancy at birth (indicator).",
+      "dataPublisherSource": null,
+      "link": "https://data.oecd.org/healthstat/life-expectancy-at-birth.htm",
+      "retrievedDate": "28th March 2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Life Expectancy"
+  ],
+  "resources": [
+    {
+      "path": "Life expectancy - OECD.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Life Expectancy (OECD)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}

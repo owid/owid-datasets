@@ -1,0 +1,2239 @@
+Entity,Year,Life Expectancy (OECD)
+Australia,1960,70.9
+Australia,1961,71.2
+Australia,1962,71
+Australia,1963,71.1
+Australia,1964,70.7
+Australia,1965,71
+Australia,1966,70.8
+Australia,1967,71.2
+Australia,1968,70.9
+Australia,1969,71.1
+Australia,1970,70.8
+Australia,1971,71.6
+Australia,1972,72
+Australia,1973,72.1
+Australia,1974,71.9
+Australia,1975,72.7
+Australia,1976,72.8
+Australia,1977,73.4
+Australia,1978,73.7
+Australia,1979,74.3
+Australia,1980,74.6
+Australia,1981,74.9
+Australia,1982,74.7
+Australia,1983,75.5
+Australia,1984,75.8
+Australia,1985,75.6
+Australia,1986,76.1
+Australia,1987,76.3
+Australia,1988,76.3
+Australia,1989,76.5
+Australia,1990,77
+Australia,1991,77.4
+Australia,1992,77.5
+Australia,1993,78
+Australia,1994,78
+Australia,1995,77.9
+Australia,1996,78.2
+Australia,1997,78.5
+Australia,1998,78.7
+Australia,1999,79
+Australia,2000,79.3
+Australia,2001,79.7
+Australia,2002,80
+Australia,2003,80.3
+Australia,2004,80.6
+Australia,2005,80.9
+Australia,2006,81.1
+Australia,2007,81.4
+Australia,2008,81.5
+Australia,2009,81.6
+Australia,2010,81.8
+Australia,2011,82
+Australia,2012,82.1
+Australia,2013,82.2
+Australia,2014,82.4
+Australia,2015,82.5
+Austria,1960,68.7
+Austria,1961,69.7
+Austria,1962,69.4
+Austria,1963,69.6
+Austria,1964,70
+Austria,1965,69.8
+Austria,1966,70.2
+Austria,1967,70
+Austria,1968,70.2
+Austria,1969,69.9
+Austria,1970,70
+Austria,1971,70.2
+Austria,1972,70.6
+Austria,1973,71.1
+Austria,1974,71.1
+Austria,1975,71.2
+Austria,1976,71.7
+Austria,1977,72
+Austria,1978,72.1
+Austria,1979,72.4
+Austria,1980,72.6
+Austria,1981,72.9
+Austria,1982,73.1
+Austria,1983,73.1
+Austria,1984,73.7
+Austria,1985,73.9
+Austria,1986,74.4
+Austria,1987,74.9
+Austria,1988,75.3
+Austria,1989,75.4
+Austria,1990,75.7
+Austria,1991,75.7
+Austria,1992,75.9
+Austria,1993,76.2
+Austria,1994,76.5
+Austria,1995,76.8
+Austria,1996,77
+Austria,1997,77.4
+Austria,1998,77.8
+Austria,1999,78
+Austria,2000,78.2
+Austria,2001,78.7
+Austria,2002,78.8
+Austria,2003,78.7
+Austria,2004,79.3
+Austria,2005,79.4
+Austria,2006,80
+Austria,2007,80.3
+Austria,2008,80.5
+Austria,2009,80.4
+Austria,2010,80.7
+Austria,2011,81.1
+Austria,2012,81
+Austria,2013,81.2
+Austria,2014,81.6
+Austria,2015,81.3
+Belgium,1960,69.8
+Belgium,1961,70.6
+Belgium,1962,70.3
+Belgium,1963,70.1
+Belgium,1964,70.9
+Belgium,1965,70.7
+Belgium,1966,70.8
+Belgium,1967,71.1
+Belgium,1968,70.8
+Belgium,1969,70.9
+Belgium,1970,71.1
+Belgium,1971,71.2
+Belgium,1972,71.5
+Belgium,1973,71.7
+Belgium,1974,72.1
+Belgium,1975,72.1
+Belgium,1976,72.2
+Belgium,1977,72.9
+Belgium,1978,72.8
+Belgium,1979,73.3
+Belgium,1980,73.3
+Belgium,1981,73.7
+Belgium,1982,74
+Belgium,1983,74
+Belgium,1984,74.5
+Belgium,1985,74.6
+Belgium,1986,74.8
+Belgium,1987,75.5
+Belgium,1988,75.7
+Belgium,1989,75.7
+Belgium,1990,76.1
+Belgium,1991,76.3
+Belgium,1992,76.5
+Belgium,1993,76.5
+Belgium,1994,76.8
+Belgium,1995,77
+Belgium,1996,77.3
+Belgium,1997,77.5
+Belgium,1998,77.6
+Belgium,1999,77.7
+Belgium,2000,77.8
+Belgium,2001,78.1
+Belgium,2002,78.2
+Belgium,2003,78.2
+Belgium,2004,79
+Belgium,2005,79.1
+Belgium,2006,79.5
+Belgium,2007,79.9
+Belgium,2008,79.8
+Belgium,2009,80.1
+Belgium,2010,80.3
+Belgium,2011,80.7
+Belgium,2012,80.5
+Belgium,2013,80.7
+Belgium,2014,81.4
+Belgium,2015,81.1
+Brazil,1960,54.3
+Brazil,1961,54.8
+Brazil,1962,55.3
+Brazil,1963,55.8
+Brazil,1964,56.3
+Brazil,1965,56.8
+Brazil,1966,57.3
+Brazil,1967,57.8
+Brazil,1968,58.3
+Brazil,1969,58.8
+Brazil,1970,59.2
+Brazil,1971,59.6
+Brazil,1972,60
+Brazil,1973,60.3
+Brazil,1974,60.6
+Brazil,1975,60.9
+Brazil,1976,61.1
+Brazil,1977,61.4
+Brazil,1978,61.6
+Brazil,1979,61.8
+Brazil,1980,62.1
+Brazil,1981,62.4
+Brazil,1982,62.7
+Brazil,1983,63
+Brazil,1984,63.3
+Brazil,1985,63.7
+Brazil,1986,64
+Brazil,1987,64.3
+Brazil,1988,64.7
+Brazil,1989,65.1
+Brazil,1990,65.4
+Brazil,1991,65.8
+Brazil,1992,66.3
+Brazil,1993,66.7
+Brazil,1994,67.2
+Brazil,1995,67.7
+Brazil,1996,68.2
+Brazil,1997,68.7
+Brazil,1998,69.2
+Brazil,1999,69.7
+Brazil,2000,70
+Brazil,2001,70.5
+Brazil,2002,70.8
+Brazil,2003,71.2
+Brazil,2004,71.5
+Brazil,2005,71.8
+Brazil,2006,72.1
+Brazil,2007,72.4
+Brazil,2008,72.7
+Brazil,2009,73
+Brazil,2010,73.3
+Brazil,2011,73.6
+Brazil,2012,73.8
+Brazil,2013,74.1
+Brazil,2014,74.4
+Brazil,2015,74.7
+Canada,1961,71.3
+Canada,1966,72
+Canada,1971,72.9
+Canada,1976,73.9
+Canada,1979,75.1
+Canada,1980,75.3
+Canada,1981,75.5
+Canada,1982,75.6
+Canada,1983,75.9
+Canada,1984,76.2
+Canada,1985,76.3
+Canada,1986,76.5
+Canada,1987,76.6
+Canada,1988,76.8
+Canada,1989,77
+Canada,1990,77.2
+Canada,1991,77.5
+Canada,1992,77.7
+Canada,1993,77.8
+Canada,1994,77.9
+Canada,1995,77.9
+Canada,1996,78.1
+Canada,1997,78.3
+Canada,1998,78.5
+Canada,1999,78.7
+Canada,2000,79
+Canada,2001,79.2
+Canada,2002,79.4
+Canada,2003,79.6
+Canada,2004,79.8
+Canada,2005,80
+Canada,2006,80.3
+Canada,2007,80.4
+Canada,2008,80.6
+Canada,2009,80.8
+Canada,2010,81.1
+Canada,2011,81.3
+Canada,2012,81.5
+Canada,2013,81.7
+Chile,1970,62.3
+Chile,1990,72.9
+Chile,1991,74
+Chile,1992,74.5
+Chile,1993,74.5
+Chile,1994,75
+Chile,1995,74.9
+Chile,1996,75.2
+Chile,1997,75.7
+Chile,1998,75.8
+Chile,1999,76
+Chile,2000,76.8
+Chile,2001,76.8
+Chile,2002,77.2
+Chile,2003,77.2
+Chile,2004,77.2
+Chile,2005,77.6
+Chile,2006,78
+Chile,2007,77.5
+Chile,2008,78.1
+Chile,2009,78.2
+Chile,2010,78
+Chile,2011,78.7
+Chile,2012,78.7
+Chile,2013,79.5
+Chile,2014,79.7
+Chile,2015,79.1
+China,1960,43.4
+China,1961,43.7
+China,1962,44.4
+China,1963,45.6
+China,1964,47.2
+China,1965,49.2
+China,1966,51.3
+China,1967,53.5
+China,1968,55.5
+China,1969,57.2
+China,1970,58.7
+China,1971,60
+China,1972,61
+China,1973,61.9
+China,1974,62.8
+China,1975,63.6
+China,1976,64.3
+China,1977,65
+China,1978,65.6
+China,1979,66.1
+China,1980,66.6
+China,1981,67
+China,1982,67.3
+China,1983,67.7
+China,1984,68
+China,1985,68.2
+China,1986,68.4
+China,1987,68.6
+China,1988,68.8
+China,1989,68.9
+China,1990,69.1
+China,1991,69.2
+China,1992,69.4
+China,1993,69.6
+China,1994,69.7
+China,1995,70
+China,1996,70.2
+China,1997,70.6
+China,1998,70.9
+China,1999,71.3
+China,2000,71.7
+China,2001,72.2
+China,2002,72.6
+China,2003,73
+China,2004,73.4
+China,2005,73.8
+China,2006,74.1
+China,2007,74.3
+China,2008,74.6
+China,2009,74.8
+China,2010,75
+China,2011,75.2
+China,2012,75.4
+China,2013,75.6
+China,2014,75.8
+China,2015,76
+Colombia,1960,56.8
+Colombia,1961,57.3
+Colombia,1962,57.8
+Colombia,1963,58.2
+Colombia,1964,58.7
+Colombia,1965,59.1
+Colombia,1966,59.5
+Colombia,1967,59.9
+Colombia,1968,60.2
+Colombia,1969,60.6
+Colombia,1970,60.9
+Colombia,1971,61.3
+Colombia,1972,61.6
+Colombia,1973,62
+Colombia,1974,62.4
+Colombia,1975,62.8
+Colombia,1976,63.3
+Colombia,1977,63.8
+Colombia,1978,64.4
+Colombia,1979,65
+Colombia,1980,65.6
+Colombia,1981,66.1
+Colombia,1982,66.6
+Colombia,1983,67
+Colombia,1984,67.4
+Colombia,1985,67.7
+Colombia,1986,67.9
+Colombia,1987,68
+Colombia,1988,68.2
+Colombia,1989,68.3
+Colombia,1990,68.4
+Colombia,1991,68.6
+Colombia,1992,68.7
+Colombia,1993,69
+Colombia,1994,69.2
+Colombia,1995,69.5
+Colombia,1996,69.9
+Colombia,1997,70.2
+Colombia,1998,70.5
+Colombia,1999,70.8
+Colombia,2000,71
+Colombia,2001,71.3
+Colombia,2002,71.5
+Colombia,2003,71.8
+Colombia,2004,72
+Colombia,2005,72.3
+Colombia,2006,72.5
+Colombia,2007,72.7
+Colombia,2008,72.9
+Colombia,2009,73.1
+Colombia,2010,73.3
+Colombia,2011,73.5
+Colombia,2012,73.6
+Colombia,2013,73.8
+Colombia,2014,74
+Colombia,2015,74.2
+Costa Rica,1960,60.6
+Costa Rica,1961,61.3
+Costa Rica,1962,62
+Costa Rica,1963,62.7
+Costa Rica,1964,63.3
+Costa Rica,1965,63.9
+Costa Rica,1966,64.5
+Costa Rica,1967,65
+Costa Rica,1968,65.5
+Costa Rica,1969,66
+Costa Rica,1970,66.5
+Costa Rica,1971,67
+Costa Rica,1972,67.5
+Costa Rica,1973,68.1
+Costa Rica,1974,68.6
+Costa Rica,1975,69.2
+Costa Rica,1976,69.8
+Costa Rica,1977,70.4
+Costa Rica,1978,71
+Costa Rica,1979,71.6
+Costa Rica,1980,72.2
+Costa Rica,1981,72.8
+Costa Rica,1982,73.3
+Costa Rica,1983,73.8
+Costa Rica,1984,74.2
+Costa Rica,1985,74.5
+Costa Rica,1986,74.8
+Costa Rica,1987,75.1
+Costa Rica,1988,75.3
+Costa Rica,1989,75.5
+Costa Rica,1990,75.7
+Costa Rica,1991,75.9
+Costa Rica,1992,76.1
+Costa Rica,1993,76.3
+Costa Rica,1994,76.4
+Costa Rica,1995,76.6
+Costa Rica,1996,76.8
+Costa Rica,1997,77
+Costa Rica,1998,77.2
+Costa Rica,1999,77.3
+Costa Rica,2000,77.4
+Costa Rica,2001,77.6
+Costa Rica,2002,77.7
+Costa Rica,2003,77.8
+Costa Rica,2004,78
+Costa Rica,2005,78.1
+Costa Rica,2006,78.2
+Costa Rica,2007,78.3
+Costa Rica,2008,78.5
+Costa Rica,2009,78.6
+Costa Rica,2010,78.7
+Costa Rica,2011,78.9
+Costa Rica,2012,79.1
+Costa Rica,2013,79.2
+Costa Rica,2014,79.4
+Costa Rica,2015,79.6
+Czech Republic,1960,70.7
+Czech Republic,1961,70.7
+Czech Republic,1962,69.9
+Czech Republic,1963,70.5
+Czech Republic,1964,70.7
+Czech Republic,1965,70.4
+Czech Republic,1966,70.6
+Czech Republic,1967,70.5
+Czech Republic,1968,70.1
+Czech Republic,1969,69.6
+Czech Republic,1970,69.6
+Czech Republic,1971,69.8
+Czech Republic,1972,70.3
+Czech Republic,1973,70.2
+Czech Republic,1974,70.2
+Czech Republic,1975,70.6
+Czech Republic,1976,70.7
+Czech Republic,1977,70.8
+Czech Republic,1978,70.9
+Czech Republic,1979,70.9
+Czech Republic,1980,70.5
+Czech Republic,1981,70.8
+Czech Republic,1982,70.9
+Czech Republic,1983,70.8
+Czech Republic,1984,71
+Czech Republic,1985,71.2
+Czech Republic,1986,71.1
+Czech Republic,1987,71.6
+Czech Republic,1988,71.8
+Czech Republic,1989,71.9
+Czech Republic,1990,71.6
+Czech Republic,1991,72
+Czech Republic,1992,72.5
+Czech Republic,1993,72.9
+Czech Republic,1994,73.2
+Czech Republic,1995,73.3
+Czech Republic,1996,74
+Czech Republic,1997,74.1
+Czech Republic,1998,74.7
+Czech Republic,1999,74.9
+Czech Republic,2000,75.1
+Czech Republic,2001,75.3
+Czech Republic,2002,75.4
+Czech Republic,2003,75.3
+Czech Republic,2004,75.8
+Czech Republic,2005,76.1
+Czech Republic,2006,76.7
+Czech Republic,2007,77
+Czech Republic,2008,77.3
+Czech Republic,2009,77.4
+Czech Republic,2010,77.7
+Czech Republic,2011,78
+Czech Republic,2012,78.2
+Czech Republic,2013,78.3
+Czech Republic,2014,78.9
+Czech Republic,2015,78.7
+Denmark,1960,72.4
+Denmark,1967,72.6
+Denmark,1968,73
+Denmark,1969,73.2
+Denmark,1970,73.3
+Denmark,1971,73.3
+Denmark,1972,73.4
+Denmark,1973,73.6
+Denmark,1974,74
+Denmark,1975,74.2
+Denmark,1976,73.9
+Denmark,1977,74.9
+Denmark,1978,74.6
+Denmark,1979,74.4
+Denmark,1980,74.3
+Denmark,1981,74.4
+Denmark,1982,74.7
+Denmark,1983,74.6
+Denmark,1984,74.8
+Denmark,1985,74.6
+Denmark,1986,74.8
+Denmark,1987,74.9
+Denmark,1988,75
+Denmark,1989,75
+Denmark,1990,74.9
+Denmark,1991,75.3
+Denmark,1992,75.3
+Denmark,1993,75.2
+Denmark,1994,75.5
+Denmark,1995,75.3
+Denmark,1996,75.7
+Denmark,1997,76.1
+Denmark,1998,76.5
+Denmark,1999,76.6
+Denmark,2000,76.9
+Denmark,2001,77
+Denmark,2002,77.1
+Denmark,2003,77.4
+Denmark,2004,77.8
+Denmark,2005,78.3
+Denmark,2006,78.4
+Denmark,2007,78.4
+Denmark,2008,78.8
+Denmark,2009,79
+Denmark,2010,79.3
+Denmark,2011,79.9
+Denmark,2012,80.1
+Denmark,2013,80.4
+Denmark,2014,80.8
+Denmark,2015,80.8
+Estonia,1960,68.9
+Estonia,1961,69.2
+Estonia,1962,69.4
+Estonia,1963,69.5
+Estonia,1964,70.3
+Estonia,1965,70.3
+Estonia,1966,70.4
+Estonia,1967,70.6
+Estonia,1968,70.2
+Estonia,1969,69.9
+Estonia,1970,70
+Estonia,1971,70.3
+Estonia,1972,70.1
+Estonia,1973,70.4
+Estonia,1974,70.5
+Estonia,1975,69.9
+Estonia,1976,69.5
+Estonia,1977,69.6
+Estonia,1978,69.4
+Estonia,1979,69.2
+Estonia,1980,69.3
+Estonia,1981,69.1
+Estonia,1982,69.7
+Estonia,1983,69.6
+Estonia,1984,69.5
+Estonia,1985,69.6
+Estonia,1986,70.7
+Estonia,1987,70.7
+Estonia,1988,70.8
+Estonia,1989,70.3
+Estonia,1990,69.8
+Estonia,1991,69.7
+Estonia,1992,69.1
+Estonia,1993,68.2
+Estonia,1994,66.8
+Estonia,1995,67.9
+Estonia,1996,69.9
+Estonia,1997,70.1
+Estonia,1998,69.7
+Estonia,1999,70.6
+Estonia,2000,71
+Estonia,2001,70.9
+Estonia,2002,71.4
+Estonia,2003,71.8
+Estonia,2004,72.4
+Estonia,2005,72.9
+Estonia,2006,73.1
+Estonia,2007,73.2
+Estonia,2008,74.2
+Estonia,2009,75.2
+Estonia,2010,75.9
+Estonia,2011,76.4
+Estonia,2012,76.5
+Estonia,2013,77.3
+Estonia,2014,77.2
+Estonia,2015,77.7
+Finland,1960,69
+Finland,1963,69
+Finland,1968,69.8
+Finland,1970,70.8
+Finland,1971,70.1
+Finland,1972,70.7
+Finland,1973,71.2
+Finland,1974,71.2
+Finland,1975,71.7
+Finland,1976,72
+Finland,1977,72.4
+Finland,1978,73
+Finland,1979,73.2
+Finland,1980,73.6
+Finland,1981,73.9
+Finland,1982,74.6
+Finland,1983,74.4
+Finland,1984,74.8
+Finland,1985,74.5
+Finland,1986,74.8
+Finland,1987,74.8
+Finland,1988,74.8
+Finland,1989,75
+Finland,1990,75
+Finland,1991,75.5
+Finland,1992,75.7
+Finland,1993,75.8
+Finland,1994,76.6
+Finland,1995,76.6
+Finland,1996,76.9
+Finland,1997,77.1
+Finland,1998,77.3
+Finland,1999,77.5
+Finland,2000,77.7
+Finland,2001,78.2
+Finland,2002,78.3
+Finland,2003,78.5
+Finland,2004,79
+Finland,2005,79.1
+Finland,2006,79.5
+Finland,2007,79.6
+Finland,2008,79.9
+Finland,2009,80.1
+Finland,2010,80.2
+Finland,2011,80.6
+Finland,2012,80.7
+Finland,2013,81.1
+Finland,2014,81.3
+Finland,2015,81.6
+France,1960,70.3
+France,1961,71
+France,1962,70.5
+France,1963,70.5
+France,1964,71.4
+France,1965,71.3
+France,1966,71.5
+France,1967,71.5
+France,1968,71.5
+France,1969,71.3
+France,1970,72.2
+France,1971,72.1
+France,1972,72.4
+France,1973,72.5
+France,1974,72.8
+France,1975,73
+France,1976,73.2
+France,1977,73.8
+France,1978,73.9
+France,1979,74.2
+France,1980,74.3
+France,1981,74.5
+France,1982,74.8
+France,1983,74.8
+France,1984,75.3
+France,1985,75.4
+France,1986,75.7
+France,1987,76.3
+France,1988,76.6
+France,1989,76.7
+France,1990,77
+France,1991,77.2
+France,1992,77.5
+France,1993,77.6
+France,1994,78
+France,1995,78.1
+France,1996,78.3
+France,1997,78.6
+France,1998,78.8
+France,1999,78.9
+France,2000,79.2
+France,2001,79.3
+France,2002,79.4
+France,2003,79.3
+France,2004,80.3
+France,2005,80.4
+France,2006,81
+France,2007,81.2
+France,2008,81.4
+France,2009,81.5
+France,2010,81.8
+France,2011,82.3
+France,2012,82.1
+France,2013,82.3
+France,2014,82.8
+France,2015,82.4
+Germany,1960,69.1
+Germany,1961,69.7
+Germany,1962,69.9
+Germany,1963,70
+Germany,1964,70.6
+Germany,1965,70.5
+Germany,1966,70.6
+Germany,1967,70.9
+Germany,1968,70.5
+Germany,1969,70.3
+Germany,1970,70.6
+Germany,1971,70.8
+Germany,1972,71
+Germany,1973,71.3
+Germany,1974,71.5
+Germany,1975,71.4
+Germany,1976,71.8
+Germany,1977,72.5
+Germany,1978,72.4
+Germany,1979,72.8
+Germany,1980,72.9
+Germany,1981,73.2
+Germany,1982,73.5
+Germany,1983,73.8
+Germany,1984,74.3
+Germany,1985,74.4
+Germany,1986,74.6
+Germany,1987,75
+Germany,1988,75.2
+Germany,1989,75.4
+Germany,1990,75.3
+Germany,1991,75.5
+Germany,1992,76
+Germany,1993,76.1
+Germany,1994,76.4
+Germany,1995,76.6
+Germany,1996,76.9
+Germany,1997,77.3
+Germany,1998,77.7
+Germany,1999,77.9
+Germany,2000,78.2
+Germany,2001,78.5
+Germany,2002,78.5
+Germany,2003,78.6
+Germany,2004,79.2
+Germany,2005,79.4
+Germany,2006,79.8
+Germany,2007,80.1
+Germany,2008,80.2
+Germany,2009,80.3
+Germany,2010,80.5
+Germany,2011,80.5
+Germany,2012,80.6
+Germany,2013,80.6
+Germany,2014,81.2
+Germany,2015,80.7
+Greece,1961,72
+Greece,1962,71.7
+Greece,1963,72
+Greece,1964,71.9
+Greece,1965,72.4
+Greece,1966,72.6
+Greece,1967,72.3
+Greece,1968,72.4
+Greece,1969,73
+Greece,1970,73.8
+Greece,1971,74.2
+Greece,1972,73.8
+Greece,1973,74.1
+Greece,1974,74.6
+Greece,1975,74.5
+Greece,1976,74.5
+Greece,1977,74.7
+Greece,1978,75.2
+Greece,1979,75.5
+Greece,1980,75.3
+Greece,1981,75.7
+Greece,1982,75.9
+Greece,1983,75.7
+Greece,1984,76.2
+Greece,1985,76
+Greece,1986,76.5
+Greece,1987,76.3
+Greece,1988,76.8
+Greece,1989,77
+Greece,1990,77.1
+Greece,1991,77.3
+Greece,1992,77.2
+Greece,1993,77.6
+Greece,1994,77.8
+Greece,1995,77.8
+Greece,1996,78
+Greece,1997,78.4
+Greece,1998,78.4
+Greece,1999,78.5
+Greece,2000,78.6
+Greece,2001,79.1
+Greece,2002,79.2
+Greece,2003,79.3
+Greece,2004,79.4
+Greece,2005,79.7
+Greece,2006,79.9
+Greece,2007,79.7
+Greece,2008,80.3
+Greece,2009,80.4
+Greece,2010,80.7
+Greece,2011,80.8
+Greece,2012,80.7
+Greece,2013,81.4
+Greece,2014,81.5
+Greece,2015,81.1
+Hungary,1960,68.1
+Hungary,1961,69
+Hungary,1962,67.9
+Hungary,1963,69
+Hungary,1964,69.5
+Hungary,1965,69.1
+Hungary,1966,69.9
+Hungary,1967,69.5
+Hungary,1968,69.3
+Hungary,1969,69.4
+Hungary,1970,69.2
+Hungary,1971,69.1
+Hungary,1972,69.8
+Hungary,1973,69.6
+Hungary,1974,69.3
+Hungary,1975,69.4
+Hungary,1976,69.7
+Hungary,1977,70
+Hungary,1978,69.5
+Hungary,1979,69.7
+Hungary,1980,69.2
+Hungary,1981,69.3
+Hungary,1982,69.5
+Hungary,1983,69.1
+Hungary,1984,69.2
+Hungary,1985,69.2
+Hungary,1986,69.3
+Hungary,1987,69.8
+Hungary,1988,70.2
+Hungary,1989,69.6
+Hungary,1990,69.5
+Hungary,1991,69.6
+Hungary,1992,69.4
+Hungary,1993,69.4
+Hungary,1994,69.8
+Hungary,1995,70.1
+Hungary,1996,70.7
+Hungary,1997,71.1
+Hungary,1998,71.1
+Hungary,1999,71.2
+Hungary,2000,71.9
+Hungary,2001,72.5
+Hungary,2002,72.5
+Hungary,2003,72.6
+Hungary,2004,73
+Hungary,2005,73
+Hungary,2006,73.5
+Hungary,2007,73.6
+Hungary,2008,74.2
+Hungary,2009,74.4
+Hungary,2010,74.7
+Hungary,2011,75
+Hungary,2012,75.2
+Hungary,2013,75.7
+Hungary,2014,75.9
+Hungary,2015,75.7
+Iceland,1961,73.6
+Iceland,1962,73.8
+Iceland,1963,73.2
+Iceland,1964,73.6
+Iceland,1965,73.9
+Iceland,1966,73.4
+Iceland,1967,73.9
+Iceland,1968,74.1
+Iceland,1969,73.8
+Iceland,1970,74
+Iceland,1971,73.7
+Iceland,1972,74.5
+Iceland,1973,74.6
+Iceland,1974,74.6
+Iceland,1975,75.7
+Iceland,1976,77.1
+Iceland,1977,76.5
+Iceland,1978,76.7
+Iceland,1980,77
+Iceland,1981,76.6
+Iceland,1982,77.1
+Iceland,1983,77
+Iceland,1984,77.7
+Iceland,1985,77.7
+Iceland,1986,78.1
+Iceland,1987,77.4
+Iceland,1988,77.2
+Iceland,1989,78.2
+Iceland,1990,78.1
+Iceland,1991,78.1
+Iceland,1992,78.8
+Iceland,1993,79
+Iceland,1994,79.3
+Iceland,1995,78.1
+Iceland,1996,78.9
+Iceland,1997,79
+Iceland,1998,79.7
+Iceland,1999,79.4
+Iceland,2000,79.7
+Iceland,2001,80.8
+Iceland,2002,80.6
+Iceland,2003,81
+Iceland,2004,81.1
+Iceland,2005,81.6
+Iceland,2006,81.2
+Iceland,2007,81.5
+Iceland,2008,81.7
+Iceland,2009,81.8
+Iceland,2010,82
+Iceland,2011,82.4
+Iceland,2012,83
+Iceland,2013,82.1
+Iceland,2014,82.9
+Iceland,2015,82.5
+India,1960,41.2
+India,1961,41.8
+India,1962,42.4
+India,1963,43
+India,1964,43.7
+India,1965,44.3
+India,1966,45
+India,1967,45.7
+India,1968,46.4
+India,1969,47
+India,1970,47.7
+India,1971,48.4
+India,1972,49.1
+India,1973,49.8
+India,1974,50.4
+India,1975,51.1
+India,1976,51.7
+India,1977,52.3
+India,1978,52.9
+India,1979,53.4
+India,1980,53.9
+India,1981,54.3
+India,1982,54.8
+India,1983,55.1
+India,1984,55.5
+India,1985,55.9
+India,1986,56.2
+India,1987,56.6
+India,1988,57
+India,1989,57.5
+India,1990,58
+India,1991,58.5
+India,1992,59
+India,1993,59.5
+India,1994,60
+India,1995,60.5
+India,1996,60.9
+India,1997,61.4
+India,1998,61.8
+India,1999,62.3
+India,2000,62.6
+India,2001,63
+India,2002,63.4
+India,2003,63.8
+India,2004,64.1
+India,2005,64.5
+India,2006,64.9
+India,2007,65.3
+India,2008,65.7
+India,2009,66.1
+India,2010,66.5
+India,2011,66.9
+India,2012,67.3
+India,2013,67.7
+India,2014,68
+India,2015,68.3
+Indonesia,1960,48.7
+Indonesia,1961,49.3
+Indonesia,1962,49.9
+Indonesia,1963,50.5
+Indonesia,1964,51.1
+Indonesia,1965,51.7
+Indonesia,1966,52.3
+Indonesia,1967,52.9
+Indonesia,1968,53.4
+Indonesia,1969,54
+Indonesia,1970,54.6
+Indonesia,1971,55.1
+Indonesia,1972,55.7
+Indonesia,1973,56.2
+Indonesia,1974,56.8
+Indonesia,1975,57.3
+Indonesia,1976,57.8
+Indonesia,1977,58.3
+Indonesia,1978,58.7
+Indonesia,1979,59.2
+Indonesia,1980,59.6
+Indonesia,1981,60.1
+Indonesia,1982,60.5
+Indonesia,1983,60.9
+Indonesia,1984,61.2
+Indonesia,1985,61.6
+Indonesia,1986,61.9
+Indonesia,1987,62.3
+Indonesia,1988,62.6
+Indonesia,1989,62.9
+Indonesia,1990,63.3
+Indonesia,1991,63.7
+Indonesia,1992,64
+Indonesia,1993,64.4
+Indonesia,1994,64.7
+Indonesia,1995,65
+Indonesia,1996,65.3
+Indonesia,1997,65.6
+Indonesia,1998,65.9
+Indonesia,1999,66.1
+Indonesia,2000,66.2
+Indonesia,2001,66.4
+Indonesia,2002,66.6
+Indonesia,2003,66.8
+Indonesia,2004,67
+Indonesia,2005,67.2
+Indonesia,2006,67.4
+Indonesia,2007,67.6
+Indonesia,2008,67.8
+Indonesia,2009,68
+Indonesia,2010,68.1
+Indonesia,2011,68.3
+Indonesia,2012,68.5
+Indonesia,2013,68.7
+Indonesia,2014,68.9
+Indonesia,2015,69.1
+Ireland,1960,70
+Ireland,1970,71.2
+Ireland,1978,71.5
+Ireland,1979,72.3
+Ireland,1980,72.9
+Ireland,1981,72.9
+Ireland,1982,72.9
+Ireland,1985,73.4
+Ireland,1986,73.6
+Ireland,1987,74.5
+Ireland,1988,74.5
+Ireland,1989,74.5
+Ireland,1990,74.9
+Ireland,1991,75.1
+Ireland,1992,75.5
+Ireland,1993,75.3
+Ireland,1994,75.9
+Ireland,1995,75.6
+Ireland,1996,75.9
+Ireland,1997,76.1
+Ireland,1998,76.3
+Ireland,1999,76.2
+Ireland,2000,76.6
+Ireland,2001,77.2
+Ireland,2002,77.7
+Ireland,2003,78.2
+Ireland,2004,78.6
+Ireland,2005,79
+Ireland,2006,79.3
+Ireland,2007,79.7
+Ireland,2008,80.2
+Ireland,2009,80.3
+Ireland,2010,80.8
+Ireland,2011,80.8
+Ireland,2012,80.9
+Ireland,2013,81.1
+Ireland,2014,81.4
+Ireland,2015,81.5
+Israel,1971,71.8
+Israel,1972,71.5
+Israel,1973,71.7
+Israel,1974,71.7
+Israel,1975,72.1
+Israel,1976,73
+Israel,1977,73
+Israel,1978,73.3
+Israel,1979,73.6
+Israel,1980,73.9
+Israel,1981,74.3
+Israel,1982,74.2
+Israel,1983,74.5
+Israel,1984,74.9
+Israel,1985,75.3
+Israel,1986,75
+Israel,1987,75.3
+Israel,1988,75.7
+Israel,1989,76.4
+Israel,1990,76.7
+Israel,1991,76.8
+Israel,1992,76.6
+Israel,1993,77.2
+Israel,1994,77.5
+Israel,1995,77.5
+Israel,1996,78.2
+Israel,1997,78.1
+Israel,1998,78.2
+Israel,1999,78.5
+Israel,2000,78.8
+Israel,2001,79.3
+Israel,2002,79.5
+Israel,2003,79.7
+Israel,2004,80.2
+Israel,2005,80.2
+Israel,2006,80.6
+Israel,2007,80.6
+Israel,2008,81
+Israel,2009,81.5
+Israel,2010,81.7
+Israel,2011,81.7
+Israel,2012,81.8
+Israel,2013,82.1
+Israel,2014,82.2
+Israel,2015,82.1
+Italy,1961,69.8
+Italy,1971,72
+Italy,1974,72.6
+Italy,1975,72.7
+Italy,1976,72.8
+Italy,1977,73.4
+Italy,1978,73.8
+Italy,1979,74.1
+Italy,1980,74
+Italy,1981,74.3
+Italy,1982,74.7
+Italy,1983,74.8
+Italy,1984,75
+Italy,1985,75.6
+Italy,1986,75.9
+Italy,1987,76.3
+Italy,1988,76.5
+Italy,1989,76.9
+Italy,1990,77.1
+Italy,1991,77.1
+Italy,1992,77.5
+Italy,1993,77.8
+Italy,1994,78
+Italy,1995,78.3
+Italy,1996,78.6
+Italy,1997,78.9
+Italy,1998,79.1
+Italy,1999,79.5
+Italy,2000,79.9
+Italy,2001,80.2
+Italy,2002,80.3
+Italy,2003,80.1
+Italy,2004,80.9
+Italy,2005,80.9
+Italy,2006,81.4
+Italy,2007,81.5
+Italy,2008,81.6
+Italy,2009,81.7
+Italy,2010,82.1
+Italy,2011,82.3
+Italy,2012,82.3
+Italy,2013,82.8
+Italy,2014,83.2
+Italy,2015,82.6
+Japan,1960,67.8
+Japan,1961,68.4
+Japan,1962,68.7
+Japan,1963,69.8
+Japan,1964,70.3
+Japan,1965,70.3
+Japan,1966,71
+Japan,1967,71.5
+Japan,1968,71.7
+Japan,1969,71.9
+Japan,1970,72
+Japan,1971,72.9
+Japan,1972,73.2
+Japan,1973,73.4
+Japan,1974,73.7
+Japan,1975,74.3
+Japan,1976,74.8
+Japan,1977,75.3
+Japan,1978,75.7
+Japan,1979,76.2
+Japan,1980,76.1
+Japan,1981,76.5
+Japan,1982,76.9
+Japan,1983,77
+Japan,1984,77.4
+Japan,1985,77.6
+Japan,1986,78.1
+Japan,1987,78.5
+Japan,1988,78.4
+Japan,1989,78.8
+Japan,1990,78.9
+Japan,1991,79.1
+Japan,1992,79.2
+Japan,1993,79.4
+Japan,1994,79.8
+Japan,1995,79.6
+Japan,1996,80.3
+Japan,1997,80.5
+Japan,1998,80.6
+Japan,1999,80.6
+Japan,2000,81.2
+Japan,2001,81.5
+Japan,2002,81.8
+Japan,2003,81.9
+Japan,2004,82.1
+Japan,2005,82
+Japan,2006,82.4
+Japan,2007,82.6
+Japan,2008,82.7
+Japan,2009,83
+Japan,2010,82.9
+Japan,2011,82.7
+Japan,2012,83.2
+Japan,2013,83.4
+Japan,2014,83.7
+Japan,2015,83.9
+Latvia,2002,70.1
+Latvia,2003,70.5
+Latvia,2004,70.8
+Latvia,2005,70.6
+Latvia,2006,70.6
+Latvia,2007,70.8
+Latvia,2008,72
+Latvia,2009,72.6
+Latvia,2010,73
+Latvia,2011,73.7
+Latvia,2012,73.9
+Latvia,2013,74.1
+Latvia,2014,74.3
+Latvia,2015,74.6
+Lithuania,1970,70.9
+Lithuania,1971,71.9
+Lithuania,1972,71.2
+Lithuania,1973,71.5
+Lithuania,1974,71.4
+Lithuania,1975,71
+Lithuania,1976,71
+Lithuania,1977,70.9
+Lithuania,1978,70.6
+Lithuania,1979,70.5
+Lithuania,1980,70.4
+Lithuania,1981,70.4
+Lithuania,1982,70.8
+Lithuania,1983,70.7
+Lithuania,1984,70.2
+Lithuania,1985,70.5
+Lithuania,1986,72.1
+Lithuania,1987,72
+Lithuania,1988,71.9
+Lithuania,1989,71.6
+Lithuania,1990,71.4
+Lithuania,1991,70.6
+Lithuania,1992,70.4
+Lithuania,1993,69.1
+Lithuania,1994,68.7
+Lithuania,1995,69.2
+Lithuania,1996,70.3
+Lithuania,1997,71.1
+Lithuania,1998,71.4
+Lithuania,1999,71.7
+Lithuania,2000,72.1
+Lithuania,2001,71.7
+Lithuania,2002,71.8
+Lithuania,2003,72.1
+Lithuania,2004,72
+Lithuania,2005,71.3
+Lithuania,2006,71.1
+Lithuania,2007,70.9
+Lithuania,2008,71.8
+Lithuania,2009,72.9
+Lithuania,2010,73.3
+Lithuania,2011,73.7
+Lithuania,2012,74
+Lithuania,2013,74.1
+Lithuania,2014,74.7
+Lithuania,2015,74.5
+Luxembourg,1960,69.4
+Luxembourg,1971,69.7
+Luxembourg,1972,70.9
+Luxembourg,1973,70.8
+Luxembourg,1974,70.8
+Luxembourg,1975,70.8
+Luxembourg,1976,70.8
+Luxembourg,1977,72.2
+Luxembourg,1978,72.1
+Luxembourg,1979,72.8
+Luxembourg,1980,72.8
+Luxembourg,1981,72.6
+Luxembourg,1982,72.7
+Luxembourg,1983,73.5
+Luxembourg,1984,73.3
+Luxembourg,1985,73.8
+Luxembourg,1986,74.7
+Luxembourg,1987,74.3
+Luxembourg,1988,75
+Luxembourg,1989,74.8
+Luxembourg,1990,75.6
+Luxembourg,1991,75.7
+Luxembourg,1992,75.3
+Luxembourg,1993,75.9
+Luxembourg,1994,76.6
+Luxembourg,1995,76.8
+Luxembourg,1996,76.8
+Luxembourg,1997,77
+Luxembourg,1998,77.3
+Luxembourg,1999,77.9
+Luxembourg,2000,78
+Luxembourg,2001,77.9
+Luxembourg,2002,78.1
+Luxembourg,2003,77.8
+Luxembourg,2004,79.2
+Luxembourg,2005,79.5
+Luxembourg,2006,79.4
+Luxembourg,2007,79.5
+Luxembourg,2008,80.6
+Luxembourg,2009,80.7
+Luxembourg,2010,80.7
+Luxembourg,2011,81.1
+Luxembourg,2012,81.5
+Luxembourg,2013,81.9
+Luxembourg,2014,82.3
+Luxembourg,2015,82.4
+Mexico,1960,57.5
+Mexico,1961,58.2
+Mexico,1962,58.8
+Mexico,1963,59.3
+Mexico,1964,59.9
+Mexico,1965,60.3
+Mexico,1966,60.7
+Mexico,1967,61
+Mexico,1968,61.3
+Mexico,1969,61.6
+Mexico,1970,60.9
+Mexico,1971,62.4
+Mexico,1972,63.1
+Mexico,1973,63.7
+Mexico,1974,64.2
+Mexico,1975,64.7
+Mexico,1976,65.2
+Mexico,1977,65.7
+Mexico,1978,66.1
+Mexico,1979,66.6
+Mexico,1980,67.2
+Mexico,1981,67.7
+Mexico,1982,68.2
+Mexico,1983,68.6
+Mexico,1984,69.1
+Mexico,1985,69.5
+Mexico,1986,69.9
+Mexico,1987,70.2
+Mexico,1988,70.6
+Mexico,1989,70.8
+Mexico,1990,70.5
+Mexico,1991,70.9
+Mexico,1992,71.3
+Mexico,1993,71.7
+Mexico,1994,72
+Mexico,1995,72.3
+Mexico,1996,72.5
+Mexico,1997,72.8
+Mexico,1998,73
+Mexico,1999,73.2
+Mexico,2000,73.3
+Mexico,2001,73.5
+Mexico,2002,73.6
+Mexico,2003,73.8
+Mexico,2004,73.9
+Mexico,2005,74
+Mexico,2006,74.1
+Mexico,2007,74.2
+Mexico,2008,74.1
+Mexico,2009,74
+Mexico,2010,74.1
+Mexico,2011,74.2
+Mexico,2012,74.4
+Mexico,2013,74.6
+Mexico,2014,74.8
+Mexico,2015,75
+Netherlands,1960,73.5
+Netherlands,1961,73.8
+Netherlands,1962,73.4
+Netherlands,1963,73.4
+Netherlands,1964,73.8
+Netherlands,1965,73.6
+Netherlands,1966,73.6
+Netherlands,1967,73.9
+Netherlands,1968,73.7
+Netherlands,1969,73.6
+Netherlands,1970,73.7
+Netherlands,1971,73.9
+Netherlands,1972,73.8
+Netherlands,1973,74.2
+Netherlands,1974,74.6
+Netherlands,1975,74.6
+Netherlands,1976,74.7
+Netherlands,1977,75.3
+Netherlands,1978,75.3
+Netherlands,1979,75.7
+Netherlands,1980,75.9
+Netherlands,1981,76
+Netherlands,1982,76.1
+Netherlands,1983,76.3
+Netherlands,1984,76.4
+Netherlands,1985,76.5
+Netherlands,1986,76.4
+Netherlands,1987,76.9
+Netherlands,1988,77.1
+Netherlands,1989,76.9
+Netherlands,1990,77
+Netherlands,1991,77.2
+Netherlands,1992,77.4
+Netherlands,1993,77.1
+Netherlands,1994,77.5
+Netherlands,1995,77.6
+Netherlands,1996,77.6
+Netherlands,1997,78
+Netherlands,1998,78
+Netherlands,1999,77.9
+Netherlands,2000,78.2
+Netherlands,2001,78.3
+Netherlands,2002,78.4
+Netherlands,2003,78.7
+Netherlands,2004,79.2
+Netherlands,2005,79.5
+Netherlands,2006,79.9
+Netherlands,2007,80.3
+Netherlands,2008,80.5
+Netherlands,2009,80.8
+Netherlands,2010,81
+Netherlands,2011,81.3
+Netherlands,2012,81.2
+Netherlands,2013,81.4
+Netherlands,2014,81.8
+Netherlands,2015,81.6
+New Zealand,1961,71.1
+New Zealand,1962,71.2
+New Zealand,1963,71.2
+New Zealand,1964,71.2
+New Zealand,1965,71.2
+New Zealand,1966,71.3
+New Zealand,1967,71.4
+New Zealand,1968,71.4
+New Zealand,1969,71.5
+New Zealand,1970,71.5
+New Zealand,1971,71.6
+New Zealand,1972,71.7
+New Zealand,1973,71.8
+New Zealand,1974,72
+New Zealand,1975,72.1
+New Zealand,1976,72.3
+New Zealand,1977,72.5
+New Zealand,1978,72.7
+New Zealand,1979,72.9
+New Zealand,1980,73.2
+New Zealand,1981,73.4
+New Zealand,1982,73.6
+New Zealand,1983,73.7
+New Zealand,1984,73.8
+New Zealand,1985,74
+New Zealand,1986,74.1
+New Zealand,1987,74.5
+New Zealand,1988,74.8
+New Zealand,1989,75.2
+New Zealand,1990,75.5
+New Zealand,1991,75.8
+New Zealand,1992,76.1
+New Zealand,1993,76.3
+New Zealand,1994,76.6
+New Zealand,1995,76.8
+New Zealand,1996,77.1
+New Zealand,1997,77.4
+New Zealand,1998,77.7
+New Zealand,1999,78.1
+New Zealand,2000,78.4
+New Zealand,2001,78.7
+New Zealand,2002,79
+New Zealand,2003,79.3
+New Zealand,2004,79.6
+New Zealand,2005,79.8
+New Zealand,2006,80.1
+New Zealand,2007,80.3
+New Zealand,2008,80.5
+New Zealand,2009,80.7
+New Zealand,2010,80.8
+New Zealand,2011,81
+New Zealand,2012,81.2
+New Zealand,2013,81.4
+New Zealand,2014,81.5
+New Zealand,2015,81.7
+Norway,1960,73.8
+Norway,1961,73.8
+Norway,1962,73.7
+Norway,1963,73.4
+Norway,1964,73.9
+Norway,1965,74
+Norway,1966,74.3
+Norway,1967,74.3
+Norway,1968,74.2
+Norway,1969,74
+Norway,1970,74.4
+Norway,1971,74.4
+Norway,1972,74.6
+Norway,1973,74.7
+Norway,1974,75.1
+Norway,1975,75.1
+Norway,1976,75.3
+Norway,1977,75.7
+Norway,1978,75.8
+Norway,1979,75.8
+Norway,1980,75.9
+Norway,1981,76.1
+Norway,1982,76.2
+Norway,1983,76.3
+Norway,1984,76.4
+Norway,1985,76.1
+Norway,1986,76.5
+Norway,1987,76.3
+Norway,1988,76.4
+Norway,1989,76.7
+Norway,1990,76.7
+Norway,1991,77.1
+Norway,1992,77.4
+Norway,1993,77.3
+Norway,1994,77.9
+Norway,1995,77.9
+Norway,1996,78.3
+Norway,1997,78.3
+Norway,1998,78.5
+Norway,1999,78.4
+Norway,2000,78.8
+Norway,2001,78.9
+Norway,2002,79
+Norway,2003,79.6
+Norway,2004,80.1
+Norway,2005,80.3
+Norway,2006,80.6
+Norway,2007,80.6
+Norway,2008,80.8
+Norway,2009,81
+Norway,2010,81.2
+Norway,2011,81.4
+Norway,2012,81.5
+Norway,2013,81.8
+Norway,2014,82.2
+Norway,2015,82.4
+Poland,1960,67.8
+Poland,1961,67.9
+Poland,1962,67.5
+Poland,1963,68.5
+Poland,1964,68.7
+Poland,1965,69.5
+Poland,1966,69.9
+Poland,1967,69.5
+Poland,1968,70.3
+Poland,1969,69.8
+Poland,1970,70
+Poland,1971,69.7
+Poland,1972,70.8
+Poland,1973,70.7
+Poland,1974,71.2
+Poland,1975,70.6
+Poland,1976,70.7
+Poland,1977,70.5
+Poland,1978,70.5
+Poland,1979,70.9
+Poland,1980,70.2
+Poland,1981,71.2
+Poland,1982,71.2
+Poland,1983,71.1
+Poland,1984,70.9
+Poland,1985,71.1
+Poland,1986,71
+Poland,1987,71.5
+Poland,1988,71.5
+Poland,1989,71.2
+Poland,1990,70.8
+Poland,1991,70.5
+Poland,1992,71.1
+Poland,1993,71.6
+Poland,1994,71.8
+Poland,1995,72.1
+Poland,1996,72.4
+Poland,1997,72.8
+Poland,1998,73.2
+Poland,1999,73.2
+Poland,2000,73.8
+Poland,2001,74.2
+Poland,2002,74.6
+Poland,2003,74.7
+Poland,2004,74.9
+Poland,2005,75.1
+Poland,2006,75.3
+Poland,2007,75.4
+Poland,2008,75.7
+Poland,2009,75.8
+Poland,2010,76.5
+Poland,2011,76.8
+Poland,2012,76.9
+Poland,2013,77.1
+Poland,2014,77.7
+Poland,2015,77.6
+Portugal,1960,63.9
+Portugal,1961,62.7
+Portugal,1962,64.1
+Portugal,1963,64.7
+Portugal,1964,64.9
+Portugal,1965,65.8
+Portugal,1966,65.2
+Portugal,1967,66
+Portugal,1968,66.4
+Portugal,1969,65.9
+Portugal,1970,66.7
+Portugal,1971,66.4
+Portugal,1972,68.4
+Portugal,1973,67.5
+Portugal,1974,68.1
+Portugal,1975,68.4
+Portugal,1976,69
+Portugal,1977,70.1
+Portugal,1978,70.5
+Portugal,1979,71.3
+Portugal,1980,71.4
+Portugal,1981,71.7
+Portugal,1982,72.5
+Portugal,1983,72.4
+Portugal,1984,72.7
+Portugal,1985,73
+Portugal,1986,73.4
+Portugal,1987,73.8
+Portugal,1988,73.8
+Portugal,1989,74.4
+Portugal,1990,74.1
+Portugal,1991,74.1
+Portugal,1992,74.7
+Portugal,1993,74.6
+Portugal,1994,75.5
+Portugal,1995,75.4
+Portugal,1996,75.3
+Portugal,1997,75.8
+Portugal,1998,76
+Portugal,1999,76.3
+Portugal,2000,76.9
+Portugal,2001,77.2
+Portugal,2002,77.4
+Portugal,2003,77.5
+Portugal,2004,78.4
+Portugal,2005,78.2
+Portugal,2006,79
+Portugal,2007,79.2
+Portugal,2008,79.5
+Portugal,2009,79.7
+Portugal,2010,80
+Portugal,2011,80.6
+Portugal,2012,80.5
+Portugal,2013,80.8
+Portugal,2014,81.2
+Portugal,2015,81.2
+Russia,1960,66.2
+Russia,1961,66.7
+Russia,1962,67.1
+Russia,1963,67.4
+Russia,1964,67.7
+Russia,1965,67.8
+Russia,1966,67.9
+Russia,1967,68
+Russia,1968,68
+Russia,1969,68
+Russia,1970,68.3
+Russia,1971,68.5
+Russia,1972,68.4
+Russia,1973,68.4
+Russia,1974,68.5
+Russia,1975,67.9
+Russia,1976,67.6
+Russia,1977,67.5
+Russia,1978,67.5
+Russia,1979,67.3
+Russia,1980,67.2
+Russia,1981,67.4
+Russia,1982,68
+Russia,1983,67.8
+Russia,1984,67.3
+Russia,1985,68
+Russia,1986,69.5
+Russia,1987,69.6
+Russia,1988,69.6
+Russia,1989,69.3
+Russia,1990,69
+Russia,1991,68.8
+Russia,1992,67.8
+Russia,1993,65.3
+Russia,1994,64.3
+Russia,1995,64.9
+Russia,1996,66
+Russia,1997,66.9
+Russia,1998,67.2
+Russia,1999,66.1
+Russia,2000,65.7
+Russia,2001,65.6
+Russia,2002,65.3
+Russia,2003,65.2
+Russia,2004,65.6
+Russia,2005,65.7
+Russia,2006,66.9
+Russia,2007,67.7
+Russia,2008,68.1
+Russia,2009,68.8
+Russia,2010,69
+Russia,2011,69.8
+Russia,2012,70.2
+Russia,2013,70.7
+Russia,2014,70.9
+Russia,2015,71.3
+Slovakia,1960,70.3
+Slovakia,1961,70.9
+Slovakia,1962,70.4
+Slovakia,1963,70.8
+Slovakia,1964,71.2
+Slovakia,1965,70.4
+Slovakia,1966,70.6
+Slovakia,1967,71.2
+Slovakia,1968,70.7
+Slovakia,1969,70.1
+Slovakia,1970,70
+Slovakia,1971,70
+Slovakia,1972,70.5
+Slovakia,1973,70.1
+Slovakia,1974,70.3
+Slovakia,1975,70.5
+Slovakia,1976,70.6
+Slovakia,1977,70.6
+Slovakia,1978,70.6
+Slovakia,1979,70.9
+Slovakia,1980,70.6
+Slovakia,1981,70.9
+Slovakia,1982,71
+Slovakia,1983,70.7
+Slovakia,1984,71
+Slovakia,1985,71
+Slovakia,1986,71.2
+Slovakia,1987,71.4
+Slovakia,1988,71.5
+Slovakia,1989,71.3
+Slovakia,1990,71.2
+Slovakia,1991,71.2
+Slovakia,1992,71.6
+Slovakia,1993,72.1
+Slovakia,1994,72.5
+Slovakia,1995,72.5
+Slovakia,1996,72.9
+Slovakia,1997,72.9
+Slovakia,1998,72.8
+Slovakia,1999,73.2
+Slovakia,2000,73.4
+Slovakia,2001,73.6
+Slovakia,2002,73.8
+Slovakia,2003,73.8
+Slovakia,2004,74.2
+Slovakia,2005,74.2
+Slovakia,2006,74.4
+Slovakia,2007,74.5
+Slovakia,2008,75
+Slovakia,2009,75.3
+Slovakia,2010,75.6
+Slovakia,2011,76.1
+Slovakia,2012,76.2
+Slovakia,2013,76.5
+Slovakia,2014,76.9
+Slovakia,2015,76.7
+Slovenia,1970,68.7
+Slovenia,1982,71.2
+Slovenia,1983,71
+Slovenia,1984,71.4
+Slovenia,1985,71.9
+Slovenia,1986,72.4
+Slovenia,1987,72.4
+Slovenia,1988,73
+Slovenia,1989,73.4
+Slovenia,1990,73.8
+Slovenia,1991,73.5
+Slovenia,1992,73.6
+Slovenia,1993,73.5
+Slovenia,1994,74
+Slovenia,1995,74.7
+Slovenia,1996,75.1
+Slovenia,1997,75.1
+Slovenia,1998,75.3
+Slovenia,1999,75.7
+Slovenia,2000,76.1
+Slovenia,2001,76.4
+Slovenia,2002,76.6
+Slovenia,2003,76.4
+Slovenia,2004,77.2
+Slovenia,2005,77.4
+Slovenia,2006,78.3
+Slovenia,2007,78.3
+Slovenia,2008,79.1
+Slovenia,2009,79.3
+Slovenia,2010,79.8
+Slovenia,2011,80.1
+Slovenia,2012,80.2
+Slovenia,2013,80.4
+Slovenia,2014,81.2
+Slovenia,2015,80.9
+South Africa,1960,49.1
+South Africa,1961,49.5
+South Africa,1962,49.9
+South Africa,1963,50.3
+South Africa,1964,50.6
+South Africa,1965,51
+South Africa,1966,51.4
+South Africa,1967,51.8
+South Africa,1968,52.2
+South Africa,1969,52.6
+South Africa,1970,52.9
+South Africa,1971,53.3
+South Africa,1972,53.6
+South Africa,1973,53.9
+South Africa,1974,54.3
+South Africa,1975,54.7
+South Africa,1976,55.1
+South Africa,1977,55.5
+South Africa,1978,56
+South Africa,1979,56.5
+South Africa,1980,57.1
+South Africa,1981,57.7
+South Africa,1982,58.3
+South Africa,1983,58.9
+South Africa,1984,59.4
+South Africa,1985,60
+South Africa,1986,60.5
+South Africa,1987,61.1
+South Africa,1988,61.5
+South Africa,1989,61.9
+South Africa,1990,62.2
+South Africa,1991,62.4
+South Africa,1992,62.4
+South Africa,1993,62.3
+South Africa,1994,62
+South Africa,1995,61.5
+South Africa,1996,60.7
+South Africa,1997,59.7
+South Africa,1998,58.5
+South Africa,1999,57.2
+South Africa,2000,55.8
+South Africa,2001,54.6
+South Africa,2002,53.4
+South Africa,2003,52.5
+South Africa,2004,51.9
+South Africa,2005,51.6
+South Africa,2006,51.6
+South Africa,2007,52
+South Africa,2008,52.6
+South Africa,2009,53.5
+South Africa,2010,54.4
+South Africa,2011,55.3
+South Africa,2012,56.1
+South Africa,2013,56.7
+South Africa,2014,57.2
+South Africa,2015,57.4
+South Korea,1970,62.3
+South Korea,1971,62.7
+South Korea,1972,63.1
+South Korea,1973,63.5
+South Korea,1974,63.9
+South Korea,1975,64.3
+South Korea,1976,64.6
+South Korea,1977,65
+South Korea,1978,65.3
+South Korea,1979,65.6
+South Korea,1980,66.2
+South Korea,1981,66.7
+South Korea,1982,67.2
+South Korea,1983,67.7
+South Korea,1984,68.3
+South Korea,1985,68.9
+South Korea,1986,69.5
+South Korea,1987,70.1
+South Korea,1988,70.7
+South Korea,1989,71.2
+South Korea,1990,71.7
+South Korea,1991,72.2
+South Korea,1992,72.6
+South Korea,1993,73.1
+South Korea,1994,73.5
+South Korea,1995,73.8
+South Korea,1996,74.2
+South Korea,1997,74.7
+South Korea,1998,75.1
+South Korea,1999,75.5
+South Korea,2000,76
+South Korea,2001,76.5
+South Korea,2002,76.8
+South Korea,2003,77.3
+South Korea,2004,77.8
+South Korea,2005,78.2
+South Korea,2006,78.8
+South Korea,2007,79.2
+South Korea,2008,79.6
+South Korea,2009,80
+South Korea,2010,80.2
+South Korea,2011,80.6
+South Korea,2012,80.9
+South Korea,2013,81.4
+South Korea,2014,81.8
+South Korea,2015,82.1
+Spain,1960,69.8
+Spain,1970,72
+Spain,1975,73.4
+Spain,1976,73.7
+Spain,1977,74.2
+Spain,1978,74.4
+Spain,1979,74.9
+Spain,1980,75.4
+Spain,1981,75.7
+Spain,1982,76.3
+Spain,1983,76
+Spain,1984,76.4
+Spain,1985,76.4
+Spain,1986,76.7
+Spain,1987,76.9
+Spain,1988,76.9
+Spain,1989,77
+Spain,1990,77
+Spain,1991,77.1
+Spain,1992,77.6
+Spain,1993,77.7
+Spain,1994,78.1
+Spain,1995,78.1
+Spain,1996,78.3
+Spain,1997,78.8
+Spain,1998,78.9
+Spain,1999,78.8
+Spain,2000,79.3
+Spain,2001,79.8
+Spain,2002,79.9
+Spain,2003,79.7
+Spain,2004,80.4
+Spain,2005,80.3
+Spain,2006,81.1
+Spain,2007,81.2
+Spain,2008,81.5
+Spain,2009,81.9
+Spain,2010,82.4
+Spain,2011,82.6
+Spain,2012,82.5
+Spain,2013,83.2
+Spain,2014,83.3
+Spain,2015,83
+Sweden,1960,73.1
+Sweden,1961,73.5
+Sweden,1962,73.4
+Sweden,1963,73.6
+Sweden,1964,73.8
+Sweden,1965,73.9
+Sweden,1966,74.2
+Sweden,1967,74.2
+Sweden,1968,74.1
+Sweden,1969,74.2
+Sweden,1970,74.8
+Sweden,1971,74.8
+Sweden,1972,74.8
+Sweden,1973,75
+Sweden,1974,75.1
+Sweden,1975,75.2
+Sweden,1976,75.1
+Sweden,1977,75.6
+Sweden,1978,75.7
+Sweden,1979,75.7
+Sweden,1980,75.9
+Sweden,1981,76.2
+Sweden,1982,76.5
+Sweden,1983,76.7
+Sweden,1984,77
+Sweden,1985,76.8
+Sweden,1986,77.1
+Sweden,1987,77.3
+Sweden,1988,77.1
+Sweden,1989,77.8
+Sweden,1990,77.7
+Sweden,1991,77.9
+Sweden,1992,78.2
+Sweden,1993,78.2
+Sweden,1994,78.9
+Sweden,1995,79
+Sweden,1996,79.2
+Sweden,1997,79.4
+Sweden,1998,79.5
+Sweden,1999,79.6
+Sweden,2000,79.7
+Sweden,2001,79.9
+Sweden,2002,79.9
+Sweden,2003,80.3
+Sweden,2004,80.6
+Sweden,2005,80.7
+Sweden,2006,81
+Sweden,2007,81.1
+Sweden,2008,81.3
+Sweden,2009,81.5
+Sweden,2010,81.6
+Sweden,2011,81.9
+Sweden,2012,81.8
+Sweden,2013,82
+Sweden,2014,82.3
+Sweden,2015,82.3
+Switzerland,1960,71.4
+Switzerland,1961,71.8
+Switzerland,1962,71.3
+Switzerland,1963,71.3
+Switzerland,1964,72.2
+Switzerland,1965,72.3
+Switzerland,1966,72.5
+Switzerland,1967,72.8
+Switzerland,1968,72.7
+Switzerland,1969,72.7
+Switzerland,1970,73.1
+Switzerland,1971,73.3
+Switzerland,1972,73.8
+Switzerland,1973,74.1
+Switzerland,1974,74.4
+Switzerland,1975,74.8
+Switzerland,1976,74.9
+Switzerland,1977,75.4
+Switzerland,1978,75.4
+Switzerland,1979,75.7
+Switzerland,1980,75.7
+Switzerland,1981,75.9
+Switzerland,1982,76.2
+Switzerland,1983,76.2
+Switzerland,1984,76.9
+Switzerland,1985,77
+Switzerland,1986,77.1
+Switzerland,1987,77.5
+Switzerland,1988,77.5
+Switzerland,1989,77.7
+Switzerland,1990,77.5
+Switzerland,1991,77.8
+Switzerland,1992,78
+Switzerland,1993,78.4
+Switzerland,1994,78.6
+Switzerland,1995,78.7
+Switzerland,1996,79.1
+Switzerland,1997,79.3
+Switzerland,1998,79.6
+Switzerland,1999,79.8
+Switzerland,2000,79.9
+Switzerland,2001,80.4
+Switzerland,2002,80.6
+Switzerland,2003,80.6
+Switzerland,2004,81.2
+Switzerland,2005,81.4
+Switzerland,2006,81.7
+Switzerland,2007,82
+Switzerland,2008,82.2
+Switzerland,2009,82.3
+Switzerland,2010,82.6
+Switzerland,2011,82.8
+Switzerland,2012,82.8
+Switzerland,2013,82.9
+Switzerland,2014,83.3
+Switzerland,2015,83
+Turkey,1960,48.3
+Turkey,1961,49
+Turkey,1962,49.7
+Turkey,1963,50.3
+Turkey,1964,51
+Turkey,1965,51.6
+Turkey,1966,52.2
+Turkey,1967,52.9
+Turkey,1968,53.4
+Turkey,1969,53.8
+Turkey,1970,54.2
+Turkey,1971,54.6
+Turkey,1972,55
+Turkey,1973,55.4
+Turkey,1974,55.7
+Turkey,1975,56.1
+Turkey,1976,56.5
+Turkey,1977,56.9
+Turkey,1978,57.3
+Turkey,1979,57.7
+Turkey,1980,58.1
+Turkey,1981,58.5
+Turkey,1982,58.9
+Turkey,1983,59.7
+Turkey,1984,60.9
+Turkey,1985,62.1
+Turkey,1986,63.2
+Turkey,1987,64.4
+Turkey,1988,65.2
+Turkey,1989,65.7
+Turkey,1990,67.5
+Turkey,1991,67.8
+Turkey,1992,68.2
+Turkey,1993,68.5
+Turkey,1994,68.9
+Turkey,1995,69.3
+Turkey,1996,69.7
+Turkey,1997,70.1
+Turkey,1998,70.3
+Turkey,1999,70.7
+Turkey,2000,71.1
+Turkey,2001,71.5
+Turkey,2002,71.9
+Turkey,2003,72.3
+Turkey,2004,72.7
+Turkey,2005,73.1
+Turkey,2006,73.4
+Turkey,2007,73.7
+Turkey,2008,73.9
+Turkey,2009,74.1
+Turkey,2010,74.3
+Turkey,2011,74.6
+Turkey,2012,74.6
+Turkey,2013,78
+Turkey,2014,78
+Turkey,2015,78
+United Kingdom,1960,70.8
+United Kingdom,1961,70.7
+United Kingdom,1970,71.9
+United Kingdom,1971,71.9
+United Kingdom,1980,73.2
+United Kingdom,1981,73.8
+United Kingdom,1982,74.1
+United Kingdom,1983,74.3
+United Kingdom,1984,74.5
+United Kingdom,1985,74.7
+United Kingdom,1986,74.8
+United Kingdom,1987,75.2
+United Kingdom,1988,75.3
+United Kingdom,1989,75.4
+United Kingdom,1990,75.7
+United Kingdom,1991,75.9
+United Kingdom,1992,76.3
+United Kingdom,1993,76.2
+United Kingdom,1994,76.8
+United Kingdom,1995,76.7
+United Kingdom,1996,76.9
+United Kingdom,1997,77.2
+United Kingdom,1998,77.3
+United Kingdom,1999,77.5
+United Kingdom,2000,77.9
+United Kingdom,2001,78.2
+United Kingdom,2002,78.3
+United Kingdom,2003,78.4
+United Kingdom,2004,79
+United Kingdom,2005,79.2
+United Kingdom,2006,79.5
+United Kingdom,2007,79.7
+United Kingdom,2008,79.8
+United Kingdom,2009,80.4
+United Kingdom,2010,80.6
+United Kingdom,2011,81
+United Kingdom,2012,81
+United Kingdom,2013,81.1
+United Kingdom,2014,81.4
+United Kingdom,2015,81
+United States,1960,69.9
+United States,1961,70.4
+United States,1962,70.2
+United States,1963,70
+United States,1964,70.3
+United States,1965,70.3
+United States,1966,70.3
+United States,1967,70.7
+United States,1968,70.4
+United States,1969,70.6
+United States,1970,70.9
+United States,1971,71.2
+United States,1972,71.3
+United States,1973,71.5
+United States,1974,72.1
+United States,1975,72.7
+United States,1976,73
+United States,1977,73.4
+United States,1978,73.5
+United States,1979,73.9
+United States,1980,73.7
+United States,1981,74.1
+United States,1982,74.5
+United States,1983,74.6
+United States,1984,74.7
+United States,1985,74.7
+United States,1986,74.7
+United States,1987,74.9
+United States,1988,74.9
+United States,1989,75.1
+United States,1990,75.3
+United States,1991,75.5
+United States,1992,75.7
+United States,1993,75.5
+United States,1994,75.7
+United States,1995,75.7
+United States,1996,76.1
+United States,1997,76.5
+United States,1998,76.7
+United States,1999,76.7
+United States,2000,76.7
+United States,2001,76.9
+United States,2002,77
+United States,2003,77.1
+United States,2004,77.6
+United States,2005,77.6
+United States,2006,77.8
+United States,2007,78.1
+United States,2008,78.1
+United States,2009,78.5
+United States,2010,78.6
+United States,2011,78.7
+United States,2012,78.8
+United States,2013,78.8
+United States,2014,78.9
+United States,2015,78.8
