@@ -1,0 +1,66 @@
+{
+  "name": "Global meat projections to 2050 - FAO",
+  "title": "Global meat projections to 2050 - FAO",
+  "id": 2515,
+  "description": "Data extending from 1961-2013 is based on the UN Food and Agriculture (FAO) Statistics database: http://www.fao.org/faostat/en/\n\nProjections to 2050 are based on UN FAO projections under business-as-usual population, and forecasted economic growth models. This data is sourced from:\nAlexandratos, N., & Bruinsma, J. (2012). World agriculture towards 2030/2050: the 2012 revision (Vol. 12, No. 3). FAO, Rome: ESA Working paper. Available at: http://www.fao.org/docrep/016/ap106e/ap106e.pdf",
+  "sources": [
+    {
+      "name": "Global meat projections to 2050 - FAO",
+      "dataPublishedBy": "UN Food and Agriculture Organization (FAO)",
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "Data extending from 1961-2013 is based on the UN Food and Agriculture (FAO) Statistics database: http://www.fao.org/faostat/en/\n\nProjections to 2050 are based on UN FAO projections under business-as-usual population, and forecasted economic growth models. This data is sourced from:\nAlexandratos, N., & Bruinsma, J. (2012). World agriculture towards 2030/2050: the 2012 revision (Vol. 12, No. 3). FAO, Rome: ESA Working paper. Available at: http://www.fao.org/docrep/016/ap106e/ap106e.pdf"
+    }
+  ],
+  "owidTags": [
+    "Meat Consumption & Livestock Counts"
+  ],
+  "resources": [
+    {
+      "path": "Global meat projections to 2050 - FAO.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Sheep and goat",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Beef and Buffalo",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Pigmeat",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Poultry",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Eggs",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
