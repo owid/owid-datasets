@@ -1,0 +1,44 @@
+{
+  "name": "Homelessness prevalence - Toro et al. (2007)",
+  "title": "Homelessness prevalence - Toro et al. (2007)",
+  "id": 354,
+  "description": "Interviews took place at different points in time within and across countries. All interviews took place in the period 1999-2003. \r\n\r\nThe source provides the following information regarding the data-collecting process:\r\n\r\n\"Random samples of 250–435 adults were interviewed by telephone in five different nations (N = 1,546): Belgium, Germany, Italy, the UK, and the United States. The interview included questions on respondent attitudes, knowledge, and opinions regarding homelessness; respondents’ own personal experiences with homelessness and homeless people; and demographic characteristics of the respondents.\r\n\r\nRespondents’ personal experiences with homelessness were assessed by querying whether they had ever considered themselves homeless or in another precarious housing situation, following up with items directed at ascertaining the age at which they experienced homelessness, the duration of the episode of homelessness, and whether they were literally homeless (slept in a shelter, in a park) or 'precariously housed' (slept at a friend’s house because they had no other place to go).\"\r\n\r\nWe report estimates only for literal homelessness.",
+  "sources": [
+    {
+      "name": "Homelessness prevalence - Toro et al. (2007)",
+      "dataPublishedBy": "Toro, P. A., Tompsett, C. J., Lombardo, S., Philippot, P., Nachtergael, H., Galand, B., ... & MacKay, L. (2007). Homelessness in Europe and the United States: A comparison of prevalence and public opinion. Journal of Social Issues, 63(3), 505-524.",
+      "dataPublisherSource": "Telephone interviews.",
+      "link": "http://www.uclep.be/wp-content/uploads/pdf/Pub/Toro_JSI_2007.pdf",
+      "retrievedDate": "16/02/2017",
+      "additionalInfo": "Interviews took place at different points in time within and across countries. All interviews took place in the period 1999-2003. \r\n\r\nThe source provides the following information regarding the data-collecting process:\r\n\r\n\"Random samples of 250–435 adults were interviewed by telephone in five different nations (N = 1,546): Belgium, Germany, Italy, the UK, and the United States. The interview included questions on respondent attitudes, knowledge, and opinions regarding homelessness; respondents’ own personal experiences with homelessness and homeless people; and demographic characteristics of the respondents.\r\n\r\nRespondents’ personal experiences with homelessness were assessed by querying whether they had ever considered themselves homeless or in another precarious housing situation, following up with items directed at ascertaining the age at which they experienced homelessness, the duration of the episode of homelessness, and whether they were literally homeless (slept in a shelter, in a park) or 'precariously housed' (slept at a friend’s house because they had no other place to go).\"\r\n\r\nWe report estimates only for literal homelessness."
+    }
+  ],
+  "owidTags": [
+    "World Poverty"
+  ],
+  "resources": [
+    {
+      "path": "Homelessness prevalence - Toro et al. (2007).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of population with an episode of homelessness (Toro et al. (2007))",
+            "type": "any",
+            "description": "Share of the population who have ever been homeless.",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
