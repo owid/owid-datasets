@@ -1,0 +1,48 @@
+{
+  "name": "LIS Key Figures – Luxumbourg Income Study",
+  "title": "LIS Key Figures – Luxumbourg Income Study",
+  "id": 2484,
+  "description": "",
+  "sources": [
+    {
+      "name": "LIS Key Figures",
+      "dataPublishedBy": "LIS Cross-National Data Center",
+      "dataPublisherSource": "Survey data",
+      "link": "http://www.lisdatacenter.org/data-access/key-figures/",
+      "retrievedDate": "27/02/18",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "LIS Key Figures – Luxumbourg Income Study.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Gini, disposable household income (LIS Key Figures) ",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Poverty rate (<60% of median) (LIS Key Figures)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
