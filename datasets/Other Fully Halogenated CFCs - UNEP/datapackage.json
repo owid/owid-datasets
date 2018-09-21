@@ -1,0 +1,42 @@
+{
+  "name": "Other Fully Halogenated CFCs - UNEP",
+  "title": "Other Fully Halogenated CFCs - UNEP",
+  "id": 2728,
+  "description": "Ozone-depleting substance (ODS) consumption in units of tonnes of ODS, which is the amount of ODS consumed, multiplied by their respective ozone depleting potential value.",
+  "sources": [
+    {
+      "name": "Other Fully Halogenated CFCs - UNEP",
+      "dataPublishedBy": "United Nations Environment Programme (UNEP)",
+      "dataPublisherSource": null,
+      "link": "http://ozone.unep.org/Data_Access/",
+      "retrievedDate": "5th April 2018",
+      "additionalInfo": "Ozone-depleting substance (ODS) consumption in units of tonnes of ODS, which is the amount of ODS consumed, multiplied by their respective ozone depleting potential value."
+    }
+  ],
+  "owidTags": [
+    "Ozone Layer"
+  ],
+  "resources": [
+    {
+      "path": "Other Fully Halogenated CFCs - UNEP.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Other Fully Halogenated CFCs (UNEP)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
