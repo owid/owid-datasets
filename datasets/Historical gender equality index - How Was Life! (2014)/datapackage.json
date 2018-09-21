@@ -1,0 +1,42 @@
+{
+  "name": "Historical gender equality index - How Was Life? (2014)",
+  "title": "Historical gender equality index - How Was Life? (2014)",
+  "id": 2671,
+  "description": "The HGI is constructed by following Hausmann et al. (2012) who created the Global Gender Gap index (GGG). The composite index includes the gender differences in four dimensions, health, socio-economic resources, household and politics. Health is measured by life expectancy and sex ratios whereas socio-economic resources are captured by average years of education and labour force participation. The gender disparities in the household are captured by the marriage ages and the data on distribution of parliamentary seats between men and women is used as an indication of gender disparities in the politics. Each of these variables is presented in female/male ratio. Before creating the composite index, values above 1 were truncated to be 1 except for sex ratio where the equality benchmark is set to be 0.944. For health and socio-economic resources, we have two indicators capturing these dimensions. We have given a weight to each of these indicators, so that the variable with higher standard deviation would not get a higher weight in the sub-index. Thus we normalize the variables in each sub-index by first determining what a 1% point change would translate into in the standard deviations (calculated by dividing .01 by the standard deviation of each variable), then determining the weight to each variable. As a final step, the total of the four sub-indexes was taken, divided by four and multiplied by 100 for the ease of interpretation. A higher score in our index thus highlights less gender inequality in favour of women. A more detailed discussion of the composite index is provided in Dilli et al. (2014).\n\nNote: this is an expanded version compared to the one released in 2014. In line with the procedure required for the How was life report (Carmichael et al. 2014), only decennial averages for the 25 clio-infra countries were reported. This dataset contains all our observations.",
+  "sources": [
+    {
+      "name": "How Was Life? - Gender inequality since 1820 (2014)",
+      "dataPublishedBy": "How Was Life? - Gender inequality since 1980 (2014)",
+      "dataPublisherSource": "How Was Life? Gender inequality since 1980 - Carmichael, Dili,and Rijpma",
+      "link": "https://dspace.library.uu.nl/bitstream/handle/1874/306236/3014041ec016.pdf?sequence=1",
+      "retrievedDate": "21/03/2018",
+      "additionalInfo": "The HGI is constructed by following Hausmann et al. (2012) who created the Global Gender Gap index (GGG). The composite index includes the gender differences in four dimensions, health, socio-economic resources, household and politics. Health is measured by life expectancy and sex ratios whereas socio-economic resources are captured by average years of education and labour force participation. The gender disparities in the household are captured by the marriage ages and the data on distribution of parliamentary seats between men and women is used as an indication of gender disparities in the politics. Each of these variables is presented in female/male ratio. Before creating the composite index, values above 1 were truncated to be 1 except for sex ratio where the equality benchmark is set to be 0.944. For health and socio-economic resources, we have two indicators capturing these dimensions. We have given a weight to each of these indicators, so that the variable with higher standard deviation would not get a higher weight in the sub-index. Thus we normalize the variables in each sub-index by first determining what a 1% point change would translate into in the standard deviations (calculated by dividing .01 by the standard deviation of each variable), then determining the weight to each variable. As a final step, the total of the four sub-indexes was taken, divided by four and multiplied by 100 for the ease of interpretation. A higher score in our index thus highlights less gender inequality in favour of women. A more detailed discussion of the composite index is provided in Dilli et al. (2014).\n\nNote: this is an expanded version compared to the one released in 2014. In line with the procedure required for the How was life report (Carmichael et al. 2014), only decennial averages for the 25 clio-infra countries were reported. This dataset contains all our observations."
+    }
+  ],
+  "owidTags": [
+    "Economic Gender & Race Differences"
+  ],
+  "resources": [
+    {
+      "path": "Historical gender equality index - How Was Life? (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Regional averages of the composite gender equality index",
+            "type": "any",
+            "description": "The composite index includes the gender differences in four dimensions, health, socio-economic resources, household and politics. Health is measured by life expectancy and sex ratios whereas socio-economic resources are captured by average years of education and labour force participation. The gender disparities in the household are captured by the marriage ages and the data on distribution of parliamentary seats between men and women is used as an indication of gender disparities in the politics. Each of these variables is presented in female/male ratio.\n\nRegional averages of the composite gender equality index, where years correspond to the decadal average.\n\nAn index equal to 100 is perfect equality. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
