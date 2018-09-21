@@ -1,0 +1,66 @@
+{
+  "name": "Population by income group (World Bank (2017))",
+  "title": "Population by income group (World Bank (2017))",
+  "id": 1890,
+  "description": "PovcalNet Version.\r\nAll estimates use PovcalNet data from the update released 2017/10/10. This update includes several methodological changes with respect to previous versions. This includes an update of the underlying country-level data. You can find details here: http://iresearch.worldbank.org/PovcalNet/whatIsNew.aspx\r\n\r\nMethodology.\r\nPovcalNet allows calculating different poverty lines using 2011 PPPs for several reference years (1981, 1984, 1987, 1990, 1993, 1996, 1999, 2002, 2005, 2008, 2010, 2011, 2012 and 2013).\r\nWe calculated different poverty lines to define the consumption groups. For example, consumption group 1.25 - 1.9 is calculated as follows: 'total population living under the poverty line at 1.9 int-$ per day' minus 'total population living under the poverty line at 1.25 int-$ per day'. \r\n\r\nUnderlying source data.\r\nConsumption per capita is the preferred welfare indicator for the World Bank’s analysis of global poverty. But not all national statistical agencies report to the World Bank consistent estimates of consumption based on expenditure surveys. For about 25% of the countries, estimates correspond to income, rather than consumption.",
+  "sources": [
+    {
+      "name": "World Bank PovcalNet (2017)",
+      "dataPublishedBy": "Diana Beltekian based on 'PovcalNet: the on-line tool for poverty measurement developed by the Development Research Group of the World Bank'",
+      "dataPublisherSource": "World Bank, PovcalNet. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments.",
+      "link": "http://iresearch.worldbank.org/PovcalNet/povDuplicateWB.aspx",
+      "retrievedDate": "23/12/2012",
+      "additionalInfo": "PovcalNet Version.\r\nAll estimates use PovcalNet data from the update released 2017/10/10. This update includes several methodological changes with respect to previous versions. This includes an update of the underlying country-level data. You can find details here: http://iresearch.worldbank.org/PovcalNet/whatIsNew.aspx\r\n\r\nMethodology.\r\nPovcalNet allows calculating different poverty lines using 2011 PPPs for several reference years (1981, 1984, 1987, 1990, 1993, 1996, 1999, 2002, 2005, 2008, 2010, 2011, 2012 and 2013).\r\nWe calculated different poverty lines to define the consumption groups. For example, consumption group 1.25 - 1.9 is calculated as follows: 'total population living under the poverty line at 1.9 int-$ per day' minus 'total population living under the poverty line at 1.25 int-$ per day'. \r\n\r\nUnderlying source data.\r\nConsumption per capita is the preferred welfare indicator for the World Bank’s analysis of global poverty. But not all national statistical agencies report to the World Bank consistent estimates of consumption based on expenditure surveys. For about 25% of the countries, estimates correspond to income, rather than consumption."
+    }
+  ],
+  "owidTags": [
+    "Inequality between World Citizens"
+  ],
+  "resources": [
+    {
+      "path": "Population by income group (World Bank (2017)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "below 1.25$ a day (World Bank (2017))",
+            "type": "any",
+            "description": "The number of people living below 1.25$ a day using 2011 PPP.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "1.25 - 1.9$ a day (World Bank (2017))",
+            "type": "any",
+            "description": "The number of people living between 1.25-1.9$ a day using 2011 PPP.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "1.9 - 3.10$ a day (World Bank (2017))",
+            "type": "any",
+            "description": "The number of people living between 1.9 - 3.10$ a day using 2011 PPP.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "3.10 - 10$ a day (World Bank (2017))",
+            "type": "any",
+            "description": "The number of people living between 1.9 - 3.10$ a day using 2011 PPP.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "above 10$ a day (World Bank (2017))",
+            "type": "any",
+            "description": "The number of people living above 10$ a day using 2011 PPP.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
