@@ -1,0 +1,42 @@
+{
+  "name": "Mean years of schooling, women (15 to 49) – Our World In Data (2017)",
+  "title": "Mean years of schooling, women (15 to 49) – Our World In Data (2017)",
+  "id": 704,
+  "description": "Shown is the average of mean years of schooling for mean between 15 and 49 years of age. This is calculated as the average of the estimates published by Barro and Lee.",
+  "sources": [
+    {
+      "name": "Our World In Data (2017)",
+      "dataPublishedBy": "Our World In Data (2017)",
+      "dataPublisherSource": "Barro and Lee, census data",
+      "link": "http://www.barrolee.com/data/wholepop.htm",
+      "retrievedDate": "2017 August 26",
+      "additionalInfo": "Shown is the average of mean years of schooling for mean between 15 and 49 years of age. This is calculated as the average of the estimates published by Barro and Lee."
+    }
+  ],
+  "owidTags": [
+    "Global Rise of Education"
+  ],
+  "resources": [
+    {
+      "path": "Mean years of schooling, women (15 to 49) – Our World In Data (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Mean years of schooling, women (in reproductive age 15 to 49) (Our World In Data (2017))",
+            "type": "any",
+            "description": "Mean years of schooling for women in reproductive age between 15 to 49.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
