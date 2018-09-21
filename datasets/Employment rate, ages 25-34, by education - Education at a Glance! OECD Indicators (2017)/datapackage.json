@@ -1,0 +1,60 @@
+{
+  "name": "Employment rate, ages 25-34, by education - Education at a Glance: OECD Indicators (2017)",
+  "title": "Employment rate, ages 25-34, by education - Education at a Glance: OECD Indicators (2017)",
+  "id": 2871,
+  "description": "The year of reference is 2016 for all countries except for: Argentina (2014), Russia (2015), Brazil (2015), Chile (2015), Ireland (2015), Indonesia (2015), South Africa (2015), and Saudi Arabia (2014). \n\nData on Argentina should be used with caution. Data below 30 persons in the denominator are generally considered unreliable. Data below 5 persons in the numerator have been omitted due to confidentiality reasons. For further details on national data sources and reliability thresholds, see Table 3 in <a href=\"http://www.oecd.org/education/skills-beyond-school/EAG2017-Annex-3.pdf\" rel=\"noopener\" target=\"_blank\">Annex 3: Sources, methods and technical notes</a>\n\nNote: for the United Kingdom the OECD specifies \"Data for upper secondary attainment include completion of a sufficient volume and standard of programmes that would be classified individually as completion of intermediate upper secondary programmes (16% of the adults aged 25-64 are in this group).\"",
+  "sources": [
+    {
+      "name": "Education at a Glance 2017: OECD Indicators (2017)",
+      "dataPublishedBy": "OECD",
+      "dataPublisherSource": "National data sources",
+      "link": "https://www.oecd-ilibrary.org/education/education-at-a-glance-2017_eag-2017-en",
+      "retrievedDate": "07/08/2018",
+      "additionalInfo": "The year of reference is 2016 for all countries except for: Argentina (2014), Russia (2015), Brazil (2015), Chile (2015), Ireland (2015), Indonesia (2015), South Africa (2015), and Saudi Arabia (2014). \n\nData on Argentina should be used with caution. Data below 30 persons in the denominator are generally considered unreliable. Data below 5 persons in the numerator have been omitted due to confidentiality reasons. For further details on national data sources and reliability thresholds, see Table 3 in <a href=\"http://www.oecd.org/education/skills-beyond-school/EAG2017-Annex-3.pdf\" rel=\"noopener\" target=\"_blank\">Annex 3: Sources, methods and technical notes</a>\n\nNote: for the United Kingdom the OECD specifies \"Data for upper secondary attainment include completion of a sufficient volume and standard of programmes that would be classified individually as completion of intermediate upper secondary programmes (16% of the adults aged 25-64 are in this group).\""
+    }
+  ],
+  "owidTags": [
+    "Education"
+  ],
+  "resources": [
+    {
+      "path": "Employment rate, ages 25-34, by education - Education at a Glance: OECD Indicators (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Employment rate, ages 25-34, below upper secondary education (OECD (2017))",
+            "type": "any",
+            "description": "Employment rates of 25-34 year-olds with an educational attainment below upper secondary. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Employment rate, ages 25-34, upper secondary or post-secondary non-tertiary (vocational) education (OECD (2017))",
+            "type": "any",
+            "description": "Employment rate of 25-34 year-olds with an upper secondary of post-secondary non-tertiary, vocational education.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Employment rate, ages 25-34, upper secondary or post-secondary non-tertiary (general or no-distinction) education (OECD (2017))",
+            "type": "any",
+            "description": "Employment rate of 25-34 year-olds with an upper secondary of post-secondary non-tertiary, general or no-distinction education. \n\nNote: The label upper secondary or post-secondary non-tertiary (general or no distinction) refers to \"general\" for countries with a value for \"vocational\" and to \"no distinction\" for the others.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Employment rate, ages 25-34, tertiary education (OECD (2017))",
+            "type": "any",
+            "description": "Employment rate of 25-34 year-olds with a tertiary education.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
