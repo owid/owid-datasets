@@ -1,0 +1,102 @@
+{
+  "name": "Total number of workers by sector",
+  "title": "Total number of workers by sector",
+  "id": 1881,
+  "description": "",
+  "sources": [
+    {
+      "name": "Groningen Growth and Development Centre (2017)",
+      "dataPublishedBy": "Groningen Growth and Development Centre",
+      "dataPublisherSource": "National governments' statistics (for more information see https://www.rug.nl/ggdc/docs/10sector_sm_jan2015.pdf)",
+      "link": "https://www.rug.nl/ggdc/productivity/10-sector/",
+      "retrievedDate": "7 December 2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Total number of workers by sector.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of people working in agriculture (GGDC 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of people working in mining (GGDC 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of people working in manufacturing (GGDC 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of people working in utilities (GGDC 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of people working in construction (GGDC 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of people working in trade, restaurants and hotels (GGDC 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of people working in transport, storage and communication (GGDC 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of people working in finance, insurance, real estate and business services (GGDC 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of people working in government services (GGDC 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of people working in community, social and personal services (GGDC 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total number of people in all 10 sectors (GGDC 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
