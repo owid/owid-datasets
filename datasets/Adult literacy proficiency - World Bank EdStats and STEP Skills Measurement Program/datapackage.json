@@ -1,0 +1,42 @@
+{
+  "name": "Adult literacy proficiency - World Bank EdStats and STEP Skills Measurement Program",
+  "title": "Adult literacy proficiency - World Bank EdStats and STEP Skills Measurement Program",
+  "id": 2796,
+  "description": "To calculate the average score in adult literacy proficiency from the STEP surveys we have: \n<ul>\n<li>Calculated the mean literacy score for each individual in the survey (over 10 plausible value scores)</li>\n<li>Taken the sum of the mean literacy scores over all individuals</li>\n<li>Divided the aggregate literacy score by the number of individuals</li>\n</ul>\nThe STEP data for calculated average adult literacy (8 additional observations) is appended to the PIAAC scores from World Bank EdStats dataset. \n8 STEP observations include: Armenia (2013); Bolivia (2012); Colombia (2012); Georgia (2013); Ghana (2013); Kenya (2013); Ukraine (2012); and Vietnam (2012)\n\nAs the STEP methodology note outlines \"The STEP literacy assessment has been developed specifically for use in the context of developing countries, and it includes sets of questions taken from PIAAC, the International Adult Literacy Survey, and the Adult Literacy and Life Skills Survey. This overlap allows countries participating in the STEP program to compare their literacy results with those of over 30 other countries.\"\nFull citation: “Pierre, Gaelle; Sanchez Puerta, Maria Laura; Valerio, Alexandria; Rajadel, Tania. 2014. STEP Skills Measurement Surveys : Innovative Tools for Assessing Skills. Social protection and labor discussion paper;no. 1421. World Bank Group, Washington, DC. © World Bank. https://openknowledge.worldbank.org/handle/10986/19985 License: CC BY 3.0 IGO.”",
+  "sources": [
+    {
+      "name": "World Bank EdStats and the STEP Skills Measurement Program",
+      "dataPublishedBy": "World Bank EdStats and the World Bank Central Microdata Catalog",
+      "dataPublisherSource": "OECD Programme for the International Assessment of Adult Competencies (PIAAC) using survey data",
+      "link": "PIAAC: https://data.worldbank.org/data-catalog/ed-stats and STEP: http://microdata.worldbank.org/index.php/catalog/step",
+      "retrievedDate": "25/05/2018",
+      "additionalInfo": "To calculate the average score in adult literacy proficiency from the STEP surveys we have: \n<ul>\n<li>Calculated the mean literacy score for each individual in the survey (over 10 plausible value scores)</li>\n<li>Taken the sum of the mean literacy scores over all individuals</li>\n<li>Divided the aggregate literacy score by the number of individuals</li>\n</ul>\nThe STEP data for calculated average adult literacy (8 additional observations) is appended to the PIAAC scores from World Bank EdStats dataset. \n8 STEP observations include: Armenia (2013); Bolivia (2012); Colombia (2012); Georgia (2013); Ghana (2013); Kenya (2013); Ukraine (2012); and Vietnam (2012)\n\nAs the STEP methodology note outlines \"The STEP literacy assessment has been developed specifically for use in the context of developing countries, and it includes sets of questions taken from PIAAC, the International Adult Literacy Survey, and the Adult Literacy and Life Skills Survey. This overlap allows countries participating in the STEP program to compare their literacy results with those of over 30 other countries.\"\nFull citation: “Pierre, Gaelle; Sanchez Puerta, Maria Laura; Valerio, Alexandria; Rajadel, Tania. 2014. STEP Skills Measurement Surveys : Innovative Tools for Assessing Skills. Social protection and labor discussion paper;no. 1421. World Bank Group, Washington, DC. © World Bank. https://openknowledge.worldbank.org/handle/10986/19985 License: CC BY 3.0 IGO.”"
+    }
+  ],
+  "owidTags": [
+    "Literacy"
+  ],
+  "resources": [
+    {
+      "path": "Adult literacy proficiency - World Bank EdStats and STEP Skills Measurement Program.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Mean adult literacy proficiency (World Bank EdStats and STEP Skills Measurement Program)",
+            "type": "any",
+            "description": "PIAAC: Literacy is defined as the ability to understand, evaluate, use and engage with written texts to participate in society, to achieve one’s goals, and to develop one’s knowledge and potential. Literacy encompasses a range of skills from the decoding of written words and sentences to the comprehension, interpretation, and evaluation of complex texts. It does not, however, involve the production of text (writing). Information on the skills of adults with low levels of proficiency is provided by an assessment of reading components that covers text vocabulary, sentence comprehension and passage fluency. The target population for the survey was the non institutionalized population, aged 16-65 years, residing in the country at the time of data collection, irrespective of nationality, citizenship or language status. Literacy-related non-respondents are not included in the calculation of the mean scores which, thus, present an upper bound of the estimated literacy proficiency of the population. For more information, consult the OECD PIAAC website: http://www.oecd.org/site/piaac/\n\nSTEP: To calculate the average score in adult literacy proficiency from the STEP surveys we have: \n1. Calculated the mean literacy score for each individual in the survey (over 10 plausible value scores)\n2. Taken the sum of the mean literacy scores over all individuals\n3. Divided the aggregate literacy score by the number of individuals\n\nAs the STEP methodology note outlines \"The STEP literacy assessment has been developed specifically for use in the context of developing countries, and it includes sets of questions taken from PIAAC, the International Adult Literacy Survey, and the Adult Literacy and Life Skills Survey. This overlap allows countries participating in the STEP program to compare their literacy results with those of over 30 other countries.\"\nFull citation: “Pierre, Gaelle; Sanchez Puerta, Maria Laura; Valerio, Alexandria; Rajadel, Tania. 2014. STEP Skills Measurement Surveys : Innovative Tools for Assessing Skills. Social protection and labor discussion paper;no. 1421. World Bank Group, Washington, DC. © World Bank. https://openknowledge.worldbank.org/handle/10986/19985 License: CC BY 3.0 IGO.”",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
