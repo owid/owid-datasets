@@ -1,0 +1,78 @@
+{
+  "name": "Plastic imports by China & impact of ban - Brooks et al. (2018)",
+  "title": "Plastic imports by China & impact of ban - Brooks et al. (2018)",
+  "id": 2851,
+  "description": "Data represents two series related to Chinese plastic waste:\n\n- the estimated quantity of domestic waste generation, imported recycled waste, and total plastic waste to manage, measured in tonnes per year (from 2010 to 2016).\n\n- the projected cumulative quantity of plastic waste displaced as a result of the Chinese plastic imported ban (over the period 2018-2030). This is shown under scenarios of a 100%, 75% or 50% Chinese ban on plastic waste imports.",
+  "sources": [
+    {
+      "name": "Plastic imports by China & impact of ban - Brooks et al. (2018)",
+      "dataPublishedBy": "Brooks, A. L., Wang, S., & Jambeck, J. R. (2018). The Chinese import ban and its impact on global plastic waste trade. Science Advances, 4(6), eaat0131.",
+      "dataPublisherSource": null,
+      "link": "http://advances.sciencemag.org/content/4/6/eaat0131",
+      "retrievedDate": null,
+      "additionalInfo": "Data represents two series related to Chinese plastic waste:\n\n- the estimated quantity of domestic waste generation, imported recycled waste, and total plastic waste to manage, measured in tonnes per year (from 2010 to 2016).\n\n- the projected cumulative quantity of plastic waste displaced as a result of the Chinese plastic imported ban (over the period 2018-2030). This is shown under scenarios of a 100%, 75% or 50% Chinese ban on plastic waste imports."
+    }
+  ],
+  "owidTags": [
+    "Waste"
+  ],
+  "resources": [
+    {
+      "path": "Plastic imports by China & impact of ban - Brooks et al. (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Domestic plastic waste generated (tonnes)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Imported recycled waste (tonnes)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total waste to manage (tonnes)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of plastic waste imported (%)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Displaced plastic waste - 100% ban (tonnes)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Displaced plastic waste - 75% ban (tonnes)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Displaced plastic waste - 50% ban (tonnes)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
