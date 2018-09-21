@@ -1,0 +1,42 @@
+{
+  "name": "Difference in the value of goods exported to and imported by the US for 2016 (DOTS (2017))",
+  "title": "Difference in the value of goods exported to and imported by the US for 2016 (DOTS (2017))",
+  "id": 2519,
+  "description": "This data set consists of  differences between the value of goods that each country reports exporting to the US, and the value of goods that the US reports importing from the same countries. For example, for China, the figure in the chart corresponds to “Value of merchandise imports in US from China” minus “Value of merchandise exports from China to the US”. In all cases, values correspond to current US dollars. Asymmetries arise for different reasons, including the fact that exports are usually recorded in FOB prices, while imports are recorded in CIF prices.",
+  "sources": [
+    {
+      "name": "IMF DOTS (2017)",
+      "dataPublishedBy": "IMF",
+      "dataPublisherSource": "DOTS",
+      "link": "http://data.imf.org/?sk=9D6028D4-F14A-464C-A2F2-59B2CD424B85&sId=1514498277103",
+      "retrievedDate": "14/03/2018",
+      "additionalInfo": "This data set consists of  differences between the value of goods that each country reports exporting to the US, and the value of goods that the US reports importing from the same countries. For example, for China, the figure in the chart corresponds to “Value of merchandise imports in US from China” minus “Value of merchandise exports from China to the US”. In all cases, values correspond to current US dollars. Asymmetries arise for different reasons, including the fact that exports are usually recorded in FOB prices, while imports are recorded in CIF prices."
+    }
+  ],
+  "owidTags": [
+    "International Trade"
+  ],
+  "resources": [
+    {
+      "path": "Difference in the value of goods exported to and imported by the US for 2016 (DOTS (2017)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Difference in the value of goods exported to and imported by the US (DOTS (2017))",
+            "type": "any",
+            "description": "Differences between the value of goods that US reports importing from partner countries, and the value of the goods that each partner country reports exporting to the US (for 2016 only).",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}

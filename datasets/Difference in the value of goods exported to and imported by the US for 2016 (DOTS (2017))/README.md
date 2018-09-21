@@ -1,0 +1,3 @@
+# Difference in the value of goods exported to and imported by the US for 2016 (DOTS (2017))
+
+This data set consists of  differences between the value of goods that each country reports exporting to the US, and the value of goods that the US reports importing from the same countries. For example, for China, the figure in the chart corresponds to “Value of merchandise imports in US from China” minus “Value of merchandise exports from China to the US”. In all cases, values correspond to current US dollars. Asymmetries arise for different reasons, including the fact that exports are usually recorded in FOB prices, while imports are recorded in CIF prices.
