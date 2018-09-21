@@ -1,0 +1,48 @@
+{
+  "name": "Urban and rural share 1950-2050 - UN World Urbanization Prospects 2018",
+  "title": "Urban and rural share 1950-2050 - UN World Urbanization Prospects 2018",
+  "id": 2883,
+  "description": "",
+  "sources": [
+    {
+      "name": "UN World Urbanization Prospects 2018",
+      "dataPublishedBy": "UN Population Division",
+      "dataPublisherSource": "National data.",
+      "link": "https://esa.un.org/unpd/wup/Download/ (File 21: Proportion_Urban_Annual.xls)",
+      "retrievedDate": "21/08/2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Urbanization"
+  ],
+  "resources": [
+    {
+      "path": "Urban and rural share 1950-2050 - UN World Urbanization Prospects 2018.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Urban share (UN World Urbanization Prospects 2018)",
+            "type": "any",
+            "description": "Annual percentage of the population mid-year residing in urban areas. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Rural share (UN World Urbanization Prospects 2018)",
+            "type": "any",
+            "description": "Annual percentage of the population mid-year residing in rural areas. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
