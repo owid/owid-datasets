@@ -1,0 +1,52 @@
+{
+  "name": "Life satisfaction – World Value Survey (2014)",
+  "title": "Life satisfaction – World Value Survey (2014)",
+  "id": 438,
+  "description": "The data in the World Value Survey comes from surveys conducted in waves. The years in the dataset correspond to the end year in the corresponding wave. For example, observations from surveys in the wave 1981-1984 are dated 1984.\n\nThe dataset includes observations for Egypt. However, we have excluded these observations from our analysis. This is because the survey for Egypt in the wave labeled 2014 is from 2012, which was a year characterized by extreme political instability.",
+  "sources": [
+    {
+      "name": "World Value Survey (2014)",
+      "dataPublishedBy": "World Value Survey (Longitudinal Multiple-Wave file, version 2015)",
+      "dataPublisherSource": "Household surveys (representative at the national level)",
+      "link": "http://www.worldvaluessurvey.org/",
+      "retrievedDate": "27/07/2016",
+      "additionalInfo": "The data in the World Value Survey comes from surveys conducted in waves. The years in the dataset correspond to the end year in the corresponding wave. For example, observations from surveys in the wave 1981-1984 are dated 1984.\n\nThe dataset includes observations for Egypt. However, we have excluded these observations from our analysis. This is because the survey for Egypt in the wave labeled 2014 is from 2012, which was a year characterized by extreme political instability."
+    }
+  ],
+  "owidTags": [
+    "Happiness and Life Satisfaction"
+  ],
+  "resources": [
+    {
+      "path": "Life satisfaction – World Value Survey (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of people who are happy (World Value Survey 2014)",
+            "type": "any",
+            "description": "Share of people who say they are 'very happy' or 'rather happy'. \nFull question asks:  \"Taking all things together, would you say you are (i) Very happy, (ii) Rather happy, (iii) Not very happy, (iv) Not at all happy, (v) Don't know\".  ",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Share of people who are happy (World Value Survey 2014 - first and last waves)",
+            "type": "any",
+            "description": "Share of people who say they are 'very happy' or 'rather happy'. Full question asks: \"Taking all things together, would you say you are (i) Very happy, (ii) Rather happy, (iii) Not very happy, (iv) Not at all happy, (v) Don't know\".\n\nIn this variable only observations from first and last waves are included for each country. The same variable with all waves is available in https://ourworldindata.org/grapher/share-of-people-who-say-they-are-happy",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
