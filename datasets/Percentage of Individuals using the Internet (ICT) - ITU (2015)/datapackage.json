@@ -1,0 +1,42 @@
+{
+  "name": "Percentage of Individuals using the Internet (ICT) - ITU (2015)",
+  "title": "Percentage of Individuals using the Internet (ICT) - ITU (2015)",
+  "id": 43,
+  "description": "These are data on the 'Percentage of Individuals using the Internet (excel)' from 2000 to 2014. Downloaded on 14th July 2015.",
+  "sources": [
+    {
+      "name": "International Telecommunication Union (ITU) (2015)",
+      "dataPublishedBy": "ITU",
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": "14/07/2015",
+      "additionalInfo": "These are data on the 'Percentage of Individuals using the Internet (excel)' from 2000 to 2014. Downloaded on 14th July 2015."
+    }
+  ],
+  "owidTags": [
+    "Internet"
+  ],
+  "resources": [
+    {
+      "path": "Percentage of Individuals using the Internet (ICT) - ITU (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Percentage of Individuals using the Internet (ICT) (2015)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
