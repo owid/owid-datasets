@@ -1,0 +1,180 @@
+{
+  "name": "Multinational Time Use Study (MTUS) - Gershuny and Fisher (2013)",
+  "title": "Multinational Time Use Study (MTUS) - Gershuny and Fisher (2013)",
+  "id": 2810,
+  "description": "The Multinational Time Use Study (MTUS) compiles a cross-nationally harmonised set of time use surveys where recorded variables have been comparably recoded. Activities are sorted into 24 categories for the population aged between 21-65. We restrict our sample to working-age adults to minimise the role of time allocation decisions with a strong inter-temporal component following <a href=\"https://www.econstor.eu/bitstream/10419/55560/1/508634636.pdf\" rel=\"noopener\" target=\"_blank\">Aguiar and Hurst (2006)</a>. \n\nThe following methodology was used to arrive at the minutes spent across the 24 recorded activities:\n<ul>\n<li>Using the MTUS simple dataset, the sample was restricted to individuals aged between 21-65.</li>\n<li>The minutes spent on each activity were weighted by the ‘propwt’ variable which brings the sample in line with the population from which it was drawn and ensures only good quality diaries are used. More information on the construction of ‘propwt’ can be found here: https://www.timeuse.org/sites/default/files/9727/chapter-5-weights-in-mtus.pdf </li>\n<li>To calculate the mean number of minutes spent on an activity in a country in a given year, we took an average of the number of minutes spent on each of the 24 activities reported by the diarists. All diary entries where no minutes are recorded for a certain activity are treated as missing and are not included in the calculated average. <a href=\"https://www.timeuse.org/sites/default/files/9727/mtus-user-guide-r9-february-2016.pdf\" rel=\"noopener\" target\"_blank\">Gershuny and Fisher (2016)</a> mention \"it is impossible to say for certain if [entries of zero minutes] is because the diarist did not do the activity or if the diarist actually did undertake the activity but did not report it in the diary\". Therefore, estimates should be interpreted as an upper bound for the average number of minutes spent on an activity by those diarists who have reported taking part in an activity.</li>\n<li>The data is normalised to 1440 minutes per day. In other words, countries for which time use does not sum to 1440 minutes after weighting and averaging, the missing minutes are equally distributed across all activities. </li>\n</ul>\n\nPlease see Table 1.1 for a list of all the surveys and years included and Table 1.2 for technical information on each time use survey: https://www.timeuse.org/sites/default/files/9727/mtus-user-guide-r9-february-2016.pdf",
+  "sources": [
+    {
+      "name": "Multinational Time Use Study",
+      "dataPublishedBy": "Jonathan Gershuny and Kimberly Fisher. (2013) Multinational Time Use Study. Centre for Time Use Research, University of Oxford.",
+      "dataPublisherSource": "National sample time use data",
+      "link": "https://www.timeuse.org",
+      "retrievedDate": "14/06/2018",
+      "additionalInfo": "The Multinational Time Use Study (MTUS) compiles a cross-nationally harmonised set of time use surveys where recorded variables have been comparably recoded. Activities are sorted into 24 categories for the population aged between 21-65. We restrict our sample to working-age adults to minimise the role of time allocation decisions with a strong inter-temporal component following <a href=\"https://www.econstor.eu/bitstream/10419/55560/1/508634636.pdf\" rel=\"noopener\" target=\"_blank\">Aguiar and Hurst (2006)</a>. \n\nThe following methodology was used to arrive at the minutes spent across the 24 recorded activities:\n<ul>\n<li>Using the MTUS simple dataset, the sample was restricted to individuals aged between 21-65.</li>\n<li>The minutes spent on each activity were weighted by the ‘propwt’ variable which brings the sample in line with the population from which it was drawn and ensures only good quality diaries are used. More information on the construction of ‘propwt’ can be found here: https://www.timeuse.org/sites/default/files/9727/chapter-5-weights-in-mtus.pdf </li>\n<li>To calculate the mean number of minutes spent on an activity in a country in a given year, we took an average of the number of minutes spent on each of the 24 activities reported by the diarists. All diary entries where no minutes are recorded for a certain activity are treated as missing and are not included in the calculated average. <a href=\"https://www.timeuse.org/sites/default/files/9727/mtus-user-guide-r9-february-2016.pdf\" rel=\"noopener\" target\"_blank\">Gershuny and Fisher (2016)</a> mention \"it is impossible to say for certain if [entries of zero minutes] is because the diarist did not do the activity or if the diarist actually did undertake the activity but did not report it in the diary\". Therefore, estimates should be interpreted as an upper bound for the average number of minutes spent on an activity by those diarists who have reported taking part in an activity.</li>\n<li>The data is normalised to 1440 minutes per day. In other words, countries for which time use does not sum to 1440 minutes after weighting and averaging, the missing minutes are equally distributed across all activities. </li>\n</ul>\n\nPlease see Table 1.1 for a list of all the surveys and years included and Table 1.2 for technical information on each time use survey: https://www.timeuse.org/sites/default/files/9727/mtus-user-guide-r9-february-2016.pdf"
+    }
+  ],
+  "owidTags": [
+    "Working Hours"
+  ],
+  "resources": [
+    {
+      "path": "Multinational Time Use Study (MTUS) - Gershuny and Fisher (2013).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Minutes spent sleeping (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent sleep and naps per day. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent eating and drinking (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent eating and drinking per day, includes meals at work or school. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on self care (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent on self care, including activities such as washing, dressing, and caring for oneself. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on paid work (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent on paid work. This includes paid work for one's paid job (not at home), paid work at home (main, second, or other job), unpaid work to generate household income, travel as part of work, work breaks, other time at workplace, and looking for work. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on education (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent on education. Activities include regular schooling, homework, leisure courses or other education or training. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on food preparation (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent on food preparation. This includes food preparation itself as well as cooking, setting the table, washing/putting away dishes. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent cleaning (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent cleaning. This includes cleaning activities such as laundry, ironing, and clothing repair. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on maintenance (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent on maintenance. This includes activities such as home/vehicle maintenance/improvement, refilling fuel. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent shopping (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent shopping includes the purchase of goods and the consumption of services, including personal care and other services. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent gardening (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent gardening. Activities include gardening/foraging (picking mushrooms), and hunting/fishing. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on pet care (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent on pet care. Activities include walking dogs. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on elderly care (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent on elderly care. This includes activities looking after adults who need help or care. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on physical, routine child care (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes on physical, routine child care includes supervising, accompanying, and other child care activities. Average minutes spent in different activities includes both weekdays and weekends.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on interactive child care (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes on interactive child care includes activities such as teaching the child a skill, helping with their homework, reading to, talking to, or playing with the child. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on religious activities (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent on religious activities. This includes worship, prayer, and other religious activities. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on voluntary work (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent on voluntary work. This includes civic or organisational activity. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent commuting (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent commuting. This includes travel to and from work, and education-related travel. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on travel (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent on travel include travel for voluntary/civic/religious activities, child/adult care-related travel, travel for shopping, personal or household care, and travelling for other purposes. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on sports or exercise (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent on sports or exercise includes activities such as walking and cycling. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent watching TV (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent watching the TV or listening to the radio. This includes listening to music, iPod, CD, audio book, watching DVDs, including web streamed content. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent reading (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent reading. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on computer (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent on the computer including activities such as playing computer games, sending emails, surfing the internet, programming, and computing. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on out-of-home leisure (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent on leisure outside of the home. This includes activities such as attending a sporting event, cinema, theatre, opera, concerts, other public events/venue, restaurants, cafes, bars, pubs, party, reception, social event, gambling, and imputed time away from home. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Minutes spent on leisure (MTUS (2013))",
+            "type": "any",
+            "description": "Average minutes spent on leisure. Activities include receiving/visiting friends, conversation (in person, phone), games (social or solitary), other in-home social, general indoor leisure, artistic or musical activity, written correspondence, knit, crafts or hobbies, relaxing, thinking, doing nothing. Average minutes spent in different activities includes both weekdays and weekends. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}

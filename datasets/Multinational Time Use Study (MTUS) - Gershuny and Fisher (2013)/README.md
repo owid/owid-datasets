@@ -1,0 +1,13 @@
+# Multinational Time Use Study (MTUS) - Gershuny and Fisher (2013)
+
+The Multinational Time Use Study (MTUS) compiles a cross-nationally harmonised set of time use surveys where recorded variables have been comparably recoded. Activities are sorted into 24 categories for the population aged between 21-65. We restrict our sample to working-age adults to minimise the role of time allocation decisions with a strong inter-temporal component following <a href="https://www.econstor.eu/bitstream/10419/55560/1/508634636.pdf" rel="noopener" target="_blank">Aguiar and Hurst (2006)</a>. 
+
+The following methodology was used to arrive at the minutes spent across the 24 recorded activities:
+<ul>
+<li>Using the MTUS simple dataset, the sample was restricted to individuals aged between 21-65.</li>
+<li>The minutes spent on each activity were weighted by the ‘propwt’ variable which brings the sample in line with the population from which it was drawn and ensures only good quality diaries are used. More information on the construction of ‘propwt’ can be found here: https://www.timeuse.org/sites/default/files/9727/chapter-5-weights-in-mtus.pdf </li>
+<li>To calculate the mean number of minutes spent on an activity in a country in a given year, we took an average of the number of minutes spent on each of the 24 activities reported by the diarists. All diary entries where no minutes are recorded for a certain activity are treated as missing and are not included in the calculated average. <a href="https://www.timeuse.org/sites/default/files/9727/mtus-user-guide-r9-february-2016.pdf" rel="noopener" target"_blank">Gershuny and Fisher (2016)</a> mention "it is impossible to say for certain if [entries of zero minutes] is because the diarist did not do the activity or if the diarist actually did undertake the activity but did not report it in the diary". Therefore, estimates should be interpreted as an upper bound for the average number of minutes spent on an activity by those diarists who have reported taking part in an activity.</li>
+<li>The data is normalised to 1440 minutes per day. In other words, countries for which time use does not sum to 1440 minutes after weighting and averaging, the missing minutes are equally distributed across all activities. </li>
+</ul>
+
+Please see Table 1.1 for a list of all the surveys and years included and Table 1.2 for technical information on each time use survey: https://www.timeuse.org/sites/default/files/9727/mtus-user-guide-r9-february-2016.pdf
