@@ -1,0 +1,72 @@
+{
+  "name": "Genuine saving estimates by various measures - Blum, Ducoing, McLaughlin (2017)",
+  "title": "Genuine saving estimates by various measures - Blum, Ducoing, McLaughlin (2017)",
+  "id": 1031,
+  "description": "",
+  "sources": [
+    {
+      "name": "Blum, Ducoing, McLaughlin (2017)",
+      "dataPublishedBy": "Blum, Ducoing, Ruiz, McLaughlin (2017). “A Sustainable Cenury? Genuine Savings in Developing and Developed Countries 1900-2000.” National Wealth: What is Missing, Why it Matters. Eds. Hamilton, K., & Hepburn, C. Oxford University Press.",
+      "dataPublisherSource": "Various, see appendix",
+      "link": "https://www.st-andrews.ac.uk/media/dept-of-geography-and-sustainable-development/pdf-s/DP%202016-15%20Blum%20et%20al.pdf",
+      "retrievedDate": null,
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Wealth"
+  ],
+  "resources": [
+    {
+      "path": "Genuine saving estimates by various measures - Blum, Ducoing, McLaughlin (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Net investment (Blum, Ducoing, McLaughlin (2017))",
+            "type": "any",
+            "description": "Net fixed produced capital formation and overseas investment",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Green investment (Blum, Ducoing, McLaughlin (2017))",
+            "type": "any",
+            "description": "Net + Δ natural capital",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Genuine saving (Blum, Ducoing, McLaughlin (2017))",
+            "type": "any",
+            "description": "Green Investment + education expenditure",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "GSTFP (Blum, Ducoing, McLaughlin (2017))",
+            "type": "any",
+            "description": "Genuine saving + net present value of TFP",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "GDP (Blum, Ducoing, McLaughlin (2017))",
+            "type": "any",
+            "description": "Gross domestic product",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Green carbon (Blum, Ducoing, McLaughlin (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
