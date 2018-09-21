@@ -1,0 +1,42 @@
+{
+  "name": "Suicide rates in the United States - AFSP (2017)",
+  "title": "Suicide rates in the United States - AFSP (2017)",
+  "id": 571,
+  "description": "Data presented here are representative of the average across US states.",
+  "sources": [
+    {
+      "name": "Suicide rates in the United States - AFSP (2017)",
+      "dataPublishedBy": "American Foundation for Suicide Prevention (AFSP)",
+      "dataPublisherSource": null,
+      "link": "https://afsp.org/about-suicide/suicide-statistics/",
+      "retrievedDate": "12/07/2017",
+      "additionalInfo": "Data presented here are representative of the average across US states."
+    }
+  ],
+  "owidTags": [
+    "Suicides"
+  ],
+  "resources": [
+    {
+      "path": "Suicide rates in the United States - AFSP (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Suicide Rate (AFSP (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
