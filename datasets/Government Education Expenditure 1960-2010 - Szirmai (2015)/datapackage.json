@@ -1,0 +1,44 @@
+{
+  "name": "Government Education Expenditure 1960-2010 - Szirmai (2015)",
+  "title": "Government Education Expenditure 1960-2010 - Szirmai (2015)",
+  "id": 244,
+  "description": "",
+  "sources": [
+    {
+      "name": "Szirmai (2015)",
+      "dataPublishedBy": "Szirmai (2015), Table 7.6",
+      "dataPublisherSource": "Mainly UNESCO, Statistical Yearbooks (further details available from the publisher).",
+      "link": "www.dynamicsofdevelopment.com",
+      "retrievedDate": "30/09/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Financing of Education"
+  ],
+  "resources": [
+    {
+      "path": "Government Education Expenditure 1960-2010 - Szirmai (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Government Education Expenditure 1960-2010 (Szirmai (2015))",
+            "type": "any",
+            "description": " Government expenditure on education as a percentage of GDP per country and region",
+            "owidDisplaySettings": {
+              "shortUnit": "$"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
