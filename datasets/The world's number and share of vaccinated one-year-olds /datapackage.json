@@ -1,0 +1,102 @@
+{
+  "name": "The world's number and share of vaccinated one-year-olds ",
+  "title": "The world's number and share of vaccinated one-year-olds ",
+  "id": 2480,
+  "description": "",
+  "sources": [
+    {
+      "name": "WHO (2017) and UN Population Division (2017)",
+      "dataPublishedBy": "WHO's Global Health Observatory and UN Population Division",
+      "dataPublisherSource": "Organization's own records",
+      "link": "http://apps.who.int/gho/data/node.home and https://esa.un.org/unpd/wpp/Download/Standard/Population/",
+      "retrievedDate": "22 February 2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Vaccination"
+  ],
+  "resources": [
+    {
+      "path": "The world's number and share of vaccinated one-year-olds .csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of one-year-olds (UN Population Division, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of one-year-olds with BCG (tuberculosis) immunization (WHO, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of one-year-olds with Hepatitis B3 immunization (WHO, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of one-year-olds with diphtheria, pertussis and tetanus immunization (WHO, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of one-year-olds with polio immunization (WHO, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of one-year-olds with measles immunization (WHO, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of one-year-olds with BCG (tuberculosis) immunization (WHO, 2017)",
+            "type": "any",
+            "description": "The number of one-year-olds was obtained by multiplying the share of vaccinated one-year-olds as recorded by the WHO Global Health Observatory with the number of one-year-olds as recorded by the UN Population Division. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of one-year-olds with Hepatitis B3 immunization (WHO, 2017)",
+            "type": "any",
+            "description": "The number of one-year-olds was obtained by multiplying the share of vaccinated one-year-olds as recorded by the WHO Global Health Observatory with the number of one-year-olds as recorded by the UN Population Division. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of one-year-olds with diphteria, pertussis and tetanus immunization (WHO, 2017)",
+            "type": "any",
+            "description": "The number of one-year-olds was obtained by multiplying the share of vaccinated one-year-olds as recorded by the WHO Global Health Observatory with the number of one-year-olds as recorded by the UN Population Division. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of one-year-olds with polio immunization (WHO, 2017)",
+            "type": "any",
+            "description": "The number of one-year-olds was obtained by multiplying the share of vaccinated one-year-olds as recorded by the WHO Global Health Observatory with the number of one-year-olds as recorded by the UN Population Division. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of one-year-olds with measles immunization (WHO, 2017)",
+            "type": "any",
+            "description": "The number of one-year-olds was obtained by multiplying the share of vaccinated one-year-olds as recorded by the WHO Global Health Observatory with the number of one-year-olds as recorded by the UN Population Division. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
