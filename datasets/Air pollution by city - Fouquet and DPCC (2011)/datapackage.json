@@ -1,0 +1,50 @@
+{
+  "name": "Air pollution by city - Fouquet and DPCC (2011)",
+  "title": "Air pollution by city - Fouquet and DPCC (2011)",
+  "id": 516,
+  "description": "Raw data and extension of this set to 2016 was generously supplied through personal communication with the author.\nData trends for Delhi have a shorter coverage, and are not available post-2010 (later measurements are now reported based on particle size rather than total suspended particulate matter).",
+  "sources": [
+    {
+      "name": "Air pollution by city - Fouquet and DPCC (2011)",
+      "dataPublishedBy": "Fouquet, R. (2011). Long run trends in energy-related external costs. Ecological Economics 70(12), 2380–2389 and the DPCC.",
+      "dataPublisherSource": "This dataset combines air pollution data for London, representative of the UK from Foquet (2011) and Delhi, representative of India (Government of India, 2012-13).",
+      "link": "Fouquet (2011):\nhttp://www.sciencedirect.com/science/article/pii/S0921800911002953\nGovernment of India's Economic Survey of Delhi (2012-13):\nhttp://delhi.gov.in/DoIT/DoIT_Planning/ES2012-13/EN/ES_chapter8.pdf",
+      "retrievedDate": "15/02/2016",
+      "additionalInfo": "Raw data and extension of this set to 2016 was generously supplied through personal communication with the author.\nData trends for Delhi have a shorter coverage, and are not available post-2010 (later measurements are now reported based on particle size rather than total suspended particulate matter)."
+    }
+  ],
+  "owidTags": [
+    "Air Pollution"
+  ],
+  "resources": [
+    {
+      "path": "Air pollution by city - Fouquet and DPCC (2011).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Smoke (Fouquet and DPCC (2011))",
+            "type": "any",
+            "description": "Micrograms of smoke per cubic metre. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Suspended Particulate Matter (SPM) (Fouquet and DPCC (2011))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
