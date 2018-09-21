@@ -1,0 +1,44 @@
+{
+  "name": "Health Expenditure US 1929-2013 Private - US Census and WDI (2013)",
+  "title": "Health Expenditure US 1929-2013 Private - US Census and WDI (2013)",
+  "id": 203,
+  "description": "",
+  "sources": [
+    {
+      "name": "US Census and WDI (2013)",
+      "dataPublishedBy": "(a) Historical Statistics of the United States Colonial Times to 1970 (1929-1970), (b) US Census Statistical Abstract 1990 (1970-1990), (c) World Bank WDI (1990-2013)",
+      "dataPublisherSource": "(a) and (b) from US Bureau of the Census (1929-1989), (c) based on World Health Organization Global Health Expenditure database",
+      "link": "(a) and (b) https://www.census.gov/, (c) http://apps.who.int/nha/database",
+      "retrievedDate": "15/11/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Health Insurance & Spending"
+  ],
+  "resources": [
+    {
+      "path": "Health Expenditure US 1929-2013 Private - US Census and WDI (2013).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "US Health Expenditure, Private (US Census and WDI (2013))",
+            "type": "any",
+            "description": "Health Expenditure, total  (% of GDP)",
+            "owidDisplaySettings": {
+              "unit": "children"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
