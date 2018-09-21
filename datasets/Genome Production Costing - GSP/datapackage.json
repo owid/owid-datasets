@@ -1,0 +1,54 @@
+{
+  "name": "Genome Production Costing - GSP",
+  "title": "Genome Production Costing - GSP",
+  "id": 568,
+  "description": "Full reference: Wetterstrand KA. DNA Sequencing Costs: Data from the NHGRI Genome Sequencing Program (GSP) Available at: www.genome.gov/sequencingcostsdata [accessed 2017-07-11].\r\n\r\nThe NHGRI programme describe genome sequencing costs relative to two metrics, quoted below:\r\n\r\n\"(1) \"Cost per Megabase of DNA Sequence\" - the cost of determining one megabase (Mb; a million bases) of DNA sequence of a specified quality;\r\n\r\n(2) \"Cost per Genome\" - the cost of sequencing a human-sized genome.\"\r\n\r\nCost data from the NHGRI is presented either biannually or seasonally for each year. Here we have summarised this data on an annual basis by calculating the yearly average cost.\r\nThe number of DNA base pairs sequenced per US$ was calculated by dividing 1 by the metric, \"Cost per Megabase of DNA Sequence\", and multiplying by 1 million.",
+  "sources": [
+    {
+      "name": "Genome Production Costing - GSP",
+      "dataPublishedBy": "National Human Genome Research Institute (NHGRI) Genome Sequencing Program (GSP)",
+      "dataPublisherSource": null,
+      "link": "https://www.genome.gov/sequencingcostsdata/",
+      "retrievedDate": "11/07/2017",
+      "additionalInfo": "Full reference: Wetterstrand KA. DNA Sequencing Costs: Data from the NHGRI Genome Sequencing Program (GSP) Available at: www.genome.gov/sequencingcostsdata [accessed 2017-07-11].\r\n\r\nThe NHGRI programme describe genome sequencing costs relative to two metrics, quoted below:\r\n\r\n\"(1) \"Cost per Megabase of DNA Sequence\" - the cost of determining one megabase (Mb; a million bases) of DNA sequence of a specified quality;\r\n\r\n(2) \"Cost per Genome\" - the cost of sequencing a human-sized genome.\"\r\n\r\nCost data from the NHGRI is presented either biannually or seasonally for each year. Here we have summarised this data on an annual basis by calculating the yearly average cost.\r\nThe number of DNA base pairs sequenced per US$ was calculated by dividing 1 by the metric, \"Cost per Megabase of DNA Sequence\", and multiplying by 1 million."
+    }
+  ],
+  "owidTags": [
+    "Technological Progress"
+  ],
+  "resources": [
+    {
+      "path": "Genome Production Costing - GSP.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Cost per Mb DNA sequence (GSP)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cost per genome (GSP)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of base pairs sequenced per US$ (GSP)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
