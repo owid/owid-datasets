@@ -1,0 +1,42 @@
+{
+  "name": "Non-commercial flight distance records - Wikipedia",
+  "title": "Non-commercial flight distance records - Wikipedia",
+  "id": 567,
+  "description": "This data has been sourced from the compilation of flight distance records Wiki available at: https://en.wikipedia.org/wiki/Flight_distance_record [accessed 2017-07-11]. References to the individual sources for each record can be found at this link.\r\n\r\nOnly non-commercial powered aircraft are included in this dataset, which contains only those flights taken without mid-flight refueling.\r\n\r\nWhere more than one record was set in any given year, only the highest of the given year has been included here.",
+  "sources": [
+    {
+      "name": "Non-commercial flight distance records - Wikipedia",
+      "dataPublishedBy": "Fédération Aéronautique Internationale (FAI)",
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "This data has been sourced from the compilation of flight distance records Wiki available at: https://en.wikipedia.org/wiki/Flight_distance_record [accessed 2017-07-11]. References to the individual sources for each record can be found at this link.\r\n\r\nOnly non-commercial powered aircraft are included in this dataset, which contains only those flights taken without mid-flight refueling.\r\n\r\nWhere more than one record was set in any given year, only the highest of the given year has been included here."
+    }
+  ],
+  "owidTags": [
+    "Technological Progress"
+  ],
+  "resources": [
+    {
+      "path": "Non-commercial flight distance records - Wikipedia.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Non-Commercial Flight Distance Record (km) (Wikipedia)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
