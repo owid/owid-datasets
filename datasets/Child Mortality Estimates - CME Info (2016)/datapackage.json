@@ -1,0 +1,42 @@
+{
+  "name": "Child Mortality Estimates - CME Info (2016)",
+  "title": "Child Mortality Estimates - CME Info (2016)",
+  "id": 161,
+  "description": "The UN Inter-agency Group for Child Mortality Estimation (IGME). \r\nThe IGME, led by the United Nations Children's Fund (UNICEF) and the World Health Organization (WHO), also includes the World Bank and the United Nations Population Division of the Department of Economic and Social Affairs as full members.",
+  "sources": [
+    {
+      "name": "Child Mortality Estimates - CME Info (2016)",
+      "dataPublishedBy": "Child Mortality Estimates (CME Info)",
+      "dataPublisherSource": null,
+      "link": "http://childmortality.org/",
+      "retrievedDate": "29/01/2016",
+      "additionalInfo": "The UN Inter-agency Group for Child Mortality Estimation (IGME). \r\nThe IGME, led by the United Nations Children's Fund (UNICEF) and the World Health Organization (WHO), also includes the World Bank and the United Nations Population Division of the Department of Economic and Social Affairs as full members."
+    }
+  ],
+  "owidTags": [
+    "Child Mortality"
+  ],
+  "resources": [
+    {
+      "path": "Child Mortality Estimates - CME Info (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Child Mortality Estimates (CME Info (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
