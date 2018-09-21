@@ -1,0 +1,42 @@
+{
+  "name": "Human Development Index (UNDP)",
+  "title": "Human Development Index (UNDP)",
+  "id": 275,
+  "description": "The Human Development Index (HDI) is a summary measure of average achievement in key dimensions of human development: a long and healthy life, being knowledgeable and have a decent standard of living. \n\nMeasured by:\n\n– Life expectancy at birth\n\n– Mean years of schooling & Expected years of schooling\n\n– GNI per capita (in PPP adjusted international-$)\n\nThe HDI is the geometric mean of normalized indices for each of the three dimensions.",
+  "sources": [
+    {
+      "name": "Human Development Index (UNDP)",
+      "dataPublishedBy": "United Nations Development Programme (UNDP)",
+      "dataPublisherSource": "UNDP",
+      "link": "http://hdr.undp.org/en/content/human-development-index-hdi",
+      "retrievedDate": "27/07/2016",
+      "additionalInfo": "The Human Development Index (HDI) is a summary measure of average achievement in key dimensions of human development: a long and healthy life, being knowledgeable and have a decent standard of living. \n\nMeasured by:\n\n– Life expectancy at birth\n\n– Mean years of schooling & Expected years of schooling\n\n– GNI per capita (in PPP adjusted international-$)\n\nThe HDI is the geometric mean of normalized indices for each of the three dimensions."
+    }
+  ],
+  "owidTags": [
+    "Human Development Index (HDI)"
+  ],
+  "resources": [
+    {
+      "path": "Human Development Index (UNDP).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Human Development Index (UNDP)",
+            "type": "any",
+            "description": "Human Development Index",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
