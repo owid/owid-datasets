@@ -1,0 +1,82 @@
+{
+  "name": "Child Labor (World ILO) - ILO (2017)",
+  "title": "Child Labor (World ILO) - ILO (2017)",
+  "id": 173,
+  "description": "",
+  "sources": [
+    {
+      "name": "ILO - Marking Progress Against Child Labor",
+      "dataPublishedBy": "International Labor Organization (ILO)",
+      "dataPublisherSource": "ILO, census data",
+      "link": "http://www.ilo.org/global/statistics-and-databases/lang--en/index.htm",
+      "retrievedDate": "27/09/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Child Labor"
+  ],
+  "resources": [
+    {
+      "path": "Child Labor (World ILO) - ILO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Child Labor (All, World, ILO-IPEC)",
+            "type": "any",
+            "description": "Share of children ages 5-17 involved in economic activity for at least one hour in the reference week of the corresponding survey (irrespective of school attendance)",
+            "owidDisplaySettings": {
+              "unit": "people"
+            }
+          },
+          {
+            "name": "Child Labor (Boys, World, 2000-2012) (ILO)",
+            "type": "any",
+            "description": "Percentage of boys aged between 5-17 active in the labor force.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Child Labor (Girls, World, 2000-2012) (ILO)",
+            "type": "any",
+            "description": "Percentage of girls aged between 5-17 in the labor force.",
+            "owidDisplaySettings": {
+              "unit": "% of world population"
+            }
+          },
+          {
+            "name": "Children (5-14 years) in employment (ILO)",
+            "type": "any",
+            "description": "The number of children in employment aged between 5-14 years.",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Children (5-14 years) not in employment (ILO)",
+            "type": "any",
+            "description": "Children aged 5-14 years not in employment. ",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Child labor (incidence) (ILO)",
+            "type": "any",
+            "description": "Percentage of incidences involving children in employment. ",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
