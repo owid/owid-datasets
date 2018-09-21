@@ -1,0 +1,45 @@
+{
+  "name": "Fossil fuels (% electricity production) - World Bank (2014)",
+  "title": "Fossil fuels (% electricity production) - World Bank (2014)",
+  "id": 484,
+  "description": "",
+  "sources": [
+    {
+      "name": "Fossil fuels (% electricity production) - World Bank (2014)",
+      "dataPublishedBy": "World Bank- World Development Indicators (WDI)",
+      "dataPublisherSource": "IEA Statistics © OECD/IEA 2014. Available at: http://www.iea.org/stats/index.asp",
+      "link": "http://data.worldbank.org/indicator/EG.ELC.FOSL.ZS?view=chart",
+      "retrievedDate": "18/05/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Electricity"
+  ],
+  "resources": [
+    {
+      "path": "Fossil fuels (% electricity production) - World Bank (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Fossil Fuels (% electricity production) (World Bank (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
