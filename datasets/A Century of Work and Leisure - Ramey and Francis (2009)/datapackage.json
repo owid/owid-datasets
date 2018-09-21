@@ -1,0 +1,60 @@
+{
+  "name": "A Century of Work and Leisure - Ramey and Francis (2009)",
+  "title": "A Century of Work and Leisure - Ramey and Francis (2009)",
+  "id": 2800,
+  "description": "",
+  "sources": [
+    {
+      "name": "Ramey and Francis (2009)",
+      "dataPublishedBy": "Ramey, V.A. and Francis, N., 2009. A century of work and leisure. American Economic Journal: Macroeconomics, 1(2), pp.189-224.",
+      "dataPublisherSource": "Census and current population surveys, time use surveys, census data and government statistics",
+      "link": "http://econweb.ucsd.edu/~vramey/research/Century_Published.pdf",
+      "retrievedDate": "06/06/2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Working Hours"
+  ],
+  "resources": [
+    {
+      "path": "A Century of Work and Leisure - Ramey and Francis (2009).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Average weekly hours worked per person by demographic group (Ramey and Francis (2009))",
+            "type": "any",
+            "description": "Mean hours worked per week per person, by age group.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Average weekly hours devoted to school (Ramey and Francis (2009))",
+            "type": "any",
+            "description": "Average hours a week that are devoted to school. Author's note that since school enrolment rates (used in constructing these estimates) were almost identical across genders, they do not distinguish by gender for those aged 14-17. However, because college enrolment rates differ across genders, the distinction is made for the 18-24 age group.  Total refers to male and female individuals for each respective age group.\n\nNote these estimates are averaged over the entire year, so they are lower than the amount of time a student would spend during the school year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Weekly home production time by demographic group (Ramey and Francis (2009))",
+            "type": "any",
+            "description": "Time spent in home production activities by age group. Home production activities include planning, purchasing goods and services (except medical and personal care services), care of children and adults (both in the household and outside the household), general cleaning, care and repair of the house and grounds (including yard work, but excluding gardening), preparing and clearing food, making, mending, and laundering of clothing and other household textiles. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Average weekly leisure estimates by age (Ramey and Francis (2009))",
+            "type": "any",
+            "description": "Leisure is defined as the time remaining after subtracting time spent in non-leisure activities from total time available. Authors subtract work, school, home production, commuting, and personal care from total time available. \n\nThe authors assume commuting time is equal to 10 percent of work hours and school hours, and that personal care is 77 hours per week. For a discussion of the data behind these assumptions, see the Data Appendix in the paper by Ramey and Francis (2009) from which the data was taken.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
