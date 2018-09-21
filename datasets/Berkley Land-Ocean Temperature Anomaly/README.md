@@ -1,0 +1,5 @@
+# Berkley Land-Ocean Temperature Anomaly
+
+Over 39,000 meteorological stations and a modified version of the HadSST ocean temperature data set. Country-level values were created by averaging all grid cells whose centroids were within the border of a country. Area weighted measures were weighted by the area of the grid cell when averaging the grid cells and population weighted averages used gridded population data from 2015 created by the Center for International Earth Science Information Network - CIESIN (http://dx.doi.org/10.7927/H4X63JVC).
+
+The temperature anomaly is measured relative to the 1951-1980 global average temperature.
