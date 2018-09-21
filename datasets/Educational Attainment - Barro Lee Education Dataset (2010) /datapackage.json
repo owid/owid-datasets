@@ -1,0 +1,42 @@
+{
+  "name": "Educational Attainment - Barro Lee Education Dataset (2010) ",
+  "title": "Educational Attainment - Barro Lee Education Dataset (2010) ",
+  "id": 240,
+  "description": "Christopher Farris kindly provided this dataset and shared it with Max Roser via email. It shows average years of schooling of the population aged 15 and over.",
+  "sources": [
+    {
+      "name": "Barro Lee Education Dataset (2010)",
+      "dataPublishedBy": " Barro, Robert and Jong-Wha (2010), A New Data Set of Educational Attainment in the World, 1950-2010. Journal of Development Economics, vol 104, pp.184-198",
+      "dataPublisherSource": "Scholarly work",
+      "link": "http://www.barrolee.com/",
+      "retrievedDate": "06/06/2016",
+      "additionalInfo": "Christopher Farris kindly provided this dataset and shared it with Max Roser via email. It shows average years of schooling of the population aged 15 and over."
+    }
+  ],
+  "owidTags": [
+    "Global Rise of Education"
+  ],
+  "resources": [
+    {
+      "path": "Educational Attainment - Barro Lee Education Dataset (2010) .csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Educational Attainment (average years of total education) (Barro Lee Education Dataset (2010))",
+            "type": "any",
+            "description": "Average years of schooling of the population aged 15 and over",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
