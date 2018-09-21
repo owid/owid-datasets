@@ -1,0 +1,108 @@
+{
+  "name": "Death rates (non age-standardized) from non-communicable diseases - IHME (2016)",
+  "title": "Death rates (non age-standardized) from non-communicable diseases - IHME (2016)",
+  "id": 1000,
+  "description": "The Global Burden of Disease (GBD) database reports the non age-standardized death rates by cause and risk factors for any given year.\r\n\r\nIt is important to understand the distinction between risk factors and causes of deaths. Causes of deaths are defined by the OECD as: \"the underlying cause of death refers to the disease or injury that initiated the train of morbid events leading directly to death or the circumstances of the accident or violence that produced the injury.\" Causes of deaths therefore include particular events such as road accidents, natural disasters, drowning, HIV/AIDS, and non-communicable diseases such as diabetes, and various cancers.\r\n\r\nData here relates to the non age-standardized death rates from non-communicable diseases (NCDs) - that is, the cause of death rather than particular risk factors which may increase the likelihood of NCDs. Non age-standardized death rates correct for differences in population size by reporting the number of deaths per 100,000 people. However, they do not correct for changes in the age distribution of the population.\r\n\r\nNon-communicable diseases (NCDs) are further clarified as follows:\r\n'Dementia' refers to the number of deaths attributed to Alzheimer's and other forms of dementia.\r\n'Cardiovascular disease' refers to rheumatic and ischemic heart diseases.\r\n'Respiratory diseases' includes deaths from chronic obstructive pulmonary disease (COPD), Pneumoconiosis diseases.\r\n'Cancers' includes all forms of cancer, also referred to in the GBD database as 'neoplasms'.\r\n'Digestive diseases' refers to all deaths resultant from ulcer diseases, pancreatitis, gallbladder, bowel disease, gastritis and intestinal diseases.\r\n",
+  "sources": [
+    {
+      "name": "Death rates (non age-standardized) from non-communicable diseases - IHME (2016)",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2016 (GBD 2016) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2017.",
+      "dataPublisherSource": "Census data.",
+      "link": "http://ghdx.healthdata.org/gbd-results-tool",
+      "retrievedDate": "03/11/2017",
+      "additionalInfo": "The Global Burden of Disease (GBD) database reports the non age-standardized death rates by cause and risk factors for any given year.\r\n\r\nIt is important to understand the distinction between risk factors and causes of deaths. Causes of deaths are defined by the OECD as: \"the underlying cause of death refers to the disease or injury that initiated the train of morbid events leading directly to death or the circumstances of the accident or violence that produced the injury.\" Causes of deaths therefore include particular events such as road accidents, natural disasters, drowning, HIV/AIDS, and non-communicable diseases such as diabetes, and various cancers.\r\n\r\nData here relates to the non age-standardized death rates from non-communicable diseases (NCDs) - that is, the cause of death rather than particular risk factors which may increase the likelihood of NCDs. Non age-standardized death rates correct for differences in population size by reporting the number of deaths per 100,000 people. However, they do not correct for changes in the age distribution of the population.\r\n\r\nNon-communicable diseases (NCDs) are further clarified as follows:\r\n'Dementia' refers to the number of deaths attributed to Alzheimer's and other forms of dementia.\r\n'Cardiovascular disease' refers to rheumatic and ischemic heart diseases.\r\n'Respiratory diseases' includes deaths from chronic obstructive pulmonary disease (COPD), Pneumoconiosis diseases.\r\n'Cancers' includes all forms of cancer, also referred to in the GBD database as 'neoplasms'.\r\n'Digestive diseases' refers to all deaths resultant from ulcer diseases, pancreatitis, gallbladder, bowel disease, gastritis and intestinal diseases.\r\n"
+    }
+  ],
+  "owidTags": [
+    "Non-communicable Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Death rates (non age-standardized) from non-communicable diseases - IHME (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Dementia (IHME (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cardiovascular diseases (IHME (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Stroke (IHME (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Kidney disease (IHME (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Respiratory disease (IHME (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Liver disease (IHME (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Diabetes, blood and endocrine disease (IHME (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Digestive disease (IHME (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Hepatitis (IHME (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Meningitis (IHME (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cancers (IHME (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Parkinson's disease (IHME (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
