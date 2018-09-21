@@ -1,0 +1,42 @@
+{
+  "name": "Health expenditure per capita, PPP - World Bank (2016)",
+  "title": "Health expenditure per capita, PPP - World Bank (2016)",
+  "id": 181,
+  "description": "The source describes the measure as follows: \r\n\r\nTotal health expenditure is the sum of public and private health expenditures as a ratio of total population. It covers the provision of health services (preventive and curative), family planning activities, nutrition activities, and emergency aid designated for health but does not include provision of water and sanitation. Data are in international dollars converted using 2011 purchasing power parity (PPP) rates.\r\nWorld Health Organization Global Health Expenditure database (see http://apps.who.int/nha/database for the most recent updates).",
+  "sources": [
+    {
+      "name": "Health expenditure per capita, PPP (World Bank (2016))",
+      "dataPublishedBy": "World Bank (WDI)",
+      "dataPublisherSource": "Census data.",
+      "link": "http://data.worldbank.org/indicator/SH.XPD.PCAP.PP.KD",
+      "retrievedDate": "23/02/2016",
+      "additionalInfo": "The source describes the measure as follows: \r\n\r\nTotal health expenditure is the sum of public and private health expenditures as a ratio of total population. It covers the provision of health services (preventive and curative), family planning activities, nutrition activities, and emergency aid designated for health but does not include provision of water and sanitation. Data are in international dollars converted using 2011 purchasing power parity (PPP) rates.\r\nWorld Health Organization Global Health Expenditure database (see http://apps.who.int/nha/database for the most recent updates)."
+    }
+  ],
+  "owidTags": [
+    "Health Insurance & Spending"
+  ],
+  "resources": [
+    {
+      "path": "Health expenditure per capita, PPP - World Bank (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Health expenditure per capita, PPP (World Bank (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
