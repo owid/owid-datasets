@@ -1,0 +1,42 @@
+{
+  "name": "Integrated Network for Societal Conflict Research: Political Instability Task Force (PITF)",
+  "title": "Integrated Network for Societal Conflict Research: Political Instability Task Force (PITF)",
+  "id": 137,
+  "description": "Death magnitude is a non-linear measure, please see the codebook for further details. For countries that experienced multiple episodes of genocide during the period, the midpoint is taking and summed to calculate the total death magnitude variable. Countries with multiple episodes of genocide include: Angola, Burundi, China, Indonesia, Iraq, Rwanda, Sri Lanka, Sudan, Uganda and the Democratic Republic of Congo.\n\nGenocide indicator created for each country as well as a global total.",
+  "sources": [
+    {
+      "name": "State Failure Problem Set, 1955-2014 - Political Instability Task Force (PITF) ",
+      "dataPublishedBy": "Integrated Network for Societal Conflict Research",
+      "dataPublisherSource": "Political Instability Task Force (PITF)",
+      "link": "http://www.systemicpeace.org/inscrdata.html",
+      "retrievedDate": "29/09/2015",
+      "additionalInfo": "Death magnitude is a non-linear measure, please see the codebook for further details. For countries that experienced multiple episodes of genocide during the period, the midpoint is taking and summed to calculate the total death magnitude variable. Countries with multiple episodes of genocide include: Angola, Burundi, China, Indonesia, Iraq, Rwanda, Sri Lanka, Sudan, Uganda and the Democratic Republic of Congo.\n\nGenocide indicator created for each country as well as a global total."
+    }
+  ],
+  "owidTags": [
+    "Genocides"
+  ],
+  "resources": [
+    {
+      "path": "Integrated Network for Societal Conflict Research: Political Instability Task Force (PITF).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Genocide indicator (PITF)",
+            "type": "any",
+            "description": "Indicator for genocide by country for each year",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
