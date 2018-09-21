@@ -1,0 +1,42 @@
+{
+  "name": "Gender Wage Gap – OECD (2017)",
+  "title": "Gender Wage Gap – OECD (2017)",
+  "id": 989,
+  "description": "\n",
+  "sources": [
+    {
+      "name": "OECD, Gender Wage Gap (2017)",
+      "dataPublishedBy": "OECD",
+      "dataPublisherSource": "The OECD wage gap is calculated using the OECD Employment Database",
+      "link": "https://data.oecd.org/earnwage/gender-wage-gap.htm#indicator-chart",
+      "retrievedDate": "2017-10-17",
+      "additionalInfo": "\n"
+    }
+  ],
+  "owidTags": [
+    "Income Inequality"
+  ],
+  "resources": [
+    {
+      "path": "Gender Wage Gap – OECD (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Gender wage gap (OECD 2017)",
+            "type": "any",
+            "description": "The gender wage gap is unadjusted and is defined as the difference between median earnings of men and women relative to median earnings of men. Data refer to full-time employees and to self-employed.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
