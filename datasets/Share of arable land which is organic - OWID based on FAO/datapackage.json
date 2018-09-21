@@ -1,0 +1,42 @@
+{
+  "name": "Share of arable land which is organic - OWID based on FAO",
+  "title": "Share of arable land which is organic - OWID based on FAO",
+  "id": 1914,
+  "description": "Share of arable land which is organic is derived by Our World in Data based on UN Food and Agriculture Organization (FAO) Statistics on total arable land area, and organic arable land area. The share is calculated as: total arable area (ha) / organic arable land area (ha).\n\nOrganic arable land area is the sum of the area certified as organic by official standards, and land area in the conversion process to organic (which is assumed by the FAO as a two-year period prior to certification). ",
+  "sources": [
+    {
+      "name": "Share of arable land which is organic - OWID based on FAO",
+      "dataPublishedBy": "Our World in Data based on UN FAO Statistics",
+      "dataPublisherSource": null,
+      "link": "http://www.fao.org/faostat/en/#home",
+      "retrievedDate": "25th January 2018",
+      "additionalInfo": "Share of arable land which is organic is derived by Our World in Data based on UN Food and Agriculture Organization (FAO) Statistics on total arable land area, and organic arable land area. The share is calculated as: total arable area (ha) / organic arable land area (ha).\n\nOrganic arable land area is the sum of the area certified as organic by official standards, and land area in the conversion process to organic (which is assumed by the FAO as a two-year period prior to certification). "
+    }
+  ],
+  "owidTags": [
+    "Land Use in Agriculture"
+  ],
+  "resources": [
+    {
+      "path": "Share of arable land which is organic - OWID based on FAO.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of arable land which is organic",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
