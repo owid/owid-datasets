@@ -1,0 +1,42 @@
+{
+  "name": "Reported cases of measles, 1980-2014 - WHO (2015)",
+  "title": "Reported cases of measles, 1980-2014 - WHO (2015)",
+  "id": 125,
+  "description": "Information about the WHO Joint Reporting Form can be found at http://www.who.int/immunization/monitoring_surveillance/routine/reporting/en/",
+  "sources": [
+    {
+      "name": "World Health Organization (2015)",
+      "dataPublishedBy": "World Health Organization",
+      "dataPublisherSource": "World Health Organization Joint Reporting Form",
+      "link": "http://apps.who.int/immunization_monitoring/globalsummary/timeseries/tsincidencemeasles.html",
+      "retrievedDate": "09/09/2015",
+      "additionalInfo": "Information about the WHO Joint Reporting Form can be found at http://www.who.int/immunization/monitoring_surveillance/routine/reporting/en/"
+    }
+  ],
+  "owidTags": [
+    "Vaccination"
+  ],
+  "resources": [
+    {
+      "path": "Reported cases of measles, 1980-2014 - WHO (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Reported cases of measles (WHO (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
