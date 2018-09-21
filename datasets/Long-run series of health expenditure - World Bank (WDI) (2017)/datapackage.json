@@ -1,0 +1,44 @@
+{
+  "name": "Long-run series of health expenditure - World Bank (WDI) (2017)",
+  "title": "Long-run series of health expenditure - World Bank (WDI) (2017)",
+  "id": 369,
+  "description": "Public health expenditure:\n\nAccording to the definition given by the World Bank \"Public health expenditure consists of recurrent and capital spending from government (central and local) budgets, external borrowings and grants (including donations from international agencies and nongovernmental organizations), and social (or compulsory) health insurance funds.\"\nThis scatterplot was inspired by Reeves et al. (2015)\n\nPublic health expenditure per capita was calculated combining WDI data on Health expenditure, public (%GDP) and GDP per capita, PPP (current international $).\n\nSee the details in the World Development Indicators for limitations of the original source.\n\nDeveloping countries are defined as all countries in the World excluding high-income countries (as defined by the World Bank):\n\nAndorra; Antigua and Barbuda; Aruba; Australia; Austria; Bahamas, The; Bahrain; Barbados; Belgium; Bermuda; British Virgin Islands; Brunei Darussalam; Canada; Cayman Islands; Channel Islands; Chile; Croatia; Curaçao; Cyprus; Czech Republic; Denmark; Estonia; Faroe Islands; Finland; France; French Polynesia; Germany; Gibraltar; Greece; Greenland; Guam; Hong Kong SAR, China; Hungary; Iceland; Ireland; Isle of Man; Israel; Italy; Japan; Korea, Rep.; Kuwait; Latvia; Liechtenstein; Lithuania; Luxembourg; Macao SAR, China; Malta; Monaco; Nauru; Netherlands; New Caledonia; New Zealand; Northern Mariana Islands; Norway; Oman; Poland; Portugal; Puerto Rico; Qatar; San Marino; Saudi Arabia; Seychelles; Singapore; Sint Maarten (Dutch part); Slovak Republic; Slovenia; Spain; St. Kitts and Nevis; St. Martin (French part); Sweden; Switzerland; Taiwan, China; Trinidad and Tobago; Turks and Caicos Islands; United Arab Emirates; United Kingdom; United States; Uruguay; Virgin Islands (U.S.).\n\n---\n\nTax revenues per capita:\n\nAccording to the definition given by the World Bank \"Tax revenue refers to compulsory transfers to the central government for public purposes. Certain compulsory transfers such as fines, penalties, and most social security contributions are excluded. Refunds and corrections of erroneously collected tax revenue are treated as negative revenue.\"\nThis scatterplot was inspired by Reeves et al. (2015).\n\nTax revenue per capita was calculated combining WDI data on Tax revenue (% of GDP) and GDP per capita, PPP (current international $).\n\nSee the details in the World Development Indicators for limitations of the original source.\n\nDeveloping countries are defined as all countries in the World excluding high-income countries (as defined by the World Bank):\n\nAndorra; Antigua and Barbuda; Aruba; Australia; Austria; Bahamas, The; Bahrain; Barbados; Belgium; Bermuda; British Virgin Islands; Brunei Darussalam; Canada; Cayman Islands; Channel Islands; Chile; Croatia; Curaçao; Cyprus; Czech Republic; Denmark; Estonia; Faroe Islands; Finland; France; French Polynesia; Germany; Gibraltar; Greece; Greenland; Guam; Hong Kong SAR, China; Hungary; Iceland; Ireland; Isle of Man; Israel; Italy; Japan; Korea, Rep.; Kuwait; Latvia; Liechtenstein; Lithuania; Luxembourg; Macao SAR, China; Malta; Monaco; Nauru; Netherlands; New Caledonia; New Zealand; Northern Mariana Islands; Norway; Oman; Poland; Portugal; Puerto Rico; Qatar; San Marino; Saudi Arabia; Seychelles; Singapore; Sint Maarten (Dutch part); Slovak Republic; Slovenia; Spain; St. Kitts and Nevis; St. Martin (French part); Sweden; Switzerland; Taiwan, China; Trinidad and Tobago; Turks and Caicos Islands; United Arab Emirates; United Kingdom; United States; Uruguay; Virgin Islands (U.S.).",
+  "sources": [
+    {
+      "name": "World Bank WDI (2017)",
+      "dataPublishedBy": "Own calculations based on World Development Indicators (World Bank)",
+      "dataPublisherSource": "World Health Organization Global Health Expenditure database (WHO database) + International Monetary Fund, Government Finance Statistics Yearbook and data files, and World Bank and OECD GDP estimates",
+      "link": "http://data.worldbank.org/indicator/SH.XPD.PUBL.ZS + http://data.worldbank.org/indicator/GC.TAX.TOTL.GD.ZS",
+      "retrievedDate": "19/03/2017",
+      "additionalInfo": "Public health expenditure:\n\nAccording to the definition given by the World Bank \"Public health expenditure consists of recurrent and capital spending from government (central and local) budgets, external borrowings and grants (including donations from international agencies and nongovernmental organizations), and social (or compulsory) health insurance funds.\"\nThis scatterplot was inspired by Reeves et al. (2015)\n\nPublic health expenditure per capita was calculated combining WDI data on Health expenditure, public (%GDP) and GDP per capita, PPP (current international $).\n\nSee the details in the World Development Indicators for limitations of the original source.\n\nDeveloping countries are defined as all countries in the World excluding high-income countries (as defined by the World Bank):\n\nAndorra; Antigua and Barbuda; Aruba; Australia; Austria; Bahamas, The; Bahrain; Barbados; Belgium; Bermuda; British Virgin Islands; Brunei Darussalam; Canada; Cayman Islands; Channel Islands; Chile; Croatia; Curaçao; Cyprus; Czech Republic; Denmark; Estonia; Faroe Islands; Finland; France; French Polynesia; Germany; Gibraltar; Greece; Greenland; Guam; Hong Kong SAR, China; Hungary; Iceland; Ireland; Isle of Man; Israel; Italy; Japan; Korea, Rep.; Kuwait; Latvia; Liechtenstein; Lithuania; Luxembourg; Macao SAR, China; Malta; Monaco; Nauru; Netherlands; New Caledonia; New Zealand; Northern Mariana Islands; Norway; Oman; Poland; Portugal; Puerto Rico; Qatar; San Marino; Saudi Arabia; Seychelles; Singapore; Sint Maarten (Dutch part); Slovak Republic; Slovenia; Spain; St. Kitts and Nevis; St. Martin (French part); Sweden; Switzerland; Taiwan, China; Trinidad and Tobago; Turks and Caicos Islands; United Arab Emirates; United Kingdom; United States; Uruguay; Virgin Islands (U.S.).\n\n---\n\nTax revenues per capita:\n\nAccording to the definition given by the World Bank \"Tax revenue refers to compulsory transfers to the central government for public purposes. Certain compulsory transfers such as fines, penalties, and most social security contributions are excluded. Refunds and corrections of erroneously collected tax revenue are treated as negative revenue.\"\nThis scatterplot was inspired by Reeves et al. (2015).\n\nTax revenue per capita was calculated combining WDI data on Tax revenue (% of GDP) and GDP per capita, PPP (current international $).\n\nSee the details in the World Development Indicators for limitations of the original source.\n\nDeveloping countries are defined as all countries in the World excluding high-income countries (as defined by the World Bank):\n\nAndorra; Antigua and Barbuda; Aruba; Australia; Austria; Bahamas, The; Bahrain; Barbados; Belgium; Bermuda; British Virgin Islands; Brunei Darussalam; Canada; Cayman Islands; Channel Islands; Chile; Croatia; Curaçao; Cyprus; Czech Republic; Denmark; Estonia; Faroe Islands; Finland; France; French Polynesia; Germany; Gibraltar; Greece; Greenland; Guam; Hong Kong SAR, China; Hungary; Iceland; Ireland; Isle of Man; Israel; Italy; Japan; Korea, Rep.; Kuwait; Latvia; Liechtenstein; Lithuania; Luxembourg; Macao SAR, China; Malta; Monaco; Nauru; Netherlands; New Caledonia; New Zealand; Northern Mariana Islands; Norway; Oman; Poland; Portugal; Puerto Rico; Qatar; San Marino; Saudi Arabia; Seychelles; Singapore; Sint Maarten (Dutch part); Slovak Republic; Slovenia; Spain; St. Kitts and Nevis; St. Martin (French part); Sweden; Switzerland; Taiwan, China; Trinidad and Tobago; Turks and Caicos Islands; United Arab Emirates; United Kingdom; United States; Uruguay; Virgin Islands (U.S.)."
+    }
+  ],
+  "owidTags": [
+    "Health Insurance & Spending"
+  ],
+  "resources": [
+    {
+      "path": "Long-run series of health expenditure - World Bank (WDI) (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Public expenditure on health per capita in developing countries (PPP) (World Bank (WDI) (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
