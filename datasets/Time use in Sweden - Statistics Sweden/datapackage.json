@@ -1,0 +1,72 @@
+{
+  "name": "Time use in Sweden - Statistics Sweden",
+  "title": "Time use in Sweden - Statistics Sweden",
+  "id": 2905,
+  "description": "Time spent on activities has been categorised under six main headings: gainful employment, personal needs, housework, leisure, studies, and other activities. \n\nThe definition for each activity is outlined below:\n<ul>\n<li>Gainful employment includes time spent at work and time spent commuting to and from work. </li>\n<li>Personal needs includes meals, personal care, and travel for personal needs. </li>\n<li>Housework includes cooking, washing, ironing, cleaning, caring for own children, caring for others, maintenance work, purchase of goods and services, other housework, and related travel.</li>\n<li>Leisure time includes sports and outdoor activities, TV and radio, hobbies, entertainment, cultural, and social activities, other free time, and related travel. </li>\n<li>Study time includes time spent studying and travel for studies. </li>\n</ul>\n\nFor the original data, see Table 1 in the <a href=\"http://www.scb.se/statistik/_publikationer/LE0103_1990I91_BR_LE80SA9201.pdf\" rel=\"noopener\" target=\"_blank\">1990 Sweden Statistics time use report</a>; Table B:4 in the <a href=\"http://www.scb.se/statistik/LE/LE0103/2003M00/LE99SA0301.pdf\" rel=\"noopener\" target=\"_blank\">2000 report</a>; and Table B:1a in the <a href=\"http://www.scb.se/statistik/_publikationer/LE0103_2010A01_BR_LE123BR1201.pdf\" rel=\"noopener\" target=\"_blank\">2010 report</a>.",
+  "sources": [
+    {
+      "name": "Statistics Sweden",
+      "dataPublishedBy": "Statistics Sweden",
+      "dataPublisherSource": "National time use surveys",
+      "link": "http://www.scb.se/en_/Finding-statistics/Publishing-calendar/Show-detailed-information/?publobjid=18561+",
+      "retrievedDate": "28/08/2018",
+      "additionalInfo": "Time spent on activities has been categorised under six main headings: gainful employment, personal needs, housework, leisure, studies, and other activities. \n\nThe definition for each activity is outlined below:\n<ul>\n<li>Gainful employment includes time spent at work and time spent commuting to and from work. </li>\n<li>Personal needs includes meals, personal care, and travel for personal needs. </li>\n<li>Housework includes cooking, washing, ironing, cleaning, caring for own children, caring for others, maintenance work, purchase of goods and services, other housework, and related travel.</li>\n<li>Leisure time includes sports and outdoor activities, TV and radio, hobbies, entertainment, cultural, and social activities, other free time, and related travel. </li>\n<li>Study time includes time spent studying and travel for studies. </li>\n</ul>\n\nFor the original data, see Table 1 in the <a href=\"http://www.scb.se/statistik/_publikationer/LE0103_1990I91_BR_LE80SA9201.pdf\" rel=\"noopener\" target=\"_blank\">1990 Sweden Statistics time use report</a>; Table B:4 in the <a href=\"http://www.scb.se/statistik/LE/LE0103/2003M00/LE99SA0301.pdf\" rel=\"noopener\" target=\"_blank\">2000 report</a>; and Table B:1a in the <a href=\"http://www.scb.se/statistik/_publikationer/LE0103_2010A01_BR_LE123BR1201.pdf\" rel=\"noopener\" target=\"_blank\">2010 report</a>."
+    }
+  ],
+  "owidTags": [
+    "Working Hours"
+  ],
+  "resources": [
+    {
+      "path": "Time use in Sweden - Statistics Sweden.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Time allocation, weekday, women",
+            "type": "any",
+            "description": "Average minutes spent on a particular activity, by women, on a weekday. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time allocation, weekend, women",
+            "type": "any",
+            "description": "Average minutes spent on a particular activity, by women, on the weekend. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time allocation, weekday, men",
+            "type": "any",
+            "description": "Average minutes spent on a particular activity, by men, on a weekday. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time allocation, weekend, men",
+            "type": "any",
+            "description": "Average minutes spent on a particular activity, by men, on a weekend. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time allocation, average day, women",
+            "type": "any",
+            "description": "Average time spent on a particular activity, by women, on an average day. Estimates take a weighted average of minutes spent on a particular activity on weekdays and on the weekend. \n\nFor example, time spent on leisure on an average day is calculated as: \nLeisure_averageday = (5/7)*Leisure_weekday + (2/7)*Leisure_weekend",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time allocation, average day, men",
+            "type": "any",
+            "description": "Average time spent on a particular activity, by men, on an average day. Estimates take a weighted average of minutes spent on a particular activity on weekdays and on the weekend. \n\nFor example, time spent on leisure on an average day is calculated as: \nLeisure_averageday = (5/7)*Leisure_weekday + (2/7)*Leisure_weekend",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
