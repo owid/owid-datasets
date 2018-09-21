@@ -1,0 +1,90 @@
+{
+  "name": "Religious Composition - Pew (2017)",
+  "title": "Religious Composition - Pew (2017)",
+  "id": 849,
+  "description": "The original dataset reports the share of followers for some religions as \"<1%\" or \">99%\". Because of technical limitations of the visualization tool, these values had to be changed to \"1%\" and \"99%\" respectively.\r\n\r\nIn many countries, censuses and surveys do not provide information on religious subgroups such as Sunni and Shia Muslims or Catholic, Protestant and Orthodox Christians. That is why Pew Research Center provides figures for religious group as a whole.\r\n\r\nFor the purposes of the religious group projections, Pew categorizes the people who identify their religion as atheist, agnostic or nothing in particular as 'unaffiliated'. Data on subgroups of the unaffiliated is also unavailable in many countries. Therefore, separate estimates are not possible for atheists or agnostics.\r\n\r\nPew does not include “cultural” or “ethnic” Jews (i.e. people who have Jewish ancestry but do not describe their present religion as Jewish) in the people who identify their religion as Jewish. A 2013 Pew Research survey found that more than one-in-five U.S. Jewish adults (22%) say they are atheist, agnostic or nothing in particular (categorized as 'unaffiliated'), but consider themselves Jewish aside from religion and have at least one Jewish parent. To avoid double-counting, these people are not included in the Jewish population.\r\n\r\nFinally, Pew Research Center points that within every major religious group, there is a spectrum of belief and practice. The projections are based on the number of people who self-identify with each religious group, regardless of their level of observance. What it means to be Christian, Muslim, Hindu, Buddhist, Jewish or a member of any other faith may vary from person to person, country to country, and decade to decade.",
+  "sources": [
+    {
+      "name": "Religious Composition - Pew (2017)",
+      "dataPublishedBy": "Pew-Templeton Global Religious Futures Project, Pew Research Center (2017)",
+      "dataPublisherSource": "Data from more than 2,500 censuses, surveys and population registers.",
+      "link": "http://www.pewforum.org/2015/04/02/religious-projection-table/2010/percent/all/",
+      "retrievedDate": "04/09/2017",
+      "additionalInfo": "The original dataset reports the share of followers for some religions as \"<1%\" or \">99%\". Because of technical limitations of the visualization tool, these values had to be changed to \"1%\" and \"99%\" respectively.\r\n\r\nIn many countries, censuses and surveys do not provide information on religious subgroups such as Sunni and Shia Muslims or Catholic, Protestant and Orthodox Christians. That is why Pew Research Center provides figures for religious group as a whole.\r\n\r\nFor the purposes of the religious group projections, Pew categorizes the people who identify their religion as atheist, agnostic or nothing in particular as 'unaffiliated'. Data on subgroups of the unaffiliated is also unavailable in many countries. Therefore, separate estimates are not possible for atheists or agnostics.\r\n\r\nPew does not include “cultural” or “ethnic” Jews (i.e. people who have Jewish ancestry but do not describe their present religion as Jewish) in the people who identify their religion as Jewish. A 2013 Pew Research survey found that more than one-in-five U.S. Jewish adults (22%) say they are atheist, agnostic or nothing in particular (categorized as 'unaffiliated'), but consider themselves Jewish aside from religion and have at least one Jewish parent. To avoid double-counting, these people are not included in the Jewish population.\r\n\r\nFinally, Pew Research Center points that within every major religious group, there is a spectrum of belief and practice. The projections are based on the number of people who self-identify with each religious group, regardless of their level of observance. What it means to be Christian, Muslim, Hindu, Buddhist, Jewish or a member of any other faith may vary from person to person, country to country, and decade to decade."
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Religious Composition - Pew (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of Buddhists ",
+            "type": "any",
+            "description": "Share of Buddhists out of country's total population. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of Christians ",
+            "type": "any",
+            "description": "Share of Christians out of country's total population. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of followers of folk religions",
+            "type": "any",
+            "description": "Share of followers of various folk religions in the country's total population. According to Pew Research Center, adherents of folk religions also include followers of African traditional religions, Chinese folk religions, Native American religions and Australian aboriginal religions.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of Hindus",
+            "type": "any",
+            "description": "Share of Hindus out of country's total population. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of Jews ",
+            "type": "any",
+            "description": "Share of Jews out of country's total population. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of Muslims",
+            "type": "any",
+            "description": "Share of Muslims out of country's total population. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of followers of other religions ",
+            "type": "any",
+            "description": "Share of other religions' followers out of country's total population. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of unaffiliated ",
+            "type": "any",
+            "description": "Share of religiously unaffiliated people (e.g. atheists, agnostics and other people who do not affiliate with any religion) out of country's total population. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Main religion ",
+            "type": "any",
+            "description": "Religion with the largest share of followers in a country. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
