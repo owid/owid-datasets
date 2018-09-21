@@ -1,0 +1,44 @@
+{
+  "name": "Disability Adjusted Life Years - WHO (2015)",
+  "title": "Disability Adjusted Life Years - WHO (2015)",
+  "id": 155,
+  "description": "Communicable diseases, as defined by the WHO in their Global Health Observatory data repository includes: HIV/AIDS, tuberculosis, malaria, Neglected tropical diseases, cholera, influenza, meningitis, other vaccine-preventable communicable diseases, and sexually transmitted infections. \n\nData is available at the WHO's Global Health Observatory data repository: http://apps.who.int/gho/data/node.home",
+  "sources": [
+    {
+      "name": "Disability Adjusted Life Years - WHO (2015)",
+      "dataPublishedBy": "WHO",
+      "dataPublisherSource": "Census data / The Institute for Health Metrics and Evaluation (IHME)",
+      "link": "http://apps.who.int/gho/data/node.home",
+      "retrievedDate": "15/11/2017",
+      "additionalInfo": "Communicable diseases, as defined by the WHO in their Global Health Observatory data repository includes: HIV/AIDS, tuberculosis, malaria, Neglected tropical diseases, cholera, influenza, meningitis, other vaccine-preventable communicable diseases, and sexually transmitted infections. \n\nData is available at the WHO's Global Health Observatory data repository: http://apps.who.int/gho/data/node.home"
+    }
+  ],
+  "owidTags": [
+    "Burden of Disease"
+  ],
+  "resources": [
+    {
+      "path": "Disability Adjusted Life Years - WHO (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "All causes - Disability Adjusted Life Years (WHO (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "people per sq. km."
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
