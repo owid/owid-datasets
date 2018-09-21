@@ -1,0 +1,48 @@
+{
+  "name": "Corporal Punishment in Schools - Longitudinal Evidence from Ethiopia, India, Peru and Vietnam (UNICEF 2015)",
+  "title": "Corporal Punishment in Schools - Longitudinal Evidence from Ethiopia, India, Peru and Vietnam (UNICEF 2015)",
+  "id": 1845,
+  "description": "The data in this chart comes from Figure 2 in the source paper, where there are also estimates of children's self-reports of teacher’s use of physical punishment on other children: https://ourworldindata.org/wp-content/uploads/2017/11/Teacher-violence-UNICEF-2015.png",
+  "sources": [
+    {
+      "name": "Ogando Portela and Pells (2015)",
+      "dataPublishedBy": "Ogando Portela, María José, and Kirrily Pells. \"Corporal punishment in schools: longitudinal evidence from Ethiopia, India Peru and Viet Nam.\" (2015).",
+      "dataPublisherSource": "Young Lives longitudinal study of children in four countries over 15 years.",
+      "link": "https://ideas.repec.org/p/ucf/indipa/indipa788.html",
+      "retrievedDate": "28/11/2017",
+      "additionalInfo": "The data in this chart comes from Figure 2 in the source paper, where there are also estimates of children's self-reports of teacher’s use of physical punishment on other children: https://ourworldindata.org/wp-content/uploads/2017/11/Teacher-violence-UNICEF-2015.png"
+    }
+  ],
+  "owidTags": [
+    "Violence against & Rights for Children"
+  ],
+  "resources": [
+    {
+      "path": "Corporal Punishment in Schools - Longitudinal Evidence from Ethiopia, India, Peru and Vietnam (UNICEF 2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Children age 8 who report physical punishment by teachers ",
+            "type": "any",
+            "description": "Children’s self-reports of teacher’s use of physical punishment in the past week, at age 8. Reports combine the response categories ‘once or twice’ and ‘most/all of the time’.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Children age 15 who report physical punishment by teachers",
+            "type": "any",
+            "description": "Children’s self-reports of teacher’s use of physical punishment in the past week, at age 15. Reports combine the response categories ‘once or twice’ and ‘most/all of the time’.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
