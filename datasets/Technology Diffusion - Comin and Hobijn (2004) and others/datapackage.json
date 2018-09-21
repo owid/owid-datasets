@@ -1,0 +1,42 @@
+{
+  "name": "Technology Diffusion - Comin and Hobijn (2004) and others",
+  "title": "Technology Diffusion - Comin and Hobijn (2004) and others",
+  "id": 940,
+  "description": "A similar dataset was previously assembled by Horace Dediu who writes at: http://www.asymco.com/author/asymco/. We are thankful for Horace Dediu's generosity in making his dataset available to us. We have tracked down all of his original sources and assembled our dataset based on these original sources.\n\nThis dataset is a compilation of multiple sources to construct a broad overview of the adoption of technology in the United States. The dataset is comprised of the following sources:\n\n\nIsard (1942) A Neglected Cycle: The Transport-Building Cycle; \n\nArnulf Grubler (1990), The rise and fall of infrastructures: dynamics of evolution and technological change; \n\nLebergott (1993) Pursuring Happiness: American Consumers in the Twentieth Century - for 1989; \n\nNicholas Felton NTY (2014), http://www.nytimes.com/imagepages/2008/02/10/opinion/10op.graphic.ready.html, from 2006 to 2011, data sourced from the US Census Bureau's Extended well-being; \n\nBowden and Offer (1994), Household appliances and the use of time; \n\nLebergott (1976), The American Economy: Income, Wealth and Want; \n\nGisela Rua (2013) Federal Reserve Board, Fixed costs, network effects, and the diffusion of container shipping; \n\nNielsen Television Audience (2008); \n\nDavid Popp (2006), Exploring links between innovation and diffusion; \n\nPopp, Hafner, Johnstone (2007), Policy vs. consumer pressure; \n\nBech and Hobijn (2006), Technology diffusion within central banking; \n\nPew Research Centre; \n\nGreenwood, Seshadri & Yorikoglu (2005), Engines of Liberation. \nData on dishwashers, dryers, freezers, microwaves, refrigerators, and washers uses the US Census Bureau's data from 1992 to 2011, using Greenwood et al. (2005) data for previous years;",
+  "sources": [
+    {
+      "name": "Comin and Hobijn (2004) and others",
+      "dataPublishedBy": "Horace Dediu; Comin and Hobijn (2004) and others",
+      "dataPublisherSource": "Scholarly work, census data",
+      "link": "http://www.asymco.com/author/asymco/\nhttp://www.nber.org/data/chat/",
+      "retrievedDate": "29/09/2017",
+      "additionalInfo": "A similar dataset was previously assembled by Horace Dediu who writes at: http://www.asymco.com/author/asymco/. We are thankful for Horace Dediu's generosity in making his dataset available to us. We have tracked down all of his original sources and assembled our dataset based on these original sources.\n\nThis dataset is a compilation of multiple sources to construct a broad overview of the adoption of technology in the United States. The dataset is comprised of the following sources:\n\n\nIsard (1942) A Neglected Cycle: The Transport-Building Cycle; \n\nArnulf Grubler (1990), The rise and fall of infrastructures: dynamics of evolution and technological change; \n\nLebergott (1993) Pursuring Happiness: American Consumers in the Twentieth Century - for 1989; \n\nNicholas Felton NTY (2014), http://www.nytimes.com/imagepages/2008/02/10/opinion/10op.graphic.ready.html, from 2006 to 2011, data sourced from the US Census Bureau's Extended well-being; \n\nBowden and Offer (1994), Household appliances and the use of time; \n\nLebergott (1976), The American Economy: Income, Wealth and Want; \n\nGisela Rua (2013) Federal Reserve Board, Fixed costs, network effects, and the diffusion of container shipping; \n\nNielsen Television Audience (2008); \n\nDavid Popp (2006), Exploring links between innovation and diffusion; \n\nPopp, Hafner, Johnstone (2007), Policy vs. consumer pressure; \n\nBech and Hobijn (2006), Technology diffusion within central banking; \n\nPew Research Centre; \n\nGreenwood, Seshadri & Yorikoglu (2005), Engines of Liberation. \nData on dishwashers, dryers, freezers, microwaves, refrigerators, and washers uses the US Census Bureau's data from 1992 to 2011, using Greenwood et al. (2005) data for previous years;"
+    }
+  ],
+  "owidTags": [
+    "Technological Progress"
+  ],
+  "resources": [
+    {
+      "path": "Technology Diffusion - Comin and Hobijn (2004) and others.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Technology Diffusion (Comin and Hobijn (2004) and others)",
+            "type": "any",
+            "description": "Running water: Percentage of all American households with access to running water. Flush toilet: Percentage of all American households with access to a flush toilet. Central heating: Percentage of American dwelling units with central heating. Stove: Percentage of US households with a stove. Landline: Percentage of US households with a landline. Electric power: Percentage of US households with electric power. Automobile: Percentage of US households that own an automobile. Radio: Percentage of US households that own a radio. Washing machine: Percentage of US households that own a washing machine. Household refrigerator: Percentage of US households that own a refrigerator. </p> Automatic transmission: Automatic transmission vehicle in percentage of car output. Power steering: Power steering in vehicles in percentage of car output. Home air conditioning: Percentage of US households with home air conditioning. Colour TV: Percentage of US households with colour TV. Shipping container port infrastructure: Percentage adoption of port infrastructure. Disk brakes: Disk brakes in the percentage of car output. Cable TV: Percentage of US households with cable TV. Radial tires: Cars with radial tires in percentage of car output. Electronic ignition: Cars with electronic ignition in percentage of car output. Microcomputer: Percentage of US households with microcomputers. Nox pollution controls (boilers): Percentage of boilers adopting Nox pollution control technologies. Cellular phone: Percentage of US households with a cellular phone. RTGS adoption: Adoption rate of RTGS technology. Podcasting: Percentage of Americans aged 12 or older who have listened to a podcast (ever). Social media usage: Percentage of US adults who use at least one social media site. Smartphone usage: Percentage of US adults who own a smartphone. Ebook reader: Percentage of US adults who own an Ebook reader. Tablet: Percentage of US adults who own a tablet. Dishwasher: Adoption rates of dishwashers in US households. Dryer: Adoption rates of dryers in US households. Electric range: Adoption rates of electric ranges in US households. Freezer: Diffusion rates of freezers in the US economy. Iron: Diffusion rates of ironers in the US economy. Microwave: Diffusion rates of microwaves in the US economy. Refrigerator: Diffusion rates of refrigerators in the US economy. Vacuum: Diffusion rates of vacuums in the US economy. Washer: Diffusion rates of washers in the US economy. Water heater: Diffusion rates of water heaters in the US economy. Television: Adoption rates of TV by US households. Videocassette recorder: Adoption rates of videocassette recorders by US households. Computer: Adoption rates of computers by US households. Internet: Percentage of US households with access to the internet.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
