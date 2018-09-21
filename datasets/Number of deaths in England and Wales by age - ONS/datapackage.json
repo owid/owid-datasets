@@ -1,0 +1,54 @@
+{
+  "name": "Number of deaths in England and Wales by age - ONS",
+  "title": "Number of deaths in England and Wales by age - ONS",
+  "id": 1935,
+  "description": "Total annual number of deaths by age group in England and Wales across all causes. Data for infants <1 years old are not included.",
+  "sources": [
+    {
+      "name": "Number of deaths in England and Wales by age - ONS",
+      "dataPublishedBy": "Office for National Statistics (ONS)",
+      "dataPublisherSource": null,
+      "link": "https://visual.ons.gov.uk/causes-of-death-over-100-years/",
+      "retrievedDate": "31st January 2018",
+      "additionalInfo": "Total annual number of deaths by age group in England and Wales across all causes. Data for infants <1 years old are not included."
+    }
+  ],
+  "owidTags": [
+    "Age Structure and Mortality by Age"
+  ],
+  "resources": [
+    {
+      "path": "Number of deaths in England and Wales by age - ONS.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Male (number of deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Female (number of deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Both sexes (number of deaths)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
