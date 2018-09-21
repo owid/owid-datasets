@@ -1,0 +1,5 @@
+# Country Income Classification - World Bank (2017)
+
+–The Atlas methodology is used to reduce the impact of exchange rate fluctuations in the cross-country comparison of national incomes. The Atlas conversion factor for any year is the average of a country's exchange rate for that year and its exchange rates for the two preceding years, adjusted for the differences between the rate of inflation in the country and that in Japan, the United Kingdom, the United States, and the Euro area. A country's inflation rate is measured by the change in its GDP deflator. The inflation rate for the above countries, representing international inflation, is measured by the changes in the SDR deflator. (Special drawing rights, or SDRs, are the IMF's unit of account.)
+
+– Data on Serbia & Montenegro, prior to 2006 have been allocated to the sovereign states of Serbia, and Montenegro, respectively. Similarly, the 15 post-Soviet States have been allocated the USSR's classification for 1990. This includes Moldova, Estonia, Latvia, Lithuania, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan, Russia, Armenia, Azerbaijan, Georgia, Ukraine, and Belarus.
