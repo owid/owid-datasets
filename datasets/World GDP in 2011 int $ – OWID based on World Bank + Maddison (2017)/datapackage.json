@@ -1,0 +1,44 @@
+{
+  "name": "World GDP in 2011 int $ – OWID based on World Bank + Maddison (2017)",
+  "title": "World GDP in 2011 int $ – OWID based on World Bank + Maddison (2017)",
+  "id": 393,
+  "description": "The data presented here from 1990 onwards is from the World Bank. It is total global GDP in 2011 international-$ as published here: http://data.worldbank.org/indicator/NY.GDP.MKTP.PP.KD (accessed on April 16, 2017). Data earlier than 1990 is backwards extended from the World Bank observation for 1990 based on the growth rates implied by Maddison data. The Maddison data is published here: http://www.ggdc.net/maddison/oriindex.htm",
+  "sources": [
+    {
+      "name": "World GDP - Our World In Data based on World Bank & Maddison (2017)",
+      "dataPublishedBy": "New Maddison Project Database and World Bank",
+      "dataPublisherSource": "Census data, historical data from scholarly work. ",
+      "link": "Please see additional information for links",
+      "retrievedDate": "16/04/2017",
+      "additionalInfo": "The data presented here from 1990 onwards is from the World Bank. It is total global GDP in 2011 international-$ as published here: http://data.worldbank.org/indicator/NY.GDP.MKTP.PP.KD (accessed on April 16, 2017). Data earlier than 1990 is backwards extended from the World Bank observation for 1990 based on the growth rates implied by Maddison data. The Maddison data is published here: http://www.ggdc.net/maddison/oriindex.htm"
+    }
+  ],
+  "owidTags": [
+    "GDP Data"
+  ],
+  "resources": [
+    {
+      "path": "World GDP in 2011 int $ – OWID based on World Bank + Maddison (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "World GDP in 2011 Int.$ (OWID based on World Bank & Maddison (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
