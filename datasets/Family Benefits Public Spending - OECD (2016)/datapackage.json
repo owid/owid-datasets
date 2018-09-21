@@ -1,0 +1,42 @@
+{
+  "name": "Family Benefits Public Spending - OECD (2016)",
+  "title": "Family Benefits Public Spending - OECD (2016)",
+  "id": 926,
+  "description": "",
+  "sources": [
+    {
+      "name": "OECD (2016)",
+      "dataPublishedBy": "OECD",
+      "dataPublisherSource": "OECD research and calculation (see below link for more detail)",
+      "link": "https://data.oecd.org/socialexp/family-benefits-public-spending.htm",
+      "retrievedDate": "12/09/2016",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Social Spending"
+  ],
+  "resources": [
+    {
+      "path": "Family Benefits Public Spending - OECD (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Family benefits public spending (% GDP) (OECD (2016))",
+            "type": "any",
+            "description": "Family benefits spending refer to public spending on family benefits, including financial support that is exclusively for families and children. There are three types of public spending on family benefits included in this indicator: 1). Child-related cash transfers to families with children, 2). Public spending on services for families with children, 3). Financial support for families provided through the tax system, including tax exemptions. The indicator is measured as percentage of GDP.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
