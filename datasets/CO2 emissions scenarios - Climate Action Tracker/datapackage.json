@@ -1,0 +1,114 @@
+{
+  "name": "CO2 emissions scenarios - Climate Action Tracker",
+  "title": "CO2 emissions scenarios - Climate Action Tracker",
+  "id": 2770,
+  "description": "Future greenhouse gas emissions can take various pathways: all with variable impacts on climatic outcomes.\n\nThe pathways represented here are based on the basis of no climate policies; current policies implemented; pledges by all countries within the Paris agreement, and 2C and 1.5C consistent pathways. \n\nEach scenario incorporates a range of uncertain potential pathways - these are shown as upper and lower bounds for each.",
+  "sources": [
+    {
+      "name": "CO2 emissions scenarios - Climate Action Tracker",
+      "dataPublishedBy": "Climate Action Tracker (CAT)",
+      "dataPublisherSource": null,
+      "link": "www.climateactiontracker.org",
+      "retrievedDate": "27th April 2018",
+      "additionalInfo": "Future greenhouse gas emissions can take various pathways: all with variable impacts on climatic outcomes.\n\nThe pathways represented here are based on the basis of no climate policies; current policies implemented; pledges by all countries within the Paris agreement, and 2C and 1.5C consistent pathways. \n\nEach scenario incorporates a range of uncertain potential pathways - these are shown as upper and lower bounds for each."
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "CO2 emissions scenarios - Climate Action Tracker.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "No climate policies (high)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "No climate policies (low)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Current policies (high)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Current policies (low)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Pledges (high)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Pledges (low)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "2C pathways (high)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "2C pathways (median)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "2C pathways (low)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "1.5C pathways (high)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "1.5C pathways (median)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "1.5C pathways (low)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Historic",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
