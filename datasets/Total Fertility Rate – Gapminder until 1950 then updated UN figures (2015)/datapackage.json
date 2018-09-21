@@ -1,0 +1,42 @@
+{
+  "name": "Total Fertility Rate – Gapminder until 1950 then updated UN figures (2015)",
+  "title": "Total Fertility Rate – Gapminder until 1950 then updated UN figures (2015)",
+  "id": 703,
+  "description": "Up to 1949 the data published in Version 6 of the Gapminder dataset was used. All information can be found at the source: https://www.gapminder.org/news/children-per-women-since-1800-in-gapminder-world/ \r\n\r\nData from 1950 onwards was obtained from the interpolated series published in the UN World Population Prospects 2017 which is available online here: https://esa.un.org/unpd/wpp/Download/Standard/Interpolated/",
+  "sources": [
+    {
+      "name": "Gapminder for estimates until 1949; UN Population Division for 1950 to 2015",
+      "dataPublishedBy": "We have combined two data sources: Gapminder's dataset for fertility rates until 1949; and the UN Population Division for data between 1950 to 2015",
+      "dataPublisherSource": "Census data.",
+      "link": "https://www.gapminder.org/news/children-per-women-since-1800-in-gapminder-world/ and https://esa.un.org/unpd/wpp/Download/Standard/Interpolated/ ",
+      "retrievedDate": "2017-August-26",
+      "additionalInfo": "Up to 1949 the data published in Version 6 of the Gapminder dataset was used. All information can be found at the source: https://www.gapminder.org/news/children-per-women-since-1800-in-gapminder-world/ \r\n\r\nData from 1950 onwards was obtained from the interpolated series published in the UN World Population Prospects 2017 which is available online here: https://esa.un.org/unpd/wpp/Download/Standard/Interpolated/"
+    }
+  ],
+  "owidTags": [
+    "Fertility Rates"
+  ],
+  "resources": [
+    {
+      "path": "Total Fertility Rate – Gapminder until 1950 then updated UN figures (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total Fertility Rate (Gapminder until 1949; UN Population Division for 1950 to 2015)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
