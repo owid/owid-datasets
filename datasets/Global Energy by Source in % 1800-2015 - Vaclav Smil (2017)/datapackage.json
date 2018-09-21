@@ -1,0 +1,124 @@
+{
+  "name": "Global Energy by Source in % 1800-2015 - Vaclav Smil (2017)",
+  "title": "Global Energy by Source in % 1800-2015 - Vaclav Smil (2017)",
+  "id": 552,
+  "description": "This data has been sourced from Appendix A of Vaclav Smil's Updated and Revised Edition of his book, 'Energy Transitions: Global and National Perspectives' (2017).\r\n\r\nThis book can be found on Smil's website at: http://vaclavsmil.com/2016/12/14/energy-transitions-global-and-national-perspectives-second-expanded-and-updated-edition/ [accessed 2017-06-29]",
+  "sources": [
+    {
+      "name": "Global Energy by Source in % 1800-2015 - Vaclav Smil (2017)",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "This data has been sourced from Appendix A of Vaclav Smil's Updated and Revised Edition of his book, 'Energy Transitions: Global and National Perspectives' (2017).\r\n\r\nThis book can be found on Smil's website at: http://vaclavsmil.com/2016/12/14/energy-transitions-global-and-national-perspectives-second-expanded-and-updated-edition/ [accessed 2017-06-29]"
+    }
+  ],
+  "owidTags": [
+    "Energy Production & Changing Energy Sources"
+  ],
+  "resources": [
+    {
+      "path": "Global Energy by Source in % 1800-2015 - Vaclav Smil (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Coal (%)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Crude oil (%)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Per 100,000 population"
+            }
+          },
+          {
+            "name": "Natural gas (%)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Number"
+            }
+          },
+          {
+            "name": "Hydroelectricity (Vaclav Smil (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Nuclear (%)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Wind and solar (Vaclav Smil (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "USD"
+            }
+          },
+          {
+            "name": "Modern biofuels (Vaclav Smil (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Traditional biofuels (%)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Per 100,000 live births"
+            }
+          },
+          {
+            "name": "Solar (%)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Other renewables (%)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Hydropower (%)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Wind (%)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
