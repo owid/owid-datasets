@@ -1,0 +1,108 @@
+{
+  "name": "Depression prevalence by education - OECD",
+  "title": "Depression prevalence by education - OECD",
+  "id": 2765,
+  "description": "Share of adults (aged 25-64 years) who report having depression in data surveys, disaggregated by highest level of education. This is further differentiated based on those who are employed, active (those actively looking for work), and the total (which is the total population, including those unemployed).",
+  "sources": [
+    {
+      "name": "Depression prevalence by education - OECD",
+      "dataPublishedBy": "Organisation for Economic Co-operation and Development (OECD) Statistics",
+      "dataPublisherSource": null,
+      "link": "https://stats.oecd.org/Index.aspx?DataSetCode=EAG_ESO#",
+      "retrievedDate": "22nd April 2018",
+      "additionalInfo": "Share of adults (aged 25-64 years) who report having depression in data surveys, disaggregated by highest level of education. This is further differentiated based on those who are employed, active (those actively looking for work), and the total (which is the total population, including those unemployed)."
+    }
+  ],
+  "owidTags": [
+    "Mental Health"
+  ],
+  "resources": [
+    {
+      "path": "Depression prevalence by education - OECD.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "All levels of education (active)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "All levels of education (employed)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "All levels of education (total)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Below upper secondary education (active)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Below upper secondary education (employed)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Below upper secondary education (total)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Tertiary education (active)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Tertiary education (employed)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Tertiary education (total)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Upper secondary and post-secondary non-tertiary education (active)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Upper secondary and post-secondary non-tertiary education (employed)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Upper secondary and post-secondary non-tertiary education (total)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
