@@ -1,0 +1,98 @@
+{
+  "name": "Maddison Project Database 2018 (Bolt et al. (2018))",
+  "title": "Maddison Project Database 2018 (Bolt et al. (2018))",
+  "id": 1924,
+  "description": "Full citation: \r\nMaddison Project Database, version 2018. Bolt, Jutta, Robert Inklaar, Herman de Jong and Jan Luiten van Zanden (2018), “Rebasing ‘Maddison’: new income comparisons and the shape of long-run economic development”, Maddison Project Working paper 10\r\n\r\nThe original Maddison Project dataset expresses the population \"in thousands\". In our dataset we have multiplied it by 1000 to avoid expressing it \"in thousands\".\r\n\r\nThe Maddison region definitions were adapted from the source from Maddison (2010)'s homepage at: http://www.ggdc.net/maddison/oriindex.htm under the heading \"Historical Statistics\" and the file titled: Statistics on World Population, GDP and Per Capita GDP, 1-2008 AD (Horizontal file, copyright Angus Maddison, University of Groningen) \r\n\r\nTo calculate average real GDP per capita across regions, we have calculated a population weight for each country per year by dividing country population in year x by the total regional population. This weight has been used to multiply real GDP per capita (in 2011US$, with multiple benchmarks) to give real regional GDP per capita weighted by population.",
+  "sources": [
+    {
+      "name": "Maddison Project Database (2018)",
+      "dataPublishedBy": "Maddison Project Database, version 2018. Bolt, Jutta, Robert Inklaar, Herman de Jong and Jan Luiten van Zanden (2018), “Rebasing ‘Maddison’: new income comparisons and the shape of long-run economic development”, Maddison Project Working paper 10",
+      "dataPublisherSource": "Historical data and reconstructions from a large number of different sources. See the accompanying paper for details",
+      "link": "https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018 and http://www.ggdc.net/maddison/oriindex.htm",
+      "retrievedDate": "24/01/2018",
+      "additionalInfo": "Full citation: \r\nMaddison Project Database, version 2018. Bolt, Jutta, Robert Inklaar, Herman de Jong and Jan Luiten van Zanden (2018), “Rebasing ‘Maddison’: new income comparisons and the shape of long-run economic development”, Maddison Project Working paper 10\r\n\r\nThe original Maddison Project dataset expresses the population \"in thousands\". In our dataset we have multiplied it by 1000 to avoid expressing it \"in thousands\".\r\n\r\nThe Maddison region definitions were adapted from the source from Maddison (2010)'s homepage at: http://www.ggdc.net/maddison/oriindex.htm under the heading \"Historical Statistics\" and the file titled: Statistics on World Population, GDP and Per Capita GDP, 1-2008 AD (Horizontal file, copyright Angus Maddison, University of Groningen) \r\n\r\nTo calculate average real GDP per capita across regions, we have calculated a population weight for each country per year by dividing country population in year x by the total regional population. This weight has been used to multiply real GDP per capita (in 2011US$, with multiple benchmarks) to give real regional GDP per capita weighted by population."
+    }
+  ],
+  "owidTags": [
+    "GDP Growth over the Very Long Run"
+  ],
+  "resources": [
+    {
+      "path": "Maddison Project Database 2018 (Bolt et al. (2018)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Real GDP per capita in 2011US$, multiple benchmarks (Maddison Project Database (2018))",
+            "type": "any",
+            "description": "Measure of real GDP per capita accounts for inflation, i.e. changes in the price level, and this per capita GDP is suitable for cross-country income comparisons. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Real GDP per capita in 2011US$, 2011 benchmark (Maddison Project Database (2018))",
+            "type": "any",
+            "description": "Measure of real GDP per capita accounts for inflation, i.e. changes in the price level, and this per capita GDP is suitable for cross-country growth comparisons. ",
+            "owidDisplaySettings": {
+              "unit": "$"
+            }
+          },
+          {
+            "name": "Population (Maddison Project Database (2018))",
+            "type": "any",
+            "description": "Total population of a country in a given year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total real GDP in 2011US$, multiple benchmarks (Maddison Project Database (2018))",
+            "type": "any",
+            "description": "Arrived at by multiplying real GDP per capita in 2011US$ (multiple benchmarks) with total population by country in a given year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total real GDP in 2011US$, 2011 benchmark (Maddison Project Database (2018))",
+            "type": "any",
+            "description": "Arrived at by multiplying real GDP per capita in 2011US$ (2011 benchmark) with total population by country in a given year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Maddison region definition (Maddison (2010))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Average real GDP per capita across Maddison's definitions (Maddison Project Database (2018))",
+            "type": "any",
+            "description": "Measures the average real GDP per capita, weighted by regional populations, using multiple benchmarks - where regions are weighted according to population (defined according to Maddison's groupings).",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Average real GDP per capita across OWID regions (OWID calculations based on Maddison Project Database (2018))",
+            "type": "any",
+            "description": "Measures the average real GDP per capita, by region and year, weighted by regional populations - where regions are defined according to the OWID definition.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Real GDP per capita, 2011 benchmarks, by region (Maddison Project Database (2018))",
+            "type": "any",
+            "description": "Measured in 2011US$ (suitable for cross-country growth comparisons)",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Population by region (Maddison Project Database (2018))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
