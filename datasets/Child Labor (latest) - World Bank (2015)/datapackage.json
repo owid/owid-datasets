@@ -1,0 +1,50 @@
+{
+  "name": "Child Labor (latest) - World Bank (2015)",
+  "title": "Child Labor (latest) - World Bank (2015)",
+  "id": 180,
+  "description": "",
+  "sources": [
+    {
+      "name": "Understanding Children's Work project based on data from ILO, UNICEF and the World Bank",
+      "dataPublishedBy": "World Bank",
+      "dataPublisherSource": "Census Data, ILO, UNICEF",
+      "link": "http://data.worldbank.org/indicators",
+      "retrievedDate": "04/02/2015",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Child Labor"
+  ],
+  "resources": [
+    {
+      "path": "Child Labor (latest) - World Bank (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Child labor (boys, latest) (World Bank (2015))",
+            "type": "any",
+            "description": "Share of boys ages 10-14 in employment.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Child labor (girls, latest) (World Bank (2015))",
+            "type": "any",
+            "description": "Share of girls aged 7-14 in employment.",
+            "owidDisplaySettings": {
+              "unit": "years"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
