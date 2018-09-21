@@ -1,0 +1,44 @@
+{
+  "name": "CO2 from gas - CDIAC (2017)",
+  "title": "CO2 from gas - CDIAC (2017)",
+  "id": 412,
+  "description": "CDIAC data originally sourced from:\r\n\r\nT.A. Boden, G. Marland, and R.J. Andres. 2017. Global, Regional, and National Fossil-Fuel CO2 Emissions. Available at: doi:10.3334/CDIAC/00001_V2010\r\n\r\nData originally reported in units of carbon. This has been converted to units of CO2 using a conversion factor of 3.67.",
+  "sources": [
+    {
+      "name": "CO2 from gas - CDIAC (2017)",
+      "dataPublishedBy": "Carbon Dioxide Information Analysis Center (CDIAC)",
+      "dataPublisherSource": null,
+      "link": "http://cdiac.ornl.gov/CO2_Emission/",
+      "retrievedDate": "20/04/2017",
+      "additionalInfo": "CDIAC data originally sourced from:\r\n\r\nT.A. Boden, G. Marland, and R.J. Andres. 2017. Global, Regional, and National Fossil-Fuel CO2 Emissions. Available at: doi:10.3334/CDIAC/00001_V2010\r\n\r\nData originally reported in units of carbon. This has been converted to units of CO2 using a conversion factor of 3.67."
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "CO2 from gas - CDIAC (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "CO2 from gas (CDIAC (2017))",
+            "type": "any",
+            "description": "Annual CO2 emissions sourced from gas (million tonnes).",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
