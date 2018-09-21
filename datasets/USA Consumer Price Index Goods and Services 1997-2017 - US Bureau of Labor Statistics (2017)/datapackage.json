@@ -1,0 +1,126 @@
+{
+  "name": "USA Consumer Price Index Goods and Services 1997-2017 - US Bureau of Labor Statistics (2017)",
+  "title": "USA Consumer Price Index Goods and Services 1997-2017 - US Bureau of Labor Statistics (2017)",
+  "id": 566,
+  "description": "The Bureau of Labor Statistics report on the monthly Consumer Price Index (CPI) of individual goods and services for urban consumers at a national, city and state level.\r\n\r\nData used in this sequence are based on the USA national average of urban consumers, relative to December 1997 (which has been given the value of zero). CPI is presented on an annual basis, which we have derived as the average of the monthly CPIs in a given year.",
+  "sources": [
+    {
+      "name": "USA Consumer Price Index Goods and Services - Bureau of Labor Statistics (2017)",
+      "dataPublishedBy": "United States Bureau of Labor Statistics (BLS)",
+      "dataPublisherSource": "Census data.",
+      "link": "https://beta.bls.gov/dataQuery/search",
+      "retrievedDate": "11/07/2017",
+      "additionalInfo": "The Bureau of Labor Statistics report on the monthly Consumer Price Index (CPI) of individual goods and services for urban consumers at a national, city and state level.\r\n\r\nData used in this sequence are based on the USA national average of urban consumers, relative to December 1997 (which has been given the value of zero). CPI is presented on an annual basis, which we have derived as the average of the monthly CPIs in a given year."
+    }
+  ],
+  "owidTags": [
+    "Price Data"
+  ],
+  "resources": [
+    {
+      "path": "USA Consumer Price Index Goods and Services 1997-2017 - US Bureau of Labor Statistics (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Household furnishings (US Bureau of Labor Statistics (2017)) ",
+            "type": "any",
+            "description": "Price change in consumer goods and services in the USA, measured as the percentage change since 1997.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Household energy (US Bureau of Labor Statistics (2017))",
+            "type": "any",
+            "description": "Price change in consumer goods and services in the USA, measured as the percentage change since 1997.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Childcare (US Bureau of Labor Statistics (2017))",
+            "type": "any",
+            "description": "Price change in consumer goods and services in the USA, measured as the percentage change since 1997.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "College tuition fees (US Bureau of Labor Statistics (2017))",
+            "type": "any",
+            "description": "Price change in consumer goods and services in the USA, measured as the percentage change since 1997.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Education (US Bureau of Labor Statistics (2017))",
+            "type": "any",
+            "description": "Price change in consumer goods and services in the USA, measured as the percentage change since 1997.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Toys (US Bureau of Labor Statistics (2017))",
+            "type": "any",
+            "description": "Price change in consumer goods and services in the USA, measured as the percentage change since 1997.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Food & Beverages (US Bureau of Labor Statistics (2017))",
+            "type": "any",
+            "description": "Price change in consumer goods and services in the USA, measured as the percentage change since 1997.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Housing (US Bureau of Labor Statistics (2017))",
+            "type": "any",
+            "description": "Price change in consumer goods and services in the USA, measured as the percentage change since 1997.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Medical care (US Bureau of Labor Statistics (2017))",
+            "type": "any",
+            "description": "Price change in consumer goods and services in the USA, measured as the percentage change since 1997.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "New cars (US Bureau of Labor Statistics (2017))",
+            "type": "any",
+            "description": "Price change in consumer goods and services in the USA, measured as the percentage change since 1997.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Clothing (US Bureau of Labor Statistics (2017))",
+            "type": "any",
+            "description": "Price change in consumer goods and services in the USA, measured as the percentage change since 1997.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "TVs (US Bureau of Labor Statistics (2017))",
+            "type": "any",
+            "description": "Price change in consumer goods and services in the USA, measured as the percentage change since 1997.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Software (US Bureau of Labor Statistics (2017))",
+            "type": "any",
+            "description": "Price change in consumer goods and services in the USA, measured as the percentage change since 1997.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "All items (US Bureau of Labor Statistics (2017))",
+            "type": "any",
+            "description": "Price change in consumer goods and services in the USA, measured as the percentage change since 1997.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Public transportation (US Bureau of Labor Statistics (2017))",
+            "type": "any",
+            "description": "Price change in consumer goods and services in the USA, measured as the percentage change since 1997.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
