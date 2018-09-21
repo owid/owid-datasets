@@ -1,0 +1,7443 @@
+Entity,Year,Immunization rate against measles (% of children ages 12-23 months) (World Bank (WDI) (2016))
+Afghanistan,1980,11
+Afghanistan,1982,8
+Afghanistan,1983,9
+Afghanistan,1984,14
+Afghanistan,1985,14
+Afghanistan,1986,14
+Afghanistan,1987,31
+Afghanistan,1988,34
+Afghanistan,1989,22
+Afghanistan,1990,20
+Afghanistan,1991,19
+Afghanistan,1992,22
+Afghanistan,1993,25
+Afghanistan,1994,40
+Afghanistan,1995,41
+Afghanistan,1996,42
+Afghanistan,1997,38
+Afghanistan,1998,31
+Afghanistan,1999,31
+Afghanistan,2000,27
+Afghanistan,2001,37
+Afghanistan,2002,35
+Afghanistan,2003,39
+Afghanistan,2004,48
+Afghanistan,2005,50
+Afghanistan,2006,53
+Afghanistan,2007,55
+Afghanistan,2008,59
+Afghanistan,2009,60
+Afghanistan,2010,62
+Afghanistan,2011,64
+Afghanistan,2012,59
+Afghanistan,2013,60
+Afghanistan,2014,66
+Albania,1980,90
+Albania,1981,90
+Albania,1982,93
+Albania,1983,96
+Albania,1984,96
+Albania,1985,96
+Albania,1986,96
+Albania,1987,96
+Albania,1988,96
+Albania,1989,96
+Albania,1990,88
+Albania,1991,80
+Albania,1992,87
+Albania,1993,76
+Albania,1994,90
+Albania,1995,91
+Albania,1996,92
+Albania,1997,95
+Albania,1998,89
+Albania,1999,85
+Albania,2000,95
+Albania,2001,95
+Albania,2002,96
+Albania,2003,93
+Albania,2004,96
+Albania,2005,97
+Albania,2006,95
+Albania,2007,97
+Albania,2008,98
+Albania,2009,97
+Albania,2010,99
+Albania,2011,99
+Albania,2012,98
+Albania,2013,99
+Albania,2014,98
+Algeria,1985,68
+Algeria,1986,67
+Algeria,1987,73
+Algeria,1988,81
+Algeria,1989,82
+Algeria,1990,83
+Algeria,1991,85
+Algeria,1992,86
+Algeria,1993,87
+Algeria,1994,88
+Algeria,1995,89
+Algeria,1996,90
+Algeria,1997,92
+Algeria,1998,84
+Algeria,1999,83
+Algeria,2000,80
+Algeria,2001,83
+Algeria,2002,81
+Algeria,2003,84
+Algeria,2004,81
+Algeria,2005,83
+Algeria,2006,91
+Algeria,2007,92
+Algeria,2008,88
+Algeria,2009,92
+Algeria,2010,95
+Algeria,2011,95
+Algeria,2012,95
+Algeria,2013,95
+Algeria,2014,95
+Andorra,1997,90
+Andorra,1998,90
+Andorra,1999,97
+Andorra,2000,97
+Andorra,2001,97
+Andorra,2002,98
+Andorra,2003,96
+Andorra,2004,98
+Andorra,2005,94
+Andorra,2006,91
+Andorra,2007,94
+Andorra,2008,98
+Andorra,2009,98
+Andorra,2010,99
+Andorra,2011,99
+Andorra,2012,98
+Andorra,2013,95
+Andorra,2014,96
+Angola,1983,26
+Angola,1984,35
+Angola,1985,44
+Angola,1986,44
+Angola,1987,55
+Angola,1988,56
+Angola,1989,48
+Angola,1990,38
+Angola,1991,39
+Angola,1992,39
+Angola,1993,47
+Angola,1994,44
+Angola,1995,46
+Angola,1996,62
+Angola,1997,78
+Angola,1998,62
+Angola,1999,46
+Angola,2000,41
+Angola,2001,72
+Angola,2002,74
+Angola,2003,62
+Angola,2004,64
+Angola,2005,45
+Angola,2006,48
+Angola,2007,88
+Angola,2008,79
+Angola,2009,77
+Angola,2010,93
+Angola,2011,88
+Angola,2012,97
+Angola,2013,91
+Angola,2014,85
+Antigua and Barbuda,1983,48
+Antigua and Barbuda,1984,73
+Antigua and Barbuda,1985,69
+Antigua and Barbuda,1986,80
+Antigua and Barbuda,1987,89
+Antigua and Barbuda,1988,95
+Antigua and Barbuda,1989,95
+Antigua and Barbuda,1990,89
+Antigua and Barbuda,1991,87
+Antigua and Barbuda,1992,99
+Antigua and Barbuda,1993,99
+Antigua and Barbuda,1994,91
+Antigua and Barbuda,1995,93
+Antigua and Barbuda,1996,99
+Antigua and Barbuda,1997,93
+Antigua and Barbuda,1998,99
+Antigua and Barbuda,1999,99
+Antigua and Barbuda,2000,95
+Antigua and Barbuda,2001,97
+Antigua and Barbuda,2002,99
+Antigua and Barbuda,2003,99
+Antigua and Barbuda,2004,97
+Antigua and Barbuda,2005,99
+Antigua and Barbuda,2006,99
+Antigua and Barbuda,2007,99
+Antigua and Barbuda,2008,99
+Antigua and Barbuda,2009,99
+Antigua and Barbuda,2010,98
+Antigua and Barbuda,2011,99
+Antigua and Barbuda,2012,98
+Antigua and Barbuda,2013,98
+Antigua and Barbuda,2014,98
+Arab World,1981,22.51259756
+Arab World,1982,26.39715961
+Arab World,1983,30.50247218
+Arab World,1984,36.90719653
+Arab World,1985,54.03004578
+Arab World,1986,59.70847643
+Arab World,1987,63.3097327
+Arab World,1988,71.61270768
+Arab World,1989,77.19291288
+Arab World,1990,77.67158964
+Arab World,1991,77.1304922
+Arab World,1992,75.48567781
+Arab World,1993,75.69552042
+Arab World,1994,75.11935734
+Arab World,1995,77.04709287
+Arab World,1996,79.15200218
+Arab World,1997,78.86514901
+Arab World,1998,81.05944105
+Arab World,1999,81.27788169
+Arab World,2000,81.50594885
+Arab World,2001,81.085788
+Arab World,2002,81.25091748
+Arab World,2003,81.60057286
+Arab World,2004,82.34752112
+Arab World,2005,82.71179169
+Arab World,2006,82.32840732
+Arab World,2007,83.75507683
+Arab World,2008,83.71944947
+Arab World,2009,86.05454581
+Arab World,2010,87.58374752
+Arab World,2011,87.25564457
+Arab World,2012,84.70835573
+Arab World,2013,85.31953961
+Arab World,2014,83.73823068
+Argentina,1980,61
+Argentina,1981,77
+Argentina,1982,67
+Argentina,1983,67
+Argentina,1984,79
+Argentina,1985,54
+Argentina,1986,87
+Argentina,1987,80
+Argentina,1988,87
+Argentina,1989,89
+Argentina,1990,93
+Argentina,1991,99
+Argentina,1992,92
+Argentina,1993,95
+Argentina,1994,96
+Argentina,1995,99
+Argentina,1996,99
+Argentina,1997,93
+Argentina,1998,95
+Argentina,1999,97
+Argentina,2000,91
+Argentina,2001,89
+Argentina,2002,95
+Argentina,2003,97
+Argentina,2004,99
+Argentina,2005,99
+Argentina,2006,97
+Argentina,2007,94
+Argentina,2008,96
+Argentina,2009,99
+Argentina,2010,98
+Argentina,2011,95
+Argentina,2012,94
+Argentina,2013,94
+Argentina,2014,95
+Armenia,1992,93
+Armenia,1993,95
+Armenia,1994,95
+Armenia,1995,96
+Armenia,1996,89
+Armenia,1997,92
+Armenia,1998,94
+Armenia,1999,92
+Armenia,2000,92
+Armenia,2001,93
+Armenia,2002,91
+Armenia,2003,94
+Armenia,2004,92
+Armenia,2005,94
+Armenia,2006,92
+Armenia,2007,92
+Armenia,2008,94
+Armenia,2009,96
+Armenia,2010,97
+Armenia,2011,97
+Armenia,2012,97
+Armenia,2013,97
+Armenia,2014,97
+Australia,1983,68
+Australia,1984,68
+Australia,1985,68
+Australia,1986,68
+Australia,1987,68
+Australia,1988,77
+Australia,1989,85
+Australia,1990,86
+Australia,1991,86
+Australia,1992,86
+Australia,1993,86
+Australia,1994,86
+Australia,1995,87
+Australia,1996,87
+Australia,1997,85
+Australia,1998,82
+Australia,1999,88
+Australia,2000,91
+Australia,2001,92
+Australia,2002,94
+Australia,2003,94
+Australia,2004,94
+Australia,2005,94
+Australia,2006,94
+Australia,2007,94
+Australia,2008,94
+Australia,2009,94
+Australia,2010,94
+Australia,2011,94
+Australia,2012,94
+Australia,2013,94
+Australia,2014,93
+Austria,1981,25
+Austria,1982,25
+Austria,1983,25
+Austria,1984,30
+Austria,1985,40
+Austria,1986,60
+Austria,1987,60
+Austria,1988,60
+Austria,1989,60
+Austria,1990,60
+Austria,1991,60
+Austria,1992,60
+Austria,1993,60
+Austria,1994,60
+Austria,1995,60
+Austria,1996,87
+Austria,1997,90
+Austria,1998,78
+Austria,1999,65
+Austria,2000,75
+Austria,2001,79
+Austria,2002,78
+Austria,2003,79
+Austria,2004,74
+Austria,2005,75
+Austria,2006,80
+Austria,2007,79
+Austria,2008,83
+Austria,2009,76
+Austria,2010,76
+Austria,2011,76
+Austria,2012,76
+Austria,2013,76
+Austria,2014,76
+Azerbaijan,1992,52
+Azerbaijan,1993,49
+Azerbaijan,1994,60
+Azerbaijan,1995,64
+Azerbaijan,1996,65
+Azerbaijan,1997,66
+Azerbaijan,1998,67
+Azerbaijan,1999,68
+Azerbaijan,2000,67
+Azerbaijan,2001,68
+Azerbaijan,2002,66
+Azerbaijan,2003,67
+Azerbaijan,2004,67
+Azerbaijan,2005,67
+Azerbaijan,2006,69
+Azerbaijan,2007,75
+Azerbaijan,2008,79
+Azerbaijan,2009,85
+Azerbaijan,2010,89
+Azerbaijan,2011,92
+Azerbaijan,2012,94
+Azerbaijan,2013,98
+Azerbaijan,2014,98
+Bahamas,1982,65
+Bahamas,1983,66
+Bahamas,1984,63
+Bahamas,1985,79
+Bahamas,1986,85
+Bahamas,1987,87
+Bahamas,1988,78
+Bahamas,1989,87
+Bahamas,1990,86
+Bahamas,1991,93
+Bahamas,1992,94
+Bahamas,1993,88
+Bahamas,1994,88
+Bahamas,1995,90
+Bahamas,1996,92
+Bahamas,1997,93
+Bahamas,1998,92
+Bahamas,1999,86
+Bahamas,2000,93
+Bahamas,2001,94
+Bahamas,2002,94
+Bahamas,2003,90
+Bahamas,2004,89
+Bahamas,2005,85
+Bahamas,2006,88
+Bahamas,2007,96
+Bahamas,2008,90
+Bahamas,2009,98
+Bahamas,2010,94
+Bahamas,2011,90
+Bahamas,2012,91
+Bahamas,2013,92
+Bahamas,2014,92
+Bahrain,1980,45
+Bahrain,1981,50
+Bahrain,1982,54
+Bahrain,1983,59
+Bahrain,1984,65
+Bahrain,1985,78
+Bahrain,1986,78
+Bahrain,1987,78
+Bahrain,1988,78
+Bahrain,1989,85
+Bahrain,1990,87
+Bahrain,1991,88
+Bahrain,1992,87
+Bahrain,1993,90
+Bahrain,1994,93
+Bahrain,1995,95
+Bahrain,1996,95
+Bahrain,1997,94
+Bahrain,1998,99
+Bahrain,1999,94
+Bahrain,2000,98
+Bahrain,2001,98
+Bahrain,2002,99
+Bahrain,2003,99
+Bahrain,2004,99
+Bahrain,2005,99
+Bahrain,2006,99
+Bahrain,2007,99
+Bahrain,2008,99
+Bahrain,2009,99
+Bahrain,2010,99
+Bahrain,2011,99
+Bahrain,2012,99
+Bahrain,2013,99
+Bahrain,2014,99
+Bangladesh,1982,1
+Bangladesh,1983,1
+Bangladesh,1984,1
+Bangladesh,1985,1
+Bangladesh,1986,3
+Bangladesh,1987,6
+Bangladesh,1988,13
+Bangladesh,1989,53
+Bangladesh,1990,65
+Bangladesh,1991,68
+Bangladesh,1992,69
+Bangladesh,1993,74
+Bangladesh,1994,78
+Bangladesh,1995,79
+Bangladesh,1996,69
+Bangladesh,1997,72
+Bangladesh,1998,71
+Bangladesh,1999,71
+Bangladesh,2000,74
+Bangladesh,2001,77
+Bangladesh,2002,75
+Bangladesh,2003,76
+Bangladesh,2004,81
+Bangladesh,2005,88
+Bangladesh,2006,83
+Bangladesh,2007,89
+Bangladesh,2008,92
+Bangladesh,2009,93
+Bangladesh,2010,88
+Bangladesh,2011,89
+Bangladesh,2012,89
+Bangladesh,2013,89
+Bangladesh,2014,89
+Barbados,1980,41
+Barbados,1981,47
+Barbados,1982,53
+Barbados,1983,55
+Barbados,1984,84
+Barbados,1985,88
+Barbados,1986,84
+Barbados,1987,85
+Barbados,1988,84
+Barbados,1989,85
+Barbados,1990,87
+Barbados,1991,92
+Barbados,1992,90
+Barbados,1993,92
+Barbados,1994,97
+Barbados,1995,92
+Barbados,1996,99
+Barbados,1997,92
+Barbados,1998,97
+Barbados,1999,86
+Barbados,2000,94
+Barbados,2001,93
+Barbados,2002,91
+Barbados,2003,90
+Barbados,2004,98
+Barbados,2005,93
+Barbados,2006,92
+Barbados,2007,75
+Barbados,2008,94
+Barbados,2009,94
+Barbados,2010,85
+Barbados,2011,93
+Barbados,2012,90
+Barbados,2013,87
+Barbados,2014,95
+Belarus,1992,94
+Belarus,1993,96
+Belarus,1994,97
+Belarus,1995,93
+Belarus,1996,96
+Belarus,1997,97
+Belarus,1998,98
+Belarus,1999,98
+Belarus,2000,98
+Belarus,2001,99
+Belarus,2002,99
+Belarus,2003,99
+Belarus,2004,99
+Belarus,2005,99
+Belarus,2006,97
+Belarus,2007,99
+Belarus,2008,99
+Belarus,2009,99
+Belarus,2010,99
+Belarus,2011,99
+Belarus,2012,98
+Belarus,2013,99
+Belarus,2014,99
+Belgium,1981,50
+Belgium,1982,58
+Belgium,1983,66
+Belgium,1984,74
+Belgium,1985,82
+Belgium,1986,90
+Belgium,1987,50
+Belgium,1988,75
+Belgium,1989,75
+Belgium,1990,85
+Belgium,1991,67
+Belgium,1992,87
+Belgium,1993,70
+Belgium,1994,78
+Belgium,1995,85
+Belgium,1996,73
+Belgium,1997,76
+Belgium,1998,80
+Belgium,1999,82
+Belgium,2000,82
+Belgium,2001,82
+Belgium,2002,82
+Belgium,2003,82
+Belgium,2004,82
+Belgium,2005,88
+Belgium,2006,92
+Belgium,2007,92
+Belgium,2008,93
+Belgium,2009,95
+Belgium,2010,95
+Belgium,2011,95
+Belgium,2012,96
+Belgium,2013,96
+Belgium,2014,96
+Belize,1980,21
+Belize,1981,40
+Belize,1982,51
+Belize,1983,43
+Belize,1984,43
+Belize,1985,49
+Belize,1986,85
+Belize,1987,53
+Belize,1988,59
+Belize,1989,71
+Belize,1990,86
+Belize,1991,76
+Belize,1992,69
+Belize,1993,80
+Belize,1994,82
+Belize,1995,83
+Belize,1996,81
+Belize,1997,85
+Belize,1998,84
+Belize,1999,82
+Belize,2000,96
+Belize,2001,94
+Belize,2002,88
+Belize,2003,96
+Belize,2004,97
+Belize,2005,95
+Belize,2006,99
+Belize,2007,96
+Belize,2008,96
+Belize,2009,97
+Belize,2010,98
+Belize,2011,98
+Belize,2012,96
+Belize,2013,99
+Belize,2014,95
+Benin,1985,23
+Benin,1986,20
+Benin,1987,26
+Benin,1988,30
+Benin,1989,48
+Benin,1990,79
+Benin,1991,60
+Benin,1992,70
+Benin,1993,67
+Benin,1994,78
+Benin,1995,65
+Benin,1996,60
+Benin,1997,66
+Benin,1998,67
+Benin,1999,69
+Benin,2000,70
+Benin,2001,68
+Benin,2002,66
+Benin,2003,65
+Benin,2004,63
+Benin,2005,61
+Benin,2006,66
+Benin,2007,70
+Benin,2008,66
+Benin,2009,71
+Benin,2010,68
+Benin,2011,70
+Benin,2012,70
+Benin,2013,63
+Benin,2014,63
+Bhutan,1980,21
+Bhutan,1981,21
+Bhutan,1982,20
+Bhutan,1983,21
+Bhutan,1984,36
+Bhutan,1985,44
+Bhutan,1986,51
+Bhutan,1987,58
+Bhutan,1988,64
+Bhutan,1989,79
+Bhutan,1990,93
+Bhutan,1991,89
+Bhutan,1992,86
+Bhutan,1993,84
+Bhutan,1994,81
+Bhutan,1995,85
+Bhutan,1996,85
+Bhutan,1997,84
+Bhutan,1998,71
+Bhutan,1999,77
+Bhutan,2000,78
+Bhutan,2001,78
+Bhutan,2002,78
+Bhutan,2003,88
+Bhutan,2004,87
+Bhutan,2005,93
+Bhutan,2006,90
+Bhutan,2007,95
+Bhutan,2008,99
+Bhutan,2009,94
+Bhutan,2010,95
+Bhutan,2011,95
+Bhutan,2012,95
+Bhutan,2013,94
+Bhutan,2014,97
+Bolivia,1980,13
+Bolivia,1981,17
+Bolivia,1982,15
+Bolivia,1983,13
+Bolivia,1984,20
+Bolivia,1985,21
+Bolivia,1986,55
+Bolivia,1987,57
+Bolivia,1988,58
+Bolivia,1989,59
+Bolivia,1990,53
+Bolivia,1991,54
+Bolivia,1992,57
+Bolivia,1993,57
+Bolivia,1994,64
+Bolivia,1995,58
+Bolivia,1996,61
+Bolivia,1997,51
+Bolivia,1998,65
+Bolivia,1999,79
+Bolivia,2000,84
+Bolivia,2001,88
+Bolivia,2002,91
+Bolivia,2003,96
+Bolivia,2004,90
+Bolivia,2005,89
+Bolivia,2006,88
+Bolivia,2007,86
+Bolivia,2008,92
+Bolivia,2009,93
+Bolivia,2010,88
+Bolivia,2011,96
+Bolivia,2012,96
+Bolivia,2013,95
+Bolivia,2014,95
+Bosnia and Herzegovina,1992,52
+Bosnia and Herzegovina,1993,48
+Bosnia and Herzegovina,1994,57
+Bosnia and Herzegovina,1995,53
+Bosnia and Herzegovina,1996,70
+Bosnia and Herzegovina,1997,86
+Bosnia and Herzegovina,1998,84
+Bosnia and Herzegovina,1999,83
+Bosnia and Herzegovina,2000,80
+Bosnia and Herzegovina,2001,92
+Bosnia and Herzegovina,2002,89
+Bosnia and Herzegovina,2003,84
+Bosnia and Herzegovina,2004,88
+Bosnia and Herzegovina,2005,90
+Bosnia and Herzegovina,2006,85
+Bosnia and Herzegovina,2007,96
+Bosnia and Herzegovina,2008,84
+Bosnia and Herzegovina,2009,93
+Bosnia and Herzegovina,2010,91
+Bosnia and Herzegovina,2011,89
+Bosnia and Herzegovina,2012,94
+Bosnia and Herzegovina,2013,92
+Bosnia and Herzegovina,2014,89
+Botswana,1980,63
+Botswana,1981,70
+Botswana,1982,75
+Botswana,1983,79
+Botswana,1984,82
+Botswana,1985,85
+Botswana,1986,91
+Botswana,1987,87
+Botswana,1988,87
+Botswana,1989,87
+Botswana,1990,87
+Botswana,1991,88
+Botswana,1992,88
+Botswana,1993,88
+Botswana,1994,88
+Botswana,1995,89
+Botswana,1996,89
+Botswana,1997,89
+Botswana,1998,89
+Botswana,1999,90
+Botswana,2000,91
+Botswana,2001,91
+Botswana,2002,92
+Botswana,2003,92
+Botswana,2004,93
+Botswana,2005,93
+Botswana,2006,94
+Botswana,2007,95
+Botswana,2008,95
+Botswana,2009,96
+Botswana,2010,96
+Botswana,2011,97
+Botswana,2012,97
+Botswana,2013,97
+Botswana,2014,97
+Brazil,1980,57
+Brazil,1981,73
+Brazil,1982,66
+Brazil,1983,68
+Brazil,1984,73
+Brazil,1985,67
+Brazil,1986,67
+Brazil,1987,64
+Brazil,1988,62
+Brazil,1989,60
+Brazil,1990,78
+Brazil,1991,85
+Brazil,1992,91
+Brazil,1993,85
+Brazil,1994,77
+Brazil,1995,87
+Brazil,1996,80
+Brazil,1997,99
+Brazil,1998,95
+Brazil,1999,99
+Brazil,2000,99
+Brazil,2001,99
+Brazil,2002,96
+Brazil,2003,99
+Brazil,2004,99
+Brazil,2005,99
+Brazil,2006,99
+Brazil,2007,99
+Brazil,2008,99
+Brazil,2009,99
+Brazil,2010,99
+Brazil,2011,99
+Brazil,2012,97
+Brazil,2013,97
+Brazil,2014,97
+Brunei,1980,73
+Brunei,1981,80
+Brunei,1982,88
+Brunei,1983,94
+Brunei,1984,90
+Brunei,1985,98
+Brunei,1986,99
+Brunei,1987,99
+Brunei,1988,99
+Brunei,1989,99
+Brunei,1990,99
+Brunei,1991,96
+Brunei,1992,92
+Brunei,1993,99
+Brunei,1994,99
+Brunei,1995,99
+Brunei,1996,99
+Brunei,1997,98
+Brunei,1998,99
+Brunei,1999,94
+Brunei,2000,99
+Brunei,2001,99
+Brunei,2002,99
+Brunei,2003,98
+Brunei,2004,99
+Brunei,2005,98
+Brunei,2006,97
+Brunei,2007,97
+Brunei,2008,99
+Brunei,2009,99
+Brunei,2010,94
+Brunei,2011,91
+Brunei,2012,99
+Brunei,2013,96
+Brunei,2014,97
+Bulgaria,1980,98
+Bulgaria,1981,98
+Bulgaria,1982,90
+Bulgaria,1983,98
+Bulgaria,1984,98
+Bulgaria,1985,99
+Bulgaria,1986,99
+Bulgaria,1987,99
+Bulgaria,1988,99
+Bulgaria,1989,99
+Bulgaria,1990,99
+Bulgaria,1991,98
+Bulgaria,1992,92
+Bulgaria,1993,88
+Bulgaria,1994,93
+Bulgaria,1995,94
+Bulgaria,1996,95
+Bulgaria,1997,93
+Bulgaria,1998,95
+Bulgaria,1999,96
+Bulgaria,2000,89
+Bulgaria,2001,90
+Bulgaria,2002,92
+Bulgaria,2003,96
+Bulgaria,2004,95
+Bulgaria,2005,96
+Bulgaria,2006,96
+Bulgaria,2007,96
+Bulgaria,2008,96
+Bulgaria,2009,96
+Bulgaria,2010,97
+Bulgaria,2011,95
+Bulgaria,2012,94
+Bulgaria,2013,95
+Bulgaria,2014,93
+Burkina Faso,1985,38
+Burkina Faso,1986,40
+Burkina Faso,1987,37
+Burkina Faso,1988,52
+Burkina Faso,1989,66
+Burkina Faso,1990,79
+Burkina Faso,1991,69
+Burkina Faso,1992,60
+Burkina Faso,1993,50
+Burkina Faso,1994,45
+Burkina Faso,1995,43
+Burkina Faso,1996,40
+Burkina Faso,1997,41
+Burkina Faso,1998,24
+Burkina Faso,1999,36
+Burkina Faso,2000,48
+Burkina Faso,2001,63
+Burkina Faso,2002,64
+Burkina Faso,2003,76
+Burkina Faso,2004,78
+Burkina Faso,2005,84
+Burkina Faso,2006,88
+Burkina Faso,2007,94
+Burkina Faso,2008,94
+Burkina Faso,2009,94
+Burkina Faso,2010,92
+Burkina Faso,2011,89
+Burkina Faso,2012,87
+Burkina Faso,2013,82
+Burkina Faso,2014,88
+Burundi,1981,28
+Burundi,1982,40
+Burundi,1983,54
+Burundi,1984,27
+Burundi,1985,32
+Burundi,1986,59
+Burundi,1987,54
+Burundi,1988,46
+Burundi,1989,73
+Burundi,1990,74
+Burundi,1991,74
+Burundi,1992,69
+Burundi,1993,69
+Burundi,1994,42
+Burundi,1995,80
+Burundi,1996,79
+Burundi,1997,77
+Burundi,1998,68
+Burundi,1999,70
+Burundi,2000,72
+Burundi,2001,73
+Burundi,2002,75
+Burundi,2003,76
+Burundi,2004,78
+Burundi,2005,87
+Burundi,2006,92
+Burundi,2007,88
+Burundi,2008,84
+Burundi,2009,91
+Burundi,2010,92
+Burundi,2011,93
+Burundi,2012,93
+Burundi,2013,98
+Burundi,2014,94
+Cambodia,1984,27
+Cambodia,1985,29
+Cambodia,1986,54
+Cambodia,1987,53
+Cambodia,1988,39
+Cambodia,1989,39
+Cambodia,1990,34
+Cambodia,1991,39
+Cambodia,1992,33
+Cambodia,1993,36
+Cambodia,1994,50
+Cambodia,1995,62
+Cambodia,1996,56
+Cambodia,1997,50
+Cambodia,1998,54
+Cambodia,1999,63
+Cambodia,2000,65
+Cambodia,2001,59
+Cambodia,2002,52
+Cambodia,2003,65
+Cambodia,2004,80
+Cambodia,2005,79
+Cambodia,2006,78
+Cambodia,2007,79
+Cambodia,2008,89
+Cambodia,2009,92
+Cambodia,2010,93
+Cambodia,2011,93
+Cambodia,2012,93
+Cambodia,2013,90
+Cambodia,2014,94
+Cameroon,1981,16
+Cameroon,1982,21
+Cameroon,1983,25
+Cameroon,1984,31
+Cameroon,1985,39
+Cameroon,1986,44
+Cameroon,1987,44
+Cameroon,1988,48
+Cameroon,1989,56
+Cameroon,1990,56
+Cameroon,1991,48
+Cameroon,1992,37
+Cameroon,1993,32
+Cameroon,1994,38
+Cameroon,1995,46
+Cameroon,1996,39
+Cameroon,1997,43
+Cameroon,1998,47
+Cameroon,1999,46
+Cameroon,2000,49
+Cameroon,2001,51
+Cameroon,2002,53
+Cameroon,2003,61
+Cameroon,2004,64
+Cameroon,2005,68
+Cameroon,2006,73
+Cameroon,2007,74
+Cameroon,2008,80
+Cameroon,2009,74
+Cameroon,2010,79
+Cameroon,2011,76
+Cameroon,2012,82
+Cameroon,2013,83
+Cameroon,2014,80
+Canada,1987,70
+Canada,1988,85
+Canada,1989,87
+Canada,1990,89
+Canada,1991,92
+Canada,1992,94
+Canada,1993,96
+Canada,1994,97
+Canada,1995,96
+Canada,1996,97
+Canada,1997,96
+Canada,1998,96
+Canada,1999,96
+Canada,2000,96
+Canada,2001,95
+Canada,2002,95
+Canada,2003,95
+Canada,2004,94
+Canada,2005,94
+Canada,2006,93
+Canada,2007,94
+Canada,2008,94
+Canada,2009,95
+Canada,2010,95
+Canada,2011,95
+Canada,2012,98
+Canada,2013,95
+Canada,2014,95
+Cape Verde,1985,54
+Cape Verde,1986,58
+Cape Verde,1987,75
+Cape Verde,1988,80
+Cape Verde,1989,84
+Cape Verde,1990,79
+Cape Verde,1991,76
+Cape Verde,1992,82
+Cape Verde,1993,88
+Cape Verde,1994,87
+Cape Verde,1995,85
+Cape Verde,1996,84
+Cape Verde,1997,83
+Cape Verde,1998,84
+Cape Verde,1999,85
+Cape Verde,2000,86
+Cape Verde,2001,88
+Cape Verde,2002,89
+Cape Verde,2003,90
+Cape Verde,2004,91
+Cape Verde,2005,92
+Cape Verde,2006,94
+Cape Verde,2007,95
+Cape Verde,2008,96
+Cape Verde,2009,97
+Cape Verde,2010,97
+Cape Verde,2011,96
+Cape Verde,2012,91
+Cape Verde,2013,91
+Cape Verde,2014,93
+Caribbean small states,1982,30.98948389
+Caribbean small states,1983,33.36425646
+Caribbean small states,1984,50.24117817
+Caribbean small states,1985,55.30086175
+Caribbean small states,1986,49.31163887
+Caribbean small states,1987,65.26523285
+Caribbean small states,1988,69.33764288
+Caribbean small states,1989,71.30300325
+Caribbean small states,1990,74.83806898
+Caribbean small states,1991,82.50660333
+Caribbean small states,1992,71.43641801
+Caribbean small states,1993,83.10040645
+Caribbean small states,1994,83.41267302
+Caribbean small states,1995,86.9708425
+Caribbean small states,1996,92.44076251
+Caribbean small states,1997,87.10921316
+Caribbean small states,1998,89.20539314
+Caribbean small states,1999,84.8570556
+Caribbean small states,2000,88.77336521
+Caribbean small states,2001,88.39172517
+Caribbean small states,2002,87.50579486
+Caribbean small states,2003,83.43185797
+Caribbean small states,2004,89.22956833
+Caribbean small states,2005,89.00040674
+Caribbean small states,2006,89.07769178
+Caribbean small states,2007,85.45251929
+Caribbean small states,2008,90.73838689
+Caribbean small states,2009,92.09754443
+Caribbean small states,2010,91.5447823
+Caribbean small states,2011,90.85273908
+Caribbean small states,2012,90.72327823
+Caribbean small states,2013,94.27142936
+Caribbean small states,2014,93.706623
+Central African Republic,1980,12
+Central African Republic,1981,15
+Central African Republic,1982,16
+Central African Republic,1983,16
+Central African Republic,1984,19
+Central African Republic,1985,23
+Central African Republic,1986,24
+Central African Republic,1987,17
+Central African Republic,1988,40
+Central African Republic,1989,69
+Central African Republic,1990,82
+Central African Republic,1991,57
+Central African Republic,1992,32
+Central African Republic,1993,42
+Central African Republic,1994,52
+Central African Republic,1995,46
+Central African Republic,1996,44
+Central African Republic,1997,42
+Central African Republic,1998,37
+Central African Republic,1999,37
+Central African Republic,2000,36
+Central African Republic,2001,35
+Central African Republic,2002,42
+Central African Republic,2003,49
+Central African Republic,2004,55
+Central African Republic,2005,62
+Central African Republic,2006,61
+Central African Republic,2007,59
+Central African Republic,2008,58
+Central African Republic,2009,56
+Central African Republic,2010,53
+Central African Republic,2011,49
+Central African Republic,2012,49
+Central African Republic,2013,25
+Central African Republic,2014,49
+Central Europe and the Baltics,1983,91.83658952
+Central Europe and the Baltics,1984,92.6661556
+Central Europe and the Baltics,1985,92.17724657
+Central Europe and the Baltics,1986,90.22658106
+Central Europe and the Baltics,1987,93.77287534
+Central Europe and the Baltics,1988,90.66778294
+Central Europe and the Baltics,1989,94.25078673
+Central Europe and the Baltics,1990,94.8869943
+Central Europe and the Baltics,1991,94.35396065
+Central Europe and the Baltics,1992,93.60811905
+Central Europe and the Baltics,1993,93.72854013
+Central Europe and the Baltics,1994,94.35172929
+Central Europe and the Baltics,1995,95.06309153
+Central Europe and the Baltics,1996,96.31613493
+Central Europe and the Baltics,1997,96.34646729
+Central Europe and the Baltics,1998,96.58439403
+Central Europe and the Baltics,1999,97.16591925
+Central Europe and the Baltics,2000,96.68564534
+Central Europe and the Baltics,2001,96.85900655
+Central Europe and the Baltics,2002,97.50361669
+Central Europe and the Baltics,2003,97.11647018
+Central Europe and the Baltics,2004,97.11387028
+Central Europe and the Baltics,2005,97.45194939
+Central Europe and the Baltics,2006,97.41475469
+Central Europe and the Baltics,2007,97.5794314
+Central Europe and the Baltics,2008,97.36286651
+Central Europe and the Baltics,2009,97.2258101
+Central Europe and the Baltics,2010,97.15624633
+Central Europe and the Baltics,2011,96.56080484
+Central Europe and the Baltics,2012,96.61398068
+Central Europe and the Baltics,2013,96.42920246
+Central Europe and the Baltics,2014,95.69138924
+Chad,1984,10
+Chad,1985,7
+Chad,1986,12
+Chad,1987,16
+Chad,1988,17
+Chad,1989,32
+Chad,1990,32
+Chad,1991,28
+Chad,1992,25
+Chad,1993,19
+Chad,1994,24
+Chad,1995,26
+Chad,1996,22
+Chad,1997,30
+Chad,1998,20
+Chad,1999,30
+Chad,2000,28
+Chad,2001,26
+Chad,2002,25
+Chad,2003,23
+Chad,2004,16
+Chad,2005,27
+Chad,2006,39
+Chad,2007,31
+Chad,2008,27
+Chad,2009,36
+Chad,2010,46
+Chad,2011,54
+Chad,2012,64
+Chad,2013,59
+Chad,2014,54
+Chile,1980,94
+Chile,1981,95
+Chile,1982,96
+Chile,1983,95
+Chile,1984,94
+Chile,1985,92
+Chile,1986,91
+Chile,1987,92
+Chile,1988,95
+Chile,1989,92
+Chile,1990,97
+Chile,1991,99
+Chile,1992,89
+Chile,1993,94
+Chile,1994,96
+Chile,1995,97
+Chile,1996,93
+Chile,1997,96
+Chile,1998,98
+Chile,1999,94
+Chile,2000,97
+Chile,2001,96
+Chile,2002,95
+Chile,2003,96
+Chile,2004,94
+Chile,2005,90
+Chile,2006,91
+Chile,2007,92
+Chile,2008,96
+Chile,2009,93
+Chile,2010,93
+Chile,2011,91
+Chile,2012,90
+Chile,2013,90
+Chile,2014,94
+China,1983,78
+China,1984,84
+China,1985,88
+China,1986,63
+China,1987,77
+China,1988,95
+China,1989,95
+China,1990,98
+China,1991,92
+China,1992,87
+China,1993,81
+China,1994,75
+China,1995,80
+China,1996,84
+China,1997,83
+China,1998,83
+China,1999,84
+China,2000,84
+China,2001,85
+China,2002,85
+China,2003,85
+China,2004,86
+China,2005,86
+China,2006,93
+China,2007,94
+China,2008,97
+China,2009,99
+China,2010,99
+China,2011,99
+China,2012,99
+China,2013,99
+China,2014,99
+Colombia,1980,13
+Colombia,1981,26
+Colombia,1982,28
+Colombia,1983,43
+Colombia,1984,51
+Colombia,1985,51
+Colombia,1986,45
+Colombia,1987,59
+Colombia,1988,74
+Colombia,1989,81
+Colombia,1990,82
+Colombia,1991,78
+Colombia,1992,74
+Colombia,1993,94
+Colombia,1994,84
+Colombia,1995,95
+Colombia,1996,90
+Colombia,1997,80
+Colombia,1998,78
+Colombia,1999,79
+Colombia,2000,88
+Colombia,2001,93
+Colombia,2002,93
+Colombia,2003,93
+Colombia,2004,94
+Colombia,2005,96
+Colombia,2006,95
+Colombia,2007,93
+Colombia,2008,95
+Colombia,2009,89
+Colombia,2010,88
+Colombia,2011,88
+Colombia,2012,94
+Colombia,2013,92
+Colombia,2014,91
+Comoros,1984,42
+Comoros,1985,18
+Comoros,1986,71
+Comoros,1987,71
+Comoros,1988,40
+Comoros,1989,85
+Comoros,1990,87
+Comoros,1991,40
+Comoros,1992,51
+Comoros,1993,56
+Comoros,1994,59
+Comoros,1995,69
+Comoros,1996,43
+Comoros,1997,49
+Comoros,1998,67
+Comoros,1999,69
+Comoros,2000,70
+Comoros,2001,70
+Comoros,2002,71
+Comoros,2003,67
+Comoros,2004,76
+Comoros,2005,67
+Comoros,2006,66
+Comoros,2007,65
+Comoros,2008,76
+Comoros,2009,79
+Comoros,2010,72
+Comoros,2011,79
+Comoros,2012,85
+Comoros,2013,82
+Comoros,2014,80
+Congo,1980,49
+Congo,1981,49
+Congo,1982,55
+Congo,1983,59
+Congo,1984,52
+Congo,1985,67
+Congo,1986,69
+Congo,1987,69
+Congo,1988,73
+Congo,1989,75
+Congo,1990,75
+Congo,1991,64
+Congo,1992,60
+Congo,1993,55
+Congo,1994,47
+Congo,1995,38
+Congo,1996,42
+Congo,1997,18
+Congo,1998,21
+Congo,1999,23
+Congo,2000,34
+Congo,2001,35
+Congo,2002,37
+Congo,2003,50
+Congo,2004,65
+Congo,2005,54
+Congo,2006,61
+Congo,2007,59
+Congo,2008,69
+Congo,2009,63
+Congo,2010,75
+Congo,2011,80
+Congo,2012,75
+Congo,2013,80
+Congo,2014,80
+Costa Rica,1980,60
+Costa Rica,1981,79
+Costa Rica,1982,87
+Costa Rica,1983,84
+Costa Rica,1984,76
+Costa Rica,1985,78
+Costa Rica,1986,90
+Costa Rica,1987,93
+Costa Rica,1988,97
+Costa Rica,1989,77
+Costa Rica,1990,90
+Costa Rica,1991,96
+Costa Rica,1992,92
+Costa Rica,1993,89
+Costa Rica,1994,87
+Costa Rica,1995,91
+Costa Rica,1996,84
+Costa Rica,1997,99
+Costa Rica,1998,83
+Costa Rica,1999,88
+Costa Rica,2000,82
+Costa Rica,2001,82
+Costa Rica,2002,94
+Costa Rica,2003,89
+Costa Rica,2004,88
+Costa Rica,2005,89
+Costa Rica,2006,90
+Costa Rica,2007,90
+Costa Rica,2008,89
+Costa Rica,2009,81
+Costa Rica,2010,83
+Costa Rica,2011,83
+Costa Rica,2012,90
+Costa Rica,2013,91
+Costa Rica,2014,95
+Cote d'Ivoire,1984,31
+Cote d'Ivoire,1985,31
+Cote d'Ivoire,1986,31
+Cote d'Ivoire,1987,30
+Cote d'Ivoire,1988,31
+Cote d'Ivoire,1989,41
+Cote d'Ivoire,1990,56
+Cote d'Ivoire,1991,57
+Cote d'Ivoire,1992,54
+Cote d'Ivoire,1993,52
+Cote d'Ivoire,1994,55
+Cote d'Ivoire,1995,57
+Cote d'Ivoire,1996,65
+Cote d'Ivoire,1997,68
+Cote d'Ivoire,1998,66
+Cote d'Ivoire,1999,57
+Cote d'Ivoire,2000,68
+Cote d'Ivoire,2001,71
+Cote d'Ivoire,2002,71
+Cote d'Ivoire,2003,70
+Cote d'Ivoire,2004,78
+Cote d'Ivoire,2005,84
+Cote d'Ivoire,2006,73
+Cote d'Ivoire,2007,67
+Cote d'Ivoire,2008,63
+Cote d'Ivoire,2009,67
+Cote d'Ivoire,2010,70
+Cote d'Ivoire,2011,49
+Cote d'Ivoire,2012,74
+Cote d'Ivoire,2013,76
+Cote d'Ivoire,2014,63
+Croatia,1992,90
+Croatia,1993,90
+Croatia,1994,90
+Croatia,1995,92
+Croatia,1996,92
+Croatia,1997,91
+Croatia,1998,91
+Croatia,1999,92
+Croatia,2000,93
+Croatia,2001,94
+Croatia,2002,95
+Croatia,2003,95
+Croatia,2004,96
+Croatia,2005,96
+Croatia,2006,95
+Croatia,2007,96
+Croatia,2008,98
+Croatia,2009,95
+Croatia,2010,96
+Croatia,2011,96
+Croatia,2012,95
+Croatia,2013,94
+Croatia,2014,94
+Cuba,1980,48
+Cuba,1981,49
+Cuba,1982,55
+Cuba,1983,94
+Cuba,1984,82
+Cuba,1985,85
+Cuba,1986,80
+Cuba,1987,99
+Cuba,1988,89
+Cuba,1989,98
+Cuba,1990,94
+Cuba,1991,99
+Cuba,1992,99
+Cuba,1993,96
+Cuba,1994,99
+Cuba,1995,99
+Cuba,1996,99
+Cuba,1997,96
+Cuba,1998,99
+Cuba,1999,96
+Cuba,2000,94
+Cuba,2001,96
+Cuba,2002,98
+Cuba,2003,99
+Cuba,2004,99
+Cuba,2005,98
+Cuba,2006,96
+Cuba,2007,97
+Cuba,2008,98
+Cuba,2009,99
+Cuba,2010,99
+Cuba,2011,99
+Cuba,2012,99
+Cuba,2013,99
+Cuba,2014,99
+Cyprus,1980,29
+Cyprus,1981,28
+Cyprus,1982,21
+Cyprus,1983,19
+Cyprus,1984,25
+Cyprus,1985,43
+Cyprus,1986,60
+Cyprus,1987,91
+Cyprus,1988,74
+Cyprus,1989,76
+Cyprus,1990,77
+Cyprus,1991,78
+Cyprus,1992,80
+Cyprus,1993,81
+Cyprus,1994,82
+Cyprus,1995,83
+Cyprus,1996,90
+Cyprus,1997,90
+Cyprus,1998,89
+Cyprus,1999,87
+Cyprus,2000,86
+Cyprus,2001,86
+Cyprus,2002,86
+Cyprus,2003,86
+Cyprus,2004,86
+Cyprus,2005,86
+Cyprus,2006,87
+Cyprus,2007,87
+Cyprus,2008,87
+Cyprus,2009,87
+Cyprus,2010,87
+Cyprus,2011,87
+Cyprus,2012,86
+Cyprus,2013,86
+Cyprus,2014,86
+Czech Republic,1993,98
+Czech Republic,1994,97
+Czech Republic,1995,96
+Czech Republic,1996,97
+Czech Republic,1997,96
+Czech Republic,1998,95
+Czech Republic,1999,97
+Czech Republic,2000,97
+Czech Republic,2001,97
+Czech Republic,2002,98
+Czech Republic,2003,97
+Czech Republic,2004,97
+Czech Republic,2005,97
+Czech Republic,2006,97
+Czech Republic,2007,98
+Czech Republic,2008,97
+Czech Republic,2009,98
+Czech Republic,2010,98
+Czech Republic,2011,98
+Czech Republic,2012,98
+Czech Republic,2013,99
+Czech Republic,2014,99
+Democratic Republic of Congo,1980,18
+Democratic Republic of Congo,1981,23
+Democratic Republic of Congo,1982,25
+Democratic Republic of Congo,1983,30
+Democratic Republic of Congo,1984,30
+Democratic Republic of Congo,1985,40
+Democratic Republic of Congo,1986,39
+Democratic Republic of Congo,1987,41
+Democratic Republic of Congo,1988,44
+Democratic Republic of Congo,1989,41
+Democratic Republic of Congo,1990,38
+Democratic Republic of Congo,1991,17
+Democratic Republic of Congo,1992,25
+Democratic Republic of Congo,1993,33
+Democratic Republic of Congo,1994,39
+Democratic Republic of Congo,1995,27
+Democratic Republic of Congo,1996,21
+Democratic Republic of Congo,1997,20
+Democratic Republic of Congo,1998,20
+Democratic Republic of Congo,1999,15
+Democratic Republic of Congo,2000,46
+Democratic Republic of Congo,2001,35
+Democratic Republic of Congo,2002,42
+Democratic Republic of Congo,2003,49
+Democratic Republic of Congo,2004,57
+Democratic Republic of Congo,2005,61
+Democratic Republic of Congo,2006,63
+Democratic Republic of Congo,2007,68
+Democratic Republic of Congo,2008,64
+Democratic Republic of Congo,2009,72
+Democratic Republic of Congo,2010,74
+Democratic Republic of Congo,2011,74
+Democratic Republic of Congo,2012,72
+Democratic Republic of Congo,2013,76
+Democratic Republic of Congo,2014,77
+Denmark,1987,82
+Denmark,1988,72
+Denmark,1989,80
+Denmark,1990,84
+Denmark,1991,86
+Denmark,1992,85
+Denmark,1993,81
+Denmark,1994,88
+Denmark,1995,88
+Denmark,1996,85
+Denmark,1997,84
+Denmark,1998,91
+Denmark,1999,92
+Denmark,2000,99
+Denmark,2001,94
+Denmark,2002,95
+Denmark,2003,96
+Denmark,2004,96
+Denmark,2005,95
+Denmark,2006,90
+Denmark,2007,89
+Denmark,2008,87
+Denmark,2009,84
+Denmark,2010,85
+Denmark,2011,87
+Denmark,2012,90
+Denmark,2013,89
+Denmark,2014,90
+Djibouti,1982,15
+Djibouti,1983,18
+Djibouti,1984,20
+Djibouti,1985,27
+Djibouti,1986,19
+Djibouti,1987,22
+Djibouti,1988,68
+Djibouti,1989,75
+Djibouti,1990,85
+Djibouti,1991,53
+Djibouti,1992,41
+Djibouti,1993,41
+Djibouti,1994,42
+Djibouti,1995,41
+Djibouti,1996,41
+Djibouti,1997,31
+Djibouti,1998,21
+Djibouti,1999,23
+Djibouti,2000,50
+Djibouti,2001,49
+Djibouti,2002,62
+Djibouti,2003,66
+Djibouti,2004,60
+Djibouti,2005,65
+Djibouti,2006,67
+Djibouti,2007,74
+Djibouti,2008,73
+Djibouti,2009,84
+Djibouti,2010,85
+Djibouti,2011,84
+Djibouti,2012,83
+Djibouti,2013,80
+Djibouti,2014,71
+Dominica,1982,43
+Dominica,1983,63
+Dominica,1984,85
+Dominica,1985,93
+Dominica,1986,97
+Dominica,1987,87
+Dominica,1988,90
+Dominica,1989,88
+Dominica,1990,88
+Dominica,1991,98
+Dominica,1992,99
+Dominica,1993,99
+Dominica,1994,99
+Dominica,1995,99
+Dominica,1996,99
+Dominica,1997,99
+Dominica,1998,98
+Dominica,1999,99
+Dominica,2000,99
+Dominica,2001,99
+Dominica,2002,99
+Dominica,2003,99
+Dominica,2004,99
+Dominica,2005,98
+Dominica,2006,97
+Dominica,2007,96
+Dominica,2008,99
+Dominica,2009,99
+Dominica,2010,99
+Dominica,2011,99
+Dominica,2012,99
+Dominica,2013,93
+Dominica,2014,94
+Dominican Republic,1980,30
+Dominican Republic,1981,18
+Dominican Republic,1982,25
+Dominican Republic,1983,24
+Dominican Republic,1984,19
+Dominican Republic,1985,54
+Dominican Republic,1986,71
+Dominican Republic,1987,71
+Dominican Republic,1988,29
+Dominican Republic,1989,65
+Dominican Republic,1990,70
+Dominican Republic,1991,72
+Dominican Republic,1992,73
+Dominican Republic,1993,75
+Dominican Republic,1994,76
+Dominican Republic,1995,78
+Dominican Republic,1996,79
+Dominican Republic,1997,79
+Dominican Republic,1998,80
+Dominican Republic,1999,83
+Dominican Republic,2000,85
+Dominican Republic,2001,88
+Dominican Republic,2002,86
+Dominican Republic,2003,83
+Dominican Republic,2004,81
+Dominican Republic,2005,79
+Dominican Republic,2006,81
+Dominican Republic,2007,82
+Dominican Republic,2008,83
+Dominican Republic,2009,84
+Dominican Republic,2010,85
+Dominican Republic,2011,87
+Dominican Republic,2012,88
+Dominican Republic,2013,83
+Dominican Republic,2014,88
+Early-demographic dividend,1985,24.03293277
+Early-demographic dividend,1986,30.19327596
+Early-demographic dividend,1987,37.66347481
+Early-demographic dividend,1988,45.6368153
+Early-demographic dividend,1989,54.45969453
+Early-demographic dividend,1990,62.82316618
+Early-demographic dividend,1991,57.57911478
+Early-demographic dividend,1992,61.75189651
+Early-demographic dividend,1993,65.51726227
+Early-demographic dividend,1994,70.43981796
+Early-demographic dividend,1995,71.45207923
+Early-demographic dividend,1996,71.01053343
+Early-demographic dividend,1997,66.66110139
+Early-demographic dividend,1998,66.73189156
+Early-demographic dividend,1999,67.91784977
+Early-demographic dividend,2000,68.16175964
+Early-demographic dividend,2001,68.59885911
+Early-demographic dividend,2002,67.74281831
+Early-demographic dividend,2003,69.80222327
+Early-demographic dividend,2004,72.50238428
+Early-demographic dividend,2005,75.44878476
+Early-demographic dividend,2006,76.35402412
+Early-demographic dividend,2007,76.78494359
+Early-demographic dividend,2008,77.99736092
+Early-demographic dividend,2009,80.41856341
+Early-demographic dividend,2010,82.99034104
+Early-demographic dividend,2011,83.94165475
+Early-demographic dividend,2012,83.59404142
+Early-demographic dividend,2013,83.20493379
+Early-demographic dividend,2014,83.04046206
+East Asia & Pacific,1983,56.76340629
+East Asia & Pacific,1984,61.67862005
+East Asia & Pacific,1985,68.89614398
+East Asia & Pacific,1986,56.85615792
+East Asia & Pacific,1987,67.71674115
+East Asia & Pacific,1988,82.2223961
+East Asia & Pacific,1989,85.51754058
+East Asia & Pacific,1990,89.478466
+East Asia & Pacific,1991,86.05853628
+East Asia & Pacific,1992,82.4751946
+East Asia & Pacific,1993,78.90218987
+East Asia & Pacific,1994,76.04145653
+East Asia & Pacific,1995,79.0328534
+East Asia & Pacific,1996,83.41763811
+East Asia & Pacific,1997,82.58326924
+East Asia & Pacific,1998,83.01155051
+East Asia & Pacific,1999,83.79263559
+East Asia & Pacific,2000,83.67909437
+East Asia & Pacific,2001,84.18456596
+East Asia & Pacific,2002,83.81905794
+East Asia & Pacific,2003,84.5310735
+East Asia & Pacific,2004,86.35408984
+East Asia & Pacific,2005,86.38117424
+East Asia & Pacific,2006,90.13798587
+East Asia & Pacific,2007,89.55234018
+East Asia & Pacific,2008,91.77312639
+East Asia & Pacific,2009,92.70270621
+East Asia & Pacific,2010,92.93932286
+East Asia & Pacific,2011,93.16197942
+East Asia & Pacific,2012,94.38613487
+East Asia & Pacific,2013,94.75660504
+East Asia & Pacific,2014,93.52425495
+East Asia & Pacific (excluding high income),1983,56.53428922
+East Asia & Pacific (excluding high income),1984,61.06005898
+East Asia & Pacific (excluding high income),1985,68.24238406
+East Asia & Pacific (excluding high income),1986,55.31231894
+East Asia & Pacific (excluding high income),1987,67.13692601
+East Asia & Pacific (excluding high income),1988,82.68008769
+East Asia & Pacific (excluding high income),1989,85.65141974
+East Asia & Pacific (excluding high income),1990,89.96082458
+East Asia & Pacific (excluding high income),1991,86.39818289
+East Asia & Pacific (excluding high income),1992,82.68860113
+East Asia & Pacific (excluding high income),1993,78.93661045
+East Asia & Pacific (excluding high income),1994,75.38636815
+East Asia & Pacific (excluding high income),1995,78.06680213
+East Asia & Pacific (excluding high income),1996,82.71843553
+East Asia & Pacific (excluding high income),1997,81.96361008
+East Asia & Pacific (excluding high income),1998,82.43745985
+East Asia & Pacific (excluding high income),1999,83.09666479
+East Asia & Pacific (excluding high income),2000,82.78613539
+East Asia & Pacific (excluding high income),2001,83.23586069
+East Asia & Pacific (excluding high income),2002,82.81172317
+East Asia & Pacific (excluding high income),2003,83.62310346
+East Asia & Pacific (excluding high income),2004,85.54087804
+East Asia & Pacific (excluding high income),2005,85.58613622
+East Asia & Pacific (excluding high income),2006,89.69814116
+East Asia & Pacific (excluding high income),2007,89.21916261
+East Asia & Pacific (excluding high income),2008,91.62402961
+East Asia & Pacific (excluding high income),2009,92.635757
+East Asia & Pacific (excluding high income),2010,92.80240928
+East Asia & Pacific (excluding high income),2011,93.01388608
+East Asia & Pacific (excluding high income),2012,94.25879298
+East Asia & Pacific (excluding high income),2013,94.69368543
+East Asia & Pacific (excluding high income),2014,93.27899961
+East Asia & Pacific (IDA & IBRD countries),1983,56.87593284
+East Asia & Pacific (IDA & IBRD countries),1984,61.45257986
+East Asia & Pacific (IDA & IBRD countries),1985,68.64390887
+East Asia & Pacific (IDA & IBRD countries),1986,55.47091103
+East Asia & Pacific (IDA & IBRD countries),1987,67.50384302
+East Asia & Pacific (IDA & IBRD countries),1988,82.93847974
+East Asia & Pacific (IDA & IBRD countries),1989,85.52100994
+East Asia & Pacific (IDA & IBRD countries),1990,89.88442019
+East Asia & Pacific (IDA & IBRD countries),1991,86.29954429
+East Asia & Pacific (IDA & IBRD countries),1992,82.51630652
+East Asia & Pacific (IDA & IBRD countries),1993,78.70337237
+East Asia & Pacific (IDA & IBRD countries),1994,75.28895445
+East Asia & Pacific (IDA & IBRD countries),1995,78.21963243
+East Asia & Pacific (IDA & IBRD countries),1996,83.24779058
+East Asia & Pacific (IDA & IBRD countries),1997,82.67559001
+East Asia & Pacific (IDA & IBRD countries),1998,82.93788892
+East Asia & Pacific (IDA & IBRD countries),1999,83.39680527
+East Asia & Pacific (IDA & IBRD countries),2000,82.85725031
+East Asia & Pacific (IDA & IBRD countries),2001,83.10880179
+East Asia & Pacific (IDA & IBRD countries),2002,82.58991664
+East Asia & Pacific (IDA & IBRD countries),2003,83.45923644
+East Asia & Pacific (IDA & IBRD countries),2004,85.40696447
+East Asia & Pacific (IDA & IBRD countries),2005,85.44172298
+East Asia & Pacific (IDA & IBRD countries),2006,89.61453117
+East Asia & Pacific (IDA & IBRD countries),2007,89.09016502
+East Asia & Pacific (IDA & IBRD countries),2008,91.54217646
+East Asia & Pacific (IDA & IBRD countries),2009,92.56853178
+East Asia & Pacific (IDA & IBRD countries),2010,92.72614285
+East Asia & Pacific (IDA & IBRD countries),2011,92.94197857
+East Asia & Pacific (IDA & IBRD countries),2012,94.2012258
+East Asia & Pacific (IDA & IBRD countries),2013,94.64127815
+East Asia & Pacific (IDA & IBRD countries),2014,93.20896758
+Ecuador,1980,24
+Ecuador,1981,31
+Ecuador,1982,45
+Ecuador,1983,34
+Ecuador,1984,54
+Ecuador,1985,51
+Ecuador,1986,50
+Ecuador,1987,47
+Ecuador,1988,53
+Ecuador,1989,57
+Ecuador,1990,60
+Ecuador,1991,54
+Ecuador,1992,69
+Ecuador,1993,85
+Ecuador,1994,83
+Ecuador,1995,81
+Ecuador,1996,79
+Ecuador,1997,77
+Ecuador,1998,89
+Ecuador,1999,99
+Ecuador,2000,99
+Ecuador,2001,99
+Ecuador,2002,99
+Ecuador,2003,99
+Ecuador,2004,99
+Ecuador,2005,93
+Ecuador,2006,97
+Ecuador,2007,98
+Ecuador,2008,98
+Ecuador,2009,97
+Ecuador,2010,95
+Ecuador,2011,94
+Ecuador,2012,96
+Ecuador,2013,97
+Ecuador,2014,85
+Egypt,1980,41
+Egypt,1981,41
+Egypt,1982,41
+Egypt,1983,41
+Egypt,1984,47
+Egypt,1985,74
+Egypt,1986,78
+Egypt,1987,76
+Egypt,1988,85
+Egypt,1989,86
+Egypt,1990,86
+Egypt,1991,89
+Egypt,1992,89
+Egypt,1993,89
+Egypt,1994,89
+Egypt,1995,89
+Egypt,1996,92
+Egypt,1997,92
+Egypt,1998,98
+Egypt,1999,96
+Egypt,2000,98
+Egypt,2001,97
+Egypt,2002,97
+Egypt,2003,98
+Egypt,2004,97
+Egypt,2005,98
+Egypt,2006,98
+Egypt,2007,97
+Egypt,2008,92
+Egypt,2009,95
+Egypt,2010,96
+Egypt,2011,96
+Egypt,2012,93
+Egypt,2013,96
+Egypt,2014,93
+El Salvador,1980,45
+El Salvador,1981,44
+El Salvador,1982,43
+El Salvador,1983,46
+El Salvador,1984,41
+El Salvador,1985,71
+El Salvador,1986,51
+El Salvador,1987,48
+El Salvador,1988,63
+El Salvador,1989,73
+El Salvador,1990,98
+El Salvador,1991,54
+El Salvador,1992,55
+El Salvador,1993,86
+El Salvador,1994,80
+El Salvador,1995,93
+El Salvador,1996,94
+El Salvador,1997,98
+El Salvador,1998,99
+El Salvador,1999,94
+El Salvador,2000,97
+El Salvador,2001,95
+El Salvador,2002,93
+El Salvador,2003,90
+El Salvador,2004,93
+El Salvador,2005,99
+El Salvador,2006,98
+El Salvador,2007,99
+El Salvador,2008,95
+El Salvador,2009,91
+El Salvador,2010,92
+El Salvador,2011,89
+El Salvador,2012,93
+El Salvador,2013,94
+El Salvador,2014,94
+Equatorial Guinea,1985,11
+Equatorial Guinea,1986,17
+Equatorial Guinea,1987,32
+Equatorial Guinea,1988,46
+Equatorial Guinea,1989,18
+Equatorial Guinea,1990,88
+Equatorial Guinea,1991,85
+Equatorial Guinea,1992,82
+Equatorial Guinea,1993,79
+Equatorial Guinea,1994,80
+Equatorial Guinea,1995,81
+Equatorial Guinea,1996,81
+Equatorial Guinea,1997,82
+Equatorial Guinea,1998,82
+Equatorial Guinea,1999,51
+Equatorial Guinea,2000,51
+Equatorial Guinea,2001,51
+Equatorial Guinea,2002,51
+Equatorial Guinea,2003,51
+Equatorial Guinea,2004,51
+Equatorial Guinea,2005,51
+Equatorial Guinea,2006,51
+Equatorial Guinea,2007,51
+Equatorial Guinea,2008,51
+Equatorial Guinea,2009,51
+Equatorial Guinea,2010,51
+Equatorial Guinea,2011,51
+Equatorial Guinea,2012,35
+Equatorial Guinea,2013,42
+Equatorial Guinea,2014,44
+Eritrea,1993,34
+Eritrea,1994,51
+Eritrea,1995,58
+Eritrea,1996,66
+Eritrea,1997,73
+Eritrea,1998,79
+Eritrea,1999,88
+Eritrea,2000,76
+Eritrea,2001,84
+Eritrea,2002,83
+Eritrea,2003,92
+Eritrea,2004,96
+Eritrea,2005,95
+Eritrea,2006,95
+Eritrea,2007,97
+Eritrea,2008,97
+Eritrea,2009,99
+Eritrea,2010,99
+Eritrea,2011,99
+Eritrea,2012,98
+Eritrea,2013,96
+Eritrea,2014,96
+Estonia,1993,74
+Estonia,1994,76
+Estonia,1995,81
+Estonia,1996,86
+Estonia,1997,88
+Estonia,1998,89
+Estonia,1999,92
+Estonia,2000,93
+Estonia,2001,95
+Estonia,2002,95
+Estonia,2003,95
+Estonia,2004,96
+Estonia,2005,96
+Estonia,2006,96
+Estonia,2007,96
+Estonia,2008,95
+Estonia,2009,95
+Estonia,2010,95
+Estonia,2011,94
+Estonia,2012,94
+Estonia,2013,94
+Estonia,2014,93
+Ethiopia,1980,4
+Ethiopia,1981,3
+Ethiopia,1982,7
+Ethiopia,1983,7
+Ethiopia,1984,8
+Ethiopia,1985,12
+Ethiopia,1986,10
+Ethiopia,1987,13
+Ethiopia,1988,15
+Ethiopia,1989,23
+Ethiopia,1990,38
+Ethiopia,1991,17
+Ethiopia,1992,12
+Ethiopia,1993,22
+Ethiopia,1994,54
+Ethiopia,1995,38
+Ethiopia,1996,54
+Ethiopia,1997,51
+Ethiopia,1998,44
+Ethiopia,1999,37
+Ethiopia,2000,36
+Ethiopia,2001,35
+Ethiopia,2002,36
+Ethiopia,2003,35
+Ethiopia,2004,35
+Ethiopia,2005,40
+Ethiopia,2006,44
+Ethiopia,2007,49
+Ethiopia,2008,54
+Ethiopia,2009,59
+Ethiopia,2010,64
+Ethiopia,2011,68
+Ethiopia,2012,65
+Ethiopia,2013,62
+Ethiopia,2014,70
+Euro area,1983,39.74056543
+Euro area,1984,49.81626664
+Euro area,1985,57.40705248
+Euro area,1986,63.98335396
+Euro area,1987,68.63792211
+Euro area,1988,71.40234447
+Euro area,1989,75.93459438
+Euro area,1990,73.56465958
+Euro area,1991,73.23276103
+Euro area,1992,74.94029979
+Euro area,1993,78.77250937
+Euro area,1994,79.82358575
+Euro area,1995,81.26070789
+Euro area,1996,83.28118371
+Euro area,1997,83.93590969
+Euro area,1998,83.50826795
+Euro area,1999,85.89014123
+Euro area,2000,86.80625609
+Euro area,2001,88.40207725
+Euro area,2002,89.36216287
+Euro area,2003,90.72728431
+Euro area,2004,91.35031828
+Euro area,2005,91.48477715
+Euro area,2006,92.55315757
+Euro area,2007,93.33908137
+Euro area,2008,93.46874294
+Euro area,2009,93.32733193
+Euro area,2010,93.07473832
+Euro area,2011,93.2298675
+Euro area,2012,93.48766684
+Euro area,2013,93.0158411
+Euro area,2014,92.68452148
+Europe & Central Asia,1992,81.34122864
+Europe & Central Asia,1993,83.25197688
+Europe & Central Asia,1994,82.73603184
+Europe & Central Asia,1995,83.90975727
+Europe & Central Asia,1996,86.05093701
+Europe & Central Asia,1997,88.02923896
+Europe & Central Asia,1998,88.03235493
+Europe & Central Asia,1999,89.41803742
+Europe & Central Asia,2000,90.73940688
+Europe & Central Asia,2001,91.86012933
+Europe & Central Asia,2002,90.93034838
+Europe & Central Asia,2003,90.37041867
+Europe & Central Asia,2004,91.44455814
+Europe & Central Asia,2005,93.06760592
+Europe & Central Asia,2006,94.42085103
+Europe & Central Asia,2007,94.70813855
+Europe & Central Asia,2008,94.75192376
+Europe & Central Asia,2009,93.59794512
+Europe & Central Asia,2010,93.25796353
+Europe & Central Asia,2011,93.976344
+Europe & Central Asia,2012,94.55677338
+Europe & Central Asia,2013,94.84613387
+Europe & Central Asia,2014,94.3653047
+Europe & Central Asia (excluding high income),1992,81.3920882
+Europe & Central Asia (excluding high income),1993,82.70304944
+Europe & Central Asia (excluding high income),1994,80.97983664
+Europe & Central Asia (excluding high income),1995,82.2353093
+Europe & Central Asia (excluding high income),1996,85.06745829
+Europe & Central Asia (excluding high income),1997,88.90982539
+Europe & Central Asia (excluding high income),1998,89.86474354
+Europe & Central Asia (excluding high income),1999,91.02241676
+Europe & Central Asia (excluding high income),2000,92.96471071
+Europe & Central Asia (excluding high income),2001,94.50324211
+Europe & Central Asia (excluding high income),2002,91.99945158
+Europe & Central Asia (excluding high income),2003,90.49618235
+Europe & Central Asia (excluding high income),2004,92.26365428
+Europe & Central Asia (excluding high income),2005,95.09299874
+Europe & Central Asia (excluding high income),2006,96.5631071
+Europe & Central Asia (excluding high income),2007,96.59220052
+Europe & Central Asia (excluding high income),2008,96.54904669
+Europe & Central Asia (excluding high income),2009,94.41507234
+Europe & Central Asia (excluding high income),2010,93.44467134
+Europe & Central Asia (excluding high income),2011,94.55354837
+Europe & Central Asia (excluding high income),2012,95.16026671
+Europe & Central Asia (excluding high income),2013,95.80829858
+Europe & Central Asia (excluding high income),2014,95.07181992
+Europe & Central Asia (IDA & IBRD countries),1992,82.48008644
+Europe & Central Asia (IDA & IBRD countries),1993,83.71566738
+Europe & Central Asia (IDA & IBRD countries),1994,82.26124602
+Europe & Central Asia (IDA & IBRD countries),1995,83.44314384
+Europe & Central Asia (IDA & IBRD countries),1996,86.17709714
+Europe & Central Asia (IDA & IBRD countries),1997,89.56613017
+Europe & Central Asia (IDA & IBRD countries),1998,90.41202952
+Europe & Central Asia (IDA & IBRD countries),1999,91.45886995
+Europe & Central Asia (IDA & IBRD countries),2000,93.24133163
+Europe & Central Asia (IDA & IBRD countries),2001,94.65752771
+Europe & Central Asia (IDA & IBRD countries),2002,92.41380422
+Europe & Central Asia (IDA & IBRD countries),2003,90.9480808
+Europe & Central Asia (IDA & IBRD countries),2004,92.59364727
+Europe & Central Asia (IDA & IBRD countries),2005,95.28605214
+Europe & Central Asia (IDA & IBRD countries),2006,96.71018347
+Europe & Central Asia (IDA & IBRD countries),2007,96.68181401
+Europe & Central Asia (IDA & IBRD countries),2008,96.6584506
+Europe & Central Asia (IDA & IBRD countries),2009,94.66640232
+Europe & Central Asia (IDA & IBRD countries),2010,93.7763778
+Europe & Central Asia (IDA & IBRD countries),2011,94.80623862
+Europe & Central Asia (IDA & IBRD countries),2012,95.34371428
+Europe & Central Asia (IDA & IBRD countries),2013,95.93315415
+Europe & Central Asia (IDA & IBRD countries),2014,95.24107814
+European Union,1983,57.77546657
+European Union,1984,63.58107373
+European Union,1985,68.48107977
+European Union,1986,72.02373508
+European Union,1987,76.63280475
+European Union,1988,77.97864
+European Union,1989,82.13589896
+European Union,1990,80.64464332
+European Union,1991,80.79380439
+European Union,1992,81.84108804
+European Union,1993,84.32718324
+European Union,1994,84.97547127
+European Union,1995,86.03054715
+European Union,1996,87.32492214
+European Union,1997,87.56087781
+European Union,1998,86.71196803
+European Union,1999,88.35716517
+European Union,2000,88.95962126
+European Union,2001,89.57154033
+European Union,2002,90.3459587
+European Union,2003,90.77478571
+European Union,2004,91.06838773
+European Union,2005,91.35343
+European Union,2006,92.42590038
+European Union,2007,93.03986709
+European Union,2008,93.03336477
+European Union,2009,92.9049083
+European Union,2010,93.18813145
+European Union,2011,93.35133577
+European Union,2012,93.88111189
+European Union,2013,93.67603858
+European Union,2014,93.33921736
+Fiji,1980,32
+Fiji,1981,40
+Fiji,1982,2
+Fiji,1983,25
+Fiji,1984,22
+Fiji,1985,57
+Fiji,1986,61
+Fiji,1987,64
+Fiji,1988,69
+Fiji,1989,65
+Fiji,1990,84
+Fiji,1991,93
+Fiji,1992,91
+Fiji,1993,96
+Fiji,1994,96
+Fiji,1995,94
+Fiji,1996,94
+Fiji,1997,75
+Fiji,1998,77
+Fiji,1999,79
+Fiji,2000,81
+Fiji,2001,83
+Fiji,2002,85
+Fiji,2003,86
+Fiji,2004,88
+Fiji,2005,90
+Fiji,2006,92
+Fiji,2007,94
+Fiji,2008,94
+Fiji,2009,94
+Fiji,2010,94
+Fiji,2011,94
+Fiji,2012,94
+Fiji,2013,94
+Fiji,2014,94
+Finland,1981,70
+Finland,1982,75
+Finland,1983,81
+Finland,1984,83
+Finland,1985,85
+Finland,1986,87
+Finland,1987,92
+Finland,1988,98
+Finland,1989,95
+Finland,1990,97
+Finland,1991,97
+Finland,1992,99
+Finland,1993,99
+Finland,1994,99
+Finland,1995,98
+Finland,1996,98
+Finland,1997,96
+Finland,1998,96
+Finland,1999,96
+Finland,2000,96
+Finland,2001,96
+Finland,2002,96
+Finland,2003,97
+Finland,2004,97
+Finland,2005,97
+Finland,2006,97
+Finland,2007,98
+Finland,2008,97
+Finland,2009,98
+Finland,2010,98
+Finland,2011,97
+Finland,2012,97
+Finland,2013,97
+Finland,2014,97
+Fragile and conflict affected situations,1984,22.0650811
+Fragile and conflict affected situations,1985,31.16955984
+Fragile and conflict affected situations,1986,32.47592145
+Fragile and conflict affected situations,1987,37.34122757
+Fragile and conflict affected situations,1988,45.1921051
+Fragile and conflict affected situations,1989,52.89719182
+Fragile and conflict affected situations,1990,56.60081767
+Fragile and conflict affected situations,1991,51.0503449
+Fragile and conflict affected situations,1992,50.38781878
+Fragile and conflict affected situations,1993,51.67101372
+Fragile and conflict affected situations,1994,53.79108989
+Fragile and conflict affected situations,1995,54.40096336
+Fragile and conflict affected situations,1996,54.45446224
+Fragile and conflict affected situations,1997,54.48825691
+Fragile and conflict affected situations,1998,54.81694414
+Fragile and conflict affected situations,1999,55.04743677
+Fragile and conflict affected situations,2000,59.50066839
+Fragile and conflict affected situations,2001,56.86212927
+Fragile and conflict affected situations,2002,58.66718642
+Fragile and conflict affected situations,2003,61.40953211
+Fragile and conflict affected situations,2004,65.73592434
+Fragile and conflict affected situations,2005,67.72962412
+Fragile and conflict affected situations,2006,66.93719748
+Fragile and conflict affected situations,2007,68.85288737
+Fragile and conflict affected situations,2008,68.60965507
+Fragile and conflict affected situations,2009,72.18338976
+Fragile and conflict affected situations,2010,74.53231478
+Fragile and conflict affected situations,2011,73.11059935
+Fragile and conflict affected situations,2012,72.47081879
+Fragile and conflict affected situations,2013,72.60570944
+Fragile and conflict affected situations,2014,71.21808392
+France,1983,15
+France,1984,26
+France,1985,35
+France,1986,39
+France,1987,45
+France,1988,51
+France,1989,58
+France,1990,71
+France,1991,74
+France,1992,76
+France,1993,78
+France,1994,80
+France,1995,83
+France,1996,84
+France,1997,83
+France,1998,82
+France,1999,83
+France,2000,84
+France,2001,85
+France,2002,86
+France,2003,87
+France,2004,88
+France,2005,87
+France,2006,89
+France,2007,90
+France,2008,89
+France,2009,89
+France,2010,89
+France,2011,89
+France,2012,90
+France,2013,89
+France,2014,90
+Gabon,1985,58
+Gabon,1986,66
+Gabon,1987,67
+Gabon,1988,68
+Gabon,1989,76
+Gabon,1990,76
+Gabon,1991,71
+Gabon,1992,66
+Gabon,1993,63
+Gabon,1994,60
+Gabon,1995,57
+Gabon,1996,57
+Gabon,1997,56
+Gabon,1998,56
+Gabon,1999,55
+Gabon,2000,55
+Gabon,2001,55
+Gabon,2002,55
+Gabon,2003,55
+Gabon,2004,55
+Gabon,2005,55
+Gabon,2006,55
+Gabon,2007,62
+Gabon,2008,67
+Gabon,2009,63
+Gabon,2010,62
+Gabon,2011,72
+Gabon,2012,71
+Gabon,2013,70
+Gabon,2014,61
+Gambia,1980,69
+Gambia,1981,70
+Gambia,1982,71
+Gambia,1983,70
+Gambia,1984,79
+Gambia,1985,75
+Gambia,1986,62
+Gambia,1987,88
+Gambia,1988,80
+Gambia,1989,85
+Gambia,1990,86
+Gambia,1991,87
+Gambia,1992,83
+Gambia,1993,87
+Gambia,1994,89
+Gambia,1995,91
+Gambia,1996,94
+Gambia,1997,91
+Gambia,1998,90
+Gambia,1999,90
+Gambia,2000,89
+Gambia,2001,89
+Gambia,2002,90
+Gambia,2003,90
+Gambia,2004,92
+Gambia,2005,91
+Gambia,2006,89
+Gambia,2007,88
+Gambia,2008,92
+Gambia,2009,96
+Gambia,2010,92
+Gambia,2011,91
+Gambia,2012,95
+Gambia,2013,96
+Gambia,2014,96
+Georgia,1992,16
+Georgia,1993,61
+Georgia,1994,63
+Georgia,1995,61
+Georgia,1996,65
+Georgia,1997,69
+Georgia,1998,73
+Georgia,1999,76
+Georgia,2000,73
+Georgia,2001,74
+Georgia,2002,75
+Georgia,2003,76
+Georgia,2004,86
+Georgia,2005,90
+Georgia,2006,96
+Georgia,2007,97
+Georgia,2008,97
+Georgia,2009,83
+Georgia,2010,94
+Georgia,2011,91
+Georgia,2012,93
+Georgia,2013,97
+Georgia,2014,92
+Germany,1980,25
+Germany,1981,50
+Germany,1982,50
+Germany,1983,47
+Germany,1984,48
+Germany,1985,50
+Germany,1986,70
+Germany,1987,75
+Germany,1988,75
+Germany,1989,75
+Germany,1990,75
+Germany,1991,75
+Germany,1992,75
+Germany,1993,89
+Germany,1994,90
+Germany,1995,92
+Germany,1996,91
+Germany,1997,91
+Germany,1998,92
+Germany,1999,92
+Germany,2000,92
+Germany,2001,94
+Germany,2002,94
+Germany,2003,95
+Germany,2004,96
+Germany,2005,96
+Germany,2006,96
+Germany,2007,97
+Germany,2008,97
+Germany,2009,97
+Germany,2010,97
+Germany,2011,97
+Germany,2012,97
+Germany,2013,97
+Germany,2014,97
+Ghana,1980,16
+Ghana,1981,23
+Ghana,1982,21
+Ghana,1983,16
+Ghana,1984,10
+Ghana,1985,21
+Ghana,1986,31
+Ghana,1987,51
+Ghana,1988,59
+Ghana,1989,65
+Ghana,1990,61
+Ghana,1991,63
+Ghana,1992,64
+Ghana,1993,66
+Ghana,1994,68
+Ghana,1995,70
+Ghana,1996,71
+Ghana,1997,73
+Ghana,1998,78
+Ghana,1999,81
+Ghana,2000,90
+Ghana,2001,78
+Ghana,2002,78
+Ghana,2003,80
+Ghana,2004,83
+Ghana,2005,83
+Ghana,2006,85
+Ghana,2007,95
+Ghana,2008,86
+Ghana,2009,93
+Ghana,2010,93
+Ghana,2011,91
+Ghana,2012,88
+Ghana,2013,89
+Ghana,2014,92
+Greece,1984,75
+Greece,1985,77
+Greece,1986,39
+Greece,1987,81
+Greece,1988,82
+Greece,1989,76
+Greece,1990,76
+Greece,1991,72
+Greece,1992,72
+Greece,1993,72
+Greece,1994,70
+Greece,1995,70
+Greece,1996,90
+Greece,1997,90
+Greece,1998,89
+Greece,1999,88
+Greece,2000,89
+Greece,2001,91
+Greece,2002,92
+Greece,2003,94
+Greece,2004,95
+Greece,2005,96
+Greece,2006,98
+Greece,2007,99
+Greece,2008,99
+Greece,2009,99
+Greece,2010,99
+Greece,2011,99
+Greece,2012,99
+Greece,2013,99
+Greece,2014,97
+Grenada,1982,5
+Grenada,1983,7
+Grenada,1984,31
+Grenada,1985,49
+Grenada,1986,62
+Grenada,1987,77
+Grenada,1988,48
+Grenada,1989,89
+Grenada,1990,85
+Grenada,1991,96
+Grenada,1992,73
+Grenada,1993,99
+Grenada,1994,87
+Grenada,1995,88
+Grenada,1996,85
+Grenada,1997,92
+Grenada,1998,97
+Grenada,1999,94
+Grenada,2000,92
+Grenada,2001,99
+Grenada,2002,96
+Grenada,2003,99
+Grenada,2004,74
+Grenada,2005,99
+Grenada,2006,98
+Grenada,2007,98
+Grenada,2008,99
+Grenada,2009,98
+Grenada,2010,95
+Grenada,2011,95
+Grenada,2012,94
+Grenada,2013,94
+Grenada,2014,94
+Guatemala,1980,23
+Guatemala,1981,8
+Guatemala,1982,12
+Guatemala,1983,9
+Guatemala,1984,24
+Guatemala,1985,23
+Guatemala,1986,55
+Guatemala,1987,24
+Guatemala,1988,55
+Guatemala,1989,60
+Guatemala,1990,68
+Guatemala,1991,49
+Guatemala,1992,59
+Guatemala,1993,71
+Guatemala,1994,66
+Guatemala,1995,83
+Guatemala,1996,69
+Guatemala,1997,74
+Guatemala,1998,79
+Guatemala,1999,83
+Guatemala,2000,86
+Guatemala,2001,91
+Guatemala,2002,92
+Guatemala,2003,94
+Guatemala,2004,95
+Guatemala,2005,93
+Guatemala,2006,95
+Guatemala,2007,86
+Guatemala,2008,96
+Guatemala,2009,92
+Guatemala,2010,93
+Guatemala,2011,89
+Guatemala,2012,93
+Guatemala,2013,85
+Guatemala,2014,67
+Guinea,1981,15
+Guinea,1982,34
+Guinea,1983,30
+Guinea,1984,29
+Guinea,1985,29
+Guinea,1986,28
+Guinea,1987,28
+Guinea,1988,27
+Guinea,1989,27
+Guinea,1990,35
+Guinea,1991,42
+Guinea,1992,52
+Guinea,1993,55
+Guinea,1994,58
+Guinea,1995,61
+Guinea,1996,61
+Guinea,1997,56
+Guinea,1998,52
+Guinea,1999,40
+Guinea,2000,42
+Guinea,2001,44
+Guinea,2002,46
+Guinea,2003,48
+Guinea,2004,50
+Guinea,2005,51
+Guinea,2006,51
+Guinea,2007,57
+Guinea,2008,55
+Guinea,2009,53
+Guinea,2010,58
+Guinea,2011,62
+Guinea,2012,62
+Guinea,2013,62
+Guinea,2014,52
+Guinea-Bissau,1983,27
+Guinea-Bissau,1984,31
+Guinea-Bissau,1985,35
+Guinea-Bissau,1986,59
+Guinea-Bissau,1987,68
+Guinea-Bissau,1988,52
+Guinea-Bissau,1989,65
+Guinea-Bissau,1990,53
+Guinea-Bissau,1991,52
+Guinea-Bissau,1992,60
+Guinea-Bissau,1993,68
+Guinea-Bissau,1994,68
+Guinea-Bissau,1995,45
+Guinea-Bissau,1996,49
+Guinea-Bissau,1997,51
+Guinea-Bissau,1998,61
+Guinea-Bissau,1999,70
+Guinea-Bissau,2000,71
+Guinea-Bissau,2001,72
+Guinea-Bissau,2002,73
+Guinea-Bissau,2003,74
+Guinea-Bissau,2004,75
+Guinea-Bissau,2005,76
+Guinea-Bissau,2006,74
+Guinea-Bissau,2007,73
+Guinea-Bissau,2008,71
+Guinea-Bissau,2009,69
+Guinea-Bissau,2010,69
+Guinea-Bissau,2011,69
+Guinea-Bissau,2012,69
+Guinea-Bissau,2013,69
+Guinea-Bissau,2014,69
+Guyana,1982,68
+Guyana,1983,51
+Guyana,1984,56
+Guyana,1985,40
+Guyana,1986,42
+Guyana,1987,52
+Guyana,1988,55
+Guyana,1989,69
+Guyana,1990,73
+Guyana,1991,76
+Guyana,1992,73
+Guyana,1993,92
+Guyana,1994,83
+Guyana,1995,77
+Guyana,1996,91
+Guyana,1997,82
+Guyana,1998,93
+Guyana,1999,87
+Guyana,2000,86
+Guyana,2001,92
+Guyana,2002,93
+Guyana,2003,89
+Guyana,2004,88
+Guyana,2005,92
+Guyana,2006,90
+Guyana,2007,96
+Guyana,2008,95
+Guyana,2009,97
+Guyana,2010,95
+Guyana,2011,98
+Guyana,2012,99
+Guyana,2013,99
+Guyana,2014,99
+Haiti,1982,3
+Haiti,1983,6
+Haiti,1984,8
+Haiti,1985,21
+Haiti,1986,26
+Haiti,1987,23
+Haiti,1988,59
+Haiti,1989,31
+Haiti,1990,31
+Haiti,1991,35
+Haiti,1992,39
+Haiti,1993,44
+Haiti,1994,48
+Haiti,1995,49
+Haiti,1996,50
+Haiti,1997,52
+Haiti,1998,53
+Haiti,1999,54
+Haiti,2000,55
+Haiti,2001,55
+Haiti,2002,56
+Haiti,2003,57
+Haiti,2004,57
+Haiti,2005,58
+Haiti,2006,59
+Haiti,2007,60
+Haiti,2008,62
+Haiti,2009,63
+Haiti,2010,64
+Haiti,2011,65
+Haiti,2012,65
+Haiti,2013,65
+Haiti,2014,53
+Heavily indebted poor countries (HIPC),1981,22.19248496
+Heavily indebted poor countries (HIPC),1982,24.69437081
+Heavily indebted poor countries (HIPC),1983,26.94309535
+Heavily indebted poor countries (HIPC),1984,25.61775556
+Heavily indebted poor countries (HIPC),1985,29.88417772
+Heavily indebted poor countries (HIPC),1986,36.8532936
+Heavily indebted poor countries (HIPC),1987,39.78533125
+Heavily indebted poor countries (HIPC),1988,45.48126943
+Heavily indebted poor countries (HIPC),1989,49.49306099
+Heavily indebted poor countries (HIPC),1990,53.44182669
+Heavily indebted poor countries (HIPC),1991,46.97158428
+Heavily indebted poor countries (HIPC),1992,46.53725521
+Heavily indebted poor countries (HIPC),1993,48.44313631
+Heavily indebted poor countries (HIPC),1994,54.67656341
+Heavily indebted poor countries (HIPC),1995,53.26058848
+Heavily indebted poor countries (HIPC),1996,54.09850375
+Heavily indebted poor countries (HIPC),1997,52.61591108
+Heavily indebted poor countries (HIPC),1998,50.65262451
+Heavily indebted poor countries (HIPC),1999,50.31184262
+Heavily indebted poor countries (HIPC),2000,54.51303152
+Heavily indebted poor countries (HIPC),2001,54.94460431
+Heavily indebted poor countries (HIPC),2002,57.25530664
+Heavily indebted poor countries (HIPC),2003,61.09981216
+Heavily indebted poor countries (HIPC),2004,63.38958756
+Heavily indebted poor countries (HIPC),2005,66.12612049
+Heavily indebted poor countries (HIPC),2006,68.52687973
+Heavily indebted poor countries (HIPC),2007,70.80919362
+Heavily indebted poor countries (HIPC),2008,70.40214419
+Heavily indebted poor countries (HIPC),2009,73.96812317
+Heavily indebted poor countries (HIPC),2010,76.15054009
+Heavily indebted poor countries (HIPC),2011,75.99747074
+Heavily indebted poor countries (HIPC),2012,77.00833764
+Heavily indebted poor countries (HIPC),2013,77.30040048
+Heavily indebted poor countries (HIPC),2014,78.00209861
+High income,1980,65.1707799
+High income,1981,67.49602884
+High income,1982,70.33762031
+High income,1983,70.50775268
+High income,1984,75.2416352
+High income,1985,79.28719489
+High income,1986,81.27205669
+High income,1987,78.01294081
+High income,1988,84.13051893
+High income,1989,86.51376694
+High income,1990,84.18567925
+High income,1991,83.70959128
+High income,1992,82.50555485
+High income,1993,84.07524087
+High income,1994,87.29104113
+High income,1995,88.61290723
+High income,1996,89.87131625
+High income,1997,89.7546211
+High income,1998,89.72980816
+High income,1999,90.64607893
+High income,2000,91.15511645
+High income,2001,91.61159708
+High income,2002,92.09860179
+High income,2003,92.81557994
+High income,2004,93.08382543
+High income,2005,92.77088543
+High income,2006,93.01752137
+High income,2007,92.99447783
+High income,2008,93.13651869
+High income,2009,92.45748134
+High income,2010,93.40153455
+High income,2011,93.56715845
+High income,2012,93.99450183
+High income,2013,93.47297567
+High income,2014,93.68988312
+Honduras,1980,31
+Honduras,1981,34
+Honduras,1982,48
+Honduras,1983,49
+Honduras,1984,44
+Honduras,1985,53
+Honduras,1986,60
+Honduras,1987,57
+Honduras,1988,76
+Honduras,1989,94
+Honduras,1990,90
+Honduras,1991,86
+Honduras,1992,89
+Honduras,1993,94
+Honduras,1994,93
+Honduras,1995,89
+Honduras,1996,91
+Honduras,1997,89
+Honduras,1998,98
+Honduras,1999,98
+Honduras,2000,98
+Honduras,2001,99
+Honduras,2002,97
+Honduras,2003,95
+Honduras,2004,92
+Honduras,2005,96
+Honduras,2006,97
+Honduras,2007,96
+Honduras,2008,95
+Honduras,2009,99
+Honduras,2010,98
+Honduras,2011,95
+Honduras,2012,93
+Honduras,2013,89
+Honduras,2014,88
+Hungary,1980,99
+Hungary,1981,99
+Hungary,1982,99
+Hungary,1983,99
+Hungary,1984,99
+Hungary,1985,99
+Hungary,1986,99
+Hungary,1987,99
+Hungary,1988,99
+Hungary,1989,99
+Hungary,1990,99
+Hungary,1991,99
+Hungary,1992,99
+Hungary,1993,99
+Hungary,1994,99
+Hungary,1995,99
+Hungary,1996,99
+Hungary,1997,99
+Hungary,1998,99
+Hungary,1999,99
+Hungary,2000,99
+Hungary,2001,99
+Hungary,2002,99
+Hungary,2003,99
+Hungary,2004,99
+Hungary,2005,99
+Hungary,2006,99
+Hungary,2007,99
+Hungary,2008,99
+Hungary,2009,99
+Hungary,2010,99
+Hungary,2011,99
+Hungary,2012,99
+Hungary,2013,99
+Hungary,2014,99
+IBRD only,1985,47.15283727
+IBRD only,1986,44.90150429
+IBRD only,1987,55.29190623
+IBRD only,1988,66.49206868
+IBRD only,1989,70.86583264
+IBRD only,1990,77.64529961
+IBRD only,1991,72.78837577
+IBRD only,1992,73.68893266
+IBRD only,1993,74.14854277
+IBRD only,1994,74.80851933
+IBRD only,1995,78.02242388
+IBRD only,1996,77.84877143
+IBRD only,1997,75.01868324
+IBRD only,1998,74.57567023
+IBRD only,1999,75.72043599
+IBRD only,2000,75.71559302
+IBRD only,2001,76.69344794
+IBRD only,2002,75.66881682
+IBRD only,2003,77.25309555
+IBRD only,2004,79.14298411
+IBRD only,2005,80.65148403
+IBRD only,2006,83.17194786
+IBRD only,2007,83.70606027
+IBRD only,2008,85.19215806
+IBRD only,2009,87.65263954
+IBRD only,2010,89.0032519
+IBRD only,2011,90.00067867
+IBRD only,2012,90.1185507
+IBRD only,2013,89.60367679
+IBRD only,2014,89.00428082
+Iceland,1983,81
+Iceland,1984,96
+Iceland,1985,96
+Iceland,1986,95
+Iceland,1987,97
+Iceland,1988,99
+Iceland,1989,99
+Iceland,1990,99
+Iceland,1991,99
+Iceland,1992,99
+Iceland,1993,99
+Iceland,1994,98
+Iceland,1995,99
+Iceland,1996,99
+Iceland,1997,99
+Iceland,1998,96
+Iceland,1999,94
+Iceland,2000,91
+Iceland,2001,88
+Iceland,2002,91
+Iceland,2003,93
+Iceland,2004,93
+Iceland,2005,90
+Iceland,2006,95
+Iceland,2007,95
+Iceland,2008,96
+Iceland,2009,92
+Iceland,2010,93
+Iceland,2011,94
+Iceland,2012,90
+Iceland,2013,91
+Iceland,2014,90
+IDA & IBRD total,1984,47.01181334
+IDA & IBRD total,1985,41.73715367
+IDA & IBRD total,1986,41.60440077
+IDA & IBRD total,1987,50.20476328
+IDA & IBRD total,1988,60.41218744
+IDA & IBRD total,1989,66.35758979
+IDA & IBRD total,1990,72.49544464
+IDA & IBRD total,1991,68.31527972
+IDA & IBRD total,1992,68.60995962
+IDA & IBRD total,1993,69.06663361
+IDA & IBRD total,1994,70.33592045
+IDA & IBRD total,1995,72.31908892
+IDA & IBRD total,1996,71.66669698
+IDA & IBRD total,1997,69.73138258
+IDA & IBRD total,1998,69.23525045
+IDA & IBRD total,1999,69.68386455
+IDA & IBRD total,2000,70.28950523
+IDA & IBRD total,2001,70.86713135
+IDA & IBRD total,2002,70.40336764
+IDA & IBRD total,2003,72.14581568
+IDA & IBRD total,2004,74.36906831
+IDA & IBRD total,2005,76.28956626
+IDA & IBRD total,2006,78.25506615
+IDA & IBRD total,2007,78.72017071
+IDA & IBRD total,2008,80.41969825
+IDA & IBRD total,2009,82.8752947
+IDA & IBRD total,2010,84.11770869
+IDA & IBRD total,2011,84.01374337
+IDA & IBRD total,2012,83.85654297
+IDA & IBRD total,2013,83.9435073
+IDA & IBRD total,2014,83.58650997
+IDA blend,1984,19.40877954
+IDA blend,1985,28.26007288
+IDA blend,1986,38.53817945
+IDA blend,1987,42.32871649
+IDA blend,1988,50.68456876
+IDA blend,1989,59.72836113
+IDA blend,1990,61.02193846
+IDA blend,1991,61.71366442
+IDA blend,1992,59.11155133
+IDA blend,1993,57.74282076
+IDA blend,1994,58.50410873
+IDA blend,1995,58.39106727
+IDA blend,1996,57.01756281
+IDA blend,1997,57.17529835
+IDA blend,1998,57.58867726
+IDA blend,1999,56.62352882
+IDA blend,2000,57.20410994
+IDA blend,2001,56.85678361
+IDA blend,2002,56.74452463
+IDA blend,2003,57.72563973
+IDA blend,2004,60.96925842
+IDA blend,2005,64.29230943
+IDA blend,2006,64.96571455
+IDA blend,2007,61.34220945
+IDA blend,2008,67.40980382
+IDA blend,2009,68.70089845
+IDA blend,2010,70.32190702
+IDA blend,2011,65.67445103
+IDA blend,2012,62.65566128
+IDA blend,2013,67.61633453
+IDA blend,2014,66.48686
+IDA only,1982,17.02234122
+IDA only,1983,19.20406184
+IDA only,1984,21.28882206
+IDA only,1985,25.23982171
+IDA only,1986,29.37577316
+IDA only,1987,33.00234418
+IDA only,1988,39.93228673
+IDA only,1989,50.9400443
+IDA only,1990,57.4037452
+IDA only,1991,53.45032671
+IDA only,1992,53.72286696
+IDA only,1993,56.20481799
+IDA only,1994,60.83111353
+IDA only,1995,60.37674635
+IDA only,1996,59.93823008
+IDA only,1997,59.50421862
+IDA only,1998,58.72506103
+IDA only,1999,58.21008633
+IDA only,2000,60.92571323
+IDA only,2001,60.98273262
+IDA only,2002,62.21354936
+IDA only,2003,64.93895635
+IDA only,2004,67.75421898
+IDA only,2005,70.29087779
+IDA only,2006,71.44429541
+IDA only,2007,74.1233586
+IDA only,2008,74.45312383
+IDA only,2009,77.70753851
+IDA only,2010,78.67843659
+IDA only,2011,78.49218972
+IDA only,2012,79.10824263
+IDA only,2013,78.33013155
+IDA only,2014,79.10790801
+IDA total,1983,18.45683643
+IDA total,1984,20.56193702
+IDA total,1985,26.37308841
+IDA total,1986,32.63798032
+IDA total,1987,36.33788139
+IDA total,1988,43.78105602
+IDA total,1989,54.08297139
+IDA total,1990,58.69371173
+IDA total,1991,56.39067967
+IDA total,1992,55.68847805
+IDA total,1993,56.75969685
+IDA total,1994,59.99878233
+IDA total,1995,59.67304641
+IDA total,1996,58.91555916
+IDA total,1997,58.69754283
+IDA total,1998,58.33595838
+IDA total,1999,57.67626386
+IDA total,2000,59.68563467
+IDA total,2001,59.62523581
+IDA total,2002,60.41232962
+IDA total,2003,62.57299381
+IDA total,2004,65.53195904
+IDA total,2005,68.32328716
+IDA total,2006,69.31288465
+IDA total,2007,69.88423801
+IDA total,2008,72.09886433
+IDA total,2009,74.67435784
+IDA total,2010,75.84647673
+IDA total,2011,74.13650522
+IDA total,2012,73.53085078
+IDA total,2013,74.69054676
+IDA total,2014,74.81862598
+India,1985,1
+India,1986,10
+India,1987,24
+India,1988,32
+India,1989,42
+India,1990,56
+India,1991,43
+India,1992,51
+India,1993,59
+India,1994,67
+India,1995,72
+India,1996,66
+India,1997,55
+India,1998,53
+India,1999,56
+India,2000,56
+India,2001,57
+India,2002,56
+India,2003,60
+India,2004,64
+India,2005,68
+India,2006,69
+India,2007,70
+India,2008,72
+India,2009,78
+India,2010,82
+India,2011,84
+India,2012,83
+India,2013,83
+India,2014,83
+Indonesia,1983,6
+Indonesia,1984,13
+Indonesia,1985,26
+Indonesia,1986,45
+Indonesia,1987,48
+Indonesia,1988,51
+Indonesia,1989,54
+Indonesia,1990,58
+Indonesia,1991,61
+Indonesia,1992,65
+Indonesia,1993,68
+Indonesia,1994,66
+Indonesia,1995,63
+Indonesia,1996,79
+Indonesia,1997,77
+Indonesia,1998,77
+Indonesia,1999,77
+Indonesia,2000,76
+Indonesia,2001,76
+Indonesia,2002,72
+Indonesia,2003,74
+Indonesia,2004,76
+Indonesia,2005,77
+Indonesia,2006,79
+Indonesia,2007,76
+Indonesia,2008,76
+Indonesia,2009,74
+Indonesia,2010,78
+Indonesia,2011,80
+Indonesia,2012,85
+Indonesia,2013,84
+Indonesia,2014,77
+Iran,1980,39
+Iran,1981,48
+Iran,1982,55
+Iran,1983,38
+Iran,1984,38
+Iran,1985,62
+Iran,1986,55
+Iran,1987,55
+Iran,1988,83
+Iran,1989,79
+Iran,1990,85
+Iran,1991,84
+Iran,1992,96
+Iran,1993,96
+Iran,1994,97
+Iran,1995,95
+Iran,1996,99
+Iran,1997,95
+Iran,1998,99
+Iran,1999,99
+Iran,2000,99
+Iran,2001,96
+Iran,2002,99
+Iran,2003,99
+Iran,2004,96
+Iran,2005,94
+Iran,2006,99
+Iran,2007,97
+Iran,2008,98
+Iran,2009,99
+Iran,2010,99
+Iran,2011,99
+Iran,2012,98
+Iran,2013,98
+Iran,2014,99
+Iraq,1980,9
+Iraq,1981,10
+Iraq,1982,11
+Iraq,1983,12
+Iraq,1984,25
+Iraq,1985,70
+Iraq,1986,75
+Iraq,1987,91
+Iraq,1988,85
+Iraq,1989,79
+Iraq,1990,75
+Iraq,1991,71
+Iraq,1992,67
+Iraq,1993,63
+Iraq,1994,72
+Iraq,1995,80
+Iraq,1996,82
+Iraq,1997,85
+Iraq,1998,88
+Iraq,1999,90
+Iraq,2000,86
+Iraq,2001,82
+Iraq,2002,77
+Iraq,2003,73
+Iraq,2004,69
+Iraq,2005,69
+Iraq,2006,62
+Iraq,2007,64
+Iraq,2008,76
+Iraq,2009,81
+Iraq,2010,75
+Iraq,2011,77
+Iraq,2012,69
+Iraq,2013,63
+Iraq,2014,57
+Ireland,1983,10
+Ireland,1984,10
+Ireland,1985,63
+Ireland,1986,65
+Ireland,1987,66
+Ireland,1988,68
+Ireland,1989,78
+Ireland,1990,78
+Ireland,1991,78
+Ireland,1992,78
+Ireland,1993,78
+Ireland,1994,78
+Ireland,1995,77
+Ireland,1996,77
+Ireland,1997,77
+Ireland,1998,77
+Ireland,1999,77
+Ireland,2000,79
+Ireland,2001,73
+Ireland,2002,73
+Ireland,2003,78
+Ireland,2004,81
+Ireland,2005,84
+Ireland,2006,86
+Ireland,2007,87
+Ireland,2008,89
+Ireland,2009,90
+Ireland,2010,90
+Ireland,2011,92
+Ireland,2012,92
+Ireland,2013,92
+Ireland,2014,93
+Israel,1980,81
+Israel,1981,83
+Israel,1982,88
+Israel,1983,85
+Israel,1984,85
+Israel,1985,85
+Israel,1986,88
+Israel,1987,88
+Israel,1988,86
+Israel,1989,88
+Israel,1990,91
+Israel,1991,94
+Israel,1992,94
+Israel,1993,92
+Israel,1994,92
+Israel,1995,93
+Israel,1996,96
+Israel,1997,97
+Israel,1998,94
+Israel,1999,94
+Israel,2000,95
+Israel,2001,95
+Israel,2002,95
+Israel,2003,96
+Israel,2004,97
+Israel,2005,94
+Israel,2006,96
+Israel,2007,97
+Israel,2008,98
+Israel,2009,97
+Israel,2010,96
+Israel,2011,97
+Israel,2012,96
+Israel,2013,96
+Israel,2014,96
+Italy,1990,43
+Italy,1991,50
+Italy,1992,50
+Italy,1993,50
+Italy,1994,50
+Italy,1995,50
+Italy,1996,55
+Italy,1997,57
+Italy,1998,55
+Italy,1999,70
+Italy,2000,74
+Italy,2001,77
+Italy,2002,81
+Italy,2003,84
+Italy,2004,86
+Italy,2005,87
+Italy,2006,88
+Italy,2007,90
+Italy,2008,90
+Italy,2009,90
+Italy,2010,91
+Italy,2011,90
+Italy,2012,90
+Italy,2013,90
+Italy,2014,86
+Jamaica,1982,12
+Jamaica,1983,15
+Jamaica,1984,60
+Jamaica,1985,64
+Jamaica,1986,36
+Jamaica,1987,62
+Jamaica,1988,68
+Jamaica,1989,71
+Jamaica,1990,74
+Jamaica,1991,77
+Jamaica,1992,63
+Jamaica,1993,80
+Jamaica,1994,82
+Jamaica,1995,90
+Jamaica,1996,96
+Jamaica,1997,88
+Jamaica,1998,88
+Jamaica,1999,82
+Jamaica,2000,88
+Jamaica,2001,85
+Jamaica,2002,86
+Jamaica,2003,78
+Jamaica,2004,86
+Jamaica,2005,84
+Jamaica,2006,87
+Jamaica,2007,76
+Jamaica,2008,88
+Jamaica,2009,88
+Jamaica,2010,89
+Jamaica,2011,88
+Jamaica,2012,93
+Jamaica,2013,94
+Jamaica,2014,92
+Japan,1980,69
+Japan,1981,68
+Japan,1982,66
+Japan,1983,70
+Japan,1984,73
+Japan,1985,73
+Japan,1986,74
+Japan,1987,75
+Japan,1988,76
+Japan,1989,77
+Japan,1990,73
+Japan,1991,71
+Japan,1992,69
+Japan,1993,68
+Japan,1994,81
+Japan,1995,93
+Japan,1996,94
+Japan,1997,94
+Japan,1998,95
+Japan,1999,95
+Japan,2000,96
+Japan,2001,98
+Japan,2002,98
+Japan,2003,98
+Japan,2004,98
+Japan,2005,98
+Japan,2006,97
+Japan,2007,96
+Japan,2008,95
+Japan,2009,94
+Japan,2010,94
+Japan,2011,94
+Japan,2012,96
+Japan,2013,95
+Japan,2014,98
+Jordan,1980,29
+Jordan,1981,40
+Jordan,1982,48
+Jordan,1983,56
+Jordan,1984,65
+Jordan,1985,73
+Jordan,1986,81
+Jordan,1987,87
+Jordan,1988,87
+Jordan,1989,84
+Jordan,1990,87
+Jordan,1991,85
+Jordan,1992,91
+Jordan,1993,88
+Jordan,1994,91
+Jordan,1995,92
+Jordan,1996,94
+Jordan,1997,95
+Jordan,1998,93
+Jordan,1999,83
+Jordan,2000,94
+Jordan,2001,99
+Jordan,2002,95
+Jordan,2003,96
+Jordan,2004,99
+Jordan,2005,95
+Jordan,2006,99
+Jordan,2007,95
+Jordan,2008,95
+Jordan,2009,95
+Jordan,2010,98
+Jordan,2011,98
+Jordan,2012,98
+Jordan,2013,97
+Jordan,2014,98
+Kazakhstan,1992,89
+Kazakhstan,1993,91
+Kazakhstan,1994,91
+Kazakhstan,1995,95
+Kazakhstan,1996,97
+Kazakhstan,1997,97
+Kazakhstan,1998,99
+Kazakhstan,1999,99
+Kazakhstan,2000,99
+Kazakhstan,2001,95
+Kazakhstan,2002,95
+Kazakhstan,2003,99
+Kazakhstan,2004,99
+Kazakhstan,2005,99
+Kazakhstan,2006,99
+Kazakhstan,2007,99
+Kazakhstan,2008,99
+Kazakhstan,2009,99
+Kazakhstan,2010,99
+Kazakhstan,2011,99
+Kazakhstan,2012,96
+Kazakhstan,2013,99
+Kazakhstan,2014,99
+Kenya,1984,55
+Kenya,1985,63
+Kenya,1986,65
+Kenya,1987,69
+Kenya,1988,72
+Kenya,1989,75
+Kenya,1990,78
+Kenya,1991,81
+Kenya,1992,84
+Kenya,1993,84
+Kenya,1994,84
+Kenya,1995,83
+Kenya,1996,81
+Kenya,1997,79
+Kenya,1998,90
+Kenya,1999,76
+Kenya,2000,78
+Kenya,2001,77
+Kenya,2002,78
+Kenya,2003,72
+Kenya,2004,73
+Kenya,2005,69
+Kenya,2006,77
+Kenya,2007,80
+Kenya,2008,90
+Kenya,2009,88
+Kenya,2010,86
+Kenya,2011,87
+Kenya,2012,93
+Kenya,2013,73
+Kenya,2014,79
+Kiribati,1983,24
+Kiribati,1984,8
+Kiribati,1985,4
+Kiribati,1986,9
+Kiribati,1987,14
+Kiribati,1988,54
+Kiribati,1989,63
+Kiribati,1990,75
+Kiribati,1991,62
+Kiribati,1992,77
+Kiribati,1993,89
+Kiribati,1994,70
+Kiribati,1995,47
+Kiribati,1996,64
+Kiribati,1997,82
+Kiribati,1998,77
+Kiribati,1999,62
+Kiribati,2000,80
+Kiribati,2001,76
+Kiribati,2002,88
+Kiribati,2003,72
+Kiribati,2004,56
+Kiribati,2005,85
+Kiribati,2006,61
+Kiribati,2007,93
+Kiribati,2008,72
+Kiribati,2009,82
+Kiribati,2010,89
+Kiribati,2011,90
+Kiribati,2012,91
+Kiribati,2013,91
+Kiribati,2014,91
+Kuwait,1980,48
+Kuwait,1981,71
+Kuwait,1982,79
+Kuwait,1983,80
+Kuwait,1984,88
+Kuwait,1985,91
+Kuwait,1986,93
+Kuwait,1987,95
+Kuwait,1988,97
+Kuwait,1989,98
+Kuwait,1990,66
+Kuwait,1991,75
+Kuwait,1992,85
+Kuwait,1993,95
+Kuwait,1994,98
+Kuwait,1995,98
+Kuwait,1996,99
+Kuwait,1997,95
+Kuwait,1998,99
+Kuwait,1999,96
+Kuwait,2000,99
+Kuwait,2001,99
+Kuwait,2002,97
+Kuwait,2003,97
+Kuwait,2004,97
+Kuwait,2005,99
+Kuwait,2006,99
+Kuwait,2007,99
+Kuwait,2008,99
+Kuwait,2009,99
+Kuwait,2010,98
+Kuwait,2011,99
+Kuwait,2012,99
+Kuwait,2013,99
+Kuwait,2014,94
+Kyrgyzstan,1992,94
+Kyrgyzstan,1993,93
+Kyrgyzstan,1994,88
+Kyrgyzstan,1995,97
+Kyrgyzstan,1996,98
+Kyrgyzstan,1997,98
+Kyrgyzstan,1998,98
+Kyrgyzstan,1999,99
+Kyrgyzstan,2000,98
+Kyrgyzstan,2001,99
+Kyrgyzstan,2002,98
+Kyrgyzstan,2003,99
+Kyrgyzstan,2004,99
+Kyrgyzstan,2005,99
+Kyrgyzstan,2006,97
+Kyrgyzstan,2007,99
+Kyrgyzstan,2008,99
+Kyrgyzstan,2009,99
+Kyrgyzstan,2010,99
+Kyrgyzstan,2011,97
+Kyrgyzstan,2012,98
+Kyrgyzstan,2013,99
+Kyrgyzstan,2014,96
+Laos,1981,7
+Laos,1982,7
+Laos,1983,7
+Laos,1984,6
+Laos,1985,6
+Laos,1986,10
+Laos,1987,11
+Laos,1988,23
+Laos,1989,20
+Laos,1990,32
+Laos,1991,47
+Laos,1992,46
+Laos,1993,46
+Laos,1994,73
+Laos,1995,68
+Laos,1996,73
+Laos,1997,67
+Laos,1998,71
+Laos,1999,71
+Laos,2000,42
+Laos,2001,50
+Laos,2002,55
+Laos,2003,42
+Laos,2004,36
+Laos,2005,41
+Laos,2006,48
+Laos,2007,40
+Laos,2008,52
+Laos,2009,59
+Laos,2010,64
+Laos,2011,69
+Laos,2012,72
+Laos,2013,82
+Laos,2014,87
+Late-demographic dividend,1983,68.32596187
+Late-demographic dividend,1984,70.61446849
+Late-demographic dividend,1985,74.98980253
+Late-demographic dividend,1986,61.2342854
+Late-demographic dividend,1987,72.17096903
+Late-demographic dividend,1988,86.74766993
+Late-demographic dividend,1989,88.70132355
+Late-demographic dividend,1990,93.66322118
+Late-demographic dividend,1991,90.14508785
+Late-demographic dividend,1992,86.40829526
+Late-demographic dividend,1993,83.34209466
+Late-demographic dividend,1994,79.01870532
+Late-demographic dividend,1995,83.7947021
+Late-demographic dividend,1996,85.56017762
+Late-demographic dividend,1997,86.92276831
+Late-demographic dividend,1998,86.84630839
+Late-demographic dividend,1999,88.15904767
+Late-demographic dividend,2000,88.92078837
+Late-demographic dividend,2001,89.9663005
+Late-demographic dividend,2002,89.51821785
+Late-demographic dividend,2003,89.61570604
+Late-demographic dividend,2004,90.55794353
+Late-demographic dividend,2005,90.69149285
+Late-demographic dividend,2006,94.37028566
+Late-demographic dividend,2007,94.4944148
+Late-demographic dividend,2008,96.82431487
+Late-demographic dividend,2009,97.96983734
+Late-demographic dividend,2010,98.09006452
+Late-demographic dividend,2011,97.95059422
+Late-demographic dividend,2012,97.9013323
+Late-demographic dividend,2013,98.05613145
+Late-demographic dividend,2014,97.94960261
+Latin America & Caribbean,1980,43.19434973
+Latin America & Caribbean,1981,50.35338708
+Latin America & Caribbean,1982,48.5775562
+Latin America & Caribbean,1983,47.74973573
+Latin America & Caribbean,1984,51.81195272
+Latin America & Caribbean,1985,59.92873602
+Latin America & Caribbean,1986,61.03442066
+Latin America & Caribbean,1987,60.25303355
+Latin America & Caribbean,1988,65.81013327
+Latin America & Caribbean,1989,69.59787144
+Latin America & Caribbean,1990,75.91537958
+Latin America & Caribbean,1991,80.56846361
+Latin America & Caribbean,1992,82.67730901
+Latin America & Caribbean,1993,82.01649487
+Latin America & Caribbean,1994,82.59764928
+Latin America & Caribbean,1995,86.16090536
+Latin America & Caribbean,1996,84.19315548
+Latin America & Caribbean,1997,88.62847935
+Latin America & Caribbean,1998,90.97138971
+Latin America & Caribbean,1999,92.22611932
+Latin America & Caribbean,2000,93.61746796
+Latin America & Caribbean,2001,94.79653718
+Latin America & Caribbean,2002,93.58285102
+Latin America & Caribbean,2003,94.67603949
+Latin America & Caribbean,2004,93.95360121
+Latin America & Caribbean,2005,93.34574755
+Latin America & Caribbean,2006,94.49442361
+Latin America & Caribbean,2007,93.99792955
+Latin America & Caribbean,2008,95.20289246
+Latin America & Caribbean,2009,94.35173932
+Latin America & Caribbean,2010,93.64855083
+Latin America & Caribbean,2011,94.45859803
+Latin America & Caribbean,2012,94.74416965
+Latin America & Caribbean,2013,91.36018485
+Latin America & Caribbean,2014,92.37432401
+Latin America & Caribbean (excluding high income),1980,40.51501538
+Latin America & Caribbean (excluding high income),1981,47.16286259
+Latin America & Caribbean (excluding high income),1982,46.09834117
+Latin America & Caribbean (excluding high income),1983,45.18767325
+Latin America & Caribbean (excluding high income),1984,49.03943429
+Latin America & Caribbean (excluding high income),1985,59.55219403
+Latin America & Caribbean (excluding high income),1986,58.63600284
+Latin America & Caribbean (excluding high income),1987,57.94444912
+Latin America & Caribbean (excluding high income),1988,63.55580433
+Latin America & Caribbean (excluding high income),1989,67.61492925
+Latin America & Caribbean (excluding high income),1990,74.04449965
+Latin America & Caribbean (excluding high income),1991,78.60651671
+Latin America & Caribbean (excluding high income),1992,81.783033
+Latin America & Caribbean (excluding high income),1993,80.71767012
+Latin America & Caribbean (excluding high income),1994,81.2451815
+Latin America & Caribbean (excluding high income),1995,84.96211669
+Latin America & Caribbean (excluding high income),1996,82.89806491
+Latin America & Caribbean (excluding high income),1997,88.12270829
+Latin America & Caribbean (excluding high income),1998,90.49669268
+Latin America & Caribbean (excluding high income),1999,91.84208506
+Latin America & Caribbean (excluding high income),2000,93.73793544
+Latin America & Caribbean (excluding high income),2001,95.15622984
+Latin America & Caribbean (excluding high income),2002,93.45674581
+Latin America & Caribbean (excluding high income),2003,94.49727473
+Latin America & Caribbean (excluding high income),2004,93.59058282
+Latin America & Caribbean (excluding high income),2005,93.01673331
+Latin America & Caribbean (excluding high income),2006,94.41079303
+Latin America & Caribbean (excluding high income),2007,94.0469861
+Latin America & Caribbean (excluding high income),2008,95.13607299
+Latin America & Caribbean (excluding high income),2009,94.03447712
+Latin America & Caribbean (excluding high income),2010,93.33232013
+Latin America & Caribbean (excluding high income),2011,94.5090124
+Latin America & Caribbean (excluding high income),2012,94.93532988
+Latin America & Caribbean (excluding high income),2013,91.16693976
+Latin America & Caribbean (excluding high income),2014,92.10437046
+Latin America & the Caribbean (IDA & IBRD countries),1980,43.1279148
+Latin America & the Caribbean (IDA & IBRD countries),1981,50.37062234
+Latin America & the Caribbean (IDA & IBRD countries),1982,48.48173875
+Latin America & the Caribbean (IDA & IBRD countries),1983,47.09454603
+Latin America & the Caribbean (IDA & IBRD countries),1984,51.35377317
+Latin America & the Caribbean (IDA & IBRD countries),1985,59.52547306
+Latin America & the Caribbean (IDA & IBRD countries),1986,60.69094291
+Latin America & the Caribbean (IDA & IBRD countries),1987,59.6027129
+Latin America & the Caribbean (IDA & IBRD countries),1988,65.4133456
+Latin America & the Caribbean (IDA & IBRD countries),1989,69.10828673
+Latin America & the Caribbean (IDA & IBRD countries),1990,75.60478001
+Latin America & the Caribbean (IDA & IBRD countries),1991,80.24681074
+Latin America & the Caribbean (IDA & IBRD countries),1992,82.41124137
+Latin America & the Caribbean (IDA & IBRD countries),1993,81.79900713
+Latin America & the Caribbean (IDA & IBRD countries),1994,82.35359726
+Latin America & the Caribbean (IDA & IBRD countries),1995,85.9787914
+Latin America & the Caribbean (IDA & IBRD countries),1996,83.9971424
+Latin America & the Caribbean (IDA & IBRD countries),1997,88.5258465
+Latin America & the Caribbean (IDA & IBRD countries),1998,90.86119899
+Latin America & the Caribbean (IDA & IBRD countries),1999,92.1807482
+Latin America & the Caribbean (IDA & IBRD countries),2000,93.61256264
+Latin America & the Caribbean (IDA & IBRD countries),2001,94.7813355
+Latin America & the Caribbean (IDA & IBRD countries),2002,93.52689685
+Latin America & the Caribbean (IDA & IBRD countries),2003,94.62564473
+Latin America & the Caribbean (IDA & IBRD countries),2004,93.89290362
+Latin America & the Caribbean (IDA & IBRD countries),2005,93.29405455
+Latin America & the Caribbean (IDA & IBRD countries),2006,94.48077072
+Latin America & the Caribbean (IDA & IBRD countries),2007,93.96772681
+Latin America & the Caribbean (IDA & IBRD countries),2008,95.17324774
+Latin America & the Caribbean (IDA & IBRD countries),2009,94.29573205
+Latin America & the Caribbean (IDA & IBRD countries),2010,93.58916837
+Latin America & the Caribbean (IDA & IBRD countries),2011,94.40946335
+Latin America & the Caribbean (IDA & IBRD countries),2012,94.69921431
+Latin America & the Caribbean (IDA & IBRD countries),2013,91.27482803
+Latin America & the Caribbean (IDA & IBRD countries),2014,92.29946417
+Latvia,1992,95
+Latvia,1993,80
+Latvia,1994,81
+Latvia,1995,81
+Latvia,1996,96
+Latvia,1997,97
+Latvia,1998,97
+Latvia,1999,97
+Latvia,2000,97
+Latvia,2001,98
+Latvia,2002,98
+Latvia,2003,98
+Latvia,2004,98
+Latvia,2005,98
+Latvia,2006,98
+Latvia,2007,95
+Latvia,2008,96
+Latvia,2009,92
+Latvia,2010,95
+Latvia,2011,92
+Latvia,2012,90
+Latvia,2013,96
+Latvia,2014,95
+Least developed countries: UN classification,1982,16.07235209
+Least developed countries: UN classification,1983,18.82361585
+Least developed countries: UN classification,1984,19.10656482
+Least developed countries: UN classification,1985,22.94134125
+Least developed countries: UN classification,1986,27.3004676
+Least developed countries: UN classification,1987,30.85970095
+Least developed countries: UN classification,1988,37.76662882
+Least developed countries: UN classification,1989,48.87125845
+Least developed countries: UN classification,1990,55.24510917
+Least developed countries: UN classification,1991,50.96590098
+Least developed countries: UN classification,1992,50.52411534
+Least developed countries: UN classification,1993,53.36413779
+Least developed countries: UN classification,1994,58.4459591
+Least developed countries: UN classification,1995,57.97765984
+Least developed countries: UN classification,1996,57.72912918
+Least developed countries: UN classification,1997,57.61908518
+Least developed countries: UN classification,1998,55.62426386
+Least developed countries: UN classification,1999,55.51262353
+Least developed countries: UN classification,2000,57.69108247
+Least developed countries: UN classification,2001,58.84871015
+Least developed countries: UN classification,2002,60.24076015
+Least developed countries: UN classification,2003,63.19718135
+Least developed countries: UN classification,2004,66.08923638
+Least developed countries: UN classification,2005,68.27332327
+Least developed countries: UN classification,2006,69.4749723
+Least developed countries: UN classification,2007,73.35731539
+Least developed countries: UN classification,2008,73.28140913
+Least developed countries: UN classification,2009,76.52613007
+Least developed countries: UN classification,2010,78.10157811
+Least developed countries: UN classification,2011,78.26620168
+Least developed countries: UN classification,2012,78.40609331
+Least developed countries: UN classification,2013,78.33127048
+Least developed countries: UN classification,2014,78.90677872
+Lebanon,1982,1
+Lebanon,1983,8
+Lebanon,1984,16
+Lebanon,1985,23
+Lebanon,1986,30
+Lebanon,1987,39
+Lebanon,1988,48
+Lebanon,1989,58
+Lebanon,1990,61
+Lebanon,1991,65
+Lebanon,1992,76
+Lebanon,1993,88
+Lebanon,1994,88
+Lebanon,1995,85
+Lebanon,1996,85
+Lebanon,1997,89
+Lebanon,1998,83
+Lebanon,1999,77
+Lebanon,2000,71
+Lebanon,2001,65
+Lebanon,2002,59
+Lebanon,2003,53
+Lebanon,2004,58
+Lebanon,2005,63
+Lebanon,2006,69
+Lebanon,2007,74
+Lebanon,2008,79
+Lebanon,2009,79
+Lebanon,2010,79
+Lebanon,2011,79
+Lebanon,2012,79
+Lebanon,2013,79
+Lebanon,2014,79
+Lesotho,1980,49
+Lesotho,1981,49
+Lesotho,1982,51
+Lesotho,1983,53
+Lesotho,1984,63
+Lesotho,1985,73
+Lesotho,1986,76
+Lesotho,1987,78
+Lesotho,1988,79
+Lesotho,1989,79
+Lesotho,1990,80
+Lesotho,1991,81
+Lesotho,1992,81
+Lesotho,1993,82
+Lesotho,1994,82
+Lesotho,1995,83
+Lesotho,1996,82
+Lesotho,1997,80
+Lesotho,1998,79
+Lesotho,1999,77
+Lesotho,2000,74
+Lesotho,2001,70
+Lesotho,2002,78
+Lesotho,2003,85
+Lesotho,2004,84
+Lesotho,2005,83
+Lesotho,2006,82
+Lesotho,2007,81
+Lesotho,2008,80
+Lesotho,2009,84
+Lesotho,2010,88
+Lesotho,2011,92
+Lesotho,2012,92
+Lesotho,2013,92
+Lesotho,2014,92
+Liberia,1999,69
+Liberia,2000,63
+Liberia,2001,58
+Liberia,2002,52
+Liberia,2003,47
+Liberia,2004,41
+Liberia,2005,62
+Liberia,2006,63
+Liberia,2007,71
+Liberia,2008,76
+Liberia,2009,83
+Liberia,2010,65
+Liberia,2011,71
+Liberia,2012,80
+Liberia,2013,74
+Liberia,2014,58
+Libya,1980,61
+Libya,1981,66
+Libya,1982,65
+Libya,1983,71
+Libya,1984,76
+Libya,1985,75
+Libya,1986,78
+Libya,1987,75
+Libya,1988,76
+Libya,1989,79
+Libya,1990,89
+Libya,1991,87
+Libya,1992,88
+Libya,1993,91
+Libya,1994,92
+Libya,1995,92
+Libya,1996,93
+Libya,1997,91
+Libya,1998,92
+Libya,1999,92
+Libya,2000,93
+Libya,2001,93
+Libya,2002,91
+Libya,2003,96
+Libya,2004,99
+Libya,2005,97
+Libya,2006,98
+Libya,2007,98
+Libya,2008,98
+Libya,2009,98
+Libya,2010,98
+Libya,2011,98
+Libya,2012,98
+Libya,2013,96
+Libya,2014,93
+Lithuania,1992,89
+Lithuania,1993,92
+Lithuania,1994,93
+Lithuania,1995,94
+Lithuania,1996,96
+Lithuania,1997,96
+Lithuania,1998,97
+Lithuania,1999,97
+Lithuania,2000,97
+Lithuania,2001,97
+Lithuania,2002,98
+Lithuania,2003,98
+Lithuania,2004,98
+Lithuania,2005,97
+Lithuania,2006,97
+Lithuania,2007,97
+Lithuania,2008,97
+Lithuania,2009,96
+Lithuania,2010,96
+Lithuania,2011,94
+Lithuania,2012,93
+Lithuania,2013,93
+Lithuania,2014,93
+Low & middle income,1984,46.08620481
+Low & middle income,1985,41.22380479
+Low & middle income,1986,40.93978824
+Low & middle income,1987,49.64111375
+Low & middle income,1988,59.99127322
+Low & middle income,1989,66.15860825
+Low & middle income,1990,72.300105
+Low & middle income,1991,68.04509168
+Low & middle income,1992,68.41673928
+Low & middle income,1993,68.84429429
+Low & middle income,1994,70.05478567
+Low & middle income,1995,71.97182197
+Low & middle income,1996,71.23500502
+Low & middle income,1997,69.27279793
+Low & middle income,1998,68.82518965
+Low & middle income,1999,69.33190458
+Low & middle income,2000,70.03714534
+Low & middle income,2001,70.69167645
+Low & middle income,2002,70.2068928
+Low & middle income,2003,71.94279929
+Low & middle income,2004,74.17347311
+Low & middle income,2005,76.11611627
+Low & middle income,2006,78.10325231
+Low & middle income,2007,78.5969023
+Low & middle income,2008,80.2838397
+Low & middle income,2009,82.74823983
+Low & middle income,2010,84.00965514
+Low & middle income,2011,83.92472708
+Low & middle income,2012,83.78070515
+Low & middle income,2013,83.87010662
+Low & middle income,2014,83.49768595
+Low income,1981,24.06867661
+Low income,1982,25.89627402
+Low income,1983,28.23576366
+Low income,1984,27.04997494
+Low income,1985,31.94993811
+Low income,1986,38.82674668
+Low income,1987,39.89709489
+Low income,1988,45.8640888
+Low income,1989,49.43179408
+Low income,1990,53.38470518
+Low income,1991,46.66308152
+Low income,1992,46.61875233
+Low income,1993,48.95237469
+Low income,1994,55.11924627
+Low income,1995,52.56861996
+Low income,1996,52.75452895
+Low income,1997,50.95074845
+Low income,1998,48.61009738
+Low income,1999,49.24556644
+Low income,2000,52.57026245
+Low income,2001,53.37266877
+Low income,2002,55.84050005
+Low income,2003,59.482702
+Low income,2004,61.46990346
+Low income,2005,64.23334703
+Low income,2006,67.29905761
+Low income,2007,69.08384624
+Low income,2008,68.82119203
+Low income,2009,73.06826153
+Low income,2010,74.81340314
+Low income,2011,75.86132332
+Low income,2012,76.0629212
+Low income,2013,75.82379024
+Low income,2014,76.68872184
+Lower middle income,1985,16.23363906
+Lower middle income,1986,25.12524664
+Lower middle income,1987,33.95399541
+Lower middle income,1988,42.06996066
+Lower middle income,1989,52.80284548
+Lower middle income,1990,61.45440088
+Lower middle income,1991,55.7209437
+Lower middle income,1992,59.6108444
+Lower middle income,1993,63.61972726
+Lower middle income,1994,67.31220945
+Lower middle income,1995,69.60257231
+Lower middle income,1996,67.68133791
+Lower middle income,1997,63.02636556
+Lower middle income,1998,62.84828808
+Lower middle income,1999,63.71652016
+Lower middle income,2000,64.20361896
+Lower middle income,2001,64.61528118
+Lower middle income,2002,63.84859404
+Lower middle income,2003,66.354383
+Lower middle income,2004,69.90470892
+Lower middle income,2005,72.84373402
+Lower middle income,2006,73.22995765
+Lower middle income,2007,73.22361561
+Lower middle income,2008,75.55972156
+Lower middle income,2009,78.26344926
+Lower middle income,2010,80.12447234
+Lower middle income,2011,79.5257791
+Lower middle income,2012,79.11435381
+Lower middle income,2013,80.17625346
+Lower middle income,2014,79.1146894
+Luxembourg,1983,39
+Luxembourg,1984,49
+Luxembourg,1985,58
+Luxembourg,1986,68
+Luxembourg,1987,77
+Luxembourg,1988,71
+Luxembourg,1989,80
+Luxembourg,1990,80
+Luxembourg,1991,80
+Luxembourg,1992,80
+Luxembourg,1993,83
+Luxembourg,1994,86
+Luxembourg,1995,88
+Luxembourg,1996,91
+Luxembourg,1997,91
+Luxembourg,1998,92
+Luxembourg,1999,92
+Luxembourg,2000,93
+Luxembourg,2001,94
+Luxembourg,2002,94
+Luxembourg,2003,95
+Luxembourg,2004,95
+Luxembourg,2005,95
+Luxembourg,2006,95
+Luxembourg,2007,96
+Luxembourg,2008,96
+Luxembourg,2009,96
+Luxembourg,2010,96
+Luxembourg,2011,96
+Luxembourg,2012,99
+Luxembourg,2013,99
+Luxembourg,2014,99
+Macedonia,1993,98
+Macedonia,1994,88
+Macedonia,1995,97
+Macedonia,1996,91
+Macedonia,1997,98
+Macedonia,1998,96
+Macedonia,1999,98
+Macedonia,2000,97
+Macedonia,2001,92
+Macedonia,2002,98
+Macedonia,2003,96
+Macedonia,2004,96
+Macedonia,2005,96
+Macedonia,2006,94
+Macedonia,2007,96
+Macedonia,2008,98
+Macedonia,2009,96
+Macedonia,2010,98
+Macedonia,2011,97
+Macedonia,2012,96
+Macedonia,2013,96
+Macedonia,2014,93
+Madagascar,1984,1
+Madagascar,1985,6
+Madagascar,1986,18
+Madagascar,1987,28
+Madagascar,1988,36
+Madagascar,1989,44
+Madagascar,1990,47
+Madagascar,1991,54
+Madagascar,1992,54
+Madagascar,1993,54
+Madagascar,1994,63
+Madagascar,1995,55
+Madagascar,1996,46
+Madagascar,1997,46
+Madagascar,1998,51
+Madagascar,1999,55
+Madagascar,2000,57
+Madagascar,2001,59
+Madagascar,2002,61
+Madagascar,2003,65
+Madagascar,2004,79
+Madagascar,2005,74
+Madagascar,2006,71
+Madagascar,2007,81
+Madagascar,2008,70
+Madagascar,2009,63
+Madagascar,2010,66
+Madagascar,2011,62
+Madagascar,2012,61
+Madagascar,2013,63
+Madagascar,2014,64
+Malawi,1980,49
+Malawi,1981,64
+Malawi,1982,64
+Malawi,1983,58
+Malawi,1984,50
+Malawi,1985,49
+Malawi,1986,60
+Malawi,1987,79
+Malawi,1988,82
+Malawi,1989,84
+Malawi,1990,81
+Malawi,1991,85
+Malawi,1992,91
+Malawi,1993,87
+Malawi,1994,83
+Malawi,1995,90
+Malawi,1996,90
+Malawi,1997,87
+Malawi,1998,90
+Malawi,1999,82
+Malawi,2000,73
+Malawi,2001,81
+Malawi,2002,69
+Malawi,2003,77
+Malawi,2004,80
+Malawi,2005,82
+Malawi,2006,85
+Malawi,2007,83
+Malawi,2008,88
+Malawi,2009,92
+Malawi,2010,93
+Malawi,2011,96
+Malawi,2012,90
+Malawi,2013,88
+Malawi,2014,85
+Malaysia,1983,11
+Malaysia,1984,23
+Malaysia,1985,20
+Malaysia,1986,35
+Malaysia,1987,68
+Malaysia,1988,61
+Malaysia,1989,61
+Malaysia,1990,70
+Malaysia,1991,80
+Malaysia,1992,82
+Malaysia,1993,81
+Malaysia,1994,95
+Malaysia,1995,97
+Malaysia,1996,97
+Malaysia,1997,98
+Malaysia,1998,96
+Malaysia,1999,97
+Malaysia,2000,96
+Malaysia,2001,95
+Malaysia,2002,94
+Malaysia,2003,93
+Malaysia,2004,95
+Malaysia,2005,96
+Malaysia,2006,95
+Malaysia,2007,95
+Malaysia,2008,95
+Malaysia,2009,95
+Malaysia,2010,95
+Malaysia,2011,95
+Malaysia,2012,95
+Malaysia,2013,95
+Malaysia,2014,94
+Maldives,1981,39
+Maldives,1982,34
+Maldives,1983,37
+Maldives,1984,40
+Maldives,1985,47
+Maldives,1986,50
+Maldives,1987,41
+Maldives,1988,83
+Maldives,1989,88
+Maldives,1990,96
+Maldives,1991,97
+Maldives,1992,98
+Maldives,1993,86
+Maldives,1994,97
+Maldives,1995,96
+Maldives,1996,95
+Maldives,1997,96
+Maldives,1998,98
+Maldives,1999,97
+Maldives,2000,99
+Maldives,2001,98
+Maldives,2002,97
+Maldives,2003,96
+Maldives,2004,97
+Maldives,2005,97
+Maldives,2006,97
+Maldives,2007,97
+Maldives,2008,97
+Maldives,2009,98
+Maldives,2010,97
+Maldives,2011,96
+Maldives,2012,98
+Maldives,2013,99
+Maldives,2014,99
+Mali,1985,19
+Mali,1986,27
+Mali,1987,11
+Mali,1988,23
+Mali,1989,40
+Mali,1990,43
+Mali,1991,42
+Mali,1992,35
+Mali,1993,51
+Mali,1994,46
+Mali,1995,52
+Mali,1996,57
+Mali,1997,56
+Mali,1998,54
+Mali,1999,51
+Mali,2000,49
+Mali,2001,54
+Mali,2002,56
+Mali,2003,57
+Mali,2004,63
+Mali,2005,73
+Mali,2006,68
+Mali,2007,66
+Mali,2008,71
+Mali,2009,73
+Mali,2010,78
+Mali,2011,72
+Mali,2012,75
+Mali,2013,80
+Mali,2014,80
+Malta,1984,10
+Malta,1985,10
+Malta,1986,35
+Malta,1987,59
+Malta,1988,41
+Malta,1989,86
+Malta,1990,80
+Malta,1991,90
+Malta,1992,92
+Malta,1993,90
+Malta,1994,71
+Malta,1995,51
+Malta,1996,51
+Malta,1997,56
+Malta,1998,60
+Malta,1999,67
+Malta,2000,74
+Malta,2001,70
+Malta,2002,65
+Malta,2003,90
+Malta,2004,94
+Malta,2005,86
+Malta,2006,94
+Malta,2007,79
+Malta,2008,78
+Malta,2009,82
+Malta,2010,73
+Malta,2011,84
+Malta,2012,93
+Malta,2013,99
+Malta,2014,98
+Marshall Islands,1987,31
+Marshall Islands,1988,25
+Marshall Islands,1989,39
+Marshall Islands,1990,52
+Marshall Islands,1991,74
+Marshall Islands,1992,86
+Marshall Islands,1993,36
+Marshall Islands,1994,59
+Marshall Islands,1995,57
+Marshall Islands,1996,69
+Marshall Islands,1997,52
+Marshall Islands,1998,93
+Marshall Islands,1999,93
+Marshall Islands,2000,94
+Marshall Islands,2001,64
+Marshall Islands,2002,80
+Marshall Islands,2003,90
+Marshall Islands,2004,70
+Marshall Islands,2005,86
+Marshall Islands,2006,96
+Marshall Islands,2007,94
+Marshall Islands,2008,86
+Marshall Islands,2009,78
+Marshall Islands,2010,97
+Marshall Islands,2011,88
+Marshall Islands,2012,78
+Marshall Islands,2013,79
+Marshall Islands,2014,79
+Mauritania,1981,45
+Mauritania,1982,44
+Mauritania,1983,43
+Mauritania,1984,42
+Mauritania,1985,41
+Mauritania,1986,40
+Mauritania,1987,27
+Mauritania,1988,45
+Mauritania,1989,42
+Mauritania,1990,38
+Mauritania,1991,32
+Mauritania,1992,43
+Mauritania,1993,49
+Mauritania,1994,53
+Mauritania,1995,67
+Mauritania,1996,66
+Mauritania,1997,64
+Mauritania,1998,62
+Mauritania,1999,62
+Mauritania,2000,46
+Mauritania,2001,58
+Mauritania,2002,87
+Mauritania,2003,84
+Mauritania,2004,73
+Mauritania,2005,65
+Mauritania,2006,62
+Mauritania,2007,67
+Mauritania,2008,65
+Mauritania,2009,59
+Mauritania,2010,67
+Mauritania,2011,67
+Mauritania,2012,75
+Mauritania,2013,80
+Mauritania,2014,84
+Mauritius,1982,34
+Mauritius,1983,53
+Mauritius,1984,55
+Mauritius,1985,67
+Mauritius,1986,71
+Mauritius,1987,69
+Mauritius,1988,73
+Mauritius,1989,80
+Mauritius,1990,76
+Mauritius,1991,88
+Mauritius,1992,84
+Mauritius,1993,84
+Mauritius,1994,85
+Mauritius,1995,89
+Mauritius,1996,61
+Mauritius,1997,87
+Mauritius,1998,85
+Mauritius,1999,80
+Mauritius,2000,84
+Mauritius,2001,90
+Mauritius,2002,84
+Mauritius,2003,91
+Mauritius,2004,98
+Mauritius,2005,98
+Mauritius,2006,99
+Mauritius,2007,98
+Mauritius,2008,98
+Mauritius,2009,99
+Mauritius,2010,99
+Mauritius,2011,99
+Mauritius,2012,99
+Mauritius,2013,99
+Mauritius,2014,98
+Mexico,1980,35
+Mexico,1981,33
+Mexico,1982,37
+Mexico,1983,23
+Mexico,1984,21
+Mexico,1985,64
+Mexico,1986,60
+Mexico,1987,54
+Mexico,1988,70
+Mexico,1989,85
+Mexico,1990,75
+Mexico,1991,89
+Mexico,1992,88
+Mexico,1993,79
+Mexico,1994,90
+Mexico,1995,90
+Mexico,1996,93
+Mexico,1997,91
+Mexico,1998,96
+Mexico,1999,94
+Mexico,2000,96
+Mexico,2001,95
+Mexico,2002,96
+Mexico,2003,96
+Mexico,2004,96
+Mexico,2005,96
+Mexico,2006,96
+Mexico,2007,96
+Mexico,2008,96
+Mexico,2009,96
+Mexico,2010,95
+Mexico,2011,98
+Mexico,2012,99
+Mexico,2013,89
+Mexico,2014,97
+Micronesia (country),1987,69
+Micronesia (country),1988,84
+Micronesia (country),1989,94
+Micronesia (country),1990,81
+Micronesia (country),1991,76
+Micronesia (country),1992,78
+Micronesia (country),1993,80
+Micronesia (country),1994,83
+Micronesia (country),1995,90
+Micronesia (country),1996,82
+Micronesia (country),1997,74
+Micronesia (country),1998,82
+Micronesia (country),1999,79
+Micronesia (country),2000,85
+Micronesia (country),2001,84
+Micronesia (country),2002,88
+Micronesia (country),2003,91
+Micronesia (country),2004,85
+Micronesia (country),2005,96
+Micronesia (country),2006,83
+Micronesia (country),2007,92
+Micronesia (country),2008,86
+Micronesia (country),2009,86
+Micronesia (country),2010,80
+Micronesia (country),2011,92
+Micronesia (country),2012,91
+Micronesia (country),2013,91
+Micronesia (country),2014,91
+Middle East & North Africa,1980,30.50128374
+Middle East & North Africa,1981,34.27760356
+Middle East & North Africa,1982,37.79155078
+Middle East & North Africa,1983,36.6961128
+Middle East & North Africa,1984,41.65121733
+Middle East & North Africa,1985,61.0518818
+Middle East & North Africa,1986,64.05901541
+Middle East & North Africa,1987,66.34090675
+Middle East & North Africa,1988,78.24230048
+Middle East & North Africa,1989,80.86416668
+Middle East & North Africa,1990,83.16297176
+Middle East & North Africa,1991,82.72634205
+Middle East & North Africa,1992,84.19981649
+Middle East & North Africa,1993,84.60598496
+Middle East & North Africa,1994,84.30823377
+Middle East & North Africa,1995,85.3575954
+Middle East & North Africa,1996,87.40693366
+Middle East & North Africa,1997,86.92242483
+Middle East & North Africa,1998,90.7639609
+Middle East & North Africa,1999,90.60033308
+Middle East & North Africa,2000,90.79159174
+Middle East & North Africa,2001,89.9953167
+Middle East & North Africa,2002,89.1662627
+Middle East & North Africa,2003,88.81694481
+Middle East & North Africa,2004,88.95877654
+Middle East & North Africa,2005,89.02081642
+Middle East & North Africa,2006,88.89185931
+Middle East & North Africa,2007,89.1240374
+Middle East & North Africa,2008,89.29944407
+Middle East & North Africa,2009,91.0795939
+Middle East & North Africa,2010,91.30027742
+Middle East & North Africa,2011,91.35671581
+Middle East & North Africa,2012,88.61925382
+Middle East & North Africa,2013,89.12067311
+Middle East & North Africa,2014,87.4356222
+Middle East & North Africa (excluding high income),1980,31.29044516
+Middle East & North Africa (excluding high income),1981,35.13350183
+Middle East & North Africa (excluding high income),1982,35.59699037
+Middle East & North Africa (excluding high income),1983,33.25617452
+Middle East & North Africa (excluding high income),1984,38.08920383
+Middle East & North Africa (excluding high income),1985,59.24253347
+Middle East & North Africa (excluding high income),1986,62.45355364
+Middle East & North Africa (excluding high income),1987,64.87116322
+Middle East & North Africa (excluding high income),1988,77.79122873
+Middle East & North Africa (excluding high income),1989,79.8617323
+Middle East & North Africa (excluding high income),1990,82.68283326
+Middle East & North Africa (excluding high income),1991,81.55253326
+Middle East & North Africa (excluding high income),1992,83.6305305
+Middle East & North Africa (excluding high income),1993,83.78630519
+Middle East & North Africa (excluding high income),1994,83.25568302
+Middle East & North Africa (excluding high income),1995,84.32035516
+Middle East & North Africa (excluding high income),1996,86.70623417
+Middle East & North Africa (excluding high income),1997,86.12568344
+Middle East & North Africa (excluding high income),1998,90.37968748
+Middle East & North Africa (excluding high income),1999,90.28313344
+Middle East & North Africa (excluding high income),2000,90.27679734
+Middle East & North Africa (excluding high income),2001,89.37118678
+Middle East & North Africa (excluding high income),2002,88.18512374
+Middle East & North Africa (excluding high income),2003,87.86578509
+Middle East & North Africa (excluding high income),2004,87.91441169
+Middle East & North Africa (excluding high income),2005,88.05447812
+Middle East & North Africa (excluding high income),2006,88.07142542
+Middle East & North Africa (excluding high income),2007,88.2176658
+Middle East & North Africa (excluding high income),2008,88.29494673
+Middle East & North Africa (excluding high income),2009,90.22095813
+Middle East & North Africa (excluding high income),2010,90.4928037
+Middle East & North Africa (excluding high income),2011,90.52056509
+Middle East & North Africa (excluding high income),2012,87.4572968
+Middle East & North Africa (excluding high income),2013,88.027867
+Middle East & North Africa (excluding high income),2014,86.17883677
+Middle East & North Africa (IDA & IBRD countries),1980,31.29044516
+Middle East & North Africa (IDA & IBRD countries),1981,35.13350183
+Middle East & North Africa (IDA & IBRD countries),1982,35.59699037
+Middle East & North Africa (IDA & IBRD countries),1983,33.25617452
+Middle East & North Africa (IDA & IBRD countries),1984,38.08920383
+Middle East & North Africa (IDA & IBRD countries),1985,59.24253347
+Middle East & North Africa (IDA & IBRD countries),1986,62.45355364
+Middle East & North Africa (IDA & IBRD countries),1987,64.87116322
+Middle East & North Africa (IDA & IBRD countries),1988,77.79122873
+Middle East & North Africa (IDA & IBRD countries),1989,79.8617323
+Middle East & North Africa (IDA & IBRD countries),1990,82.68283326
+Middle East & North Africa (IDA & IBRD countries),1991,81.55253326
+Middle East & North Africa (IDA & IBRD countries),1992,83.6305305
+Middle East & North Africa (IDA & IBRD countries),1993,83.78630519
+Middle East & North Africa (IDA & IBRD countries),1994,83.25568302
+Middle East & North Africa (IDA & IBRD countries),1995,84.32035516
+Middle East & North Africa (IDA & IBRD countries),1996,86.70623417
+Middle East & North Africa (IDA & IBRD countries),1997,86.12568344
+Middle East & North Africa (IDA & IBRD countries),1998,90.37968748
+Middle East & North Africa (IDA & IBRD countries),1999,90.28313344
+Middle East & North Africa (IDA & IBRD countries),2000,90.27679734
+Middle East & North Africa (IDA & IBRD countries),2001,89.37118678
+Middle East & North Africa (IDA & IBRD countries),2002,88.18512374
+Middle East & North Africa (IDA & IBRD countries),2003,87.86578509
+Middle East & North Africa (IDA & IBRD countries),2004,87.91441169
+Middle East & North Africa (IDA & IBRD countries),2005,88.05447812
+Middle East & North Africa (IDA & IBRD countries),2006,88.07142542
+Middle East & North Africa (IDA & IBRD countries),2007,88.2176658
+Middle East & North Africa (IDA & IBRD countries),2008,88.29494673
+Middle East & North Africa (IDA & IBRD countries),2009,90.22095813
+Middle East & North Africa (IDA & IBRD countries),2010,90.4928037
+Middle East & North Africa (IDA & IBRD countries),2011,90.52056509
+Middle East & North Africa (IDA & IBRD countries),2012,87.4572968
+Middle East & North Africa (IDA & IBRD countries),2013,88.027867
+Middle East & North Africa (IDA & IBRD countries),2014,86.17883677
+Middle income,1984,48.77017861
+Middle income,1985,42.25140666
+Middle income,1986,41.17680865
+Middle income,1987,50.72773283
+Middle income,1988,61.56936556
+Middle income,1989,68.04645798
+Middle income,1990,74.48149255
+Middle income,1991,70.54206882
+Middle income,1992,70.99160686
+Middle income,1993,71.33742184
+Middle income,1994,72.02454317
+Middle income,1995,74.65266013
+Middle income,1996,73.98572422
+Middle income,1997,72.00501503
+Middle income,1998,71.93546434
+Middle income,1999,72.56241837
+Middle income,2000,72.9205216
+Middle income,2001,73.61947917
+Middle income,2002,72.67367001
+Middle income,2003,74.11863933
+Middle income,2004,76.42736862
+Middle income,2005,78.25749247
+Middle income,2006,80.06236469
+Middle income,2007,80.362992
+Middle income,2008,82.44374939
+Middle income,2009,84.59806905
+Middle income,2010,85.78974899
+Middle income,2011,85.53708665
+Middle income,2012,85.33074213
+Middle income,2013,85.50160116
+Middle income,2014,84.89422803
+Moldova,1992,73
+Moldova,1993,64
+Moldova,1994,85
+Moldova,1995,91
+Moldova,1996,90
+Moldova,1997,95
+Moldova,1998,93
+Moldova,1999,93
+Moldova,2000,89
+Moldova,2001,94
+Moldova,2002,94
+Moldova,2003,96
+Moldova,2004,96
+Moldova,2005,97
+Moldova,2006,96
+Moldova,2007,96
+Moldova,2008,95
+Moldova,2009,90
+Moldova,2010,97
+Moldova,2011,91
+Moldova,2012,91
+Moldova,2013,91
+Moldova,2014,90
+Monaco,1988,99
+Monaco,1989,99
+Monaco,1990,99
+Monaco,1991,98
+Monaco,1992,98
+Monaco,1993,99
+Monaco,1994,99
+Monaco,1995,99
+Monaco,1996,99
+Monaco,1997,99
+Monaco,1998,99
+Monaco,1999,99
+Monaco,2000,99
+Monaco,2001,99
+Monaco,2002,99
+Monaco,2003,99
+Monaco,2004,99
+Monaco,2005,99
+Monaco,2006,99
+Monaco,2007,99
+Monaco,2008,99
+Monaco,2009,99
+Monaco,2010,99
+Monaco,2011,99
+Monaco,2012,99
+Monaco,2013,99
+Monaco,2014,99
+Mongolia,1980,17
+Mongolia,1981,12
+Mongolia,1982,6
+Mongolia,1983,1
+Mongolia,1984,20
+Mongolia,1985,18
+Mongolia,1986,11
+Mongolia,1987,61
+Mongolia,1988,70
+Mongolia,1989,86
+Mongolia,1990,92
+Mongolia,1991,82
+Mongolia,1992,84
+Mongolia,1993,84
+Mongolia,1994,80
+Mongolia,1995,85
+Mongolia,1996,89
+Mongolia,1997,91
+Mongolia,1998,93
+Mongolia,1999,93
+Mongolia,2000,92
+Mongolia,2001,95
+Mongolia,2002,98
+Mongolia,2003,98
+Mongolia,2004,99
+Mongolia,2005,97
+Mongolia,2006,99
+Mongolia,2007,98
+Mongolia,2008,97
+Mongolia,2009,94
+Mongolia,2010,97
+Mongolia,2011,98
+Mongolia,2012,99
+Mongolia,2013,97
+Mongolia,2014,98
+Montenegro,2006,90
+Montenegro,2007,90
+Montenegro,2008,89
+Montenegro,2009,86
+Montenegro,2010,90
+Montenegro,2011,91
+Montenegro,2012,90
+Montenegro,2013,88
+Montenegro,2014,88
+Morocco,1982,17
+Morocco,1983,35
+Morocco,1984,42
+Morocco,1985,45
+Morocco,1986,58
+Morocco,1987,73
+Morocco,1988,81
+Morocco,1989,82
+Morocco,1990,79
+Morocco,1991,80
+Morocco,1992,81
+Morocco,1993,83
+Morocco,1994,87
+Morocco,1995,88
+Morocco,1996,93
+Morocco,1997,92
+Morocco,1998,91
+Morocco,1999,90
+Morocco,2000,93
+Morocco,2001,96
+Morocco,2002,94
+Morocco,2003,90
+Morocco,2004,95
+Morocco,2005,97
+Morocco,2006,95
+Morocco,2007,95
+Morocco,2008,96
+Morocco,2009,98
+Morocco,2010,98
+Morocco,2011,99
+Morocco,2012,99
+Morocco,2013,99
+Morocco,2014,99
+Mozambique,1981,32
+Mozambique,1982,58
+Mozambique,1983,51
+Mozambique,1984,50
+Mozambique,1985,39
+Mozambique,1986,39
+Mozambique,1987,37
+Mozambique,1988,44
+Mozambique,1989,48
+Mozambique,1990,59
+Mozambique,1991,55
+Mozambique,1992,56
+Mozambique,1993,62
+Mozambique,1994,65
+Mozambique,1995,71
+Mozambique,1996,58
+Mozambique,1997,61
+Mozambique,1998,64
+Mozambique,1999,67
+Mozambique,2000,71
+Mozambique,2001,74
+Mozambique,2002,77
+Mozambique,2003,80
+Mozambique,2004,79
+Mozambique,2005,78
+Mozambique,2006,76
+Mozambique,2007,75
+Mozambique,2008,77
+Mozambique,2009,80
+Mozambique,2010,82
+Mozambique,2011,82
+Mozambique,2012,82
+Mozambique,2013,85
+Mozambique,2014,85
+Myanmar,1986,5
+Myanmar,1987,17
+Myanmar,1988,32
+Myanmar,1989,50
+Myanmar,1990,68
+Myanmar,1991,67
+Myanmar,1992,68
+Myanmar,1993,71
+Myanmar,1994,77
+Myanmar,1995,82
+Myanmar,1996,86
+Myanmar,1997,88
+Myanmar,1998,89
+Myanmar,1999,86
+Myanmar,2000,84
+Myanmar,2001,73
+Myanmar,2002,77
+Myanmar,2003,80
+Myanmar,2004,86
+Myanmar,2005,84
+Myanmar,2006,78
+Myanmar,2007,81
+Myanmar,2008,82
+Myanmar,2009,87
+Myanmar,2010,88
+Myanmar,2011,88
+Myanmar,2012,84
+Myanmar,2013,86
+Myanmar,2014,86
+Namibia,1991,76
+Namibia,1992,76
+Namibia,1993,71
+Namibia,1994,70
+Namibia,1995,68
+Namibia,1996,61
+Namibia,1997,59
+Namibia,1998,64
+Namibia,1999,65
+Namibia,2000,69
+Namibia,2001,58
+Namibia,2002,68
+Namibia,2003,70
+Namibia,2004,70
+Namibia,2005,73
+Namibia,2006,63
+Namibia,2007,69
+Namibia,2008,73
+Namibia,2009,76
+Namibia,2010,75
+Namibia,2011,74
+Namibia,2012,76
+Namibia,2013,82
+Namibia,2014,83
+Nauru,1997,99
+Nauru,1998,90
+Nauru,1999,49
+Nauru,2000,8
+Nauru,2001,95
+Nauru,2002,40
+Nauru,2003,53
+Nauru,2004,67
+Nauru,2005,80
+Nauru,2006,99
+Nauru,2007,99
+Nauru,2008,99
+Nauru,2009,99
+Nauru,2010,99
+Nauru,2011,99
+Nauru,2012,96
+Nauru,2013,97
+Nauru,2014,98
+Nepal,1981,2
+Nepal,1982,2
+Nepal,1983,11
+Nepal,1984,24
+Nepal,1985,34
+Nepal,1986,37
+Nepal,1987,37
+Nepal,1988,58
+Nepal,1989,57
+Nepal,1990,57
+Nepal,1991,57
+Nepal,1992,58
+Nepal,1993,58
+Nepal,1994,58
+Nepal,1995,56
+Nepal,1996,65
+Nepal,1997,73
+Nepal,1998,67
+Nepal,1999,81
+Nepal,2000,71
+Nepal,2001,71
+Nepal,2002,71
+Nepal,2003,75
+Nepal,2004,73
+Nepal,2005,74
+Nepal,2006,85
+Nepal,2007,81
+Nepal,2008,79
+Nepal,2009,90
+Nepal,2010,86
+Nepal,2011,88
+Nepal,2012,86
+Nepal,2013,88
+Nepal,2014,88
+Netherlands,1980,91
+Netherlands,1981,91
+Netherlands,1982,91
+Netherlands,1983,92
+Netherlands,1984,93
+Netherlands,1985,92
+Netherlands,1986,92
+Netherlands,1987,92
+Netherlands,1988,92
+Netherlands,1989,94
+Netherlands,1990,94
+Netherlands,1991,93
+Netherlands,1992,94
+Netherlands,1993,95
+Netherlands,1994,94
+Netherlands,1995,94
+Netherlands,1996,94
+Netherlands,1997,96
+Netherlands,1998,96
+Netherlands,1999,95
+Netherlands,2000,96
+Netherlands,2001,96
+Netherlands,2002,95
+Netherlands,2003,95
+Netherlands,2004,96
+Netherlands,2005,96
+Netherlands,2006,95
+Netherlands,2007,96
+Netherlands,2008,96
+Netherlands,2009,96
+Netherlands,2010,96
+Netherlands,2011,96
+Netherlands,2012,96
+Netherlands,2013,96
+Netherlands,2014,96
+New Zealand,1980,80
+New Zealand,1981,77
+New Zealand,1982,74
+New Zealand,1983,71
+New Zealand,1984,67
+New Zealand,1985,64
+New Zealand,1986,60
+New Zealand,1987,67
+New Zealand,1988,75
+New Zealand,1989,83
+New Zealand,1990,90
+New Zealand,1991,82
+New Zealand,1992,82
+New Zealand,1993,85
+New Zealand,1994,87
+New Zealand,1995,84
+New Zealand,1996,92
+New Zealand,1997,99
+New Zealand,1998,81
+New Zealand,1999,83
+New Zealand,2000,85
+New Zealand,2001,85
+New Zealand,2002,84
+New Zealand,2003,84
+New Zealand,2004,83
+New Zealand,2005,82
+New Zealand,2006,82
+New Zealand,2007,79
+New Zealand,2008,86
+New Zealand,2009,89
+New Zealand,2010,91
+New Zealand,2011,93
+New Zealand,2012,92
+New Zealand,2013,92
+New Zealand,2014,93
+Nicaragua,1980,15
+Nicaragua,1981,20
+Nicaragua,1982,40
+Nicaragua,1983,41
+Nicaragua,1984,56
+Nicaragua,1985,59
+Nicaragua,1986,51
+Nicaragua,1987,47
+Nicaragua,1988,63
+Nicaragua,1989,63
+Nicaragua,1990,82
+Nicaragua,1991,54
+Nicaragua,1992,83
+Nicaragua,1993,84
+Nicaragua,1994,84
+Nicaragua,1995,85
+Nicaragua,1996,85
+Nicaragua,1997,86
+Nicaragua,1998,91
+Nicaragua,1999,87
+Nicaragua,2000,86
+Nicaragua,2001,99
+Nicaragua,2002,98
+Nicaragua,2003,93
+Nicaragua,2004,84
+Nicaragua,2005,96
+Nicaragua,2006,99
+Nicaragua,2007,99
+Nicaragua,2008,99
+Nicaragua,2009,99
+Nicaragua,2010,99
+Nicaragua,2011,99
+Nicaragua,2012,99
+Nicaragua,2013,99
+Nicaragua,2014,99
+Niger,1981,19
+Niger,1982,18
+Niger,1983,16
+Niger,1984,22
+Niger,1985,27
+Niger,1986,27
+Niger,1987,27
+Niger,1988,24
+Niger,1989,14
+Niger,1990,25
+Niger,1991,28
+Niger,1992,21
+Niger,1993,19
+Niger,1994,19
+Niger,1995,40
+Niger,1996,38
+Niger,1997,35
+Niger,1998,35
+Niger,1999,35
+Niger,2000,37
+Niger,2001,39
+Niger,2002,41
+Niger,2003,43
+Niger,2004,45
+Niger,2005,47
+Niger,2006,53
+Niger,2007,60
+Niger,2008,66
+Niger,2009,69
+Niger,2010,67
+Niger,2011,69
+Niger,2012,75
+Niger,2013,76
+Niger,2014,72
+Nigeria,1984,9
+Nigeria,1985,17
+Nigeria,1986,28
+Nigeria,1987,36
+Nigeria,1988,46
+Nigeria,1989,59
+Nigeria,1990,54
+Nigeria,1991,57
+Nigeria,1992,43
+Nigeria,1993,40
+Nigeria,1994,41
+Nigeria,1995,44
+Nigeria,1996,38
+Nigeria,1997,38
+Nigeria,1998,38
+Nigeria,1999,35
+Nigeria,2000,33
+Nigeria,2001,32
+Nigeria,2002,30
+Nigeria,2003,34
+Nigeria,2004,37
+Nigeria,2005,41
+Nigeria,2006,44
+Nigeria,2007,41
+Nigeria,2008,53
+Nigeria,2009,64
+Nigeria,2010,56
+Nigeria,2011,49
+Nigeria,2012,42
+Nigeria,2013,53
+Nigeria,2014,51
+North America,1980,86
+North America,1981,97
+North America,1982,97
+North America,1983,98
+North America,1984,98
+North America,1985,97
+North America,1986,97
+North America,1987,80.90024251
+North America,1988,96.81055469
+North America,1989,93.35960349
+North America,1990,89.9084258
+North America,1991,87.45547974
+North America,1992,84.01883284
+North America,1993,85.11637148
+North America,1994,89.7440273
+North America,1995,88.73885225
+North America,1996,91.54944151
+North America,1997,91.44743758
+North America,1998,92.34940049
+North America,1999,92.34048887
+North America,2000,91.41545069
+North America,2001,91.32228218
+North America,2002,91.31692649
+North America,2003,93.15590857
+North America,2004,93.07737212
+North America,2005,92.15514643
+North America,2006,92.07689402
+North America,2007,92.1610427
+North America,2008,92.16551595
+North America,2009,90.42480252
+North America,2010,92.26039394
+North America,2011,92.26746084
+North America,2012,92.53429072
+North America,2013,91.35840083
+North America,2014,91.35935615
+North Korea,1980,29
+North Korea,1981,31
+North Korea,1982,29
+North Korea,1983,30
+North Korea,1984,31
+North Korea,1985,38
+North Korea,1986,44
+North Korea,1987,35
+North Korea,1988,58
+North Korea,1989,99
+North Korea,1990,98
+North Korea,1991,98
+North Korea,1992,99
+North Korea,1993,99
+North Korea,1994,83
+North Korea,1995,67
+North Korea,1996,50
+North Korea,1997,34
+North Korea,1998,49
+North Korea,1999,63
+North Korea,2000,78
+North Korea,2001,92
+North Korea,2002,98
+North Korea,2003,95
+North Korea,2004,95
+North Korea,2005,96
+North Korea,2006,96
+North Korea,2007,99
+North Korea,2008,98
+North Korea,2009,98
+North Korea,2010,99
+North Korea,2011,99
+North Korea,2012,99
+North Korea,2013,99
+North Korea,2014,99
+Norway,1983,80
+Norway,1984,80
+Norway,1985,90
+Norway,1986,87
+Norway,1987,87
+Norway,1988,87
+Norway,1989,84
+Norway,1990,87
+Norway,1991,94
+Norway,1992,96
+Norway,1993,93
+Norway,1994,94
+Norway,1995,92
+Norway,1996,92
+Norway,1997,93
+Norway,1998,91
+Norway,1999,90
+Norway,2000,88
+Norway,2001,90
+Norway,2002,87
+Norway,2003,86
+Norway,2004,89
+Norway,2005,90
+Norway,2006,92
+Norway,2007,92
+Norway,2008,93
+Norway,2009,93
+Norway,2010,93
+Norway,2011,93
+Norway,2012,94
+Norway,2013,93
+Norway,2014,94
+OECD members,1980,57.82363592
+OECD members,1981,62.37410499
+OECD members,1982,65.06094059
+OECD members,1983,62.84338371
+OECD members,1984,66.20322501
+OECD members,1985,75.56004947
+OECD members,1986,76.71641765
+OECD members,1987,73.28484953
+OECD members,1988,81.94941836
+OECD members,1989,84.8152153
+OECD members,1990,82.11276023
+OECD members,1991,83.09961839
+OECD members,1992,82.54319337
+OECD members,1993,81.88083665
+OECD members,1994,86.45182825
+OECD members,1995,86.58755035
+OECD members,1996,88.69493596
+OECD members,1997,88.833228
+OECD members,1998,89.70429575
+OECD members,1999,90.24808387
+OECD members,2000,91.36939903
+OECD members,2001,91.91798106
+OECD members,2002,91.65732019
+OECD members,2003,91.59354077
+OECD members,2004,92.28401925
+OECD members,2005,92.88988977
+OECD members,2006,93.76514692
+OECD members,2007,93.53197985
+OECD members,2008,93.6712637
+OECD members,2009,93.05561807
+OECD members,2010,93.68855816
+OECD members,2011,94.35168761
+OECD members,2012,94.72116133
+OECD members,2013,92.92414609
+OECD members,2014,93.98820742
+Oman,1980,22
+Oman,1981,10
+Oman,1982,24
+Oman,1983,34
+Oman,1984,53
+Oman,1985,65
+Oman,1986,79
+Oman,1987,86
+Oman,1988,87
+Oman,1989,94
+Oman,1990,98
+Oman,1991,96
+Oman,1992,96
+Oman,1993,95
+Oman,1994,97
+Oman,1995,98
+Oman,1996,98
+Oman,1997,98
+Oman,1998,98
+Oman,1999,99
+Oman,2000,99
+Oman,2001,99
+Oman,2002,99
+Oman,2003,98
+Oman,2004,98
+Oman,2005,98
+Oman,2006,96
+Oman,2007,97
+Oman,2008,98
+Oman,2009,99
+Oman,2010,99
+Oman,2011,99
+Oman,2012,99
+Oman,2013,99
+Oman,2014,99
+Other small states,1985,58.04342201
+Other small states,1986,66.2470515
+Other small states,1987,70.64614255
+Other small states,1988,72.59719118
+Other small states,1989,78.03525512
+Other small states,1990,80.91754132
+Other small states,1991,77.06101059
+Other small states,1992,76.86200576
+Other small states,1993,77.30826854
+Other small states,1994,78.09964553
+Other small states,1995,76.74566866
+Other small states,1996,73.63676422
+Other small states,1997,74.6343305
+Other small states,1998,75.80605516
+Other small states,1999,75.42543231
+Other small states,2000,77.32300212
+Other small states,2001,76.02205015
+Other small states,2002,77.46861123
+Other small states,2003,79.02569922
+Other small states,2004,79.95130826
+Other small states,2005,79.75284476
+Other small states,2006,79.39016907
+Other small states,2007,80.52787169
+Other small states,2008,82.6310148
+Other small states,2009,83.57905312
+Other small states,2010,82.83664063
+Other small states,2011,83.41903109
+Other small states,2012,83.46619884
+Other small states,2013,84.44998628
+Other small states,2014,83.93892872
+Pacific island small states,1982,16.57529731
+Pacific island small states,1983,35.50581793
+Pacific island small states,1984,30.68568368
+Pacific island small states,1985,55.29956442
+Pacific island small states,1986,49.69301165
+Pacific island small states,1987,60.7281141
+Pacific island small states,1988,68.30378964
+Pacific island small states,1989,73.96373282
+Pacific island small states,1990,79.01192091
+Pacific island small states,1991,81.64131823
+Pacific island small states,1992,81.78195276
+Pacific island small states,1993,84.06607579
+Pacific island small states,1994,80.34931185
+Pacific island small states,1995,82.10035731
+Pacific island small states,1996,87.77420272
+Pacific island small states,1997,76.04570482
+Pacific island small states,1998,76.2537144
+Pacific island small states,1999,83.21775328
+Pacific island small states,2000,83.04842914
+Pacific island small states,2001,80.84082584
+Pacific island small states,2002,81.38961266
+Pacific island small states,2003,78.77905163
+Pacific island small states,2004,76.08999572
+Pacific island small states,2005,81.21596117
+Pacific island small states,2006,83.41376467
+Pacific island small states,2007,85.08490388
+Pacific island small states,2008,76.50975596
+Pacific island small states,2009,77.22020025
+Pacific island small states,2010,80.69244291
+Pacific island small states,2011,83.11214573
+Pacific island small states,2012,87.47228159
+Pacific island small states,2013,87.248036
+Pacific island small states,2014,86.53791407
+Pakistan,1980,1
+Pakistan,1981,2
+Pakistan,1982,3
+Pakistan,1983,19
+Pakistan,1984,33
+Pakistan,1985,38
+Pakistan,1986,41
+Pakistan,1987,43
+Pakistan,1988,46
+Pakistan,1989,48
+Pakistan,1990,50
+Pakistan,1991,51
+Pakistan,1992,52
+Pakistan,1993,52
+Pakistan,1994,53
+Pakistan,1995,47
+Pakistan,1996,50
+Pakistan,1997,52
+Pakistan,1998,54
+Pakistan,1999,56
+Pakistan,2000,59
+Pakistan,2001,61
+Pakistan,2002,63
+Pakistan,2003,61
+Pakistan,2004,67
+Pakistan,2005,73
+Pakistan,2006,71
+Pakistan,2007,67
+Pakistan,2008,67
+Pakistan,2009,57
+Pakistan,2010,69
+Pakistan,2011,63
+Pakistan,2012,61
+Pakistan,2013,63
+Pakistan,2014,63
+Palau,1986,98
+Palau,1987,98
+Palau,1988,99
+Palau,1989,98
+Palau,1990,98
+Palau,1991,98
+Palau,1992,94
+Palau,1993,32
+Palau,1994,41
+Palau,1995,99
+Palau,1996,99
+Palau,1997,83
+Palau,1998,74
+Palau,1999,96
+Palau,2000,83
+Palau,2001,91
+Palau,2002,99
+Palau,2003,99
+Palau,2004,99
+Palau,2005,98
+Palau,2006,98
+Palau,2007,91
+Palau,2008,97
+Palau,2009,75
+Palau,2010,39
+Palau,2011,85
+Palau,2012,91
+Palau,2013,99
+Palau,2014,83
+Panama,1980,71
+Panama,1981,76
+Panama,1982,64
+Panama,1983,85
+Panama,1984,72
+Panama,1985,84
+Panama,1986,74
+Panama,1987,78
+Panama,1988,73
+Panama,1989,73
+Panama,1990,73
+Panama,1991,80
+Panama,1992,76
+Panama,1993,83
+Panama,1994,84
+Panama,1995,84
+Panama,1996,90
+Panama,1997,92
+Panama,1998,96
+Panama,1999,90
+Panama,2000,97
+Panama,2001,95
+Panama,2002,95
+Panama,2003,95
+Panama,2004,97
+Panama,2005,99
+Panama,2006,95
+Panama,2007,95
+Panama,2008,96
+Panama,2009,96
+Panama,2010,97
+Panama,2011,97
+Panama,2012,98
+Panama,2013,92
+Panama,2014,90
+Papua New Guinea,1983,1
+Papua New Guinea,1984,26
+Papua New Guinea,1985,33
+Papua New Guinea,1986,39
+Papua New Guinea,1987,37
+Papua New Guinea,1988,46
+Papua New Guinea,1989,52
+Papua New Guinea,1990,67
+Papua New Guinea,1991,69
+Papua New Guinea,1992,70
+Papua New Guinea,1993,28
+Papua New Guinea,1994,36
+Papua New Guinea,1995,42
+Papua New Guinea,1996,24
+Papua New Guinea,1997,50
+Papua New Guinea,1998,61
+Papua New Guinea,1999,62
+Papua New Guinea,2000,62
+Papua New Guinea,2001,56
+Papua New Guinea,2002,61
+Papua New Guinea,2003,63
+Papua New Guinea,2004,60
+Papua New Guinea,2005,63
+Papua New Guinea,2006,65
+Papua New Guinea,2007,58
+Papua New Guinea,2008,54
+Papua New Guinea,2009,55
+Papua New Guinea,2010,55
+Papua New Guinea,2011,60
+Papua New Guinea,2012,67
+Papua New Guinea,2013,70
+Papua New Guinea,2014,65
+Paraguay,1980,19
+Paraguay,1981,16
+Paraguay,1982,26
+Paraguay,1983,37
+Paraguay,1984,62
+Paraguay,1985,48
+Paraguay,1986,46
+Paraguay,1987,56
+Paraguay,1988,63
+Paraguay,1989,58
+Paraguay,1990,69
+Paraguay,1991,74
+Paraguay,1992,87
+Paraguay,1993,96
+Paraguay,1994,76
+Paraguay,1995,75
+Paraguay,1996,81
+Paraguay,1997,61
+Paraguay,1998,71
+Paraguay,1999,82
+Paraguay,2000,92
+Paraguay,2001,90
+Paraguay,2002,86
+Paraguay,2003,91
+Paraguay,2004,91
+Paraguay,2005,91
+Paraguay,2006,91
+Paraguay,2007,91
+Paraguay,2008,91
+Paraguay,2009,91
+Paraguay,2010,94
+Paraguay,2011,93
+Paraguay,2012,91
+Paraguay,2013,92
+Paraguay,2014,90
+Peru,1980,23
+Peru,1981,26
+Peru,1982,32
+Peru,1983,28
+Peru,1984,35
+Peru,1985,53
+Peru,1986,41
+Peru,1987,56
+Peru,1988,52
+Peru,1989,52
+Peru,1990,64
+Peru,1991,74
+Peru,1992,83
+Peru,1993,75
+Peru,1994,75
+Peru,1995,98
+Peru,1996,87
+Peru,1997,91
+Peru,1998,93
+Peru,1999,93
+Peru,2000,97
+Peru,2001,97
+Peru,2002,95
+Peru,2003,95
+Peru,2004,85
+Peru,2005,77
+Peru,2006,93
+Peru,2007,92
+Peru,2008,92
+Peru,2009,91
+Peru,2010,94
+Peru,2011,96
+Peru,2012,94
+Peru,2013,85
+Peru,2014,89
+Philippines,1982,9
+Philippines,1983,27
+Philippines,1984,44
+Philippines,1985,49
+Philippines,1986,51
+Philippines,1987,67
+Philippines,1988,77
+Philippines,1989,83
+Philippines,1990,85
+Philippines,1991,83
+Philippines,1992,81
+Philippines,1993,78
+Philippines,1994,75
+Philippines,1995,72
+Philippines,1996,76
+Philippines,1997,79
+Philippines,1998,80
+Philippines,1999,80
+Philippines,2000,78
+Philippines,2001,81
+Philippines,2002,82
+Philippines,2003,87
+Philippines,2004,92
+Philippines,2005,92
+Philippines,2006,92
+Philippines,2007,92
+Philippines,2008,92
+Philippines,2009,88
+Philippines,2010,80
+Philippines,2011,79
+Philippines,2012,85
+Philippines,2013,90
+Philippines,2014,88
+Poland,1980,92
+Poland,1981,93
+Poland,1982,93
+Poland,1983,94
+Poland,1984,94
+Poland,1985,92
+Poland,1986,92
+Poland,1987,94
+Poland,1988,95
+Poland,1989,95
+Poland,1990,95
+Poland,1991,94
+Poland,1992,95
+Poland,1993,95
+Poland,1994,96
+Poland,1995,96
+Poland,1996,97
+Poland,1997,97
+Poland,1998,97
+Poland,1999,97
+Poland,2000,97
+Poland,2001,97
+Poland,2002,98
+Poland,2003,97
+Poland,2004,97
+Poland,2005,98
+Poland,2006,99
+Poland,2007,98
+Poland,2008,98
+Poland,2009,98
+Poland,2010,98
+Poland,2011,98
+Poland,2012,98
+Poland,2013,98
+Poland,2014,98
+Portugal,1980,54
+Portugal,1981,49
+Portugal,1982,46
+Portugal,1983,48
+Portugal,1984,48
+Portugal,1985,70
+Portugal,1986,75
+Portugal,1987,81
+Portugal,1988,84
+Portugal,1989,96
+Portugal,1990,85
+Portugal,1991,96
+Portugal,1992,99
+Portugal,1993,95
+Portugal,1994,91
+Portugal,1995,94
+Portugal,1996,99
+Portugal,1997,96
+Portugal,1998,96
+Portugal,1999,92
+Portugal,2000,87
+Portugal,2001,90
+Portugal,2002,93
+Portugal,2003,96
+Portugal,2004,95
+Portugal,2005,93
+Portugal,2006,97
+Portugal,2007,95
+Portugal,2008,97
+Portugal,2009,95
+Portugal,2010,96
+Portugal,2011,97
+Portugal,2012,97
+Portugal,2013,98
+Portugal,2014,98
+Post-demographic dividend,1981,67.93674732
+Post-demographic dividend,1982,69.14743042
+Post-demographic dividend,1983,69.80030436
+Post-demographic dividend,1984,74.87883667
+Post-demographic dividend,1985,78.88561151
+Post-demographic dividend,1986,80.90189581
+Post-demographic dividend,1987,77.14637183
+Post-demographic dividend,1988,83.76617894
+Post-demographic dividend,1989,86.12225865
+Post-demographic dividend,1990,83.37538702
+Post-demographic dividend,1991,82.46903629
+Post-demographic dividend,1992,81.94064539
+Post-demographic dividend,1993,83.51249943
+Post-demographic dividend,1994,86.88803941
+Post-demographic dividend,1995,88.20015876
+Post-demographic dividend,1996,89.48015115
+Post-demographic dividend,1997,89.49701485
+Post-demographic dividend,1998,89.3759442
+Post-demographic dividend,1999,90.58538842
+Post-demographic dividend,2000,90.90432014
+Post-demographic dividend,2001,91.5119417
+Post-demographic dividend,2002,91.90756578
+Post-demographic dividend,2003,92.74042786
+Post-demographic dividend,2004,92.99055252
+Post-demographic dividend,2005,92.63470746
+Post-demographic dividend,2006,92.95008158
+Post-demographic dividend,2007,92.87361888
+Post-demographic dividend,2008,92.72274837
+Post-demographic dividend,2009,91.21796338
+Post-demographic dividend,2010,91.4021138
+Post-demographic dividend,2011,91.95146102
+Post-demographic dividend,2012,93.06441818
+Post-demographic dividend,2013,92.48552891
+Post-demographic dividend,2014,92.65326751
+Pre-demographic dividend,1984,25.647031
+Pre-demographic dividend,1985,32.70429209
+Pre-demographic dividend,1986,40.37024086
+Pre-demographic dividend,1987,45.05925737
+Pre-demographic dividend,1988,50.79475544
+Pre-demographic dividend,1989,55.90547593
+Pre-demographic dividend,1990,56.21300978
+Pre-demographic dividend,1991,54.00009294
+Pre-demographic dividend,1992,50.91776706
+Pre-demographic dividend,1993,50.65729543
+Pre-demographic dividend,1994,52.80436638
+Pre-demographic dividend,1995,54.12768521
+Pre-demographic dividend,1996,51.91336701
+Pre-demographic dividend,1997,51.71304696
+Pre-demographic dividend,1998,50.57209987
+Pre-demographic dividend,1999,49.05065687
+Pre-demographic dividend,2000,51.93480929
+Pre-demographic dividend,2001,53.2848165
+Pre-demographic dividend,2002,54.578379
+Pre-demographic dividend,2003,57.65516361
+Pre-demographic dividend,2004,60.3439181
+Pre-demographic dividend,2005,61.9231511
+Pre-demographic dividend,2006,64.20882728
+Pre-demographic dividend,2007,66.17493414
+Pre-demographic dividend,2008,68.75548654
+Pre-demographic dividend,2009,73.31080171
+Pre-demographic dividend,2010,73.07351511
+Pre-demographic dividend,2011,70.82637676
+Pre-demographic dividend,2012,70.64425219
+Pre-demographic dividend,2013,71.82097644
+Pre-demographic dividend,2014,70.91417131
+Qatar,1980,26
+Qatar,1981,10
+Qatar,1982,22
+Qatar,1983,69
+Qatar,1984,62
+Qatar,1985,62
+Qatar,1986,62
+Qatar,1987,60
+Qatar,1988,73
+Qatar,1989,79
+Qatar,1990,79
+Qatar,1991,84
+Qatar,1992,86
+Qatar,1993,86
+Qatar,1994,86
+Qatar,1995,87
+Qatar,1996,90
+Qatar,1997,87
+Qatar,1998,89
+Qatar,1999,87
+Qatar,2000,91
+Qatar,2001,92
+Qatar,2002,99
+Qatar,2003,93
+Qatar,2004,99
+Qatar,2005,99
+Qatar,2006,99
+Qatar,2007,92
+Qatar,2008,96
+Qatar,2009,99
+Qatar,2010,99
+Qatar,2011,98
+Qatar,2012,97
+Qatar,2013,99
+Qatar,2014,99
+Romania,1983,83
+Romania,1984,86
+Romania,1985,88
+Romania,1986,81
+Romania,1987,90
+Romania,1988,78
+Romania,1989,90
+Romania,1990,92
+Romania,1991,92
+Romania,1992,91
+Romania,1993,93
+Romania,1994,91
+Romania,1995,93
+Romania,1996,94
+Romania,1997,97
+Romania,1998,97
+Romania,1999,98
+Romania,2000,98
+Romania,2001,98
+Romania,2002,98
+Romania,2003,97
+Romania,2004,97
+Romania,2005,97
+Romania,2006,95
+Romania,2007,97
+Romania,2008,96
+Romania,2009,96
+Romania,2010,95
+Romania,2011,93
+Romania,2012,94
+Romania,2013,92
+Romania,2014,89
+Russia,1992,83
+Russia,1993,88
+Russia,1994,81
+Russia,1995,85
+Russia,1996,88
+Russia,1997,91
+Russia,1998,94
+Russia,1999,97
+Russia,2000,97
+Russia,2001,98
+Russia,2002,98
+Russia,2003,98
+Russia,2004,98
+Russia,2005,99
+Russia,2006,99
+Russia,2007,99
+Russia,2008,99
+Russia,2009,98
+Russia,2010,98
+Russia,2011,98
+Russia,2012,98
+Russia,2013,98
+Russia,2014,98
+Rwanda,1981,42
+Rwanda,1982,48
+Rwanda,1983,53
+Rwanda,1984,53
+Rwanda,1985,52
+Rwanda,1986,79
+Rwanda,1987,78
+Rwanda,1988,79
+Rwanda,1989,83
+Rwanda,1990,83
+Rwanda,1991,89
+Rwanda,1992,82
+Rwanda,1993,74
+Rwanda,1994,25
+Rwanda,1995,84
+Rwanda,1996,76
+Rwanda,1997,66
+Rwanda,1998,72
+Rwanda,1999,78
+Rwanda,2000,74
+Rwanda,2001,69
+Rwanda,2002,69
+Rwanda,2003,90
+Rwanda,2004,84
+Rwanda,2005,89
+Rwanda,2006,95
+Rwanda,2007,94
+Rwanda,2008,92
+Rwanda,2009,95
+Rwanda,2010,95
+Rwanda,2011,95
+Rwanda,2012,97
+Rwanda,2013,97
+Rwanda,2014,98
+Saint Kitts and Nevis,1984,85
+Saint Kitts and Nevis,1985,91
+Saint Kitts and Nevis,1986,96
+Saint Kitts and Nevis,1987,91
+Saint Kitts and Nevis,1988,77
+Saint Kitts and Nevis,1989,90
+Saint Kitts and Nevis,1990,99
+Saint Kitts and Nevis,1991,99
+Saint Kitts and Nevis,1992,99
+Saint Kitts and Nevis,1993,99
+Saint Kitts and Nevis,1994,99
+Saint Kitts and Nevis,1995,99
+Saint Kitts and Nevis,1996,99
+Saint Kitts and Nevis,1997,97
+Saint Kitts and Nevis,1998,99
+Saint Kitts and Nevis,1999,99
+Saint Kitts and Nevis,2000,99
+Saint Kitts and Nevis,2001,90
+Saint Kitts and Nevis,2002,99
+Saint Kitts and Nevis,2003,98
+Saint Kitts and Nevis,2004,98
+Saint Kitts and Nevis,2005,99
+Saint Kitts and Nevis,2006,99
+Saint Kitts and Nevis,2007,99
+Saint Kitts and Nevis,2008,99
+Saint Kitts and Nevis,2009,99
+Saint Kitts and Nevis,2010,99
+Saint Kitts and Nevis,2011,99
+Saint Kitts and Nevis,2012,95
+Saint Kitts and Nevis,2013,99
+Saint Kitts and Nevis,2014,93
+Saint Lucia,1982,43
+Saint Lucia,1983,36
+Saint Lucia,1984,60
+Saint Lucia,1985,68
+Saint Lucia,1986,91
+Saint Lucia,1987,81
+Saint Lucia,1988,83
+Saint Lucia,1989,91
+Saint Lucia,1990,82
+Saint Lucia,1991,97
+Saint Lucia,1992,75
+Saint Lucia,1993,94
+Saint Lucia,1994,92
+Saint Lucia,1995,94
+Saint Lucia,1996,95
+Saint Lucia,1997,95
+Saint Lucia,1998,90
+Saint Lucia,1999,95
+Saint Lucia,2000,88
+Saint Lucia,2001,89
+Saint Lucia,2002,98
+Saint Lucia,2003,90
+Saint Lucia,2004,95
+Saint Lucia,2005,94
+Saint Lucia,2006,94
+Saint Lucia,2007,94
+Saint Lucia,2008,99
+Saint Lucia,2009,99
+Saint Lucia,2010,95
+Saint Lucia,2011,91
+Saint Lucia,2012,99
+Saint Lucia,2013,99
+Saint Lucia,2014,99
+Saint Vincent and the Grenadines,1982,40
+Saint Vincent and the Grenadines,1983,59
+Saint Vincent and the Grenadines,1984,92
+Saint Vincent and the Grenadines,1985,74
+Saint Vincent and the Grenadines,1986,88
+Saint Vincent and the Grenadines,1987,91
+Saint Vincent and the Grenadines,1988,97
+Saint Vincent and the Grenadines,1989,99
+Saint Vincent and the Grenadines,1990,96
+Saint Vincent and the Grenadines,1991,99
+Saint Vincent and the Grenadines,1992,99
+Saint Vincent and the Grenadines,1993,99
+Saint Vincent and the Grenadines,1994,99
+Saint Vincent and the Grenadines,1995,99
+Saint Vincent and the Grenadines,1996,99
+Saint Vincent and the Grenadines,1997,99
+Saint Vincent and the Grenadines,1998,99
+Saint Vincent and the Grenadines,1999,87
+Saint Vincent and the Grenadines,2000,96
+Saint Vincent and the Grenadines,2001,98
+Saint Vincent and the Grenadines,2002,99
+Saint Vincent and the Grenadines,2003,94
+Saint Vincent and the Grenadines,2004,99
+Saint Vincent and the Grenadines,2005,97
+Saint Vincent and the Grenadines,2006,99
+Saint Vincent and the Grenadines,2007,99
+Saint Vincent and the Grenadines,2008,99
+Saint Vincent and the Grenadines,2009,99
+Saint Vincent and the Grenadines,2010,99
+Saint Vincent and the Grenadines,2011,97
+Saint Vincent and the Grenadines,2012,94
+Saint Vincent and the Grenadines,2013,99
+Saint Vincent and the Grenadines,2014,99
+Samoa,1982,59
+Samoa,1983,78
+Samoa,1984,83
+Samoa,1985,81
+Samoa,1986,91
+Samoa,1987,78
+Samoa,1988,75
+Samoa,1989,82
+Samoa,1990,89
+Samoa,1991,77
+Samoa,1992,90
+Samoa,1993,92
+Samoa,1994,94
+Samoa,1995,96
+Samoa,1996,96
+Samoa,1997,99
+Samoa,1998,99
+Samoa,1999,91
+Samoa,2000,93
+Samoa,2001,92
+Samoa,2002,99
+Samoa,2003,62
+Samoa,2004,25
+Samoa,2005,57
+Samoa,2006,54
+Samoa,2007,63
+Samoa,2008,45
+Samoa,2009,49
+Samoa,2010,61
+Samoa,2011,67
+Samoa,2012,85
+Samoa,2013,99
+Samoa,2014,91
+San Marino,1991,99
+San Marino,1992,99
+San Marino,1993,96
+San Marino,1994,97
+San Marino,1995,97
+San Marino,1996,98
+San Marino,1997,98
+San Marino,1998,99
+San Marino,1999,99
+San Marino,2000,74
+San Marino,2001,80
+San Marino,2002,85
+San Marino,2003,91
+San Marino,2004,98
+San Marino,2005,94
+San Marino,2006,94
+San Marino,2007,92
+San Marino,2008,73
+San Marino,2009,93
+San Marino,2010,68
+San Marino,2011,83
+San Marino,2012,87
+San Marino,2013,74
+San Marino,2014,57
+Sao Tome and Principe,1981,25
+Sao Tome and Principe,1982,32
+Sao Tome and Principe,1983,40
+Sao Tome and Principe,1984,48
+Sao Tome and Principe,1985,35
+Sao Tome and Principe,1986,58
+Sao Tome and Principe,1987,69
+Sao Tome and Principe,1988,69
+Sao Tome and Principe,1989,45
+Sao Tome and Principe,1990,71
+Sao Tome and Principe,1991,77
+Sao Tome and Principe,1992,52
+Sao Tome and Principe,1993,57
+Sao Tome and Principe,1994,65
+Sao Tome and Principe,1995,74
+Sao Tome and Principe,1996,57
+Sao Tome and Principe,1997,60
+Sao Tome and Principe,1998,59
+Sao Tome and Principe,1999,64
+Sao Tome and Principe,2000,69
+Sao Tome and Principe,2001,75
+Sao Tome and Principe,2002,85
+Sao Tome and Principe,2003,87
+Sao Tome and Principe,2004,91
+Sao Tome and Principe,2005,88
+Sao Tome and Principe,2006,85
+Sao Tome and Principe,2007,86
+Sao Tome and Principe,2008,93
+Sao Tome and Principe,2009,90
+Sao Tome and Principe,2010,92
+Sao Tome and Principe,2011,91
+Sao Tome and Principe,2012,92
+Sao Tome and Principe,2013,91
+Sao Tome and Principe,2014,92
+Saudi Arabia,1980,8
+Saudi Arabia,1981,12
+Saudi Arabia,1982,53
+Saudi Arabia,1983,65
+Saudi Arabia,1984,71
+Saudi Arabia,1985,79
+Saudi Arabia,1986,77
+Saudi Arabia,1987,77
+Saudi Arabia,1988,81
+Saudi Arabia,1989,90
+Saudi Arabia,1990,88
+Saudi Arabia,1991,95
+Saudi Arabia,1992,88
+Saudi Arabia,1993,91
+Saudi Arabia,1994,93
+Saudi Arabia,1995,94
+Saudi Arabia,1996,92
+Saudi Arabia,1997,92
+Saudi Arabia,1998,93
+Saudi Arabia,1999,92
+Saudi Arabia,2000,94
+Saudi Arabia,2001,94
+Saudi Arabia,2002,97
+Saudi Arabia,2003,96
+Saudi Arabia,2004,97
+Saudi Arabia,2005,97
+Saudi Arabia,2006,95
+Saudi Arabia,2007,96
+Saudi Arabia,2008,97
+Saudi Arabia,2009,98
+Saudi Arabia,2010,98
+Saudi Arabia,2011,98
+Saudi Arabia,2012,98
+Saudi Arabia,2013,98
+Saudi Arabia,2014,98
+Senegal,1986,71
+Senegal,1987,66
+Senegal,1988,60
+Senegal,1989,48
+Senegal,1990,51
+Senegal,1991,54
+Senegal,1992,57
+Senegal,1993,58
+Senegal,1994,59
+Senegal,1995,80
+Senegal,1996,70
+Senegal,1997,65
+Senegal,1998,62
+Senegal,1999,60
+Senegal,2000,48
+Senegal,2001,48
+Senegal,2002,54
+Senegal,2003,60
+Senegal,2004,57
+Senegal,2005,74
+Senegal,2006,80
+Senegal,2007,84
+Senegal,2008,77
+Senegal,2009,79
+Senegal,2010,81
+Senegal,2011,84
+Senegal,2012,83
+Senegal,2013,84
+Senegal,2014,80
+Serbia,1992,82
+Serbia,1993,85
+Serbia,1994,81
+Serbia,1995,86
+Serbia,1996,90
+Serbia,1997,92
+Serbia,1998,88
+Serbia,1999,84
+Serbia,2000,89
+Serbia,2001,90
+Serbia,2002,92
+Serbia,2003,87
+Serbia,2004,89
+Serbia,2005,96
+Serbia,2006,88
+Serbia,2007,95
+Serbia,2008,92
+Serbia,2009,95
+Serbia,2010,95
+Serbia,2011,93
+Serbia,2012,87
+Serbia,2013,92
+Serbia,2014,86
+Seychelles,1981,29
+Seychelles,1982,64
+Seychelles,1983,98
+Seychelles,1984,77
+Seychelles,1985,90
+Seychelles,1986,95
+Seychelles,1987,95
+Seychelles,1988,89
+Seychelles,1989,89
+Seychelles,1990,86
+Seychelles,1991,89
+Seychelles,1992,92
+Seychelles,1993,92
+Seychelles,1994,92
+Seychelles,1995,97
+Seychelles,1996,98
+Seychelles,1997,99
+Seychelles,1998,93
+Seychelles,1999,99
+Seychelles,2000,97
+Seychelles,2001,95
+Seychelles,2002,98
+Seychelles,2003,99
+Seychelles,2004,99
+Seychelles,2005,99
+Seychelles,2006,99
+Seychelles,2007,99
+Seychelles,2008,99
+Seychelles,2009,97
+Seychelles,2010,99
+Seychelles,2011,99
+Seychelles,2012,98
+Seychelles,2013,97
+Seychelles,2014,99
+Sierra Leone,1999,62
+Sierra Leone,2000,37
+Sierra Leone,2001,50
+Sierra Leone,2002,62
+Sierra Leone,2003,73
+Sierra Leone,2004,76
+Sierra Leone,2005,71
+Sierra Leone,2006,65
+Sierra Leone,2007,60
+Sierra Leone,2008,73
+Sierra Leone,2009,80
+Sierra Leone,2010,81
+Sierra Leone,2011,83
+Sierra Leone,2012,84
+Sierra Leone,2013,83
+Sierra Leone,2014,78
+Singapore,1980,47
+Singapore,1981,57
+Singapore,1982,78
+Singapore,1983,88
+Singapore,1984,85
+Singapore,1985,75
+Singapore,1986,85
+Singapore,1987,94
+Singapore,1988,87
+Singapore,1989,81
+Singapore,1990,84
+Singapore,1991,92
+Singapore,1992,89
+Singapore,1993,87
+Singapore,1994,95
+Singapore,1995,97
+Singapore,1996,97
+Singapore,1997,98
+Singapore,1998,96
+Singapore,1999,97
+Singapore,2000,96
+Singapore,2001,95
+Singapore,2002,94
+Singapore,2003,93
+Singapore,2004,95
+Singapore,2005,96
+Singapore,2006,93
+Singapore,2007,95
+Singapore,2008,95
+Singapore,2009,95
+Singapore,2010,95
+Singapore,2011,95
+Singapore,2012,95
+Singapore,2013,95
+Singapore,2014,95
+Slovakia,1994,97
+Slovakia,1995,99
+Slovakia,1996,99
+Slovakia,1997,99
+Slovakia,1998,99
+Slovakia,1999,99
+Slovakia,2000,98
+Slovakia,2001,99
+Slovakia,2002,99
+Slovakia,2003,99
+Slovakia,2004,99
+Slovakia,2005,98
+Slovakia,2006,98
+Slovakia,2007,99
+Slovakia,2008,99
+Slovakia,2009,99
+Slovakia,2010,98
+Slovakia,2011,98
+Slovakia,2012,99
+Slovakia,2013,98
+Slovakia,2014,97
+Slovenia,1992,90
+Slovenia,1993,90
+Slovenia,1994,91
+Slovenia,1995,93
+Slovenia,1996,93
+Slovenia,1997,82
+Slovenia,1998,93
+Slovenia,1999,98
+Slovenia,2000,95
+Slovenia,2001,94
+Slovenia,2002,93
+Slovenia,2003,94
+Slovenia,2004,94
+Slovenia,2005,94
+Slovenia,2006,96
+Slovenia,2007,96
+Slovenia,2008,96
+Slovenia,2009,95
+Slovenia,2010,95
+Slovenia,2011,96
+Slovenia,2012,95
+Slovenia,2013,94
+Slovenia,2014,94
+Small states,1984,52.14022122
+Small states,1985,57.1206431
+Small states,1986,60.39322784
+Small states,1987,68.46371021
+Small states,1988,71.4493866
+Small states,1989,76.11195491
+Small states,1990,79.36084831
+Small states,1991,78.5245302
+Small states,1992,76.12143489
+Small states,1993,78.95574234
+Small states,1994,79.31508338
+Small states,1995,79.15813265
+Small states,1996,78.42891372
+Small states,1997,77.17097082
+Small states,1998,78.43705071
+Small states,1999,77.83463243
+Small states,2000,79.93937814
+Small states,2001,78.71142887
+Small states,2002,79.51414353
+Small states,2003,79.76638459
+Small states,2004,81.23525904
+Small states,2005,81.37853945
+Small states,2006,81.20693546
+Small states,2007,81.62489359
+Small states,2008,83.42251303
+Small states,2009,84.38629492
+Small states,2010,83.94957195
+Small states,2011,84.45565973
+Small states,2012,84.74248104
+Small states,2013,85.95580282
+Small states,2014,85.39506653
+Solomon Islands,1986,31
+Solomon Islands,1987,58
+Solomon Islands,1988,69
+Solomon Islands,1989,92
+Solomon Islands,1990,70
+Solomon Islands,1991,76
+Solomon Islands,1992,70
+Solomon Islands,1993,64
+Solomon Islands,1994,60
+Solomon Islands,1995,68
+Solomon Islands,1996,90
+Solomon Islands,1997,68
+Solomon Islands,1998,66
+Solomon Islands,1999,99
+Solomon Islands,2000,91
+Solomon Islands,2001,83
+Solomon Islands,2002,78
+Solomon Islands,2003,82
+Solomon Islands,2004,87
+Solomon Islands,2005,87
+Solomon Islands,2006,99
+Solomon Islands,2007,95
+Solomon Islands,2008,77
+Solomon Islands,2009,77
+Solomon Islands,2010,85
+Solomon Islands,2011,90
+Solomon Islands,2012,99
+Solomon Islands,2013,93
+Solomon Islands,2014,93
+Somalia,1980,9
+Somalia,1981,3
+Somalia,1982,4
+Somalia,1983,6
+Somalia,1984,16
+Somalia,1985,35
+Somalia,1986,25
+Somalia,1987,28
+Somalia,1988,33
+Somalia,1989,30
+Somalia,1990,30
+Somalia,1991,30
+Somalia,1992,32
+Somalia,1993,33
+Somalia,1994,35
+Somalia,1995,34
+Somalia,1996,33
+Somalia,1997,25
+Somalia,1998,32
+Somalia,1999,38
+Somalia,2000,24
+Somalia,2001,20
+Somalia,2002,45
+Somalia,2003,40
+Somalia,2004,40
+Somalia,2005,35
+Somalia,2006,35
+Somalia,2007,35
+Somalia,2008,34
+Somalia,2009,43
+Somalia,2010,46
+Somalia,2011,46
+Somalia,2012,46
+Somalia,2013,46
+Somalia,2014,46
+South Africa,1983,74
+South Africa,1984,70
+South Africa,1985,70
+South Africa,1986,64
+South Africa,1987,75
+South Africa,1988,68
+South Africa,1989,84
+South Africa,1990,79
+South Africa,1991,85
+South Africa,1992,85
+South Africa,1993,85
+South Africa,1994,76
+South Africa,1995,76
+South Africa,1996,76
+South Africa,1997,82
+South Africa,1998,79
+South Africa,1999,75
+South Africa,2000,72
+South Africa,2001,69
+South Africa,2002,65
+South Africa,2003,62
+South Africa,2004,57
+South Africa,2005,63
+South Africa,2006,64
+South Africa,2007,62
+South Africa,2008,64
+South Africa,2009,78
+South Africa,2010,74
+South Africa,2011,78
+South Africa,2012,79
+South Africa,2013,66
+South Africa,2014,70
+South Asia,1985,5.852750214
+South Asia,1986,13.51086525
+South Asia,1987,25.0066806
+South Asia,1988,32.575337
+South Asia,1989,44.18661976
+South Asia,1990,55.98308398
+South Asia,1991,46.74421374
+South Asia,1992,52.90952822
+South Asia,1993,59.33923126
+South Asia,1994,65.95642321
+South Asia,1995,69.02551324
+South Asia,1996,64.19420673
+South Asia,1997,56.70399585
+South Asia,1998,55.06532761
+South Asia,1999,57.7779633
+South Asia,2000,58.12514312
+South Asia,2001,59.58897034
+South Asia,2002,58.82224446
+South Asia,2003,61.79413044
+South Asia,2004,66.03528995
+South Asia,2005,70.40340948
+South Asia,2006,70.71418189
+South Asia,2007,71.46250125
+South Asia,2008,73.22161968
+South Asia,2009,76.55818118
+South Asia,2010,80.49425204
+South Asia,2011,81.19459797
+South Asia,2012,80.01410624
+South Asia,2013,80.29117913
+South Asia,2014,80.41320908
+South Asia (IDA & IBRD),1985,5.852750214
+South Asia (IDA & IBRD),1986,13.51086525
+South Asia (IDA & IBRD),1987,25.0066806
+South Asia (IDA & IBRD),1988,32.575337
+South Asia (IDA & IBRD),1989,44.18661976
+South Asia (IDA & IBRD),1990,55.98308398
+South Asia (IDA & IBRD),1991,46.74421374
+South Asia (IDA & IBRD),1992,52.90952822
+South Asia (IDA & IBRD),1993,59.33923126
+South Asia (IDA & IBRD),1994,65.95642321
+South Asia (IDA & IBRD),1995,69.02551324
+South Asia (IDA & IBRD),1996,64.19420673
+South Asia (IDA & IBRD),1997,56.70399585
+South Asia (IDA & IBRD),1998,55.06532761
+South Asia (IDA & IBRD),1999,57.7779633
+South Asia (IDA & IBRD),2000,58.12514312
+South Asia (IDA & IBRD),2001,59.58897034
+South Asia (IDA & IBRD),2002,58.82224446
+South Asia (IDA & IBRD),2003,61.79413044
+South Asia (IDA & IBRD),2004,66.03528995
+South Asia (IDA & IBRD),2005,70.40340948
+South Asia (IDA & IBRD),2006,70.71418189
+South Asia (IDA & IBRD),2007,71.46250125
+South Asia (IDA & IBRD),2008,73.22161968
+South Asia (IDA & IBRD),2009,76.55818118
+South Asia (IDA & IBRD),2010,80.49425204
+South Asia (IDA & IBRD),2011,81.19459797
+South Asia (IDA & IBRD),2012,80.01410624
+South Asia (IDA & IBRD),2013,80.29117913
+South Asia (IDA & IBRD),2014,80.41320908
+South Korea,1980,4
+South Korea,1981,5
+South Korea,1982,5
+South Korea,1983,33
+South Korea,1984,61
+South Korea,1985,89
+South Korea,1986,89
+South Korea,1987,82
+South Korea,1988,70
+South Korea,1989,95
+South Korea,1990,93
+South Korea,1991,93
+South Korea,1992,93
+South Korea,1993,92
+South Korea,1994,92
+South Korea,1995,93
+South Korea,1996,89
+South Korea,1997,85
+South Korea,1998,85
+South Korea,1999,90
+South Korea,2000,95
+South Korea,2001,96
+South Korea,2002,97
+South Korea,2003,96
+South Korea,2004,99
+South Korea,2005,99
+South Korea,2006,99
+South Korea,2007,92
+South Korea,2008,92
+South Korea,2009,93
+South Korea,2010,98
+South Korea,2011,99
+South Korea,2012,99
+South Korea,2013,99
+South Korea,2014,99
+South Sudan,2011,62
+South Sudan,2012,52
+South Sudan,2013,30
+South Sudan,2014,22
+Spain,1981,8
+Spain,1982,27
+Spain,1983,40
+Spain,1984,68
+Spain,1985,79
+Spain,1986,83
+Spain,1987,85
+Spain,1988,84
+Spain,1989,97
+Spain,1990,99
+Spain,1991,85
+Spain,1992,83
+Spain,1993,90
+Spain,1994,90
+Spain,1995,90
+Spain,1996,90
+Spain,1997,93
+Spain,1998,93
+Spain,1999,95
+Spain,2000,94
+Spain,2001,96
+Spain,2002,97
+Spain,2003,98
+Spain,2004,97
+Spain,2005,97
+Spain,2006,97
+Spain,2007,97
+Spain,2008,98
+Spain,2009,98
+Spain,2010,95
+Spain,2011,97
+Spain,2012,97
+Spain,2013,95
+Spain,2014,96
+Sri Lanka,1984,3
+Sri Lanka,1985,20
+Sri Lanka,1986,45
+Sri Lanka,1987,60
+Sri Lanka,1988,68
+Sri Lanka,1989,76
+Sri Lanka,1990,80
+Sri Lanka,1991,79
+Sri Lanka,1992,82
+Sri Lanka,1993,86
+Sri Lanka,1994,84
+Sri Lanka,1995,87
+Sri Lanka,1996,89
+Sri Lanka,1997,94
+Sri Lanka,1998,94
+Sri Lanka,1999,95
+Sri Lanka,2000,99
+Sri Lanka,2001,99
+Sri Lanka,2002,99
+Sri Lanka,2003,99
+Sri Lanka,2004,96
+Sri Lanka,2005,99
+Sri Lanka,2006,99
+Sri Lanka,2007,98
+Sri Lanka,2008,98
+Sri Lanka,2009,97
+Sri Lanka,2010,99
+Sri Lanka,2011,99
+Sri Lanka,2012,99
+Sri Lanka,2013,99
+Sri Lanka,2014,99
+Sub-Saharan Africa,1984,28.34911429
+Sub-Saharan Africa,1985,33.5843419
+Sub-Saharan Africa,1986,40.00525929
+Sub-Saharan Africa,1987,44.40503193
+Sub-Saharan Africa,1988,49.25096359
+Sub-Saharan Africa,1989,55.84558394
+Sub-Saharan Africa,1990,57.3641287
+Sub-Saharan Africa,1991,53.95037387
+Sub-Saharan Africa,1992,50.68877072
+Sub-Saharan Africa,1993,51.4082404
+Sub-Saharan Africa,1994,55.02778456
+Sub-Saharan Africa,1995,54.56369555
+Sub-Saharan Africa,1996,54.16761435
+Sub-Saharan Africa,1997,53.95406465
+Sub-Saharan Africa,1998,52.31029559
+Sub-Saharan Africa,1999,50.07533829
+Sub-Saharan Africa,2000,52.68625438
+Sub-Saharan Africa,2001,52.93761838
+Sub-Saharan Africa,2002,54.22175573
+Sub-Saharan Africa,2003,56.93796054
+Sub-Saharan Africa,2004,58.87391811
+Sub-Saharan Africa,2005,61.03331521
+Sub-Saharan Africa,2006,63.71795068
+Sub-Saharan Africa,2007,66.00698717
+Sub-Saharan Africa,2008,68.08414962
+Sub-Saharan Africa,2009,73.20673244
+Sub-Saharan Africa,2010,73.67707817
+Sub-Saharan Africa,2011,72.08369823
+Sub-Saharan Africa,2012,72.09489064
+Sub-Saharan Africa,2013,72.56567739
+Sub-Saharan Africa,2014,72.69369722
+Sub-Saharan Africa (excluding high income),1984,28.3434168
+Sub-Saharan Africa (excluding high income),1985,33.57830825
+Sub-Saharan Africa (excluding high income),1986,39.99953607
+Sub-Saharan Africa (excluding high income),1987,44.40009182
+Sub-Saharan Africa (excluding high income),1988,49.24724386
+Sub-Saharan Africa (excluding high income),1989,55.84259256
+Sub-Saharan Africa (excluding high income),1990,57.36161869
+Sub-Saharan Africa (excluding high income),1991,53.94745821
+Sub-Saharan Africa (excluding high income),1992,50.68533198
+Sub-Saharan Africa (excluding high income),1993,51.40493998
+Sub-Saharan Africa (excluding high income),1994,55.02484363
+Sub-Saharan Africa (excluding high income),1995,54.5604284
+Sub-Saharan Africa (excluding high income),1996,54.16435305
+Sub-Saharan Africa (excluding high income),1997,53.95092354
+Sub-Saharan Africa (excluding high income),1998,52.30761596
+Sub-Saharan Africa (excluding high income),1999,50.07229684
+Sub-Saharan Africa (excluding high income),2000,52.68357953
+Sub-Saharan Africa (excluding high income),2001,52.93522475
+Sub-Saharan Africa (excluding high income),2002,54.21912811
+Sub-Saharan Africa (excluding high income),2003,56.93540657
+Sub-Saharan Africa (excluding high income),2004,58.87145822
+Sub-Saharan Africa (excluding high income),2005,61.03099931
+Sub-Saharan Africa (excluding high income),2006,63.71580124
+Sub-Saharan Africa (excluding high income),2007,66.00504548
+Sub-Saharan Africa (excluding high income),2008,68.08238288
+Sub-Saharan Africa (excluding high income),2009,73.20541182
+Sub-Saharan Africa (excluding high income),2010,73.67570313
+Sub-Saharan Africa (excluding high income),2011,72.08221361
+Sub-Saharan Africa (excluding high income),2012,72.09353083
+Sub-Saharan Africa (excluding high income),2013,72.56440214
+Sub-Saharan Africa (excluding high income),2014,72.69234279
+Sub-Saharan Africa (IDA & IBRD countries),1984,28.34911429
+Sub-Saharan Africa (IDA & IBRD countries),1985,33.5843419
+Sub-Saharan Africa (IDA & IBRD countries),1986,40.00525929
+Sub-Saharan Africa (IDA & IBRD countries),1987,44.40503193
+Sub-Saharan Africa (IDA & IBRD countries),1988,49.25096359
+Sub-Saharan Africa (IDA & IBRD countries),1989,55.84558394
+Sub-Saharan Africa (IDA & IBRD countries),1990,57.3641287
+Sub-Saharan Africa (IDA & IBRD countries),1991,53.95037387
+Sub-Saharan Africa (IDA & IBRD countries),1992,50.68877072
+Sub-Saharan Africa (IDA & IBRD countries),1993,51.4082404
+Sub-Saharan Africa (IDA & IBRD countries),1994,55.02778456
+Sub-Saharan Africa (IDA & IBRD countries),1995,54.56369555
+Sub-Saharan Africa (IDA & IBRD countries),1996,54.16761435
+Sub-Saharan Africa (IDA & IBRD countries),1997,53.95406465
+Sub-Saharan Africa (IDA & IBRD countries),1998,52.31029559
+Sub-Saharan Africa (IDA & IBRD countries),1999,50.07533829
+Sub-Saharan Africa (IDA & IBRD countries),2000,52.68625438
+Sub-Saharan Africa (IDA & IBRD countries),2001,52.93761838
+Sub-Saharan Africa (IDA & IBRD countries),2002,54.22175573
+Sub-Saharan Africa (IDA & IBRD countries),2003,56.93796054
+Sub-Saharan Africa (IDA & IBRD countries),2004,58.87391811
+Sub-Saharan Africa (IDA & IBRD countries),2005,61.03331521
+Sub-Saharan Africa (IDA & IBRD countries),2006,63.71795068
+Sub-Saharan Africa (IDA & IBRD countries),2007,66.00698717
+Sub-Saharan Africa (IDA & IBRD countries),2008,68.08414962
+Sub-Saharan Africa (IDA & IBRD countries),2009,73.20673244
+Sub-Saharan Africa (IDA & IBRD countries),2010,73.67707817
+Sub-Saharan Africa (IDA & IBRD countries),2011,72.08369823
+Sub-Saharan Africa (IDA & IBRD countries),2012,72.09489064
+Sub-Saharan Africa (IDA & IBRD countries),2013,72.56567739
+Sub-Saharan Africa (IDA & IBRD countries),2014,72.69369722
+Sudan,1981,1
+Sudan,1982,1
+Sudan,1983,2
+Sudan,1984,3
+Sudan,1985,6
+Sudan,1986,11
+Sudan,1987,22
+Sudan,1988,44
+Sudan,1989,61
+Sudan,1990,57
+Sudan,1991,57
+Sudan,1992,52
+Sudan,1993,49
+Sudan,1994,48
+Sudan,1995,51
+Sudan,1996,59
+Sudan,1997,58
+Sudan,1998,49
+Sudan,1999,51
+Sudan,2000,58
+Sudan,2001,58
+Sudan,2002,58
+Sudan,2003,65
+Sudan,2004,67
+Sudan,2005,69
+Sudan,2006,73
+Sudan,2007,79
+Sudan,2008,79
+Sudan,2009,82
+Sudan,2010,90
+Sudan,2011,87
+Sudan,2012,85
+Sudan,2013,85
+Sudan,2014,86
+Suriname,1981,39
+Suriname,1982,17
+Suriname,1983,71
+Suriname,1984,75
+Suriname,1985,73
+Suriname,1986,78
+Suriname,1987,70
+Suriname,1988,83
+Suriname,1989,73
+Suriname,1990,65
+Suriname,1991,84
+Suriname,1992,61
+Suriname,1993,61
+Suriname,1994,72
+Suriname,1995,85
+Suriname,1996,87
+Suriname,1997,79
+Suriname,1998,82
+Suriname,1999,85
+Suriname,2000,84
+Suriname,2001,82
+Suriname,2002,73
+Suriname,2003,69
+Suriname,2004,86
+Suriname,2005,91
+Suriname,2006,83
+Suriname,2007,85
+Suriname,2008,86
+Suriname,2009,88
+Suriname,2010,90
+Suriname,2011,85
+Suriname,2012,73
+Suriname,2013,93
+Suriname,2014,85
+Swaziland,1981,30
+Swaziland,1982,38
+Swaziland,1983,46
+Swaziland,1984,50
+Swaziland,1985,54
+Swaziland,1986,74
+Swaziland,1987,65
+Swaziland,1988,85
+Swaziland,1989,85
+Swaziland,1990,85
+Swaziland,1991,80
+Swaziland,1992,85
+Swaziland,1993,85
+Swaziland,1994,94
+Swaziland,1995,94
+Swaziland,1996,82
+Swaziland,1997,92
+Swaziland,1998,92
+Swaziland,1999,92
+Swaziland,2000,92
+Swaziland,2001,93
+Swaziland,2002,93
+Swaziland,2003,93
+Swaziland,2004,93
+Swaziland,2005,93
+Swaziland,2006,93
+Swaziland,2007,94
+Swaziland,2008,94
+Swaziland,2009,94
+Swaziland,2010,94
+Swaziland,2011,87
+Swaziland,2012,77
+Swaziland,2013,85
+Swaziland,2014,86
+Sweden,1980,88
+Sweden,1981,92
+Sweden,1982,91
+Sweden,1983,93
+Sweden,1984,94
+Sweden,1985,94
+Sweden,1986,94
+Sweden,1987,94
+Sweden,1988,95
+Sweden,1989,95
+Sweden,1990,96
+Sweden,1991,96
+Sweden,1992,96
+Sweden,1993,97
+Sweden,1994,97
+Sweden,1995,97
+Sweden,1996,96
+Sweden,1997,96
+Sweden,1998,94
+Sweden,1999,89
+Sweden,2000,91
+Sweden,2001,94
+Sweden,2002,95
+Sweden,2003,95
+Sweden,2004,96
+Sweden,2005,96
+Sweden,2006,97
+Sweden,2007,96
+Sweden,2008,96
+Sweden,2009,97
+Sweden,2010,97
+Sweden,2011,97
+Sweden,2012,97
+Sweden,2013,97
+Sweden,2014,97
+Switzerland,1986,70
+Switzerland,1987,70
+Switzerland,1988,70
+Switzerland,1989,90
+Switzerland,1990,90
+Switzerland,1991,83
+Switzerland,1992,83
+Switzerland,1993,83
+Switzerland,1994,83
+Switzerland,1995,83
+Switzerland,1996,83
+Switzerland,1997,83
+Switzerland,1998,81
+Switzerland,1999,82
+Switzerland,2000,82
+Switzerland,2001,82
+Switzerland,2002,82
+Switzerland,2003,82
+Switzerland,2004,82
+Switzerland,2005,87
+Switzerland,2006,87
+Switzerland,2007,87
+Switzerland,2008,92
+Switzerland,2009,92
+Switzerland,2010,92
+Switzerland,2011,93
+Switzerland,2012,93
+Switzerland,2013,93
+Switzerland,2014,93
+Syria,1980,13
+Syria,1981,14
+Syria,1982,22
+Syria,1983,19
+Syria,1984,23
+Syria,1985,27
+Syria,1986,64
+Syria,1987,37
+Syria,1988,52
+Syria,1989,86
+Syria,1990,87
+Syria,1991,84
+Syria,1992,84
+Syria,1993,86
+Syria,1994,86
+Syria,1995,85
+Syria,1996,85
+Syria,1997,84
+Syria,1998,87
+Syria,1999,86
+Syria,2000,84
+Syria,2001,80
+Syria,2002,84
+Syria,2003,83
+Syria,2004,82
+Syria,2005,81
+Syria,2006,81
+Syria,2007,81
+Syria,2008,81
+Syria,2009,82
+Syria,2010,82
+Syria,2011,80
+Syria,2012,61
+Syria,2013,58
+Syria,2014,54
+Tajikistan,1992,68
+Tajikistan,1993,81
+Tajikistan,1994,73
+Tajikistan,1995,70
+Tajikistan,1996,79
+Tajikistan,1997,84
+Tajikistan,1998,83
+Tajikistan,1999,79
+Tajikistan,2000,88
+Tajikistan,2001,88
+Tajikistan,2002,89
+Tajikistan,2003,91
+Tajikistan,2004,92
+Tajikistan,2005,85
+Tajikistan,2006,82
+Tajikistan,2007,85
+Tajikistan,2008,86
+Tajikistan,2009,89
+Tajikistan,2010,94
+Tajikistan,2011,98
+Tajikistan,2012,94
+Tajikistan,2013,92
+Tajikistan,2014,98
+Tanzania,1980,46
+Tanzania,1981,51
+Tanzania,1982,50
+Tanzania,1983,60
+Tanzania,1984,55
+Tanzania,1985,66
+Tanzania,1986,97
+Tanzania,1987,78
+Tanzania,1988,83
+Tanzania,1989,79
+Tanzania,1990,80
+Tanzania,1991,79
+Tanzania,1992,81
+Tanzania,1993,77
+Tanzania,1994,79
+Tanzania,1995,78
+Tanzania,1996,78
+Tanzania,1997,73
+Tanzania,1998,72
+Tanzania,1999,72
+Tanzania,2000,78
+Tanzania,2001,86
+Tanzania,2002,89
+Tanzania,2003,97
+Tanzania,2004,94
+Tanzania,2005,91
+Tanzania,2006,93
+Tanzania,2007,90
+Tanzania,2008,88
+Tanzania,2009,91
+Tanzania,2010,92
+Tanzania,2011,93
+Tanzania,2012,97
+Tanzania,2013,99
+Tanzania,2014,99
+Thailand,1984,5
+Thailand,1985,26
+Thailand,1986,45
+Thailand,1987,52
+Thailand,1988,63
+Thailand,1989,66
+Thailand,1990,80
+Thailand,1991,79
+Thailand,1992,74
+Thailand,1993,80
+Thailand,1994,86
+Thailand,1995,91
+Thailand,1996,92
+Thailand,1997,93
+Thailand,1998,96
+Thailand,1999,96
+Thailand,2000,94
+Thailand,2001,94
+Thailand,2002,94
+Thailand,2003,96
+Thailand,2004,96
+Thailand,2005,96
+Thailand,2006,96
+Thailand,2007,96
+Thailand,2008,98
+Thailand,2009,98
+Thailand,2010,98
+Thailand,2011,98
+Thailand,2012,98
+Thailand,2013,99
+Thailand,2014,99
+Timor,2002,56
+Timor,2003,55
+Timor,2004,55
+Timor,2005,48
+Timor,2006,61
+Timor,2007,63
+Timor,2008,73
+Timor,2009,70
+Timor,2010,66
+Timor,2011,62
+Timor,2012,73
+Timor,2013,70
+Timor,2014,74
+Togo,1984,11
+Togo,1985,27
+Togo,1986,43
+Togo,1987,74
+Togo,1988,62
+Togo,1989,78
+Togo,1990,73
+Togo,1991,69
+Togo,1992,64
+Togo,1993,60
+Togo,1994,57
+Togo,1995,53
+Togo,1996,48
+Togo,1997,43
+Togo,1998,40
+Togo,1999,57
+Togo,2000,58
+Togo,2001,40
+Togo,2002,48
+Togo,2003,68
+Togo,2004,70
+Togo,2005,70
+Togo,2006,78
+Togo,2007,71
+Togo,2008,63
+Togo,2009,66
+Togo,2010,68
+Togo,2011,72
+Togo,2012,72
+Togo,2013,72
+Togo,2014,82
+Tonga,1981,9
+Tonga,1982,44
+Tonga,1983,67
+Tonga,1984,43
+Tonga,1985,81
+Tonga,1986,37
+Tonga,1987,88
+Tonga,1988,81
+Tonga,1989,84
+Tonga,1990,86
+Tonga,1991,90
+Tonga,1992,87
+Tonga,1993,87
+Tonga,1994,86
+Tonga,1995,94
+Tonga,1996,95
+Tonga,1997,97
+Tonga,1998,94
+Tonga,1999,93
+Tonga,2000,88
+Tonga,2001,83
+Tonga,2002,78
+Tonga,2003,85
+Tonga,2004,84
+Tonga,2005,81
+Tonga,2006,78
+Tonga,2007,77
+Tonga,2008,74
+Tonga,2009,70
+Tonga,2010,68
+Tonga,2011,66
+Tonga,2012,62
+Tonga,2013,67
+Tonga,2014,67
+Trinidad and Tobago,1984,10
+Trinidad and Tobago,1985,32
+Trinidad and Tobago,1986,42
+Trinidad and Tobago,1987,68
+Trinidad and Tobago,1988,72
+Trinidad and Tobago,1989,59
+Trinidad and Tobago,1990,70
+Trinidad and Tobago,1991,93
+Trinidad and Tobago,1992,83
+Trinidad and Tobago,1993,87
+Trinidad and Tobago,1994,86
+Trinidad and Tobago,1995,84
+Trinidad and Tobago,1996,88
+Trinidad and Tobago,1997,88
+Trinidad and Tobago,1998,90
+Trinidad and Tobago,1999,88
+Trinidad and Tobago,2000,90
+Trinidad and Tobago,2001,91
+Trinidad and Tobago,2002,87
+Trinidad and Tobago,2003,88
+Trinidad and Tobago,2004,95
+Trinidad and Tobago,2005,93
+Trinidad and Tobago,2006,89
+Trinidad and Tobago,2007,91
+Trinidad and Tobago,2008,91
+Trinidad and Tobago,2009,94
+Trinidad and Tobago,2010,92
+Trinidad and Tobago,2011,92
+Trinidad and Tobago,2012,85
+Trinidad and Tobago,2013,91
+Trinidad and Tobago,2014,96
+Tunisia,1982,43
+Tunisia,1983,42
+Tunisia,1984,55
+Tunisia,1985,65
+Tunisia,1986,67
+Tunisia,1987,81
+Tunisia,1988,87
+Tunisia,1989,93
+Tunisia,1990,93
+Tunisia,1991,94
+Tunisia,1992,94
+Tunisia,1993,92
+Tunisia,1994,91
+Tunisia,1995,91
+Tunisia,1996,92
+Tunisia,1997,92
+Tunisia,1998,94
+Tunisia,1999,90
+Tunisia,2000,95
+Tunisia,2001,92
+Tunisia,2002,94
+Tunisia,2003,90
+Tunisia,2004,95
+Tunisia,2005,96
+Tunisia,2006,98
+Tunisia,2007,98
+Tunisia,2008,98
+Tunisia,2009,98
+Tunisia,2010,97
+Tunisia,2011,96
+Tunisia,2012,96
+Tunisia,2013,94
+Tunisia,2014,98
+Turkey,1980,27
+Turkey,1981,52
+Turkey,1982,64
+Turkey,1983,63
+Turkey,1984,62
+Turkey,1985,61
+Turkey,1986,64
+Turkey,1987,67
+Turkey,1988,82
+Turkey,1989,71
+Turkey,1990,78
+Turkey,1991,73
+Turkey,1992,78
+Turkey,1993,72
+Turkey,1994,76
+Turkey,1995,65
+Turkey,1996,72
+Turkey,1997,79
+Turkey,1998,81
+Turkey,1999,82
+Turkey,2000,87
+Turkey,2001,91
+Turkey,2002,83
+Turkey,2003,75
+Turkey,2004,81
+Turkey,2005,91
+Turkey,2006,98
+Turkey,2007,96
+Turkey,2008,97
+Turkey,2009,97
+Turkey,2010,97
+Turkey,2011,98
+Turkey,2012,96
+Turkey,2013,98
+Turkey,2014,94
+Turkmenistan,1992,76
+Turkmenistan,1993,84
+Turkmenistan,1994,90
+Turkmenistan,1995,92
+Turkmenistan,1996,98
+Turkmenistan,1997,99
+Turkmenistan,1998,99
+Turkmenistan,1999,97
+Turkmenistan,2000,96
+Turkmenistan,2001,98
+Turkmenistan,2002,88
+Turkmenistan,2003,97
+Turkmenistan,2004,97
+Turkmenistan,2005,99
+Turkmenistan,2006,99
+Turkmenistan,2007,99
+Turkmenistan,2008,99
+Turkmenistan,2009,99
+Turkmenistan,2010,99
+Turkmenistan,2011,99
+Turkmenistan,2012,99
+Turkmenistan,2013,99
+Turkmenistan,2014,99
+Tuvalu,1983,65
+Tuvalu,1984,71
+Tuvalu,1985,92
+Tuvalu,1986,65
+Tuvalu,1987,65
+Tuvalu,1988,90
+Tuvalu,1989,79
+Tuvalu,1990,95
+Tuvalu,1991,63
+Tuvalu,1992,66
+Tuvalu,1993,64
+Tuvalu,1994,79
+Tuvalu,1995,94
+Tuvalu,1996,94
+Tuvalu,1997,99
+Tuvalu,1998,96
+Tuvalu,1999,94
+Tuvalu,2000,81
+Tuvalu,2001,99
+Tuvalu,2002,99
+Tuvalu,2003,95
+Tuvalu,2004,97
+Tuvalu,2005,62
+Tuvalu,2006,84
+Tuvalu,2007,95
+Tuvalu,2008,93
+Tuvalu,2009,90
+Tuvalu,2010,85
+Tuvalu,2011,98
+Tuvalu,2012,98
+Tuvalu,2013,96
+Tuvalu,2014,96
+Uganda,1981,22
+Uganda,1982,21
+Uganda,1983,20
+Uganda,1984,18
+Uganda,1985,17
+Uganda,1986,27
+Uganda,1987,38
+Uganda,1988,49
+Uganda,1989,51
+Uganda,1990,52
+Uganda,1991,54
+Uganda,1992,56
+Uganda,1993,57
+Uganda,1994,59
+Uganda,1995,57
+Uganda,1996,55
+Uganda,1997,54
+Uganda,1998,50
+Uganda,1999,55
+Uganda,2000,57
+Uganda,2001,59
+Uganda,2002,62
+Uganda,2003,64
+Uganda,2004,66
+Uganda,2005,68
+Uganda,2006,75
+Uganda,2007,75
+Uganda,2008,70
+Uganda,2009,77
+Uganda,2010,73
+Uganda,2011,75
+Uganda,2012,82
+Uganda,2013,82
+Uganda,2014,82
+Ukraine,1992,90
+Ukraine,1993,94
+Ukraine,1994,96
+Ukraine,1995,97
+Ukraine,1996,92
+Ukraine,1997,97
+Ukraine,1998,96
+Ukraine,1999,99
+Ukraine,2000,99
+Ukraine,2001,99
+Ukraine,2002,99
+Ukraine,2003,99
+Ukraine,2004,99
+Ukraine,2005,96
+Ukraine,2006,98
+Ukraine,2007,97
+Ukraine,2008,94
+Ukraine,2009,75
+Ukraine,2010,56
+Ukraine,2011,67
+Ukraine,2012,79
+Ukraine,2013,79
+Ukraine,2014,79
+United Arab Emirates,1980,34
+United Arab Emirates,1981,42
+United Arab Emirates,1982,41
+United Arab Emirates,1983,51
+United Arab Emirates,1984,53
+United Arab Emirates,1985,60
+United Arab Emirates,1986,67
+United Arab Emirates,1987,71
+United Arab Emirates,1988,74
+United Arab Emirates,1989,78
+United Arab Emirates,1990,80
+United Arab Emirates,1991,82
+United Arab Emirates,1992,85
+United Arab Emirates,1993,90
+United Arab Emirates,1994,90
+United Arab Emirates,1995,90
+United Arab Emirates,1996,90
+United Arab Emirates,1997,95
+United Arab Emirates,1998,95
+United Arab Emirates,1999,96
+United Arab Emirates,2000,94
+United Arab Emirates,2001,94
+United Arab Emirates,2002,94
+United Arab Emirates,2003,94
+United Arab Emirates,2004,94
+United Arab Emirates,2005,92
+United Arab Emirates,2006,92
+United Arab Emirates,2007,92
+United Arab Emirates,2008,92
+United Arab Emirates,2009,93
+United Arab Emirates,2010,94
+United Arab Emirates,2011,94
+United Arab Emirates,2012,94
+United Arab Emirates,2013,94
+United Arab Emirates,2014,94
+United Kingdom,1980,53
+United Kingdom,1981,55
+United Kingdom,1982,58
+United Kingdom,1983,60
+United Kingdom,1984,63
+United Kingdom,1985,68
+United Kingdom,1986,71
+United Kingdom,1987,76
+United Kingdom,1988,80
+United Kingdom,1989,84
+United Kingdom,1990,87
+United Kingdom,1991,90
+United Kingdom,1992,92
+United Kingdom,1993,91
+United Kingdom,1994,91
+United Kingdom,1995,92
+United Kingdom,1996,92
+United Kingdom,1997,91
+United Kingdom,1998,87
+United Kingdom,1999,88
+United Kingdom,2000,88
+United Kingdom,2001,85
+United Kingdom,2002,85
+United Kingdom,2003,82
+United Kingdom,2004,81
+United Kingdom,2005,82
+United Kingdom,2006,85
+United Kingdom,2007,86
+United Kingdom,2008,86
+United Kingdom,2009,86
+United Kingdom,2010,89
+United Kingdom,2011,90
+United Kingdom,2012,92
+United Kingdom,2013,93
+United Kingdom,2014,93
+United States,1980,86
+United States,1981,97
+United States,1982,97
+United States,1983,98
+United States,1984,98
+United States,1985,97
+United States,1986,97
+United States,1987,82
+United States,1988,98
+United States,1989,94
+United States,1990,90
+United States,1991,87
+United States,1992,83
+United States,1993,84
+United States,1994,89
+United States,1995,88
+United States,1996,91
+United States,1997,91
+United States,1998,92
+United States,1999,92
+United States,2000,91
+United States,2001,91
+United States,2002,91
+United States,2003,93
+United States,2004,93
+United States,2005,92
+United States,2006,92
+United States,2007,92
+United States,2008,92
+United States,2009,90
+United States,2010,92
+United States,2011,92
+United States,2012,92
+United States,2013,91
+United States,2014,91
+Upper middle income,1983,65.13253357
+Upper middle income,1984,68.00152532
+Upper middle income,1985,75.59406086
+Upper middle income,1986,61.59864447
+Upper middle income,1987,71.41665399
+Upper middle income,1988,84.90263545
+Upper middle income,1989,85.98293176
+Upper middle income,1990,89.85358083
+Upper middle income,1991,87.64722634
+Upper middle income,1992,84.92620001
+Upper middle income,1993,81.385896
+Upper middle income,1994,78.57785661
+Upper middle income,1995,82.10294382
+Upper middle income,1996,84.47111707
+Upper middle income,1997,86.31590504
+Upper middle income,1998,86.77664986
+Upper middle income,1999,87.2693869
+Upper middle income,2000,87.62097589
+Upper middle income,2001,88.91074305
+Upper middle income,2002,87.83630812
+Upper middle income,2003,87.50152384
+Upper middle income,2004,87.6892779
+Upper middle income,2005,87.61929048
+Upper middle income,2006,91.62179653
+Upper middle income,2007,92.78217805
+Upper middle income,2008,94.45543476
+Upper middle income,2009,95.66430974
+Upper middle income,2010,95.67043263
+Upper middle income,2011,96.04997892
+Upper middle income,2012,96.03552702
+Upper middle income,2013,94.60783245
+Upper middle income,2014,94.74184786
+Uruguay,1980,50
+Uruguay,1981,55
+Uruguay,1982,52
+Uruguay,1983,65
+Uruguay,1984,66
+Uruguay,1985,59
+Uruguay,1986,82
+Uruguay,1987,88
+Uruguay,1988,72
+Uruguay,1989,82
+Uruguay,1990,97
+Uruguay,1991,96
+Uruguay,1992,93
+Uruguay,1993,90
+Uruguay,1994,90
+Uruguay,1995,90
+Uruguay,1996,89
+Uruguay,1997,92
+Uruguay,1998,96
+Uruguay,1999,99
+Uruguay,2000,89
+Uruguay,2001,94
+Uruguay,2002,95
+Uruguay,2003,95
+Uruguay,2004,95
+Uruguay,2005,95
+Uruguay,2006,94
+Uruguay,2007,96
+Uruguay,2008,95
+Uruguay,2009,94
+Uruguay,2010,95
+Uruguay,2011,95
+Uruguay,2012,96
+Uruguay,2013,96
+Uruguay,2014,96
+Uzbekistan,1992,84
+Uzbekistan,1993,82
+Uzbekistan,1994,71
+Uzbekistan,1995,91
+Uzbekistan,1996,95
+Uzbekistan,1997,96
+Uzbekistan,1998,95
+Uzbekistan,1999,96
+Uzbekistan,2000,99
+Uzbekistan,2001,99
+Uzbekistan,2002,97
+Uzbekistan,2003,99
+Uzbekistan,2004,98
+Uzbekistan,2005,99
+Uzbekistan,2006,98
+Uzbekistan,2007,98
+Uzbekistan,2008,98
+Uzbekistan,2009,95
+Uzbekistan,2010,98
+Uzbekistan,2011,99
+Uzbekistan,2012,99
+Uzbekistan,2013,97
+Uzbekistan,2014,99
+Vanuatu,1982,20
+Vanuatu,1983,23
+Vanuatu,1984,18
+Vanuatu,1985,26
+Vanuatu,1986,22
+Vanuatu,1987,34
+Vanuatu,1988,46
+Vanuatu,1989,50
+Vanuatu,1990,66
+Vanuatu,1991,63
+Vanuatu,1992,66
+Vanuatu,1993,74
+Vanuatu,1994,53
+Vanuatu,1995,60
+Vanuatu,1996,61
+Vanuatu,1997,65
+Vanuatu,1998,64
+Vanuatu,1999,62
+Vanuatu,2000,61
+Vanuatu,2001,59
+Vanuatu,2002,58
+Vanuatu,2003,56
+Vanuatu,2004,55
+Vanuatu,2005,53
+Vanuatu,2006,52
+Vanuatu,2007,52
+Vanuatu,2008,52
+Vanuatu,2009,53
+Vanuatu,2010,53
+Vanuatu,2011,53
+Vanuatu,2012,53
+Vanuatu,2013,53
+Vanuatu,2014,53
+Venezuela,1980,50
+Venezuela,1981,43
+Venezuela,1982,45
+Venezuela,1983,42
+Venezuela,1984,41
+Venezuela,1985,56
+Venezuela,1986,48
+Venezuela,1987,54
+Venezuela,1988,51
+Venezuela,1989,50
+Venezuela,1990,61
+Venezuela,1991,63
+Venezuela,1992,61
+Venezuela,1993,62
+Venezuela,1994,94
+Venezuela,1995,47
+Venezuela,1996,64
+Venezuela,1997,68
+Venezuela,1998,92
+Venezuela,1999,84
+Venezuela,2000,84
+Venezuela,2001,98
+Venezuela,2002,83
+Venezuela,2003,83
+Venezuela,2004,80
+Venezuela,2005,76
+Venezuela,2006,82
+Venezuela,2007,87
+Venezuela,2008,93
+Venezuela,2009,87
+Venezuela,2010,79
+Venezuela,2011,86
+Venezuela,2012,87
+Venezuela,2013,85
+Venezuela,2014,89
+Vietnam,1982,1
+Vietnam,1983,3
+Vietnam,1984,4
+Vietnam,1985,19
+Vietnam,1986,39
+Vietnam,1987,36
+Vietnam,1988,56
+Vietnam,1989,76
+Vietnam,1990,88
+Vietnam,1991,88
+Vietnam,1992,90
+Vietnam,1993,93
+Vietnam,1994,96
+Vietnam,1995,95
+Vietnam,1996,96
+Vietnam,1997,96
+Vietnam,1998,96
+Vietnam,1999,94
+Vietnam,2000,97
+Vietnam,2001,98
+Vietnam,2002,96
+Vietnam,2003,93
+Vietnam,2004,97
+Vietnam,2005,95
+Vietnam,2006,93
+Vietnam,2007,83
+Vietnam,2008,92
+Vietnam,2009,97
+Vietnam,2010,98
+Vietnam,2011,96
+Vietnam,2012,96
+Vietnam,2013,98
+Vietnam,2014,97
+World,1983,48.50468367
+World,1984,50.43965728
+World,1985,45.35107319
+World,1986,45.37678243
+World,1987,52.75419407
+World,1988,62.58165841
+World,1989,68.30250454
+World,1990,73.62908446
+World,1991,69.78088585
+World,1992,69.96523758
+World,1993,70.56371968
+World,1994,72.01849428
+World,1995,73.89693458
+World,1996,73.44313686
+World,1997,71.57416485
+World,1998,71.16250394
+World,1999,71.69065957
+World,2000,72.31667395
+World,2001,72.88538471
+World,2002,72.56295976
+World,2003,74.19061331
+World,2004,76.21858538
+World,2005,77.92135889
+World,2006,79.7036149
+World,2007,80.13261989
+World,2008,81.66611333
+World,2009,83.81441169
+World,2010,85.0243903
+World,2011,84.94895934
+World,2012,84.82818194
+World,2013,84.84285524
+World,2014,84.52072655
+Yemen,1980,2
+Yemen,1981,4
+Yemen,1982,4
+Yemen,1983,6
+Yemen,1984,8
+Yemen,1985,13
+Yemen,1986,15
+Yemen,1987,22
+Yemen,1988,34
+Yemen,1989,48
+Yemen,1990,69
+Yemen,1991,53
+Yemen,1992,46
+Yemen,1993,51
+Yemen,1994,31
+Yemen,1995,40
+Yemen,1996,43
+Yemen,1997,41
+Yemen,1998,66
+Yemen,1999,74
+Yemen,2000,71
+Yemen,2001,73
+Yemen,2002,64
+Yemen,2003,66
+Yemen,2004,76
+Yemen,2005,76
+Yemen,2006,68
+Yemen,2007,74
+Yemen,2008,73
+Yemen,2009,69
+Yemen,2010,73
+Yemen,2011,71
+Yemen,2012,71
+Yemen,2013,78
+Yemen,2014,75
+Zambia,1983,56
+Zambia,1984,57
+Zambia,1985,58
+Zambia,1986,58
+Zambia,1987,80
+Zambia,1988,80
+Zambia,1989,80
+Zambia,1990,90
+Zambia,1991,80
+Zambia,1992,85
+Zambia,1993,91
+Zambia,1994,96
+Zambia,1995,86
+Zambia,1996,86
+Zambia,1997,86
+Zambia,1998,86
+Zambia,1999,85
+Zambia,2000,85
+Zambia,2001,84
+Zambia,2002,84
+Zambia,2003,84
+Zambia,2004,85
+Zambia,2005,85
+Zambia,2006,85
+Zambia,2007,93
+Zambia,2008,87
+Zambia,2009,90
+Zambia,2010,96
+Zambia,2011,83
+Zambia,2012,82
+Zambia,2013,80
+Zambia,2014,85
+Zimbabwe,1981,56
+Zimbabwe,1982,58
+Zimbabwe,1983,60
+Zimbabwe,1984,62
+Zimbabwe,1985,78
+Zimbabwe,1986,83
+Zimbabwe,1987,88
+Zimbabwe,1988,88
+Zimbabwe,1989,87
+Zimbabwe,1990,87
+Zimbabwe,1991,87
+Zimbabwe,1992,86
+Zimbabwe,1993,86
+Zimbabwe,1994,87
+Zimbabwe,1995,87
+Zimbabwe,1996,88
+Zimbabwe,1997,84
+Zimbabwe,1998,79
+Zimbabwe,1999,77
+Zimbabwe,2000,75
+Zimbabwe,2001,73
+Zimbabwe,2002,70
+Zimbabwe,2003,68
+Zimbabwe,2004,66
+Zimbabwe,2005,67
+Zimbabwe,2006,68
+Zimbabwe,2007,69
+Zimbabwe,2008,70
+Zimbabwe,2009,76
+Zimbabwe,2010,90
+Zimbabwe,2011,92
+Zimbabwe,2012,97
+Zimbabwe,2013,93
+Zimbabwe,2014,92

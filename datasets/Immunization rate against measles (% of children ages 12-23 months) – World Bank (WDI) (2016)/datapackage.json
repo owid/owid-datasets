@@ -1,0 +1,42 @@
+{
+  "name": "Immunization rate against measles (% of children ages 12-23 months) – World Bank (WDI) (2016)",
+  "title": "Immunization rate against measles (% of children ages 12-23 months) – World Bank (WDI) (2016)",
+  "id": 278,
+  "description": "The definition given by the source is \"Child immunization measures the percentage of children ages 12-23 months who received vaccinations before 12 months or at any time before the survey. A child is considered adequately immunized against measles after receiving one dose of vaccine.\"\r\n\r\nData is displayed as presented in the source, only country names are standardized to the conventions of Our World In Data.",
+  "sources": [
+    {
+      "name": "Immunization rate against measles (% of children ages 12-23 months) – World Bank (WDI) (2016)",
+      "dataPublishedBy": "World Bank - World Development Indicators (WDI)",
+      "dataPublisherSource": "Census data.",
+      "link": "http://data.worldbank.org/indicator/SH.IMM.MEAS",
+      "retrievedDate": "08/01/2016",
+      "additionalInfo": "The definition given by the source is \"Child immunization measures the percentage of children ages 12-23 months who received vaccinations before 12 months or at any time before the survey. A child is considered adequately immunized against measles after receiving one dose of vaccine.\"\r\n\r\nData is displayed as presented in the source, only country names are standardized to the conventions of Our World In Data."
+    }
+  ],
+  "owidTags": [
+    "Vaccination"
+  ],
+  "resources": [
+    {
+      "path": "Immunization rate against measles (% of children ages 12-23 months) – World Bank (WDI) (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Immunization rate against measles (% of children ages 12-23 months) (World Bank (WDI) (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
