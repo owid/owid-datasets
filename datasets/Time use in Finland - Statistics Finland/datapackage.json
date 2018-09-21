@@ -1,0 +1,54 @@
+{
+  "name": "Time use in Finland - Statistics Finland",
+  "title": "Time use in Finland - Statistics Finland",
+  "id": 2911,
+  "description": "Statistics Finland has 26 time use categories aggregated under 6 main headings: gainful employment, domestic work, personal care, study, free time, and time left unspecified. \n\nActivity definitions are outlined below:\n<ul>\n<li>Gainful employment includes time spent at work as well as travel to and from work. </li>\n<li>Domestic work includes housekeeping, maintenance work, other domestic work, childcare, shopping and services, and travel related to domestic work.</li>\n<li>Personal care includes sleep, meals, washing and dressing. </li>\n<li>Study includes time spent in school or university, travel related to study, and free time study (incl. related travel). </li>\n<li>Free time includes participatory activity, sports and outdoor activities, entertainment and culture, reading, listening to radio, TV, socialising with friends and family, hobbies, other free time, and travel related to free time.</li>\n</ul>",
+  "sources": [
+    {
+      "name": "Statistics Finland",
+      "dataPublishedBy": "Statistics Finland",
+      "dataPublisherSource": "National time use surveys",
+      "link": "http://pxnet2.stat.fi/PXWeb/pxweb/en/StatFin/StatFin__eli__akay/statfin_akay_pxt_001.px/?rxid=8125706d-1229-4acf-acef-1e302ecb617a",
+      "retrievedDate": "31/08/2018",
+      "additionalInfo": "Statistics Finland has 26 time use categories aggregated under 6 main headings: gainful employment, domestic work, personal care, study, free time, and time left unspecified. \n\nActivity definitions are outlined below:\n<ul>\n<li>Gainful employment includes time spent at work as well as travel to and from work. </li>\n<li>Domestic work includes housekeeping, maintenance work, other domestic work, childcare, shopping and services, and travel related to domestic work.</li>\n<li>Personal care includes sleep, meals, washing and dressing. </li>\n<li>Study includes time spent in school or university, travel related to study, and free time study (incl. related travel). </li>\n<li>Free time includes participatory activity, sports and outdoor activities, entertainment and culture, reading, listening to radio, TV, socialising with friends and family, hobbies, other free time, and travel related to free time.</li>\n</ul>"
+    }
+  ],
+  "owidTags": [
+    "Working Hours"
+  ],
+  "resources": [
+    {
+      "path": "Time use in Finland - Statistics Finland.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Time allocation, all (Statistics Finland)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time allocation, men (Statistics Finland)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time allocation, women (Statistics Finland)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
