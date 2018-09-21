@@ -1,0 +1,76 @@
+{
+  "name": "Electricity production by fossil fuel source - World Bank (2014)",
+  "title": "Electricity production by fossil fuel source - World Bank (2014)",
+  "id": 487,
+  "description": "Coal, oil, gas and nuclear figures from World Bank sourced from IEA Statistics © OECD/IEA 2014. Available at: http://www.iea.org/stats/index.asp\r\n\r\nWorld Bank figures for renewable electricity sourced from: Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking Framework led jointly by the World Bank, International Energy Agency, and the Energy Sector Management Assistance Program.",
+  "sources": [
+    {
+      "name": "Electricity production by fossil fuel source - World Bank (2014)",
+      "dataPublishedBy": "World Bank, World Development Indicators (WDI)",
+      "dataPublisherSource": null,
+      "link": "http://databank.worldbank.org/data/home.aspx",
+      "retrievedDate": "20/05/2017",
+      "additionalInfo": "Coal, oil, gas and nuclear figures from World Bank sourced from IEA Statistics © OECD/IEA 2014. Available at: http://www.iea.org/stats/index.asp\r\n\r\nWorld Bank figures for renewable electricity sourced from: Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking Framework led jointly by the World Bank, International Energy Agency, and the Energy Sector Management Assistance Program."
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "Electricity production by fossil fuel source - World Bank (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Oil (% electricity production) (World Bank (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "GDP constant 2011 international $ in PPP -- ILO modelled estimates, May 201",
+              "shortUnit": "$"
+            }
+          },
+          {
+            "name": "Renewables (% electricity output) (World Bank (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "thousands"
+            }
+          },
+          {
+            "name": "Nuclear (% electricity production) (World Bank (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "thousands"
+            }
+          },
+          {
+            "name": "Natural gas (% energy production) (World Bank (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Coal (% electricity production) (World Bank (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
