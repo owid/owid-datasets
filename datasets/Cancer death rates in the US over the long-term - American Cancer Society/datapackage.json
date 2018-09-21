@@ -1,0 +1,120 @@
+{
+  "name": "Cancer death rates in the US over the long-term - American Cancer Society",
+  "title": "Cancer death rates in the US over the long-term - American Cancer Society",
+  "id": 1933,
+  "description": "Figures are based on long-term death rates from various cancer types (since 1930) in the United States for males and females. These death rates are age-standardized to the US population structure for males and females in the year 2000. Death rates are measured per 100,000 individuals.",
+  "sources": [
+    {
+      "name": "Cancer death rates in the US over the long-term - American Cancer Society",
+      "dataPublishedBy": "American Cancer Society",
+      "dataPublisherSource": null,
+      "link": "https://www.cancer.org/research/cancer-facts-statistics/all-cancer-facts-figures/cancer-facts-figures-2015.html",
+      "retrievedDate": "31st January 2018",
+      "additionalInfo": "Figures are based on long-term death rates from various cancer types (since 1930) in the United States for males and females. These death rates are age-standardized to the US population structure for males and females in the year 2000. Death rates are measured per 100,000 individuals."
+    }
+  ],
+  "owidTags": [
+    "Cancer"
+  ],
+  "resources": [
+    {
+      "path": "Cancer death rates in the US over the long-term - American Cancer Society.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Stomach (male)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Colon and Rectum (male)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Liver (male)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Pancreas (male)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Lung and Bronchus (male)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prostate (male)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Leukemia (male)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Stomach (female)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Colon and Rectum (female)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Pancreas (female)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Lung and Bronchus (female)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Breast (female)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Uterus (female)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Liver (female)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
