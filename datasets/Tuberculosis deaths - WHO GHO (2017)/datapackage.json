@@ -1,0 +1,42 @@
+{
+  "name": "Tuberculosis deaths - WHO GHO (2017)",
+  "title": "Tuberculosis deaths - WHO GHO (2017)",
+  "id": 2806,
+  "description": "The data were aggregated to include a global datapoint by Sophie Ochmann (Our World in Data). ",
+  "sources": [
+    {
+      "name": "WHO Global Health Observatory (2017)",
+      "dataPublishedBy": "World Health Organization Global Health Observatory ",
+      "dataPublisherSource": "Own data collection",
+      "link": "http://apps.who.int/gho/data/node.home",
+      "retrievedDate": "8 June 2018",
+      "additionalInfo": "The data were aggregated to include a global datapoint by Sophie Ochmann (Our World in Data). "
+    }
+  ],
+  "owidTags": [
+    "Tuberculosis"
+  ],
+  "resources": [
+    {
+      "path": "Tuberculosis deaths - WHO GHO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Deaths by tuberculosis (WHO 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
