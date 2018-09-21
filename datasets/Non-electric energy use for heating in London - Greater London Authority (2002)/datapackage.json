@@ -1,0 +1,60 @@
+{
+  "name": "Non-electric energy use for heating in London - Greater London Authority (2002)",
+  "title": "Non-electric energy use for heating in London - Greater London Authority (2002)",
+  "id": 2717,
+  "description": "Full reference: GLA. 2002. 50 Years On: The Struggle for Air Quality in London since the Great Smog of December 1952. Greater London Authority. London. Original data on pg 21.  Also see Table 2 in Fouquet's paper 'The Demand for Environmental Quality in Driving Transitions to Low Polluting Energy Sources' November 2011 available at: https://ideas.repec.org/p/bcc/wpaper/2011-06.html.\n\nElectricity is not included because of the difficulty of separating consumption between heating and other services - its inclusion would only increase the decline in solid fuels.",
+  "sources": [
+    {
+      "name": "Greater London Authority (2002)",
+      "dataPublishedBy": "Greater London Authority",
+      "dataPublisherSource": "Historical data",
+      "link": "https://goo.gl/PQ7Bbz via https://ideas.repec.org/p/bcc/wpaper/2011-06.html",
+      "retrievedDate": "04/04/2018",
+      "additionalInfo": "Full reference: GLA. 2002. 50 Years On: The Struggle for Air Quality in London since the Great Smog of December 1952. Greater London Authority. London. Original data on pg 21.  Also see Table 2 in Fouquet's paper 'The Demand for Environmental Quality in Driving Transitions to Low Polluting Energy Sources' November 2011 available at: https://ideas.repec.org/p/bcc/wpaper/2011-06.html.\n\nElectricity is not included because of the difficulty of separating consumption between heating and other services - its inclusion would only increase the decline in solid fuels."
+    }
+  ],
+  "owidTags": [
+    "Housing"
+  ],
+  "resources": [
+    {
+      "path": "Non-electric energy use for heating in London - Greater London Authority (2002).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of oil energy use for heating (GLA (2002))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of gas energy use for heating (GLA (2002))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of coal energy use for heating (GLA (2002))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of other solid fuels for heating (GLA (2002))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
