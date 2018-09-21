@@ -1,0 +1,48 @@
+{
+  "name": "Plastic inputs from rivers - Lebreton et al. (2017)",
+  "title": "Plastic inputs from rivers - Lebreton et al. (2017)",
+  "id": 2837,
+  "description": "Estimated annual plastic inputs from rivers into the ocean, given as data for the top 20 rivers, and by continental region.",
+  "sources": [
+    {
+      "name": "Plastic inputs from rivers - Lebreton et al. (2017)",
+      "dataPublishedBy": "Lebreton, L. C., Van der Zwet, J., Damsteeg, J. W., Slat, B., Andrady, A., & Reisser, J. (2017). River plastic emissions to the world’s oceans. Nature Communications, 8, 15611.",
+      "dataPublisherSource": null,
+      "link": "https://www.nature.com/articles/ncomms15611",
+      "retrievedDate": "17th July 2018",
+      "additionalInfo": "Estimated annual plastic inputs from rivers into the ocean, given as data for the top 20 rivers, and by continental region."
+    }
+  ],
+  "owidTags": [
+    "Waste"
+  ],
+  "resources": [
+    {
+      "path": "Plastic inputs from rivers - Lebreton et al. (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Plastic mass input from rivers",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of total mass input from rivers",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
