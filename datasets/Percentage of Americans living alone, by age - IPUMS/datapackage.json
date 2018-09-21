@@ -1,0 +1,72 @@
+{
+  "name": "Percentage of Americans living alone, by age - IPUMS",
+  "title": "Percentage of Americans living alone, by age - IPUMS",
+  "id": 2891,
+  "description": "Samples of the decennial Census (1900-2000) and the 2016 ACS from IPUMS-USA has been used to construct variables on the percentage of Americans living alone, by age and sex. \n\nWe include only those people who are reported to be living in a one person household and who do not live in group quarters. \n\nThe IPUMS defines group quarters as \"largely institutions and other group living arrangements, such as rooming houses and military barracks. The definitions vary from year to year, but the pre-1940 samples have generally used a definition of group quarters that includes units with 10 or more individuals unrelated to the householder.\"\n\nWe have excluded those recorded to be living in institutions, other group quarters, and additional households under the 2000 definition.",
+  "sources": [
+    {
+      "name": "IPUMS",
+      "dataPublishedBy": "Steven Ruggles, Sarah Flood, Ronald Goeken, Josiah Grover, Erin Meyer, Jose Pacas, and Matthew Sobek. IPUMS USA: Version 8.0 [dataset]. Minneapolis, MN: IPUMS, 2018. https://doi.org/10.18128/D010.V8.0",
+      "dataPublisherSource": "Census data samples",
+      "link": "https://usa.ipums.org/usa/",
+      "retrievedDate": "24/08/2018",
+      "additionalInfo": "Samples of the decennial Census (1900-2000) and the 2016 ACS from IPUMS-USA has been used to construct variables on the percentage of Americans living alone, by age and sex. \n\nWe include only those people who are reported to be living in a one person household and who do not live in group quarters. \n\nThe IPUMS defines group quarters as \"largely institutions and other group living arrangements, such as rooming houses and military barracks. The definitions vary from year to year, but the pre-1940 samples have generally used a definition of group quarters that includes units with 10 or more individuals unrelated to the householder.\"\n\nWe have excluded those recorded to be living in institutions, other group quarters, and additional households under the 2000 definition."
+    }
+  ],
+  "owidTags": [
+    "House Size"
+  ],
+  "resources": [
+    {
+      "path": "Percentage of Americans living alone, by age - IPUMS.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Percentage of Americans living alone, by year, total (IPUMS)",
+            "type": "any",
+            "description": "Share of Americans living alone, by year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percentage of Americans living alone, by year, male (IPUMS)",
+            "type": "any",
+            "description": "Share of male Americans living alone, by year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percentage of Americans living alone, by year, female (IPUMS)",
+            "type": "any",
+            "description": "Share of female Americans living alone, by year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percentage of Americans living alone, by age, total (IPUMS)",
+            "type": "any",
+            "description": "Share of Americans living alone, by age.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percentage of Americans living alone, by age, male (IPUMS)",
+            "type": "any",
+            "description": "Share of male Americans living alone, by age. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percentage of Americans living alone, by age, female (IPUMS)",
+            "type": "any",
+            "description": "Share of female Americans living alone, by age.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
