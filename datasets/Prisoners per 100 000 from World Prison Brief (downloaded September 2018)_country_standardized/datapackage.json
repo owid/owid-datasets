@@ -1,0 +1,42 @@
+{
+  "name": "Prisoners per 100 000 from World Prison Brief (downloaded September 2018)_country_standardized",
+  "title": "Prisoners per 100 000 from World Prison Brief (downloaded September 2018)_country_standardized",
+  "id": 2941,
+  "description": "",
+  "sources": [
+    {
+      "name": "World Prison Brief (2018)",
+      "dataPublishedBy": "World Prison Brief",
+      "dataPublisherSource": "mostly national sources",
+      "link": "http://www.prisonstudies.org/world-prison-brief-data",
+      "retrievedDate": "15 September 2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Crime & Violence"
+  ],
+  "resources": [
+    {
+      "path": "Prisoners per 100 000 from World Prison Brief (downloaded September 2018)_country_standardized.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Prison population rate (World Prison Brief 2018)",
+            "type": "any",
+            "description": "Prison population rate (per 100,000 of national population) for 2018 or the latest year available before 2018.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
