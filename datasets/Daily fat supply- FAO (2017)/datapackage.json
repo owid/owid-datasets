@@ -1,0 +1,42 @@
+{
+  "name": "Daily fat supply- FAO (2017)",
+  "title": "Daily fat supply- FAO (2017)",
+  "id": 583,
+  "description": "Daily fat supply is defined as the average per capita fat availability. Note that this indicates the fat availability delivered to households but does not necessarily indicate the quantity of fat actually consumed (food may be wasted at the consumer level).\n\nData from 1961-1991 for Post-Soviet states are assumed to be in line with reported data for the USSR over this period.",
+  "sources": [
+    {
+      "name": "Daily fat supply- FAO (2017)",
+      "dataPublishedBy": "United Nations Food and Agricultural Organization (FAO)",
+      "dataPublisherSource": "Household survey and census data",
+      "link": "http://www.fao.org/faostat/en/#data/FBS",
+      "retrievedDate": "18/07/2017",
+      "additionalInfo": "Daily fat supply is defined as the average per capita fat availability. Note that this indicates the fat availability delivered to households but does not necessarily indicate the quantity of fat actually consumed (food may be wasted at the consumer level).\n\nData from 1961-1991 for Post-Soviet states are assumed to be in line with reported data for the USSR over this period."
+    }
+  ],
+  "owidTags": [
+    "Food per Person"
+  ],
+  "resources": [
+    {
+      "path": "Daily fat supply- FAO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Daily fat supply (FAO (2017))",
+            "type": "any",
+            "description": "Daily fat supply measured in grams per person per day. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
