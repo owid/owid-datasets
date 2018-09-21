@@ -1,0 +1,42 @@
+{
+  "name": "Revenue shares from tax – Flora (1983) and ICTD (2016)",
+  "title": "Revenue shares from tax – Flora (1983) and ICTD (2016)",
+  "id": 299,
+  "description": "Data from the ICTD corresponds to estimates from OECD. More details in Prichard, W. (2016). Reassessing Tax and Development Research: A New Dataset, New Findings, and Lessons for Research. World Development, 80, 48-60.",
+  "sources": [
+    {
+      "name": "Flora (1983) and ICTD (2016)",
+      "dataPublishedBy": "Data up to 1975 from Flora, Peter et al. 1983. State, Economy and Society in Western Europe, 1815-1975. Frankfurt: Campus Verlag. Data after 1975 from International Centre for Tax and Development",
+      "dataPublisherSource": "Various sources",
+      "link": "Data from Flora (1983) available from http://gpih.ucdavis.edu/Government.htm Data from ICTD available from http://www.ictd.ac/datasets/the-ictd-government-revenue-dataset",
+      "retrievedDate": "21/09/2016",
+      "additionalInfo": "Data from the ICTD corresponds to estimates from OECD. More details in Prichard, W. (2016). Reassessing Tax and Development Research: A New Dataset, New Findings, and Lessons for Research. World Development, 80, 48-60."
+    }
+  ],
+  "owidTags": [
+    "Government Revenue"
+  ],
+  "resources": [
+    {
+      "path": "Revenue shares from tax – Flora (1983) and ICTD (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of Revenue from Income tax (Flora (1983) and ICTD (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
