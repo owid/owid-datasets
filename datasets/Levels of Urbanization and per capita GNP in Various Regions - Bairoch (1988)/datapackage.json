@@ -1,0 +1,54 @@
+{
+  "name": "Levels of Urbanization and per capita GNP in Various Regions - Bairoch (1988)",
+  "title": "Levels of Urbanization and per capita GNP in Various Regions - Bairoch (1988)",
+  "id": 2842,
+  "description": "See Table 29.1 (pp. 459) for original data.",
+  "sources": [
+    {
+      "name": "Bairoch (1988)",
+      "dataPublishedBy": "Bairoch, P., 1988. Cities and Economic Development, translated by Christopher Braider.",
+      "dataPublisherSource": "Historical and scholarly sources.",
+      "link": "http://press.uchicago.edu/ucp/books/book/chicago/C/bo5971175.html",
+      "retrievedDate": "19/07/2018",
+      "additionalInfo": "See Table 29.1 (pp. 459) for original data."
+    }
+  ],
+  "owidTags": [
+    "Urbanization"
+  ],
+  "resources": [
+    {
+      "path": "Levels of Urbanization and per capita GNP in Various Regions - Bairoch (1988).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Urban population share (Bairoch (1988))",
+            "type": "any",
+            "description": "The percentage of the population classified as urban. A criterion of 5000 is used for urban population.\n\nThe 'developed countries' regional category excludes Japan.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Per capita Gross National Product (Bairoch (1988))",
+            "type": "any",
+            "description": "GNP per person in 1960 US$. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Rural population share (Bairoch (1988))",
+            "type": "any",
+            "description": "The percentage of the population classified as rural. A criterion of 5000 is used for urban population.\n\nThe 'developed countries' regional category excludes Japan.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
