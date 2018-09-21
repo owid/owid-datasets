@@ -1,0 +1,72 @@
+{
+  "name": "Projected extreme poverty among different groupings of fragile states (Crespo Cuaresma et al, 2018; OECD; World Bank)",
+  "title": "Projected extreme poverty among different groupings of fragile states (Crespo Cuaresma et al, 2018; OECD; World Bank)",
+  "id": 2889,
+  "description": "The poverty projections are based on the Shared Socioeconomic Pathways framework developed at IIASA. In particular these figures relate to SSP2, the baseline scenario employed by Crespo Cuaresma et al. (2018). Population projections from UN World Population Prospects: The 2017 Revision.\n\nThe sources of the fragile states lists are as follows:\nOECD States of Fragility, 2018\nOECD Resource Flows to Fragile and Conflict-Affected States: Annual Report 2008\nWorld Bank 2019 – FY19 List of fragile situations\nWorld Bank 2009 – FY09 Fragile States list",
+  "sources": [
+    {
+      "name": "Cuaresma et al (2018); OECD (2018); UN (2017)",
+      "dataPublishedBy": "J. Crespo Cuaresma, W. Fengler, H. Kharas et al., 2018. \"Will the Sustainable Development Goals be fulfilled? Assessing present and future global poverty\". Palgrave Communications volume 4, Article number: 29",
+      "dataPublisherSource": "Surveys and projections from World Bank, IMF, UNU-WIDER WIID, IIASA, CIA World Factbook",
+      "link": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XS5KQA",
+      "retrievedDate": "23/08/2018",
+      "additionalInfo": "The poverty projections are based on the Shared Socioeconomic Pathways framework developed at IIASA. In particular these figures relate to SSP2, the baseline scenario employed by Crespo Cuaresma et al. (2018). Population projections from UN World Population Prospects: The 2017 Revision.\n\nThe sources of the fragile states lists are as follows:\nOECD States of Fragility, 2018\nOECD Resource Flows to Fragile and Conflict-Affected States: Annual Report 2008\nWorld Bank 2019 – FY19 List of fragile situations\nWorld Bank 2009 – FY09 Fragile States list"
+    }
+  ],
+  "owidTags": [
+    "Consequences of Conflict"
+  ],
+  "resources": [
+    {
+      "path": "Projected extreme poverty among different groupings of fragile states (Crespo Cuaresma et al, 2018; OECD; World Bank).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Projected global extreme poverty rate",
+            "type": "any",
+            "description": "Projected number of people living in extreme poverty (less than $1.90 a day), expressed as a percentage of projected global population.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Projected extreme poor in fragile states",
+            "type": "any",
+            "description": "Projected number of people living in extreme poverty (less than $1.90 a day) in fragile states or territories (as defined by various sources), expressed as a percentage of global population.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Projected share of global extreme poor living in fragile states",
+            "type": "any",
+            "description": "Projected number of people living in extreme poverty (less than $1.90 a day) in fragile states or territories (as defined by various sources), divided by the projected number in extreme poverty globally.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Projected share of world population living in fragile states",
+            "type": "any",
+            "description": "Projected population in fragile states or territories (as defined by various sources), divided by the projected global population.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Projected extreme poverty rate amongst fragile states",
+            "type": "any",
+            "description": "Projected number of people living in extreme poverty (less than $1.90 a day) in fragile states, expressed as a percentage of projected population in fragile states.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Projected extreme poor not in fragile states",
+            "type": "any",
+            "description": "Projected number of people living in extreme poverty (less than $1.90 a day) not in fragile states or territories (as defined by the OECD 2018 Fragile Contexts list), expressed as a percentage of global population.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
