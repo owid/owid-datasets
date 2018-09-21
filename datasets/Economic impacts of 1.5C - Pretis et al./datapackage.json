@@ -1,0 +1,66 @@
+{
+  "name": "Economic impacts of 1.5C - Pretis et al.",
+  "title": "Economic impacts of 1.5C - Pretis et al.",
+  "id": 2665,
+  "description": "Please cite the data as:\n\nPretis, Schwarz, Tang, Haustein, and Allen. 2018. \"Uncertain Impacts on Economic Growth When Stabilizing Global Temperatures at 1.5°C or 2°C Warming\". Philosophical Transactions of the Royal Society, A. DOI 10.1098/rsta.2016.0460.",
+  "sources": [
+    {
+      "name": "Economic impacts of 1.5C - Pretis et al.",
+      "dataPublishedBy": "Philosophical Transactions of the Royal Society, 2018",
+      "dataPublisherSource": null,
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3073059",
+      "retrievedDate": null,
+      "additionalInfo": "Please cite the data as:\n\nPretis, Schwarz, Tang, Haustein, and Allen. 2018. \"Uncertain Impacts on Economic Growth When Stabilizing Global Temperatures at 1.5°C or 2°C Warming\". Philosophical Transactions of the Royal Society, A. DOI 10.1098/rsta.2016.0460."
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Economic impacts of 1.5C - Pretis et al..csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Median",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "17th percentile",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "83rd percentile",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "97.5th percentile",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "2.5th percentile",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
