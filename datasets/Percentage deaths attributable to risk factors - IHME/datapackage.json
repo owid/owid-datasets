@@ -1,0 +1,42 @@
+{
+  "name": "Percentage deaths attributable to risk factors - IHME",
+  "title": "Percentage deaths attributable to risk factors - IHME",
+  "id": 2485,
+  "description": "Data represents the share of deaths which can be attributed to the prevalence of risk factors, including smoking, diet & nutrition, obesity, alcohol and drug consumption, unsafe sex, poor sanitation, water access, air pollution and environmental exposures. The remaining share is therefore the share of deaths which would occur in the absence of any linked risk factors.",
+  "sources": [
+    {
+      "name": "Percentage deaths attributable to risk factors - IHME",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2016 (GBD 2016) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2017.",
+      "dataPublisherSource": null,
+      "link": "http://ghdx.healthdata.org/gbd-results-tool",
+      "retrievedDate": "28th February 2018",
+      "additionalInfo": "Data represents the share of deaths which can be attributed to the prevalence of risk factors, including smoking, diet & nutrition, obesity, alcohol and drug consumption, unsafe sex, poor sanitation, water access, air pollution and environmental exposures. The remaining share is therefore the share of deaths which would occur in the absence of any linked risk factors."
+    }
+  ],
+  "owidTags": [
+    "Causes of Death"
+  ],
+  "resources": [
+    {
+      "path": "Percentage deaths attributable to risk factors - IHME.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of deaths attributable to risk factors",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}

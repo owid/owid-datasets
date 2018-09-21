@@ -1,0 +1,3 @@
+# Percentage deaths attributable to risk factors - IHME
+
+Data represents the share of deaths which can be attributed to the prevalence of risk factors, including smoking, diet & nutrition, obesity, alcohol and drug consumption, unsafe sex, poor sanitation, water access, air pollution and environmental exposures. The remaining share is therefore the share of deaths which would occur in the absence of any linked risk factors.
