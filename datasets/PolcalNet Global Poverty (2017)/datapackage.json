@@ -1,0 +1,48 @@
+{
+  "name": "PolcalNet Global Poverty (2017)",
+  "title": "PolcalNet Global Poverty (2017)",
+  "id": 678,
+  "description": "Countries for which both consumption and income expenditure data was available, we present mean and median per capita consumption expenditure only.",
+  "sources": [
+    {
+      "name": "World Bank, PovcalNet (2017)",
+      "dataPublishedBy": "PovcalNet, World Bank",
+      "dataPublisherSource": "World Bank's poverty measures",
+      "link": "http://iresearch.worldbank.org/PovcalNet/povOnDemand.aspx",
+      "retrievedDate": "22/08/2017",
+      "additionalInfo": "Countries for which both consumption and income expenditure data was available, we present mean and median per capita consumption expenditure only."
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "PolcalNet Global Poverty (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Mean monthly per capita expenditure in 2011 int-$ (PovcalNet 2017)",
+            "type": "any",
+            "description": "The average monthly per capita income/consumption expenditure (from household surveys) in 2011 PPP international dollars. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Median monthly per capita expenditure in 2011 int-$ (PovcalNet 2017)",
+            "type": "any",
+            "description": "Median of monthly per capita income/consumption expenditure (from household surveys) in 2011 PPP international dollars.\r\n",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
