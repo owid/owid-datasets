@@ -1,0 +1,66 @@
+{
+  "name": "ECI Country Rankings (Observatory of Economic Complexity (2016) and the Atlas of Economic Complexity (2016))",
+  "title": "ECI Country Rankings (Observatory of Economic Complexity (2016) and the Atlas of Economic Complexity (2016))",
+  "id": 1016,
+  "description": "The Economic Complexity Index takes data on exports, and reduces a country’s economic system into two dimensions: (i) The number or ‘diversification’ of products in the export basket, and (ii) the quality, or ‘ubiquity’ of products in the export basket.\r\n\r\nTo measure these two dimensions, the ECI uses a cross-country export matrix. That is, a table with countries in the rows and product categories in the columns, so that each cell in the table shows the value of country-product exports.\r\n\r\nFrom this matrix, ‘diversification’ is obtained from the distribution of country exports across products (i.e. the sum across columns for each row); while ‘ubiquity’  is given by the share of product exports contributed by each country (i.e. the sum across rows for each column).\r\n\r\nTo condense both dimensions into a single metric, the ECI further reduces the information in the matrix, such that countries with similar exports are close together in the ranking. \r\n\r\nLoosely speaking, lower ECI scores correspond to countries that export very few different types of products (i.e. export baskets that are not diversified) and those products that they do export are produced in many other countries (i.e. export baskets that load heavily on just a few ubiquitous products). \r\n\r\nBy this logic, Germany has a high ECI score because it exports many different kinds of sophisticated things that are only produced by a handful of other countries with similarly diversified productive capacities. \r\n\r\nThe following visualization shows ECI rankings for all countries in the world. Link: https://ourworldindata.org/grapher/economic-complexity-rankings\r\n\r\nAs we can see, there is a clear pattern – richer countries tend to have similar economic structures, and these structures allow them to produce and export a varied basket of sophisticated products.\r\n\r\nBut what about countries endowed with rare natural resources, like petroleum, which would make a country’s export basket less ubiquitous, and hence misleadingly be assigned a more favourable ECI ranking? If a country exporting petroleum can only produce a few other products, then the low ubiquity for their export basket can be explained by these natural resources, and the ECI ranking is corrected by the country’s inability to produce different types of products. However, if this country can also produce a diverse range of other goods, then low ubiquity correctly indicates greater economic complexity which is reflected in the ranking. Hence, information on diversity can correct for the information of ubiquity, and vice versa.\r\n\r\nThe data here comes from the Economic Complexity Index scores published by the MIT Observatory of Economic Complexity. These are different to those published by the Harvard Atlas of Economic Complexity. As far as we are aware, the discrepancies stem from differences in the way each sources clean the underlying cross-country trade data. You can explore differences between these two data sources here: https://ourworldindata.org/grapher/eci-country-rankings-comparison?country=KOR.\r\n",
+  "sources": [
+    {
+      "name": "ECI - Observatory of Economic Complexity (OEC) (2016) and the Atlas of Economic Complexity (2016)",
+      "dataPublishedBy": "MIT Observatory of Economic Complexity (OEC) (2016) and the Harvard Atlas of Economic Complexity (2016)",
+      "dataPublisherSource": "Publicly available trade data.",
+      "link": "MIT data: https://atlas.media.mit.edu/en/rankings/country/eci/ and Harvard data: http://atlas.cid.harvard.edu/rankings",
+      "retrievedDate": "06/11/2017",
+      "additionalInfo": "The Economic Complexity Index takes data on exports, and reduces a country’s economic system into two dimensions: (i) The number or ‘diversification’ of products in the export basket, and (ii) the quality, or ‘ubiquity’ of products in the export basket.\r\n\r\nTo measure these two dimensions, the ECI uses a cross-country export matrix. That is, a table with countries in the rows and product categories in the columns, so that each cell in the table shows the value of country-product exports.\r\n\r\nFrom this matrix, ‘diversification’ is obtained from the distribution of country exports across products (i.e. the sum across columns for each row); while ‘ubiquity’  is given by the share of product exports contributed by each country (i.e. the sum across rows for each column).\r\n\r\nTo condense both dimensions into a single metric, the ECI further reduces the information in the matrix, such that countries with similar exports are close together in the ranking. \r\n\r\nLoosely speaking, lower ECI scores correspond to countries that export very few different types of products (i.e. export baskets that are not diversified) and those products that they do export are produced in many other countries (i.e. export baskets that load heavily on just a few ubiquitous products). \r\n\r\nBy this logic, Germany has a high ECI score because it exports many different kinds of sophisticated things that are only produced by a handful of other countries with similarly diversified productive capacities. \r\n\r\nThe following visualization shows ECI rankings for all countries in the world. Link: https://ourworldindata.org/grapher/economic-complexity-rankings\r\n\r\nAs we can see, there is a clear pattern – richer countries tend to have similar economic structures, and these structures allow them to produce and export a varied basket of sophisticated products.\r\n\r\nBut what about countries endowed with rare natural resources, like petroleum, which would make a country’s export basket less ubiquitous, and hence misleadingly be assigned a more favourable ECI ranking? If a country exporting petroleum can only produce a few other products, then the low ubiquity for their export basket can be explained by these natural resources, and the ECI ranking is corrected by the country’s inability to produce different types of products. However, if this country can also produce a diverse range of other goods, then low ubiquity correctly indicates greater economic complexity which is reflected in the ranking. Hence, information on diversity can correct for the information of ubiquity, and vice versa.\r\n\r\nThe data here comes from the Economic Complexity Index scores published by the MIT Observatory of Economic Complexity. These are different to those published by the Harvard Atlas of Economic Complexity. As far as we are aware, the discrepancies stem from differences in the way each sources clean the underlying cross-country trade data. You can explore differences between these two data sources here: https://ourworldindata.org/grapher/eci-country-rankings-comparison?country=KOR.\r\n"
+    }
+  ],
+  "owidTags": [
+    "Economic Prosperity"
+  ],
+  "resources": [
+    {
+      "path": "ECI Country Rankings (Observatory of Economic Complexity (2016) and the Atlas of Economic Complexity (2016)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Economic Complexity Index (ECI) (Observatory of Economic Complexity (2016))",
+            "type": "any",
+            "description": "The ECI is a measure of the relative knowledge intensity of an economy. ECI measures the knowledge intensity of an economy by considering the knowledge intensity of the products it exports using the SITC 4-digit product disaggregation in its calculations (countries' revealed comparative advantage (RCA) is smoothed by averaging the RCA). Please see the sources tab for a more detailed explanation.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "ECI+ (Observatory of Economic Complexity (2016))",
+            "type": "any",
+            "description": "The ECI+ measures the total exports of an economy corrected by how difficult it is to export each product. Please see the sources tab for a more detailed explanation.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Economic Complexity Index (ECI) (Atlas of Economic Complexity (2016))",
+            "type": "any",
+            "description": "The ECI is a measure of the relative knowledge intensity of an economy. ECI measures the knowledge intensity of an economy by considering the knowledge intensity of the products it exports. The ECI country ranking uses HS4 exports data, using the Bustos- Yildirim Method in its data cleaning. Please see the sources tab for a more detailed explanation.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "OEC ECI Ranking (Observatory of Economic Complexity (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Atlas of Economic Complexity ECI Ranking (Atlas of Economic Complexity (2016))",
+            "type": "any",
+            "description": "ECI ranking based on data by the Harvard's Atlas of Economic Complexity. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
