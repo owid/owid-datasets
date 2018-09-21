@@ -1,0 +1,42 @@
+{
+  "name": "Nuclear Weapons Testing - Oklahoma Geological Survey Observatory",
+  "title": "Nuclear Weapons Testing - Oklahoma Geological Survey Observatory",
+  "id": 121,
+  "description": "Number of nuclear weapons tests by country",
+  "sources": [
+    {
+      "name": "Oklahoma Geological Survey Observatory",
+      "dataPublishedBy": "Oklahoma Geological Survey Observatory",
+      "dataPublisherSource": "Oklahoma Geological Survey Observatory",
+      "link": "http://www.okgeosurvey1.gov/level2/nuke.cat.html",
+      "retrievedDate": "09/08/2015",
+      "additionalInfo": "Number of nuclear weapons tests by country"
+    }
+  ],
+  "owidTags": [
+    "Nuclear Weapons"
+  ],
+  "resources": [
+    {
+      "path": "Nuclear Weapons Testing - Oklahoma Geological Survey Observatory.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Nuclear weapons test (Oklahoma Geological Survey Observatory)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
