@@ -1,0 +1,42 @@
+{
+  "name": "Health provider absence rates - Chaudhury, Hammer, Kremer, Muralidharan, and Rogers (2006)",
+  "title": "Health provider absence rates - Chaudhury, Hammer, Kremer, Muralidharan, and Rogers (2006)",
+  "id": 2784,
+  "description": "Authors' note: \"Absence data are based on direct physical verification of the provider's presence, rather than attendance logbooks or interviews with the faculty head.\" For the original data, see table 1 in the linked paper.\n\nThe majority of this fieldwork was carried out between October 2002 and April 2003. See the source link for further information on the collection of absence data.",
+  "sources": [
+    {
+      "name": "Chaudhury, Hammer, Kremer, Muralidharan, and Rogers (2006), Missing in Action: Teacher and Health Worker Absence in Developing Countries",
+      "dataPublishedBy": "Chaudhury, N., Hammer, J., Kremer, M., Muralidharan, K. and Rogers, F.H., 2006. Missing in action: teacher and health worker absence in developing countries. Journal of Economic perspectives, 20(1), pp.91-116.",
+      "dataPublisherSource": "Surveys",
+      "link": "https://pubs.aeaweb.org/doi/pdfplus/10.1257/089533006776526058",
+      "retrievedDate": "07/05/2018",
+      "additionalInfo": "Authors' note: \"Absence data are based on direct physical verification of the provider's presence, rather than attendance logbooks or interviews with the faculty head.\" For the original data, see table 1 in the linked paper.\n\nThe majority of this fieldwork was carried out between October 2002 and April 2003. See the source link for further information on the collection of absence data."
+    }
+  ],
+  "owidTags": [
+    "Labor Force Participation"
+  ],
+  "resources": [
+    {
+      "path": "Health provider absence rates - Chaudhury, Hammer, Kremer, Muralidharan, and Rogers (2006).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Health provider absence rate (%) (Chaudhury, Hammer, Kremer, Muralidharan, and Rogers (2006))",
+            "type": "any",
+            "description": "Providers were counted as absent if they could not be found in the primary health centers for any reason at the time of a random unannounced spot check (see source for further detail)",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
