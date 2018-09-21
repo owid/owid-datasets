@@ -1,0 +1,65 @@
+{
+  "name": "Educational Outcomes – Hanushek and Woessmann (2012)",
+  "title": "Educational Outcomes – Hanushek and Woessmann (2012)",
+  "id": 963,
+  "description": "Hanushek, E. A. and Woessmann, L. (2012) – Do better school lead to more growth? Cognitive skills, economic outcomes, and causation. In Journal of Economic Growth, 17, 267–321. The paper is available on Eric Hanushek's website and at the journal's site. \r\n\r\nThe authors standardized the scores to the PISA test scale but divided the score then by 100. The PISA test scale has a mean of 500 and a standard deviation of 100. \r\n\r\nThe test scores are not given for a particular year, but instead are the average of all standardized math and science test scores of the international student achievement tests in which that country participated. The first of which is from 1964 and the last is from 2003 – but in general most results come from the later period.",
+  "sources": [
+    {
+      "name": "Hanushek and Woessmann (2012)",
+      "dataPublishedBy": "Hanushek and Woessmann (2012) – see below for the reference",
+      "dataPublisherSource": "The data was constructed by the authors based on several student assessments. See the paper for details.",
+      "link": null,
+      "retrievedDate": "2017, October 10",
+      "additionalInfo": "Hanushek, E. A. and Woessmann, L. (2012) – Do better school lead to more growth? Cognitive skills, economic outcomes, and causation. In Journal of Economic Growth, 17, 267–321. The paper is available on Eric Hanushek's website and at the journal's site. \r\n\r\nThe authors standardized the scores to the PISA test scale but divided the score then by 100. The PISA test scale has a mean of 500 and a standard deviation of 100. \r\n\r\nThe test scores are not given for a particular year, but instead are the average of all standardized math and science test scores of the international student achievement tests in which that country participated. The first of which is from 1964 and the last is from 2003 – but in general most results come from the later period."
+    }
+  ],
+  "owidTags": [
+    "Quality of Education & Drop-Out Rates"
+  ],
+  "resources": [
+    {
+      "path": "Educational Outcomes – Hanushek and Woessmann (2012).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Average test score in math and science, primary through end of secondary school",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "conversionFactor": 100
+            }
+          },
+          {
+            "name": "Average test score in math and science, only lower secondary",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of students reaching basic literacy (based on average test scores in math and science, primary through end of secondary school)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of top-performing students (based on average test scores in math and science, primary through end of secondary school)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "conversionFactor": 100
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
