@@ -1,0 +1,42 @@
+{
+  "name": "Number of observations in Povcal per decade - OWID (2017)",
+  "title": "Number of observations in Povcal per decade - OWID (2017)",
+  "id": 293,
+  "description": "This is the number of available surveys with data on poverty measures in Povcal by decade. 2014 refers to the available surveys in the period 2005-2014; 2004 refers to 1995-2004; 1994 refers to 1985-1994.\r\n\r\nThe idea for this measure is inspired by Serajuddin, Uematsu, Wieser, Yoshida, and Dabalen (2015) – ‘Data deprivation: another deprivation to end’, World Bank Policy Research Working Paper no. WPS 7252",
+  "sources": [
+    {
+      "name": "Number of survey observations in Povcal per decade - OWID (2017)",
+      "dataPublishedBy": "Our World in Data team's own calculation based on Povcal by the World Bank",
+      "dataPublisherSource": null,
+      "link": "http://iresearch.worldbank.org/PovcalNet/",
+      "retrievedDate": "09/02/2017",
+      "additionalInfo": "This is the number of available surveys with data on poverty measures in Povcal by decade. 2014 refers to the available surveys in the period 2005-2014; 2004 refers to 1995-2004; 1994 refers to 1985-1994.\r\n\r\nThe idea for this measure is inspired by Serajuddin, Uematsu, Wieser, Yoshida, and Dabalen (2015) – ‘Data deprivation: another deprivation to end’, World Bank Policy Research Working Paper no. WPS 7252"
+    }
+  ],
+  "owidTags": [
+    "World Poverty"
+  ],
+  "resources": [
+    {
+      "path": "Number of observations in Povcal per decade - OWID (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Observations in PovcalNet per decade (OWID (2017))",
+            "type": "any",
+            "description": "Number of available surveys with data on poverty measures in PovcalNet by decade.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
