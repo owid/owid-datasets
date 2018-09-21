@@ -1,0 +1,3 @@
+# Swedish Historical National Accounts - Schön and Krantz (2007, 2012, 2015)
+
+The source notes: "One should note that present time levels of GDP and sector value added in these series differ from data in contemporary official national accounts. It is natural that a number of shifts and redefinitions are performed in contemporary statistics in relation to structural and technological changes, but it is also reasonable that levels in the short contemporary series are adjusted to the long historical series rather than the other way around. "
