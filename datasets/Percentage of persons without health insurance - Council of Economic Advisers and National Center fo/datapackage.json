@@ -1,0 +1,42 @@
+{
+  "name": "Percentage of persons without health insurance - Council of Economic Advisers and National Center for Health Statistics",
+  "title": "Percentage of persons without health insurance - Council of Economic Advisers and National Center for Health Statistics",
+  "id": 2970,
+  "description": "For 1978-2015, both CEA and NCHS relied on historical data from the National Health Interview Survey (NHIS).  For years prior to 1978 CEA estimated the overall uninsured rate by combining information from the NHIS on trends in private coverage, with administrative data on Medicare and Medicaid enrollment during those years. See the links above for further details.",
+  "sources": [
+    {
+      "name": "Council of Economic Advisers and National Center for Health Statistics",
+      "dataPublishedBy": "(i) 1963-2013, Council of Economic Advisers; (ii) 2014-2015, National Center for Health Statistics",
+      "dataPublisherSource": null,
+      "link": "(i)https://www.whitehouse.gov/sites/default/files/docs/longtermhealthinsuranceseriesmethodologyfinal.pdf.(ii) http://www.cdc.gov/nchs/data/nhis/earlyrelease/earlyrelease201605_01.pdf",
+      "retrievedDate": "19/07/2016",
+      "additionalInfo": "For 1978-2015, both CEA and NCHS relied on historical data from the National Health Interview Survey (NHIS).  For years prior to 1978 CEA estimated the overall uninsured rate by combining information from the NHIS on trends in private coverage, with administrative data on Medicare and Medicaid enrollment during those years. See the links above for further details."
+    }
+  ],
+  "owidTags": [
+    "Health Insurance & Spending"
+  ],
+  "resources": [
+    {
+      "path": "Percentage of persons without health insurance - Council of Economic Advisers and National Center for Health Statistics.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Percentage of persons without health insurance (%)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}

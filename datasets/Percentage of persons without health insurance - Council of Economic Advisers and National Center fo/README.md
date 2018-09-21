@@ -1,0 +1,3 @@
+# Percentage of persons without health insurance - Council of Economic Advisers and National Center for Health Statistics
+
+For 1978-2015, both CEA and NCHS relied on historical data from the National Health Interview Survey (NHIS).  For years prior to 1978 CEA estimated the overall uninsured rate by combining information from the NHIS on trends in private coverage, with administrative data on Medicare and Medicaid enrollment during those years. See the links above for further details.
