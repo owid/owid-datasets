@@ -1,0 +1,44 @@
+{
+  "name": "World Bank Economy & Growth - World Bank EdStats (2015)",
+  "title": "World Bank Economy & Growth - World Bank EdStats (2015)",
+  "id": 88,
+  "description": "Educational attainment, enrolment and expenditure data",
+  "sources": [
+    {
+      "name": "World Bank EdStats (2015)",
+      "dataPublishedBy": "World Bank EdStats",
+      "dataPublisherSource": "UNESCO Institute for Statistics",
+      "link": "http://data.worldbank.org/",
+      "retrievedDate": "08/10/2015",
+      "additionalInfo": "Educational attainment, enrolment and expenditure data"
+    }
+  ],
+  "owidTags": [
+    "GDP Data"
+  ],
+  "resources": [
+    {
+      "path": "World Bank Economy & Growth - World Bank EdStats (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "GDP per capita in current USD, 1960-2014 (World Bank EdStats (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
