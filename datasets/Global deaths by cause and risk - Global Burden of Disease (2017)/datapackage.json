@@ -1,0 +1,243 @@
+{
+  "name": "Global deaths by cause and risk - Global Burden of Disease (2017)",
+  "title": "Global deaths by cause and risk - Global Burden of Disease (2017)",
+  "id": 988,
+  "description": "The Global Burden of Disease (GBD) database reports the absolute number of deaths across mortality cause and risk factors for any given year.\r\nIt is important to understand the distinction between risk factors and causes of deaths. Causes of deaths are defined by the OECD as: \"the underlying cause of death refers to the disease or injury that initiated the train of morbid events leading directly to death or the circumstances of the accident or violence that produced the injury.\" Causes of deaths therefore include particular events such as road accidents, natural disasters, drowning, HIV/AIDS, and non-communicable diseases such as diabetes, and various cancers.\r\nRisk factors are particular behaviors or lifestyle factors which affect the probability of incidence of particular diseases and causes of death. For example, tobacco smoking is a risk factor which increases the probability of lung cancer. In this case, it is not tobacco smoking in itself which is the cause of death, but the increased incidence of lung cancer.\r\nIn order to identify and highlight the specific behaviours, lifestyle factors - and thereby the potential intervention points for prevention of mortality - this data presents a mix of causes of death and risk factors. Many of the variables are straightforward causes of death - such as road accidents, drowning, fire, malaria, terrorism fatalities. However, for non-communicable diseases such as stroke, cancer, diabetes, which can form a complex combination of preceding behaviour and lifestyle factors we have instead presented the IHME's attributed figures by risk factors, including high blood pressure, obesity, high blood sugar & tobacco smoking. Identification of these factors is more conducive to highlighting the specific behaviours or preventative factors which can be addressed in order to improve health outcomes and reduce mortality rates.\r\nCauses and risk factors are further clarified as follows:\r\n'Outdoor air pollution' refers to outdoor/ambient exposure to particulate matter (PM) and ozone.\r\n'Drug use' refers to the use of cannabis, opioids, or amphetamines, or use of injecting drugs [does not include tobacco or alcohol]. This is distinguished from 'drug disorders' which refers to direct death as a result of drug dependence and drug abuse.\r\n'Alcohol disorders' refers to death as a result of alcohol dependence and alcohol abuse; this is distinguishable from 'alcohol use', which is premature death as a result of general alcohol consumption which is linked to increased risk of certain diseases.\r\n'Road accidents' includes deaths from all road vehicles, including drivers, passengers, pedestrians and cyclists.\r\n\r\n'Nutritional deficiencies' are defined as protein-energy malnutrition, iodine, vitamin-A, and iron deficiency.\r\n\r\n\r\n",
+  "sources": [
+    {
+      "name": "Global deaths by cause and risk - Global Burden of Disease (2017)",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2016 (GBD 2016) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2017.",
+      "dataPublisherSource": "Census data.",
+      "link": "http://ghdx.healthdata.org/gbd-results-tool",
+      "retrievedDate": "2017-10-24",
+      "additionalInfo": "The Global Burden of Disease (GBD) database reports the absolute number of deaths across mortality cause and risk factors for any given year.\r\nIt is important to understand the distinction between risk factors and causes of deaths. Causes of deaths are defined by the OECD as: \"the underlying cause of death refers to the disease or injury that initiated the train of morbid events leading directly to death or the circumstances of the accident or violence that produced the injury.\" Causes of deaths therefore include particular events such as road accidents, natural disasters, drowning, HIV/AIDS, and non-communicable diseases such as diabetes, and various cancers.\r\nRisk factors are particular behaviors or lifestyle factors which affect the probability of incidence of particular diseases and causes of death. For example, tobacco smoking is a risk factor which increases the probability of lung cancer. In this case, it is not tobacco smoking in itself which is the cause of death, but the increased incidence of lung cancer.\r\nIn order to identify and highlight the specific behaviours, lifestyle factors - and thereby the potential intervention points for prevention of mortality - this data presents a mix of causes of death and risk factors. Many of the variables are straightforward causes of death - such as road accidents, drowning, fire, malaria, terrorism fatalities. However, for non-communicable diseases such as stroke, cancer, diabetes, which can form a complex combination of preceding behaviour and lifestyle factors we have instead presented the IHME's attributed figures by risk factors, including high blood pressure, obesity, high blood sugar & tobacco smoking. Identification of these factors is more conducive to highlighting the specific behaviours or preventative factors which can be addressed in order to improve health outcomes and reduce mortality rates.\r\nCauses and risk factors are further clarified as follows:\r\n'Outdoor air pollution' refers to outdoor/ambient exposure to particulate matter (PM) and ozone.\r\n'Drug use' refers to the use of cannabis, opioids, or amphetamines, or use of injecting drugs [does not include tobacco or alcohol]. This is distinguished from 'drug disorders' which refers to direct death as a result of drug dependence and drug abuse.\r\n'Alcohol disorders' refers to death as a result of alcohol dependence and alcohol abuse; this is distinguishable from 'alcohol use', which is premature death as a result of general alcohol consumption which is linked to increased risk of certain diseases.\r\n'Road accidents' includes deaths from all road vehicles, including drivers, passengers, pedestrians and cyclists.\r\n\r\n'Nutritional deficiencies' are defined as protein-energy malnutrition, iodine, vitamin-A, and iron deficiency.\r\n\r\n\r\n"
+    }
+  ],
+  "owidTags": [
+    "Causes of Death"
+  ],
+  "resources": [
+    {
+      "path": "Global deaths by cause and risk - Global Burden of Disease (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Alcohol use",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Outdoor air pollution",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Malnutrition (child & maternal)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "name": "Protein-energy malnutrition",
+              "unit": "deaths"
+            }
+          },
+          {
+            "name": "Diet",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Drug use",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Obesity (high BMI)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "High blood sugar",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "High blood pressure",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "High cholesterol",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Household air pollution",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Impaired kidney function",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Low bone mineral density",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Secondhand smoke",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Tobacco smoking",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Under-5 mortality",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Alcohol disorder",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Diarrheal diseases",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Drowning",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Drug disorder",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Natural disasters",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Ebola",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Heat-related deaths (hot or cold exposure)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fire",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "HIV/AIDS",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Homicide",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Malaria",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Maternal deaths",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Neonatal deaths",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Nutritional deficiencies",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Road accidents",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Suicide",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Tuberculosis",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Physical inactivity",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Low fruit & veg intake",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
