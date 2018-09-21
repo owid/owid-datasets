@@ -1,0 +1,42 @@
+{
+  "name": "Significant volcanic eruptions (NGDC-WDS)",
+  "title": "Significant volcanic eruptions (NGDC-WDS)",
+  "id": 2960,
+  "description": "The Significant Volcanic Eruption Database is a global listing of over 500 significant eruptions which includes information on the latitude, longitude, elevation, type of volcano, and last known eruption. A significant eruption is classified as one that meets at least one of the following criteria: caused fatalities, caused moderate damage (approximately $1 million or more), with a Volcanic Explosivity Index (VEI) of 6 or larger, caused a tsunami, or was associated with a major earthquake.\n\nNote that since this data is very long-term it's expected that most recent data on eruptions will be the most complete than long historic events.",
+  "sources": [
+    {
+      "name": "Significant volcanic eruptions (NGDC-WDS)",
+      "dataPublishedBy": "National Geophysical Data Center / World Data Service (NGDC/WDS): Significant Volcanic Eruptions Database. National Geophysical Data Center, NOAA.",
+      "dataPublisherSource": null,
+      "link": "https://www.ngdc.noaa.gov/nndc/servlet/ShowDatasets?dataset=102557&search_look=50&display_look=50",
+      "retrievedDate": "19th September 2018",
+      "additionalInfo": "The Significant Volcanic Eruption Database is a global listing of over 500 significant eruptions which includes information on the latitude, longitude, elevation, type of volcano, and last known eruption. A significant eruption is classified as one that meets at least one of the following criteria: caused fatalities, caused moderate damage (approximately $1 million or more), with a Volcanic Explosivity Index (VEI) of 6 or larger, caused a tsunami, or was associated with a major earthquake.\n\nNote that since this data is very long-term it's expected that most recent data on eruptions will be the most complete than long historic events."
+    }
+  ],
+  "owidTags": [
+    "Natural Catastrophes"
+  ],
+  "resources": [
+    {
+      "path": "Significant volcanic eruptions (NGDC-WDS).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of significant volcanic eruptions (NGDC-WDS)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
