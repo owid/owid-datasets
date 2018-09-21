@@ -1,0 +1,42 @@
+{
+  "name": "Human Rights Protection Scores – Christopher Farris (2014) and Keith Schnakenberg",
+  "title": "Human Rights Protection Scores – Christopher Farris (2014) and Keith Schnakenberg",
+  "id": 241,
+  "description": "This dataset is based on Farris and Schnakenberg's (2014). They use an econometric model for estimating ‘latent' human rights.\n\nThe authors aggregate multiple types of abuse into one scale. These are coded from CIRI data and are split into four items including disappearances, extrajudicial killing, political imprisonment, and torture (see Table 1 for further information [here] . This data is fed into their model, and gives a range of parameter estimates around -3 and 3, where a higher score indicates more respect for human rights (and vice versa).\n\nFor further details on the model and background see: \nhttp://cfariss.com/documents/SchnakenbergFariss2014PSRM.pdf\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=2358014&download=yes.\n\nThe original dataset includes the country ids 666.001, 666.002, and 666.003. These correspond to different human rights reports which were produced for distinct areas in Israel (Israel, pre-1967 borders Israel, occupied territories Palestinian Authority). Because of technical limitations they cannot be shown in these visualisations and shown is only the 'Israel' series.",
+  "sources": [
+    {
+      "name": "Human Rights Protection Scores – Christopher Farris (2014) and Keith Schnakenberg",
+      "dataPublishedBy": "These data were published in the following two papers: Christopher J. Fariss. 2014. Respect for Human Rights has Improved Over Time: Modeling the Changing Standard of Accountability. American Political Science Review 108(2):297-318 (May 2014). Supplementary Materials: Keith Schnakenberg and Christopher J. Fariss. 2014. Dynamic Patterns of Human Rights Practices. Political Science Research and Methods 2(1):1-31 (April 2014).",
+      "dataPublisherSource": null,
+      "link": "humanrightsscores.org",
+      "retrievedDate": "6 June 2016. Christopher Farris kindly provided this dataset and shared it with Max Roser via email.",
+      "additionalInfo": "This dataset is based on Farris and Schnakenberg's (2014). They use an econometric model for estimating ‘latent' human rights.\n\nThe authors aggregate multiple types of abuse into one scale. These are coded from CIRI data and are split into four items including disappearances, extrajudicial killing, political imprisonment, and torture (see Table 1 for further information [here] . This data is fed into their model, and gives a range of parameter estimates around -3 and 3, where a higher score indicates more respect for human rights (and vice versa).\n\nFor further details on the model and background see: \nhttp://cfariss.com/documents/SchnakenbergFariss2014PSRM.pdf\nhttps://papers.ssrn.com/sol3/papers.cfm?abstract_id=2358014&download=yes.\n\nThe original dataset includes the country ids 666.001, 666.002, and 666.003. These correspond to different human rights reports which were produced for distinct areas in Israel (Israel, pre-1967 borders Israel, occupied territories Palestinian Authority). Because of technical limitations they cannot be shown in these visualisations and shown is only the 'Israel' series."
+    }
+  ],
+  "owidTags": [
+    "Human Rights"
+  ],
+  "resources": [
+    {
+      "path": "Human Rights Protection Scores – Christopher Farris (2014) and Keith Schnakenberg.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "xHuman Rights Protection Scores – by Christopher Farris and Keith Schnakenberg",
+            "type": "any",
+            "description": "The human rights protection scores estimate the respect for human rights. Higher scores indicate more respect for human rights (and vice versa). \n",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
