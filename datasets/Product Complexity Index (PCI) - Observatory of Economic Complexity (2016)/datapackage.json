@@ -1,0 +1,42 @@
+{
+  "name": "Product Complexity Index (PCI) - Observatory of Economic Complexity (2016)",
+  "title": "Product Complexity Index (PCI) - Observatory of Economic Complexity (2016)",
+  "id": 1017,
+  "description": "Duplicates were found for Pottery in 1962 and 1963. The more conservative PCI estimate has been used.",
+  "sources": [
+    {
+      "name": "PCI - Observatory of Economic Complexity (OEC) (2016)",
+      "dataPublishedBy": "MIT Observatory of Economic Complexity (OEC) (2016) ",
+      "dataPublisherSource": "Publicly available trade data. ",
+      "link": "https://atlas.media.mit.edu/en/rankings/product/sitc/?year_range=2011-2016",
+      "retrievedDate": "06/11/2017",
+      "additionalInfo": "Duplicates were found for Pottery in 1962 and 1963. The more conservative PCI estimate has been used."
+    }
+  ],
+  "owidTags": [
+    "Economic Prosperity"
+  ],
+  "resources": [
+    {
+      "path": "Product Complexity Index (PCI) - Observatory of Economic Complexity (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Product complexity index (PCI) SITC classification - OEC (2016)",
+            "type": "any",
+            "description": "The PCI measures the knowledge intensity of a product by considering the knowledge intensity of its exporters.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
