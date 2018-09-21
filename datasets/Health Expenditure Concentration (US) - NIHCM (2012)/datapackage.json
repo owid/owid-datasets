@@ -1,0 +1,53 @@
+{
+  "name": "Health Expenditure Concentration (US) - NIHCM (2012)",
+  "title": "Health Expenditure Concentration (US) - NIHCM (2012)",
+  "id": 206,
+  "description": "",
+  "sources": [
+    {
+      "name": "NIHCM (2012)",
+      "dataPublishedBy": "Schoenman, Julie A. \"The concentration of health care spending.\" NIHCM Foundation Data Brief, National Institute of Health Care Management, Washington, DC (2012)",
+      "dataPublisherSource": "NIHCM using data from the 2009 U.S. Medical Expenditure Panel Survey",
+      "link": "https://www.nihcm.org/pdf/DataBrief3%20Final.pdf",
+      "retrievedDate": "15/11/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Health Inequality"
+  ],
+  "resources": [
+    {
+      "path": "Health Expenditure Concentration (US) - NIHCM (2012).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Cumulative Healthcare Spending (NIHCM (2012))",
+            "type": "any",
+            "description": "Cumulative Healthcare Spending vs Population Ranked by Healthcare Spending",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          },
+          {
+            "name": "Population Ranked by Healthcare Spending (NIHCM (2012))",
+            "type": "any",
+            "description": "Cumulative Healthcare Spending vs Population Ranked by Healthcare Spending",
+            "owidDisplaySettings": {
+              "unit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
