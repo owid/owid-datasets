@@ -1,0 +1,42 @@
+{
+  "name": "Yaws status and number of reported cases - WHO Global Health Observatory (2018)",
+  "title": "Yaws status and number of reported cases - WHO Global Health Observatory (2018)",
+  "id": 2507,
+  "description": "We added the number of reported yaws cases to the status of endemicity dataset for all countries that had reported case numbers. ",
+  "sources": [
+    {
+      "name": "WHO Global Health Observatory (2018)",
+      "dataPublishedBy": "World Health Organization",
+      "dataPublisherSource": "Organization's own data collection",
+      "link": "Number of cases: http://apps.who.int/gho/data/node.imr.NTD_YAWSNUM?lang=en Status of endemicity: http://apps.who.int/gho/data/node.main.NTDYAWSEND?lang=en",
+      "retrievedDate": "10 March 2018",
+      "additionalInfo": "We added the number of reported yaws cases to the status of endemicity dataset for all countries that had reported case numbers. "
+    }
+  ],
+  "owidTags": [
+    "Eradication of Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Yaws status and number of reported cases - WHO Global Health Observatory (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Yaws status (WHO GHO 2018)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
