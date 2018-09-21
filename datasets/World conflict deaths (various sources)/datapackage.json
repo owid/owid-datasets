@@ -1,0 +1,60 @@
+{
+  "name": "World conflict deaths (various sources)",
+  "title": "World conflict deaths (various sources)",
+  "id": 2936,
+  "description": "For more details on the construction and sources of these series, see our data appendix here: [ADD URL...].",
+  "sources": [
+    {
+      "name": "Correlates of War; Conflict Catalogue, PRIO, UCDP",
+      "dataPublishedBy": "Various (see appendix: [ADD URL....])",
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": "September 2018",
+      "additionalInfo": "For more details on the construction and sources of these series, see our data appendix here: [ADD URL...]."
+    }
+  ],
+  "owidTags": [
+    "War and Peace before 1945"
+  ],
+  "resources": [
+    {
+      "path": "World conflict deaths (various sources).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Correlates of War",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Conflict Catalogue – Total",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Conflict Catalogue – Military only",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "PRIO–UCDP",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
