@@ -1,0 +1,65 @@
+{
+  "name": "Political Competition and Participation (How Was Life, OECD (2014))",
+  "title": "Political Competition and Participation (How Was Life, OECD (2014))",
+  "id": 2506,
+  "description": "",
+  "sources": [
+    {
+      "name": "How Was Life, OECD (2014)",
+      "dataPublishedBy": "Clio-Infra",
+      "dataPublisherSource": "Central statistical agencies.",
+      "link": "http://www.oecd.org/statistics/how-was-life-9789264214262-en.htm",
+      "retrievedDate": "10/03/2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Democratisation"
+  ],
+  "resources": [
+    {
+      "path": "Political Competition and Participation (How Was Life, OECD (2014)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Political participation (How Was Life, OECD (2014))",
+            "type": "any",
+            "description": "The share of the adult population who voted in previous elections. ",
+            "owidDisplaySettings": {
+              "unit": "%"
+            }
+          },
+          {
+            "name": "Political competition (How Was Life, OECD (2014))",
+            "type": "any",
+            "description": "Political competition is one minus the share of the winning party's votes in a national election. It provides a measure of the winning party's dominance in the election.",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          },
+          {
+            "name": "Index of Democracy (How Was Life, OECD (2014))",
+            "type": "any",
+            "description": "The Index of Democracy, by Vanhanen, is the product of the participation and the competition indices, divided by 100. Specifically: Index = [(% of the adult population who voted in the elections) * (1 - % of the winning party's votes in a national election)] / 100\n\nIts value is between 0 and 100, with 100 being the maximum theoretically possible level of democracy.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Polity2 (How Was Life, OECD (2014))",
+            "type": "any",
+            "description": "Polity2 is an aggregate measure of the political regimes on a -10 (fully authoritarian) to +10 (fully democratic) scale.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
