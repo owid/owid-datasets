@@ -1,0 +1,54 @@
+{
+  "name": "Unadjusted female-male hourly wage ratios by percentile – Blau, Kahn (2017)",
+  "title": "Unadjusted female-male hourly wage ratios by percentile – Blau, Kahn (2017)",
+  "id": 998,
+  "description": "",
+  "sources": [
+    {
+      "name": "Blau, Kahn (2017)",
+      "dataPublishedBy": "Blau, Francine D., and Lawrence M. Kahn (2017). \"The Gender Wage Gap: Extent, Trends, and Explanations.\" Journal of Economic Literature, 55(3): 789-865.",
+      "dataPublisherSource": "Blau and Kahn's calculations based on data from the PSID (Michigan Panel Study of Income Dynamics)",
+      "link": "http://pubs.aeaweb.org/doi/pdfplus/10.1257/jel.20160995",
+      "retrievedDate": "2017-10-17",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Income Inequality"
+  ],
+  "resources": [
+    {
+      "path": "Unadjusted female-male hourly wage ratios by percentile – Blau, Kahn (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Tenth percentile (Blau, Kahn 2017)",
+            "type": "any",
+            "description": "Unadjusted female-male log hourly wage ratio, full-time workers",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fiftieth percentile (Blau, Kahn 2017)",
+            "type": "any",
+            "description": "Unadjusted female-male log hourly wage ratio, full-time workers",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Ninetieth percentile (Blau, Kahn 2017)",
+            "type": "any",
+            "description": "Unadjusted female-male log hourly wage ratio, full-time workers",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
