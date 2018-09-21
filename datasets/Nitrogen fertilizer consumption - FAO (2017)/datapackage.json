@@ -1,0 +1,42 @@
+{
+  "name": "Nitrogen fertilizer consumption - FAO (2017)",
+  "title": "Nitrogen fertilizer consumption - FAO (2017)",
+  "id": 858,
+  "description": "Data combines two UN FAO datasets related to nitrogen fertilizer consumption: \"Nitrogen Fertilizers - Consumption\" which extends from 2003-2014 and \"Fertilizers Archive - Nitrogenous Fertilizers - Consumption\", which extends from 1961-2002.\n\nData is measured in tonnes of total nutrient consumption.",
+  "sources": [
+    {
+      "name": "Nitrogen fertilizer consumption - FAO (2017)",
+      "dataPublishedBy": "UN Food and Agricultural Organization (FAO)",
+      "dataPublisherSource": null,
+      "link": "http://www.fao.org/faostat/en/#data/RF",
+      "retrievedDate": "06/09/2017",
+      "additionalInfo": "Data combines two UN FAO datasets related to nitrogen fertilizer consumption: \"Nitrogen Fertilizers - Consumption\" which extends from 2003-2014 and \"Fertilizers Archive - Nitrogenous Fertilizers - Consumption\", which extends from 1961-2002.\n\nData is measured in tonnes of total nutrient consumption."
+    }
+  ],
+  "owidTags": [
+    "Fertilizer and Pesticides"
+  ],
+  "resources": [
+    {
+      "path": "Nitrogen fertilizer consumption - FAO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Nitrogen fertilizer consumption (FAO (2017))",
+            "type": "any",
+            "description": "Total nitrogen fertilizer consumption (in tonnes) of total nutrients per year. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
