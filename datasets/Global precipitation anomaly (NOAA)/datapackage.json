@@ -1,0 +1,42 @@
+{
+  "name": "Global precipitation anomaly (NOAA)",
+  "title": "Global precipitation anomaly (NOAA)",
+  "id": 2957,
+  "description": "Data shows global precipitation patterns, based on rainfall and snowfall measurements from land-based weather stations worldwide. \n\nThis indicator shows annual anomalies, or differences, compared with the average precipitation from 1901 to 2000. At each weather station, annual precipitation anomalies were calculated from total annual precipitation in inches. Global anomalies have been determined by dividing the world into a grid, averaging the data for each cell of the grid, and then averaging the grid cells together.",
+  "sources": [
+    {
+      "name": "Global precipitation anomaly (NOAA)",
+      "dataPublishedBy": "United States Environmental Protection Agency (EPA)",
+      "dataPublisherSource": "National Oceanic & Atmospheric Administration (NOAA)",
+      "link": "https://www.epa.gov/climate-indicators/climate-change-indicators-us-and-global-precipitation",
+      "retrievedDate": "19th September 2018",
+      "additionalInfo": "Data shows global precipitation patterns, based on rainfall and snowfall measurements from land-based weather stations worldwide. \n\nThis indicator shows annual anomalies, or differences, compared with the average precipitation from 1901 to 2000. At each weather station, annual precipitation anomalies were calculated from total annual precipitation in inches. Global anomalies have been determined by dividing the world into a grid, averaging the data for each cell of the grid, and then averaging the grid cells together."
+    }
+  ],
+  "owidTags": [
+    "Natural Catastrophes"
+  ],
+  "resources": [
+    {
+      "path": "Global precipitation anomaly (NOAA).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Global precipitation anomaly (inches)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
