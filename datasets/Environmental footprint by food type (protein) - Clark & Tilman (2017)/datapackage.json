@@ -1,0 +1,66 @@
+{
+  "name": "Environmental footprint by food type (protein) - Clark & Tilman (2017)",
+  "title": "Environmental footprint by food type (protein) - Clark & Tilman (2017)",
+  "id": 674,
+  "description": "The figures presented here are given as the environmental footprint per gram of protein across different food types. Here, we show the mean value presented by Clark & Tilman based on their large-scale meta-analysis. Note that some production systems (such as aquaculture systems) can have large standard errors around these mean values based on the production context.",
+  "sources": [
+    {
+      "name": "Environmental footprint by food type (protein) - Clark & Tilman (2017)",
+      "dataPublishedBy": "Clark & Tilman (2017). Comparative analysis of environmental impacts of agricultural production systems, agricultural input efficiency, and food choice. Environmental Research Letters, Volume 12, Number 6.",
+      "dataPublisherSource": "Authors reviewed the life-cycle analysis (LCA) results of 742 agricultural systems and over 90 unique foods produced within different systems.",
+      "link": "http://iopscience.iop.org/article/10.1088/1748-9326/aa6cd5",
+      "retrievedDate": "18/08/2017",
+      "additionalInfo": "The figures presented here are given as the environmental footprint per gram of protein across different food types. Here, we show the mean value presented by Clark & Tilman based on their large-scale meta-analysis. Note that some production systems (such as aquaculture systems) can have large standard errors around these mean values based on the production context."
+    }
+  ],
+  "owidTags": [
+    "Land Use in Agriculture"
+  ],
+  "resources": [
+    {
+      "path": "Environmental footprint by food type (protein) - Clark & Tilman (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Greenhouse Gas Emissions (Clark & Tilman (2017))",
+            "type": "any",
+            "description": "Greenhouse gas emissions measured in gCO₂e per gram of protein. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Land Use (Clark & Tilman (2017))",
+            "type": "any",
+            "description": "Land in use measured in m² per gram of protein. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Energy Use (Clark & Tilman (2017))",
+            "type": "any",
+            "description": "Energy use measured in kilojoules per gram of protein.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Acidification Potential (Clark & Tilman (2017))",
+            "type": "any",
+            "description": "Acidification potential measured in gSO₂e per gram of protein.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Eutrophication Potential (Clark & Tilman (2017))",
+            "type": "any",
+            "description": "Eutrophication potential measured in gPO₄e per gram of protein. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
