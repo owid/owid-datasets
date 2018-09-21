@@ -1,0 +1,44 @@
+{
+  "name": "DALY rate from ambient PM2.5 air pollution - State of Global Air (2017)",
+  "title": "DALY rate from ambient PM2.5 air pollution - State of Global Air (2017)",
+  "id": 383,
+  "description": "",
+  "sources": [
+    {
+      "name": "DALY rate from ambient PM2.5 air pollution - State of Global Air (2017)",
+      "dataPublishedBy": "Health Effects Institute, State of Global Air 2017.",
+      "dataPublisherSource": "Global Burden of Disease Study 2015. IHME, 2016",
+      "link": "www.stateofglobalair.org",
+      "retrievedDate": "07/04/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "DALY rate from ambient PM2.5 air pollution - State of Global Air (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "DALY rate from ambient PM2.5 air pollution (State of Global Air (2017))",
+            "type": "any",
+            "description": "Disability-adjusted life years (DALY) rate from ambient PM2.5 air pollution (per 100,000)",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
