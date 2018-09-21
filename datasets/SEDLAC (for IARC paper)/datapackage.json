@@ -1,0 +1,42 @@
+{
+  "name": "SEDLAC (for IARC paper)",
+  "title": "SEDLAC (for IARC paper)",
+  "id": 2714,
+  "description": "",
+  "sources": [
+    {
+      "name": "SEDLAC",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "SEDLAC (for IARC paper).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Gini - SEDLARC (for IARC paper)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
