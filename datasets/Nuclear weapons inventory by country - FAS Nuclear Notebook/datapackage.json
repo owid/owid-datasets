@@ -1,0 +1,44 @@
+{
+  "name": "Nuclear weapons inventory by country - FAS Nuclear Notebook",
+  "title": "Nuclear weapons inventory by country - FAS Nuclear Notebook",
+  "id": 123,
+  "description": "Nuclear weapons inventory by country",
+  "sources": [
+    {
+      "name": "FAS Nuclear Notebook",
+      "dataPublishedBy": "Federation of American Scientists",
+      "dataPublisherSource": "Hans M. Kristensen and Robert S. Norris",
+      "link": "http://thebulletin.org/nuclear-notebook-multimedia",
+      "retrievedDate": "09/08/2015",
+      "additionalInfo": "Nuclear weapons inventory by country"
+    }
+  ],
+  "owidTags": [
+    "Nuclear Weapons"
+  ],
+  "resources": [
+    {
+      "path": "Nuclear weapons inventory by country - FAS Nuclear Notebook.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Nuclear weapons inventory by country (FAS Nuclear Notebook)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "years"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

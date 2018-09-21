@@ -1,0 +1,561 @@
+Entity,Year,Nuclear weapons inventory by country (FAS Nuclear Notebook)
+China,1945,0
+China,1946,0
+China,1947,0
+China,1948,0
+China,1949,0
+China,1950,0
+China,1951,0
+China,1952,0
+China,1953,0
+China,1954,0
+China,1955,0
+China,1956,0
+China,1957,0
+China,1958,0
+China,1959,0
+China,1960,0
+China,1961,0
+China,1962,0
+China,1963,0
+China,1964,1
+China,1965,5
+China,1966,20
+China,1967,25
+China,1968,35
+China,1969,50
+China,1970,75
+China,1971,100
+China,1972,130
+China,1973,150
+China,1974,170
+China,1975,180
+China,1976,180
+China,1977,180
+China,1978,190
+China,1979,195
+China,1980,205
+China,1981,210
+China,1982,216
+China,1983,218
+China,1984,220
+China,1985,222
+China,1986,224
+China,1987,226
+China,1988,228
+China,1989,230
+China,1990,232
+China,1991,234
+China,1992,234
+China,1993,234
+China,1994,234
+China,1995,234
+China,1996,234
+China,1997,232
+China,1998,232
+China,1999,232
+China,2000,232
+China,2001,235
+China,2002,235
+China,2003,235
+China,2004,235
+China,2005,235
+China,2006,235
+China,2007,235
+China,2008,235
+China,2009,240
+China,2010,240
+China,2011,240
+China,2012,240
+China,2013,250
+China,2014,250
+France,1945,0
+France,1946,0
+France,1947,0
+France,1948,0
+France,1949,0
+France,1950,0
+France,1951,0
+France,1952,0
+France,1953,0
+France,1954,0
+France,1955,0
+France,1956,0
+France,1957,0
+France,1958,0
+France,1959,0
+France,1960,0
+France,1961,0
+France,1962,0
+France,1963,0
+France,1964,4
+France,1965,32
+France,1966,36
+France,1967,36
+France,1968,36
+France,1969,36
+France,1970,36
+France,1971,45
+France,1972,70
+France,1973,116
+France,1974,145
+France,1975,188
+France,1976,212
+France,1977,228
+France,1978,235
+France,1979,235
+France,1980,250
+France,1981,274
+France,1982,274
+France,1983,279
+France,1984,280
+France,1985,360
+France,1986,355
+France,1987,420
+France,1988,410
+France,1989,410
+France,1990,505
+France,1991,540
+France,1992,540
+France,1993,525
+France,1994,510
+France,1995,500
+France,1996,450
+France,1997,450
+France,1998,450
+France,1999,450
+France,2000,470
+France,2001,350
+France,2002,350
+France,2003,350
+France,2004,350
+France,2005,350
+France,2006,350
+France,2007,350
+France,2008,300
+France,2009,300
+France,2010,300
+France,2011,300
+France,2012,300
+France,2013,300
+France,2014,300
+India,1945,0
+India,1946,0
+India,1947,0
+India,1948,0
+India,1949,0
+India,1950,0
+India,1951,0
+India,1952,0
+India,1953,0
+India,1954,0
+India,1955,0
+India,1956,0
+India,1957,0
+India,1958,0
+India,1959,0
+India,1960,0
+India,1961,0
+India,1962,0
+India,1963,0
+India,1964,0
+India,1965,0
+India,1966,0
+India,1967,0
+India,1968,0
+India,1969,0
+India,1970,0
+India,1971,0
+India,1972,0
+India,1973,0
+India,1974,0
+India,1975,0
+India,1976,0
+India,1977,0
+India,1978,0
+India,1979,0
+India,1980,0
+India,1981,0
+India,1982,0
+India,1983,0
+India,1984,0
+India,1985,0
+India,1986,0
+India,1987,0
+India,1988,0
+India,1989,0
+India,1990,0
+India,1991,0
+India,1992,0
+India,1993,0
+India,1994,0
+India,1995,0
+India,1996,0
+India,1997,0
+India,1998,3
+India,1999,8
+India,2000,13
+India,2001,18
+India,2002,23
+India,2003,28
+India,2004,33
+India,2005,38
+India,2006,43
+India,2007,50
+India,2008,60
+India,2009,70
+India,2010,80
+India,2011,90
+India,2012,100
+India,2013,110
+India,2014,110
+Israel,1945,0
+Israel,1946,0
+Israel,1947,0
+Israel,1948,0
+Israel,1949,0
+Israel,1950,0
+Israel,1951,0
+Israel,1952,0
+Israel,1953,0
+Israel,1954,0
+Israel,1955,0
+Israel,1956,0
+Israel,1957,0
+Israel,1958,0
+Israel,1959,0
+Israel,1960,0
+Israel,1961,0
+Israel,1962,0
+Israel,1963,0
+Israel,1964,0
+Israel,1965,0
+Israel,1966,0
+Israel,1967,2
+Israel,1968,4
+Israel,1969,6
+Israel,1970,8
+Israel,1971,11
+Israel,1972,13
+Israel,1973,15
+Israel,1974,17
+Israel,1975,20
+Israel,1976,22
+Israel,1977,24
+Israel,1978,26
+Israel,1979,29
+Israel,1980,31
+Israel,1981,33
+Israel,1982,35
+Israel,1983,38
+Israel,1984,40
+Israel,1985,42
+Israel,1986,44
+Israel,1987,47
+Israel,1988,49
+Israel,1989,51
+Israel,1990,53
+Israel,1991,56
+Israel,1992,58
+Israel,1993,60
+Israel,1994,62
+Israel,1995,63
+Israel,1996,64
+Israel,1997,66
+Israel,1998,68
+Israel,1999,70
+Israel,2000,72
+Israel,2001,74
+Israel,2002,76
+Israel,2003,78
+Israel,2004,80
+Israel,2005,80
+Israel,2006,80
+Israel,2007,80
+Israel,2008,80
+Israel,2009,80
+Israel,2010,80
+Israel,2011,80
+Israel,2012,80
+Israel,2013,80
+Israel,2014,80
+Pakistan,1945,0
+Pakistan,1946,0
+Pakistan,1947,0
+Pakistan,1948,0
+Pakistan,1949,0
+Pakistan,1950,0
+Pakistan,1951,0
+Pakistan,1952,0
+Pakistan,1953,0
+Pakistan,1954,0
+Pakistan,1955,0
+Pakistan,1956,0
+Pakistan,1957,0
+Pakistan,1958,0
+Pakistan,1959,0
+Pakistan,1960,0
+Pakistan,1961,0
+Pakistan,1962,0
+Pakistan,1963,0
+Pakistan,1964,0
+Pakistan,1965,0
+Pakistan,1966,0
+Pakistan,1967,0
+Pakistan,1968,0
+Pakistan,1969,0
+Pakistan,1970,0
+Pakistan,1971,0
+Pakistan,1972,0
+Pakistan,1973,0
+Pakistan,1974,0
+Pakistan,1975,0
+Pakistan,1976,0
+Pakistan,1977,0
+Pakistan,1978,0
+Pakistan,1979,0
+Pakistan,1980,0
+Pakistan,1981,0
+Pakistan,1982,0
+Pakistan,1983,0
+Pakistan,1984,0
+Pakistan,1985,0
+Pakistan,1986,0
+Pakistan,1987,0
+Pakistan,1988,0
+Pakistan,1989,0
+Pakistan,1990,0
+Pakistan,1991,0
+Pakistan,1992,0
+Pakistan,1993,0
+Pakistan,1994,0
+Pakistan,1995,0
+Pakistan,1996,0
+Pakistan,1997,0
+Pakistan,1998,2
+Pakistan,1999,8
+Pakistan,2000,14
+Pakistan,2001,20
+Pakistan,2002,26
+Pakistan,2003,32
+Pakistan,2004,38
+Pakistan,2005,44
+Pakistan,2006,50
+Pakistan,2007,60
+Pakistan,2008,70
+Pakistan,2009,80
+Pakistan,2010,90
+Pakistan,2011,100
+Pakistan,2012,110
+Pakistan,2013,120
+Pakistan,2014,120
+Russia,1945,0
+Russia,1946,0
+Russia,1947,0
+Russia,1948,0
+Russia,1949,1
+Russia,1950,5
+Russia,1951,25
+Russia,1952,50
+Russia,1953,120
+Russia,1954,150
+Russia,1955,200
+Russia,1956,426
+Russia,1957,660
+Russia,1958,863
+Russia,1959,1048
+Russia,1960,1627
+Russia,1961,2492
+Russia,1962,3346
+Russia,1963,4259
+Russia,1964,5242
+Russia,1965,6144
+Russia,1966,7091
+Russia,1967,8400
+Russia,1968,9490
+Russia,1969,10671
+Russia,1970,11736
+Russia,1971,13279
+Russia,1972,14600
+Russia,1973,15878
+Russia,1974,17286
+Russia,1975,19235
+Russia,1976,22165
+Russia,1977,24281
+Russia,1978,26169
+Russia,1979,28258
+Russia,1980,30665
+Russia,1981,32146
+Russia,1982,33486
+Russia,1983,35130
+Russia,1984,36825
+Russia,1985,38582
+Russia,1986,40159
+Russia,1987,38107
+Russia,1988,36538
+Russia,1989,35078
+Russia,1990,32980
+Russia,1991,29154
+Russia,1992,26734
+Russia,1993,24403
+Russia,1994,21339
+Russia,1995,18179
+Russia,1996,15942
+Russia,1997,15442
+Russia,1998,14368
+Russia,1999,13188
+Russia,2000,12188
+Russia,2001,11152
+Russia,2002,10114
+Russia,2003,9076
+Russia,2004,8038
+Russia,2005,7000
+Russia,2006,6643
+Russia,2007,6286
+Russia,2008,5929
+Russia,2009,5527
+Russia,2010,5215
+Russia,2011,4858
+Russia,2012,4500
+Russia,2013,4480
+Russia,2014,4300
+United Kingdom,1945,0
+United Kingdom,1946,0
+United Kingdom,1947,0
+United Kingdom,1948,0
+United Kingdom,1949,0
+United Kingdom,1950,0
+United Kingdom,1951,0
+United Kingdom,1952,0
+United Kingdom,1953,1
+United Kingdom,1954,5
+United Kingdom,1955,10
+United Kingdom,1956,50
+United Kingdom,1957,58
+United Kingdom,1958,60
+United Kingdom,1959,78
+United Kingdom,1960,105
+United Kingdom,1961,155
+United Kingdom,1962,211
+United Kingdom,1963,256
+United Kingdom,1964,271
+United Kingdom,1965,271
+United Kingdom,1966,281
+United Kingdom,1967,355
+United Kingdom,1968,317
+United Kingdom,1969,306
+United Kingdom,1970,375
+United Kingdom,1971,412
+United Kingdom,1972,423
+United Kingdom,1973,500
+United Kingdom,1974,500
+United Kingdom,1975,500
+United Kingdom,1976,500
+United Kingdom,1977,500
+United Kingdom,1978,500
+United Kingdom,1979,500
+United Kingdom,1980,500
+United Kingdom,1981,500
+United Kingdom,1982,385
+United Kingdom,1983,380
+United Kingdom,1984,350
+United Kingdom,1985,350
+United Kingdom,1986,350
+United Kingdom,1987,350
+United Kingdom,1988,350
+United Kingdom,1989,350
+United Kingdom,1990,350
+United Kingdom,1991,350
+United Kingdom,1992,250
+United Kingdom,1993,250
+United Kingdom,1994,250
+United Kingdom,1995,234
+United Kingdom,1996,203
+United Kingdom,1997,203
+United Kingdom,1998,240
+United Kingdom,1999,240
+United Kingdom,2000,280
+United Kingdom,2001,280
+United Kingdom,2002,280
+United Kingdom,2003,280
+United Kingdom,2004,280
+United Kingdom,2005,280
+United Kingdom,2006,225
+United Kingdom,2007,225
+United Kingdom,2008,225
+United Kingdom,2009,225
+United Kingdom,2010,225
+United Kingdom,2011,225
+United Kingdom,2012,225
+United Kingdom,2013,225
+United Kingdom,2014,225
+United States,1945,2
+United States,1946,9
+United States,1947,13
+United States,1948,50
+United States,1949,170
+United States,1950,299
+United States,1951,438
+United States,1952,841
+United States,1953,1169
+United States,1954,1703
+United States,1955,2422
+United States,1956,3692
+United States,1957,5543
+United States,1958,7345
+United States,1959,12298
+United States,1960,18638
+United States,1961,22229
+United States,1962,25540
+United States,1963,28133
+United States,1964,29463
+United States,1965,31139
+United States,1966,31175
+United States,1967,31255
+United States,1968,29561
+United States,1969,27552
+United States,1970,26008
+United States,1971,25830
+United States,1972,26516
+United States,1973,27835
+United States,1974,28537
+United States,1975,27519
+United States,1976,25914
+United States,1977,25542
+United States,1978,24418
+United States,1979,24138
+United States,1980,24104
+United States,1981,23208
+United States,1982,22886
+United States,1983,23305
+United States,1984,23459
+United States,1985,23368
+United States,1986,23317
+United States,1987,23575
+United States,1988,23205
+United States,1989,22217
+United States,1990,21392
+United States,1991,19008
+United States,1992,13708
+United States,1993,11511
+United States,1994,10979
+United States,1995,10904
+United States,1996,11011
+United States,1997,10903
+United States,1998,10732
+United States,1999,10685
+United States,2000,10577
+United States,2001,10526
+United States,2002,10457
+United States,2003,10027
+United States,2004,8570
+United States,2005,8360
+United States,2006,7853
+United States,2007,5709
+United States,2008,5273
+United States,2009,5113
+United States,2010,4950
+United States,2011,4763
+United States,2012,4680
+United States,2013,4650
+United States,2014,4760
