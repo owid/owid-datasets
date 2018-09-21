@@ -1,0 +1,144 @@
+{
+  "name": "Time spent, participation time, and participation rates - Eurostat",
+  "title": "Time spent, participation time, and participation rates - Eurostat",
+  "id": 2826,
+  "description": "This Eurostat data set measures the time spent, participation time, and participation rate in 55 activities. \n\nFor the purposes of illustrating how time use has changed over time, we have aggregated the 55 activities under six main headings provided in the original Eurostat source. The six headings are (1) Personal care; (2) Employment, related activities, and travel; (3) Study; (4) Household and family care; (5) Leisure, social, and associative life; and (6) Travel and unspecified time use. The data has been normalised to 1440 minutes per day. \n\nThe survey population includes private participants only - individuals living in institutions (nursing homes, homes for the elderly, children’s homes, rehabilitation centres and penitentiary) are excluded. For further information on the time use surveys see: http://ec.europa.eu/eurostat/cache/metadata/en/tus_esms.htm",
+  "sources": [
+    {
+      "name": "Eurostat",
+      "dataPublishedBy": "Eurostat",
+      "dataPublisherSource": "Time use surveys, Harmonised European Time Use Surveys (HETUS) Wave 1 (2000) and Wave 2 (2010)",
+      "link": "http://ec.europa.eu/eurostat/data/database?node_code=tus_00npaywork# Dataset: tus_00age",
+      "retrievedDate": "28/06/2018",
+      "additionalInfo": "This Eurostat data set measures the time spent, participation time, and participation rate in 55 activities. \n\nFor the purposes of illustrating how time use has changed over time, we have aggregated the 55 activities under six main headings provided in the original Eurostat source. The six headings are (1) Personal care; (2) Employment, related activities, and travel; (3) Study; (4) Household and family care; (5) Leisure, social, and associative life; and (6) Travel and unspecified time use. The data has been normalised to 1440 minutes per day. \n\nThe survey population includes private participants only - individuals living in institutions (nursing homes, homes for the elderly, children’s homes, rehabilitation centres and penitentiary) are excluded. For further information on the time use surveys see: http://ec.europa.eu/eurostat/cache/metadata/en/tus_esms.htm"
+    }
+  ],
+  "owidTags": [
+    "Working Hours"
+  ],
+  "resources": [
+    {
+      "path": "Time spent, participation time, and participation rates - Eurostat.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Time spent on personal care (Eurostat)",
+            "type": "any",
+            "description": "Measures the average time spent on personal care by all individuals. Personal care includes sleep, eating, and other unspecified personal care activities.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent in employment (Eurostat)",
+            "type": "any",
+            "description": "Measures the average time spent in employment by all individuals. Employment includes time spent in one's main and second job and related travel, and activities related to employment and unspecified employment.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent in study (Eurostat)",
+            "type": "any",
+            "description": "Measures the average time spent in study by all individuals. Study includes school, university, homework, and free time study. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent on household and family care (Eurostat)",
+            "type": "any",
+            "description": "Measures the average time spent on household and family care by all individuals. Household and family care activities include food management, dish washing, cleaning dwelling, household upkeep, laundry, ironing, handicraft and producing textiles and other care for textiles, gardening, tending domestic animals, pet care, walking the dog, construction and repairs, shopping and services, childcare, and helping family members. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent on leisure, social, and associative life (Eurostat)",
+            "type": "any",
+            "description": "Measures the average time spent on leisure, social, and associative life by all individuals. Activities include organisational work, informal help to other households, participatory activities, visiting and feasts, social life, entertainment and culture, resting, walking and hiking, sport and outdoor activities, computer games, computing, hobbies and games, reading, TV and video, radio and music, and unspecified leisure.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Time spent on travel (Eurostat)",
+            "type": "any",
+            "description": "Measures the average time spent on travel. Travel includes travel to and from work, travel related to study, travel related to shopping and services, transporting a child, travel related to other household purposes, travel related to leisure, social, and associative life, unspecified travel, and unspecified time use. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Participation time in personal care (Eurostat)",
+            "type": "any",
+            "description": "Measures the average time spent in activities by individuals who took part in personal care activities. Personal care includes sleep, eating, and other unspecified personal care activities.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Participation time in employment (Eurostat)",
+            "type": "any",
+            "description": "Measures the average time spent in activities by individuals who took part in employment activities. Employment includes time spent in one's main and second job and related travel, and activities related to employment and unspecified employment.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Participation time in study (Eurostat)",
+            "type": "any",
+            "description": "Measures the average time spent in activities by individuals who took part in study activities. Study includes school, university, homework, and free time study. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Participation time in household and family care (Eurostat)",
+            "type": "any",
+            "description": "Measures the average time spent in activities by individuals who took part in household and family care activities. Household and family care activities include food management, dish washing, cleaning dwelling, household upkeep, laundry, ironing, handicraft and producing textiles and other care for textiles, gardening, tending domestic animals, pet care, walking the dog, construction and repairs, shopping and services, childcare, and helping family members. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Participation time in leisure, social, and associative life (Eurostat)",
+            "type": "any",
+            "description": "Measures the average time spent in activities by individuals who took part in leisure, social, and associative life activities. Activities include organisational work, informal help to other households, participatory activities, visiting and feasts, social life, entertainment and culture, resting, walking and hiking, sport and outdoor activities, computer games, computing, hobbies and games, reading, TV and video, radio and music, and unspecified leisure.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Participation time in travel (Eurostat)",
+            "type": "any",
+            "description": "Measures the average time spent in activities by individuals who took part in travel activities. Travel includes travel to and from work, travel related to study, travel related to shopping and services, transporting a child, travel related to other household purposes, travel related to leisure, social, and associative life, unspecified travel, and unspecified time use. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Participation rate in personal care (Eurostat) ",
+            "type": "any",
+            "description": "The proportion of individuals that spent some time in personal care activities. Personal care includes sleep, eating, and other unspecified personal care activities.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Participation rate in employment (Eurostat)",
+            "type": "any",
+            "description": "The proportion of individuals that spent some time in employment activities. Employment includes time spent in one's main and second job and related travel, and activities related to employment and unspecified employment.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Participation rate in study (Eurostat)",
+            "type": "any",
+            "description": "The proportion of individuals that spent some time in study activities. Study includes school, university, homework, and free time study. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Participation rate in household and family care (Eurostat)",
+            "type": "any",
+            "description": "The proportion of individuals that spent some time in household and family care activities. Household and family care activities include food management, dish washing, cleaning dwelling, household upkeep, laundry, ironing, handicraft and producing textiles and other care for textiles, gardening, tending domestic animals, pet care, walking the dog, construction and repairs, shopping and services, childcare, and helping family members. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Participation rate in leisure, social, and associative life activities (Eurostat)",
+            "type": "any",
+            "description": "The proportion of individuals that spent some time in leisure, social, and associative life activities. Activities include organisational work, informal help to other households, participatory activities, visiting and feasts, social life, entertainment and culture, resting, walking and hiking, sport and outdoor activities, computer games, computing, hobbies and games, reading, TV and video, radio and music, and unspecified leisure.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Participation rate in travel (Eurostat)",
+            "type": "any",
+            "description": "The proportion of individuals that spent some time in travel activities.  Travel includes travel to and from work, travel related to study, travel related to shopping and services, transporting a child, travel related to other household purposes, travel related to leisure, social, and associative life, unspecified travel, and unspecified time use. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
