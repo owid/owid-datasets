@@ -1,0 +1,120 @@
+{
+  "name": "Production Value by Industry (KZ)",
+  "title": "Production Value by Industry (KZ)",
+  "id": 1838,
+  "description": "",
+  "sources": [
+    {
+      "name": "Production Value by Industry (KZ)",
+      "dataPublishedBy": "Agency of the Republic of Kazakhstan on Statistics",
+      "dataPublisherSource": null,
+      "link": "http://www.stat.gov.kz/",
+      "retrievedDate": "26-November-2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Goods"
+  ],
+  "resources": [
+    {
+      "path": "Production Value by Industry (KZ).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Food",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Beverage",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Tobacco",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Light industry",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Manufacture of wooden products, except furniture",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Manufacture of chemical products",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Manufacture of other non-metallic mineral products",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Metallurgical industry",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Manufacture of finished metal products, except machinery and equipment",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Manufacture of computers, electronic and optical products",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Manufacture of machinery and equipment",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Manufacture of motor vehicles, trailers and semitrailers",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Manufacture of other vehicles",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Manufacture of furniture",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
