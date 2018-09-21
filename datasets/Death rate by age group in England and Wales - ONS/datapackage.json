@@ -1,0 +1,144 @@
+{
+  "name": "Death rate by age group in England and Wales - ONS",
+  "title": "Death rate by age group in England and Wales - ONS",
+  "id": 1934,
+  "description": "Death rates in England and Wales by age group, measured as the number of deaths from all causes per 1,000 individuals per age bracket.",
+  "sources": [
+    {
+      "name": "Death rate by age group in England and Wales - ONS",
+      "dataPublishedBy": "Office for National Statistics (ONS)",
+      "dataPublisherSource": null,
+      "link": "https://visual.ons.gov.uk/causes-of-death-over-100-years/",
+      "retrievedDate": "31st January 2018",
+      "additionalInfo": "Death rates in England and Wales by age group, measured as the number of deaths from all causes per 1,000 individuals per age bracket."
+    }
+  ],
+  "owidTags": [
+    "Age Structure and Mortality by Age"
+  ],
+  "resources": [
+    {
+      "path": "Death rate by age group in England and Wales - ONS.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "<1 year old",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "1-4 years old",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "5-9 years old",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "10-14 years old",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "15-19 years old",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "20-24 years old",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "25-29 years old",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "30-34 years old",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "35-39 years old",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "40-44 years old",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "45-49 years old",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "50-54 years old",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "55-59 years old",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "60-64 years old",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "65-69 years old",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "70-74 years old",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "75-79 years old",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "80+ years old",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
