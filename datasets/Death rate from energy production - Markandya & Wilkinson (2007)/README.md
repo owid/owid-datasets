@@ -1,0 +1,9 @@
+# Death rate from energy production - Markandya & Wilkinson (2007)
+
+Data was derived from Table 2 in Markandya, A., & Wilkinson, P. (2007). Electricity generation and health. The Lancet, 370(9591), 979-990. Available at: doi.org/10.1016/S0140-6736(07)61253-7 (accessed 2017-05-05).
+
+This data was originally derived by the authors based on methodology developed by the European Commission's ExternE report. European Commission. ExternE: Externalities of Energy: Methodology 2005 Update. EUR 21951. Brussels: European Commission, 2005. Available at: https://ec.europa.eu/research/energy/pdf/kina_en.pdf (accessed 2017-05-05)
+
+This data is based on European energy production standards and practices. Data includes both acute and chronic effects (chronic effects account for between 88% and 99% of total deaths). Figures for nuclear include all cancer-related deaths. The figures for death rates per TWh for cancer-related nuclear deaths by Markandya, A., & Wilkinson, P. (2007) are calculated on a theoretical basis using a method called the ‘linear, no-threshold model’. The basis of this model assumes that the number of deaths is directly and linearly proportional to the dosage of radiation; additionally it assumes there is no lower limit or “safe” level of exposure, meaning individuals are at risk even at very low doses.
+
+We have estimated the hypothetical number of deaths which would have occurred globally in 2014 if the world's energy demand was met through a given source. This was calculated by multiplying the death rate per energy source by the IEA's estimate of global energy production in 2014 of 159,000TWh (Available at: https://www.iea.org/publications/freepublications/publication/KeyWorld2016.pdf)
