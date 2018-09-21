@@ -1,0 +1,96 @@
+{
+  "name": "Five year cancer survival rates - Allemani et al. ",
+  "title": "Five year cancer survival rates - Allemani et al. ",
+  "id": 2483,
+  "description": "Data is based on the percentage of those diagnosed with cancer who survive at least five years after the date of diagnosis. This is measured across the top 10 common malignancies in adults (aged 15-99), and leukaemia in children (aged 0-14). This share is age-standardized assuming a constant age distribution of the population to compare between countries and with time.\n\nThe dates presented here are given as single-year but represent average net survival rates over a multi-year diagnosis period. Data here labelled '1999' represents average survival rates over the period 1995-1999; '2004' for 2000-2004; '2009' for 2005-2009.",
+  "sources": [
+    {
+      "name": "Five year cancer survival rates - Allemani et al. ",
+      "dataPublishedBy": "Allemani, C., Weir, H. K., Carreira, H., Harewood, R., Spika, D., Wang, X. S., ... & Marcos-Gragera, R. (2015). Global surveillance of cancer survival 1995–2009: analysis of individual data for 25 676 887 patients from 279 population-based registries in 67 countries (CONCORD-2). The Lancet, 385(9972), 977-1010.",
+      "dataPublisherSource": null,
+      "link": "https://www.sciencedirect.com/science/article/pii/S0140673614620389",
+      "retrievedDate": "27th February 2018",
+      "additionalInfo": "Data is based on the percentage of those diagnosed with cancer who survive at least five years after the date of diagnosis. This is measured across the top 10 common malignancies in adults (aged 15-99), and leukaemia in children (aged 0-14). This share is age-standardized assuming a constant age distribution of the population to compare between countries and with time.\n\nThe dates presented here are given as single-year but represent average net survival rates over a multi-year diagnosis period. Data here labelled '1999' represents average survival rates over the period 1995-1999; '2004' for 2000-2004; '2009' for 2005-2009."
+    }
+  ],
+  "owidTags": [
+    "Cancer"
+  ],
+  "resources": [
+    {
+      "path": "Five year cancer survival rates - Allemani et al. .csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Stomach",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Colon",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Rectum",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Liver",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Lung",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Breast",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Cervix",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Ovary",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prostate",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Leukaemia",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
