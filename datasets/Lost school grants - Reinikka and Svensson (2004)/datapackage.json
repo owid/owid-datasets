@@ -1,0 +1,42 @@
+{
+  "name": "Lost school grants - Reinikka and Svensson (2004)",
+  "title": "Lost school grants - Reinikka and Svensson (2004)",
+  "id": 1884,
+  "description": "",
+  "sources": [
+    {
+      "name": "Reinikka and Svensson (2004)",
+      "dataPublishedBy": "Reinikka, R., & Svensson, J. (2004). Local capture: evidence from a central government transfer program in Uganda. The Quarterly Journal of Economics, 119(2), 679-705.",
+      "dataPublisherSource": "Administrative data",
+      "link": "http://www1.worldbank.org/publicsector/pe/PEAMCourse04/RitvaBackground2.pdf",
+      "retrievedDate": "11/12/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Financing of Education"
+  ],
+  "resources": [
+    {
+      "path": "Lost school grants - Reinikka and Svensson (2004).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of intended capitation grants received by schools in Uganda, 1991-1995",
+            "type": "any",
+            "description": "Share of intended capitation grants received by schools in Uganda. Estimates correspond to capitation grants received by schools (as reported in school records), divided by intended capitation grants (as reported by the central government). The school records were not submitted to any district or central authorities and did not constitute the basis for current or future funding. See source for more details.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
