@@ -1,0 +1,753 @@
+Entity,Year,Prevalence of zinc deficiency (Wessells et al. (2012))
+Afghanistan,1990,20.4
+Afghanistan,1995,20.2
+Afghanistan,2000,19.9
+Afghanistan,2005,20.2
+Albania,1990,13.3
+Albania,1995,6.2
+Albania,2000,6.1
+Albania,2005,5.3
+Algeria,1990,13.1
+Algeria,1995,14.8
+Algeria,2000,17.3
+Algeria,2005,16.6
+Andorra,1990,5.4
+Andorra,1995,5.5
+Andorra,2000,5.7
+Andorra,2005,5.6
+Angola,1990,24.6
+Angola,1995,28.2
+Angola,2000,25.8
+Angola,2005,24.4
+Antigua and Barbuda,1990,4.8
+Antigua and Barbuda,1995,6.1
+Antigua and Barbuda,2000,7.1
+Antigua and Barbuda,2005,6.8
+Argentina,1990,1.7
+Argentina,1995,1.8
+Argentina,2000,2
+Argentina,2005,2.3
+Armenia,1990,15
+Armenia,1995,19.3
+Armenia,2000,20.4
+Armenia,2005,16.3
+Australia,1990,3.2
+Australia,1995,3.3
+Australia,2000,3.6
+Australia,2005,3.8
+Austria,1990,6.4
+Austria,1995,5.5
+Austria,2000,5.8
+Austria,2005,7.4
+Azerbaijan,1990,15.6
+Azerbaijan,1995,21
+Azerbaijan,2000,21.5
+Azerbaijan,2005,22.4
+Bahamas,1990,3.9
+Bahamas,1995,5.1
+Bahamas,2000,5
+Bahamas,2005,5.7
+Bahrain,1990,21.5
+Bahrain,1995,22.8
+Bahrain,2000,22.9
+Bahrain,2005,24.8
+Bangladesh,1990,28.3
+Bangladesh,1995,31.3
+Bangladesh,2000,29.5
+Bangladesh,2005,29.7
+Barbados,1990,6.4
+Barbados,1995,8.7
+Barbados,2000,9.6
+Barbados,2005,9.3
+Belarus,1990,7.2
+Belarus,1995,8.1
+Belarus,2000,8.7
+Belarus,2005,9
+Belgium,1990,5.5
+Belgium,1995,5.8
+Belgium,2000,6.1
+Belgium,2005,6.8
+Belize,1990,10.2
+Belize,1995,11.1
+Belize,2000,12.3
+Belize,2005,13.6
+Benin,1990,17.8
+Benin,1995,16.8
+Benin,2000,17.3
+Benin,2005,17.9
+Bhutan,1990,23.4
+Bhutan,1995,23.2
+Bhutan,2000,27
+Bhutan,2005,31.7
+Bolivia,1990,10.1
+Bolivia,1995,10.9
+Bolivia,2000,10.4
+Bolivia,2005,11.1
+Bosnia and Herzegovina,1990,14.1
+Bosnia and Herzegovina,1995,16.7
+Bosnia and Herzegovina,2000,16.5
+Bosnia and Herzegovina,2005,16.7
+Botswana,1990,18.9
+Botswana,1995,21.2
+Botswana,2000,29.5
+Botswana,2005,30.6
+Brazil,1990,9.6
+Brazil,1995,8.1
+Brazil,2000,7.3
+Brazil,2005,7.3
+Brunei,1990,8.7
+Brunei,1995,8.3
+Brunei,2000,10.9
+Brunei,2005,10.6
+Bulgaria,1990,7.4
+Bulgaria,1995,8.9
+Bulgaria,2000,10
+Bulgaria,2005,15.3
+Burkina Faso,1990,42.7
+Burkina Faso,1995,41.9
+Burkina Faso,2000,39.4
+Burkina Faso,2005,39.4
+Burundi,1990,29.2
+Burundi,1995,30.8
+Burundi,2000,33.6
+Burundi,2005,38
+Cambodia,1990,14.4
+Cambodia,1995,14.9
+Cambodia,2000,15.5
+Cambodia,2005,16.4
+Cameroon,1990,35.5
+Cameroon,1995,37.4
+Cameroon,2000,33.8
+Cameroon,2005,33.8
+Canada,1990,6.4
+Canada,1995,6.9
+Canada,2000,6.8
+Canada,2005,8
+Cape Verde,1990,21.9
+Cape Verde,1995,20.1
+Cape Verde,2000,18.8
+Cape Verde,2005,16.8
+Central African Republic,1990,19.1
+Central African Republic,1995,17.6
+Central African Republic,2000,16.7
+Central African Republic,2005,16.1
+Chad,1990,34.1
+Chad,1995,39.1
+Chad,2000,33.7
+Chad,2005,34.5
+Chile,1990,6.8
+Chile,1995,5.1
+Chile,2000,5.4
+Chile,2005,5.7
+China,1990,16.9
+China,1995,11
+China,2000,8.3
+China,2005,7.5
+Colombia,1990,9.6
+Colombia,1995,10
+Colombia,2000,10.7
+Colombia,2005,10.7
+Comoros,1990,27.5
+Comoros,1995,31.1
+Comoros,2000,35.3
+Comoros,2005,32
+Congo,1990,29
+Congo,1995,26.8
+Congo,2000,27.3
+Congo,2005,21.6
+Costa Rica,1990,13.7
+Costa Rica,1995,12.4
+Costa Rica,2000,12.9
+Costa Rica,2005,15.7
+Cote d'Ivoire,1990,32.6
+Cote d'Ivoire,1995,32.9
+Cote d'Ivoire,2000,35.2
+Cote d'Ivoire,2005,33.4
+Croatia,1990,10.7
+Croatia,1995,16.4
+Croatia,2000,15.6
+Croatia,2005,12.4
+Cuba,1990,13.5
+Cuba,1995,21.6
+Cuba,2000,19.4
+Cuba,2005,20.2
+Cyprus,1990,5
+Cyprus,1995,4.8
+Cyprus,2000,5
+Cyprus,2005,6.1
+Czech Republic,1990,7.1
+Czech Republic,1995,7.9
+Czech Republic,2000,9.9
+Czech Republic,2005,11
+Democratic Republic of Congo,1990,32.2
+Democratic Republic of Congo,1995,40.9
+Democratic Republic of Congo,2000,52.1
+Democratic Republic of Congo,2005,54.3
+Denmark,1990,7.6
+Denmark,1995,7.7
+Denmark,2000,6.3
+Denmark,2005,6.2
+Djibouti,1990,20.5
+Djibouti,1995,18.4
+Djibouti,2000,17.7
+Djibouti,2005,16
+Dominica,1990,7.6
+Dominica,1995,8
+Dominica,2000,8.2
+Dominica,2005,8.7
+Dominican Republic,1990,18.8
+Dominican Republic,1995,18.7
+Dominican Republic,2000,20.3
+Dominican Republic,2005,19.4
+Ecuador,1990,13.2
+Ecuador,1995,10.3
+Ecuador,2000,9.2
+Ecuador,2005,7.9
+Egypt,1990,10.6
+Egypt,1995,11
+Egypt,2000,11.8
+Egypt,2005,12.1
+El Salvador,1990,36.9
+El Salvador,1995,36
+El Salvador,2000,30.9
+El Salvador,2005,28
+Equatorial Guinea,1990,27.7
+Equatorial Guinea,1995,24.3
+Equatorial Guinea,2000,24.9
+Equatorial Guinea,2005,28
+Eritrea,1990,15.5
+Eritrea,1995,15.5
+Eritrea,2000,17.4
+Eritrea,2005,19.8
+Estonia,1990,5.9
+Estonia,1995,8
+Estonia,2000,10.4
+Estonia,2005,10.5
+Ethiopia,1990,12.9
+Ethiopia,1995,11.4
+Ethiopia,2000,10.5
+Ethiopia,2005,11
+Fiji,1990,7.9
+Fiji,1995,7.9
+Fiji,2000,8.8
+Fiji,2005,10.9
+Finland,1990,4.1
+Finland,1995,4.4
+Finland,2000,4.4
+Finland,2005,4.6
+France,1990,3
+France,1995,3.1
+France,2000,3.4
+France,2005,3.9
+Gabon,1990,12.1
+Gabon,1995,11.4
+Gabon,2000,13
+Gabon,2005,13.2
+Gambia,1990,27.2
+Gambia,1995,32.1
+Gambia,2000,34.9
+Gambia,2005,34.9
+Georgia,1990,21.3
+Georgia,1995,25
+Georgia,2000,23.1
+Georgia,2005,23.6
+Germany,1990,7.7
+Germany,1995,8.7
+Germany,2000,9.3
+Germany,2005,9
+Ghana,1990,26.1
+Ghana,1995,22.8
+Ghana,2000,23.3
+Ghana,2005,21.6
+Greece,1990,6.4
+Greece,1995,6.5
+Greece,2000,6.6
+Greece,2005,7.2
+Grenada,1990,10.7
+Grenada,1995,10.7
+Grenada,2000,10.8
+Grenada,2005,10.7
+Guatemala,1990,35.6
+Guatemala,1995,34.1
+Guatemala,2000,31.5
+Guatemala,2005,29.8
+Guinea,1990,19.1
+Guinea,1995,18.8
+Guinea,2000,19.7
+Guinea,2005,19.6
+Guinea-Bissau,1990,23.1
+Guinea-Bissau,1995,22.8
+Guinea-Bissau,2000,24.5
+Guinea-Bissau,2005,27.1
+Guyana,1990,29.4
+Guyana,1995,18.1
+Guyana,2000,12.9
+Guyana,2005,13.2
+Haiti,1990,40.6
+Haiti,1995,39.4
+Haiti,2000,34.1
+Haiti,2005,34.9
+Honduras,1990,30.5
+Honduras,1995,25.4
+Honduras,2000,24.1
+Honduras,2005,22.5
+Hong Kong,1990,21.8
+Hong Kong,1995,22.2
+Hong Kong,2000,23
+Hong Kong,2005,22.7
+Hungary,1990,4.8
+Hungary,1995,7.1
+Hungary,2000,7.6
+Hungary,2005,8.4
+Iceland,1990,3.2
+Iceland,1995,3.3
+Iceland,2000,3
+Iceland,2005,3.1
+India,1990,27.7
+India,1995,28.4
+India,2000,29.4
+India,2005,31.2
+Indonesia,1990,29.1
+Indonesia,1995,28.9
+Indonesia,2000,32.1
+Indonesia,2005,31.2
+Iran,1990,14.2
+Iran,1995,15.9
+Iran,2000,20
+Iran,2005,23.2
+Iraq,1990,12.2
+Iraq,1995,12.7
+Iraq,2000,13.1
+Iraq,2005,13.1
+Ireland,1990,3
+Ireland,1995,3.6
+Ireland,2000,3.6
+Ireland,2005,4
+Israel,1990,6.6
+Israel,1995,6.5
+Israel,2000,6.2
+Israel,2005,5.5
+Italy,1990,5.2
+Italy,1995,5.6
+Italy,2000,5.6
+Italy,2005,5.8
+Jamaica,1990,16.8
+Jamaica,1995,12
+Jamaica,2000,11.4
+Jamaica,2005,11.4
+Japan,1990,14.7
+Japan,1995,14.7
+Japan,2000,15.5
+Japan,2005,16.4
+Jordan,1990,12.5
+Jordan,1995,15.7
+Jordan,2000,17.3
+Jordan,2005,16.3
+Kazakhstan,1990,5.1
+Kazakhstan,1995,4.6
+Kazakhstan,2000,5.5
+Kazakhstan,2005,4.9
+Kenya,1990,21.2
+Kenya,1995,25.1
+Kenya,2000,27.3
+Kenya,2005,25.3
+Kiribati,1990,24.8
+Kiribati,1995,24
+Kiribati,2000,23.6
+Kiribati,2005,20.9
+Kuwait,1990,9
+Kuwait,1995,9.5
+Kuwait,2000,12.5
+Kuwait,2005,15.4
+Kyrgyzstan,1990,4.5
+Kyrgyzstan,1995,4.1
+Kyrgyzstan,2000,4.4
+Kyrgyzstan,2005,6
+Laos,1990,20.4
+Laos,1995,17.3
+Laos,2000,15.7
+Laos,2005,14.8
+Latvia,1990,6.6
+Latvia,1995,7.2
+Latvia,2000,12.5
+Latvia,2005,11.6
+Lebanon,1990,14.1
+Lebanon,1995,14
+Lebanon,2000,14.4
+Lebanon,2005,14.3
+Lesotho,1990,31.5
+Lesotho,1995,34.1
+Lesotho,2000,36.8
+Lesotho,2005,38.3
+Liberia,1990,25.6
+Liberia,1995,34.8
+Liberia,2000,36.4
+Liberia,2005,35.2
+Libya,1990,9
+Libya,1995,11.9
+Libya,2000,14.4
+Libya,2005,16.8
+Lithuania,1990,8
+Lithuania,1995,9.8
+Lithuania,2000,10.1
+Lithuania,2005,7.5
+Luxembourg,1990,5.4
+Luxembourg,1995,4.3
+Luxembourg,2000,3.6
+Luxembourg,2005,3.6
+Macedonia,1990,11.4
+Macedonia,1995,12.5
+Macedonia,2000,15
+Macedonia,2005,14.1
+Madagascar,1990,10
+Madagascar,1995,11.1
+Madagascar,2000,13.8
+Madagascar,2005,16
+Malawi,1990,46.8
+Malawi,1995,47.1
+Malawi,2000,41.1
+Malawi,2005,40.6
+Malaysia,1990,9.6
+Malaysia,1995,8.1
+Malaysia,2000,11.4
+Malaysia,2005,11.3
+Maldives,1990,18.8
+Maldives,1995,14.1
+Maldives,2000,13.8
+Maldives,2005,14.4
+Mali,1990,31.4
+Mali,1995,31.2
+Mali,2000,24.8
+Mali,2005,22.3
+Malta,1990,6.8
+Malta,1995,7
+Malta,2000,7.8
+Malta,2005,8.1
+Marshall Islands,1990,10.2
+Marshall Islands,1995,9.4
+Marshall Islands,2000,10.5
+Marshall Islands,2005,10.4
+Mauritania,1990,9.1
+Mauritania,1995,13.6
+Mauritania,2000,9.7
+Mauritania,2005,9.6
+Mauritius,1990,18.7
+Mauritius,1995,17.7
+Mauritius,2000,16
+Mauritius,2005,16.3
+Mexico,1990,18.7
+Mexico,1995,18.9
+Mexico,2000,17.3
+Mexico,2005,16.9
+Micronesia (country),1990,9.1
+Micronesia (country),1995,9.8
+Micronesia (country),2000,10.4
+Micronesia (country),2005,10.8
+Moldova,1990,9.7
+Moldova,1995,15.3
+Moldova,2000,20
+Moldova,2005,20
+Mongolia,1990,1.5
+Mongolia,1995,1.5
+Mongolia,2000,2
+Mongolia,2005,4.1
+Montenegro,1990,7.9
+Montenegro,1995,8.4
+Montenegro,2000,8.3
+Montenegro,2005,7.5
+Morocco,1990,15
+Morocco,1995,17.8
+Morocco,2000,18.9
+Morocco,2005,19.2
+Mozambique,1990,39.8
+Mozambique,1995,36.6
+Mozambique,2000,31.9
+Mozambique,2005,31.4
+Myanmar,1990,30.5
+Myanmar,1995,30.6
+Myanmar,2000,28.2
+Myanmar,2005,19.5
+Namibia,1990,22.6
+Namibia,1995,33.3
+Namibia,2000,18.5
+Namibia,2005,21.4
+Nepal,1990,24.4
+Nepal,1995,24
+Nepal,2000,23.6
+Nepal,2005,23.7
+Netherlands,1990,4.4
+Netherlands,1995,4.1
+Netherlands,2000,4
+Netherlands,2005,5
+New Zealand,1990,3.1
+New Zealand,1995,3.3
+New Zealand,2000,4.3
+New Zealand,2005,4.4
+Nicaragua,1990,35.6
+Nicaragua,1995,36.2
+Nicaragua,2000,30.8
+Nicaragua,2005,29.2
+Niger,1990,26.8
+Niger,1995,25.6
+Niger,2000,19.5
+Niger,2005,16.9
+Nigeria,1990,22.3
+Nigeria,1995,20.2
+Nigeria,2000,21
+Nigeria,2005,20.6
+North Korea,1990,25.4
+North Korea,1995,35.3
+North Korea,2000,33.1
+North Korea,2005,31.2
+Norway,1990,5.9
+Norway,1995,5.3
+Norway,2000,5.6
+Norway,2005,6.2
+Oman,1990,13.9
+Oman,1995,17.8
+Oman,2000,19.2
+Oman,2005,21.2
+Pakistan,1990,18.6
+Pakistan,1995,17.4
+Pakistan,2000,18.5
+Pakistan,2005,20.4
+Palestine,1990,77.6
+Palestine,1995,23.6
+Palestine,2000,13.6
+Palestine,2005,15.3
+Panama,1990,14.5
+Panama,1995,15.1
+Panama,2000,13.8
+Panama,2005,15.1
+Papua New Guinea,1990,9.2
+Papua New Guinea,1995,10.4
+Papua New Guinea,2000,10.1
+Papua New Guinea,2005,10
+Paraguay,1990,5.7
+Paraguay,1995,4.8
+Paraguay,2000,5.6
+Paraguay,2005,8.9
+Peru,1990,23.7
+Peru,1995,20.3
+Peru,2000,18.4
+Peru,2005,16.7
+Philippines,1990,13.4
+Philippines,1995,11.6
+Philippines,2000,10.5
+Philippines,2005,9.9
+Poland,1990,6.2
+Poland,1995,8.5
+Poland,2000,9.6
+Poland,2005,10.3
+Portugal,1990,7.5
+Portugal,1995,6.4
+Portugal,2000,6.2
+Portugal,2005,6.3
+Qatar,1990,26.6
+Qatar,1995,28.1
+Qatar,2000,29.4
+Qatar,2005,33.4
+Romania,1990,8.8
+Romania,1995,9.1
+Romania,2000,8.8
+Romania,2005,7.5
+Russia,1990,6.8
+Russia,1995,6.7
+Russia,2000,8.9
+Russia,2005,8.3
+Rwanda,1990,37.5
+Rwanda,1995,39.6
+Rwanda,2000,38.4
+Rwanda,2005,34.9
+Saint Lucia,1990,6.1
+Saint Lucia,1995,4.8
+Saint Lucia,2000,5.1
+Saint Lucia,2005,5.3
+Saint Vincent and the Grenadines,1990,15.7
+Saint Vincent and the Grenadines,1995,14.8
+Saint Vincent and the Grenadines,2000,12.9
+Saint Vincent and the Grenadines,2005,10.9
+Samoa,1990,5.8
+Samoa,1995,5.9
+Samoa,2000,4.8
+Samoa,2005,6.2
+Sao Tome and Principe,1990,42.8
+Sao Tome and Principe,1995,41.2
+Sao Tome and Principe,2000,38.9
+Sao Tome and Principe,2005,31.7
+Saudi Arabia,1990,14
+Saudi Arabia,1995,17.7
+Saudi Arabia,2000,16.8
+Saudi Arabia,2005,19.2
+Senegal,1990,28.2
+Senegal,1995,28.9
+Senegal,2000,27.3
+Senegal,2005,24.6
+Serbia,1990,8.3
+Serbia,1995,8.5
+Serbia,2000,8
+Serbia,2005,7
+Seychelles,1990,12
+Seychelles,1995,12.4
+Seychelles,2000,13.1
+Seychelles,2005,13.2
+Sierra Leone,1990,33.2
+Sierra Leone,1995,31.8
+Sierra Leone,2000,29.6
+Sierra Leone,2005,27.2
+Singapore,1990,14.8
+Singapore,1995,14.9
+Singapore,2000,14.4
+Singapore,2005,15.4
+Slovakia,1990,8.3
+Slovakia,1995,11
+Slovakia,2000,13.6
+Slovakia,2005,16.3
+Slovenia,1990,9.3
+Slovenia,1995,9
+Slovenia,2000,9.4
+Slovenia,2005,9.8
+Solomon Islands,1990,20.4
+Solomon Islands,1995,22.3
+Solomon Islands,2000,24.6
+Solomon Islands,2005,23.8
+Somalia,1990,28.3
+Somalia,1995,25.9
+Somalia,2000,25.3
+Somalia,2005,24.5
+South Africa,1990,16.4
+South Africa,1995,20
+South Africa,2000,22.7
+South Africa,2005,20
+South Korea,1990,16.4
+South Korea,1995,13.1
+South Korea,2000,12.6
+South Korea,2005,13
+Spain,1990,5.4
+Spain,1995,5.3
+Spain,2000,4.9
+Spain,2005,5.4
+Sri Lanka,1990,46
+Sri Lanka,1995,48.4
+Sri Lanka,2000,45.6
+Sri Lanka,2005,45.7
+Sudan,1990,11.7
+Sudan,1995,10.3
+Sudan,2000,8.5
+Sudan,2005,7.4
+Suriname,1990,15.7
+Suriname,1995,19.4
+Suriname,2000,20.2
+Suriname,2005,19.7
+Swaziland,1990,15.2
+Swaziland,1995,19.4
+Swaziland,2000,21
+Swaziland,2005,18.3
+Sweden,1990,7.3
+Sweden,1995,6.5
+Sweden,2000,6.2
+Sweden,2005,6.1
+Switzerland,1990,3.9
+Switzerland,1995,4.5
+Switzerland,2000,4.7
+Switzerland,2005,4.9
+Syria,1990,12.8
+Syria,1995,14.8
+Syria,2000,15.8
+Syria,2005,15.2
+Taiwan,1990,19.7
+Taiwan,1995,20.1
+Taiwan,2000,20.9
+Taiwan,2005,21.7
+Tajikistan,1990,8
+Tajikistan,1995,19
+Tajikistan,2000,23.6
+Tajikistan,2005,18.9
+Tanzania,1990,30.4
+Tanzania,1995,35.1
+Tanzania,2000,34.8
+Tanzania,2005,34.1
+Thailand,1990,21.2
+Thailand,1995,18.5
+Thailand,2000,21.5
+Thailand,2005,20.4
+Timor,1990,16
+Timor,1995,16.2
+Timor,2000,13.6
+Timor,2005,16.9
+Togo,1990,25.1
+Togo,1995,24.8
+Togo,2000,26
+Togo,2005,25.8
+Tonga,1990,10.4
+Tonga,1995,11.1
+Tonga,2000,10.5
+Tonga,2005,10.4
+Trinidad and Tobago,1990,16.8
+Trinidad and Tobago,1995,22.5
+Trinidad and Tobago,2000,22.1
+Trinidad and Tobago,2005,19.3
+Tunisia,1990,13.5
+Tunisia,1995,14.7
+Tunisia,2000,14.9
+Tunisia,2005,16.1
+Turkey,1990,16.7
+Turkey,1995,18.3
+Turkey,2000,20
+Turkey,2005,21.7
+Turkmenistan,1990,5.5
+Turkmenistan,1995,6.8
+Turkmenistan,2000,6.3
+Turkmenistan,2005,5.2
+Uganda,1990,20.4
+Uganda,1995,21.6
+Uganda,2000,21.3
+Uganda,2005,20.5
+Ukraine,1990,7.2
+Ukraine,1995,9.2
+Ukraine,2000,12.1
+Ukraine,2005,11.4
+United Arab Emirates,1990,9.4
+United Arab Emirates,1995,10.6
+United Arab Emirates,2000,16.1
+United Arab Emirates,2005,20.8
+United Kingdom,1990,4.1
+United Kingdom,1995,4.3
+United Kingdom,2000,4.5
+United Kingdom,2005,4.6
+United States,1990,4.7
+United States,1995,4.7
+United States,2000,4.8
+United States,2005,5
+Uruguay,1990,2
+Uruguay,1995,2
+Uruguay,2000,2.5
+Uruguay,2005,5.8
+Uzbekistan,1990,6.3
+Uzbekistan,1995,6.2
+Uzbekistan,2000,8.8
+Uzbekistan,2005,8.8
+Vanuatu,1990,11.3
+Vanuatu,1995,11.1
+Vanuatu,2000,11.3
+Vanuatu,2005,12.9
+Venezuela,1990,15.8
+Venezuela,1995,16.3
+Venezuela,2000,15.5
+Venezuela,2005,15.4
+Vietnam,1990,16.1
+Vietnam,1995,14.1
+Vietnam,2000,13
+Vietnam,2005,10.7
+Yemen,1990,19.1
+Yemen,1995,21.6
+Yemen,2000,22.5
+Yemen,2005,23.4
+Zambia,1990,43.9
+Zambia,1995,45
+Zambia,2000,45.8
+Zambia,2005,44.9
+Zimbabwe,1990,48.2
+Zimbabwe,1995,58.8
+Zimbabwe,2000,54.8
+Zimbabwe,2005,48.4
