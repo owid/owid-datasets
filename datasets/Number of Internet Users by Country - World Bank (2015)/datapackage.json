@@ -1,0 +1,42 @@
+{
+  "name": "Number of Internet Users by Country - World Bank (2015)",
+  "title": "Number of Internet Users by Country - World Bank (2015)",
+  "id": 99,
+  "description": "Internet and mobile phone data",
+  "sources": [
+    {
+      "name": "Science and Technology - World Bank (2015)",
+      "dataPublishedBy": "World Bank",
+      "dataPublisherSource": "International Telecommunication Union, World Telecommunication/ICT Development Report and database",
+      "link": "http://data.worldbank.org/",
+      "retrievedDate": "09/11/2015",
+      "additionalInfo": "Internet and mobile phone data"
+    }
+  ],
+  "owidTags": [
+    "Internet"
+  ],
+  "resources": [
+    {
+      "path": "Number of Internet Users by Country - World Bank (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of Internet Users by Country (World Bank (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
