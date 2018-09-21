@@ -1,0 +1,3 @@
+# World Bank Health - World Bank (2016)
+
+The UN Maternal Mortality Estimation Inter-agency Group publishes http://www.maternalmortalitydata.org/. These data are published by the World Bank here. http://data.worldbank.org/indicator/SH.STA.MMRT. These are the data shown here (unchanged). According to the report the data comes from several sources. In the best cases data from the civil registration systems were used directly to calculate the estimates of maternal mortality rates. When these data were not available two-part multi-level regression model were used to estimate MMRs for all target years. The three selected predictor variables in the regression model are: GDP, the general fertility rate (GFR) and the proportion of skilled attendants at birth.
