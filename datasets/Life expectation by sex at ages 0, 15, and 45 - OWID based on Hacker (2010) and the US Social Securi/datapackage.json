@@ -1,0 +1,90 @@
+{
+  "name": "Life expectation by sex at ages 0, 15, and 45 - OWID based on Hacker (2010) and the US Social Security Administration (2017)",
+  "title": "Life expectation by sex at ages 0, 15, and 45 - OWID based on Hacker (2010) and the US Social Security Administration (2017)",
+  "id": 2855,
+  "description": "The Hacker (2010) data is used for the period 1780 to 1890. The year 1790 refers to the period 1790-99; see Table 8: New Life Tables for the White Population of the United States, 1780-1900 for the original data consulted for this period. \n\nThe US Social Security Administration data is used from 1900 to today.",
+  "sources": [
+    {
+      "name": "OWID based on Hacker (2010) and the US Social Security Administration (2017)",
+      "dataPublishedBy": "Hacker (2010) and the US SSA",
+      "dataPublisherSource": "Scholarly sources and historical data",
+      "link": "Hacker (2010): https://www.tandfonline.com/doi/pdf/10.1080/01615441003720449?needAccess=true and the US Social Security Administration: https://www.ssa.gov/oact/HistEst/PerLifeTables/2017/PerLifeTables2017.html",
+      "retrievedDate": "27/07/2018",
+      "additionalInfo": "The Hacker (2010) data is used for the period 1780 to 1890. The year 1790 refers to the period 1790-99; see Table 8: New Life Tables for the White Population of the United States, 1780-1900 for the original data consulted for this period. \n\nThe US Social Security Administration data is used from 1900 to today."
+    }
+  ],
+  "owidTags": [
+    "Life Expectancy"
+  ],
+  "resources": [
+    {
+      "path": "Life expectation by sex at ages 0, 15, and 45 - OWID based on Hacker (2010) and the US Social Security Administration (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Life expectation age 0, females (OWID)",
+            "type": "any",
+            "description": "Life expectation at birth for females.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Life expectation age 0, males (OWID)",
+            "type": "any",
+            "description": "Life expectation at birth for males.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Life expectation age 15, females (OWID)",
+            "type": "any",
+            "description": "Life expectation for females aged 15. We add 15 years to obtain life expectation at birth rather than at the age of 15 to ensure consistency across variables following <a href=\"http://nber.org/papers/w24716\">Goldin and Lleras-Muney (2018)</a>. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Life expectation age 15, males (OWID)",
+            "type": "any",
+            "description": "Life expectation for males aged 15. We add 15 years to obtain life expectation at birth rather than at the age of 15 to ensure consistency across variables following <a href=\"http://nber.org/papers/w24716\">Goldin and Lleras-Muney (2018)</a>. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Life expectation age 45, females (OWID)",
+            "type": "any",
+            "description": "Life expectation for females aged 45. We add 45 years to obtain life expectation at birth rather than at the age of 45 to ensure consistency across variables following <a href=\"http://nber.org/papers/w24716\">Goldin and Lleras-Muney (2018)</a>. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Life expectation age 45, males (OWID)",
+            "type": "any",
+            "description": "Life expectation for males aged 45. We add 45 years to obtain life expectation at birth rather than at the age of 45 to ensure consistency across variables following <a href=\"http://nber.org/papers/w24716\">Goldin and Lleras-Muney (2018)</a>. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Male minus female life expectation, age 0 (OWID)",
+            "type": "any",
+            "description": "Difference in life expectation between males and females at birth.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Male minus female life expectation, age 15 (OWID)",
+            "type": "any",
+            "description": "Difference in life expectation between males and females at age 15.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Male minus female life expectation, age 45 (OWID)",
+            "type": "any",
+            "description": "Difference in life expectation between males and females at age 45.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
