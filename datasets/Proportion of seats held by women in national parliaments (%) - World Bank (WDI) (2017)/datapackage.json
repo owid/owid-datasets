@@ -1,0 +1,44 @@
+{
+  "name": "Proportion of seats held by women in national parliaments (%) - World Bank (WDI) (2017)",
+  "title": "Proportion of seats held by women in national parliaments (%) - World Bank (WDI) (2017)",
+  "id": 533,
+  "description": "The 'proportion of seats held by women in national parliaments' is defined as the parliamentary seats in a single or lower chamber held by women",
+  "sources": [
+    {
+      "name": "Proportion of seats held by women in national parliaments - World Bank (WDI) (2017)",
+      "dataPublishedBy": "World Bank, World Development Indicators (WDI)",
+      "dataPublisherSource": "Inter-Parliamentary Union ( IPU )",
+      "link": "http://data.worldbank.org/indicator/SG.GEN.PARL.ZS?view=chart",
+      "retrievedDate": "14/06/2017",
+      "additionalInfo": "The 'proportion of seats held by women in national parliaments' is defined as the parliamentary seats in a single or lower chamber held by women"
+    }
+  ],
+  "owidTags": [
+    "Gender Differences in Politics"
+  ],
+  "resources": [
+    {
+      "path": "Proportion of seats held by women in national parliaments (%) - World Bank (WDI) (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Proportion of seats held by women in national parliaments (World Bank (WDI) (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Ratio"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
