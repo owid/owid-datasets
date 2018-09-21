@@ -1,0 +1,54 @@
+{
+  "name": "Water resources by continent - FAO AQUASTAT",
+  "title": "Water resources by continent - FAO AQUASTAT",
+  "id": 1837,
+  "description": "Precipitation is measured in terms of average volumetric precipitation rates per year (based on trends to the year 2015). \n\nInternal renewable freshwater resources measures the total volume of resources which could be sustainably used per year, without depleting internal reserves. \n\nPer capita renewable resources are based on the average volume per person which could be used in 2015 without depleting reserves.",
+  "sources": [
+    {
+      "name": "Water resources by continent - FAO AQUASTAT",
+      "dataPublishedBy": "UN Food and Agricultural Organization (FAO), AQUASTAT",
+      "dataPublisherSource": null,
+      "link": "http://www.fao.org/nr/water/aquastat/main/index.stm",
+      "retrievedDate": "2017-11-23",
+      "additionalInfo": "Precipitation is measured in terms of average volumetric precipitation rates per year (based on trends to the year 2015). \n\nInternal renewable freshwater resources measures the total volume of resources which could be sustainably used per year, without depleting internal reserves. \n\nPer capita renewable resources are based on the average volume per person which could be used in 2015 without depleting reserves."
+    }
+  ],
+  "owidTags": [
+    "Water Accessibility, Consumption & Sanitation"
+  ],
+  "resources": [
+    {
+      "path": "Water resources by continent - FAO AQUASTAT.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Precipitation",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Internal renewable freshwater resources",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Per capita renewable resources",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
