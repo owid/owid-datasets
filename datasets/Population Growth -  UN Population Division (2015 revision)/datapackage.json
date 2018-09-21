@@ -1,0 +1,45 @@
+{
+  "name": "Population Growth -  UN Population Division (2015 revision)",
+  "title": "Population Growth -  UN Population Division (2015 revision)",
+  "id": 163,
+  "description": "Years refer to the average over the preceding 5 year interval (1955 refers to the period 1950 to 1955 etc.)",
+  "sources": [
+    {
+      "name": "Population Growth - UN Population Division (2015 revision)",
+      "dataPublishedBy": "United Nations Population Division",
+      "dataPublisherSource": null,
+      "link": "http://www.un.org/en/development/desa/population/publications/dataset/index.shtml",
+      "retrievedDate": "04/02/2017",
+      "additionalInfo": "Years refer to the average over the preceding 5 year interval (1955 refers to the period 1950 to 1955 etc.)"
+    }
+  ],
+  "owidTags": [
+    "World Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Population Growth -  UN Population Division (2015 revision).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Population Growth (UN Population Division (2015 revision))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
