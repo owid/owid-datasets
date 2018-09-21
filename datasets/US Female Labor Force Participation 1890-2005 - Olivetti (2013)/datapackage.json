@@ -1,0 +1,42 @@
+{
+  "name": "US Female Labor Force Participation 1890-2005 - Olivetti (2013)",
+  "title": "US Female Labor Force Participation 1890-2005 - Olivetti (2013)",
+  "id": 697,
+  "description": "",
+  "sources": [
+    {
+      "name": "Olivetti (2013)",
+      "dataPublishedBy": "Claudia Olivetti 2013",
+      "dataPublisherSource": "Author compiled data from Mitchell (1998) and the International Labor Organization",
+      "link": "http://www.nber.org/papers/w19131.pdf",
+      "retrievedDate": "21/03/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Labor Force Participation"
+  ],
+  "resources": [
+    {
+      "path": "US Female Labor Force Participation 1890-2005 - Olivetti (2013).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Female labor force participation (Olivetti (2013))",
+            "type": "any",
+            "description": "Percentage of the female population that is economically active",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
