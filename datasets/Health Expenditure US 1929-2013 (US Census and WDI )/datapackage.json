@@ -1,0 +1,27 @@
+{
+  "name": "Health Expenditure US 1929-2013 (US Census and WDI )",
+  "title": "Health Expenditure US 1929-2013 (US Census and WDI )",
+  "id": 200,
+  "description": "",
+  "sources": [],
+  "owidTags": [
+    "Health Insurance & Spending"
+  ],
+  "resources": [
+    {
+      "path": "Health Expenditure US 1929-2013 (US Census and WDI ).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          }
+        ]
+      }
+    }
+  ]
+}
