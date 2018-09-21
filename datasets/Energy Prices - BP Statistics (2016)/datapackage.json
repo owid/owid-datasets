@@ -1,0 +1,60 @@
+{
+  "name": "Energy Prices - BP Statistics (2016)",
+  "title": "Energy Prices - BP Statistics (2016)",
+  "id": 515,
+  "description": "Prices corrected to 2015 US$ using the Consumer Price Index for the US\r\n\r\nPrices have been normalised to a commodity-specific index by the author where prices in 2000=100",
+  "sources": [
+    {
+      "name": "Energy Prices - BP Statistics (2016)",
+      "dataPublishedBy": "BP Statistical Review of World Energy 2016",
+      "dataPublisherSource": null,
+      "link": "http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html",
+      "retrievedDate": "03/06/2017",
+      "additionalInfo": "Prices corrected to 2015 US$ using the Consumer Price Index for the US\r\n\r\nPrices have been normalised to a commodity-specific index by the author where prices in 2000=100"
+    }
+  ],
+  "owidTags": [
+    "Energy Prices"
+  ],
+  "resources": [
+    {
+      "path": "Energy Prices - BP Statistics (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Oil (BP Statistics (2016))",
+            "type": "any",
+            "description": "Energy price index, where prices in 2000=100",
+            "owidDisplaySettings": {
+              "unit": "$"
+            }
+          },
+          {
+            "name": "Natural Gas (BP Statistics (2016))",
+            "type": "any",
+            "description": "Energy price index, where prices in 2000=100",
+            "owidDisplaySettings": {
+              "unit": "constant 2015 US$"
+            }
+          },
+          {
+            "name": "Coal (BP Statistics (2016))",
+            "type": "any",
+            "description": "Energy price index, where prices in 2000=100",
+            "owidDisplaySettings": {
+              "unit": "% of under-5s"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
