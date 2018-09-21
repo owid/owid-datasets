@@ -1,0 +1,60 @@
+{
+  "name": "Sexual Violence – UNICEF (2017)",
+  "title": "Sexual Violence – UNICEF (2017)",
+  "id": 943,
+  "description": "The source notes that in some instances observations differ from the standard definition or refer to only part of a country. ",
+  "sources": [
+    {
+      "name": "Sexual Violence - UNICEF Global Databases (2017)",
+      "dataPublishedBy": "UNICEF; Data and Analytics Section; Division of Data, Research and Policy",
+      "dataPublisherSource": "DHS, MICS and other nationally representative surveys.",
+      "link": "https://data.unicef.org/topic/child-protection/violence/sexual-violence/",
+      "retrievedDate": "28/11/2017",
+      "additionalInfo": "The source notes that in some instances observations differ from the standard definition or refer to only part of a country. "
+    }
+  ],
+  "owidTags": [
+    "Violence against & Rights for Children"
+  ],
+  "resources": [
+    {
+      "path": "Sexual Violence – UNICEF (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Sexual violence prevalence among girls (15 to 19) (UNICEF Global Databases (2014))",
+            "type": "any",
+            "description": "Percentage of girls aged 15 to 19 years who ever experienced forced sexual intercourse or any other forced sexual acts (including in childhood).",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prevalence of forced sex among boys",
+            "type": "any",
+            "description": "Percentage of men aged 18 to 29 years who experienced forced sex before the age of 18",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prevalence of forced sex among girls",
+            "type": "any",
+            "description": "Percentage of women aged 18 to 29 years who experienced forced sex before the age of 18",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "\r",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
