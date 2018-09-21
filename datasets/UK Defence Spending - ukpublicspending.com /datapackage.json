@@ -1,0 +1,44 @@
+{
+  "name": "UK Defence Spending - ukpublicspending.com ",
+  "title": "UK Defence Spending - ukpublicspending.com ",
+  "id": 126,
+  "description": "Historical data provided by International Historical Statistics (Brian Mitchell) and the Measuring Worth project (measuringworth.com). Recent data comes from official sources (Office for Budget Responsibility and HM Treasury).",
+  "sources": [
+    {
+      "name": "UK Public Spending - ukpublicspending.co.uk",
+      "dataPublishedBy": "ukpublicspending.co.uk",
+      "dataPublisherSource": "International Historical Statistics (Brian Mitchell), Measuring worth (measuringworth.com), Office for Budget Responsibility, and UK Treasury",
+      "link": "http://www.ukpublicspending.co.uk/uk_defence_spending_30.html",
+      "retrievedDate": "09/10/2015",
+      "additionalInfo": "Historical data provided by International Historical Statistics (Brian Mitchell) and the Measuring Worth project (measuringworth.com). Recent data comes from official sources (Office for Budget Responsibility and HM Treasury)."
+    }
+  ],
+  "owidTags": [
+    "Military Spending"
+  ],
+  "resources": [
+    {
+      "path": "UK Defence Spending - ukpublicspending.com .csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Defence spending as a percent of GDP (ukpublicspending.com)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
