@@ -1,0 +1,162 @@
+{
+  "name": "Women’s Political Representation using Paxton et al (2006), IPU (2017) & WDI (2017) ",
+  "title": "Women’s Political Representation using Paxton et al (2006), IPU (2017) & WDI (2017) ",
+  "id": 669,
+  "description": "Data construction:\nPaxton et al (2006) provides data on five milestones of women’s political representation from 1893 to 2003. Our dataset updates their data through to 2017 using Inter-parliamentary union (IPU) statistical archives and the World Bank’s World Development Indicator (WDI) variable on women’s share in parliament (main sources).\n\nPaxton’s data is downloaded from the Inter-university Consortium for Political and Social Research (ICPSR). It provides country-level data on the start and end year of sovereignty; year in which universal suffrage was granted to all women; the year the first woman was elected to parliament; and percentage share of women in parliament for the years 1945-2003. Data from 2003 onwards was derived from various sources. IPU’s statistical archives were used to derive figures on the share of women in parliament (from 2004-2017); the CIA World Factbook provided data on the year of sovereignty and universal suffrage, alongside various additional sources which are listed below. Moreover, this data extension to 2017 means our dataset consists of five additional countries: Libya, Montenegro, Serbia, South Sudan and Timor, which gained independence after 2003. Paxton et al (2006) describes women’s political representation as the share of sovereign countries which satisfied the five representation milestones in any given year. We have therefore derived the number of sovereign countries generated in any given year, as well as the number which have attained each of the five milestones.\n\nTo overcome methodological differences, the attainment of milestones was assessed in two ways. Firstly, the number and share of sovereign countries were assessed relative to ‘ordered’ milestones. This results from Paxton et al’s (2006) assumption that a country only has an elected woman MP after universal suffrage is granted. However, there were 17 countries - Australia, Belgium, Brazil, Canada, Guinea-Bissau, Hungary, Ireland, Netherlands, Norway, Portugal, Samoa, Saudi Arabia, Socialist Federal Republic of Yugoslavia, South Africa, USSR, United Kingdom, and the United States – whereby a female MP was elected prior to gaining universal suffrage. Secondly, we assessed the number and share of sovereign countries which independently satisfied five milestones.\n\nAdditional information on data sources: \nThis section provides detailed information on the sources used by variables and countries.\n\nSovereignty \nCIA’s World Factbook Independence field is used to determine the year of sovereignty for Libya, Montenegro, Serbia, South Sudan, Timor, American Samoa, Hungary and Iran. Likewise, we determine end of sovereignty for Libya and Serbia and Montenegro using the same source. Available at: https://www.cia.gov/library/publications/the-world-factbook/fields/2088.html [accessed 16th August 2017].\nUniversal Suffrage\nKuwait, Oman and Qatar: UNICEF Gender Equality Profiles. Available at: https://www.unicef.org/gender/gender_62215.html [accessed 16th August 2017].\nLibya, Serbia (mentioned as Serbia and Montenegro), Montenegro (mentioned as Serbia and Montenegro), South Sudan (mentioned as Sudan), Timor and American Samoa. IPU’s Women in Politics. Available at: http://www.ipu.org/PDF/publications/wmn45-05_en.pdf [accessed 16th August 2017].\nSaudi Arabia and United Arab Emirates. CIA’s World Factbook Suffrage field. Available at: https://www.cia.gov/library/publications/the-world-factbook/fields/2123.html [accessed 16th August 2017].\nBrunei: Wikipedia.\nFirst woman elected to parliament\nTimor, Latvia and American Samoa: IPU’s Women in Politics. Available at: http://www.ipu.org/PDF/publications/wmn45-05_en.pdf [accessed 16th August 2017].\nOman, Palau, Saudi Arabia, Qatar, UAE and Tanzania: IPU’s Women in Parliament Annual Reviews.\nSerbia, Montenegro, Nigeria and South Sudan: IPU’s Parline. Available at: http://www.ipu.org/parline-e/parlinesearch.asp [accessed 16th August 2017].\nKuwait: The Guardian. Available at: https://www.theguardian.com/world/2009/may/17/kuwait-women-elected-parliament [accessed 16th August 2017].\nLibya: Libyan House of Representatives. Available at: https://www.temehu.com/house-of-representatives.htm [accessed 16th August 2017].\nSierra Leone: Pathways of Women’s Empowerment, Institute of Development Studies, University of Sussex, UK. Available at: https://assets.publishing.service.gov.uk/media/57a08ac5ed915d3cfd00092c/CS_Women_and_Politics_SL.pdf [accessed 16th August 2017].\nShare of women in parliament \nIPU’s Statistical Archive (http://www.ipu.org/wmn-e/classif-arc.htm) for all countries from 2004 to 2017. For each year, we take the share of women in lower house of the parliament. This definition matches both with WDI and IPU’s Women in Parliament 1945-1995. They use the share of women in single house for unicameral parliaments and lower house for bicameral parliaments. Moreover, for consistency, data is taken from December every year. If December data is missing, we take the next latest month of the corresponding year.\nHandling data issues: \nFor years 1997 - 2003, there is an overlap between Paxton’s dataset and WDI data measuring the share of women in parliament. For most countries, the values match exactly. However, there are 20-40 countries each year where the Paxton and WDI values do not match. As the more complete and comprehensive dataset, we have taken Paxton’s dataset as our primary source in such cases for the period 1997-2003. Nonetheless, we use WDI to fill the remaining gaps. For the same reasoning, we choose manually collected data from IPU’s statistical archive over WDI for the years 2004-2016.",
+  "sources": [
+    {
+      "name": "OWID Women’s Political Representation using Paxton et al (2006), IPU & WDI (2017)",
+      "dataPublishedBy": "Our World In Data (dataset constructed by Ruby Mittal)",
+      "dataPublisherSource": "Data from 1893-2003 corresponds to Paxton et al (2006), The International Women's Movement and Women's Political Representation, 1893-2003. Data from 2004-2017 corresponds to the Statistical Archives, Women in National Parliaments, Inter-Parliamentary Union (IPU). Data gaps from 1997-2016 correspond to Proportion of seats held by women in national parliaments (%), World Development Indicators (WDI), World Bank",
+      "link": "Paxton et al (2006): http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/24340?sortBy=&searchSource=revise&q=paxton+pamela. Women in National Parliaments (IPU): http://www.ipu.org/wmn-e/classif-arc.htm. WDI, World Bank: http://data.worldbank.org/indicator/SG.GEN.PARL.ZS",
+      "retrievedDate": "16/08/2017",
+      "additionalInfo": "Data construction:\nPaxton et al (2006) provides data on five milestones of women’s political representation from 1893 to 2003. Our dataset updates their data through to 2017 using Inter-parliamentary union (IPU) statistical archives and the World Bank’s World Development Indicator (WDI) variable on women’s share in parliament (main sources).\n\nPaxton’s data is downloaded from the Inter-university Consortium for Political and Social Research (ICPSR). It provides country-level data on the start and end year of sovereignty; year in which universal suffrage was granted to all women; the year the first woman was elected to parliament; and percentage share of women in parliament for the years 1945-2003. Data from 2003 onwards was derived from various sources. IPU’s statistical archives were used to derive figures on the share of women in parliament (from 2004-2017); the CIA World Factbook provided data on the year of sovereignty and universal suffrage, alongside various additional sources which are listed below. Moreover, this data extension to 2017 means our dataset consists of five additional countries: Libya, Montenegro, Serbia, South Sudan and Timor, which gained independence after 2003. Paxton et al (2006) describes women’s political representation as the share of sovereign countries which satisfied the five representation milestones in any given year. We have therefore derived the number of sovereign countries generated in any given year, as well as the number which have attained each of the five milestones.\n\nTo overcome methodological differences, the attainment of milestones was assessed in two ways. Firstly, the number and share of sovereign countries were assessed relative to ‘ordered’ milestones. This results from Paxton et al’s (2006) assumption that a country only has an elected woman MP after universal suffrage is granted. However, there were 17 countries - Australia, Belgium, Brazil, Canada, Guinea-Bissau, Hungary, Ireland, Netherlands, Norway, Portugal, Samoa, Saudi Arabia, Socialist Federal Republic of Yugoslavia, South Africa, USSR, United Kingdom, and the United States – whereby a female MP was elected prior to gaining universal suffrage. Secondly, we assessed the number and share of sovereign countries which independently satisfied five milestones.\n\nAdditional information on data sources: \nThis section provides detailed information on the sources used by variables and countries.\n\nSovereignty \nCIA’s World Factbook Independence field is used to determine the year of sovereignty for Libya, Montenegro, Serbia, South Sudan, Timor, American Samoa, Hungary and Iran. Likewise, we determine end of sovereignty for Libya and Serbia and Montenegro using the same source. Available at: https://www.cia.gov/library/publications/the-world-factbook/fields/2088.html [accessed 16th August 2017].\nUniversal Suffrage\nKuwait, Oman and Qatar: UNICEF Gender Equality Profiles. Available at: https://www.unicef.org/gender/gender_62215.html [accessed 16th August 2017].\nLibya, Serbia (mentioned as Serbia and Montenegro), Montenegro (mentioned as Serbia and Montenegro), South Sudan (mentioned as Sudan), Timor and American Samoa. IPU’s Women in Politics. Available at: http://www.ipu.org/PDF/publications/wmn45-05_en.pdf [accessed 16th August 2017].\nSaudi Arabia and United Arab Emirates. CIA’s World Factbook Suffrage field. Available at: https://www.cia.gov/library/publications/the-world-factbook/fields/2123.html [accessed 16th August 2017].\nBrunei: Wikipedia.\nFirst woman elected to parliament\nTimor, Latvia and American Samoa: IPU’s Women in Politics. Available at: http://www.ipu.org/PDF/publications/wmn45-05_en.pdf [accessed 16th August 2017].\nOman, Palau, Saudi Arabia, Qatar, UAE and Tanzania: IPU’s Women in Parliament Annual Reviews.\nSerbia, Montenegro, Nigeria and South Sudan: IPU’s Parline. Available at: http://www.ipu.org/parline-e/parlinesearch.asp [accessed 16th August 2017].\nKuwait: The Guardian. Available at: https://www.theguardian.com/world/2009/may/17/kuwait-women-elected-parliament [accessed 16th August 2017].\nLibya: Libyan House of Representatives. Available at: https://www.temehu.com/house-of-representatives.htm [accessed 16th August 2017].\nSierra Leone: Pathways of Women’s Empowerment, Institute of Development Studies, University of Sussex, UK. Available at: https://assets.publishing.service.gov.uk/media/57a08ac5ed915d3cfd00092c/CS_Women_and_Politics_SL.pdf [accessed 16th August 2017].\nShare of women in parliament \nIPU’s Statistical Archive (http://www.ipu.org/wmn-e/classif-arc.htm) for all countries from 2004 to 2017. For each year, we take the share of women in lower house of the parliament. This definition matches both with WDI and IPU’s Women in Parliament 1945-1995. They use the share of women in single house for unicameral parliaments and lower house for bicameral parliaments. Moreover, for consistency, data is taken from December every year. If December data is missing, we take the next latest month of the corresponding year.\nHandling data issues: \nFor years 1997 - 2003, there is an overlap between Paxton’s dataset and WDI data measuring the share of women in parliament. For most countries, the values match exactly. However, there are 20-40 countries each year where the Paxton and WDI values do not match. As the more complete and comprehensive dataset, we have taken Paxton’s dataset as our primary source in such cases for the period 1997-2003. Nonetheless, we use WDI to fill the remaining gaps. For the same reasoning, we choose manually collected data from IPU’s statistical archive over WDI for the years 2004-2016."
+    }
+  ],
+  "owidTags": [
+    "Gender"
+  ],
+  "resources": [
+    {
+      "path": "Women’s Political Representation using Paxton et al (2006), IPU (2017) & WDI (2017) .csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of sovereign countries having granted universal suffrage to women (relative to 'ordered' milestones) ",
+            "type": "any",
+            "description": "Total number of sovereign countries in each year which had given the right to vote to all women (universal suffrage) in that year or any previous year. Relative to 'ordered' milestones means that these countries had already gained sovereignty in that year or the years before.\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of sovereign countries having elected first female MP (relative to 'ordered' milestones) ",
+            "type": "any",
+            "description": "Total number of sovereign countries in each year which had elected their first female member of parliament (MP) in that year or any previous year. Relative to 'ordered' milestones means that these countries had already gained universal suffrage in that year or the years before.\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of sovereign countries having had at least 10% women in parliament (relative to 'ordered' milestones) ",
+            "type": "any",
+            "description": "Total number of sovereign countries in each year where women had secured at least 10% of seats in parliament, in that year or any previous year. Relative to 'ordered' milestones means that these countries had already gained universal suffrage and elected first female MP in that year or the years before.\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of sovereign countries having had at least 20% women in parliament (relative to 'ordered' milestones) ",
+            "type": "any",
+            "description": "Total number of sovereign countries in each year where women had secured at least 20% of seats in parliament, in that year or any previous year. Relative to 'ordered' milestones means that these countries had already gained universal suffrage, elected first female MP and had 10% share of women in parliament in that year or the years before.\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of sovereign countries having had at least 30% women in parliament (relative to 'ordered' milestones)",
+            "type": "any",
+            "description": "Total number of sovereign countries in each year where women had secured at least 30% of seats in parliament, in that year or any previous year. Relative to 'ordered' milestones means that these countries had already gained universal suffrage, elected first female MP, had 10% and 20% share of women in parliament in that year or the years before.\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of sovereign countries having granted universal suffrage to women (relative to 'ordered' milestones)",
+            "type": "any",
+            "description": "The percentage share of sovereign countries in each year which had given the right to vote to all women (universal suffrage) in that year or any previous year. Relative to 'ordered' milestones means that these countries had already gained sovereignty in that year or the years before. \r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of sovereign countries having elected first female MP (relative to 'ordered' milestones)",
+            "type": "any",
+            "description": "The percentage share of sovereign countries in each year which had elected their first female member of parliament (MP) in that year or any previous year. Relative to 'ordered' milestones means that these countries had already gained universal suffrage in that year or the years before\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of sovereign countries having had at least 10% women in parliament (relative to 'ordered' milestones) ",
+            "type": "any",
+            "description": "Total number of sovereign countries in each year where women had secured at least 20% of seats in parliament, in that year or any previous year. Relative to 'ordered' milestones means that these countries had already gained universal suffrage and elected first female MP in that year or the years before.\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of sovereign countries having had at least 20% women in parliament (relative to 'ordered' milestones)",
+            "type": "any",
+            "description": "The percentage share of sovereign countries in each year where women had secured at least 20% of seats in parliament, in that year or any previous year. Relative to'ordered' milestones means that these countries had already gained universal suffrage, elected first female MP and had 10% share of women in parliament in that year or the years before.\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of sovereign countries having had at least 30% women in parliament (relative to 'ordered' milestones)",
+            "type": "any",
+            "description": "The percentage share of sovereign countries in each year where women had secured at least 30% of seats in parliament, in that year or any previous year. Relative to 'ordered' milestones means that these countries had already gained universal suffrage, elected first female MP, had 10% and 20% share of women in parliament in that year or the years before.\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of sovereign countries ",
+            "type": "any",
+            "description": "Total number of countries in each year which had gained sovereignty/independence in that year or any previous year.\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of sovereign countries having granted universal suffrage to women  ",
+            "type": "any",
+            "description": "Total number of sovereign countries in each year which had given the right to vote to all women (universal suffrage) in that year or any previous year.\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of sovereign countries having elected first female MP ",
+            "type": "any",
+            "description": "Total number of sovereign countries in each year which had elected their first female member of parliament (MP) in that year or any previous year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of sovereign countries having had at least 10% women in parliament ",
+            "type": "any",
+            "description": "Total number of sovereign countries in each year where women had secured at least 10% of seats in parliament, in that year or any previous year.\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of sovereign countries having had at least 20% women in parliament",
+            "type": "any",
+            "description": "Total number of sovereign countries in each year where women had secured at least 20% of seats in parliament, in that year or any previous year.\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of sovereign countries having had at least 30% women in parliament ",
+            "type": "any",
+            "description": "Total number of sovereign countries in each year where women had secured at least 30% of seats in parliament, in that year or any previous year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of sovereign countries having granted universal suffrage to women ",
+            "type": "any",
+            "description": "The percentage share of sovereign countries in each year which had given the right to vote to all women (universal suffrage) in that year or any previous year.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of sovereign countries having elected first female MP  ",
+            "type": "any",
+            "description": "The percentage share of sovereign countries in each year which had elected their first female member of parliament (MP) in that year or any previous year.\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of sovereign countries having had at least 10% women in parliament ",
+            "type": "any",
+            "description": "Total number of sovereign countries in each year where women had secured at least 20% of seats in parliament, in that year or any previous year.\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of sovereign countries having had at least 20% women in parliament ",
+            "type": "any",
+            "description": "The percentage share of sovereign countries in each year where women had secured at least 20% of seats in parliament, in that year or any previous year.\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of sovereign countries having had at least 30% women in parliament",
+            "type": "any",
+            "description": "The percentage share of sovereign countries in each year where women had secured at least 30% of seats in parliament, in that year or any previous year.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
