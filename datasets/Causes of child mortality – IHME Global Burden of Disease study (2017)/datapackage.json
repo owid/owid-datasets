@@ -1,0 +1,52 @@
+{
+  "name": "Causes of child mortality – IHME Global Burden of Disease study (2017)",
+  "title": "Causes of child mortality – IHME Global Burden of Disease study (2017)",
+  "id": 350,
+  "description": "Estimates refer to both sexes and to the global level.\r\n\r\nAll causes for which IHME published an estimate of 0 were removed from the dataset.\r\n\r\nEbola as a cause of death was only included in 2015 by IHME. We have assumed 0 deaths for Ebola in 1990.",
+  "sources": [
+    {
+      "name": "Causes of child mortality – IHME Global Burden of Disease study (2017)",
+      "dataPublishedBy": "Institute for Health Metrics and Evaluation (IHME)",
+      "dataPublisherSource": "Global Burden of Disease study",
+      "link": "http://www.healthdata.org/data-visualization/gbd-compare",
+      "retrievedDate": "14/02/2017",
+      "additionalInfo": "Estimates refer to both sexes and to the global level.\r\n\r\nAll causes for which IHME published an estimate of 0 were removed from the dataset.\r\n\r\nEbola as a cause of death was only included in 2015 by IHME. We have assumed 0 deaths for Ebola in 1990."
+    }
+  ],
+  "owidTags": [
+    "Child Mortality"
+  ],
+  "resources": [
+    {
+      "path": "Causes of child mortality – IHME Global Burden of Disease study (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of children dying in first 5 years globally, by cause (IHME (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Deaths (IHME (2017))",
+            "type": "any",
+            "description": "1990-2015",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
