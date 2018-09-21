@@ -1,0 +1,42 @@
+{
+  "name": "United Nations: Human Development Index (HDI)",
+  "title": "United Nations: Human Development Index (HDI)",
+  "id": 94,
+  "description": "",
+  "sources": [
+    {
+      "name": "United Nations Human Development Index (HDI)",
+      "dataPublishedBy": "United Nations",
+      "dataPublisherSource": "United Nations",
+      "link": "http://hdr.undp.org/en/content/human-development-index-hdi",
+      "retrievedDate": "08/06/2015",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Human Development Index (HDI)"
+  ],
+  "resources": [
+    {
+      "path": "United Nations: Human Development Index (HDI).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Human Development Index (HDI), 1980-2014 - UN",
+            "type": "any",
+            "description": "The Human Development Index (HDI) is a composite index of life expectancy, education, and per capita income indicators, used to rank countries into four tiers of human development.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
