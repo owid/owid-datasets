@@ -1,0 +1,11 @@
+# Global CO2 emissions - CDIAC and UN Population
+
+Per capita CO2 emissions have been calculated based on the combination of global emissions data from CDIAC (described below), and UN Population Prospects data.
+
+Population data was derived from: The History Database of the Global Environment (HYDE) collected the data by earlier publications. For the 'OurWorldInData'-series we used various sources: The data for the period before 1900 are taken from the History Database of the Global Environment (HYDE). The data for the World Population between 1900 and 1940 is taken from the UN puplication 'The World at Six Billion'. The annual data for the World Population between 1950 and 2015 is taken from the UN's World Population Prospects: The 2015 Revision. It is the series 'Total Population - Both Sexes' online available at: https://esa.un.org/unpd/wpp/.
+
+Emissions data have been sourced from the Carbon Dioxide Information Analysis Centre (CDIAC) database. Emissions data have been converted from units of carbon to carbon dioxide (CO2) using a conversion factor of 3.67.
+
+CDIAC denote a "statistical difference" component which has been included in this data. This statistical difference represents the difference between estimated global CO2 emissions and the sum of national totals. Estimates of CO2 emissions show that the global total of emissions is not equal to the sum of emissions from all countries. This is introduced in several cases: emissions within international territories, which are included in global totals but not attributed to individual countries; inconsistent national reporting where global import and export data is imbalanced; and differing treatment of non-fuel uses of hydrocarbons.
+
+Full methodology on global, regional, national and statistical difference estimations can be found in Le Quere et al. (2016): Le Quéré, C., Andrew, R. M., Canadell, J. G., Sitch, S., Korsbakken, J. I., Peters, G. P., ... & Keeling, R. F. (2016). Global carbon budget 2016. Earth System Science Data, 8(2), 605. Available at: doi:10.5194/essd-8-605-2016.
