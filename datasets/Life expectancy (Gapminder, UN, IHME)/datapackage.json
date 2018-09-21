@@ -1,0 +1,48 @@
+{
+  "name": "Life expectancy (Gapminder, UN, IHME)",
+  "title": "Life expectancy (Gapminder, UN, IHME)",
+  "id": 2713,
+  "description": "Gapminder data is used up until 1990. Gapminder uses UN data from 1950 onward. We have used IHME life expectancy data from 1990 to today.",
+  "sources": [
+    {
+      "name": "Gapminder up until 1989, IHME from 1990 to today",
+      "dataPublishedBy": "Gapminder, UN, IHME",
+      "dataPublisherSource": "Historical estimates, national statistics",
+      "link": "Gapminder: https://www.gapminder.org/data/documentation/gd004/, IHME: http://ghdx.healthdata.org/gbd-results-tool",
+      "retrievedDate": "30/03/2018",
+      "additionalInfo": "Gapminder data is used up until 1990. Gapminder uses UN data from 1950 onward. We have used IHME life expectancy data from 1990 to today."
+    }
+  ],
+  "owidTags": [
+    "Life Expectancy"
+  ],
+  "resources": [
+    {
+      "path": "Life expectancy (Gapminder, UN, IHME).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Life expectancy - interpolated (Gapminder, UN, IHME)",
+            "type": "any",
+            "description": "Gapminder definition: The average number of years a newborn child would live if current mortality patterns were to stay the same. \n\nGapminder data is used up until 1990. Gapminder uses UN data from 1950 onward. We have used IHME life expectancy data from 1990 to today.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Life expectancy - non-interpolated (Gapminder, UN, IHME)",
+            "type": "any",
+            "description": "Gapminder definition: The average number of years a newborn child would live if current mortality patterns were to stay the same. \n\nGapminder data is used up until 1990. Gapminder uses UN data from 1950 onward. We have used IHME life expectancy data from 1990 to today.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
