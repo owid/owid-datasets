@@ -1,0 +1,54 @@
+{
+  "name": "Male-to-female ratio high school courses in USA - Goldin et al.",
+  "title": "Male-to-female ratio high school courses in USA - Goldin et al.",
+  "id": 2076,
+  "description": "Data represents the average male-to-female ratio of students taking maths and science subjects in high school education in the United States.",
+  "sources": [
+    {
+      "name": "Male-to-female ratio high school courses in USA - Goldin et al.",
+      "dataPublishedBy": "Goldin, C., Katz, L. F., & Kuziemko, I. (2006). The homecoming of American college women: The reversal of the college gender gap. Journal of Economic perspectives, 20(4), 133-156.",
+      "dataPublisherSource": "Wisconsin Longitudinal Survey; National Longitudinal Survey",
+      "link": "http://www.jstor.org/stable/30033687",
+      "retrievedDate": "9th February 2018",
+      "additionalInfo": "Data represents the average male-to-female ratio of students taking maths and science subjects in high school education in the United States."
+    }
+  ],
+  "owidTags": [
+    "Secondary Education"
+  ],
+  "resources": [
+    {
+      "path": "Male-to-female ratio high school courses in USA - Goldin et al..csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Maths",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Science",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Chemistry",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
