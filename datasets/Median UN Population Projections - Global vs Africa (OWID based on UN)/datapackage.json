@@ -1,0 +1,66 @@
+{
+  "name": "Median UN Population Projections - Global vs Africa (OWID based on UN)",
+  "title": "Median UN Population Projections - Global vs Africa (OWID based on UN)",
+  "id": 2782,
+  "description": "Population data is based on the Medium UN projection (2017 Edition) from 2015-2100. This is presented in thousands.\n\nOur World in Data have derived the age category \"12-24 years old\" based on the sum of the UN age cohorts \"12-14\" and \"15-24\" years old. OWID have also derived a value for all non-African countries, using the global projection minus the population projection for Africa.",
+  "sources": [
+    {
+      "name": "Median UN Population Projections - Global vs Africa (OWID based on UN)",
+      "dataPublishedBy": "United Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, DVD Edition.",
+      "dataPublisherSource": null,
+      "link": "https://esa.un.org/unpd/wpp/Download/Standard/Population/",
+      "retrievedDate": "3rd May 2018",
+      "additionalInfo": "Population data is based on the Medium UN projection (2017 Edition) from 2015-2100. This is presented in thousands.\n\nOur World in Data have derived the age category \"12-24 years old\" based on the sum of the UN age cohorts \"12-14\" and \"15-24\" years old. OWID have also derived a value for all non-African countries, using the global projection minus the population projection for Africa."
+    }
+  ],
+  "owidTags": [
+    "Future World Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Median UN Population Projections - Global vs Africa (OWID based on UN).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "65+ years population (UN median projections)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Under-5 years population (UN median projections)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "25-64 years population (UN median projections)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "6-11 years population (UN median projections)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "12-24 years population (UN median projections)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
