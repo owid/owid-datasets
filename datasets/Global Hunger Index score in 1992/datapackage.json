@@ -1,0 +1,27 @@
+{
+  "name": "Global Hunger Index score in 1992",
+  "title": "Global Hunger Index score in 1992",
+  "id": 2468,
+  "description": "",
+  "sources": [],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Global Hunger Index score in 1992.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          }
+        ]
+      }
+    }
+  ]
+}
