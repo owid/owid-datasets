@@ -1,0 +1,52 @@
+{
+  "name": "UN Population by age group to 2100 - UN Population Statistics Division (2017)",
+  "title": "UN Population by age group to 2100 - UN Population Statistics Division (2017)",
+  "id": 551,
+  "description": "Projected population by age group. Population trends for the under 15 age group have been calculated as the sum of all age groups up to 14 years old. Over 15 constitutes all individuals aged 15 or above. The total constitutes the sum of both age categories.",
+  "sources": [
+    {
+      "name": "UN Population Statistics Division (2017) ",
+      "dataPublishedBy": "UN Population Statistics Division",
+      "dataPublisherSource": null,
+      "link": "https://esa.un.org/unpd/wpp/",
+      "retrievedDate": "27/06/2017",
+      "additionalInfo": "Projected population by age group. Population trends for the under 15 age group have been calculated as the sum of all age groups up to 14 years old. Over 15 constitutes all individuals aged 15 or above. The total constitutes the sum of both age categories."
+    }
+  ],
+  "owidTags": [
+    "Future World Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "UN Population by age group to 2100 - UN Population Statistics Division (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Population (UN Population Statistics Division (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Projected population (UN Population Statistics Division (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
