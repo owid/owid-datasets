@@ -1,0 +1,42 @@
+{
+  "name": "Poverty headcount (below $3.10 per day, 2011 PPP) - World Bank (WDI) (2016)",
+  "title": "Poverty headcount (below $3.10 per day, 2011 PPP) - World Bank (WDI) (2016)",
+  "id": 185,
+  "description": "The World Bank explains: \"Poverty headcount ratio at $3.10 a day is the percentage of the population living on less than $3.10 a day at 2011 international prices. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions. Note: five countries -- Bangladesh, Cabo Verde, Cambodia, Jordan, and Lao PDR -- use the 2005 PPP conversion factors and corresponding $1.25 a day and $2 a day poverty lines. This is due to the large deviations in the rate of change in PPP factors relative to the rate of change in domestic consumer price indexes. See Box 1.1 in the Global Monitoring Report 2015/2016 (http://www.worldbank.org/en/publication/global-monitoring-report) for a detailed explanation.\"",
+  "sources": [
+    {
+      "name": "Poverty headcount (below $3.10 per day, 2011 PPP) - World Bank (WDI) (2016)",
+      "dataPublishedBy": "World Bank – World Development Indicator",
+      "dataPublisherSource": "Data from the World Bank Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).",
+      "link": "http://data.worldbank.org/indicator/SI.POV.2DAY",
+      "retrievedDate": "27/02/2016",
+      "additionalInfo": "The World Bank explains: \"Poverty headcount ratio at $3.10 a day is the percentage of the population living on less than $3.10 a day at 2011 international prices. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions. Note: five countries -- Bangladesh, Cabo Verde, Cambodia, Jordan, and Lao PDR -- use the 2005 PPP conversion factors and corresponding $1.25 a day and $2 a day poverty lines. This is due to the large deviations in the rate of change in PPP factors relative to the rate of change in domestic consumer price indexes. See Box 1.1 in the Global Monitoring Report 2015/2016 (http://www.worldbank.org/en/publication/global-monitoring-report) for a detailed explanation.\""
+    }
+  ],
+  "owidTags": [
+    "World Poverty"
+  ],
+  "resources": [
+    {
+      "path": "Poverty headcount (below $3.10 per day, 2011 PPP) - World Bank (WDI) (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Poverty headcount (below $3.10 per day, 2011 PPP) (World Bank (WDI) (2016))",
+            "type": "any",
+            "description": "Poverty headcount ratio at $3.10 a day (2011 PPP) (% of population)",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
