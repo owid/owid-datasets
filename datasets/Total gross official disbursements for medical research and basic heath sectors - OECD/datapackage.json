@@ -1,0 +1,42 @@
+{
+  "name": "Total gross official disbursements for medical research and basic heath sectors - OECD",
+  "title": "Total gross official disbursements for medical research and basic heath sectors - OECD",
+  "id": 1925,
+  "description": "The sum of Official Development Assistance (ODA) flows from all donors to developing countries for medical research and basic health.\n\nODA: The DAC defines ODA as “those flows to countries and territories on the DAC List of ODA Recipients\nand to multilateral institutions which are:\ni) provided by official agencies, including state and local governments, or by their executive\nagencies; and\nii) each transaction is administered with the promotion of the economic development and welfare of developing countries as its main objective; and is concessional in character and conveys a grant element of at least 25 per cent (calculated at a rate of discount of 10 per cent).\n\nMedical research and basic health sectors are as defined by the DAC. Medical research refers to CRS\nsector code 12182 and basic health covers all codes in the 122 series (see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm).",
+  "sources": [
+    {
+      "name": "Total gross official disbursements for medical research and basic heath sectors - OECD",
+      "dataPublishedBy": "Organisation for Economic Co-operation and Development (OECD)",
+      "dataPublisherSource": null,
+      "link": "https://data.oecd.org/",
+      "retrievedDate": "25th January 2018",
+      "additionalInfo": "The sum of Official Development Assistance (ODA) flows from all donors to developing countries for medical research and basic health.\n\nODA: The DAC defines ODA as “those flows to countries and territories on the DAC List of ODA Recipients\nand to multilateral institutions which are:\ni) provided by official agencies, including state and local governments, or by their executive\nagencies; and\nii) each transaction is administered with the promotion of the economic development and welfare of developing countries as its main objective; and is concessional in character and conveys a grant element of at least 25 per cent (calculated at a rate of discount of 10 per cent).\n\nMedical research and basic health sectors are as defined by the DAC. Medical research refers to CRS\nsector code 12182 and basic health covers all codes in the 122 series (see here: http://www.oecd.org/dac/stats/purposecodessectorclassification.htm)."
+    }
+  ],
+  "owidTags": [
+    "Medical Research & Innovation"
+  ],
+  "resources": [
+    {
+      "path": "Total gross official disbursements for medical research and basic heath sectors - OECD.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total gross official disbursements for medical research and basic heath sectors",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
