@@ -1,0 +1,3 @@
+# Rough Sleeping in England in the 2010s - OWID based on UK National Statistics (2017)
+
+The UK Government defines Rough Sleepers as: are defined for the purposes of rough sleeping counts and estimates as: "people sleeping, about to bed down (sitting on/in or standing next to their bedding) or actually bedded down in the open air (such as on the streets, in tents, doorways, parks, bus shelters or encampments); people in buildings or other places not designed for habitation (such as stairwells, barns, sheds, car parks, cars, derelict boats, stations, or ‘bashes’); The definition does not include people in hostels or shelters, people in campsites or other sites used for recreational purposes or organised protest, squatters or travellers."

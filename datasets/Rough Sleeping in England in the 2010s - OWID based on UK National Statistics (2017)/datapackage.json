@@ -1,0 +1,52 @@
+{
+  "name": "Rough Sleeping in England in the 2010s - OWID based on UK National Statistics (2017)",
+  "title": "Rough Sleeping in England in the 2010s - OWID based on UK National Statistics (2017)",
+  "id": 362,
+  "description": "The UK Government defines Rough Sleepers as: are defined for the purposes of rough sleeping counts and estimates as: \"people sleeping, about to bed down (sitting on/in or standing next to their bedding) or actually bedded down in the open air (such as on the streets, in tents, doorways, parks, bus shelters or encampments); people in buildings or other places not designed for habitation (such as stairwells, barns, sheds, car parks, cars, derelict boats, stations, or ‘bashes’); The definition does not include people in hostels or shelters, people in campsites or other sites used for recreational purposes or organised protest, squatters or travellers.\"",
+  "sources": [
+    {
+      "name": "Rough Sleeping in England in the 2010s - OWID based on UK National Statistics (2017)",
+      "dataPublishedBy": "OWID team's own calculations based on data from the Office for National Statistics. ",
+      "dataPublisherSource": null,
+      "link": "Population: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland. Rough Sleeping: https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness#rough-sleeping-tables",
+      "retrievedDate": "24/02/2017",
+      "additionalInfo": "The UK Government defines Rough Sleepers as: are defined for the purposes of rough sleeping counts and estimates as: \"people sleeping, about to bed down (sitting on/in or standing next to their bedding) or actually bedded down in the open air (such as on the streets, in tents, doorways, parks, bus shelters or encampments); people in buildings or other places not designed for habitation (such as stairwells, barns, sheds, car parks, cars, derelict boats, stations, or ‘bashes’); The definition does not include people in hostels or shelters, people in campsites or other sites used for recreational purposes or organised protest, squatters or travellers.\""
+    }
+  ],
+  "owidTags": [
+    "Poverty in Individual Countries"
+  ],
+  "resources": [
+    {
+      "path": "Rough Sleeping in England in the 2010s - OWID based on UK National Statistics (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of people experiencing rough sleeping per 100,000 in England (2010-2015) (OWID based on UK National Statistics (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Total number of people experiencing rough sleeping in England in the 2010s (OWID based on UK National Statistics (2017)) ",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
