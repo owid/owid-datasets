@@ -1,0 +1,27 @@
+{
+  "name": "Air pollution death rate- world- IHME",
+  "title": "Air pollution death rate- world- IHME",
+  "id": 397,
+  "description": "",
+  "sources": [],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "Air pollution death rate- world- IHME.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          }
+        ]
+      }
+    }
+  ]
+}
