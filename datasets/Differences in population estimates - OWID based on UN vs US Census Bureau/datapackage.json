@@ -1,0 +1,48 @@
+{
+  "name": "Differences in population estimates - OWID based on UN vs US Census Bureau",
+  "title": "Differences in population estimates - OWID based on UN vs US Census Bureau",
+  "id": 947,
+  "description": "This dataset was calculated by OWID based on population estimates from the UN Population Division (2017) and US Census Bureau.\r\n\r\nAbsolute differences measure the absolute difference in regional and global population estimates from the UN Population Division and US Census Bureau. Figures were calculated as the annual total population estimate from the UN Population Division (2017) minus population estimates from the US Census Bureau.\r\n\r\nRelative differences measure this difference in estimates as a percentage of UN figures (i.e. (UN population - US Census Bureau population) / UN population).\r\n\r\nNegative figures therefore represent lower UN estimates vs. US Census Bureau estimates, and vice versa (positive values indicate higher UN estimates).\r\n\r\nReferences:\r\n\r\nUnited Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, DVD Edition. Available at: https://esa.un.org/unpd/wpp/Download/Standard/Population/ [accessed 2nd October 2017].\r\n\r\nUnited States Census Bureau International Database (IDB). Available at: https://www.census.gov/population/international/data/idb/informationGateway.php [accessed 2nd October 2017].",
+  "sources": [
+    {
+      "name": "Differences in population estimates, OWID based on UN vs US Census Bureau",
+      "dataPublishedBy": "OWID",
+      "dataPublisherSource": "Census data.",
+      "link": "https://esa.un.org/unpd/wpp/Download/Standard/Population/  and https://www.census.gov/population/international/data/idb/informationGateway.php",
+      "retrievedDate": null,
+      "additionalInfo": "This dataset was calculated by OWID based on population estimates from the UN Population Division (2017) and US Census Bureau.\r\n\r\nAbsolute differences measure the absolute difference in regional and global population estimates from the UN Population Division and US Census Bureau. Figures were calculated as the annual total population estimate from the UN Population Division (2017) minus population estimates from the US Census Bureau.\r\n\r\nRelative differences measure this difference in estimates as a percentage of UN figures (i.e. (UN population - US Census Bureau population) / UN population).\r\n\r\nNegative figures therefore represent lower UN estimates vs. US Census Bureau estimates, and vice versa (positive values indicate higher UN estimates).\r\n\r\nReferences:\r\n\r\nUnited Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, DVD Edition. Available at: https://esa.un.org/unpd/wpp/Download/Standard/Population/ [accessed 2nd October 2017].\r\n\r\nUnited States Census Bureau International Database (IDB). Available at: https://www.census.gov/population/international/data/idb/informationGateway.php [accessed 2nd October 2017]."
+    }
+  ],
+  "owidTags": [
+    "World Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Differences in population estimates - OWID based on UN vs US Census Bureau.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Absolute difference in population (OWID based on UN vs US Census Bureau)",
+            "type": "any",
+            "description": "Absolute difference in regional and global population estimates from the UN Population Division and US Census Bureau. Calculated as the annual total population estimate from the UN Population Division (2017) minus population estimates from the US Census Bureau.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Relative difference in population (OWID based on UN vs US Census Bureau)",
+            "type": "any",
+            "description": "Relative differences measure the difference in estimates between UN population and US Census Bureau population as a percentage of UN figures (i.e. (UN population - US Census Bureau population) / UN population).",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
