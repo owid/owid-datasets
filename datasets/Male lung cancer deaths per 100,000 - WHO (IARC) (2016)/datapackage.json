@@ -1,0 +1,44 @@
+{
+  "name": "Male lung cancer deaths per 100,000 - WHO (IARC) (2016)",
+  "title": "Male lung cancer deaths per 100,000 - WHO (IARC) (2016)",
+  "id": 54,
+  "description": "Mortality data was compiled by Gapminder using data from IARC GLOBOCAN 2002 (estimates for 2002) and WHO-IARC time series data.",
+  "sources": [
+    {
+      "name": "WHO - International Agency for Research on Cancer (IARC) (2016)",
+      "dataPublishedBy": "International Agency for Research on Cancer and Gapminder ",
+      "dataPublisherSource": "Census data, IARC data ",
+      "link": "https://www.gapminder.org/data/ and http://www-dep.iarc.fr/WHOdb/WHOdb.htm ",
+      "retrievedDate": "15/11/2017",
+      "additionalInfo": "Mortality data was compiled by Gapminder using data from IARC GLOBOCAN 2002 (estimates for 2002) and WHO-IARC time series data."
+    }
+  ],
+  "owidTags": [
+    "Cancer"
+  ],
+  "resources": [
+    {
+      "path": "Male lung cancer deaths per 100,000 - WHO (IARC) (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Male lung cancer deaths per 100,000 (WHO (IARC) (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "deaths per 100,000"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
