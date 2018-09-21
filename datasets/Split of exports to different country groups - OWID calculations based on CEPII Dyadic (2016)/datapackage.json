@@ -1,0 +1,114 @@
+{
+  "name": "Split of exports to different country groups - OWID calculations based on CEPII Dyadic (2016)",
+  "title": "Split of exports to different country groups - OWID calculations based on CEPII Dyadic (2016)",
+  "id": 2707,
+  "description": "To calculate country exports to the rest of the world, the total value of exports by country, per year, is divided by the country's GDP. Calculations use CEPII dyadic trade data.\n\nThe time series 'World' corresponds to the World's total exports (i.e. the sum of exports reported by all countries in the dataset).\n\nThe total export values of regional income aggregates have been calculated using the World Bank's income groupings.\n\nGermany's time series is comprised of West Germany, and Germany. East Germany has been excluded for the purposes of Germany's calculations but is included in the World series.\nRussia's time series comprises Russia and the USSR. ",
+  "sources": [
+    {
+      "name": "CEPII (2016) Two Centuries of Bilateral Trade and Gravity Data: 1827-2014 (2016)",
+      "dataPublishedBy": "Michel Fouquin & Jules Hugot , 2016. \"Two Centuries of Bilateral Trade and Gravity Data: 1827-2014,\" CEPII Working Paper 2016- 14 , May 2016 , CEPII ",
+      "dataPublisherSource": "IMF Direction of Trade Statistics data set, manuscripts",
+      "link": "http://www.cepii.fr/cepii/en/bdd_modele/presentation.asp?id=32",
+      "retrievedDate": "19/03/2018",
+      "additionalInfo": "To calculate country exports to the rest of the world, the total value of exports by country, per year, is divided by the country's GDP. Calculations use CEPII dyadic trade data.\n\nThe time series 'World' corresponds to the World's total exports (i.e. the sum of exports reported by all countries in the dataset).\n\nThe total export values of regional income aggregates have been calculated using the World Bank's income groupings.\n\nGermany's time series is comprised of West Germany, and Germany. East Germany has been excluded for the purposes of Germany's calculations but is included in the World series.\nRussia's time series comprises Russia and the USSR. "
+    }
+  ],
+  "owidTags": [
+    "Trade from Antiquity to Early Modern Times"
+  ],
+  "resources": [
+    {
+      "path": "Split of exports to different country groups - OWID calculations based on CEPII Dyadic (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Exports to Africa (CEPII Dyadic (2016))",
+            "type": "any",
+            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use CEPII dyadic trade data.\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Exports to Antarctica (CEPII Dyadic (2016))",
+            "type": "any",
+            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use CEPII dyadic trade data.\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Exports to Asia (CEPII Dyadic (2016))",
+            "type": "any",
+            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use CEPII dyadic trade data.\n\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Exports to Eastern Europe (CEPII Dyadic (2016))",
+            "type": "any",
+            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use CEPII dyadic trade data.\n\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Exports to North America (CEPII Dyadic (2016))",
+            "type": "any",
+            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use CEPII dyadic trade data.\n\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Exports to Oceania (CEPII Dyadic (2016))",
+            "type": "any",
+            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use CEPII dyadic trade data.\n\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Exports to South America (CEPII Dyadic (2016))",
+            "type": "any",
+            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use CEPII dyadic trade data.\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Exports to Western Europe (CEPII Dyadic (2016)) ",
+            "type": "any",
+            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use CEPII dyadic trade data.\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Exports to lower-middle income grouping (CEPII Dyadic (2016))",
+            "type": "any",
+            "description": "Value of merchandise exports by destination as a share of GDP. All partner countries are classified into income groups according to the latest World Bank classification. Calculations use CEPII dyadic trade data.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Exports to high-income grouping (CEPII Dyadic (2016))",
+            "type": "any",
+            "description": "Value of merchandise exports by destination as a share of GDP. All partner countries are classified into income groups according to the latest World Bank classification. Calculations use CEPII dyadic trade data.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Exports to low-income grouping (CEPII Dyadic (2016))",
+            "type": "any",
+            "description": "The share of exports from each entity exported to low-income country grouping. Income groupings are determined according to the World Bank's 2016 income classification. Calculations use CEPII dyadic trade data.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Exports to upper-middle income grouping (CEPII Dyadic (2016))",
+            "type": "any",
+            "description": "Value of merchandise exports by destination as a share of GDP. All partner countries are classified into income groups according to the latest World Bank classification. Calculations use CEPII dyadic trade data.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Exports to the World (CEPII Dyadic (2016))",
+            "type": "any",
+            "description": "Value of merchandise exports by destination as a share of GDP. Calculations use CEPII dyadic trade data.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
