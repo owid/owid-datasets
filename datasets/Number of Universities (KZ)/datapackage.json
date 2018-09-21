@@ -1,0 +1,42 @@
+{
+  "name": "Number of Universities (KZ)",
+  "title": "Number of Universities (KZ)",
+  "id": 1840,
+  "description": "",
+  "sources": [
+    {
+      "name": "Number of Universities (KZ)",
+      "dataPublishedBy": "Agency of the Republic of Kazakhstan on Statistics",
+      "dataPublisherSource": null,
+      "link": "http://www.stat.gov.kz/",
+      "retrievedDate": "26-November-2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Higher Education"
+  ],
+  "resources": [
+    {
+      "path": "Number of Universities (KZ).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of universities",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
