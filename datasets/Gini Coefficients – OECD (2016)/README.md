@@ -1,0 +1,3 @@
+# Gini Coefficients – OECD (2016)
+
+All estimates use the new OECD methodology for calculating incomes, introduced in 2012. The source notes: "Data calculated according to the new OECD Terms of reference. Compared to previous terms of reference, these include a more detail breakdown of current transfers received and paid by households as well as a revised definition of household income, including the value of goods produced for own consumption as an element of self-employed income."

@@ -1,0 +1,52 @@
+{
+  "name": "Gini Coefficients – OECD (2016)",
+  "title": "Gini Coefficients – OECD (2016)",
+  "id": 312,
+  "description": "All estimates use the new OECD methodology for calculating incomes, introduced in 2012. The source notes: \"Data calculated according to the new OECD Terms of reference. Compared to previous terms of reference, these include a more detail breakdown of current transfers received and paid by households as well as a revised definition of household income, including the value of goods produced for own consumption as an element of self-employed income.\"",
+  "sources": [
+    {
+      "name": "OECD Income Distribution Database (2016)",
+      "dataPublishedBy": "OECD.Stats",
+      "dataPublisherSource": "OECD, Social Protection & Well-Being, Income Distribution Database",
+      "link": "http://stats.oecd.org/Index.aspx?DataSetCode=IDD",
+      "retrievedDate": "26/10/2016",
+      "additionalInfo": "All estimates use the new OECD methodology for calculating incomes, introduced in 2012. The source notes: \"Data calculated according to the new OECD Terms of reference. Compared to previous terms of reference, these include a more detail breakdown of current transfers received and paid by households as well as a revised definition of household income, including the value of goods produced for own consumption as an element of self-employed income.\""
+    }
+  ],
+  "owidTags": [
+    "Income Inequality"
+  ],
+  "resources": [
+    {
+      "path": "Gini Coefficients – OECD (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Gini coefficient (income after taxes and transfers) (OECD Income Distribution Database (2016))",
+            "type": "any",
+            "description": "Gini coefficient after taxes and transfers have been made. The higher the gini, the more inequality; 1 corresponding to perfect inequality and 0 with perfect equality. ",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Gini  coefficient (before taxes and transfers) (OECD Income Distribution Database (2016))",
+            "type": "any",
+            "description": "Gini coefficient before any taxes and transfers have been made. The higher the gini, the more inequality; 1 corresponding to perfect inequality and 0 with perfect equality.",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
