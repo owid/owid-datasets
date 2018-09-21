@@ -1,0 +1,42 @@
+{
+  "name": "Decomposition of Gender Wage Gap 2010 - Blau and Kahn (2017)",
+  "title": "Decomposition of Gender Wage Gap 2010 - Blau and Kahn (2017)",
+  "id": 997,
+  "description": "See the authors' data appendix for more detail on how the data was prepared and analyzed. ",
+  "sources": [
+    {
+      "name": "Blau and Kahn (2017)",
+      "dataPublishedBy": "Blau, Francine D., and Lawrence M. Kahn (2017). \"The Gender Wage Gap: Extent, Trends, and Explanations.\" Journal of Economic Literature, 55(3): 789-865. ",
+      "dataPublisherSource": "Blau and Kahn's calculations based on data from the PSID (Michigan Panel Study of Income Dynamics) ",
+      "link": "http://pubs.aeaweb.org/doi/pdfplus/10.1257/jel.20160995 ",
+      "retrievedDate": "2017-10-17 ",
+      "additionalInfo": "See the authors' data appendix for more detail on how the data was prepared and analyzed. "
+    }
+  ],
+  "owidTags": [
+    "Income Inequality"
+  ],
+  "resources": [
+    {
+      "path": "Decomposition of Gender Wage Gap 2010 - Blau and Kahn (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Percent of gender gap 2010 (Blau and Kahn 2017)",
+            "type": "any",
+            "description": "Blau and Kahn (2017) decompose the gender wage gap into the contribution of particular labor-market characteristics. Specifically, it shows the fraction of the total gender wage gap accounted for by gender differences for the full specification of variables, based on the Oaxaca–Blinder decomposition.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
