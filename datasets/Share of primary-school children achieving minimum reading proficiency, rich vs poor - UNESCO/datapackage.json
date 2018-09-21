@@ -1,0 +1,48 @@
+{
+  "name": "Share of primary-school children achieving minimum reading proficiency, rich vs poor - UNESCO",
+  "title": "Share of primary-school children achieving minimum reading proficiency, rich vs poor - UNESCO",
+  "id": 2894,
+  "description": "",
+  "sources": [
+    {
+      "name": "UNESCO",
+      "dataPublishedBy": "Global Education Monitoring Report",
+      "dataPublisherSource": "Surveys",
+      "link": "https://www.education-inequalities.org/indicators/rlevel_prim#?sort=mean&dimension=wealth_quintile&group=|Quintile%205|Quintile%201&age_group=rlevel1_prim&countries=all&survey=PASEC",
+      "retrievedDate": "24/08/2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Literacy"
+  ],
+  "resources": [
+    {
+      "path": "Share of primary-school children achieving minimum reading proficiency, rich vs poor - UNESCO.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of children who passed the minimum PASEC proficiency level, poor (UNESCO)",
+            "type": "any",
+            "description": "Percentage of children of primary school age who passed the minimum proficiency level in the PASEC reading test, by household wealth",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of children who passed the minimum PASEC proficiency level, rich (UNESCO)",
+            "type": "any",
+            "description": "Percentage of children of primary school age who passed the minimum proficiency level in the PASEC reading test, by household wealth",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
