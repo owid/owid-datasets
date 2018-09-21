@@ -1,0 +1,7 @@
+# Plastic bag substitute comparisons (Danish EPA, 2018)
+
+The Danish Environmental Protection Agency conducted full life-cycle analysis (LCA) of environmental impacts of a range of grocery bag types. LCAs measure the total environmental impacts (such as greenhouse gas emissions) of a product across their full value chain (including inputs needed for their production).
+
+This was quantified for greenhouse gas emissions, as well as a comparison of 'all environmental indicators' which was a combined value for greenhouse gas emissions, ozone depletion, human toxicity (cancer effects), human toxicity (non-cancer effects), photochemical ozone formation, ionizing radiation, particulate matter, terrestrial acidification, terrestrial eutrophication, marine eutrophication, ecosystem toxicity, resource depletion (fossil), resource depletion (abiotic), and water resource depletion.
+
+Values are given relative to a standard LDPE (Low-density polyethylene) single-use plastic bag, with values indicating the number of reuses a given bag would need to result in an equal environment impact. For example, a value of 5 would indicate a bag would have to be reused 5 times in order to have as low an environmental impact as the LDPE bag.
