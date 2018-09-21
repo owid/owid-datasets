@@ -1,0 +1,44 @@
+{
+  "name": "Global Population by Region - HYDE (2016)",
+  "title": "Global Population by Region - HYDE (2016)",
+  "id": 325,
+  "description": "",
+  "sources": [
+    {
+      "name": "Global Population by Region - HYDE (2016)",
+      "dataPublishedBy": "HYDE Database",
+      "dataPublisherSource": "Calculations by the HYDE team",
+      "link": "ftp://ftp.pbl.nl/hyde/supplementary/Klein_Goldewijk_et_al_2016_HYDE32_paper/",
+      "retrievedDate": "14/12/2016",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "World Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Global Population by Region - HYDE (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Global Population by Region (HYDE (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
