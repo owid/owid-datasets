@@ -1,0 +1,42 @@
+{
+  "name": "Labor productivity per hour (Bank of England (2016))",
+  "title": "Labor productivity per hour (Bank of England (2016))",
+  "id": 2479,
+  "description": "Uses GDP at factor cost.  Great Britain growth rates prior to 1855.",
+  "sources": [
+    {
+      "name": "Bank of England, A Millennium of UK Data (2016)",
+      "dataPublishedBy": "Thomas, R and Dimsdale, N (2017) \"A Millennium of UK Data\", Bank of England OBRA dataset, http://www.bankofengland.co.uk/research/Pages/onebank/threecenturies.aspx",
+      "dataPublisherSource": "Historical data",
+      "link": "https://www.bankofengland.co.uk/statistics/research-datasets#",
+      "retrievedDate": "22/02/2018",
+      "additionalInfo": "Uses GDP at factor cost.  Great Britain growth rates prior to 1855."
+    }
+  ],
+  "owidTags": [
+    "GDP Growth Over the Last Centuries"
+  ],
+  "resources": [
+    {
+      "path": "Labor productivity per hour (Bank of England (2016)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Labour productivity per hour (2013=100)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
