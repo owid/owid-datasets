@@ -1,0 +1,44 @@
+{
+  "name": "Healthcare Access and Quality Index – IHME (2017)",
+  "title": "Healthcare Access and Quality Index – IHME (2017)",
+  "id": 523,
+  "description": "Global Burden of Disease Study 2015 (GBD 2015) Healthcare Access and Quality Index Based on Amenable Mortality 1990–2015 Global Burden of Disease Study 2015 (GBD 2015) estimates were used in an analysis of national levels of personal healthcare access and quality based on 32 causes considered amenable to healthcare over time. \r\nThis dataset includes the the Healthcare Quality and Access (HAQ) Index for global, regional, and national or territory-level estimates for 1990-2015.",
+  "sources": [
+    {
+      "name": "Institute for Health Metrics and Evaluation (2017)",
+      "dataPublishedBy": "Global Burden of Disease Study 2015. Global Burden of Disease Study 2015 (GBD 2015)",
+      "dataPublisherSource": "The Lancet in May 2017 in \"Healthcare Access and Quality Index based on mortality from causes amenable to personal healthcare in 195 countries and territories, 1990–2015: a novel analysis from the Global Burden of Disease Study 2015.\"",
+      "link": "http://ghdx.healthdata.org/record/global-burden-disease-study-2015-gbd-2015-healthcare-access-and-quality-index-based-amenable",
+      "retrievedDate": "07/06/2017",
+      "additionalInfo": "Global Burden of Disease Study 2015 (GBD 2015) Healthcare Access and Quality Index Based on Amenable Mortality 1990–2015 Global Burden of Disease Study 2015 (GBD 2015) estimates were used in an analysis of national levels of personal healthcare access and quality based on 32 causes considered amenable to healthcare over time. \r\nThis dataset includes the the Healthcare Quality and Access (HAQ) Index for global, regional, and national or territory-level estimates for 1990-2015."
+    }
+  ],
+  "owidTags": [
+    "Health Insurance & Spending"
+  ],
+  "resources": [
+    {
+      "path": "Healthcare Access and Quality Index – IHME (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "HAQ Index (IHME (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Constant USD"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
