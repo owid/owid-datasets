@@ -1,0 +1,241 @@
+Entity,Year,Hours of work per week (total) (Huberman and Minns (2007)),Hours of work per week (male) (Huberman and Minns (2007)),Hours of work per week (female) (Huberman and Minns (2007)),Numbers of days off (Huberman and Minns (2007))
+Australia,1870,56.200001,,,8
+Australia,1880,53.299999,,,
+Australia,1890,50.5,,,
+Australia,1900,48.099998,,,9
+Australia,1913,44.700001,,,
+Australia,1929,45.5,,,
+Australia,1938,45,,,22
+Australia,1950,39.599998,,,22
+Australia,1960,39.599998,,,
+Australia,1970,39.599998,,,
+Australia,1980,39.200001,,,32
+Australia,1990,40.099998,,,32
+Australia,2000,,42.599998,38.5,32
+Belgium,1870,72.199997,,,18
+Belgium,1880,69.300003,,,
+Belgium,1890,66.5,,,
+Belgium,1900,64.199997,,,21
+Belgium,1913,59.5,,,
+Belgium,1929,48.200001,,,
+Belgium,1938,48,,,30
+Belgium,1950,,,,28
+Belgium,1960,42.5,,,
+Belgium,1970,39.900002,,,
+Belgium,1980,38.5,,,34
+Belgium,1990,36.599998,,,34
+Belgium,2000,,37.299999,36.5,33
+Canada,1870,57.200001,,,8
+Canada,1880,59,,,
+Canada,1890,60.900002,,,
+Canada,1900,62.599998,,,9
+Canada,1913,57.900002,,,
+Canada,1929,49,,,
+Canada,1938,47.200001,,,22
+Canada,1950,42.299999,,,22
+Canada,1960,40.700001,,,
+Canada,1970,39.700001,,,
+Canada,1980,38.5,,,25
+Canada,1990,38,,,25
+Canada,2000,,42.799999,36,24
+Denmark,1870,69.900002,,,13
+Denmark,1880,64.599998,,,
+Denmark,1890,59.900002,,,
+Denmark,1900,56,,,14
+Denmark,1913,55.799999,,,
+Denmark,1929,48.5,,,
+Denmark,1938,47.599998,,,27
+Denmark,1950,46,,,27
+Denmark,1960,44.400002,,,
+Denmark,1970,39,,,
+Denmark,1980,37.5,,,30
+Denmark,1990,35,,,35
+Denmark,2000,,39.299999,37.700001,37
+France,1870,66.099998,,,19
+France,1880,66,,,
+France,1890,65.900002,,,
+France,1900,65.900002,,,23
+France,1913,62,,,
+France,1929,48,,,
+France,1938,39,,,33
+France,1950,44.799999,,,28
+France,1960,45.900002,,,
+France,1970,44.799999,,,
+France,1980,40.700001,,,30
+France,1990,39.900002,,,36
+France,2000,,36.900002,34.599998,36
+Germany,1870,67.599998,,,13
+Germany,1880,66.300003,,,
+Germany,1890,65.099998,,,
+Germany,1900,64,,,18
+Germany,1913,57,,,
+Germany,1929,46,,,
+Germany,1938,48.5,,,31
+Germany,1950,48.200001,,,29
+Germany,1960,45.599998,,,
+Germany,1970,43.799999,,,
+Germany,1980,41.599998,,,29
+Germany,1990,39,,,35
+Germany,2000,,40.799999,39,42.5
+Ireland,1870,63.799999,,,14
+Ireland,1880,62,,,
+Ireland,1890,60.200001,,,
+Ireland,1900,58.599998,,,20
+Ireland,1913,56.400002,,,
+Ireland,1929,46.599998,,,
+Ireland,1938,48.200001,,,33
+Ireland,1950,45,,,20
+Ireland,1970,42.700001,,,
+Ireland,1980,41.099998,,,28
+Ireland,1990,42.099998,,,28
+Ireland,2000,,40.700001,38,30
+Italy,1870,63.299999,,,23
+Italy,1880,63.400002,,,
+Italy,1890,63.599998,,,
+Italy,1900,63.799999,,,24
+Italy,1913,62.400002,,,
+Italy,1929,48.799999,,,
+Italy,1938,48.5,,,37
+Italy,1950,47.799999,,,24
+Italy,1960,42.400002,,,
+Italy,1970,42.900002,,,
+Italy,1980,42.5,,,35
+Italy,1990,39.599998,,,40
+Italy,2000,,41.400002,35.400002,41.5
+Netherlands,1870,65,,,4
+Netherlands,1880,63.400002,,,
+Netherlands,1890,61.900002,,,
+Netherlands,1900,60.5,,,5
+Netherlands,1913,58.599998,,,
+Netherlands,1929,48.099998,,,
+Netherlands,1938,48.5,,,21
+Netherlands,1950,49.200001,,,24
+Netherlands,1970,45.099998,,,
+Netherlands,1980,40.799999,,,33
+Netherlands,1990,34,,,35
+Netherlands,2000,,37.599998,30.1,37.5
+New World,1870,58.5,,,7
+New World,1880,57.799999,,,
+New World,1890,57.099998,,,
+New World,1900,56.599998,,,8
+New World,1913,53.599998,,,
+New World,1929,47.5,,,
+New World,1938,43.200001,,,20
+New World,1950,41.400002,,,21
+New World,1960,40.200001,,,
+New World,1970,39.400002,,,
+New World,1980,38.900002,,,26
+New World,1990,39.400002,,,27
+New World,2000,,42.900002,37.200001,25
+New World (weighted),1870,61.400002,,,
+New World (weighted),1880,60.5,,,
+New World (weighted),1890,59.599998,,,
+New World (weighted),1900,58.799999,,,
+New World (weighted),1913,57.700001,,,
+New World (weighted),1929,48,,,
+New World (weighted),1938,38.400002,,,
+New World (weighted),1950,42.299999,,,
+New World (weighted),1960,40.200001,,,
+New World (weighted),1970,38.900002,,,
+New World (weighted),1980,39.099998,,,
+New World (weighted),1990,39.599998,,,
+New World (weighted),2000,,43.200001,37.200001,
+Old World,1870,65.900002,,,16
+Old World,1880,63.799999,,,
+Old World,1890,61.900002,,,
+Old World,1900,60.299999,,,19
+Old World,1913,57.900002,,,
+Old World,1929,47.799999,,,
+Old World,1938,47,,,32
+Old World,1950,46.799999,,,26
+Old World,1960,44.400002,,,
+Old World,1970,42.5,,,
+Old World,1980,40.400002,,,30
+Old World,1990,38.700001,,,34
+Old World,2000,,39.200001,36.099998,36
+Old World (weighted),1870,64.400002,,,
+Old World (weighted),1880,63.5,,,
+Old World (weighted),1890,62.599998,,,
+Old World (weighted),1900,61.799999,,,
+Old World (weighted),1913,58.599998,,,
+Old World (weighted),1929,47.5,,,
+Old World (weighted),1938,46.700001,,,
+Old World (weighted),1950,46.900002,,,
+Old World (weighted),1960,44.599998,,,
+Old World (weighted),1970,43.299999,,,
+Old World (weighted),1980,40.900002,,,
+Old World (weighted),1990,39.5,,,
+Old World (weighted),2000,,39.700001,36.400002,
+Spain,1870,64.699997,,,31
+Spain,1880,62.700001,,,
+Spain,1890,60.799999,,,
+Spain,1900,59.099998,,,31
+Spain,1913,56.700001,,,
+Spain,1929,48.5,,,
+Spain,1938,47,,,44
+Spain,1980,40,,,30
+Spain,1990,38.900002,,,35
+Spain,2000,,36.900002,34,36
+Sweden,1870,69.599998,,,11
+Sweden,1880,64.599998,,,
+Sweden,1890,59.900002,,,
+Sweden,1900,56,,,13
+Sweden,1913,56,,,
+Sweden,1929,48,,,
+Sweden,1938,46.299999,,,28
+Sweden,1950,46.799999,,,29
+Sweden,1960,43.400002,,,
+Sweden,1980,37.700001,,,30
+Sweden,1990,38.200001,,,37
+Sweden,2000,,39.099998,36.299999,38
+Switzerland,1870,65.400002,,,13
+Switzerland,1880,63.099998,,,
+Switzerland,1890,60.900002,,,
+Switzerland,1900,59,,,18
+Switzerland,1913,56.299999,,,
+Switzerland,1929,48.5,,,
+Switzerland,1938,46.299999,,,33
+Switzerland,1950,47.5,,,25
+Switzerland,1960,46.099998,,,
+Switzerland,1980,43.799999,,,28
+Switzerland,1990,41.599998,,,28
+Switzerland,2000,,,,33
+United Kingdom,1870,56.900002,,,14
+United Kingdom,1880,56.599998,,,
+United Kingdom,1890,56.299999,,,
+United Kingdom,1900,56,,,20
+United Kingdom,1913,56,,,
+United Kingdom,1929,47,,,
+United Kingdom,1938,48.599998,,,30
+United Kingdom,1950,45.700001,,,24
+United Kingdom,1960,44.700001,,,
+United Kingdom,1970,42,,,
+United Kingdom,1980,40,,,28
+United Kingdom,1990,42.400002,,,30
+United Kingdom,2000,,42,38.900002,32.5
+United States,1870,62,,,4
+United States,1880,61,,,
+United States,1890,60,,,
+United States,1900,59.099998,,,5
+United States,1913,58.299999,,,
+United States,1929,48,,,
+United States,1938,37.299999,,,17
+United States,1950,42.400002,,,18
+United States,1960,40.200001,,,
+United States,1970,38.799999,,,
+United States,1980,39.099998,,,22
+United States,1990,39.700001,,,23
+United States,2000,,43.299999,37.200001,20
+World,1870,64.300003,,,13.8
+World,1880,62.5,,,
+World,1890,60.900002,,,
+World,1900,59.5,,,16.4
+World,1913,57,,,
+World,1929,47.799999,,,
+World,1938,46.099998,,,29.1
+World,1950,45.400002,,,24.6
+World,1960,43.200001,,,
+World,1970,41.700001,,,
+World,1980,40.099998,,,29.6
+World,1990,38.900002,,,32.400002
+World,2000,,40.099998,36.299999,33.400002

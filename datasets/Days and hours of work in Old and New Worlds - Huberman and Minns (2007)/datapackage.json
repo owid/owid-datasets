@@ -1,0 +1,60 @@
+{
+  "name": "Days and hours of work in Old and New Worlds - Huberman and Minns (2007)",
+  "title": "Days and hours of work in Old and New Worlds - Huberman and Minns (2007)",
+  "id": 2808,
+  "description": "The New World includes Europe, the United States, Australia, and Canada while the Old World consists of all other countries included in Huberman and Minns's sample. The 'Old World (weighted)' and 'New World (weighted)' series are population weighted averages.\n\nSee table 1 for further information regarding sources the authors consulted in producing hours of work per week estimates.\nSee table 2 for more information about vacation and holidays estimates.",
+  "sources": [
+    {
+      "name": "Huberman and Minns (2007)",
+      "dataPublishedBy": "Huberman, M. and Minns, C., 2007. The times they are not changin’: Days and hours of work in Old and New Worlds, 1870–2000. Explorations in Economic History, 44(4), pp.538-567.",
+      "dataPublisherSource": "Authors' calculations based on scholarly sources, ILO, and Eurostat.",
+      "link": "http://personal.lse.ac.uk/minns/Huberman_Minns_EEH_2007.pdf",
+      "retrievedDate": "13/06/2018",
+      "additionalInfo": "The New World includes Europe, the United States, Australia, and Canada while the Old World consists of all other countries included in Huberman and Minns's sample. The 'Old World (weighted)' and 'New World (weighted)' series are population weighted averages.\n\nSee table 1 for further information regarding sources the authors consulted in producing hours of work per week estimates.\nSee table 2 for more information about vacation and holidays estimates."
+    }
+  ],
+  "owidTags": [
+    "Working Hours"
+  ],
+  "resources": [
+    {
+      "path": "Days and hours of work in Old and New Worlds - Huberman and Minns (2007).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Hours of work per week (total) (Huberman and Minns (2007))",
+            "type": "any",
+            "description": "Hours of work per week of full-time production workers. The New World includes Europe, the United States, Australia, and Canada while the Old World consists of all other countries included in Huberman and Minns's sample. The 'Old World (weighted)' and 'New World (weighted)' series are population weighted averages.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Hours of work per week (male) (Huberman and Minns (2007))",
+            "type": "any",
+            "description": "Hours of work per week of male full-time production workers in the year 2000. The New World includes Europe, the United States, Australia, and Canada while the Old World consists of all other countries included in Huberman and Minns's sample. The 'Old World (weighted)' and 'New World (weighted)' series are population weighted averages.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Hours of work per week (female) (Huberman and Minns (2007))",
+            "type": "any",
+            "description": "Hours of work per week of female full-time production workers in the year 2000. The New World includes Europe, the United States, Australia, and Canada while the Old World consists of all other countries included in Huberman and Minns's sample. The 'Old World (weighted)' and 'New World (weighted)' series are population weighted averages.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Numbers of days off (Huberman and Minns (2007))",
+            "type": "any",
+            "description": "Number of days off (in vacation and holidays) over the twentieth century. The New World includes Europe, the United States, Australia, and Canada while the Old World consists of all other countries included in Huberman and Minns's sample. The 'Old World (weighted)' and 'New World (weighted)' series are population weighted averages.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
