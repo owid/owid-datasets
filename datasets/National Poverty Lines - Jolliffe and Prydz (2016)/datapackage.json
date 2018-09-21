@@ -1,0 +1,44 @@
+{
+  "name": "National Poverty Lines - Jolliffe and Prydz (2016)",
+  "title": "National Poverty Lines - Jolliffe and Prydz (2016)",
+  "id": 395,
+  "description": "",
+  "sources": [
+    {
+      "name": "Jolliffe and Prydz (2016)",
+      "dataPublishedBy": "Jolliffe, D., & Prydz, E. B. (2016). Estimating international poverty lines from comparable national thresholds. The Journal of Economic Inequality, 14(2), 185-198.",
+      "dataPublisherSource": "National poverty headcounts from national sources, and consumption and income distributions from PovcalNet",
+      "link": "http://www-wds.worldbank.org/",
+      "retrievedDate": "17/04/2016",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "National Poverty Lines - Jolliffe and Prydz (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "National poverty lines (Jolliffe and Prydz (2016))",
+            "type": "any",
+            "description": "National poverty lines per day in 2011 PPPs.  Figures correspond to the poverty lines that are implied by national poverty headcounts  from national sources and consumption (or income) distributions from PovcalNet used for international poverty estimates.",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
