@@ -1,0 +1,42 @@
+{
+  "name": "Caloric Coefficient of Variation (CV) - FAO Food Security Indicators (2017)",
+  "title": "Caloric Coefficient of Variation (CV) - FAO Food Security Indicators (2017)",
+  "id": 649,
+  "description": "The coefficient variation (CV) measures the inequality of caloric intake across a given population. It represents a statistical measure of the data spread around the mean caloric intake. Higher CV values represent larger levels of dietary inequality.\n\nWhere data is sufficiently available, the FAO estimate the CV based on household survey data. Where unavailable, it is calculated based on regression analysis from Gini coefficient, income and food price data.\n\nThe CV of caloric intake is reported only for developing countries within the Food Security Indicators.",
+  "sources": [
+    {
+      "name": "Caloric Coefficient of Variation (CV) - FAO Food Security Indicators (2017)",
+      "dataPublishedBy": "FAO Food Security Indicators",
+      "dataPublisherSource": null,
+      "link": "https://web.archive.org/web/20141020065619/http://www.fao.org/economic/ess/ess-fs/fs-data/en/",
+      "retrievedDate": "26/07/2017",
+      "additionalInfo": "The coefficient variation (CV) measures the inequality of caloric intake across a given population. It represents a statistical measure of the data spread around the mean caloric intake. Higher CV values represent larger levels of dietary inequality.\n\nWhere data is sufficiently available, the FAO estimate the CV based on household survey data. Where unavailable, it is calculated based on regression analysis from Gini coefficient, income and food price data.\n\nThe CV of caloric intake is reported only for developing countries within the Food Security Indicators."
+    }
+  ],
+  "owidTags": [
+    "Food per Person"
+  ],
+  "resources": [
+    {
+      "path": "Caloric Coefficient of Variation (CV) - FAO Food Security Indicators (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Caloric Coefficient Variation (CV) (FAO Food Security Indicators (2017))",
+            "type": "any",
+            "description": "Higher CV values represent larger levels of dietary inequality. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
