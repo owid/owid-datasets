@@ -1,0 +1,68 @@
+{
+  "name": "State of Vaccine Confidence - Larson et al (2016)",
+  "title": "State of Vaccine Confidence - Larson et al (2016)",
+  "id": 371,
+  "description": "Possible answers for all questions were those on the five-point Likert scale (strongly agree, tend to agree, do not know, tend to disagree, strongly disagree).",
+  "sources": [
+    {
+      "name": " Vaccine Confidence Project, Larson et al (2016)",
+      "dataPublishedBy": "Larson et al (2016) – The State of Vaccine Confidence 2016: Global Insights Through a 67-Country Survey.",
+      "dataPublisherSource": "This data was collected through a WIN/Gallup International Association survey. The WIN/GIA Annual Survey has been conducted annually since 1977. In 2015, when this dataset was produced, it was conducted in collaboration with the Vaccine Confidence Project at the London School of Hygiene & Tropical Medicine. A total of 65,819 persons were interviewed in 67 countries.",
+      "link": "http://www.sciencedirect.com/science/article/pii/S235239641630398X",
+      "retrievedDate": "15/02/2016",
+      "additionalInfo": "Possible answers for all questions were those on the five-point Likert scale (strongly agree, tend to agree, do not know, tend to disagree, strongly disagree)."
+    }
+  ],
+  "owidTags": [
+    "Vaccination"
+  ],
+  "resources": [
+    {
+      "path": "State of Vaccine Confidence - Larson et al (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Importance (Larson et al (2016))",
+            "type": "any",
+            "description": "Percentage of respondents from each country replying “Strongly disagree” or “Tend to disagree” with the survey question “Vaccines are important for children to have”.\r\n",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Safety (Larson et al (2016))",
+            "type": "any",
+            "description": "Percentage of respondents from each country replying “Strongly disagree” or “Tend to disagree” with the survey question “Overall I think vaccines are safe”.",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Effectiveness (Larson et al (2016))",
+            "type": "any",
+            "description": "Percentage of respondents from each country replying “Strongly disagree” or “Tend to disagree” with the survey question “Overall I think vaccines are effective”.",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Religious compatibility (Larson et al (2016))",
+            "type": "any",
+            "description": "Percentage of respondents from each country replying “Strongly disagree” or “Tend to disagree” with the survey question “Vaccines are compatible with my religious beliefs”.",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
