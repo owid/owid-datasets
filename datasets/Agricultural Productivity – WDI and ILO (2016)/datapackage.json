@@ -1,0 +1,42 @@
+{
+  "name": "Agricultural Productivity – WDI and ILO (2016)",
+  "title": "Agricultural Productivity – WDI and ILO (2016)",
+  "id": 501,
+  "description": "The documentation provides further information, including limitations and underlying sources: http://www.ilo.org/ilostat-files/Documents/description_ECO_EN.pdf",
+  "sources": [
+    {
+      "name": "ILO World Employment and Social Outlook (2016)",
+      "dataPublishedBy": "ILOSTAT",
+      "dataPublisherSource": "Various sources, including labour force surveys. More information in the documentation.",
+      "link": "http://www.ilo.org/ilostat",
+      "retrievedDate": "30/05/2017",
+      "additionalInfo": "The documentation provides further information, including limitations and underlying sources: http://www.ilo.org/ilostat-files/Documents/description_ECO_EN.pdf"
+    }
+  ],
+  "owidTags": [
+    "GDP Data"
+  ],
+  "resources": [
+    {
+      "path": "Agricultural Productivity – WDI and ILO (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Agriculture, employment (number of people) (ILO World Employment and Social Outlook (2016))",
+            "type": "any",
+            "description": "Number of people employed in agriculture. Employment comprises all persons of working age who during a specified brief period, such as one week or one day, were in the following categories: a) paid employment (whether at work or with a job but not at work); or b) self-employment (whether at work or with an enterprise but not at work)",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
