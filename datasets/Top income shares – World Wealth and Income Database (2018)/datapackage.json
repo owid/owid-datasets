@@ -1,0 +1,42 @@
+{
+  "name": "Top income shares – World Wealth and Income Database (2018)",
+  "title": "Top income shares – World Wealth and Income Database (2018)",
+  "id": 2512,
+  "description": "",
+  "sources": [
+    {
+      "name": "World Wealth and Income Database (2018)",
+      "dataPublishedBy": "World Wealth and Income Database",
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Income Inequality"
+  ],
+  "resources": [
+    {
+      "path": "Top income shares – World Wealth and Income Database (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of Top 1% in Pre-tax national income",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
