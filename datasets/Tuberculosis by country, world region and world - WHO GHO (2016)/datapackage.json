@@ -1,0 +1,48 @@
+{
+  "name": "Tuberculosis by country, world region and world - WHO GHO (2016)",
+  "title": "Tuberculosis by country, world region and world - WHO GHO (2016)",
+  "id": 2805,
+  "description": "The data were aggregated to include world regions and global data points by Sophie Ochmann (Our World in Data). ",
+  "sources": [
+    {
+      "name": "WHO Global Health Observatory (2017)",
+      "dataPublishedBy": "World Health Organization Global Health Observatory (2017)",
+      "dataPublisherSource": "Organization's own data collection",
+      "link": "http://apps.who.int/gho/data/node.home",
+      "retrievedDate": "8 June 2018",
+      "additionalInfo": "The data were aggregated to include world regions and global data points by Sophie Ochmann (Our World in Data). "
+    }
+  ],
+  "owidTags": [
+    "Tuberculosis"
+  ],
+  "resources": [
+    {
+      "path": "Tuberculosis by country, world region and world - WHO GHO (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Prevalence of tuberculosis (WHO 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Incidence of tuberculosis (WHO, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
