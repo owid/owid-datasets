@@ -1,0 +1,50 @@
+{
+  "name": "Population with and without electricity access - World Bank and UN Population Prospects",
+  "title": "Population with and without electricity access - World Bank and UN Population Prospects",
+  "id": 499,
+  "description": "Dataset derived through the combination of percentage electricity access statistics and UN population figures.\r\n\r\nThe absolute number of people with and without access to electricity was derived by multiplying the percentage of the global population with access to electricity (from World Bank, World Development Indicators) by United Nations figures on global population in any given year.\r\n\r\nAccess to electricity (%) data was derived from World Bank World Development Indicators (WDI). Available at: http://data.worldbank.org/ [accessed 2017-05-29].\r\n\r\nGlobal population figures were sourced from the United Nations Population Prospects Division. Available at: https://esa.un.org/unpd/wpp/Download/Standard/Population/ [accessed 2017-05-29]",
+  "sources": [
+    {
+      "name": "Population with and without electricity access - World Bank and UN Population Prospects",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "Dataset derived through the combination of percentage electricity access statistics and UN population figures.\r\n\r\nThe absolute number of people with and without access to electricity was derived by multiplying the percentage of the global population with access to electricity (from World Bank, World Development Indicators) by United Nations figures on global population in any given year.\r\n\r\nAccess to electricity (%) data was derived from World Bank World Development Indicators (WDI). Available at: http://data.worldbank.org/ [accessed 2017-05-29].\r\n\r\nGlobal population figures were sourced from the United Nations Population Prospects Division. Available at: https://esa.un.org/unpd/wpp/Download/Standard/Population/ [accessed 2017-05-29]"
+    }
+  ],
+  "owidTags": [
+    "Electricity"
+  ],
+  "resources": [
+    {
+      "path": "Population with and without electricity access - World Bank and UN Population Prospects.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of people with access to electricity (World Bank and UN Population Prospects)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "%"
+            }
+          },
+          {
+            "name": "Number of people without access to electricity (World Bank and UN Population Prospects)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
