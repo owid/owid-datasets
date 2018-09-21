@@ -1,0 +1,42 @@
+{
+  "name": "Broadband Penetration by Country - World Bank (2015)",
+  "title": "Broadband Penetration by Country - World Bank (2015)",
+  "id": 91,
+  "description": "Internet and mobile phone data",
+  "sources": [
+    {
+      "name": "Science and Technology - World Bank (2015)",
+      "dataPublishedBy": "World Bank",
+      "dataPublisherSource": "International Telecommunication Union, World Telecommunication/ICT Development Report and database",
+      "link": "http://data.worldbank.org/",
+      "retrievedDate": "09/11/2015",
+      "additionalInfo": "Internet and mobile phone data"
+    }
+  ],
+  "owidTags": [
+    "Internet"
+  ],
+  "resources": [
+    {
+      "path": "Broadband Penetration by Country - World Bank (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Broadband Penetration by Country (World Bank (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
