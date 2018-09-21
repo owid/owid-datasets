@@ -1,0 +1,42 @@
+{
+  "name": "Inequality in Latin America - SEDLAC (CEDLAS and the World Bank)",
+  "title": "Inequality in Latin America - SEDLAC (CEDLAS and the World Bank)",
+  "id": 2852,
+  "description": "",
+  "sources": [
+    {
+      "name": "Socio-Economic Database for Latin America and the Caribbean (CEDLAS and The World Bank)",
+      "dataPublishedBy": "SEDLAC",
+      "dataPublisherSource": "Household surveys",
+      "link": "http://www.cedlas.econo.unlp.edu.ar/wp/en/estadisticas/sedlac/estadisticas/#1496160514234-653d20ce-fea6",
+      "retrievedDate": "25/07/2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Income Inequality"
+  ],
+  "resources": [
+    {
+      "path": "Inequality in Latin America - SEDLAC (CEDLAS and the World Bank).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Gini index (SEDLAC)",
+            "type": "any",
+            "description": "This Gini index measures the distribution of household equivalized income, including zero income. A higher Gini index is indicative of a more unequal distribution of income. \n\nWhere there were multiple observations for a particular year, the observation providing greater coverage (e.g. national rather than urban), or drawn from a more recent round of a survey, is preferred.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
