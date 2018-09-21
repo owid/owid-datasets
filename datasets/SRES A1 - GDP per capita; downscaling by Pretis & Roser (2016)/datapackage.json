@@ -1,0 +1,44 @@
+{
+  "name": "SRES A1 - GDP per capita; downscaling by Pretis & Roser (2016)",
+  "title": "SRES A1 - GDP per capita; downscaling by Pretis & Roser (2016)",
+  "id": 148,
+  "description": "GDP per capita in $\r\n",
+  "sources": [
+    {
+      "name": "SRES A1 (GDP per capita; downscaling by Pretis & Roser (2014))",
+      "dataPublishedBy": "SRES",
+      "dataPublisherSource": "Pretis & Roser",
+      "link": "http://sedac.ipcc-data.org/ddc/sres/index.html and http://sedac.ipcc-data.org/ddc/is92/index.html",
+      "retrievedDate": "summer 2014",
+      "additionalInfo": "GDP per capita in $\r\n"
+    }
+  ],
+  "owidTags": [
+    "Predictions of Global Growth"
+  ],
+  "resources": [
+    {
+      "path": "SRES A1 - GDP per capita; downscaling by Pretis & Roser (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "SRES A1 (GDP per capita; downscaling by Pretis & Roser (2016))",
+            "type": "any",
+            "description": "GDP per capita in $.",
+            "owidDisplaySettings": {
+              "unit": "years"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
