@@ -1,0 +1,60 @@
+{
+  "name": "Tax composition – \tArroyo Abad  and P. Lindert (2016)",
+  "title": "Tax composition – \tArroyo Abad  and P. Lindert (2016)",
+  "id": 300,
+  "description": "",
+  "sources": [
+    {
+      "name": "Arroyo-Abad and Lindert (2016)",
+      "dataPublishedBy": "Arroyo Abad, L. and P. Lindert. \"Fiscal Redistribution in the Americas since the Mid-Nineteenth Century\" in Latin American Inequality in the Long Run, edited by L. Bertola and J. Williamson, forthcoming. ",
+      "dataPublisherSource": "Various sources.",
+      "link": "http://gpih.ucdavis.edu",
+      "retrievedDate": "21/09/2016",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Composition of Tax Revenues"
+  ],
+  "resources": [
+    {
+      "path": "Tax composition – \tArroyo Abad  and P. Lindert (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Income and wealth (Arroyo-Abad and Lindert (2016))",
+            "type": "any",
+            "description": "1901-2013",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Consumption (Arroyo-Abad and Lindert (2016))",
+            "type": "any",
+            "description": "1901-2013",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Trade (Arroyo-Abad and Lindert (2016))",
+            "type": "any",
+            "description": "1901-2013",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Resources (Arroyo-Abad and Lindert (2016))",
+            "type": "any",
+            "description": "1901-2013",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
