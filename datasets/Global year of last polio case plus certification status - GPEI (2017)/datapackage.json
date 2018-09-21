@@ -1,0 +1,48 @@
+{
+  "name": "Global year of last polio case plus certification status - GPEI (2017)",
+  "title": "Global year of last polio case plus certification status - GPEI (2017)",
+  "id": 973,
+  "description": "The definition of WHO Regions can be found here: http://www.who.int/about/regions/en/ \n\nBecause the certification of being polio-free is done by the WHO by region and not by country (and only three years after the last case of polio was recorded), you see three polio statuses: endemic, polio-free (WHO Region not yet certified) and polio-free with the WHO Region of the country also certified polio-free.",
+  "sources": [
+    {
+      "name": "GPEI (2017)",
+      "dataPublishedBy": "Global Polio Eradication Initiative (2017)",
+      "dataPublisherSource": "The initiative collects its own data on polio cases and reports the WHO's certification as well.",
+      "link": "http://polioeradication.org/polio-today/preparing-for-a-polio-free-world/certification/ http://polioeradication.org/where-we-work/polio-free-countries/",
+      "retrievedDate": "17/10/2017",
+      "additionalInfo": "The definition of WHO Regions can be found here: http://www.who.int/about/regions/en/ \n\nBecause the certification of being polio-free is done by the WHO by region and not by country (and only three years after the last case of polio was recorded), you see three polio statuses: endemic, polio-free (WHO Region not yet certified) and polio-free with the WHO Region of the country also certified polio-free."
+    }
+  ],
+  "owidTags": [
+    "Eradication of Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Global year of last polio case plus certification status - GPEI (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "WHO Region (GPEI (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Polio status (GPEI (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
