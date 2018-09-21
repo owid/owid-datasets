@@ -1,0 +1,66 @@
+{
+  "name": "Surface ocean plastic by mass - Eriksen et al. (2014)",
+  "title": "Surface ocean plastic by mass - Eriksen et al. (2014)",
+  "id": 2847,
+  "description": "Estimates by Eriksen et al. (2014) on the mass of surface ocean debris floating at sea, differentiated by ocean basin and particle size.\n\nParticle size categories range from small microplastics to macroplastics. \n\nEstimates are based on results from 24 expeditions (over the period 2007–2013) across all five sub-tropical gyres, costal Australia, Bay of Bengal and the Mediterranean Sea conducting surface net tows (N = 680) and visual survey transects of large plastic debris (N = 891). These field-based results were combined with oceanographic modelling of floating debris dispersal and wind-driven vertical mixing to derive total oceanic figures.",
+  "sources": [
+    {
+      "name": "Surface ocean plastic by mass - Eriksen et al. (2014)",
+      "dataPublishedBy": "Eriksen, M., Lebreton, L. C., Carson, H. S., Thiel, M., Moore, C. J., Borerro, J. C., ... & Reisser, J. (2014). Plastic pollution in the world's oceans: more than 5 trillion plastic pieces weighing over 250,000 tons afloat at sea. PloS one, 9(12), e111913.",
+      "dataPublisherSource": null,
+      "link": "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0111913",
+      "retrievedDate": null,
+      "additionalInfo": "Estimates by Eriksen et al. (2014) on the mass of surface ocean debris floating at sea, differentiated by ocean basin and particle size.\n\nParticle size categories range from small microplastics to macroplastics. \n\nEstimates are based on results from 24 expeditions (over the period 2007–2013) across all five sub-tropical gyres, costal Australia, Bay of Bengal and the Mediterranean Sea conducting surface net tows (N = 680) and visual survey transects of large plastic debris (N = 891). These field-based results were combined with oceanographic modelling of floating debris dispersal and wind-driven vertical mixing to derive total oceanic figures."
+    }
+  ],
+  "owidTags": [
+    "Waste"
+  ],
+  "resources": [
+    {
+      "path": "Surface ocean plastic by mass - Eriksen et al. (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Small microplastic mass (0.33-1mm)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Large microplastic mass (1.01-4.75mm)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Mesoplastic mass (4.76-200mm)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Macroplastic mass (>200mm)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "All sizes (total mass)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
