@@ -1,0 +1,42 @@
+{
+  "name": "Prevalence of undernourishment - World Bank (2017) & UN SOFI (2018)",
+  "title": "Prevalence of undernourishment - World Bank (2017) & UN SOFI (2018)",
+  "id": 2937,
+  "description": "The share of people who are undernourished was derived from the World Bank, World Development Indicators and the UN FAO State of Food Insecurity 2017. Global figures from 2005 onwards are from the UN SOFI (2018) report.\n\nReferences:\n\nWorld Bank, World Development Indicators. https://data.worldbank.org/indicator [accessed 25th September 2017].\n\nFAO, IFAD, UNICEF, WFP and WHO. 2017. The State of Food Security and Nutrition in the World 2017. Building resilience for peace and food security. Rome, FAO.\n\nFAO, IFAD, UNICEF, WFP and WHO. 2018. The State of Food Security and Nutrition in the World 2018. Building climate resilience for food security and nutrition. Rome, FAO.\n",
+  "sources": [
+    {
+      "name": "Prevalence of undernourishment (World Bank 2017 & UN FAO SOFI (2018))",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "The share of people who are undernourished was derived from the World Bank, World Development Indicators and the UN FAO State of Food Insecurity 2017. Global figures from 2005 onwards are from the UN SOFI (2018) report.\n\nReferences:\n\nWorld Bank, World Development Indicators. https://data.worldbank.org/indicator [accessed 25th September 2017].\n\nFAO, IFAD, UNICEF, WFP and WHO. 2017. The State of Food Security and Nutrition in the World 2017. Building resilience for peace and food security. Rome, FAO.\n\nFAO, IFAD, UNICEF, WFP and WHO. 2018. The State of Food Security and Nutrition in the World 2018. Building climate resilience for food security and nutrition. Rome, FAO.\n"
+    }
+  ],
+  "owidTags": [
+    "Hunger & Undernourishment"
+  ],
+  "resources": [
+    {
+      "path": "Prevalence of undernourishment - World Bank (2017) & UN SOFI (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Prevalence of undernourishment (World Bank 2017 & UN FAO SOFI (2018))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
