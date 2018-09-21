@@ -1,0 +1,3 @@
+# Population (Clio-infra (2016)), with Island of Ireland (Rep. + Northern)
+
+Prior to 1921 (partition of Ireland) the Clio-infra series is used. After 1921 this series presents the Clio-infra data (which represents only the Republic of Ireland) added to the population of Northern Ireland as given in the closest census year to the reference year. For 1930, the population figure for Northern Ireland used is that of the 1926 census. That of 1940, the 1937 census. From 1950 onwards, decadal census figures from 1951, 1961, etc are used. 

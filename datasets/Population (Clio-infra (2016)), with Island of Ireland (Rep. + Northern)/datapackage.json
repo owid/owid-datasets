@@ -1,0 +1,42 @@
+{
+  "name": "Population (Clio-infra (2016)), with Island of Ireland (Rep. + Northern)",
+  "title": "Population (Clio-infra (2016)), with Island of Ireland (Rep. + Northern)",
+  "id": 2500,
+  "description": "Prior to 1921 (partition of Ireland) the Clio-infra series is used. After 1921 this series presents the Clio-infra data (which represents only the Republic of Ireland) added to the population of Northern Ireland as given in the closest census year to the reference year. For 1930, the population figure for Northern Ireland used is that of the 1926 census. That of 1940, the 1937 census. From 1950 onwards, decadal census figures from 1951, 1961, etc are used. ",
+  "sources": [
+    {
+      "name": "Clio-infra (2016) and Northern Ireland Statistics and Research Agency census (1991, 2001)",
+      "dataPublishedBy": "Clio-infra, NISRA",
+      "dataPublisherSource": null,
+      "link": "https://www.clio-infra.eu/ & https://www.nisra.gov.uk/statistics/census ",
+      "retrievedDate": null,
+      "additionalInfo": "Prior to 1921 (partition of Ireland) the Clio-infra series is used. After 1921 this series presents the Clio-infra data (which represents only the Republic of Ireland) added to the population of Northern Ireland as given in the closest census year to the reference year. For 1930, the population figure for Northern Ireland used is that of the 1926 census. That of 1940, the 1937 census. From 1950 onwards, decadal census figures from 1951, 1961, etc are used. "
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Population (Clio-infra (2016)), with Island of Ireland (Rep. + Northern).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Population (Clio-infra (2016)) with Island of Ireland figures",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
