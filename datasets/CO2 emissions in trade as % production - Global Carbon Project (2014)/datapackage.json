@@ -1,0 +1,44 @@
+{
+  "name": "CO2 emissions in trade as % production - Global Carbon Project (2014)",
+  "title": "CO2 emissions in trade as % production - Global Carbon Project (2014)",
+  "id": 553,
+  "description": "Original data on production-based emissions, and emissions transfers in trade from Peters et al. (2012) via the Global Carbon Project (http://www.globalcarbonproject.org/carbonbudget/16/data.htm) have been manipulated to calculate the emissions transfers as a percentage of production-based emissions, presented in this chart.",
+  "sources": [
+    {
+      "name": "CO2 traded as percentage of domestic emissions production - Global Carbon Project (2014)",
+      "dataPublishedBy": "(Updated to 2014) Peters, GP, Minx, JC, Weber, CL and Edenhofer, O 2011. Growth in emission transfers via international trade from 1990 to 2008. Proceedings of the National Academy of Sciences 108, 8903-8908",
+      "dataPublisherSource": "Authors' input-output modelling of national emissions accounts and global trade",
+      "link": "http://www.biogeosciences.net/9/3247/2012/bg-9-3247-2012.html",
+      "retrievedDate": "05/07/2017",
+      "additionalInfo": "Original data on production-based emissions, and emissions transfers in trade from Peters et al. (2012) via the Global Carbon Project (http://www.globalcarbonproject.org/carbonbudget/16/data.htm) have been manipulated to calculate the emissions transfers as a percentage of production-based emissions, presented in this chart."
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "CO2 emissions in trade as % production - Global Carbon Project (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "CO2 traded as percentage of domestic emissions production (Global Carbon Project (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Number"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
