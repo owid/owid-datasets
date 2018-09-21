@@ -1,0 +1,42 @@
+{
+  "name": "Child mortality - Gapminder (2013)",
+  "title": "Child mortality - Gapminder (2013)",
+  "id": 63,
+  "description": "Gapminder dataset. Available online at http://www.gapminder.org/.",
+  "sources": [
+    {
+      "name": "Gapminder (2013)",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "Gapminder dataset. Available online at http://www.gapminder.org/."
+    }
+  ],
+  "owidTags": [
+    "Child Mortality"
+  ],
+  "resources": [
+    {
+      "path": "Child mortality - Gapminder (2013).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Child mortality (Gapminder (2013))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
