@@ -1,0 +1,42 @@
+{
+  "name": "Decomposition times of marine debris",
+  "title": "Decomposition times of marine debris",
+  "id": 2854,
+  "description": "Average estimated decomposition time of typical marine debris items.",
+  "sources": [
+    {
+      "name": "Decomposition times of marine debris - U.S National Park Service",
+      "dataPublishedBy": "U.S. National Park Service; Mote Marine Lab, Sarasota, FL; National Oceanic and Atmospheric Administration Marine Debris Program",
+      "dataPublisherSource": null,
+      "link": "https://www.des.nh.gov/organization/divisions/water/wmb/coastal/trash/documents/marine_debris.pdf",
+      "retrievedDate": null,
+      "additionalInfo": "Average estimated decomposition time of typical marine debris items."
+    }
+  ],
+  "owidTags": [
+    "Waste"
+  ],
+  "resources": [
+    {
+      "path": "Decomposition times of marine debris.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Decomposition rates of marine debris (years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
