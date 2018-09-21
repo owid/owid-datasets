@@ -8,7 +8,7 @@
       "name": "Earthquake deaths (NGDC-NOAA)",
       "dataPublishedBy": "National Geophysical Data Center / World Data Service (NGDC/WDS): Significant Earthquake Database. National Geophysical Data Center, NOAA.",
       "link": "https://www.ngdc.noaa.gov/nndc/struts/form?t=101650&s=1&d=1",
-      "retrievedDate": "21st September2018",
+      "retrievedDate": "21st September 2018",
       "additionalInfo": "Estimated number of deaths from earthquake events. This is estimated as the total number from the earthquake event plus secondary impacts (such as a tsunami triggered by an earthquake).\n\nA significant earthquake is classified as one that meets at least one of the following criteria: caused deaths, caused moderate damage (approximately $1 million or more), magnitude 7.5 or greater, Modified Mercalli Intensity (MMI) X or greater, or the earthquake generated a tsunami.\n\nOur World in Data have aggregated significant earthquake deaths by country/location per year. \n\nDue to data availability, reporting and evidence, it's expected that more recent data will be more complete than the long historical record."
     }
   ],
