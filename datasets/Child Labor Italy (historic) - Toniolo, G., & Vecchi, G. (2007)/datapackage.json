@@ -1,0 +1,60 @@
+{
+  "name": "Child Labor Italy (historic) - Toniolo, G., & Vecchi, G. (2007)",
+  "title": "Child Labor Italy (historic) - Toniolo, G., & Vecchi, G. (2007)",
+  "id": 167,
+  "description": "",
+  "sources": [
+    {
+      "name": "Toniolo, G., & Vecchi, G. (2007)",
+      "dataPublishedBy": "Toniolo, Gianni, and Giovanni Vecchi. \"ITALIAN CHILDREN AT WORK, 1881—1961.\" Giornale degli economisti e Annali di economia (2007): 401-427. ",
+      "dataPublisherSource": "Toniolo, G., & Vecchi, G. (2007) using estimates from population census data ",
+      "link": "http://www.jstor.org/stable/23248256",
+      "retrievedDate": "18/02/2016",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Child Labor"
+  ],
+  "resources": [
+    {
+      "path": "Child Labor Italy (historic) - Toniolo, G., & Vecchi, G. (2007).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Child labor Italy (all, historic) (Toniolo, G., & Vecchi, G. (2007))",
+            "type": "any",
+            "description": "Incidence of children labor in Italy aged 10-14.",
+            "owidDisplaySettings": {
+              "unit": "Individual cases"
+            }
+          },
+          {
+            "name": "Child labor Italy (boys, historic) (Toniolo, G., & Vecchi, G. (2007))",
+            "type": "any",
+            "description": "Share of boys aged 10-14 in employment. ",
+            "owidDisplaySettings": {
+              "unit": "deaths per 1,000"
+            }
+          },
+          {
+            "name": "Child labor Italy (girls, historic) (Toniolo, G., & Vecchi, G. (2007))",
+            "type": "any",
+            "description": "Share of girls aged 10-14 in employment.",
+            "owidDisplaySettings": {
+              "unit": "Children that died before 5 years of age per woman"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
