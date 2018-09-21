@@ -1,0 +1,48 @@
+{
+  "name": "FAO 2030-50 Projections of Arable Land - FAO (2017)",
+  "title": "FAO 2030-50 Projections of Arable Land - FAO (2017)",
+  "id": 671,
+  "description": "This series is based on the combination of two datasets--both produced by the UN Food and Agricultural Organization (FAO).\n\nData from 1961-2014 is derived from the UN FAO statistical database, and is given as the variable \"Arable land and permanent crops\". Available at: http://www.fao.org/faostat/en/#data [accessed 17th August 2017].\n\nData from 2020-2050 is based on UN FAO projections of arable land and permanent crop area from its report: Alexandratos, N. and J. Bruinsma. 2012. World agriculture towards 2030/2050: the 2012 revision. ESA Working paper No. 12-03. Rome, FAO. Available at: http://www.fao.org/docrep/016/ap106e/ap106e.pdf [accessed 17th August 2017].",
+  "sources": [
+    {
+      "name": "FAO 2030-50 Projections of Arable Land (FAO (2017))",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "This series is based on the combination of two datasets--both produced by the UN Food and Agricultural Organization (FAO).\n\nData from 1961-2014 is derived from the UN FAO statistical database, and is given as the variable \"Arable land and permanent crops\". Available at: http://www.fao.org/faostat/en/#data [accessed 17th August 2017].\n\nData from 2020-2050 is based on UN FAO projections of arable land and permanent crop area from its report: Alexandratos, N. and J. Bruinsma. 2012. World agriculture towards 2030/2050: the 2012 revision. ESA Working paper No. 12-03. Rome, FAO. Available at: http://www.fao.org/docrep/016/ap106e/ap106e.pdf [accessed 17th August 2017]."
+    }
+  ],
+  "owidTags": [
+    "Land Use in Agriculture"
+  ],
+  "resources": [
+    {
+      "path": "FAO 2030-50 Projections of Arable Land - FAO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Arable land and permanent crops (FAO (2017))",
+            "type": "any",
+            "description": "Global land allocated to arable production or permanent crops, measured in total hectares allocated.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "FAO arable land projections (FAO (2017))",
+            "type": "any",
+            "description": "FAO projections of arable land measured in hectares.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
