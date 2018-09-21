@@ -1,0 +1,405 @@
+Entity,Year,"Malaria deaths (WHO, 2015)"
+Afghanistan,2000,720
+Afghanistan,2005,380
+Afghanistan,2010,260
+Afghanistan,2013,120
+Algeria,2000,10
+Algeria,2005,0
+Algeria,2010,10
+Algeria,2013,0
+Angola,2000,22000
+Angola,2005,22000
+Angola,2010,14000
+Angola,2013,14000
+Argentina,2000,0
+Argentina,2005,0
+Argentina,2010,0
+Argentina,2013,0
+Armenia,2000,0
+Armenia,2005,0
+Armenia,2010,0
+Armenia,2013,0
+Azerbaijan,2000,0
+Azerbaijan,2005,0
+Azerbaijan,2010,0
+Azerbaijan,2013,0
+Bangladesh,2000,6100
+Bangladesh,2005,2400
+Bangladesh,2010,1500
+Bangladesh,2013,1600
+Belize,2000,0
+Belize,2005,0
+Belize,2010,0
+Belize,2013,0
+Benin,2000,7400
+Benin,2005,8600
+Benin,2010,6800
+Benin,2013,6200
+Bhutan,2000,50
+Bhutan,2005,10
+Bhutan,2010,10
+Bhutan,2013,0
+Bolivia,2000,50
+Bolivia,2005,50
+Bolivia,2010,50
+Bolivia,2013,10
+Botswana,2000,100
+Botswana,2005,10
+Botswana,2010,10
+Botswana,2013,10
+Brazil,2000,370
+Brazil,2005,180
+Brazil,2010,100
+Brazil,2013,50
+Burkina Faso,2000,39000
+Burkina Faso,2005,32000
+Burkina Faso,2010,29000
+Burkina Faso,2013,17000
+Burundi,2000,8900
+Burundi,2005,5300
+Burundi,2010,3500
+Burundi,2013,3200
+Cabo Verde,2000,0
+Cabo Verde,2005,10
+Cabo Verde,2010,10
+Cabo Verde,2013,0
+Cambodia,2000,3600
+Cambodia,2005,710
+Cambodia,2010,320
+Cambodia,2013,120
+Cameroon,2000,20000
+Cameroon,2005,21000
+Cameroon,2010,11000
+Cameroon,2013,9400
+Central African Republic,2000,6400
+Central African Republic,2005,7400
+Central African Republic,2010,5000
+Central African Republic,2013,3800
+Chad,2000,6400
+Chad,2005,7700
+Chad,2010,7700
+Chad,2013,7800
+China,2000,50
+China,2005,50
+China,2010,50
+China,2013,50
+Colombia,2000,380
+Colombia,2005,220
+Colombia,2010,190
+Colombia,2013,100
+Comoros,2000,280
+Comoros,2005,290
+Comoros,2010,360
+Comoros,2013,310
+Congo,2000,2800
+Congo,2005,2400
+Congo,2010,1700
+Congo,2013,1600
+Costa Rica,2000,0
+Costa Rica,2005,0
+Costa Rica,2010,0
+Costa Rica,2013,0
+Cote d'Ivoire,2000,33000
+Cote d'Ivoire,2005,32000
+Cote d'Ivoire,2010,22000
+Cote d'Ivoire,2013,16000
+Democratic Republic of Congo,2000,100000
+Democratic Republic of Congo,2005,110000
+Democratic Republic of Congo,2010,82000
+Democratic Republic of Congo,2013,50000
+Djibouti,2000,50
+Djibouti,2005,50
+Djibouti,2010,10
+Djibouti,2013,50
+Dominican Republic,2000,10
+Dominican Republic,2005,50
+Dominican Republic,2010,10
+Dominican Republic,2013,10
+Ecuador,2000,0
+Ecuador,2005,0
+Ecuador,2010,0
+Ecuador,2013,0
+El Salvador,2000,0
+El Salvador,2005,0
+El Salvador,2010,0
+El Salvador,2013,0
+Equatorial Guinea,2000,680
+Equatorial Guinea,2005,790
+Equatorial Guinea,2010,350
+Equatorial Guinea,2013,340
+Eritrea,2000,130
+Eritrea,2005,100
+Eritrea,2010,180
+Eritrea,2013,130
+Ethiopia,2000,16000
+Ethiopia,2005,9100
+Ethiopia,2010,8000
+Ethiopia,2013,6700
+Gabon,2000,460
+Gabon,2005,310
+Gabon,2010,320
+Gabon,2013,370
+Gambia,2000,740
+Gambia,2005,570
+Gambia,2010,570
+Gambia,2013,600
+Georgia,2000,0
+Georgia,2005,0
+Georgia,2010,0
+Georgia,2013,0
+Ghana,2000,19000
+Ghana,2005,16000
+Ghana,2010,16000
+Ghana,2013,15000
+Guatemala,2000,50
+Guatemala,2005,50
+Guatemala,2010,10
+Guatemala,2013,10
+Guinea,2000,15000
+Guinea,2005,12000
+Guinea,2010,11000
+Guinea,2013,11000
+Guinea-Bissau,2000,1600
+Guinea-Bissau,2005,730
+Guinea-Bissau,2010,670
+Guinea-Bissau,2013,680
+Guyana,2000,100
+Guyana,2005,130
+Guyana,2010,100
+Guyana,2013,100
+Haiti,2000,510
+Haiti,2005,550
+Haiti,2010,580
+Haiti,2013,280
+Honduras,2000,50
+Honduras,2005,50
+Honduras,2010,50
+Honduras,2013,10
+India,2000,36000
+India,2005,35000
+India,2010,33000
+India,2013,26000
+Indonesia,2000,4400
+Indonesia,2005,7200
+Indonesia,2010,6600
+Indonesia,2013,6600
+Iran,2000,10
+Iran,2005,10
+Iran,2010,10
+Iran,2013,10
+Iraq,2000,10
+Iraq,2005,0
+Iraq,2010,0
+Iraq,2013,0
+Kenya,2000,13000
+Kenya,2005,10000
+Kenya,2010,9000
+Kenya,2013,9900
+Kyrgyzstan,2000,0
+Kyrgyzstan,2005,0
+Kyrgyzstan,2010,0
+Kyrgyzstan,2013,0
+Laos,2000,630
+Laos,2005,120
+Laos,2010,170
+Laos,2013,180
+Liberia,2000,6700
+Liberia,2005,4100
+Liberia,2010,2400
+Liberia,2013,2200
+Madagascar,2000,3900
+Madagascar,2005,3300
+Madagascar,2010,1700
+Madagascar,2013,3200
+Malawi,2000,16000
+Malawi,2005,9700
+Malawi,2010,10000
+Malawi,2013,7800
+Malaysia,2000,50
+Malaysia,2005,50
+Malaysia,2010,50
+Malaysia,2013,50
+Mali,2000,27000
+Mali,2005,23000
+Mali,2010,16000
+Mali,2013,20000
+Mauritania,2000,880
+Mauritania,2005,1000
+Mauritania,2010,1100
+Mauritania,2013,1100
+Mexico,2000,10
+Mexico,2005,10
+Mexico,2010,10
+Mexico,2013,0
+Mozambique,2000,40000
+Mozambique,2005,25000
+Mozambique,2010,18000
+Mozambique,2013,16000
+Myanmar,2000,3100
+Myanmar,2005,3000
+Myanmar,2010,3000
+Myanmar,2013,2300
+Namibia,2000,260
+Namibia,2005,180
+Namibia,2010,10
+Namibia,2013,50
+Nepal,2000,100
+Nepal,2005,100
+Nepal,2010,50
+Nepal,2013,10
+Nicaragua,2000,50
+Nicaragua,2005,50
+Nicaragua,2010,10
+Nicaragua,2013,10
+Niger,2000,15000
+Niger,2005,14000
+Niger,2010,15000
+Niger,2013,12000
+Nigeria,2000,210000
+Nigeria,2005,190000
+Nigeria,2010,130000
+Nigeria,2013,120000
+North Korea,2000,0
+North Korea,2005,0
+North Korea,2010,0
+North Korea,2013,0
+Pakistan,2000,3800
+Pakistan,2005,4400
+Pakistan,2010,1700
+Pakistan,2013,1100
+Panama,2000,10
+Panama,2005,0
+Panama,2010,10
+Panama,2013,0
+Papua New Guinea,2000,3100
+Papua New Guinea,2005,2800
+Papua New Guinea,2010,2700
+Papua New Guinea,2013,3100
+Paraguay,2000,0
+Paraguay,2005,0
+Paraguay,2010,0
+Paraguay,2013,0
+Peru,2000,50
+Peru,2005,10
+Peru,2010,0
+Peru,2013,10
+Philippines,2000,230
+Philippines,2005,300
+Philippines,2010,110
+Philippines,2013,50
+Rwanda,2000,5200
+Rwanda,2005,3600
+Rwanda,2010,3000
+Rwanda,2013,3000
+Sao Tome and Principe,2000,110
+Sao Tome and Principe,2005,110
+Sao Tome and Principe,2010,100
+Sao Tome and Principe,2013,100
+Saudi Arabia,2000,0
+Saudi Arabia,2005,0
+Saudi Arabia,2010,0
+Saudi Arabia,2013,0
+Senegal,2000,6500
+Senegal,2005,4600
+Senegal,2010,4100
+Senegal,2013,4200
+Sierra Leone,2000,12000
+Sierra Leone,2005,12000
+Sierra Leone,2010,11000
+Sierra Leone,2013,7800
+Solomon Islands,2000,120
+Solomon Islands,2005,140
+Solomon Islands,2010,50
+Solomon Islands,2013,50
+Somalia,2000,1800
+Somalia,2005,2800
+Somalia,2010,730
+Somalia,2013,2000
+South Africa,2000,490
+South Africa,2005,100
+South Africa,2010,100
+South Africa,2013,120
+South Korea,2000,0
+South Korea,2005,0
+South Korea,2010,10
+South Korea,2013,0
+South Sudan,2000,6100
+South Sudan,2005,4000
+South Sudan,2010,3200
+South Sudan,2013,2900
+Sri Lanka,2000,100
+Sri Lanka,2005,0
+Sri Lanka,2010,0
+Sri Lanka,2013,0
+Sudan,2000,6300
+Sudan,2005,5500
+Sudan,2010,3000
+Sudan,2013,3300
+Suriname,2000,50
+Suriname,2005,10
+Suriname,2010,10
+Suriname,2013,10
+Swaziland,2000,10
+Swaziland,2005,10
+Swaziland,2010,10
+Swaziland,2013,10
+Tajikistan,2000,0
+Tajikistan,2005,0
+Tajikistan,2010,0
+Tajikistan,2013,0
+Tanzania,2000,30000
+Tanzania,2005,20000
+Tanzania,2010,16000
+Tanzania,2013,17000
+Thailand,2000,810
+Thailand,2005,210
+Thailand,2010,100
+Thailand,2013,50
+Timor-Leste,2000,490
+Timor-Leste,2005,530
+Timor-Leste,2010,220
+Timor-Leste,2013,130
+Togo,2000,6900
+Togo,2005,6900
+Togo,2010,6300
+Togo,2013,4700
+Turkey,2000,0
+Turkey,2005,0
+Turkey,2010,0
+Turkey,2013,0
+Turkmenistan,2000,0
+Turkmenistan,2005,0
+Turkmenistan,2010,0
+Turkmenistan,2013,0
+Uganda,2000,49000
+Uganda,2005,35000
+Uganda,2010,19000
+Uganda,2013,12000
+Uzbekistan,2000,0
+Uzbekistan,2005,0
+Uzbekistan,2010,0
+Uzbekistan,2013,0
+Vanuatu,2000,50
+Vanuatu,2005,50
+Vanuatu,2010,50
+Vanuatu,2013,10
+Venezuela,2000,100
+Venezuela,2005,100
+Venezuela,2010,100
+Venezuela,2013,150
+Vietnam,2000,430
+Vietnam,2005,100
+Vietnam,2010,100
+Vietnam,2013,50
+Yemen,2000,1900
+Yemen,2005,1500
+Yemen,2010,1300
+Yemen,2013,1100
+Zambia,2000,14000
+Zambia,2005,7900
+Zambia,2010,6300
+Zambia,2013,6700
+Zimbabwe,2000,2500
+Zimbabwe,2005,2700
+Zimbabwe,2010,2500
+Zimbabwe,2013,2600

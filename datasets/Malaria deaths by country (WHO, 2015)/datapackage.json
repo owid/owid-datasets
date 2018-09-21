@@ -1,0 +1,42 @@
+{
+  "name": "Malaria deaths by country (WHO, 2015)",
+  "title": "Malaria deaths by country (WHO, 2015)",
+  "id": 1887,
+  "description": "Data is based on the average estimated number of deaths per year from the WHO's Global Health Observatory. In the small number of cases where precise estimates are not available and given as <10 , <50 or <100, we have presented data as 10, 50 or 100 respectively for use in interactive visualisation.",
+  "sources": [
+    {
+      "name": "Malaria deaths by country (WHO, 2015)",
+      "dataPublishedBy": "World Health Organization (WHO), Global Health Observatory",
+      "dataPublisherSource": null,
+      "link": "http://apps.who.int/gho/data/node.main.A1368?lang=en",
+      "retrievedDate": "2017-12-15",
+      "additionalInfo": "Data is based on the average estimated number of deaths per year from the WHO's Global Health Observatory. In the small number of cases where precise estimates are not available and given as <10 , <50 or <100, we have presented data as 10, 50 or 100 respectively for use in interactive visualisation."
+    }
+  ],
+  "owidTags": [
+    "Malaria"
+  ],
+  "resources": [
+    {
+      "path": "Malaria deaths by country (WHO, 2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Malaria deaths (WHO, 2015)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
