@@ -1,0 +1,80 @@
+{
+  "name": "CO2 emissions by source - CDIAC (2016)",
+  "title": "CO2 emissions by source - CDIAC (2016)",
+  "id": 215,
+  "description": "China only refers to Mainland China; France is including Monaco. As in the original source (CDIAC), emissions from bunker fuels are not included in these totals.",
+  "sources": [
+    {
+      "name": "CO2 emissions by source - CDIAC (2016)",
+      "dataPublishedBy": "CDIAC",
+      "dataPublisherSource": null,
+      "link": "http://cdiac.ornl.gov/trends/emis/tre_coun.html",
+      "retrievedDate": "25/04/2016",
+      "additionalInfo": "China only refers to Mainland China; France is including Monaco. As in the original source (CDIAC), emissions from bunker fuels are not included in these totals."
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "CO2 emissions by source - CDIAC (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Solid fuel consumption (CDIAC (2016))",
+            "type": "any",
+            "description": "CO2 emissions",
+            "owidDisplaySettings": {
+              "unit": "% GDP",
+              "shortUnit": "%"
+            }
+          },
+          {
+            "name": "Liquid fuel consumption (CDIAC (2016))",
+            "type": "any",
+            "description": "CO2 emissions",
+            "owidDisplaySettings": {
+              "unit": "%"
+            }
+          },
+          {
+            "name": "Gas fuel consumption (CDIAC (2016))",
+            "type": "any",
+            "description": "CO2 emissions",
+            "owidDisplaySettings": {
+              "unit": "% GDP",
+              "shortUnit": "%"
+            }
+          },
+          {
+            "name": "Cement production (CDIAC (2016))",
+            "type": "any",
+            "description": "CO2 emissions",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          },
+          {
+            "name": "Gas flaring (CDIAC (2016))",
+            "type": "any",
+            "description": "CO2 emissions",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
