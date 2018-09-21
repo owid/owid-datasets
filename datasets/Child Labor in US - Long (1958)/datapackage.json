@@ -1,0 +1,42 @@
+{
+  "name": "Child Labor in US - Long (1958)",
+  "title": "Child Labor in US - Long (1958)",
+  "id": 655,
+  "description": "The incidence of child labour in males and females aged 10-13 has been taken directly from the source; this is available for both rural and urban demographics individually.\n\nTo calculate the incidence of child labour across both sexes combined, we have weighted gender-specific incidences based on the male:female ratio in the total population for this age bracket (these are based on reported gender ratios, which may incur rounding errors). The same weighting application of population in rural vs. urban areas has been carried out to provide a combined rural & urban figure of incidence.",
+  "sources": [
+    {
+      "name": "Child Labour in US - Long (1958) ",
+      "dataPublishedBy": "Long, C. D. (1958) The labor force under changing income and employment. Princeton, N.J.: Princeton University Press",
+      "dataPublisherSource": "Data has been derived based on published figures on child labour and population figures in the United States by Long (1958)",
+      "link": "http://econpapers.repec.org/bookchap/nbrnberbk/long58-1.htm",
+      "retrievedDate": "31/07/2017",
+      "additionalInfo": "The incidence of child labour in males and females aged 10-13 has been taken directly from the source; this is available for both rural and urban demographics individually.\n\nTo calculate the incidence of child labour across both sexes combined, we have weighted gender-specific incidences based on the male:female ratio in the total population for this age bracket (these are based on reported gender ratios, which may incur rounding errors). The same weighting application of population in rural vs. urban areas has been carried out to provide a combined rural & urban figure of incidence."
+    }
+  ],
+  "owidTags": [
+    "Child Labor"
+  ],
+  "resources": [
+    {
+      "path": "Child Labor in US - Long (1958).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Child Labor (Long (1958))",
+            "type": "any",
+            "description": "Share of children in employment. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
