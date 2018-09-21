@@ -1,0 +1,8036 @@
+Entity,Year,"International Historical Statistics (Deaths per 1,000) (Brian Mitchell (2013))"
+Albania,1930,16.3
+Albania,1932,17.9
+Albania,1936,16.6
+Albania,1937,19.5
+Albania,1938,17.7
+Albania,1939,15
+Albania,1940,16.4
+Albania,1941,16.6
+Albania,1942,14.2
+Albania,1947,18.9
+Albania,1948,16.1
+Albania,1949,12.5
+Albania,1950,14.1
+Albania,1951,15.2
+Albania,1952,15.6
+Albania,1953,13.7
+Albania,1954,13.1
+Albania,1955,15.1
+Albania,1956,11.5
+Albania,1957,11.8
+Albania,1958,9.3
+Albania,1959,9.8
+Albania,1960,10.4
+Albania,1961,9.3
+Albania,1962,10.7
+Albania,1963,10
+Albania,1964,8.7
+Albania,1965,9
+Albania,1966,8.6
+Albania,1967,8.4
+Albania,1968,8
+Albania,1969,7.5
+Albania,1970,9.3
+Albania,1971,8.1
+Albania,1978,6.4
+Albania,1979,6.7
+Albania,1980,6.4
+Albania,1981,6.6
+Albania,1982,5.9
+Albania,1983,6.1
+Albania,1984,5.7
+Albania,1985,5.8
+Albania,1986,5.7
+Albania,1987,5.6
+Albania,1988,5.4
+Albania,1989,5.7
+Albania,1990,5.6
+Albania,1991,5.5
+Albania,1992,5.1
+Albania,1995,5
+Albania,1996,4.8
+Albania,1997,4.9
+Albania,1998,4.8
+Albania,1999,5.7
+Albania,2000,5.4
+Albania,2001,5.1
+Albania,2002,5.3
+Albania,2003,5.8
+Albania,2004,5.675569979
+Albania,2005,5.546353361
+Albania,2006,5.374678741
+Albania,2007,4.595523982
+Albania,2008,5.073224387
+Argentina,1910,18.9
+Argentina,1911,18.2
+Argentina,1912,17
+Argentina,1913,16.2
+Argentina,1914,15.4
+Argentina,1915,15.8
+Argentina,1916,17.1
+Argentina,1917,16.1
+Argentina,1918,18.2
+Argentina,1919,18.4
+Argentina,1920,15.5
+Argentina,1921,15.8
+Argentina,1922,14
+Argentina,1923,14.8
+Argentina,1924,14.3
+Argentina,1925,14.1
+Argentina,1926,13.6
+Argentina,1927,14.1
+Argentina,1928,13.2
+Argentina,1929,13.8
+Argentina,1930,12.7
+Argentina,1931,12.7
+Argentina,1932,11.1
+Argentina,1933,11.8
+Argentina,1934,11.7
+Argentina,1935,13.1
+Argentina,1936,11.9
+Argentina,1937,12
+Argentina,1938,12.4
+Argentina,1939,11.3
+Argentina,1940,10.7
+Argentina,1941,10.4
+Argentina,1942,10.3
+Argentina,1943,10.1
+Argentina,1944,10.2
+Argentina,1945,10.3
+Argentina,1946,9.6
+Argentina,1947,9.9
+Argentina,1948,9.4
+Argentina,1949,9
+Argentina,1950,9
+Argentina,1951,8.9
+Argentina,1952,8.6
+Argentina,1953,8.9
+Argentina,1954,8.4
+Argentina,1955,8.9
+Argentina,1956,8.4
+Argentina,1957,9.2
+Argentina,1958,8.3
+Argentina,1959,8.5
+Argentina,1960,8.7
+Argentina,1961,8.4
+Argentina,1962,8.6
+Argentina,1963,8.6
+Argentina,1964,8.7
+Argentina,1965,8.9
+Argentina,1966,8.6
+Argentina,1967,8.6
+Argentina,1968,9.2
+Argentina,1969,9.5
+Argentina,1970,9.4
+Argentina,1971,9.3
+Argentina,1972,9
+Argentina,1973,9.1
+Argentina,1974,9
+Argentina,1975,8.8
+Argentina,1976,9.1
+Argentina,1977,8.7
+Argentina,1978,8.4
+Argentina,1979,8.5
+Argentina,1980,8.5
+Argentina,1981,8.4
+Argentina,1982,8
+Argentina,1983,8.2
+Argentina,1984,8.5
+Argentina,1985,8
+Argentina,1986,7.9
+Argentina,1987,8
+Argentina,1988,8.4
+Argentina,1989,7.9
+Argentina,1990,8
+Argentina,1991,7.8
+Argentina,1992,7.9
+Argentina,1993,7.9
+Argentina,1994,7.5
+Argentina,1995,7.7
+Argentina,1996,7.6
+Argentina,1997,7.6
+Argentina,1998,7.8
+Argentina,1999,7.9
+Argentina,2000,7.5
+Argentina,2001,7.7
+Argentina,2002,7.8
+Argentina,2003,8
+Argentina,2004,7.7
+Argentina,2005,7.6
+Argentina,2006,7.500857505
+Argentina,2007,8.025432622
+Argentina,2008,7.593316022
+Argentina,2009,7.587625835
+Australia,1851,13.9
+Australia,1852,17.5
+Australia,1853,23.5
+Australia,1854,21.8
+Australia,1855,18.9
+Australia,1856,15
+Australia,1857,16.4
+Australia,1858,18.3
+Australia,1859,17.4
+Australia,1860,20.9
+Australia,1861,17.3
+Australia,1862,17.6
+Australia,1863,17.3
+Australia,1864,16.3
+Australia,1865,16.6
+Australia,1866,18.6
+Australia,1867,18.3
+Australia,1868,15.5
+Australia,1869,14.7
+Australia,1870,14.2
+Australia,1871,13.2
+Australia,1872,14.5
+Australia,1873,14.7
+Australia,1874,16.1
+Australia,1875,19.7
+Australia,1876,17.6
+Australia,1877,15.9
+Australia,1878,16.3
+Australia,1879,14.7
+Australia,1880,14.6
+Australia,1881,14.7
+Australia,1882,16
+Australia,1883,15.3
+Australia,1884,16.5
+Australia,1885,16
+Australia,1886,15.4
+Australia,1887,14.6
+Australia,1888,14.6
+Australia,1889,15.4
+Australia,1890,14.3
+Australia,1891,14.8
+Australia,1892,12.9
+Australia,1893,13.7
+Australia,1894,12.7
+Australia,1895,12.5
+Australia,1896,12.8
+Australia,1897,12.1
+Australia,1898,14.1
+Australia,1899,12.9
+Australia,1900,11.7
+Australia,1901,12.2
+Australia,1902,12.5
+Australia,1903,12.2
+Australia,1904,11.1
+Australia,1905,10.9
+Australia,1906,10.9
+Australia,1907,11
+Australia,1908,11.1
+Australia,1909,10.3
+Australia,1910,10.4
+Australia,1911,10.7
+Australia,1912,11.2
+Australia,1913,10.8
+Australia,1914,10.5
+Australia,1915,10.6
+Australia,1916,11
+Australia,1917,9.7
+Australia,1918,10
+Australia,1919,12.7
+Australia,1920,10.5
+Australia,1921,9.9
+Australia,1922,9.2
+Australia,1923,9.9
+Australia,1924,9.5
+Australia,1925,9.2
+Australia,1926,9.4
+Australia,1927,9.5
+Australia,1928,9.5
+Australia,1929,9.6
+Australia,1930,8.6
+Australia,1931,8.7
+Australia,1932,8.6
+Australia,1933,8.9
+Australia,1934,9.3
+Australia,1935,9.5
+Australia,1936,9.4
+Australia,1937,9.4
+Australia,1938,9.6
+Australia,1939,9.9
+Australia,1940,9.8
+Australia,1941,10.6
+Australia,1942,12
+Australia,1943,11.5
+Australia,1944,10.3
+Australia,1945,10.3
+Australia,1946,10.1
+Australia,1947,9.7
+Australia,1948,10
+Australia,1949,9.5
+Australia,1950,9.6
+Australia,1951,9.7
+Australia,1952,9.4
+Australia,1953,9.1
+Australia,1954,9.1
+Australia,1955,8.9
+Australia,1956,9.1
+Australia,1957,8.8
+Australia,1958,8.5
+Australia,1959,8.9
+Australia,1960,8.6
+Australia,1961,8.5
+Australia,1962,8.7
+Australia,1963,8.7
+Australia,1964,9
+Australia,1965,8.8
+Australia,1966,9
+Australia,1967,8.7
+Australia,1968,9.1
+Australia,1969,8.7
+Australia,1970,9
+Australia,1971,8.6
+Australia,1972,8.3
+Australia,1973,8.3
+Australia,1974,8.5
+Australia,1975,7.9
+Australia,1976,8
+Australia,1977,7.7
+Australia,1978,7.5
+Australia,1979,7.3
+Australia,1980,7.4
+Australia,1981,7.3
+Australia,1982,7.6
+Australia,1983,7.2
+Australia,1984,7.1
+Australia,1985,7.5
+Australia,1986,7.2
+Australia,1987,7.2
+Australia,1988,7.3
+Australia,1989,7.4
+Australia,1990,7
+Australia,1991,6.9
+Australia,1992,7.1
+Australia,1993,6.9
+Australia,1994,7.1
+Australia,1995,6.9
+Australia,1996,7
+Australia,1997,6.9
+Australia,1998,6.8
+Australia,1999,6.8
+Australia,2000,6.7
+Australia,2001,6.6
+Australia,2002,6.8
+Australia,2003,6.7
+Australia,2004,6.583475441
+Australia,2005,6.409185561
+Australia,2006,6.461483012
+Australia,2007,6.541905992
+Australia,2008,6.69561747
+Australia,2009,6.411221076
+Austria,1820,26.6
+Austria,1821,25.7
+Austria,1822,27.2
+Austria,1823,28.8
+Austria,1824,26.4
+Austria,1825,26.9
+Austria,1826,27.7
+Austria,1827,28.9
+Austria,1828,32.7
+Austria,1829,31.4
+Austria,1830,30.3
+Austria,1831,42.2
+Austria,1832,35.6
+Austria,1833,31.8
+Austria,1834,30.9
+Austria,1835,30.2
+Austria,1836,33.1
+Austria,1837,33.2
+Austria,1838,28.3
+Austria,1839,30
+Austria,1840,30.4
+Austria,1841,29.5
+Austria,1842,30.8
+Austria,1843,31.4
+Austria,1844,28.9
+Austria,1845,29.7
+Austria,1846,28.9
+Austria,1847,44.4
+Austria,1848,41.3
+Austria,1849,35
+Austria,1850,32.9
+Austria,1851,29.8
+Austria,1852,30.9
+Austria,1853,31.9
+Austria,1854,34.5
+Austria,1855,43.9
+Austria,1856,30.2
+Austria,1857,28.2
+Austria,1858,29.1
+Austria,1859,29.2
+Austria,1860,26.8
+Austria,1861,29.8
+Austria,1862,29.5
+Austria,1863,29.9
+Austria,1864,30.1
+Austria,1865,30.5
+Austria,1866,40.8
+Austria,1867,29.4
+Austria,1868,28.7
+Austria,1869,29
+Austria,1870,29.4
+Austria,1871,29.8
+Austria,1872,32.6
+Austria,1873,38.9
+Austria,1874,31.7
+Austria,1875,30
+Austria,1876,29.8
+Austria,1877,31.5
+Austria,1878,31.6
+Austria,1879,29.9
+Austria,1880,29.7
+Austria,1881,30.5
+Austria,1882,30.8
+Austria,1883,30.1
+Austria,1884,29.3
+Austria,1885,30.1
+Austria,1886,29.4
+Austria,1887,28.9
+Austria,1888,29.2
+Austria,1889,27.3
+Austria,1890,29.1
+Austria,1891,28
+Austria,1892,28.8
+Austria,1893,27.1
+Austria,1894,27.8
+Austria,1895,27.5
+Austria,1896,26.2
+Austria,1897,25.5
+Austria,1898,24.8
+Austria,1899,25.2
+Austria,1900,25.2
+Austria,1901,24
+Austria,1902,24.7
+Austria,1903,23.8
+Austria,1904,23.8
+Austria,1905,25.1
+Austria,1906,22.6
+Austria,1907,22.7
+Austria,1908,22.5
+Austria,1909,22.9
+Austria,1910,21.2
+Austria,1911,21.9
+Austria,1912,20.5
+Austria,1913,20.3
+Austria,1918,26.4
+Austria,1919,20.4
+Austria,1920,19
+Austria,1921,17
+Austria,1922,17.4
+Austria,1923,15.3
+Austria,1924,15
+Austria,1925,14.4
+Austria,1926,15
+Austria,1927,15
+Austria,1928,14.5
+Austria,1929,14.6
+Austria,1930,13.5
+Austria,1931,14
+Austria,1932,13.9
+Austria,1933,13.2
+Austria,1934,12.7
+Austria,1935,13.7
+Austria,1936,13.2
+Austria,1937,13.3
+Austria,1938,14
+Austria,1939,15.3
+Austria,1946,13.4
+Austria,1947,12.9
+Austria,1948,12.1
+Austria,1949,12.8
+Austria,1950,12.4
+Austria,1951,12.7
+Austria,1952,12
+Austria,1953,12
+Austria,1954,12.2
+Austria,1955,12.2
+Austria,1956,12.5
+Austria,1957,12.8
+Austria,1958,12.3
+Austria,1959,12.5
+Austria,1960,12.7
+Austria,1961,12.1
+Austria,1962,12.7
+Austria,1963,12.8
+Austria,1964,12.3
+Austria,1965,13
+Austria,1966,12.5
+Austria,1967,13
+Austria,1968,12.9
+Austria,1969,13.3
+Austria,1970,13.2
+Austria,1971,13
+Austria,1972,12.6
+Austria,1973,12.2
+Austria,1974,12.4
+Austria,1975,12.7
+Austria,1976,12.6
+Austria,1977,12.2
+Austria,1978,12.5
+Austria,1979,12.2
+Austria,1980,12.2
+Austria,1981,12.3
+Austria,1982,12.1
+Austria,1983,12.3
+Austria,1984,11.7
+Austria,1985,11.9
+Austria,1986,11.5
+Austria,1987,11.2
+Austria,1988,11
+Austria,1989,10.9
+Austria,1990,10.7
+Austria,1991,10.7
+Austria,1992,10.5
+Austria,1993,10.3
+Austria,1994,10.1
+Austria,1995,10.1
+Austria,1996,10
+Austria,1997,9.8
+Austria,1998,9.7
+Austria,1999,9.8
+Austria,2000,9.6
+Austria,2001,9.3
+Austria,2002,9.4
+Austria,2003,9.5
+Austria,2004,9.1
+Austria,2005,9.1
+Austria,2006,8.985905572
+Austria,2007,8.989930555
+Austria,2008,9.006484578
+Austria,2009,9.250263739
+Austria,2010,9.201562236
+Barbados,1910,25.5
+Barbados,1911,26.3
+Barbados,1912,41
+Barbados,1913,21.3
+Barbados,1914,36.5
+Barbados,1915,19.2
+Barbados,1916,22.7
+Barbados,1917,24.9
+Barbados,1918,20.6
+Barbados,1919,39.3
+Barbados,1920,33.4
+Barbados,1921,43.3
+Barbados,1922,22.4
+Barbados,1923,37.1
+Barbados,1924,29.5
+Barbados,1925,29.5
+Barbados,1926,29.6
+Barbados,1927,20.2
+Barbados,1928,30.1
+Barbados,1929,23.7
+Barbados,1930,23.1
+Barbados,1931,28.2
+Barbados,1932,20.6
+Barbados,1933,21.9
+Barbados,1934,25.1
+Barbados,1935,22
+Barbados,1936,20.3
+Barbados,1937,20.3
+Barbados,1938,21.4
+Barbados,1939,19.1
+Barbados,1940,18.5
+Barbados,1941,21.8
+Barbados,1942,18.2
+Barbados,1943,17.1
+Barbados,1944,18.3
+Barbados,1945,16.9
+Barbados,1946,17
+Barbados,1947,16.3
+Barbados,1948,15.7
+Barbados,1949,14.6
+Barbados,1950,12.8
+Barbados,1951,14
+Barbados,1952,14.6
+Barbados,1953,13.5
+Barbados,1954,11.3
+Barbados,1955,12.7
+Barbados,1956,10.8
+Barbados,1957,10.9
+Barbados,1958,10.1
+Barbados,1959,9
+Barbados,1960,9.1
+Barbados,1961,10.4
+Barbados,1962,9
+Barbados,1963,8.8
+Barbados,1964,8.8
+Barbados,1965,7.8
+Barbados,1966,8.2
+Barbados,1967,8.2
+Barbados,1968,8.1
+Barbados,1969,7.8
+Barbados,1970,8.7
+Barbados,1971,8.6
+Barbados,1972,8.5
+Barbados,1973,9.4
+Barbados,1974,8.8
+Barbados,1975,8.8
+Barbados,1976,9.5
+Barbados,1977,8.7
+Barbados,1978,8.4
+Barbados,1979,8.6
+Barbados,1980,8.1
+Barbados,1981,7.5
+Barbados,1982,8
+Barbados,1983,8.2
+Barbados,1984,7.8
+Barbados,1985,8.4
+Barbados,1986,8.5
+Barbados,1987,8.7
+Barbados,1988,8.8
+Barbados,1989,8.9
+Barbados,1990,8.7
+Barbados,1991,8.8
+Barbados,1992,9.1
+Barbados,1993,9.1
+Barbados,1994,8.7
+Barbados,1995,9.4
+Barbados,1996,9.1
+Barbados,1997,      
+Barbados,1998,      
+Barbados,1999,      
+Barbados,2000,8.8
+Barbados,2001,6.3
+Barbados,2002,8.4
+Barbados,2003,8.4
+Barbados,2004,8.9
+Barbados,2005,7.9
+Barbados,2006,8.473894407
+Barbados,2007,8.070839579
+Belgium,1830,25.6
+Belgium,1831,24
+Belgium,1832,28
+Belgium,1833,26.8
+Belgium,1834,27.8
+Belgium,1835,24
+Belgium,1836,23.9
+Belgium,1837,27.6
+Belgium,1838,25.5
+Belgium,1839,26.1
+Belgium,1840,25
+Belgium,1841,23.8
+Belgium,1842,24.9
+Belgium,1843,23.3
+Belgium,1844,22.5
+Belgium,1845,23
+Belgium,1846,25.1
+Belgium,1847,27.7
+Belgium,1848,24
+Belgium,1849,27.7
+Belgium,1850,21.2
+Belgium,1851,21.4
+Belgium,1852,21.5
+Belgium,1853,22.2
+Belgium,1854,20.5
+Belgium,1855,24.7
+Belgium,1856,24.1
+Belgium,1857,22.8
+Belgium,1858,23.6
+Belgium,1859,24.2
+Belgium,1860,19.9
+Belgium,1861,22.5
+Belgium,1862,20.9
+Belgium,1863,22.3
+Belgium,1864,23.7
+Belgium,1865,24.7
+Belgium,1866,30.3
+Belgium,1867,21.9
+Belgium,1868,22
+Belgium,1869,22.1
+Belgium,1870,23.6
+Belgium,1871,28.1
+Belgium,1872,23.5
+Belgium,1873,21.8
+Belgium,1874,20.9
+Belgium,1875,22.9
+Belgium,1876,21.6
+Belgium,1877,21.4
+Belgium,1878,21.7
+Belgium,1879,22.1
+Belgium,1880,22.3
+Belgium,1881,21.2
+Belgium,1882,20.5
+Belgium,1883,21.1
+Belgium,1884,21.2
+Belgium,1885,21.4
+Belgium,1886,21.3
+Belgium,1887,19.3
+Belgium,1888,20.3
+Belgium,1889,19.8
+Belgium,1890,20.8
+Belgium,1891,21.2
+Belgium,1892,21.8
+Belgium,1893,20.3
+Belgium,1894,18.6
+Belgium,1895,19.5
+Belgium,1896,17.5
+Belgium,1897,17.2
+Belgium,1898,17.6
+Belgium,1899,18.8
+Belgium,1900,19.3
+Belgium,1901,17.2
+Belgium,1902,17.3
+Belgium,1903,17
+Belgium,1904,16.9
+Belgium,1905,17.5
+Belgium,1906,16
+Belgium,1907,15.4
+Belgium,1908,16.1
+Belgium,1909,15.4
+Belgium,1910,14.9
+Belgium,1911,16
+Belgium,1912,14.5
+Belgium,1913,14.2
+Belgium,1914,14.2
+Belgium,1915,13.1
+Belgium,1916,13.1
+Belgium,1917,16.3
+Belgium,1918,20.8
+Belgium,1919,14.9
+Belgium,1920,13.9
+Belgium,1921,13.4
+Belgium,1922,13.9
+Belgium,1923,12.9
+Belgium,1924,12.7
+Belgium,1925,12.8
+Belgium,1926,12.8
+Belgium,1927,13
+Belgium,1928,12.8
+Belgium,1929,14.4
+Belgium,1930,12.8
+Belgium,1931,12.7
+Belgium,1932,12.7
+Belgium,1933,12.7
+Belgium,1934,11.7
+Belgium,1935,12.3
+Belgium,1936,12.2
+Belgium,1937,12.5
+Belgium,1938,12.5
+Belgium,1939,13.2
+Belgium,1940,15.1
+Belgium,1941,14.4
+Belgium,1942,14.2
+Belgium,1943,13.1
+Belgium,1944,15.1
+Belgium,1945,14.5
+Belgium,1946,13.2
+Belgium,1947,12.7
+Belgium,1948,12
+Belgium,1949,12.4
+Belgium,1950,12
+Belgium,1951,12.4
+Belgium,1952,11.8
+Belgium,1953,12.1
+Belgium,1954,11.9
+Belgium,1955,12.2
+Belgium,1956,12.1
+Belgium,1957,11.9
+Belgium,1958,11.7
+Belgium,1959,11.4
+Belgium,1960,12.4
+Belgium,1961,11.6
+Belgium,1962,12.2
+Belgium,1963,12.5
+Belgium,1964,11.7
+Belgium,1965,12.1
+Belgium,1966,12.1
+Belgium,1967,12
+Belgium,1968,12.6
+Belgium,1969,12.5
+Belgium,1970,12.3
+Belgium,1971,12.3
+Belgium,1972,12
+Belgium,1973,12.1
+Belgium,1974,11.9
+Belgium,1975,12.2
+Belgium,1976,12.1
+Belgium,1977,11.4
+Belgium,1978,11.7
+Belgium,1979,11.4
+Belgium,1980,11.6
+Belgium,1981,11.5
+Belgium,1982,11.4
+Belgium,1983,11.7
+Belgium,1984,11.2
+Belgium,1985,11.4
+Belgium,1986,11.3
+Belgium,1987,10.7
+Belgium,1988,10.6
+Belgium,1989,10.8
+Belgium,1990,10.5
+Belgium,1991,10.5
+Belgium,1992,10.3
+Belgium,1993,10.6
+Belgium,1994,10.6
+Belgium,1995,10.5
+Belgium,1996,10.4
+Belgium,1997,10.2
+Belgium,1998,10.2
+Belgium,1999,10.3
+Belgium,2000,10.2
+Belgium,2001,10.1
+Belgium,2002,10.2
+Belgium,2004,9.8
+Belgium,2005,9.9
+Belgium,2006,9.636504563
+Belgium,2007,9.475830973
+Belgium,2008,9.765384096
+Belgium,2009,9.679902539
+Belgium,2010,9.605525429
+Bulgaria,1881,16.4
+Bulgaria,1882,19.1
+Bulgaria,1883,19.8
+Bulgaria,1884,17.2
+Bulgaria,1885,16.7
+Bulgaria,1886,19.2
+Bulgaria,1887,18.2
+Bulgaria,1888,18.2
+Bulgaria,1889,18.5
+Bulgaria,1890,21.1
+Bulgaria,1891,26.7
+Bulgaria,1892,31.6
+Bulgaria,1893,27.6
+Bulgaria,1894,27.4
+Bulgaria,1895,26.5
+Bulgaria,1896,24.3
+Bulgaria,1897,25.6
+Bulgaria,1898,23.1
+Bulgaria,1899,24.8
+Bulgaria,1900,22.6
+Bulgaria,1901,23.3
+Bulgaria,1902,24
+Bulgaria,1903,22.9
+Bulgaria,1904,21.4
+Bulgaria,1905,21.7
+Bulgaria,1906,22.2
+Bulgaria,1907,22.2
+Bulgaria,1908,24.2
+Bulgaria,1909,26.5
+Bulgaria,1910,23
+Bulgaria,1911,21.4
+Bulgaria,1912,20.6
+Bulgaria,1913,29
+Bulgaria,1914,20.7
+Bulgaria,1915,19.9
+Bulgaria,1916,20.8
+Bulgaria,1917,21.2
+Bulgaria,1918,32
+Bulgaria,1919,20.2
+Bulgaria,1920,21.4
+Bulgaria,1921,21.7
+Bulgaria,1922,23.6
+Bulgaria,1923,21.2
+Bulgaria,1924,20.7
+Bulgaria,1925,19.2
+Bulgaria,1926,17.2
+Bulgaria,1927,20.3
+Bulgaria,1928,17.7
+Bulgaria,1929,18.1
+Bulgaria,1930,16.2
+Bulgaria,1931,16.9
+Bulgaria,1932,16.3
+Bulgaria,1933,15.6
+Bulgaria,1934,14.1
+Bulgaria,1935,14.6
+Bulgaria,1936,14.3
+Bulgaria,1937,13.6
+Bulgaria,1938,13.7
+Bulgaria,1939,13.4
+Bulgaria,1940,13.4
+Bulgaria,1941,12.7
+Bulgaria,1942,13
+Bulgaria,1943,18.8
+Bulgaria,1944,18.4
+Bulgaria,1945,16.2
+Bulgaria,1946,12.2
+Bulgaria,1947,11.6
+Bulgaria,1948,11.4
+Bulgaria,1949,12.2
+Bulgaria,1950,11.5
+Bulgaria,1951,10.7
+Bulgaria,1952,11.6
+Bulgaria,1953,9.3
+Bulgaria,1954,9.2
+Bulgaria,1955,9.1
+Bulgaria,1956,9.4
+Bulgaria,1957,8.6
+Bulgaria,1958,7.9
+Bulgaria,1959,9.5
+Bulgaria,1960,8.1
+Bulgaria,1961,7.9
+Bulgaria,1962,8.7
+Bulgaria,1963,8.2
+Bulgaria,1964,7.9
+Bulgaria,1965,8.2
+Bulgaria,1966,8.3
+Bulgaria,1967,9
+Bulgaria,1968,8.6
+Bulgaria,1969,9.5
+Bulgaria,1970,9.1
+Bulgaria,1971,9.7
+Bulgaria,1972,9.8
+Bulgaria,1973,9.5
+Bulgaria,1974,9.8
+Bulgaria,1975,10.3
+Bulgaria,1976,10.1
+Bulgaria,1977,10.7
+Bulgaria,1978,10.5
+Bulgaria,1979,10.7
+Bulgaria,1980,11.1
+Bulgaria,1981,10.7
+Bulgaria,1982,11.2
+Bulgaria,1983,11.4
+Bulgaria,1984,11.3
+Bulgaria,1985,12
+Bulgaria,1986,11.6
+Bulgaria,1987,12
+Bulgaria,1988,12
+Bulgaria,1989,11.9
+Bulgaria,1990,12.1
+Bulgaria,1991,12.3
+Bulgaria,1992,12.6
+Bulgaria,1993,12.9
+Bulgaria,1994,12.9
+Bulgaria,1995,12.7
+Bulgaria,1996,13.6
+Bulgaria,1997,14
+Bulgaria,1998,14.7
+Bulgaria,1999,13.6
+Bulgaria,2000,14.1
+Bulgaria,2001,14.2
+Bulgaria,2002,14.3
+Bulgaria,2003,14.3
+Bulgaria,2004,14.2
+Bulgaria,2005,14.6
+Bulgaria,2006,14.73408304
+Bulgaria,2007,14.75293495
+Bulgaria,2008,14.49787136
+Bulgaria,2009,14.24734787
+Bulgaria,2010,14.62181767
+Canada,1900,16.2
+Canada,1901,14.1
+Canada,1902,13.4
+Canada,1903,13.2
+Canada,1904,13.5
+Canada,1905,13
+Canada,1906,13.2
+Canada,1907,12.8
+Canada,1908,12.6
+Canada,1909,12.8
+Canada,1910,13.1
+Canada,1911,13.4
+Canada,1912,13
+Canada,1913,13.1
+Canada,1914,12.6
+Canada,1915,12.5
+Canada,1916,13
+Canada,1917,12.7
+Canada,1918,15.9
+Canada,1919,13.7
+Canada,1920,13.3
+Canada,1921,11.6
+Canada,1922,11.6
+Canada,1923,11.8
+Canada,1924,10.9
+Canada,1925,10.7
+Canada,1926,11.4
+Canada,1927,11
+Canada,1928,11.2
+Canada,1929,11.4
+Canada,1930,10.8
+Canada,1931,10.2
+Canada,1932,10
+Canada,1933,9.7
+Canada,1934,9.5
+Canada,1935,9.9
+Canada,1936,9.9
+Canada,1937,10.4
+Canada,1938,9.7
+Canada,1939,9.7
+Canada,1940,9.8
+Canada,1941,10.1
+Canada,1942,9.8
+Canada,1943,10.1
+Canada,1944,9.8
+Canada,1945,9.5
+Canada,1946,9.4
+Canada,1947,9.4
+Canada,1948,9.3
+Canada,1949,9.3
+Canada,1950,9.1
+Canada,1951,9
+Canada,1952,8.7
+Canada,1953,8.6
+Canada,1954,8.2
+Canada,1955,8.2
+Canada,1956,8.2
+Canada,1957,8.2
+Canada,1958,7.9
+Canada,1959,8
+Canada,1960,7.8
+Canada,1961,7.7
+Canada,1962,7.7
+Canada,1963,7.8
+Canada,1964,7.6
+Canada,1965,7.6
+Canada,1966,7.5
+Canada,1967,7.4
+Canada,1968,7.4
+Canada,1969,7.3
+Canada,1970,7.3
+Canada,1971,7.3
+Canada,1972,7.4
+Canada,1973,7.4
+Canada,1974,7.4
+Canada,1975,7.4
+Canada,1976,7.3
+Canada,1977,7.2
+Canada,1978,7.2
+Canada,1979,7.1
+Canada,1980,7.1
+Canada,1981,7
+Canada,1982,7.1
+Canada,1983,7
+Canada,1984,7
+Canada,1985,7.2
+Canada,1986,7.3
+Canada,1987,7.2
+Canada,1988,7.3
+Canada,1989,7.3
+Canada,1990,7.2
+Canada,1991,7
+Canada,1992,6.9
+Canada,1993,7.1
+Canada,1994,7.1
+Canada,1995,7.2
+Canada,1996,7.2
+Canada,1997,7.2
+Canada,1998,7.2
+Canada,1999,7.2
+Canada,2000,7.1
+Canada,2001,7.1
+Canada,2002,7.1
+Canada,2003,7.1
+Canada,2004,7.1
+Canada,2005,7.1
+Canada,2006,7.001426875
+Canada,2007,7.142997485
+Canada,2008,7.232596158
+Chile,1850,18.8
+Chile,1851,20.5
+Chile,1852,19.5
+Chile,1853,22.9
+Chile,1854,21.7
+Chile,1855,21.1
+Chile,1856,22.7
+Chile,1857,24.5
+Chile,1858,22.3
+Chile,1859,25
+Chile,1860,28.9
+Chile,1861,27
+Chile,1862,24.4
+Chile,1863,26.8
+Chile,1864,34.6
+Chile,1865,29.4
+Chile,1866,25.5
+Chile,1867,25.7
+Chile,1868,23.4
+Chile,1869,26.1
+Chile,1870,24.7
+Chile,1871,25.4
+Chile,1872,29.2
+Chile,1873,28.2
+Chile,1874,27.6
+Chile,1875,28.3
+Chile,1876,30.2
+Chile,1877,29.4
+Chile,1878,28
+Chile,1879,27.7
+Chile,1880,31.2
+Chile,1881,27.4
+Chile,1882,28
+Chile,1883,25.7
+Chile,1884,24.2
+Chile,1885,27
+Chile,1886,26.7
+Chile,1887,31.6
+Chile,1888,3.3
+Chile,1889,34.7
+Chile,1890,36.7
+Chile,1891,34.1
+Chile,1892,37.6
+Chile,1893,34.3
+Chile,1894,33.7
+Chile,1895,31.4
+Chile,1896,30.5
+Chile,1897,31.2
+Chile,1898,29.1
+Chile,1899,29.5
+Chile,1900,36
+Chile,1901,36.7
+Chile,1902,28.8
+Chile,1903,28.4
+Chile,1904,28.1
+Chile,1905,35.2
+Chile,1906,33
+Chile,1907,29.7
+Chile,1908,31.9
+Chile,1909,31.7
+Chile,1910,31.7
+Chile,1911,31.9
+Chile,1912,30.4
+Chile,1913,31
+Chile,1914,28.6
+Chile,1915,27.3
+Chile,1916,27.9
+Chile,1917,29.6
+Chile,1918,27.5
+Chile,1919,34.1
+Chile,1920,30.7
+Chile,1921,32.7
+Chile,1922,28.4
+Chile,1923,32.8
+Chile,1924,29.2
+Chile,1925,27.8
+Chile,1926,27.2
+Chile,1927,26.3
+Chile,1928,23.7
+Chile,1929,25.8
+Chile,1930,24.7
+Chile,1931,22
+Chile,1932,22.8
+Chile,1933,26.8
+Chile,1934,26.8
+Chile,1935,25
+Chile,1936,25.3
+Chile,1937,24
+Chile,1938,24.5
+Chile,1939,24.6
+Chile,1940,22.9
+Chile,1941,19.6
+Chile,1942,19.9
+Chile,1943,19.3
+Chile,1944,18.9
+Chile,1945,19.3
+Chile,1946,16.6
+Chile,1947,16.1
+Chile,1948,16.7
+Chile,1949,17.3
+Chile,1950,15
+Chile,1951,15
+Chile,1952,13
+Chile,1953,12.4
+Chile,1954,12.8
+Chile,1955,12.9
+Chile,1956,12.1
+Chile,1957,12.8
+Chile,1958,12.2
+Chile,1959,12.6
+Chile,1960,12.4
+Chile,1961,11.6
+Chile,1962,11.8
+Chile,1963,12
+Chile,1964,11.2
+Chile,1965,10.5
+Chile,1966,10.2
+Chile,1967,9.5
+Chile,1968,9
+Chile,1969,8.8
+Chile,1970,8.5
+Chile,1971,8.8
+Chile,1972,9
+Chile,1973,8.2
+Chile,1974,7.8
+Chile,1975,7.3
+Chile,1976,7.4
+Chile,1977,7
+Chile,1978,6.7
+Chile,1979,6.8
+Chile,1980,6.7
+Chile,1981,6.2
+Chile,1982,6.1
+Chile,1983,8.4
+Chile,1984,6.3
+Chile,1985,6.1
+Chile,1986,5.9
+Chile,1987,5.6
+Chile,1988,5.8
+Chile,1989,5.8
+Chile,1990,6
+Chile,1991,5.6
+Chile,1992,5.4
+Chile,1993,5.5
+Chile,1994,5.4
+Chile,1995,5.5
+Chile,1996,5.5
+Chile,1997,5.4
+Chile,1998,5.4
+Chile,1999,5.4
+Chile,2000,5.1
+Chile,2001,5.3
+Chile,2002,5.2
+Chile,2003,5.3
+Chile,2004,5.4
+Chile,2005,5.3
+Chile,2006,5.211507269
+Chile,2007,5.603059729
+Chile,2008,5.37883863
+China,1949,20
+China,1950,18
+China,1951,17.8
+China,1952,17
+China,1953,14
+China,1954,13.2
+China,1955,12.3
+China,1956,11.4
+China,1957,10.8
+China,1958,12
+China,1959,14.6
+China,1960,25.4
+China,1961,14.2
+China,1962,10
+China,1963,10
+China,1964,11.5
+China,1965,9.5
+China,1966,8.8
+China,1967,8.4
+China,1968,8.2
+China,1969,8
+China,1970,7.6
+China,1971,7.3
+China,1972,7.6
+China,1973,7
+China,1974,7.3
+China,1975,9.3
+China,1976,7.2
+China,1977,6.9
+China,1978,6.2
+China,1979,6.2
+China,1980,6.3
+China,1981,6.4
+China,1982,6.6
+China,1983,7.1
+China,1984,6.7
+China,1985,6.6
+China,1986,6.7
+China,1987,6.6
+China,1988,6.5
+China,1989,6.5
+China,1990,6.7
+China,1991,6.7
+China,1992,6.6
+China,1993,6.6
+China,1994,5
+China,1995,5.1
+China,1996,5.1
+China,1997,4.9
+China,1998,4.8
+China,1999,6.5
+China,2000,6.4
+China,2001,6.4
+China,2002,6.4
+China,2003,6.4
+China,2004,6.419381594
+China,2005,6.512134507
+China,2006,6.785953381
+China,2007,6.909913796
+China,2008,7.040556618
+China,2009,7.065046376
+Colombia,1915,18.6
+Colombia,1922,15
+Colombia,1923,13.6
+Colombia,1924,12.9
+Colombia,1925,13
+Colombia,1926,14.4
+Colombia,1927,14.5
+Colombia,1928,13.7
+Colombia,1929,13.1
+Colombia,1930,13.3
+Colombia,1931,12.1
+Colombia,1932,9.8
+Colombia,1933,15.5
+Colombia,1934,15.6
+Colombia,1935,15.3
+Colombia,1936,15.5
+Colombia,1937,15.4
+Colombia,1938,17.3
+Colombia,1939,17.6
+Colombia,1940,15.2
+Colombia,1941,15.5
+Colombia,1942,16
+Colombia,1943,17.1
+Colombia,1944,16.4
+Colombia,1945,15.7
+Colombia,1946,15.5
+Colombia,1947,14.4
+Colombia,1948,14.2
+Colombia,1949,14
+Colombia,1950,14.2
+Colombia,1951,14.2
+Colombia,1952,12.8
+Colombia,1953,13.2
+Colombia,1954,11.8
+Colombia,1955,12.3
+Colombia,1956,12.7
+Colombia,1957,12.4
+Colombia,1958,12
+Colombia,1959,11.8
+Colombia,1960,11.9
+Colombia,1961,11
+Colombia,1962,10.8
+Colombia,1963,10.4
+Colombia,1964,10
+Colombia,1965,9.9
+Colombia,1966,9.5
+Colombia,1967,9.5
+Colombia,1968,8.7
+Colombia,1969,7.7
+Colombia,1970,6.6
+Colombia,1971,6.9
+Colombia,1972,7.5
+Colombia,1973,9.1
+Colombia,1974,9
+Colombia,1975,9
+Colombia,1976,9
+Colombia,1993,5.9
+Colombia,1995,5.8
+Colombia,1996,      
+Colombia,1997,      
+Colombia,1998,      
+Colombia,1999,      
+Costa Rica,1900,23
+Costa Rica,1901,26.3
+Costa Rica,1902,25.3
+Costa Rica,1903,22.8
+Costa Rica,1904,22.6
+Costa Rica,1905,27.7
+Costa Rica,1906,24.6
+Costa Rica,1907,25.2
+Costa Rica,1908,25.2
+Costa Rica,1909,24.8
+Costa Rica,1910,25.6
+Costa Rica,1911,24.4
+Costa Rica,1912,23.4
+Costa Rica,1913,22.8
+Costa Rica,1914,22.5
+Costa Rica,1915,21.9
+Costa Rica,1916,23
+Costa Rica,1917,22.5
+Costa Rica,1918,30.5
+Costa Rica,1919,27.6
+Costa Rica,1920,28.6
+Costa Rica,1921,21
+Costa Rica,1922,20.9
+Costa Rica,1923,20.1
+Costa Rica,1924,22.3
+Costa Rica,1925,24
+Costa Rica,1926,23.1
+Costa Rica,1927,22.6
+Costa Rica,1928,23.6
+Costa Rica,1929,24.2
+Costa Rica,1930,22.5
+Costa Rica,1931,24.7
+Costa Rica,1932,21.9
+Costa Rica,1933,21.7
+Costa Rica,1934,18.6
+Costa Rica,1935,22.9
+Costa Rica,1936,21
+Costa Rica,1937,19.2
+Costa Rica,1938,17.7
+Costa Rica,1939,19.3
+Costa Rica,1940,18.1
+Costa Rica,1941,18.1
+Costa Rica,1942,21
+Costa Rica,1943,17.7
+Costa Rica,1944,16.7
+Costa Rica,1945,15.5
+Costa Rica,1946,13.9
+Costa Rica,1947,14.9
+Costa Rica,1948,13.2
+Costa Rica,1949,12.7
+Costa Rica,1950,12.2
+Costa Rica,1951,11.7
+Costa Rica,1952,11.6
+Costa Rica,1953,11.9
+Costa Rica,1954,10.8
+Costa Rica,1955,6.8
+Costa Rica,1956,9.8
+Costa Rica,1957,10.4
+Costa Rica,1958,9.2
+Costa Rica,1959,9.3
+Costa Rica,1960,8.8
+Costa Rica,1961,8.2
+Costa Rica,1962,8.9
+Costa Rica,1963,9
+Costa Rica,1964,9.4
+Costa Rica,1965,8.6
+Costa Rica,1966,7.4
+Costa Rica,1967,7.1
+Costa Rica,1968,6.5
+Costa Rica,1969,6.9
+Costa Rica,1970,6.6
+Costa Rica,1971,5.9
+Costa Rica,1972,5.9
+Costa Rica,1973,5.2
+Costa Rica,1974,4.9
+Costa Rica,1975,4.9
+Costa Rica,1976,4.7
+Costa Rica,1977,4.3
+Costa Rica,1978,4.1
+Costa Rica,1979,4.2
+Costa Rica,1980,4.1
+Costa Rica,1981,4
+Costa Rica,1982,3.9
+Costa Rica,1983,3.9
+Costa Rica,1984,4.1
+Costa Rica,1985,4.2
+Costa Rica,1986,3.8
+Costa Rica,1987,3.8
+Costa Rica,1988,3.8
+Costa Rica,1989,3.9
+Costa Rica,1990,4.1
+Costa Rica,1991,4.1
+Costa Rica,1992,4.2
+Costa Rica,1994,4.1
+Costa Rica,1995,4.2
+Costa Rica,1996,4.1
+Costa Rica,1997,4.1
+Costa Rica,1998,4.4
+Costa Rica,1999,4.4
+Costa Rica,2000,4.3
+Costa Rica,2001,4
+Costa Rica,2002,3.8
+Costa Rica,2003,3.9
+Costa Rica,2004,3.8
+Costa Rica,2005,3.8
+Costa Rica,2006,3.850850846
+Costa Rica,2007,3.841912178
+Costa Rica,2008,3.975370834
+Costa Rica,2009,4.016896939
+Costa Rica,2010,4.181638798
+Cuba,1931,10.2
+Cuba,1932,10.9
+Cuba,1933,12.4
+Cuba,1934,11.6
+Cuba,1935,12
+Cuba,1936,10.7
+Cuba,1937,10.2
+Cuba,1938,11.1
+Cuba,1939,9.8
+Cuba,1940,9.7
+Cuba,1941,9.3
+Cuba,1942,9.4
+Cuba,1943,10.4
+Cuba,1944,10
+Cuba,1945,10.6
+Cuba,1946,8
+Cuba,1947,7.9
+Cuba,1948,7.6
+Cuba,1949,7.5
+Cuba,1950,7.1
+Cuba,1951,7.3
+Cuba,1952,6.5
+Cuba,1953,6.3
+Cuba,1954,5.9
+Cuba,1955,6.1
+Cuba,1956,5.8
+Cuba,1957,6.3
+Cuba,1958,6.5
+Cuba,1959,6.6
+Cuba,1960,6.3
+Cuba,1961,6.6
+Cuba,1962,7.3
+Cuba,1963,6.9
+Cuba,1964,6.4
+Cuba,1965,6.5
+Cuba,1966,6.5
+Cuba,1967,6.3
+Cuba,1968,6.6
+Cuba,1969,6.7
+Cuba,1970,6.3
+Cuba,1971,6
+Cuba,1972,5.5
+Cuba,1973,5.7
+Cuba,1974,5.6
+Cuba,1975,5.4
+Cuba,1976,5.6
+Cuba,1977,5.9
+Cuba,1978,5.7
+Cuba,1979,5.6
+Cuba,1980,5.7
+Cuba,1981,5.9
+Cuba,1982,5.8
+Cuba,1983,5.9
+Cuba,1984,6
+Cuba,1985,6.4
+Cuba,1986,6.2
+Cuba,1987,6.3
+Cuba,1988,6.5
+Cuba,1989,6.4
+Cuba,1990,6.8
+Cuba,1991,6.7
+Cuba,1992,7
+Cuba,1993,7.2
+Cuba,1994,7.2
+Cuba,1995,7.1
+Cuba,1996,7.2
+Cuba,1997,7
+Cuba,1998,7
+Cuba,1999,7.2
+Cuba,2000,6.9
+Cuba,2001,7.1
+Cuba,2002,6.6
+Cuba,2003,7
+Cuba,2004,7.2
+Cuba,2005,7.5
+Cuba,2006,7.19044955
+Cuba,2007,7.29023068
+Cuba,2008,7.691312305
+Cuba,2009,7.735580744
+Cyprus,1901,18.1
+Cyprus,1902,14.6
+Cyprus,1903,14.6
+Cyprus,1904,14.8
+Cyprus,1905,17.7
+Cyprus,1906,15.8
+Cyprus,1907,17.7
+Cyprus,1908,19.7
+Cyprus,1909,16.9
+Cyprus,1910,15.2
+Cyprus,1911,16.2
+Cyprus,1912,17.7
+Cyprus,1913,18.8
+Cyprus,1914,17.6
+Cyprus,1915,19.8
+Cyprus,1916,17.9
+Cyprus,1917,18.2
+Cyprus,1918,22.9
+Cyprus,1919,17.2
+Cyprus,1920,23.9
+Cyprus,1921,20
+Cyprus,1922,29.6
+Cyprus,1923,18
+Cyprus,1924,17.4
+Cyprus,1925,14.4
+Cyprus,1926,17.1
+Cyprus,1927,15.6
+Cyprus,1928,15.2
+Cyprus,1929,13.5
+Cyprus,1930,16.4
+Cyprus,1931,17
+Cyprus,1932,16.3
+Cyprus,1933,13.8
+Cyprus,1934,13.2
+Cyprus,1935,13.7
+Cyprus,1936,12.7
+Cyprus,1937,17.1
+Cyprus,1938,14.5
+Cyprus,1939,14
+Cyprus,1940,11.7
+Cyprus,1941,12.4
+Cyprus,1942,16.4
+Cyprus,1943,12.4
+Cyprus,1944,10
+Cyprus,1945,9.5
+Cyprus,1946,8.5
+Cyprus,1947,8.5
+Cyprus,1948,8.5
+Cyprus,1949,8.9
+Cyprus,1950,8.2
+Cyprus,1951,8.4
+Cyprus,1952,7.6
+Cyprus,1953,7
+Cyprus,1954,7.2
+Cyprus,1955,5.8
+Cyprus,1956,6.3
+Cyprus,1957,6.3
+Cyprus,1958,6.3
+Cyprus,1959,6.1
+Cyprus,1960,5.7
+Cyprus,1961,10.7
+Cyprus,1962,10.6
+Cyprus,1963,10.4
+Cyprus,1964,10.6
+Cyprus,1965,10.3
+Cyprus,1966,10.1
+Cyprus,1967,10
+Cyprus,1968,9.9
+Cyprus,1969,9.8
+Cyprus,1970,9.8
+Cyprus,1971,9.7
+Cyprus,1972,9.7
+Cyprus,1973,9.5
+Cyprus,1974,10.8
+Cyprus,1975,7.9
+Cyprus,1976,8.6
+Cyprus,1977,9.1
+Cyprus,1978,8.4
+Cyprus,1979,8.4
+Cyprus,1980,9.3
+Cyprus,1981,8.4
+Cyprus,1982,8.5
+Cyprus,1983,8.6
+Cyprus,1984,8
+Cyprus,1985,8.5
+Cyprus,1986,8.4
+Cyprus,1987,8.9
+Cyprus,1988,8.8
+Cyprus,1989,8.6
+Cyprus,1993,7.5
+Cyprus,1999,7.4
+Cyprus,2000,7.7
+Cyprus,2001,6.9
+Cyprus,2002,7.3
+Cyprus,2003,7.2
+Cyprus,2004,7.088590422
+Cyprus,2005,7.156992084
+Cyprus,2006,6.65066805
+Cyprus,2007,6.864892398
+Cyprus,2008,6.549810845
+Cyprus,2009,6.477410936
+Cyprus,2010,6.708211463
+Czechoslovakia,1919,18.3
+Czechoslovakia,1920,19
+Czechoslovakia,1921,17.7
+Czechoslovakia,1922,17.4
+Czechoslovakia,1923,15
+Czechoslovakia,1924,15.3
+Czechoslovakia,1925,15.2
+Czechoslovakia,1926,15.6
+Czechoslovakia,1927,16
+Czechoslovakia,1928,15.1
+Czechoslovakia,1929,15.5
+Czechoslovakia,1930,14.2
+Czechoslovakia,1931,14.4
+Czechoslovakia,1932,14.1
+Czechoslovakia,1933,13.7
+Czechoslovakia,1934,13.2
+Czechoslovakia,1935,13.5
+Czechoslovakia,1936,13.3
+Czechoslovakia,1937,13.3
+Czechoslovakia,1938,12.8
+Czechoslovakia,1939,13.3
+Czechoslovakia,1940,14
+Czechoslovakia,1941,14
+Czechoslovakia,1942,14.3
+Czechoslovakia,1943,14.1
+Czechoslovakia,1944,15
+Czechoslovakia,1945,17.8
+Czechoslovakia,1946,14.1
+Czechoslovakia,1947,12.1
+Czechoslovakia,1948,11.5
+Czechoslovakia,1949,11.9
+Czechoslovakia,1950,11.5
+Czechoslovakia,1951,11.4
+Czechoslovakia,1952,10.6
+Czechoslovakia,1953,10.5
+Czechoslovakia,1954,10.4
+Czechoslovakia,1955,9.6
+Czechoslovakia,1956,9.6
+Czechoslovakia,1957,10.1
+Czechoslovakia,1958,9.3
+Czechoslovakia,1959,9.7
+Czechoslovakia,1960,9.2
+Czechoslovakia,1961,9.2
+Czechoslovakia,1962,10
+Czechoslovakia,1963,9.5
+Czechoslovakia,1964,9.6
+Czechoslovakia,1965,10
+Czechoslovakia,1966,10
+Czechoslovakia,1967,10.1
+Czechoslovakia,1968,10.7
+Czechoslovakia,1969,11.2
+Czechoslovakia,1970,11.6
+Czechoslovakia,1971,11.5
+Czechoslovakia,1972,11.1
+Czechoslovakia,1973,11.6
+Czechoslovakia,1974,11.7
+Czechoslovakia,1975,11.5
+Czechoslovakia,1976,11.4
+Czechoslovakia,1977,11.5
+Czechoslovakia,1978,11.6
+Czechoslovakia,1979,11.5
+Czechoslovakia,1980,12.2
+Czechoslovakia,1981,11.8
+Czechoslovakia,1982,11.8
+Czechoslovakia,1983,12.1
+Czechoslovakia,1984,11.9
+Czechoslovakia,1985,11.9
+Czechoslovakia,1986,12
+Czechoslovakia,1987,11.5
+Czechoslovakia,1988,11.4
+Czechoslovakia,1989,11.6
+Czechoslovakia,1990,11.7
+Czechoslovakia,1991,11.5
+Czechoslovakia,1992,11.7
+Czechoslovakia,1993,11.5
+Czechoslovakia,1994,11.4
+Czechoslovakia,1995,11.4
+Czechoslovakia,1996,10.9
+Czechoslovakia,1997,10.9
+Czechoslovakia,1998,10.6
+Czechoslovakia,1999,10.7
+Czechoslovakia,2000,10.6
+Czechoslovakia,2001,10.5
+Czechoslovakia,2002,10.6
+Czechoslovakia,2003,10.9
+Czechoslovakia,2004,10.5
+Czechoslovakia,2005,10.5
+Czechoslovakia,2006,10.17284515
+Czechoslovakia,2007,10.1365061
+Czechoslovakia,2008,10.06242562
+Czechoslovakia,2009,10.23886784
+Czechoslovakia,2010,10.15647458
+Denmark,1800,28.5
+Denmark,1801,27.7
+Denmark,1802,23.2
+Denmark,1803,22.5
+Denmark,1804,23.7
+Denmark,1805,23.2
+Denmark,1806,22.3
+Denmark,1807,22.9
+Denmark,1808,25.2
+Denmark,1809,25.1
+Denmark,1810,22.7
+Denmark,1811,24.4
+Denmark,1812,27
+Denmark,1813,22.8
+Denmark,1814,24.7
+Denmark,1815,21.6
+Denmark,1816,20.7
+Denmark,1817,19
+Denmark,1818,18.9
+Denmark,1819,19.5
+Denmark,1820,20.9
+Denmark,1821,24
+Denmark,1822,20.3
+Denmark,1823,17.7
+Denmark,1824,18.6
+Denmark,1825,19.2
+Denmark,1826,21.1
+Denmark,1827,20
+Denmark,1828,23.6
+Denmark,1829,28.8
+Denmark,1830,25.3
+Denmark,1831,30.1
+Denmark,1832,26.3
+Denmark,1833,23.3
+Denmark,1834,23.5
+Denmark,1835,22.9
+Denmark,1836,22.3
+Denmark,1837,21.7
+Denmark,1838,20
+Denmark,1839,20.5
+Denmark,1840,21
+Denmark,1841,19.8
+Denmark,1842,20.2
+Denmark,1843,19.3
+Denmark,1844,19.3
+Denmark,1845,19.4
+Denmark,1846,21.5
+Denmark,1847,21.7
+Denmark,1848,21.1
+Denmark,1849,22.4
+Denmark,1850,19.1
+Denmark,1851,18.4
+Denmark,1852,19.6
+Denmark,1853,25
+Denmark,1854,18.4
+Denmark,1855,20
+Denmark,1856,18.7
+Denmark,1857,21.8
+Denmark,1858,23.2
+Denmark,1859,20.3
+Denmark,1860,20.2
+Denmark,1861,18.4
+Denmark,1862,18.3
+Denmark,1863,18.1
+Denmark,1864,23.2
+Denmark,1865,23
+Denmark,1866,20.2
+Denmark,1867,19.8
+Denmark,1868,19.2
+Denmark,1869,19
+Denmark,1870,19
+Denmark,1871,19.4
+Denmark,1872,18.4
+Denmark,1873,18.6
+Denmark,1874,20
+Denmark,1875,21
+Denmark,1876,19.7
+Denmark,1877,18.7
+Denmark,1878,18.4
+Denmark,1879,19.7
+Denmark,1880,20.4
+Denmark,1881,18.3
+Denmark,1882,19.2
+Denmark,1883,18.4
+Denmark,1884,18.3
+Denmark,1885,17.8
+Denmark,1886,18.1
+Denmark,1887,18.2
+Denmark,1888,19.5
+Denmark,1889,18.5
+Denmark,1890,19
+Denmark,1891,20
+Denmark,1892,19.5
+Denmark,1893,19
+Denmark,1894,17.6
+Denmark,1895,16.9
+Denmark,1896,15.7
+Denmark,1897,16.6
+Denmark,1898,15.5
+Denmark,1899,17.3
+Denmark,1900,16.8
+Denmark,1901,15.7
+Denmark,1902,14.6
+Denmark,1903,14.6
+Denmark,1904,14.1
+Denmark,1905,15
+Denmark,1906,13.5
+Denmark,1907,14.1
+Denmark,1908,14.6
+Denmark,1909,13.3
+Denmark,1910,12.9
+Denmark,1911,13.4
+Denmark,1912,13
+Denmark,1913,12.5
+Denmark,1914,12.5
+Denmark,1915,12.8
+Denmark,1916,13.4
+Denmark,1917,13.2
+Denmark,1918,13
+Denmark,1919,13
+Denmark,1920,12.9
+Denmark,1921,11
+Denmark,1922,11.9
+Denmark,1923,11.3
+Denmark,1924,11.2
+Denmark,1925,10.8
+Denmark,1926,11
+Denmark,1927,11.6
+Denmark,1928,11
+Denmark,1929,11.2
+Denmark,1930,10.8
+Denmark,1931,11.4
+Denmark,1932,11
+Denmark,1933,10.6
+Denmark,1934,10.4
+Denmark,1935,11.1
+Denmark,1936,11
+Denmark,1937,10.8
+Denmark,1938,10.3
+Denmark,1939,10.1
+Denmark,1940,10.4
+Denmark,1941,10.3
+Denmark,1942,9.6
+Denmark,1943,9.6
+Denmark,1944,10.2
+Denmark,1945,10.5
+Denmark,1946,10.2
+Denmark,1947,9.7
+Denmark,1948,8.6
+Denmark,1949,8.9
+Denmark,1950,9.2
+Denmark,1951,8.8
+Denmark,1952,9
+Denmark,1953,9
+Denmark,1954,9.1
+Denmark,1955,8.7
+Denmark,1956,8.9
+Denmark,1957,9.3
+Denmark,1958,9.2
+Denmark,1959,9.3
+Denmark,1960,9.5
+Denmark,1961,9.4
+Denmark,1962,9.7
+Denmark,1963,9.8
+Denmark,1964,9.9
+Denmark,1965,10.1
+Denmark,1966,10.3
+Denmark,1967,9.9
+Denmark,1968,9.7
+Denmark,1969,9.8
+Denmark,1970,9.8
+Denmark,1971,9.8
+Denmark,1972,10.1
+Denmark,1973,10.1
+Denmark,1974,10.2
+Denmark,1975,10.1
+Denmark,1976,10.6
+Denmark,1977,9.9
+Denmark,1978,10.4
+Denmark,1979,10.7
+Denmark,1980,10.9
+Denmark,1981,11
+Denmark,1982,10.8
+Denmark,1983,11.2
+Denmark,1984,11.2
+Denmark,1985,11.4
+Denmark,1986,11.3
+Denmark,1987,11.3
+Denmark,1988,11.5
+Denmark,1989,11.6
+Denmark,1990,11.9
+Denmark,1991,11.6
+Denmark,1992,11.8
+Denmark,1993,12.1
+Denmark,1994,12.4
+Denmark,1995,12.1
+Denmark,1996,11.6
+Denmark,1997,11.3
+Denmark,1998,11
+Denmark,1999,11.1
+Denmark,2000,10.9
+Denmark,2001,10.9
+Denmark,2002,10.9
+Denmark,2003,10.7
+Denmark,2004,10.3
+Denmark,2005,10.1
+Denmark,2006,10.20817298
+Denmark,2007,10.18870656
+Denmark,2008,9.945487557
+Denmark,2009,9.941586476
+Denmark,2010,9.804800291
+East Germany,1946,22.9
+East Germany,1947,19
+East Germany,1948,15.2
+East Germany,1949,13.4
+East Germany,1950,11.9
+East Germany,1951,11.4
+East Germany,1952,12.1
+East Germany,1953,11.7
+East Germany,1954,12.2
+East Germany,1955,11.9
+East Germany,1956,12
+East Germany,1957,12.9
+East Germany,1958,12.7
+East Germany,1959,13.3
+East Germany,1960,13.6
+East Germany,1961,13
+East Germany,1962,13.7
+East Germany,1963,12.9
+East Germany,1964,13.3
+East Germany,1965,13.5
+East Germany,1966,13.2
+East Germany,1967,13.3
+East Germany,1968,14.2
+East Germany,1969,14.3
+East Germany,1970,14.1
+East Germany,1971,13.8
+East Germany,1972,13.8
+East Germany,1973,13.7
+East Germany,1974,13.5
+East Germany,1975,14.3
+East Germany,1976,13.9
+East Germany,1977,13.5
+East Germany,1978,13.1
+East Germany,1979,13.9
+East Germany,1980,14.2
+East Germany,1981,13.9
+East Germany,1982,13.7
+East Germany,1983,13.3
+East Germany,1984,13.3
+East Germany,1985,13.5
+East Germany,1986,13.4
+East Germany,1987,12.9
+East Germany,1988,12.8
+East Germany,1989,12.4
+Egypt,1917,29.4
+Egypt,1918,39.6
+Egypt,1919,29.4
+Egypt,1920,28
+Egypt,1921,25
+Egypt,1922,25.1
+Egypt,1923,25.8
+Egypt,1924,24.9
+Egypt,1925,26
+Egypt,1926,26.9
+Egypt,1927,25.2
+Egypt,1928,26.4
+Egypt,1929,27.7
+Egypt,1930,24.5
+Egypt,1931,23.6
+Egypt,1932,22.8
+Egypt,1933,21.4
+Egypt,1934,22.6
+Egypt,1935,22.1
+Egypt,1936,23.4
+Egypt,1937,22.5
+Egypt,1938,24.1
+Egypt,1939,22.4
+Egypt,1940,26.9
+Egypt,1941,25.4
+Egypt,1942,23.8
+Egypt,1943,23.1
+Egypt,1944,24.5
+Egypt,1945,25.3
+Egypt,1946,25.7
+Egypt,1947,30
+Egypt,1948,28.2
+Egypt,1949,27.8
+Egypt,1950,27.2
+Egypt,1951,28.5
+Egypt,1952,28.2
+Egypt,1953,27.8
+Egypt,1954,26.7
+Egypt,1955,25.8
+Egypt,1956,25.3
+Egypt,1957,26.9
+Egypt,1958,27.1
+Egypt,1959,27.3
+Egypt,1960,27
+Egypt,1961,23.8
+Egypt,1962,22.8
+Egypt,1963,20.3
+Egypt,1964,19.2
+Egypt,1965,18.4
+Egypt,1966,17.8
+Egypt,1967,18.7
+Egypt,1968,18
+Egypt,1969,17.8
+Egypt,1970,18.3
+Egypt,1971,13.1
+Egypt,1972,14.3
+Egypt,1973,12.9
+Egypt,1974,12.6
+Egypt,1975,12.1
+Egypt,1976,11.6
+Egypt,1977,11.8
+Egypt,1978,10.5
+Egypt,1979,10.9
+Egypt,1980,10
+Egypt,1981,9.9
+Egypt,1982,9.9
+Egypt,1983,9
+Egypt,1984,8.5
+Egypt,1985,9.1
+Egypt,1986,9.6
+Egypt,1987,9.5
+Egypt,1988,8.5
+Egypt,1989,8
+Egypt,1990,7.5
+Egypt,1991,7.2
+Egypt,1992,7.7
+Egypt,1993,7.2
+Egypt,1994,6.9
+Egypt,1995,6.7
+Egypt,1996,6.5
+Egypt,1997,6.5
+Egypt,1998,6.5
+Egypt,1999,6.4
+Egypt,2000,6.3
+Egypt,2001,6.2
+Egypt,2002,6.4
+Egypt,2003,6.5
+Egypt,2004,6.4
+Egypt,2005,6.4
+Egypt,2006,6.275099328
+Egypt,2007,6.118604733
+Egypt,2008,6.140369767
+Egypt,2009,6.195529916
+El Salvador,1920,20.9
+El Salvador,1925,20.4
+El Salvador,1926,22.7
+El Salvador,1927,17.9
+El Salvador,1928,19.3
+El Salvador,1929,14.2
+El Salvador,1930,21.8
+El Salvador,1931,22.7
+El Salvador,1932,22.1
+El Salvador,1933,23.8
+El Salvador,1934,25.5
+El Salvador,1935,25.2
+El Salvador,1936,21.4
+El Salvador,1937,20.7
+El Salvador,1938,19
+El Salvador,1939,19.5
+El Salvador,1940,19
+El Salvador,1941,18.3
+El Salvador,1942,22.7
+El Salvador,1943,22.5
+El Salvador,1944,19.6
+El Salvador,1945,18.1
+El Salvador,1946,17.5
+El Salvador,1947,17.1
+El Salvador,1948,16.7
+El Salvador,1949,15.3
+El Salvador,1950,14.7
+El Salvador,1951,15.2
+El Salvador,1952,16.5
+El Salvador,1953,15
+El Salvador,1954,15.3
+El Salvador,1955,14.6
+El Salvador,1956,12.8
+El Salvador,1957,14.6
+El Salvador,1958,14.1
+El Salvador,1959,12.6
+El Salvador,1960,11.4
+El Salvador,1961,11.3
+El Salvador,1962,11.5
+El Salvador,1963,10.9
+El Salvador,1964,10.4
+El Salvador,1965,10.6
+El Salvador,1966,10
+El Salvador,1967,9.2
+El Salvador,1968,9.1
+El Salvador,1969,9.9
+El Salvador,1970,9.9
+El Salvador,1971,7.9
+El Salvador,1972,8.8
+El Salvador,1973,8.4
+El Salvador,1974,7.8
+El Salvador,1975,7.9
+El Salvador,1976,7.5
+El Salvador,1977,7.8
+El Salvador,1978,6.9
+El Salvador,1979,7.4
+El Salvador,1980,8.6
+El Salvador,1981,8.2
+El Salvador,1982,7.1
+El Salvador,1983,6.9
+El Salvador,1984,6
+El Salvador,1993,7.1
+El Salvador,1994,      
+El Salvador,1995,6.1
+El Salvador,1996,5
+El Salvador,1997,4.9
+El Salvador,1998,5
+El Salvador,1999,4.6
+El Salvador,2000,4.5
+El Salvador,2001,4.6
+El Salvador,2002,4.2
+El Salvador,2003,4.4
+El Salvador,2004,4.4
+El Salvador,2005,5.1
+El Salvador,2006,5.178421165
+El Salvador,2007,5.140263997
+El Salvador,2008,5.15845253
+England and Wales,1850,20.8
+England and Wales,1851,22
+England and Wales,1852,22.4
+England and Wales,1853,22.9
+England and Wales,1854,23.5
+England and Wales,1855,22.6
+England and Wales,1856,20.5
+England and Wales,1857,21.8
+England and Wales,1858,23.1
+England and Wales,1859,22.4
+England and Wales,1860,21.2
+England and Wales,1861,21.6
+England and Wales,1862,21.4
+England and Wales,1863,23
+England and Wales,1864,23.7
+England and Wales,1865,23.2
+England and Wales,1866,23.4
+England and Wales,1867,21.7
+England and Wales,1868,21.8
+England and Wales,1869,22.3
+England and Wales,1870,22.9
+England and Wales,1871,22.6
+England and Wales,1872,21.3
+England and Wales,1873,21
+England and Wales,1874,22.2
+England and Wales,1875,22.7
+England and Wales,1876,20.9
+England and Wales,1877,20.3
+England and Wales,1878,21.6
+England and Wales,1879,20.7
+England and Wales,1880,20.5
+England and Wales,1881,18.9
+England and Wales,1882,19.6
+England and Wales,1883,19.6
+England and Wales,1884,19.7
+England and Wales,1885,19.2
+England and Wales,1886,19.5
+England and Wales,1887,19.1
+England and Wales,1888,18.1
+England and Wales,1889,18.2
+England and Wales,1890,19.5
+England and Wales,1891,20.2
+England and Wales,1892,19
+England and Wales,1893,19.2
+England and Wales,1894,16.6
+England and Wales,1895,18.7
+England and Wales,1896,17.1
+England and Wales,1897,17.4
+England and Wales,1898,17.5
+England and Wales,1899,18.2
+England and Wales,1900,18.2
+England and Wales,1901,16.9
+England and Wales,1902,16.3
+England and Wales,1903,15.5
+England and Wales,1904,16.3
+England and Wales,1905,15.3
+England and Wales,1906,15.5
+England and Wales,1907,15.1
+England and Wales,1908,14.8
+England and Wales,1909,14.6
+England and Wales,1910,13.5
+England and Wales,1911,14.6
+England and Wales,1912,13.3
+England and Wales,1913,13.8
+England and Wales,1914,14
+England and Wales,1915,15.7
+England and Wales,1916,14.3
+England and Wales,1917,14.2
+England and Wales,1918,17.3
+England and Wales,1919,14
+England and Wales,1920,12.4
+England and Wales,1921,12.1
+England and Wales,1922,12.7
+England and Wales,1923,11.6
+England and Wales,1924,12.2
+England and Wales,1925,12.1
+England and Wales,1926,11.6
+England and Wales,1927,12.3
+England and Wales,1928,11.7
+England and Wales,1929,13.4
+England and Wales,1930,11.4
+England and Wales,1931,12.3
+England and Wales,1932,12
+England and Wales,1933,12.3
+England and Wales,1934,11.8
+England and Wales,1935,11.7
+England and Wales,1936,12.1
+England and Wales,1937,12.4
+England and Wales,1938,11.6
+England and Wales,1939,12.1
+England and Wales,1940,14.4
+England and Wales,1941,13.5
+England and Wales,1942,12.3
+England and Wales,1943,13
+England and Wales,1944,12.7
+England and Wales,1945,12.6
+England and Wales,1946,12
+England and Wales,1947,12.3
+England and Wales,1948,11
+England and Wales,1949,11.8
+England and Wales,1950,11.6
+England and Wales,1951,12.5
+England and Wales,1952,11.3
+England and Wales,1953,11.4
+England and Wales,1954,11.3
+England and Wales,1955,11.7
+England and Wales,1956,11.7
+England and Wales,1957,11.5
+England and Wales,1958,11.7
+England and Wales,1959,11.6
+England and Wales,1960,11.5
+England and Wales,1961,11.9
+England and Wales,1962,11.9
+England and Wales,1963,12.2
+England and Wales,1964,11.3
+England and Wales,1965,11.6
+England and Wales,1966,11.8
+England and Wales,1967,11.4
+England and Wales,1968,11.8
+England and Wales,1969,12
+England and Wales,1970,11.8
+England and Wales,1971,11.5
+England and Wales,1972,12
+England and Wales,1973,11.9
+England and Wales,1974,11.8
+England and Wales,1975,11.7
+England and Wales,1976,12.1
+England and Wales,1977,11.6
+England and Wales,1978,11.9
+England and Wales,1979,12
+England and Wales,1980,11.7
+England and Wales,1981,11.6
+England and Wales,1982,11.7
+England and Wales,1983,11.7
+England and Wales,1984,11.4
+England and Wales,1985,11.8
+England and Wales,1986,11.6
+England and Wales,1987,11.3
+England and Wales,1988,11.3
+England and Wales,1989,11.4
+England and Wales,1990,11.1
+England and Wales,1991,11.1
+England and Wales,1992,10.8
+England and Wales,1993,11.2
+England and Wales,1994,11.4
+England and Wales,1995,10.9
+England and Wales,1996,10.9
+England and Wales,1997,10.7
+England and Wales,1998,10.6
+England and Wales,1999,10.8
+England and Wales,2000,10.3
+England and Wales,2001,10.1
+England and Wales,2002,10.2
+England and Wales,2003,10.3
+Fiji,1922,15.5
+Fiji,1923,15.3
+Fiji,1924,15.3
+Fiji,1925,16.8
+Fiji,1926,16.4
+Fiji,1927,17.2
+Fiji,1928,18.7
+Fiji,1929,17.6
+Fiji,1930,22.3
+Fiji,1931,16.5
+Fiji,1932,13.6
+Fiji,1933,14.9
+Fiji,1934,15.6
+Fiji,1935,15.5
+Fiji,1936,20.1
+Fiji,1937,15.9
+Fiji,1938,16.3
+Fiji,1939,17.1
+Fiji,1940,12.1
+Fiji,1941,12.1
+Fiji,1942,11.4
+Fiji,1943,11.7
+Fiji,1944,13
+Fiji,1945,11.3
+Fiji,1946,13.1
+Fiji,1947,11
+Fiji,1948,12.1
+Fiji,1949,12.4
+Fiji,1950,11
+Fiji,1951,10.4
+Fiji,1952,11.5
+Fiji,1953,9.1
+Fiji,1954,9.3
+Fiji,1955,8.1
+Fiji,1956,7.5
+Fiji,1957,7.3
+Fiji,1958,6.9
+Fiji,1959,7.4
+Fiji,1960,6.6
+Fiji,1961,6.4
+Fiji,1962,6.3
+Fiji,1963,5.8
+Fiji,1964,6.1
+Fiji,1965,5.1
+Fiji,1966,5.2
+Fiji,1967,5.1
+Fiji,1968,5.2
+Fiji,1969,4.8
+Fiji,1970,4.7
+Fiji,1971,5.9
+Fiji,1972,5
+Fiji,1973,5
+Fiji,1974,4.9
+Fiji,1975,6.9
+Fiji,1976,4.3
+Fiji,1977,3.8
+Fiji,1978,4.2
+Fiji,1979,3.8
+Fiji,1980,6.4
+Fiji,1981,6.6
+Fiji,1982,5.8
+Fiji,1983,5.4
+Fiji,1984,4.6
+Fiji,1985,5.3
+Fiji,1986,5.5
+Fiji,1987,4.4
+Fiji,1988,5.2
+Fiji,1990,4.9
+Fiji,1991,5.6
+Fiji,1994,5.4
+Fiji,1995,6.3
+Fiji,1996,5.9
+Fiji,1997,4.6
+Fiji,1998,6.6
+Fiji,1999,7
+Fiji,2000,5.1
+Fiji,2001,6
+Fiji,2002,5.2
+Fiji,2003,5.4
+Fiji,2004,4.767926846
+Finland,1751,24.6
+Finland,1752,26.3
+Finland,1753,26.1
+Finland,1754,35.1
+Finland,1755,30.7
+Finland,1756,36.3
+Finland,1757,36.2
+Finland,1758,29.5
+Finland,1759,28.1
+Finland,1760,27.9
+Finland,1761,28.3
+Finland,1762,29.6
+Finland,1763,41
+Finland,1764,33.1
+Finland,1765,29.7
+Finland,1766,28.6
+Finland,1767,29.1
+Finland,1768,25.8
+Finland,1769,28.3
+Finland,1770,30.2
+Finland,1771,26.1
+Finland,1772,23.9
+Finland,1773,21.5
+Finland,1774,21.5
+Finland,1775,25.6
+Finland,1776,30.5
+Finland,1777,32
+Finland,1778,25
+Finland,1779,21.9
+Finland,1780,21.1
+Finland,1781,26.5
+Finland,1782,25.1
+Finland,1783,31.2
+Finland,1784,25.3
+Finland,1785,30.3
+Finland,1786,26.3
+Finland,1787,23.7
+Finland,1788,33.3
+Finland,1789,37.7
+Finland,1790,38.1
+Finland,1791,40.9
+Finland,1792,25
+Finland,1793,25.6
+Finland,1794,32
+Finland,1795,23.6
+Finland,1796,23.4
+Finland,1797,20.2
+Finland,1798,22
+Finland,1799,27.6
+Finland,1800,25.5
+Finland,1801,21.8
+Finland,1802,22.3
+Finland,1803,33.1
+Finland,1804,25
+Finland,1805,21.2
+Finland,1806,21.9
+Finland,1807,29.2
+Finland,1808,60.5
+Finland,1809,59.2
+Finland,1810,24.6
+Finland,1811,30.8
+Finland,1812,24.1
+Finland,1813,27.3
+Finland,1814,32.4
+Finland,1815,26
+Finland,1816,23.4
+Finland,1817,24
+Finland,1818,24.8
+Finland,1819,27.2
+Finland,1820,25.3
+Finland,1821,22.9
+Finland,1822,27.8
+Finland,1823,24.2
+Finland,1824,27.3
+Finland,1825,26.1
+Finland,1826,26.2
+Finland,1827,21.5
+Finland,1828,22.6
+Finland,1829,26.3
+Finland,1830,25.4
+Finland,1831,28.5
+Finland,1832,33.8
+Finland,1833,46.4
+Finland,1834,23.9
+Finland,1835,24.7
+Finland,1836,31.9
+Finland,1837,28.4
+Finland,1838,22.5
+Finland,1839,20.6
+Finland,1840,22.1
+Finland,1841,22.4
+Finland,1842,21.9
+Finland,1843,22.2
+Finland,1844,21.8
+Finland,1845,22.9
+Finland,1846,25.1
+Finland,1847,23.3
+Finland,1848,23.8
+Finland,1849,24.5
+Finland,1850,26.3
+Finland,1851,23.7
+Finland,1852,30
+Finland,1853,29.3
+Finland,1854,25.9
+Finland,1855,32
+Finland,1856,34
+Finland,1857,32.5
+Finland,1858,29.7
+Finland,1859,25
+Finland,1860,24.8
+Finland,1861,23.8
+Finland,1862,28.1
+Finland,1863,29.6
+Finland,1864,22.6
+Finland,1865,24.9
+Finland,1866,33.6
+Finland,1867,38.1
+Finland,1868,77.6
+Finland,1869,25.2
+Finland,1870,18.2
+Finland,1871,17.9
+Finland,1872,19.7
+Finland,1873,23.6
+Finland,1874,24.1
+Finland,1875,22.9
+Finland,1876,21.9
+Finland,1877,24.2
+Finland,1878,24.1
+Finland,1879,19.6
+Finland,1880,23.9
+Finland,1881,25
+Finland,1882,22.3
+Finland,1883,20.8
+Finland,1884,20.9
+Finland,1885,22
+Finland,1886,22.2
+Finland,1887,19
+Finland,1888,19.8
+Finland,1889,19.6
+Finland,1890,19.6
+Finland,1891,21.2
+Finland,1892,23.8
+Finland,1893,21
+Finland,1894,19.4
+Finland,1895,17.9
+Finland,1896,18.7
+Finland,1897,17.7
+Finland,1898,17.7
+Finland,1899,20.2
+Finland,1900,21.9
+Finland,1901,21.1
+Finland,1902,19
+Finland,1903,18.5
+Finland,1904,18.4
+Finland,1905,19.1
+Finland,1906,18.2
+Finland,1907,18.8
+Finland,1908,19.3
+Finland,1909,17.4
+Finland,1910,17.4
+Finland,1911,17.4
+Finland,1912,17.2
+Finland,1913,17.1
+Finland,1914,16.6
+Finland,1915,16.9
+Finland,1916,17.6
+Finland,1917,18.8
+Finland,1918,30.4
+Finland,1919,20.2
+Finland,1920,17
+Finland,1921,14.9
+Finland,1922,15.3
+Finland,1923,14.7
+Finland,1924,16.3
+Finland,1925,14.4
+Finland,1926,14.2
+Finland,1927,15.4
+Finland,1928,14.3
+Finland,1929,15.9
+Finland,1930,14
+Finland,1931,14.1
+Finland,1932,13.3
+Finland,1933,13.6
+Finland,1934,13.1
+Finland,1935,12.7
+Finland,1936,13.6
+Finland,1937,12.8
+Finland,1938,12.8
+Finland,1939,14.3
+Finland,1940,19.4
+Finland,1941,19.8
+Finland,1942,15.1
+Finland,1943,13.3
+Finland,1944,18.9
+Finland,1945,13.1
+Finland,1946,11.8
+Finland,1947,11.9
+Finland,1948,11.2
+Finland,1949,11.2
+Finland,1950,10.2
+Finland,1951,10
+Finland,1952,9.5
+Finland,1953,9.6
+Finland,1954,9.1
+Finland,1955,9.3
+Finland,1956,9
+Finland,1957,9.4
+Finland,1958,8.9
+Finland,1959,8.8
+Finland,1960,9
+Finland,1961,9.1
+Finland,1962,9.6
+Finland,1963,9.3
+Finland,1964,9.4
+Finland,1965,9.7
+Finland,1966,9.5
+Finland,1967,9.5
+Finland,1968,9.7
+Finland,1969,9.9
+Finland,1970,9.6
+Finland,1971,9.9
+Finland,1972,9.5
+Finland,1973,9.3
+Finland,1974,9.5
+Finland,1975,9.3
+Finland,1976,9.5
+Finland,1977,9.3
+Finland,1978,9.2
+Finland,1979,9.2
+Finland,1980,9.3
+Finland,1981,9.2
+Finland,1982,9
+Finland,1983,9.3
+Finland,1984,9.2
+Finland,1985,9.8
+Finland,1986,9.6
+Finland,1987,9.7
+Finland,1988,9.9
+Finland,1989,9.9
+Finland,1990,10
+Finland,1991,9.8
+Finland,1992,9.8
+Finland,1993,10.1
+Finland,1994,10.2
+Finland,1995,9.6
+Finland,1996,9.6
+Finland,1997,9.6
+Finland,1998,9.6
+Finland,1999,9.6
+Finland,2000,9.5
+Finland,2001,9.4
+Finland,2002,9.5
+Finland,2003,9.4
+Finland,2004,9.1
+Finland,2005,9.1
+Finland,2006,9.126957565
+Finland,2007,9.279561905
+Finland,2008,9.239659962
+Finland,2009,9.345401119
+Finland,2010,9.493801965
+France,1801,27.7
+France,1802,27.7
+France,1803,31.2
+France,1804,31
+France,1805,28.8
+France,1806,26.8
+France,1807,27.6
+France,1808,26.5
+France,1809,25
+France,1810,24.9
+France,1811,26.1
+France,1812,26.2
+France,1813,26.4
+France,1814,29.8
+France,1815,26
+France,1816,24.5
+France,1817,25.3
+France,1818,25.3
+France,1819,26.1
+France,1820,25.4
+France,1821,24.3
+France,1822,25.3
+France,1823,24
+France,1824,24.5
+France,1825,25.9
+France,1826,26.5
+France,1827,24.9
+France,1828,26.2
+France,1829,25
+France,1830,25
+France,1831,24.6
+France,1832,28.5
+France,1833,24.7
+France,1834,27.8
+France,1835,24.5
+France,1836,22.3
+France,1837,25.3
+France,1838,24.2
+France,1839,22.7
+France,1840,23.7
+France,1841,23.2
+France,1842,24
+France,1843,23.1
+France,1844,22
+France,1845,21.1
+France,1846,23.2
+France,1847,23.9
+France,1848,23.6
+France,1849,27.4
+France,1850,21.4
+France,1851,22.3
+France,1852,22.6
+France,1853,22
+France,1854,27.4
+France,1855,26
+France,1856,23.1
+France,1857,23.7
+France,1858,24.1
+France,1859,26.8
+France,1860,21.4
+France,1861,23.2
+France,1862,21.7
+France,1863,22.5
+France,1864,22.7
+France,1865,24.7
+France,1866,23.2
+France,1867,22.7
+France,1868,24.1
+France,1869,23.6
+France,1870,28.4
+France,1871,35.1
+France,1872,22
+France,1873,23.3
+France,1874,21.4
+France,1875,23
+France,1876,22.6
+France,1877,21.6
+France,1878,22.5
+France,1879,22.5
+France,1880,22.9
+France,1881,22
+France,1882,22.2
+France,1883,22.2
+France,1884,22.6
+France,1885,22
+France,1886,22.5
+France,1887,22
+France,1888,21.9
+France,1889,20.7
+France,1890,22.8
+France,1891,22.9
+France,1892,22.8
+France,1893,22.5
+France,1894,21.2
+France,1895,22.2
+France,1896,20
+France,1897,19.4
+France,1898,20.9
+France,1899,21
+France,1900,21.9
+France,1901,20.1
+France,1902,19.5
+France,1903,19.3
+France,1904,19.4
+France,1905,19.6
+France,1906,19.9
+France,1907,20.2
+France,1908,18.9
+France,1909,19.1
+France,1910,17.8
+France,1911,19.6
+France,1912,17.5
+France,1913,17.7
+France,1914,18.5
+France,1915,18.33
+France,1916,17.33
+France,1917,18.03
+France,1918,22.33
+France,1919,19
+France,1920,17.2
+France,1921,17.7
+France,1922,17.5
+France,1923,16.7
+France,1924,16.9
+France,1925,17.4
+France,1926,17.4
+France,1927,16.5
+France,1928,16.4
+France,1929,17.9
+France,1930,15.6
+France,1931,16.2
+France,1932,15.8
+France,1933,15.8
+France,1934,15.1
+France,1935,15.7
+France,1936,15.3
+France,1937,15
+France,1938,15.4
+France,1939,15.33
+France,1940,18.03
+France,1941,17.03
+France,1942,16.63
+France,1943,16.03
+France,1944,17.13
+France,1945,16.13
+France,1946,13.5
+France,1947,13.1
+France,1948,12.4
+France,1949,13.7
+France,1950,12.7
+France,1951,13.3
+France,1952,12.3
+France,1953,12.9
+France,1954,12
+France,1955,12
+France,1956,12.4
+France,1957,11.9
+France,1958,11.1
+France,1959,11.2
+France,1960,11.3
+France,1961,10.8
+France,1962,11.4
+France,1963,11.6
+France,1964,10.7
+France,1965,11.1
+France,1966,10.7
+France,1967,10.9
+France,1968,11
+France,1969,11.5
+France,1970,10.6
+France,1971,10.7
+France,1972,10.6
+France,1973,10.7
+France,1974,10.5
+France,1975,10.6
+France,1976,10.5
+France,1977,10.1
+France,1978,10.3
+France,1979,10.1
+France,1980,10.2
+France,1981,10.3
+France,1982,10
+France,1983,10.2
+France,1984,9.9
+France,1985,10
+France,1986,10
+France,1987,9.5
+France,1988,9.4
+France,1989,9.4
+France,1990,9.3
+France,1991,9.2
+France,1992,9.1
+France,1993,9.2
+France,1994,9.4
+France,1995,9.1
+France,1996,9.2
+France,1997,9
+France,1998,9.2
+France,1999,9.2
+France,2000,9.1
+France,2001,9
+France,2002,9.2
+France,2003,9.4
+France,2004,8.4
+France,2005,8.6
+France,2006,8.383718777
+France,2007,8.408539438
+France,2008,8.541474638
+France,2009,8.593191396
+France,2010,8.496422292
+Greece,1860,20.4
+Greece,1861,20.9
+Greece,1864,20.6
+Greece,1865,21.4
+Greece,1866,19.7
+Greece,1867,20
+Greece,1868,22.7
+Greece,1869,22.6
+Greece,1870,21.9
+Greece,1871,20
+Greece,1872,20.6
+Greece,1873,24.1
+Greece,1874,19.3
+Greece,1875,19.7
+Greece,1876,19.4
+Greece,1877,19.2
+Greece,1878,18.5
+Greece,1879,18.2
+Greece,1880,17.9
+Greece,1881,18.9
+Greece,1882,18.8
+Greece,1883,20.1
+Greece,1884,17.7
+Greece,1885,19.9
+Greece,1889,24.5
+Greece,1890,23.2
+Greece,1921,13.6
+Greece,1922,16
+Greece,1923,17
+Greece,1924,15.6
+Greece,1925,14.9
+Greece,1926,13.9
+Greece,1927,16.3
+Greece,1928,17
+Greece,1929,18.4
+Greece,1930,16.3
+Greece,1931,17.7
+Greece,1932,18
+Greece,1933,16.8
+Greece,1934,15
+Greece,1935,14.8
+Greece,1936,15.1
+Greece,1937,15
+Greece,1938,13.2
+Greece,1939,13.9
+Greece,1940,12.8
+Greece,1941,17.1
+Greece,1942,26
+Greece,1943,15.3
+Greece,1944,15.2
+Greece,1945,11.7
+Greece,1946,9.9
+Greece,1947,9.3
+Greece,1948,12.4
+Greece,1949,7.9
+Greece,1950,7.1
+Greece,1951,7.5
+Greece,1952,6.9
+Greece,1953,7.3
+Greece,1954,7
+Greece,1955,6.9
+Greece,1956,7.4
+Greece,1957,7.6
+Greece,1958,7.1
+Greece,1959,7.4
+Greece,1960,7.3
+Greece,1961,7.6
+Greece,1962,7.9
+Greece,1963,7.9
+Greece,1964,8.2
+Greece,1965,7.9
+Greece,1966,7.9
+Greece,1967,8.3
+Greece,1968,8.4
+Greece,1969,8.2
+Greece,1970,8.4
+Greece,1971,8.4
+Greece,1972,8.6
+Greece,1973,8.7
+Greece,1974,8.5
+Greece,1975,8.9
+Greece,1976,8.9
+Greece,1977,9
+Greece,1978,8.7
+Greece,1979,8.7
+Greece,1980,9.1
+Greece,1981,8.9
+Greece,1982,8.8
+Greece,1983,9.2
+Greece,1984,8.9
+Greece,1985,9.3
+Greece,1986,9.2
+Greece,1987,9.5
+Greece,1988,9.3
+Greece,1989,9.2
+Greece,1990,9.3
+Greece,1991,9.3
+Greece,1992,9.5
+Greece,1993,9.4
+Greece,1994,9.5
+Greece,1995,9.6
+Greece,1996,9.6
+Greece,1997,9.5
+Greece,1998,9.8
+Greece,1999,9.8
+Greece,2000,10.5
+Greece,2001,10.2
+Greece,2002,9.5
+Greece,2003,9.6
+Greece,2004,9.5
+Greece,2005,9.5
+Greece,2006,9.460975718
+Greece,2007,9.818322395
+Greece,2008,9.609179192
+Greece,2009,9.600140959
+Guadeloupe,1946,16.9
+Guadeloupe,1947,17.4
+Guadeloupe,1948,16.9
+Guadeloupe,1949,14.3
+Guadeloupe,1950,14.1
+Guadeloupe,1951,13.7
+Guadeloupe,1952,14.7
+Guadeloupe,1953,12.8
+Guadeloupe,1954,11.6
+Guadeloupe,1955,11.7
+Guadeloupe,1956,10.1
+Guadeloupe,1957,11.4
+Guadeloupe,1958,9.6
+Guadeloupe,1959,8.9
+Guadeloupe,1960,9.7
+Guadeloupe,1961,8.4
+Guadeloupe,1962,8.1
+Guadeloupe,1963,8.1
+Guadeloupe,1964,7.6
+Guadeloupe,1965,8.1
+Guadeloupe,1966,7.8
+Guadeloupe,1967,8.1
+Guadeloupe,1968,8.1
+Guadeloupe,1969,7.6
+Guadeloupe,1970,7.7
+Guadeloupe,1971,7
+Guadeloupe,1972,7.3
+Guadeloupe,1973,7.3
+Guadeloupe,1974,7.5
+Guadeloupe,1975,7.1
+Guadeloupe,1976,7.2
+Guadeloupe,1977,6.9
+Guadeloupe,1978,6.6
+Guadeloupe,1979,6.6
+Guadeloupe,1980,6.5
+Guadeloupe,1981,6.5
+Guadeloupe,1982,6.4
+Guadeloupe,1983,6.7
+Guadeloupe,1984,6.8
+Guadeloupe,1985,6.9
+Guadeloupe,1986,6.7
+Guadeloupe,1987,7.3
+Guadeloupe,1991,5.4
+Guadeloupe,1992,5.6
+Guadeloupe,1994,5.6
+Guadeloupe,1995,5.8
+Guadeloupe,1996,      
+Guadeloupe,1997,      
+Guadeloupe,1998,6.1
+Guadeloupe,1999,6.3
+Guadeloupe,2000,6.3
+Guadeloupe,2001,6.4
+Guadeloupe,2002,5.9
+Guadeloupe,2003,6
+Guadeloupe,2004,6
+Guadeloupe,2005,6.5
+Guadeloupe,2006,6.336244542
+Guadeloupe,2007,6.912407885
+Guatemala,1930,24.7
+Guatemala,1931,24.3
+Guatemala,1932,23.6
+Guatemala,1933,27.3
+Guatemala,1934,30.6
+Guatemala,1935,27.4
+Guatemala,1936,24.7
+Guatemala,1937,24.4
+Guatemala,1938,26.3
+Guatemala,1939,29.6
+Guatemala,1940,25
+Guatemala,1941,25.1
+Guatemala,1942,31.5
+Guatemala,1943,31.1
+Guatemala,1944,26.5
+Guatemala,1945,24.5
+Guatemala,1946,24.7
+Guatemala,1947,24.7
+Guatemala,1948,23.5
+Guatemala,1949,21.8
+Guatemala,1950,21.8
+Guatemala,1951,19.6
+Guatemala,1952,24.2
+Guatemala,1953,23
+Guatemala,1954,18.3
+Guatemala,1955,20.5
+Guatemala,1956,19.7
+Guatemala,1957,20.4
+Guatemala,1958,21.1
+Guatemala,1959,17.1
+Guatemala,1960,17.3
+Guatemala,1961,16.1
+Guatemala,1962,17.1
+Guatemala,1963,17.1
+Guatemala,1964,15.9
+Guatemala,1965,16.9
+Guatemala,1966,16.6
+Guatemala,1967,15.2
+Guatemala,1968,16.4
+Guatemala,1969,17.2
+Guatemala,1970,14.7
+Guatemala,1971,13.9
+Guatemala,1972,12.2
+Guatemala,1973,12.1
+Guatemala,1974,11.5
+Guatemala,1975,12.6
+Guatemala,1976,13.2
+Guatemala,1977,11.3
+Guatemala,1978,10.2
+Guatemala,1979,10.7
+Guatemala,1980,10.3
+Guatemala,1981,10.6
+Guatemala,1982,10.4
+Guatemala,1983,9.9
+Guatemala,1984,8.5
+Guatemala,1985,8.7
+Guatemala,1986,8.5
+Guatemala,1987,7.9
+Guatemala,1988,7.5
+Guatemala,1989,7.2
+Guatemala,1990,7.9
+Guatemala,1991,6.8
+Guatemala,1993,7.7
+Guatemala,1994,      
+Guatemala,1995,6.5
+Guatemala,1996,5.9
+Guatemala,1997,6.4
+Guatemala,1998,6.5
+Guatemala,1999,5.8
+Guatemala,2000,5.9
+Guatemala,2001,5.8
+Guatemala,2002,5.5
+Guatemala,2003,5.5
+Guatemala,2004,5.4
+Guatemala,2005,5.6
+Guatemala,2006,5.358114395
+Guatemala,2007,5.247748744
+Guatemala,2008,5.134811372
+Guyana,1891,37.4
+Guyana,1892,39.8
+Guyana,1893,35.5
+Guyana,1894,33.4
+Guyana,1895,29.5
+Guyana,1896,26.3
+Guyana,1897,27.9
+Guyana,1898,33.9
+Guyana,1899,29.1
+Guyana,1900,25.1
+Guyana,1901,23.6
+Guyana,1902,28.1
+Guyana,1903,28.9
+Guyana,1904,28.8
+Guyana,1905,27.4
+Guyana,1906,28.8
+Guyana,1907,36.9
+Guyana,1908,30.8
+Guyana,1909,30
+Guyana,1910,34.4
+Guyana,1911,31.7
+Guyana,1912,29.2
+Guyana,1913,24.2
+Guyana,1914,27.4
+Guyana,1915,27.7
+Guyana,1916,27.1
+Guyana,1917,30.4
+Guyana,1918,40.6
+Guyana,1919,40.4
+Guyana,1920,26.5
+Guyana,1921,30.9
+Guyana,1922,29.1
+Guyana,1923,28.3
+Guyana,1924,25.6
+Guyana,1925,24.2
+Guyana,1926,25.5
+Guyana,1927,26
+Guyana,1928,27.9
+Guyana,1929,23.5
+Guyana,1930,23.2
+Guyana,1931,22
+Guyana,1932,21.2
+Guyana,1933,24.6
+Guyana,1934,24.8
+Guyana,1935,20.8
+Guyana,1936,20.6
+Guyana,1937,22.1
+Guyana,1938,25.8
+Guyana,1939,19.8
+Guyana,1940,18.6
+Guyana,1941,15.7
+Guyana,1942,17.4
+Guyana,1943,24.8
+Guyana,1944,22
+Guyana,1945,17.9
+Guyana,1946,15.5
+Guyana,1947,14.6
+Guyana,1948,14.5
+Guyana,1949,13.5
+Guyana,1950,14.8
+Guyana,1951,13.5
+Guyana,1952,13.5
+Guyana,1953,13.3
+Guyana,1954,12.4
+Guyana,1955,11.9
+Guyana,1956,11.2
+Guyana,1957,11.6
+Guyana,1958,10.3
+Guyana,1959,10.1
+Guyana,1960,9.5
+Guyana,1961,9
+Guyana,1962,8.1
+Guyana,1963,8.9
+Guyana,1964,8.2
+Guyana,1965,8.2
+Guyana,1966,8.2
+Guyana,1967,7.5
+Guyana,1968,7.8
+Guyana,1969,7.4
+Guyana,1970,6.8
+Guyana,1971,7.2
+Guyana,1972,8.1
+Guyana,1973,7.4
+Guyana,1974,8
+Guyana,1975,7.6
+Guyana,1976,7.9
+Guyana,1977,7.3
+Guyana,1978,7.3
+Guyana,1993,5.5
+Guyana,1994,5.2
+Guyana,1995,7.4
+Guyana,1996,      
+Guyana,1997,6.6
+Guyana,1998,6.4
+Guyana,1999,5.4
+Guyana,2000,      
+Guyana,2001,6.2
+Guyana,2002,6.7
+Guyana,2003,6.6
+Guyana,2004,6.8
+Guyana,2005,6.9
+Guyana,2006,6.613740964
+Guyana,2007,6.637814579
+Hawaii,1851,70.6
+Hawaii,1852,35.3
+Hawaii,1853,105.1
+Hawaii,1854,19.7
+Hawaii,1855,23.1
+Hawaii,1856,21.7
+Hawaii,1857,28
+Hawaii,1858,29.9
+Hawaii,1859,32.3
+Hawaii,1860,33.4
+Hawaii,1861,32.5
+Hawaii,1862,35.6
+Hawaii,1863,39.7
+Hawaii,1866,46.2
+Hawaii,1867,41.8
+Hawaii,1868,54.9
+Hawaii,1869,42.1
+Hawaii,1870,64.6
+Hawaii,1871,60.2
+Hawaii,1872,53.2
+Hawaii,1873,53.4
+Hawaii,1874,50.2
+Hawaii,1875,55.1
+Hawaii,1876,44.5
+Hawaii,1877,33.7
+Hawaii,1879,49.8
+Hawaii,1881,38.6
+Hawaii,1883,25.4
+Hawaii,1885,22.2
+Hawaii,1887,18.6
+Hawaii,1889,21.7
+Hawaii,1900,15.4
+Hawaii,1901,19.5
+Hawaii,1902,16.4
+Hawaii,1903,16.3
+Hawaii,1904,16.6
+Hawaii,1905,16.1
+Hawaii,1906,17.1
+Hawaii,1907,17.5
+Hawaii,1908,15.4
+Hawaii,1909,14.9
+Hawaii,1910,16.5
+Hawaii,1911,15.8
+Hawaii,1912,15.1
+Hawaii,1913,16.2
+Hawaii,1914,16.2
+Hawaii,1915,14.9
+Hawaii,1916,16.3
+Hawaii,1917,15.1
+Hawaii,1918,15.6
+Hawaii,1919,14.9
+Hawaii,1920,17.6
+Hawaii,1921,14.4
+Hawaii,1922,15.3
+Hawaii,1923,15.5
+Hawaii,1924,13
+Hawaii,1925,12.6
+Hawaii,1926,11.7
+Hawaii,1927,12
+Hawaii,1928,11.7
+Hawaii,1929,12.2
+Hawaii,1930,10.5
+Hawaii,1931,9.9
+Hawaii,1932,9.5
+Hawaii,1933,9.5
+Hawaii,1934,9
+Hawaii,1935,8.5
+Hawaii,1936,8.7
+Hawaii,1937,8.8
+Hawaii,1938,7.9
+Hawaii,1939,7.5
+Hawaii,1940,7.2
+Hawaii,1941,11.6
+Hawaii,1942,5.8
+Hawaii,1943,5.1
+Hawaii,1944,4.3
+Hawaii,1945,4.2
+Hawaii,1946,5.9
+Hawaii,1947,6.1
+Hawaii,1948,6
+Hawaii,1949,5.9
+Hawaii,1950,5.9
+Hawaii,1951,5.6
+Hawaii,1952,5.6
+Hawaii,1953,5.7
+Hawaii,1954,5.9
+Hawaii,1955,6
+Hawaii,1956,5.6
+Hawaii,1957,5.9
+Hawaii,1958,5.3
+Hawaii,1959,5.4
+Hawaii,1997,6.5
+Hawaii,1998,6.7
+Hawaii,1999,6.9
+Honduras,1930,16.1
+Honduras,1931,15.4
+Honduras,1932,14.9
+Honduras,1933,14.5
+Honduras,1934,13.8
+Honduras,1935,13.9
+Honduras,1936,16.6
+Honduras,1937,18
+Honduras,1938,16.3
+Honduras,1939,15.9
+Honduras,1940,15.9
+Honduras,1941,16.7
+Honduras,1942,18.5
+Honduras,1943,18.5
+Honduras,1944,16.9
+Honduras,1945,16
+Honduras,1946,14.5
+Honduras,1947,13.7
+Honduras,1948,14
+Honduras,1949,13.3
+Honduras,1950,11.8
+Honduras,1951,11.1
+Honduras,1952,12.5
+Honduras,1953,11.6
+Honduras,1954,11.1
+Honduras,1955,11.3
+Honduras,1956,10.1
+Honduras,1957,10.4
+Honduras,1958,11.1
+Honduras,1959,9.5
+Honduras,1960,9.3
+Honduras,1961,8.9
+Honduras,1962,8.9
+Honduras,1963,9
+Honduras,1964,9.2
+Honduras,1965,8.5
+Honduras,1966,8.6
+Honduras,1967,8
+Honduras,1968,8.1
+Honduras,1969,8.5
+Honduras,1970,7.7
+Honduras,1971,7.5
+Honduras,1972,7.7
+Honduras,1973,7.2
+Honduras,1974,6.5
+Honduras,1975,6.2
+Honduras,1976,5.7
+Honduras,1977,5.6
+Hungary,1861,32.2
+Hungary,1862,32.3
+Hungary,1863,33.9
+Hungary,1864,30.9
+Hungary,1865,30.3
+Hungary,1866,38
+Hungary,1867,32.8
+Hungary,1868,33.1
+Hungary,1869,31.3
+Hungary,1870,33.5
+Hungary,1871,40.1
+Hungary,1872,42.9
+Hungary,1873,62.9
+Hungary,1874,43.3
+Hungary,1875,37.7
+Hungary,1876,36
+Hungary,1877,36.9
+Hungary,1878,37.7
+Hungary,1879,36.3
+Hungary,1880,37.8
+Hungary,1881,35.1
+Hungary,1882,36.1
+Hungary,1883,32.2
+Hungary,1884,31
+Hungary,1885,32.3
+Hungary,1886,32.3
+Hungary,1887,34.5
+Hungary,1888,32.3
+Hungary,1889,29.9
+Hungary,1890,32.5
+Hungary,1891,33.4
+Hungary,1892,34.7
+Hungary,1893,31.1
+Hungary,1894,30.4
+Hungary,1895,29.7
+Hungary,1896,28.6
+Hungary,1897,28.1
+Hungary,1898,28
+Hungary,1899,27.3
+Hungary,1900,27
+Hungary,1901,25
+Hungary,1902,26.9
+Hungary,1903,26.1
+Hungary,1904,24.8
+Hungary,1905,27.8
+Hungary,1906,24.9
+Hungary,1907,25.6
+Hungary,1908,25
+Hungary,1909,25.4
+Hungary,1910,23.4
+Hungary,1911,24.8
+Hungary,1912,23
+Hungary,1913,23.2
+Hungary,1914,23.4
+Hungary,1915,25.3
+Hungary,1916,20.9
+Hungary,1917,20.7
+Hungary,1918,25.7
+Hungary,1919,20
+Hungary,1920,21.4
+Hungary,1921,21.2
+Hungary,1922,21.4
+Hungary,1923,19.5
+Hungary,1924,20.4
+Hungary,1925,17.1
+Hungary,1926,16.7
+Hungary,1927,17.8
+Hungary,1928,17.2
+Hungary,1929,17.8
+Hungary,1930,15.5
+Hungary,1931,16.6
+Hungary,1932,17.9
+Hungary,1933,14.7
+Hungary,1934,14.5
+Hungary,1935,15.3
+Hungary,1936,14.3
+Hungary,1937,14.2
+Hungary,1938,14.3
+Hungary,1939,13.5
+Hungary,1940,14.3
+Hungary,1941,13.2
+Hungary,1942,14.6
+Hungary,1943,13.5
+Hungary,1945,23.4
+Hungary,1946,15
+Hungary,1947,12.9
+Hungary,1948,11.6
+Hungary,1949,11.4
+Hungary,1950,11.5
+Hungary,1951,11.7
+Hungary,1952,11.3
+Hungary,1953,11.7
+Hungary,1954,11
+Hungary,1955,10
+Hungary,1956,10.5
+Hungary,1957,10.5
+Hungary,1958,9.9
+Hungary,1959,10.5
+Hungary,1960,10.2
+Hungary,1961,9.6
+Hungary,1962,10.8
+Hungary,1963,9.9
+Hungary,1964,10
+Hungary,1965,10.7
+Hungary,1966,10
+Hungary,1967,10.7
+Hungary,1968,11.2
+Hungary,1969,11.3
+Hungary,1970,11.6
+Hungary,1971,11.9
+Hungary,1972,11.4
+Hungary,1973,11.8
+Hungary,1974,12
+Hungary,1975,12.4
+Hungary,1976,12.5
+Hungary,1977,12.4
+Hungary,1978,13.1
+Hungary,1979,12.8
+Hungary,1980,13.6
+Hungary,1981,13.5
+Hungary,1982,13.5
+Hungary,1983,13.9
+Hungary,1984,13.8
+Hungary,1985,13.9
+Hungary,1986,13.8
+Hungary,1987,13.4
+Hungary,1988,13.2
+Hungary,1989,13.9
+Hungary,1990,14.1
+Hungary,1991,14
+Hungary,1992,14.4
+Hungary,1993,14.6
+Hungary,1994,14.1
+Hungary,1995,14.2
+Hungary,1996,14
+Hungary,1997,13.7
+Hungary,1998,13.9
+Hungary,1999,14.2
+Hungary,2000,13.5
+Hungary,2001,13
+Hungary,2002,13.1
+Hungary,2003,13.4
+Hungary,2004,13.1
+Hungary,2005,13
+Hungary,2006,13.5
+Hungary,2007,13.22005917
+Hungary,2008,12.95323419
+Hungary,2009,13.01192863
+Hungary,2010,13.04478867
+India,1911,32.3
+India,1912,29.8
+India,1913,28.8
+India,1914,30.2
+India,1915,29.9
+India,1916,29.2
+India,1917,32.9
+India,1918,63.1
+India,1919,35.8
+India,1920,30.8
+India,1921,31
+India,1922,23.9
+India,1923,24.7
+India,1924,28
+India,1925,24.1
+India,1926,25.8
+India,1927,23.7
+India,1928,24.1
+India,1929,24.2
+India,1930,24.9
+India,1931,25.3
+India,1932,21.8
+India,1933,22.5
+India,1934,25
+India,1935,23.6
+India,1936,22.5
+India,1937,22.1
+India,1938,23.9
+India,1939,21.7
+India,1940,21.3
+India,1941,21.8
+India,1942,21.3
+India,1943,23.6
+India,1944,24.1
+India,1945,21.5
+India,1946,18.7
+India,1947,19.7
+India,1948,17.1
+India,1971,14.9
+India,1972,16.9
+India,1973,15.5
+India,1974,14.5
+India,1975,15.9
+India,1976,15
+India,1977,14.7
+India,1978,14.2
+India,1979,13
+India,1980,12.6
+India,1981,12.5
+India,1982,11.9
+India,1983,11.9
+India,1984,12.6
+India,1985,11.8
+India,1986,11.1
+India,1987,10.9
+India,1988,11
+India,1989,10.3
+India,1990,9.7
+India,1991,9.8
+India,1992,10
+India,1993,9.2
+India,1994,9.3
+India,1995,9
+India,1996,9
+India,1997,8.9
+India,1998,9
+India,1999,8.7
+India,2000,8.5
+India,2001,8.4
+India,2002,8.1
+India,2003,8
+India,2004,7.5
+India,2005,7.6
+India,2006,7.5
+India,2007,7.4
+India,2008,7.4
+Ireland,1864,16.8
+Ireland,1865,16.9
+Ireland,1866,17.1
+Ireland,1867,17.6
+Ireland,1868,16.3
+Ireland,1869,16.9
+Ireland,1870,17.2
+Ireland,1871,16.8
+Ireland,1872,18.8
+Ireland,1873,18.9
+Ireland,1874,18.1
+Ireland,1875,19
+Ireland,1876,17.9
+Ireland,1877,18.2
+Ireland,1878,19.3
+Ireland,1879,20.1
+Ireland,1880,20.4
+Ireland,1881,17.9
+Ireland,1882,17.4
+Ireland,1883,19.4
+Ireland,1884,17.9
+Ireland,1885,18.7
+Ireland,1886,18
+Ireland,1887,18.4
+Ireland,1888,17.9
+Ireland,1889,17.4
+Ireland,1890,18.2
+Ireland,1891,18.4
+Ireland,1892,19.4
+Ireland,1893,18
+Ireland,1894,18.2
+Ireland,1895,18.5
+Ireland,1896,16.7
+Ireland,1897,18.5
+Ireland,1898,18.2
+Ireland,1899,17.7
+Ireland,1900,19.6
+Ireland,1901,17.8
+Ireland,1902,17.5
+Ireland,1903,17.5
+Ireland,1904,18
+Ireland,1905,17.1
+Ireland,1906,16.9
+Ireland,1907,17.6
+Ireland,1908,17.5
+Ireland,1909,17.1
+Ireland,1910,17.1
+Ireland,1911,16.5
+Ireland,1912,16.5
+Ireland,1913,17.1
+Ireland,1914,16.3
+Ireland,1915,17.6
+Ireland,1916,16.3
+Ireland,1917,16.6
+Ireland,1918,17.9
+Ireland,1919,17.6
+Ireland,1920,14.8
+Ireland,1922,14.7
+Ireland,1923,14
+Ireland,1924,15
+Ireland,1925,14.6
+Ireland,1926,14.1
+Ireland,1927,14.8
+Ireland,1928,14.2
+Ireland,1929,14.6
+Ireland,1930,14.3
+Ireland,1931,14.6
+Ireland,1932,14.6
+Ireland,1933,13.7
+Ireland,1934,13.2
+Ireland,1935,14
+Ireland,1936,14.4
+Ireland,1937,15.3
+Ireland,1938,13.6
+Ireland,1939,14.2
+Ireland,1940,14.2
+Ireland,1941,14.6
+Ireland,1942,14.1
+Ireland,1943,14.8
+Ireland,1944,15.3
+Ireland,1945,14.5
+Ireland,1946,14
+Ireland,1947,14.8
+Ireland,1948,12.1
+Ireland,1949,12.7
+Ireland,1950,12.7
+Ireland,1951,14.3
+Ireland,1952,11.9
+Ireland,1953,11.8
+Ireland,1954,12.1
+Ireland,1955,12.6
+Ireland,1956,11.7
+Ireland,1957,11.9
+Ireland,1958,12
+Ireland,1959,12
+Ireland,1960,11.5
+Ireland,1961,12.3
+Ireland,1962,12
+Ireland,1963,11.9
+Ireland,1964,11.4
+Ireland,1965,11.5
+Ireland,1966,12.2
+Ireland,1967,10.8
+Ireland,1968,11.4
+Ireland,1969,11.5
+Ireland,1970,11.4
+Ireland,1971,10.7
+Ireland,1972,11.4
+Ireland,1973,11.1
+Ireland,1974,11.2
+Ireland,1975,10.4
+Ireland,1976,10.6
+Ireland,1977,10.3
+Ireland,1978,10.2
+Ireland,1979,9.7
+Ireland,1980,9.7
+Ireland,1981,9.6
+Ireland,1982,9.3
+Ireland,1983,9.4
+Ireland,1984,9.1
+Ireland,1985,9.4
+Ireland,1986,9.5
+Ireland,1987,8.8
+Ireland,1988,8.9
+Ireland,1989,9.1
+Ireland,1990,9
+Ireland,1991,8.9
+Ireland,1992,8.7
+Ireland,1993,9
+Ireland,1994,9.5
+Ireland,1995,9
+Ireland,1996,8.8
+Ireland,1997,8.6
+Ireland,1998,8.5
+Ireland,1999,8.5
+Ireland,2000,8.2
+Ireland,2001,7.9
+Ireland,2002,7.5
+Ireland,2003,7.2
+Ireland,2004,7.1
+Ireland,2005,6.8
+Ireland,2006,6.488743934
+Ireland,2007,6.464623185
+Ireland,2008,6.375251577
+Ireland,2009,6.480909597
+Ireland,2010,6.237350568
+Israel,1925,14.9
+Israel,1926,11.9
+Israel,1927,13.3
+Israel,1928,11.9
+Israel,1929,11.6
+Israel,1930,9.5
+Israel,1931,9.6
+Israel,1932,9.7
+Israel,1933,9.3
+Israel,1934,9.5
+Israel,1935,8.6
+Israel,1936,8.8
+Israel,1937,7.8
+Israel,1938,8.1
+Israel,1939,7.6
+Israel,1940,8.1
+Israel,1941,7.8
+Israel,1942,8.5
+Israel,1943,7.6
+Israel,1944,7
+Israel,1945,6.6
+Israel,1946,6.2
+Israel,1947,6.2
+Israel,1948,6.7
+Israel,1949,6.8
+Israel,1950,6.9
+Israel,1951,6.7
+Israel,1952,7.3
+Israel,1953,6.7
+Israel,1954,6.8
+Israel,1955,6.1
+Israel,1956,6.6
+Israel,1957,6.5
+Israel,1958,5.8
+Israel,1959,5.9
+Israel,1960,5.7
+Israel,1961,5.8
+Israel,1962,6
+Israel,1963,6.1
+Israel,1964,6.3
+Israel,1965,6.3
+Israel,1966,6.3
+Israel,1967,6.6
+Israel,1968,6.8
+Israel,1969,7
+Israel,1970,7
+Israel,1971,7
+Israel,1972,7.2
+Israel,1973,7
+Israel,1974,7.1
+Israel,1975,7.1
+Israel,1976,6.8
+Israel,1977,6.9
+Israel,1978,6.8
+Israel,1979,6.8
+Israel,1980,6.8
+Israel,1981,6.6
+Israel,1982,6.9
+Israel,1983,6.8
+Israel,1984,6.7
+Israel,1985,6.6
+Israel,1986,6.8
+Israel,1987,6.7
+Israel,1988,6.6
+Israel,1989,6.3
+Israel,1990,6.2
+Israel,1991,6.3
+Israel,1992,6.5
+Israel,1993,6.3
+Israel,1994,6.2
+Israel,1995,6.4
+Israel,1996,6.1
+Israel,1997,6.2
+Israel,1998,6.2
+Israel,1999,6.1
+Israel,2000,6
+Israel,2001,5.8
+Israel,2002,5.8
+Israel,2003,5.7
+Israel,2004,5.571743281
+Israel,2005,5.634383665
+Israel,2006,5.497251304
+Israel,2007,5.582222958
+Israel,2008,5.402258512
+Israel,2009,5.180771258
+Israel,2010,5.162098361
+Italy,1900,23.8
+Italy,1901,22
+Italy,1902,22.2
+Italy,1903,22.4
+Italy,1904,21.2
+Italy,1905,22
+Italy,1906,20.9
+Italy,1907,20.9
+Italy,1908,22.8
+Italy,1909,21.7
+Italy,1910,19.9
+Italy,1911,21.4
+Italy,1912,18.2
+Italy,1913,18.7
+Italy,1914,17.9
+Italy,1915,22.3
+Italy,1916,23.3
+Italy,1917,26
+Italy,1918,35.1
+Italy,1919,18.9
+Italy,1920,19
+Italy,1922,18.1
+Italy,1923,17
+Italy,1924,17.1
+Italy,1925,17.1
+Italy,1926,17.2
+Italy,1927,16.1
+Italy,1928,16.1
+Italy,1929,16.5
+Italy,1930,14.1
+Italy,1931,14.8
+Italy,1932,14.7
+Italy,1933,13.7
+Italy,1934,13.3
+Italy,1935,14
+Italy,1936,13.8
+Italy,1937,14.3
+Italy,1938,14.1
+Italy,1939,13.4
+Italy,1940,13.641
+Italy,1941,13.941
+Italy,1942,14.3
+Italy,1943,15.2
+Italy,1944,15.3
+Italy,1945,13.6
+Italy,1946,12.1
+Italy,1947,11.5
+Italy,1948,10.6
+Italy,1949,10.5
+Italy,1950,9.8
+Italy,1951,10.3
+Italy,1952,10
+Italy,1953,9.9
+Italy,1954,9.1
+Italy,1955,9.1
+Italy,1956,10.1
+Italy,1957,9.7
+Italy,1958,9.3
+Italy,1959,9.1
+Italy,1960,9.6
+Italy,1961,9.3
+Italy,1962,10
+Italy,1963,10
+Italy,1964,9.4
+Italy,1965,9.8
+Italy,1966,9.3
+Italy,1967,9.5
+Italy,1968,9.9
+Italy,1969,10
+Italy,1970,9.6
+Italy,1971,9.7
+Italy,1972,9.6
+Italy,1973,10
+Italy,1974,9.6
+Italy,1975,9.9
+Italy,1976,9.8
+Italy,1977,9.7
+Italy,1978,9.5
+Italy,1979,9.5
+Italy,1980,9.8
+Italy,1981,9.7
+Italy,1982,9.4
+Italy,1983,9.9
+Italy,1984,9.4
+Italy,1985,9.6
+Italy,1986,9.5
+Italy,1987,9.3
+Italy,1988,9.3
+Italy,1989,9.1
+Italy,1990,9.4
+Italy,1991,9.8
+Italy,1992,9.5
+Italy,1993,9.5
+Italy,1994,9.6
+Italy,1995,9.8
+Italy,1996,9.4
+Italy,1997,9.5
+Italy,1998,9.4
+Italy,1999,9.9
+Italy,2000,9.7
+Italy,2001,9.6
+Italy,2002,9.8
+Italy,2003,10.2
+Italy,2004,9.4
+Italy,2005,9.7
+Italy,2006,9.477431173
+Italy,2007,9.648475224
+Italy,2008,9.663562479
+Italy,2009,9.82948131
+Italy,2010,9.713207516
+Jamaica,1879,23.3
+Jamaica,1880,27
+Jamaica,1881,26
+Jamaica,1882,20.2
+Jamaica,1883,22.6
+Jamaica,1884,22.8
+Jamaica,1885,22.8
+Jamaica,1886,23.5
+Jamaica,1887,24.4
+Jamaica,1888,22.5
+Jamaica,1889,22.4
+Jamaica,1890,25.3
+Jamaica,1891,22.8
+Jamaica,1892,20.8
+Jamaica,1893,22.2
+Jamaica,1894,21
+Jamaica,1895,22.7
+Jamaica,1896,22.1
+Jamaica,1897,23
+Jamaica,1898,21
+Jamaica,1899,22.7
+Jamaica,1900,21.6
+Jamaica,1901,22.8
+Jamaica,1902,19.8
+Jamaica,1903,24.8
+Jamaica,1904,24.9
+Jamaica,1905,22.2
+Jamaica,1906,26.8
+Jamaica,1907,29.2
+Jamaica,1908,23.1
+Jamaica,1909,22.7
+Jamaica,1910,23.1
+Jamaica,1911,22.3
+Jamaica,1912,25.4
+Jamaica,1913,22.1
+Jamaica,1914,21.9
+Jamaica,1915,22.1
+Jamaica,1916,23.1
+Jamaica,1917,27.8
+Jamaica,1918,34.2
+Jamaica,1919,22.9
+Jamaica,1920,26.2
+Jamaica,1921,28.3
+Jamaica,1922,23
+Jamaica,1923,23
+Jamaica,1924,21.9
+Jamaica,1925,21.6
+Jamaica,1926,20.5
+Jamaica,1927,21.1
+Jamaica,1928,19.7
+Jamaica,1929,18.4
+Jamaica,1930,17.3
+Jamaica,1931,18.9
+Jamaica,1932,17.4
+Jamaica,1933,19.7
+Jamaica,1934,17.3
+Jamaica,1935,18
+Jamaica,1936,17.7
+Jamaica,1937,15.6
+Jamaica,1938,16.8
+Jamaica,1939,15.1
+Jamaica,1940,15.4
+Jamaica,1941,14.4
+Jamaica,1942,14.3
+Jamaica,1943,14.1
+Jamaica,1944,15.1
+Jamaica,1945,14.9
+Jamaica,1946,13.3
+Jamaica,1947,14.1
+Jamaica,1948,13.2
+Jamaica,1949,12.3
+Jamaica,1950,11.9
+Jamaica,1951,12.3
+Jamaica,1952,11.7
+Jamaica,1953,4.9
+Jamaica,1954,11.1
+Jamaica,1955,10.3
+Jamaica,1956,9.7
+Jamaica,1957,9.2
+Jamaica,1958,9.5
+Jamaica,1959,10.3
+Jamaica,1960,8.8
+Jamaica,1961,8.6
+Jamaica,1962,8.5
+Jamaica,1963,8.9
+Jamaica,1964,7.6
+Jamaica,1965,8
+Jamaica,1966,8
+Jamaica,1967,7.4
+Jamaica,1968,7.9
+Jamaica,1969,7.6
+Jamaica,1970,7.7
+Jamaica,1971,7.6
+Jamaica,1972,7.2
+Jamaica,1973,7.2
+Jamaica,1974,7.2
+Jamaica,1975,6.9
+Jamaica,1976,7
+Jamaica,1977,6.8
+Jamaica,1978,5.9
+Jamaica,1979,6.2
+Jamaica,1980,5.8
+Jamaica,1981,6.1
+Jamaica,1982,4.9
+Jamaica,1983,5.5
+Jamaica,1984,5.9
+Jamaica,1985,6
+Jamaica,1986,5.7
+Jamaica,1987,5.3
+Jamaica,1988,5.2
+Jamaica,1989,6
+Jamaica,1990,5
+Jamaica,1991,5.6
+Jamaica,1992,5.5
+Jamaica,1993,5.8
+Jamaica,1994,5.5
+Jamaica,1995,6.2
+Jamaica,1996,6.7
+Jamaica,1997,5.9
+Jamaica,1998,7
+Jamaica,1999,6.7
+Jamaica,2000,      
+Japan,1872,11.6
+Japan,1873,18.9
+Japan,1874,19.8
+Japan,1875,18.5
+Japan,1876,17.2
+Japan,1877,17.3
+Japan,1878,16.7
+Japan,1879,19.8
+Japan,1880,16.5
+Japan,1881,18.6
+Japan,1882,17.9
+Japan,1883,18
+Japan,1884,18.6
+Japan,1885,23.1
+Japan,1886,24.3
+Japan,1887,19.5
+Japan,1888,19.3
+Japan,1889,20.5
+Japan,1890,20.6
+Japan,1891,21.2
+Japan,1892,21.9
+Japan,1893,22.9
+Japan,1894,20.4
+Japan,1895,20.5
+Japan,1896,21.7
+Japan,1897,20.7
+Japan,1898,20.9
+Japan,1899,21.5
+Japan,1900,20.8
+Japan,1901,20.9
+Japan,1902,21.3
+Japan,1903,20.4
+Japan,1904,20.7
+Japan,1905,21.6
+Japan,1906,20.3
+Japan,1907,21.4
+Japan,1908,21.5
+Japan,1909,22.5
+Japan,1910,21.6
+Japan,1911,20.9
+Japan,1912,20.5
+Japan,1913,20
+Japan,1914,21.2
+Japan,1915,20.7
+Japan,1916,22.2
+Japan,1917,22.2
+Japan,1918,27.3
+Japan,1919,23.3
+Japan,1920,25.4
+Japan,1921,22.7
+Japan,1922,22.4
+Japan,1923,22.9
+Japan,1924,21.3
+Japan,1925,20.3
+Japan,1926,19.1
+Japan,1927,19.7
+Japan,1928,19.8
+Japan,1929,19.9
+Japan,1930,18.2
+Japan,1931,19
+Japan,1932,17.7
+Japan,1933,17.7
+Japan,1934,18.1
+Japan,1935,16.8
+Japan,1936,17.5
+Japan,1937,17.1
+Japan,1938,17.7
+Japan,1939,17.8
+Japan,1940,16.5
+Japan,1941,16
+Japan,1942,16.1
+Japan,1943,16.7
+Japan,1947,14.6
+Japan,1948,11.9
+Japan,1949,11.6
+Japan,1950,10.9
+Japan,1951,9.9
+Japan,1952,8.9
+Japan,1953,8.9
+Japan,1954,8.2
+Japan,1955,7.8
+Japan,1956,8.1
+Japan,1957,8.3
+Japan,1958,7.5
+Japan,1959,7.5
+Japan,1960,7.6
+Japan,1961,7.4
+Japan,1962,7.5
+Japan,1963,7
+Japan,1964,6.9
+Japan,1965,7.2
+Japan,1966,6.9
+Japan,1967,6.8
+Japan,1968,6.9
+Japan,1969,6.9
+Japan,1970,7
+Japan,1971,6.5
+Japan,1972,6.4
+Japan,1973,6.5
+Japan,1974,6.4
+Japan,1975,6.3
+Japan,1976,6.2
+Japan,1977,6.1
+Japan,1978,6.1
+Japan,1979,6
+Japan,1980,6.2
+Japan,1981,6.1
+Japan,1982,6
+Japan,1983,6.2
+Japan,1984,6.2
+Japan,1985,6.2
+Japan,1986,6.2
+Japan,1987,6.2
+Japan,1988,6.5
+Japan,1989,6.4
+Japan,1990,6.6
+Japan,1991,6.7
+Japan,1992,6.9
+Japan,1993,7
+Japan,1994,7.1
+Japan,1995,7.4
+Japan,1996,7.2
+Japan,1997,7.3
+Japan,1998,7.5
+Japan,1999,7.8
+Japan,2000,7.6
+Japan,2001,7.6
+Japan,2002,7.7
+Japan,2003,8
+Japan,2004,8.147342574
+Japan,2005,8.586495116
+Japan,2006,8.595694425
+Japan,2007,8.78883805
+Japan,2008,9.068665508
+Japan,2009,8.951731761
+Malaya,1940,20.7
+Malaya,1946,20
+Malaya,1947,19.4
+Malaya,1948,16.3
+Malaya,1949,14.2
+Malaya,1950,15.8
+Malaya,1951,15.4
+Malaya,1952,13.8
+Malaya,1953,12.6
+Malaya,1954,12.4
+Malaya,1955,11.7
+Malaya,1956,11.6
+Malaya,1957,12.4
+Malaya,1958,11
+Malaya,1959,9.7
+Malaya,1960,9.5
+Malaya,1961,9.2
+Malaya,1962,9.4
+Malaya,1963,9
+Malaya,1964,8.1
+Malaya,1965,7.9
+Malaya,1966,7.6
+Malaya,1967,7.5
+Malaya,1968,7.6
+Malaya,1969,7.2
+Malaya,1970,7.3
+Malaya,1971,7.1
+Malaya,1972,6.9
+Malaya,1973,6.9
+Malaya,1974,6.6
+Malaya,1975,6.4
+Malaya,1976,6.2
+Malaya,1977,6.3
+Malaya,1978,5.9
+Malaya,1979,5.8
+Malaya,1980,5.8
+Malaya,1981,5.2
+Malaya,1982,5.3
+Malaya,1983,5.3
+Malaya,1984,5.3
+Malaya,1985,5.3
+Malaya,1986,5
+Malaya,1987,4.8
+Malaya,1988,4.9
+Malaya,1989,4.9
+Malaya,1991,4.6
+Malaya,1992,4.6
+Malaya,1993,4.5
+Malaya,1999,5.1
+Malaya,2000,4.5
+Malaya,2003,4.7
+Malaya,2004,4.40562353
+Malaya,2005,4.352244858
+Malaya,2006,4.28913473
+Malaya,2007,4.346616064
+Malaya,2008,4.533577986
+Malaya,2009,4.623067401
+Martinique,1946,20.5
+Martinique,1947,21.3
+Martinique,1948,18.9
+Martinique,1949,17
+Martinique,1950,13.5
+Martinique,1951,14.8
+Martinique,1952,13.9
+Martinique,1953,10.5
+Martinique,1954,10.5
+Martinique,1955,10.8
+Martinique,1956,10
+Martinique,1957,9.8
+Martinique,1958,10.4
+Martinique,1959,8.6
+Martinique,1960,9.4
+Martinique,1961,7.9
+Martinique,1962,8.6
+Martinique,1963,8.3
+Martinique,1964,8
+Martinique,1965,7.8
+Martinique,1966,7.7
+Martinique,1967,7.4
+Martinique,1968,7
+Martinique,1969,7.5
+Martinique,1970,7.6
+Martinique,1971,6.8
+Martinique,1972,7
+Martinique,1973,7.2
+Martinique,1974,7.4
+Martinique,1975,6.8
+Martinique,1977,6.6
+Martinique,1978,6.7
+Martinique,1979,6.5
+Martinique,1980,6.6
+Martinique,1981,6.3
+Martinique,1982,6.5
+Martinique,1983,6.8
+Martinique,1984,6.3
+Martinique,1985,6.5
+Martinique,1986,6.3
+Martinique,1987,6.4
+Martinique,1988,6.2
+Martinique,1989,6.1
+Martinique,1990,6.1
+Martinique,1991,5.9
+Martinique,1992,5.8
+Martinique,1995,6.2
+Martinique,1996,      
+Martinique,1997,      
+Martinique,1998,6.7
+Martinique,1999,6.8
+Martinique,2000,7
+Martinique,2001,7.1
+Martinique,2002,6.9
+Martinique,2003,7
+Martinique,2004,6.7
+Martinique,2005,6.6
+Martinique,2006,6.695463277
+Martinique,2007,7.11537978
+Mauritius,1875,24.9
+Mauritius,1876,27.5
+Mauritius,1877,29.6
+Mauritius,1878,27.2
+Mauritius,1879,32.3
+Mauritius,1880,28.4
+Mauritius,1881,30
+Mauritius,1882,35
+Mauritius,1883,35.4
+Mauritius,1884,30.3
+Mauritius,1885,33.3
+Mauritius,1886,28.9
+Mauritius,1887,34.5
+Mauritius,1888,30.3
+Mauritius,1889,34
+Mauritius,1890,34.5
+Mauritius,1891,26.9
+Mauritius,1892,34.9
+Mauritius,1893,41.2
+Mauritius,1894,28.7
+Mauritius,1895,36.9
+Mauritius,1896,42.3
+Mauritius,1897,29.3
+Mauritius,1898,31.8
+Mauritius,1899,34.8
+Mauritius,1900,36.5
+Mauritius,1901,40.4
+Mauritius,1902,33.8
+Mauritius,1903,40.1
+Mauritius,1904,31.9
+Mauritius,1905,40.7
+Mauritius,1906,40
+Mauritius,1907,34.6
+Mauritius,1908,40.3
+Mauritius,1909,36.9
+Mauritius,1910,36.9
+Mauritius,1911,32.8
+Mauritius,1912,38.8
+Mauritius,1913,35.5
+Mauritius,1914,32.5
+Mauritius,1915,34.8
+Mauritius,1916,30.4
+Mauritius,1917,32.5
+Mauritius,1918,33.9
+Mauritius,1919,64.9
+Mauritius,1920,32.3
+Mauritius,1921,40.3
+Mauritius,1922,34.5
+Mauritius,1923,28.5
+Mauritius,1924,28.1
+Mauritius,1925,24.9
+Mauritius,1926,25.3
+Mauritius,1927,25.1
+Mauritius,1928,28.2
+Mauritius,1929,30.7
+Mauritius,1930,35.4
+Mauritius,1931,38.4
+Mauritius,1932,32.2
+Mauritius,1933,26.6
+Mauritius,1934,25.1
+Mauritius,1935,25.8
+Mauritius,1936,25.8
+Mauritius,1937,28.1
+Mauritius,1938,29.2
+Mauritius,1939,27.4
+Mauritius,1940,24.9
+Mauritius,1941,25
+Mauritius,1942,28.6
+Mauritius,1943,25.5
+Mauritius,1944,27
+Mauritius,1945,36
+Mauritius,1946,29.3
+Mauritius,1947,20
+Mauritius,1948,23.8
+Mauritius,1949,16.6
+Mauritius,1950,13.9
+Mauritius,1951,14.9
+Mauritius,1952,14.8
+Mauritius,1953,15.9
+Mauritius,1954,15.8
+Mauritius,1955,12.8
+Mauritius,1956,11.7
+Mauritius,1957,12.8
+Mauritius,1958,11.7
+Mauritius,1959,10.8
+Mauritius,1960,11.2
+Mauritius,1961,9.8
+Mauritius,1962,9.3
+Mauritius,1963,9.6
+Mauritius,1964,8.6
+Mauritius,1965,8.6
+Mauritius,1966,8.8
+Mauritius,1967,8.5
+Mauritius,1968,9
+Mauritius,1969,8
+Mauritius,1970,7.8
+Mauritius,1971,7.6
+Mauritius,1972,7.9
+Mauritius,1973,7.8
+Mauritius,1974,7.4
+Mauritius,1975,8.1
+Mauritius,1976,7.9
+Mauritius,1977,7.9
+Mauritius,1978,7.1
+Mauritius,1979,7.3
+Mauritius,1980,7.2
+Mauritius,1981,6.8
+Mauritius,1982,6.7
+Mauritius,1983,6.5
+Mauritius,1984,6.6
+Mauritius,1985,6.8
+Mauritius,1986,6.7
+Mauritius,1987,6.6
+Mauritius,1988,6.6
+Mauritius,1989,6.8
+Mauritius,1990,6.7
+Mauritius,1991,6.6
+Mauritius,1992,6.5
+Mauritius,1993,6.8
+Mauritius,1994,6.7
+Mauritius,1995,6.7
+Mauritius,1996,6.8
+Mauritius,1997,7
+Mauritius,1998,6.8
+Mauritius,1999,6.8
+Mauritius,2000,6.7
+Mauritius,2001,6.7
+Mauritius,2002,6.9
+Mauritius,2003,7
+Mauritius,2004,6.9
+Mauritius,2005,7
+Mauritius,2006,7.313813864
+Mauritius,2007,6.742287983
+Mauritius,2008,7.097783716
+Mauritius,2009,7.234328237
+Mauritius,2010,7.128447902
+Mexico,1900,32.7
+Mexico,1901,32.3
+Mexico,1902,34.4
+Mexico,1903,32.6
+Mexico,1904,31.4
+Mexico,1905,32.9
+Mexico,1906,33.1
+Mexico,1907,33
+Mexico,1908,31.8
+Mexico,1909,32.3
+Mexico,1910,33.3
+Mexico,1922,25.3
+Mexico,1923,24.4
+Mexico,1924,25.6
+Mexico,1925,26.5
+Mexico,1926,24.9
+Mexico,1927,24
+Mexico,1928,25.3
+Mexico,1929,26.8
+Mexico,1930,26.6
+Mexico,1931,25.9
+Mexico,1932,26.1
+Mexico,1933,25.7
+Mexico,1934,23.8
+Mexico,1935,22.6
+Mexico,1936,23.5
+Mexico,1937,24.4
+Mexico,1938,22.9
+Mexico,1939,23
+Mexico,1940,23.2
+Mexico,1941,22.1
+Mexico,1942,22.8
+Mexico,1943,22.4
+Mexico,1944,20.6
+Mexico,1945,19.5
+Mexico,1946,19.4
+Mexico,1947,16.6
+Mexico,1948,16.9
+Mexico,1949,17.9
+Mexico,1950,16.2
+Mexico,1951,17.3
+Mexico,1952,15
+Mexico,1953,15.9
+Mexico,1954,13.1
+Mexico,1955,13.3
+Mexico,1956,11.7
+Mexico,1957,12.7
+Mexico,1958,12
+Mexico,1959,11.4
+Mexico,1960,11.2
+Mexico,1961,10.3
+Mexico,1962,10.4
+Mexico,1963,10.3
+Mexico,1964,9.8
+Mexico,1965,9.4
+Mexico,1966,9.6
+Mexico,1967,9.2
+Mexico,1968,9.6
+Mexico,1969,9.4
+Mexico,1970,9.6
+Mexico,1971,8.7
+Mexico,1972,8.8
+Mexico,1973,8.2
+Mexico,1974,7.5
+Mexico,1975,7.2
+Mexico,1976,7.4
+Mexico,1977,7.1
+Mexico,1978,6.4
+Mexico,1979,6.3
+Mexico,1980,6.3
+Mexico,1981,6
+Mexico,1982,5.7
+Mexico,1983,5.5
+Mexico,1984,5.4
+Mexico,1985,5.3
+Mexico,1987,5.8
+Mexico,1989,5
+Mexico,1990,4.9
+Mexico,1991,4.7
+Mexico,1992,4.6
+Mexico,1993,4.6
+Mexico,1994,4.7
+Mexico,1995,4.8
+Mexico,1996,4.7
+Mexico,1997,4.6
+Mexico,1998,4.6
+Mexico,1999,4.5
+Mexico,2000,4.4
+Mexico,2001,4.4
+Mexico,2002,4.5
+Mexico,2003,4.6
+Mexico,2004,4.6
+Mexico,2005,4.8
+Mexico,2006,4.703688937
+Mexico,2007,4.850349594
+Mexico,2008,5.045700177
+Mexico,2009,5.239538336
+Netherlands,1840,23.5
+Netherlands,1841,23.3
+Netherlands,1842,25.8
+Netherlands,1843,23.1
+Netherlands,1844,24.1
+Netherlands,1845,23.2
+Netherlands,1846,28.5
+Netherlands,1847,31.1
+Netherlands,1848,29.2
+Netherlands,1849,31.2
+Netherlands,1900,17.9
+Netherlands,1901,17.2
+Netherlands,1902,16.3
+Netherlands,1903,15.6
+Netherlands,1904,15.9
+Netherlands,1905,15.3
+Netherlands,1906,14.8
+Netherlands,1907,14.6
+Netherlands,1908,15
+Netherlands,1909,13.7
+Netherlands,1910,13.6
+Netherlands,1911,14.5
+Netherlands,1912,12.3
+Netherlands,1913,12.3
+Netherlands,1914,12.4
+Netherlands,1915,12.5
+Netherlands,1916,12.9
+Netherlands,1917,13.1
+Netherlands,1918,17.4
+Netherlands,1919,13.4
+Netherlands,1920,12.3
+Netherlands,1922,11.7
+Netherlands,1923,10.2
+Netherlands,1924,9.8
+Netherlands,1925,9.8
+Netherlands,1926,9.8
+Netherlands,1927,10.2
+Netherlands,1928,9.6
+Netherlands,1929,10.7
+Netherlands,1930,9.1
+Netherlands,1931,9.6
+Netherlands,1932,9
+Netherlands,1933,8.8
+Netherlands,1934,8.4
+Netherlands,1935,8.7
+Netherlands,1936,8.7
+Netherlands,1937,8.8
+Netherlands,1938,8.5
+Netherlands,1939,8.6
+Netherlands,1940,9.9
+Netherlands,1941,10
+Netherlands,1942,9.5
+Netherlands,1943,10
+Netherlands,1944,11.8
+Netherlands,1945,15.3
+Netherlands,1946,8.5
+Netherlands,1947,8.1
+Netherlands,1948,7.4
+Netherlands,1949,8.1
+Netherlands,1950,7.5
+Netherlands,1951,7.6
+Netherlands,1952,7.4
+Netherlands,1953,7.7
+Netherlands,1954,7.5
+Netherlands,1955,7.6
+Netherlands,1956,7.8
+Netherlands,1957,7.5
+Netherlands,1958,7.6
+Netherlands,1959,7.6
+Netherlands,1960,7.7
+Netherlands,1961,7.6
+Netherlands,1962,8
+Netherlands,1963,8
+Netherlands,1964,7.7
+Netherlands,1965,8
+Netherlands,1966,8.1
+Netherlands,1967,7.9
+Netherlands,1968,8.2
+Netherlands,1969,8.4
+Netherlands,1970,8.4
+Netherlands,1971,8.4
+Netherlands,1972,8.5
+Netherlands,1973,8.2
+Netherlands,1974,8.1
+Netherlands,1975,8.3
+Netherlands,1976,8.3
+Netherlands,1977,7.9
+Netherlands,1978,8.2
+Netherlands,1979,8
+Netherlands,1980,8.1
+Netherlands,1981,8.1
+Netherlands,1982,8.2
+Netherlands,1983,8.2
+Netherlands,1984,8.3
+Netherlands,1985,8.5
+Netherlands,1986,8.6
+Netherlands,1987,8.3
+Netherlands,1988,8.4
+Netherlands,1989,8.7
+Netherlands,1990,8.6
+Netherlands,1991,8.6
+Netherlands,1992,8.6
+Netherlands,1993,9
+Netherlands,1994,9
+Netherlands,1995,8.8
+Netherlands,1996,8.9
+Netherlands,1997,8.7
+Netherlands,1998,8.8
+Netherlands,1999,8.9
+Netherlands,2000,8.8
+Netherlands,2001,8.7
+Netherlands,2002,8.8
+Netherlands,2003,8.7
+Netherlands,2004,8.4
+Netherlands,2005,8.4
+Netherlands,2006,8.28160795
+Netherlands,2007,8.1201607
+Netherlands,2008,8.217155806
+Netherlands,2009,8.120499047
+Netherlands,2010,8.188873369
+New Zealand,1855,12.6
+New Zealand,1856,8.9
+New Zealand,1857,8.7
+New Zealand,1858,9.8
+New Zealand,1859,9.8
+New Zealand,1860,14.3
+New Zealand,1861,12.4
+New Zealand,1862,10.9
+New Zealand,1863,13.7
+New Zealand,1864,17.3
+New Zealand,1865,15.1
+New Zealand,1866,12.9
+New Zealand,1867,12.8
+New Zealand,1868,11.9
+New Zealand,1869,11.7
+New Zealand,1870,11.1
+New Zealand,1871,10.1
+New Zealand,1872,11.4
+New Zealand,1873,12.7
+New Zealand,1874,13
+New Zealand,1875,15.4
+New Zealand,1876,12.7
+New Zealand,1877,11.5
+New Zealand,1878,11
+New Zealand,1879,12.5
+New Zealand,1880,11.5
+New Zealand,1881,11.1
+New Zealand,1882,11.2
+New Zealand,1883,11.4
+New Zealand,1884,10.4
+New Zealand,1885,10.6
+New Zealand,1886,10.5
+New Zealand,1887,10.3
+New Zealand,1888,9.4
+New Zealand,1889,9.4
+New Zealand,1890,9.7
+New Zealand,1891,10.3
+New Zealand,1892,10.1
+New Zealand,1893,10.2
+New Zealand,1894,10.2
+New Zealand,1895,9.9
+New Zealand,1896,9.1
+New Zealand,1897,9.1
+New Zealand,1898,9.8
+New Zealand,1899,10.2
+New Zealand,1900,9.4
+New Zealand,1901,9.8
+New Zealand,1902,10.5
+New Zealand,1903,10.4
+New Zealand,1904,9.6
+New Zealand,1905,9.3
+New Zealand,1906,9.3
+New Zealand,1907,10.9
+New Zealand,1908,9.6
+New Zealand,1909,9.2
+New Zealand,1910,9.7
+New Zealand,1911,9.4
+New Zealand,1912,8.9
+New Zealand,1913,9.5
+New Zealand,1914,9.3
+New Zealand,1915,9.1
+New Zealand,1916,9.6
+New Zealand,1917,9.6
+New Zealand,1918,14.8
+New Zealand,1919,9.5
+New Zealand,1920,10.1
+New Zealand,1921,9
+New Zealand,1922,9
+New Zealand,1923,9.2
+New Zealand,1924,8.5
+New Zealand,1925,18.6
+New Zealand,1926,8.8
+New Zealand,1927,8.8
+New Zealand,1928,8.8
+New Zealand,1929,9
+New Zealand,1930,8.8
+New Zealand,1931,8.6
+New Zealand,1932,8.4
+New Zealand,1933,8.3
+New Zealand,1934,8.9
+New Zealand,1935,8.7
+New Zealand,1936,9.3
+New Zealand,1937,9.6
+New Zealand,1938,10.5
+New Zealand,1939,9.8
+New Zealand,1940,9.7
+New Zealand,1941,10.4
+New Zealand,1942,11
+New Zealand,1943,10.5
+New Zealand,1944,10.3
+New Zealand,1945,10.4
+New Zealand,1946,10.1
+New Zealand,1947,9.7
+New Zealand,1948,9.4
+New Zealand,1949,9.4
+New Zealand,1950,9.5
+New Zealand,1951,9.7
+New Zealand,1952,9.5
+New Zealand,1953,9
+New Zealand,1954,9
+New Zealand,1955,9
+New Zealand,1956,9
+New Zealand,1957,9.4
+New Zealand,1958,8.9
+New Zealand,1959,9.1
+New Zealand,1960,8.8
+New Zealand,1961,9
+New Zealand,1962,8.9
+New Zealand,1963,8.8
+New Zealand,1964,8.8
+New Zealand,1965,8.7
+New Zealand,1966,8.9
+New Zealand,1967,8.4
+New Zealand,1968,8.9
+New Zealand,1969,8.7
+New Zealand,1970,8.8
+New Zealand,1971,8.5
+New Zealand,1972,8.5
+New Zealand,1973,8.6
+New Zealand,1974,8.4
+New Zealand,1975,8.2
+New Zealand,1976,8.2
+New Zealand,1977,8.3
+New Zealand,1978,7.9
+New Zealand,1979,8.1
+New Zealand,1980,8.6
+New Zealand,1981,8
+New Zealand,1982,8
+New Zealand,1983,8.1
+New Zealand,1984,7.9
+New Zealand,1985,8.5
+New Zealand,1986,8.3
+New Zealand,1987,8.4
+New Zealand,1988,8.3
+New Zealand,1989,8.2
+New Zealand,1990,7.9
+New Zealand,1991,7.8
+New Zealand,1992,7.9
+New Zealand,1993,7.9
+New Zealand,1994,7.7
+New Zealand,1995,7.6
+New Zealand,1996,7.6
+New Zealand,1997,7.3
+New Zealand,1998,6.9
+New Zealand,1999,7.3
+New Zealand,2000,6.9
+New Zealand,2001,7.2
+New Zealand,2002,7.1
+New Zealand,2003,7
+New Zealand,2004,6.952660551
+New Zealand,2005,6.539587315
+New Zealand,2006,6.74974908
+New Zealand,2007,6.745500556
+New Zealand,2008,6.83735857
+New Zealand,2009,6.711154363
+Newfoundland,1907,17.6
+Newfoundland,1908,17.4
+Newfoundland,1909,15.4
+Newfoundland,1910,15.2
+Newfoundland,1911,16
+Newfoundland,1912,16.7
+Newfoundland,1913,17.8
+Newfoundland,1914,15.6
+Newfoundland,1915,14
+Newfoundland,1916,17.8
+Newfoundland,1917,17.1
+Newfoundland,1918,19.6
+Newfoundland,1919,16
+Newfoundland,1920,15.6
+Newfoundland,1921,12.8
+Newfoundland,1922,13.7
+Newfoundland,1923,13.7
+Newfoundland,1924,15.9
+Newfoundland,1925,13.8
+Newfoundland,1926,13
+Newfoundland,1927,13.7
+Newfoundland,1928,13.8
+Newfoundland,1929,14.4
+Newfoundland,1930,14
+Newfoundland,1931,13.4
+Newfoundland,1932,12.7
+Newfoundland,1933,12.1
+Newfoundland,1934,12.1
+Newfoundland,1935,13.5
+Newfoundland,1936,13
+Newfoundland,1937,13.5
+Newfoundland,1938,12.1
+Newfoundland,1939,11.7
+Newfoundland,1940,11.8
+Newfoundland,1941,12.5
+Newfoundland,1942,12.3
+Newfoundland,1943,11.4
+Newfoundland,1944,12.3
+Newfoundland,1945,10.4
+Newfoundland,1946,10.4
+Newfoundland,1947,9.9
+Newfoundland,1948,9
+Newfoundland,1949,8.3
+Northern Ireland,1922,15.4
+Northern Ireland,1923,14.7
+Northern Ireland,1924,15.9
+Northern Ireland,1925,15.7
+Northern Ireland,1926,15
+Northern Ireland,1927,14.6
+Northern Ireland,1928,14.4
+Northern Ireland,1929,15.9
+Northern Ireland,1930,13.8
+Northern Ireland,1931,14.4
+Northern Ireland,1932,14.1
+Northern Ireland,1933,14.3
+Northern Ireland,1934,13.9
+Northern Ireland,1935,14.6
+Northern Ireland,1936,14.4
+Northern Ireland,1937,15.1
+Northern Ireland,1938,13.7
+Northern Ireland,1939,13.5
+Northern Ireland,1940,14.6
+Northern Ireland,1941,15.2
+Northern Ireland,1942,13.3
+Northern Ireland,1943,13.4
+Northern Ireland,1944,12.8
+Northern Ireland,1945,12.3
+Northern Ireland,1946,12.5
+Northern Ireland,1947,12.6
+Northern Ireland,1948,11.2
+Northern Ireland,1949,11.5
+Northern Ireland,1950,11.6
+Northern Ireland,1951,12.8
+Northern Ireland,1952,10.8
+Northern Ireland,1953,10.7
+Northern Ireland,1954,10.9
+Northern Ireland,1955,11.1
+Northern Ireland,1956,10.6
+Northern Ireland,1957,10.9
+Northern Ireland,1958,10.8
+Northern Ireland,1959,10.9
+Northern Ireland,1960,10.8
+Northern Ireland,1961,11.3
+Northern Ireland,1962,10.6
+Northern Ireland,1963,11
+Northern Ireland,1964,10.5
+Northern Ireland,1965,10.6
+Northern Ireland,1966,11.1
+Northern Ireland,1967,9.8
+Northern Ireland,1968,10.6
+Northern Ireland,1969,10.8
+Northern Ireland,1970,10.8
+Northern Ireland,1971,10.5
+Northern Ireland,1972,11
+Northern Ireland,1973,11.4
+Northern Ireland,1974,11.2
+Northern Ireland,1975,10.7
+Northern Ireland,1976,11.1
+Northern Ireland,1977,11.1
+Northern Ireland,1978,10.5
+Northern Ireland,1979,10.9
+Northern Ireland,1980,10.9
+Northern Ireland,1981,10.6
+Northern Ireland,1982,10.4
+Northern Ireland,1983,10.4
+Northern Ireland,1984,10.1
+Northern Ireland,1985,10.2
+Northern Ireland,1986,10.3
+Northern Ireland,1987,9.7
+Northern Ireland,1988,10
+Northern Ireland,1989,10
+Northern Ireland,1990,9.7
+Northern Ireland,1991,9.5
+Northern Ireland,1992,9.3
+Northern Ireland,1993,9.6
+Northern Ireland,1994,9.4
+Northern Ireland,1995,9.6
+Northern Ireland,1996,9.8
+Northern Ireland,1997,9.6
+Northern Ireland,1998,9.8
+Norway,1749,27.9
+Norway,1750,27.2
+Norway,1751,27
+Norway,1752,25.4
+Norway,1753,23.4
+Norway,1754,24.1
+Norway,1755,25.1
+Norway,1756,27.2
+Norway,1757,22.1
+Norway,1758,24.6
+Norway,1759,19.5
+Norway,1760,23.1
+Norway,1761,24.4
+Norway,1762,25.9
+Norway,1763,38.8
+Norway,1764,29.1
+Norway,1765,30.2
+Norway,1766,30.4
+Norway,1767,25.1
+Norway,1768,24.4
+Norway,1769,23.7
+Norway,1770,24
+Norway,1771,23.2
+Norway,1772,26.2
+Norway,1773,48.1
+Norway,1774,25.8
+Norway,1775,23.6
+Norway,1776,20.7
+Norway,1777,21
+Norway,1778,20.2
+Norway,1779,27.4
+Norway,1780,25.6
+Norway,1781,20.9
+Norway,1782,22.6
+Norway,1783,24.8
+Norway,1784,24
+Norway,1785,33.3
+Norway,1786,24.4
+Norway,1787,22.8
+Norway,1788,26.1
+Norway,1789,30.6
+Norway,1790,23
+Norway,1791,23
+Norway,1792,24
+Norway,1793,22.1
+Norway,1794,20.8
+Norway,1795,22.6
+Norway,1796,21.5
+Norway,1797,22.4
+Norway,1798,22.6
+Norway,1799,20.9
+Norway,1801,27.6
+Norway,1802,24.9
+Norway,1803,24.6
+Norway,1804,23.2
+Norway,1805,20.4
+Norway,1806,20.7
+Norway,1807,22.1
+Norway,1808,26.4
+Norway,1809,35.3
+Norway,1810,26.8
+Norway,1811,24.7
+Norway,1812,21.3
+Norway,1813,28.9
+Norway,1814,22.2
+Norway,1815,19.7
+Norway,1816,19.3
+Norway,1817,17.7
+Norway,1818,19.1
+Norway,1819,19.7
+Norway,1820,18.9
+Norway,1821,20.5
+Norway,1822,19.5
+Norway,1823,17.7
+Norway,1824,18.5
+Norway,1825,17.4
+Norway,1826,18.5
+Norway,1827,18
+Norway,1828,19.4
+Norway,1829,19.4
+Norway,1830,19.7
+Norway,1831,19.8
+Norway,1832,18.5
+Norway,1833,20.3
+Norway,1834,22.4
+Norway,1835,19.5
+Norway,1836,19.2
+Norway,1837,20.8
+Norway,1838,19.9
+Norway,1839,21.6
+Norway,1840,19.8
+Norway,1841,17.3
+Norway,1842,18
+Norway,1843,17.9
+Norway,1844,17.1
+Norway,1845,16.9
+Norway,1846,17.9
+Norway,1847,20.3
+Norway,1848,20.5
+Norway,1849,18.3
+Norway,1850,17.2
+Norway,1852,17.9
+Norway,1853,18.3
+Norway,1854,16
+Norway,1855,17.2
+Norway,1856,16.9
+Norway,1857,17.1
+Norway,1858,16.1
+Norway,1859,17
+Norway,1860,17.2
+Norway,1861,19.5
+Norway,1862,20
+Norway,1863,18.9
+Norway,1864,17.8
+Norway,1865,16.6
+Norway,1866,17.1
+Norway,1867,18.5
+Norway,1868,18.3
+Norway,1869,17.2
+Norway,1870,16.2
+Norway,1871,16.9
+Norway,1872,16.7
+Norway,1873,17
+Norway,1874,18.3
+Norway,1875,18.8
+Norway,1876,18.9
+Norway,1877,16.9
+Norway,1878,16
+Norway,1879,15.1
+Norway,1880,16.2
+Norway,1881,17
+Norway,1882,18.6
+Norway,1883,17
+Norway,1884,16.6
+Norway,1885,16.5
+Norway,1886,16.3
+Norway,1887,16.2
+Norway,1888,17.3
+Norway,1889,17.8
+Norway,1890,18
+Norway,1891,17.7
+Norway,1892,17.9
+Norway,1893,16.5
+Norway,1894,16.9
+Norway,1895,15.6
+Norway,1896,15.2
+Norway,1897,15.4
+Norway,1898,15.3
+Norway,1899,16.8
+Norway,1900,15.8
+Norway,1901,15
+Norway,1902,13.9
+Norway,1903,14.8
+Norway,1904,14.3
+Norway,1905,14.8
+Norway,1906,13.7
+Norway,1907,14.3
+Norway,1908,14.2
+Norway,1909,13.6
+Norway,1910,13.5
+Norway,1911,13.2
+Norway,1912,13.5
+Norway,1913,13.3
+Norway,1914,13.5
+Norway,1915,13.4
+Norway,1916,13.8
+Norway,1917,13.6
+Norway,1918,17.2
+Norway,1919,13.8
+Norway,1920,12.8
+Norway,1921,11.5
+Norway,1922,12.1
+Norway,1923,11.6
+Norway,1924,11.3
+Norway,1925,11.1
+Norway,1926,10.8
+Norway,1927,11.2
+Norway,1928,10.9
+Norway,1929,11.5
+Norway,1930,10.6
+Norway,1931,10.9
+Norway,1932,10.6
+Norway,1933,10.1
+Norway,1934,9.9
+Norway,1935,10.3
+Norway,1936,10.4
+Norway,1937,10.4
+Norway,1938,10
+Norway,1939,10.1
+Norway,1940,10.8
+Norway,1941,10.8
+Norway,1942,10.7
+Norway,1943,10.4
+Norway,1944,10.7
+Norway,1945,9.7
+Norway,1946,9.4
+Norway,1947,9.5
+Norway,1948,8.9
+Norway,1949,9
+Norway,1950,9.1
+Norway,1951,8.4
+Norway,1952,8.5
+Norway,1953,8.5
+Norway,1954,8.6
+Norway,1955,8.5
+Norway,1956,8.7
+Norway,1957,8.8
+Norway,1958,9
+Norway,1959,8.9
+Norway,1960,9.1
+Norway,1961,9.2
+Norway,1962,9.4
+Norway,1963,10.1
+Norway,1964,9.5
+Norway,1965,9.5
+Norway,1966,9.6
+Norway,1967,9.6
+Norway,1968,9.9
+Norway,1969,10.1
+Norway,1970,10
+Norway,1971,10
+Norway,1972,10
+Norway,1973,10.1
+Norway,1974,9.9
+Norway,1975,9.9
+Norway,1976,10
+Norway,1977,9.8
+Norway,1978,10
+Norway,1979,10.2
+Norway,1980,10.1
+Norway,1981,10.2
+Norway,1982,10.1
+Norway,1983,10.2
+Norway,1984,10.3
+Norway,1985,10.7
+Norway,1986,10.5
+Norway,1987,10.7
+Norway,1988,10.8
+Norway,1989,10.7
+Norway,1990,10.8
+Norway,1991,10.5
+Norway,1992,10.4
+Norway,1993,10.8
+Norway,1994,10.6
+Norway,1995,10.4
+Norway,1996,10
+Norway,1997,10.1
+Norway,1998,10
+Norway,1999,10.1
+Norway,2000,9.8
+Norway,2001,9.7
+Norway,2002,9.8
+Norway,2003,9.3
+Norway,2004,9
+Norway,2005,8.9
+Norway,2006,8.851290151
+Norway,2007,8.909033111
+Norway,2008,8.747934105
+Norway,2009,8.583838531
+Norway,2010,8.487801406
+Panama,1930,13.1
+Panama,1931,16.4
+Panama,1932,15.8
+Panama,1933,15.6
+Panama,1934,15.7
+Panama,1935,11.9
+Panama,1936,12.7
+Panama,1937,13.1
+Panama,1938,14.2
+Panama,1939,11.4
+Panama,1941,13.3
+Panama,1942,12.8
+Panama,1943,13
+Panama,1944,12.3
+Panama,1945,11.8
+Panama,1946,11.2
+Panama,1947,11.7
+Panama,1948,9.4
+Panama,1949,9
+Panama,1950,9
+Panama,1951,8.1
+Panama,1952,8.1
+Panama,1953,8.8
+Panama,1954,8.4
+Panama,1955,8.8
+Panama,1956,8.8
+Panama,1957,8.9
+Panama,1958,8.3
+Panama,1959,8.7
+Panama,1960,8.7
+Panama,1961,8
+Panama,1962,7.8
+Panama,1963,7
+Panama,1964,7.3
+Panama,1965,7.1
+Panama,1966,7.2
+Panama,1967,6.8
+Panama,1968,7.1
+Panama,1969,7
+Panama,1970,7.1
+Panama,1971,6.7
+Panama,1972,6
+Panama,1973,5.8
+Panama,1974,5.6
+Panama,1975,5.2
+Panama,1976,5.2
+Panama,1977,4.8
+Panama,1978,3.9
+Panama,1986,4
+Panama,1987,4
+Panama,1988,4
+Panama,1989,4
+Panama,1990,4.1
+Panama,1991,3.9
+Panama,1992,3.5
+Panama,1993,3.5
+Panama,1994,      
+Panama,1995,5.1
+Panama,1996,      
+Panama,1997,      
+Panama,1998,      
+Panama,1999,      
+Panama,2000,      
+Panama,2001,      
+Panama,2002,      
+Panama,2003,      
+Panama,2004,      
+Panama,2005,      
+Philippines,1903,43.2
+Philippines,1904,18.9
+Philippines,1905,21
+Philippines,1906,17.8
+Philippines,1907,16.9
+Philippines,1908,22.8
+Philippines,1909,21.1
+Philippines,1910,22.1
+Philippines,1911,21.3
+Philippines,1912,20.6
+Philippines,1913,16.8
+Philippines,1914,17.6
+Philippines,1915,18.6
+Philippines,1916,20
+Philippines,1917,21.1
+Philippines,1918,35.5
+Philippines,1919,31.7
+Philippines,1920,19.2
+Philippines,1921,19.4
+Philippines,1922,18.7
+Philippines,1923,18.5
+Philippines,1926,19.3
+Philippines,1927,18.8
+Philippines,1928,18.3
+Philippines,1929,19.7
+Philippines,1930,19.3
+Philippines,1931,18
+Philippines,1932,15.4
+Philippines,1933,16.2
+Philippines,1934,16.7
+Philippines,1935,17.5
+Philippines,1936,15.9
+Philippines,1937,16.4
+Philippines,1938,16.5
+Philippines,1939,17
+Philippines,1940,16.6
+Philippines,1946,15.1
+Philippines,1947,12.7
+Philippines,1948,12.2
+Philippines,1949,11.8
+Philippines,1950,11.1
+Philippines,1951,11.4
+Philippines,1952,11.2
+Philippines,1953,10.8
+Philippines,1954,9.5
+Philippines,1955,9
+Philippines,1956,9
+Philippines,1957,9.6
+Philippines,1958,8.5
+Philippines,1959,7.4
+Philippines,1960,7.2
+Philippines,1961,7.4
+Philippines,1962,5.8
+Philippines,1963,7.2
+Philippines,1964,7.4
+Philippines,1965,7.4
+Philippines,1966,7.2
+Philippines,1967,7.1
+Philippines,1968,7.5
+Philippines,1969,6.8
+Philippines,1970,6.4
+Philippines,1971,6.6
+Philippines,1972,7.3
+Philippines,1973,7.1
+Philippines,1974,6.9
+Philippines,1975,6.4
+Philippines,1976,6.9
+Philippines,1977,7
+Philippines,1978,6.5
+Philippines,1979,6.6
+Philippines,1980,6.2
+Philippines,1981,8.5
+Philippines,1982,8.4
+Philippines,1983,8.2
+Philippines,1984,8.1
+Philippines,1985,7.9
+Philippines,1986,7.8
+Philippines,1987,7.6
+Philippines,1988,7.5
+Philippines,1993,6.4
+Philippines,1994,4.7
+Philippines,1995,4.8
+Philippines,1996,4.9
+Philippines,1997,6.1
+Philippines,1998,5.7
+Philippines,1999,4.7
+Philippines,2000,4.8
+Philippines,2001,4.9
+Philippines,2002,5
+Philippines,2003,4.9
+Philippines,2004,4.825242614
+Philippines,2005,4.997056098
+Poland,1921,20.9
+Poland,1922,19.9
+Poland,1923,17.5
+Poland,1924,18.2
+Poland,1925,16.8
+Poland,1926,17.8
+Poland,1927,17.3
+Poland,1928,16.4
+Poland,1929,16.7
+Poland,1930,15.6
+Poland,1931,15.5
+Poland,1932,15
+Poland,1933,14.2
+Poland,1934,14.4
+Poland,1935,14
+Poland,1936,14.2
+Poland,1937,14
+Poland,1938,13.7
+Poland,1946,13.4
+Poland,1947,11.3
+Poland,1948,11.2
+Poland,1949,11.6
+Poland,1950,11.6
+Poland,1951,12.4
+Poland,1952,11.1
+Poland,1953,10.2
+Poland,1954,10.3
+Poland,1955,9.6
+Poland,1956,9
+Poland,1957,9.5
+Poland,1958,8.4
+Poland,1959,8.6
+Poland,1960,7.6
+Poland,1961,7.6
+Poland,1962,7.9
+Poland,1963,7.5
+Poland,1964,7.6
+Poland,1965,7.4
+Poland,1966,7.3
+Poland,1967,7.8
+Poland,1968,7.6
+Poland,1969,8.1
+Poland,1970,8.1
+Poland,1971,8.7
+Poland,1972,8
+Poland,1973,8.3
+Poland,1974,8.2
+Poland,1975,8.7
+Poland,1976,8.8
+Poland,1977,9
+Poland,1978,9.3
+Poland,1979,9.2
+Poland,1980,9.9
+Poland,1981,9.2
+Poland,1982,9.2
+Poland,1983,9.5
+Poland,1984,9.9
+Poland,1985,10.3
+Poland,1986,10.1
+Poland,1987,10.1
+Poland,1988,9.8
+Poland,1989,10
+Poland,1990,10.2
+Poland,1991,10.6
+Poland,1992,10.2
+Poland,1993,10.2
+Poland,1994,10.1
+Poland,1995,10
+Poland,1996,10
+Poland,1997,9.8
+Poland,1998,9.7
+Poland,1999,9.9
+Poland,2000,9.6
+Poland,2001,9.5
+Poland,2002,9.4
+Poland,2003,9.6
+Poland,2004,9.5
+Poland,2005,9.7
+Poland,2006,9.694831494
+Poland,2007,9.896797319
+Poland,2008,9.953822694
+Poland,2009,10.08927411
+Poland,2010,9.912034939
+Portugal,1886,20.4
+Portugal,1887,22.1
+Portugal,1888,21.7
+Portugal,1889,22.5
+Portugal,1890,25.2
+Portugal,1891,22.8
+Portugal,1892,20.3
+Portugal,1893,21.4
+Portugal,1894,20.7
+Portugal,1895,20.8
+Portugal,1896,22.7
+Portugal,1897,21.9
+Portugal,1898,21.4
+Portugal,1899,20.2
+Portugal,1900,20.3
+Portugal,1901,20.9
+Portugal,1902,19.7
+Portugal,1903,20.1
+Portugal,1904,18.9
+Portugal,1905,20
+Portugal,1906,22
+Portugal,1907,19.7
+Portugal,1908,20
+Portugal,1909,19.2
+Portugal,1910,19.2
+Portugal,1911,22
+Portugal,1912,20.1
+Portugal,1913,20.6
+Portugal,1914,19.3
+Portugal,1915,20.5
+Portugal,1916,21.6
+Portugal,1917,22.3
+Portugal,1918,41.4
+Portugal,1919,25.4
+Portugal,1920,23.7
+Portugal,1921,20.8
+Portugal,1922,20.4
+Portugal,1923,22.7
+Portugal,1924,20
+Portugal,1925,18.4
+Portugal,1926,19.8
+Portugal,1927,18.8
+Portugal,1928,18.7
+Portugal,1929,17.7
+Portugal,1930,17.1
+Portugal,1931,16.8
+Portugal,1932,17.1
+Portugal,1933,17.2
+Portugal,1934,16.6
+Portugal,1935,17
+Portugal,1936,16.3
+Portugal,1937,15.8
+Portugal,1938,15.4
+Portugal,1939,15.3
+Portugal,1940,15.6
+Portugal,1941,17.4
+Portugal,1942,16.1
+Portugal,1943,15.3
+Portugal,1944,14.8
+Portugal,1945,14.2
+Portugal,1946,14.7
+Portugal,1947,13.3
+Portugal,1948,13
+Portugal,1949,14.1
+Portugal,1950,12.2
+Portugal,1951,12.5
+Portugal,1952,11.8
+Portugal,1953,11.4
+Portugal,1954,11.1
+Portugal,1955,11.6
+Portugal,1956,12.4
+Portugal,1957,11.7
+Portugal,1958,10.5
+Portugal,1959,11.1
+Portugal,1960,10.8
+Portugal,1961,11.2
+Portugal,1962,10.8
+Portugal,1963,10.8
+Portugal,1964,10.6
+Portugal,1965,10.3
+Portugal,1966,10.8
+Portugal,1967,10.2
+Portugal,1968,10
+Portugal,1969,11.1
+Portugal,1970,10.3
+Portugal,1971,11
+Portugal,1972,10.1
+Portugal,1973,10.6
+Portugal,1974,10.7
+Portugal,1975,10.4
+Portugal,1976,10.6
+Portugal,1977,9.9
+Portugal,1978,9.8
+Portugal,1979,9.4
+Portugal,1980,9.6
+Portugal,1981,9.7
+Portugal,1982,9.3
+Portugal,1983,9.6
+Portugal,1984,9.6
+Portugal,1985,9.6
+Portugal,1986,9.4
+Portugal,1987,9.3
+Portugal,1988,9.6
+Portugal,1989,9.7
+Portugal,1990,10.4
+Portugal,1991,10.6
+Portugal,1992,10.3
+Portugal,1993,10.8
+Portugal,1994,10.3
+Portugal,1995,10.5
+Portugal,1996,10.8
+Portugal,1997,10.6
+Portugal,1998,10.7
+Portugal,1999,10.6
+Portugal,2000,10.3
+Portugal,2001,10.2
+Portugal,2002,10.2
+Portugal,2003,10.4
+Portugal,2004,9.7
+Portugal,2005,10.2
+Portugal,2006,9.635930656
+Portugal,2007,9.757610407
+Portugal,2008,9.816978958
+Portugal,2009,9.822166161
+Portugal,2010,9.952576517
+Puerto Rico,1910,23.8
+Puerto Rico,1911,23.3
+Puerto Rico,1912,23.4
+Puerto Rico,1913,19.8
+Puerto Rico,1914,18.7
+Puerto Rico,1915,20.7
+Puerto Rico,1916,23.9
+Puerto Rico,1917,30.9
+Puerto Rico,1918,30.9
+Puerto Rico,1919,23.7
+Puerto Rico,1920,22.8
+Puerto Rico,1921,22.5
+Puerto Rico,1922,21.8
+Puerto Rico,1923,19.6
+Puerto Rico,1924,19.4
+Puerto Rico,1925,23.4
+Puerto Rico,1926,22.3
+Puerto Rico,1927,22.8
+Puerto Rico,1928,19.8
+Puerto Rico,1929,26.8
+Puerto Rico,1930,20.4
+Puerto Rico,1931,22.3
+Puerto Rico,1932,22
+Puerto Rico,1933,22.3
+Puerto Rico,1934,18.9
+Puerto Rico,1935,18
+Puerto Rico,1936,20
+Puerto Rico,1937,20.9
+Puerto Rico,1938,18.7
+Puerto Rico,1939,17.7
+Puerto Rico,1940,18.3
+Puerto Rico,1941,18.3
+Puerto Rico,1942,16.2
+Puerto Rico,1943,14.3
+Puerto Rico,1944,14.4
+Puerto Rico,1945,13.7
+Puerto Rico,1946,12.9
+Puerto Rico,1947,11.8
+Puerto Rico,1948,12
+Puerto Rico,1949,10.6
+Puerto Rico,1950,9.9
+Puerto Rico,1951,10
+Puerto Rico,1952,9.2
+Puerto Rico,1953,8.2
+Puerto Rico,1954,7.6
+Puerto Rico,1955,7.2
+Puerto Rico,1956,7.4
+Puerto Rico,1957,7.1
+Puerto Rico,1958,7
+Puerto Rico,1959,6.8
+Puerto Rico,1960,6.7
+Puerto Rico,1961,6.8
+Puerto Rico,1962,6.7
+Puerto Rico,1963,6.9
+Puerto Rico,1964,7.2
+Puerto Rico,1965,6.8
+Puerto Rico,1966,6.7
+Puerto Rico,1967,6.3
+Puerto Rico,1968,6.5
+Puerto Rico,1969,6.5
+Puerto Rico,1970,6.7
+Puerto Rico,1971,6.5
+Puerto Rico,1972,6.6
+Puerto Rico,1973,6.5
+Puerto Rico,1974,6.4
+Puerto Rico,1975,6.1
+Puerto Rico,1976,6.6
+Puerto Rico,1977,6.5
+Puerto Rico,1978,6.4
+Puerto Rico,1979,6.4
+Puerto Rico,1980,6.4
+Puerto Rico,1981,6.5
+Puerto Rico,1982,6.6
+Puerto Rico,1983,6.6
+Puerto Rico,1984,6.6
+Puerto Rico,1985,7
+Puerto Rico,1986,7.1
+Puerto Rico,1987,7.3
+Puerto Rico,1988,7.6
+Puerto Rico,1989,7.4
+Puerto Rico,1990,7.4
+Puerto Rico,1991,7.4
+Puerto Rico,1992,7.7
+Puerto Rico,1993,7.9
+Puerto Rico,1994,7.7
+Puerto Rico,1996,8
+Puerto Rico,1997,7.8
+Puerto Rico,1998,8
+Puerto Rico,1999,7.7
+Puerto Rico,2000,7.5
+Puerto Rico,2001,7.5
+Puerto Rico,2002,7.3
+Puerto Rico,2003,7.3
+Puerto Rico,2004,7.5
+Puerto Rico,2005,7.6
+Puerto Rico,2006,7.278673733
+Puerto Rico,2007,7.425980532
+Puerto Rico,2008,7.359566944
+Romania,1859,16.9
+Romania,1860,20.3
+Romania,1861,21.6
+Romania,1862,21.8
+Romania,1863,26.2
+Romania,1864,26
+Romania,1865,27.1
+Romania,1866,38
+Romania,1867,25.1
+Romania,1868,25.1
+Romania,1869,24.3
+Romania,1870,26.1
+Romania,1871,26.4
+Romania,1872,30.5
+Romania,1873,32.6
+Romania,1874,34.9
+Romania,1875,32
+Romania,1876,28.3
+Romania,1877,29.8
+Romania,1878,33.2
+Romania,1879,29.2
+Romania,1880,35.9
+Romania,1881,26.7
+Romania,1882,28.2
+Romania,1883,26
+Romania,1884,25.5
+Romania,1885,25
+Romania,1886,26.7
+Romania,1887,30.5
+Romania,1888,30.6
+Romania,1889,27.2
+Romania,1890,28.4
+Romania,1891,30.1
+Romania,1892,34.7
+Romania,1893,30.8
+Romania,1894,31.7
+Romania,1895,27.6
+Romania,1896,29.1
+Romania,1897,29.6
+Romania,1898,26.5
+Romania,1899,27.5
+Romania,1900,24.2
+Romania,1901,26.2
+Romania,1902,27.7
+Romania,1903,24.8
+Romania,1904,24.4
+Romania,1905,24.7
+Romania,1906,23.9
+Romania,1907,26.3
+Romania,1908,27.4
+Romania,1909,27.4
+Romania,1910,24.8
+Romania,1911,25.3
+Romania,1912,22.9
+Romania,1913,26.1
+Romania,1914,23.5
+Romania,1915,24.5
+Romania,1919,20.6
+Romania,1920,25.9
+Romania,1921,22.9
+Romania,1922,22.8
+Romania,1923,22.1
+Romania,1924,22.5
+Romania,1925,21.1
+Romania,1926,21.4
+Romania,1927,22.2
+Romania,1928,19.6
+Romania,1929,21.4
+Romania,1930,19.4
+Romania,1931,20.8
+Romania,1932,21.7
+Romania,1933,18.7
+Romania,1934,20.7
+Romania,1935,21.1
+Romania,1936,19.8
+Romania,1937,19.3
+Romania,1938,19.2
+Romania,1939,18.6
+Romania,1940,19.1
+Romania,1941,19.3
+Romania,1942,19.5
+Romania,1943,18.1
+Romania,1944,19.6
+Romania,1945,20
+Romania,1946,18.8
+Romania,1947,22
+Romania,1948,15.6
+Romania,1949,13.7
+Romania,1950,12.4
+Romania,1951,12.8
+Romania,1952,11.7
+Romania,1953,11.6
+Romania,1954,11.5
+Romania,1955,9.7
+Romania,1956,9.9
+Romania,1957,10.2
+Romania,1958,8.7
+Romania,1959,10.2
+Romania,1960,8.7
+Romania,1961,8.7
+Romania,1962,9.2
+Romania,1963,8.3
+Romania,1964,8.1
+Romania,1965,8.6
+Romania,1966,8.2
+Romania,1967,9.3
+Romania,1968,9.6
+Romania,1969,10.1
+Romania,1970,9.5
+Romania,1971,9.5
+Romania,1972,9.2
+Romania,1973,9.8
+Romania,1974,9.1
+Romania,1975,9.3
+Romania,1976,9.6
+Romania,1977,9.6
+Romania,1978,9.7
+Romania,1979,9.9
+Romania,1980,10.4
+Romania,1981,10
+Romania,1982,10
+Romania,1983,10.4
+Romania,1984,10.3
+Romania,1985,10.9
+Romania,1986,10.6
+Romania,1987,11.1
+Romania,1988,11
+Romania,1989,10.7
+Romania,1990,10.6
+Romania,1991,10.9
+Romania,1992,11.6
+Romania,1993,11.6
+Romania,1994,11.7
+Romania,1995,12
+Romania,1996,12.7
+Romania,1997,12.4
+Romania,1998,12
+Romania,1999,11.8
+Romania,2000,11.4
+Romania,2001,11.6
+Romania,2002,12.4
+Romania,2003,12.3
+Romania,2004,11.9
+Romania,2005,12.1
+Romania,2006,11.95745161
+Romania,2007,11.69886305
+Romania,2008,11.77440456
+Romania,2009,11.98013466
+Romania,2010,12.11507547
+Russia,1861,35.4
+Russia,1862,34
+Russia,1863,37.7
+Russia,1864,38.7
+Russia,1865,36.9
+Russia,1867,36.8
+Russia,1868,39.7
+Russia,1869,38.3
+Russia,1870,35
+Russia,1871,37.9
+Russia,1872,41.2
+Russia,1873,36.5
+Russia,1874,35.2
+Russia,1875,34.6
+Russia,1876,34.9
+Russia,1877,34.4
+Russia,1878,38.2
+Russia,1879,34.8
+Russia,1880,36.1
+Russia,1881,34.1
+Russia,1882,40.4
+Russia,1883,37.5
+Russia,1884,34.4
+Russia,1885,35.8
+Russia,1886,33.2
+Russia,1887,33.8
+Russia,1888,33.4
+Russia,1889,35.5
+Russia,1890,36.7
+Russia,1891,35.8
+Russia,1892,41
+Russia,1893,34.4
+Russia,1894,34.3
+Russia,1895,35.5
+Russia,1896,33.3
+Russia,1897,31.7
+Russia,1898,33.2
+Russia,1899,31.2
+Russia,1900,31.1
+Russia,1901,32.1
+Russia,1902,31.5
+Russia,1903,30
+Russia,1904,29.9
+Russia,1905,31.7
+Russia,1906,29.9
+Russia,1907,28.4
+Russia,1908,28.3
+Russia,1909,29.5
+Russia,1910,31.5
+Russia,1911,27.4
+Russia,1912,26.5
+Russia,1913,27.4
+Russia,1926,19.9
+Russia,1927,20.8
+Russia,1928,23.3
+Russia,1937,18.9
+Russia,1938,17.5
+Russia,1939,17.3
+Russia,1940,18.3
+Russia,1946,10.8
+Russia,1950,9.7
+Russia,1951,9.7
+Russia,1952,9.4
+Russia,1953,9.1
+Russia,1954,8.9
+Russia,1955,8.2
+Russia,1956,7.6
+Russia,1957,7.8
+Russia,1958,7.2
+Russia,1959,7.6
+Russia,1960,7.1
+Russia,1961,7.2
+Russia,1962,7.5
+Russia,1963,7.2
+Russia,1964,6.9
+Russia,1965,7.3
+Russia,1966,7.3
+Russia,1967,7.6
+Russia,1968,7.7
+Russia,1969,8.1
+Russia,1970,8.2
+Russia,1971,8.2
+Russia,1972,8.5
+Russia,1973,8.7
+Russia,1974,8.7
+Russia,1975,9.3
+Russia,1976,9.4
+Russia,1977,9.6
+Russia,1978,9.7
+Russia,1979,10.1
+Russia,1980,10.3
+Russia,1981,10.2
+Russia,1982,10.1
+Russia,1983,10.4
+Russia,1984,10.8
+Russia,1985,10.6
+Russia,1986,9.8
+Russia,1987,9.9
+Russia,1988,10.1
+Russia,1989,10.7
+Russia,1990,11.2
+Russia,1991,11.4
+Russia,1992,12.2
+Russia,1993,14.3
+Russia,1994,13.1
+Russia,1995,14.9
+Russia,1996,14.1
+Russia,1997,13.7
+Russia,1998,13.6
+Russia,1999,14.6
+Russia,2000,15.2
+Russia,2001,15.4
+Russia,2002,16.1
+Russia,2003,16.4
+Russia,2004,16
+Russia,2005,16.1
+Russia,2006,15.20629294
+Russia,2007,14.63917546
+Russia,2008,14.62388359
+Russia,2009,14.16780855
+Russia,2010,14.19155127
+Scotland,1838,22.4
+Scotland,1839,21.8
+Scotland,1840,22.9
+Scotland,1841,21.6
+Scotland,1842,21.7
+Scotland,1843,21.2
+Scotland,1844,21.6
+Scotland,1845,20.9
+Scotland,1846,23
+Scotland,1847,24.7
+Scotland,1848,23
+Scotland,1849,25.1
+Scotland,1855,20.8
+Scotland,1856,19.5
+Scotland,1857,20.6
+Scotland,1858,21
+Scotland,1859,20.3
+Scotland,1860,22.3
+Scotland,1861,20.3
+Scotland,1862,21.7
+Scotland,1863,22.9
+Scotland,1864,23.6
+Scotland,1865,22.3
+Scotland,1866,22.2
+Scotland,1867,21.3
+Scotland,1868,21.2
+Scotland,1869,23
+Scotland,1870,22.2
+Scotland,1871,22.2
+Scotland,1872,22.3
+Scotland,1873,22.4
+Scotland,1874,23.2
+Scotland,1875,23.3
+Scotland,1876,20.9
+Scotland,1877,20.6
+Scotland,1878,21.2
+Scotland,1879,20
+Scotland,1880,20.5
+Scotland,1881,19.3
+Scotland,1882,19.4
+Scotland,1883,20.2
+Scotland,1884,19.6
+Scotland,1885,19.3
+Scotland,1886,19
+Scotland,1887,19
+Scotland,1888,18
+Scotland,1889,18.4
+Scotland,1890,19.7
+Scotland,1891,20.7
+Scotland,1892,18.5
+Scotland,1893,19.3
+Scotland,1894,17.1
+Scotland,1895,19.4
+Scotland,1896,16.6
+Scotland,1897,18.4
+Scotland,1898,18
+Scotland,1899,18.1
+Scotland,1900,18.5
+Scotland,1901,17.9
+Scotland,1902,17.3
+Scotland,1903,16.8
+Scotland,1904,17.1
+Scotland,1905,16.2
+Scotland,1906,16.4
+Scotland,1907,16.6
+Scotland,1908,16.6
+Scotland,1909,15.8
+Scotland,1910,15.3
+Scotland,1911,15.1
+Scotland,1912,15.3
+Scotland,1913,15.5
+Scotland,1914,15.5
+Scotland,1915,17.1
+Scotland,1916,14.7
+Scotland,1917,14.4
+Scotland,1918,16.3
+Scotland,1919,15.6
+Scotland,1920,14
+Scotland,1921,13.6
+Scotland,1922,14.9
+Scotland,1923,12.9
+Scotland,1924,14.5
+Scotland,1925,13.5
+Scotland,1926,13.1
+Scotland,1927,13.6
+Scotland,1928,13.5
+Scotland,1929,14.7
+Scotland,1930,13.3
+Scotland,1931,13.3
+Scotland,1932,13.5
+Scotland,1933,13.2
+Scotland,1934,12.9
+Scotland,1935,13.2
+Scotland,1936,13.4
+Scotland,1937,13.9
+Scotland,1938,12.6
+Scotland,1939,12.9
+Scotland,1940,14.9
+Scotland,1941,14.7
+Scotland,1942,13.3
+Scotland,1943,14
+Scotland,1944,13.6
+Scotland,1945,13.2
+Scotland,1946,13.1
+Scotland,1947,13.1
+Scotland,1948,12
+Scotland,1949,12.5
+Scotland,1950,12.5
+Scotland,1951,12.9
+Scotland,1952,12.1
+Scotland,1953,11.5
+Scotland,1954,12
+Scotland,1955,12.1
+Scotland,1956,12.1
+Scotland,1957,11.9
+Scotland,1958,12.1
+Scotland,1959,12.2
+Scotland,1960,11.9
+Scotland,1961,12.3
+Scotland,1962,12.2
+Scotland,1963,12.6
+Scotland,1964,11.7
+Scotland,1965,12.1
+Scotland,1966,12.2
+Scotland,1967,11.4
+Scotland,1968,12.2
+Scotland,1969,12.3
+Scotland,1970,12.2
+Scotland,1971,11.8
+Scotland,1972,12.5
+Scotland,1973,12.4
+Scotland,1974,12.4
+Scotland,1975,12.1
+Scotland,1976,12.5
+Scotland,1977,11.9
+Scotland,1978,12.5
+Scotland,1979,12.6
+Scotland,1980,12.2
+Scotland,1981,12.3
+Scotland,1982,12.6
+Scotland,1983,12.3
+Scotland,1984,12.4
+Scotland,1985,12.5
+Scotland,1986,12.4
+Scotland,1987,12.1
+Scotland,1988,12.2
+Scotland,1989,12.1
+Scotland,1990,12
+Scotland,1991,12
+Scotland,1992,11.9
+Scotland,1993,12.5
+Scotland,1994,12.4
+Scotland,1995,12.6
+Scotland,1996,11.9
+Scotland,1997,11.8
+Scotland,1998,11.9
+Serbia,1862,38.6
+Serbia,1863,35.1
+Serbia,1864,31.3
+Serbia,1865,25.5
+Serbia,1866,24.3
+Serbia,1867,25.7
+Serbia,1868,32.7
+Serbia,1869,29.7
+Serbia,1870,33.2
+Serbia,1871,32.4
+Serbia,1872,32.1
+Serbia,1873,32.6
+Serbia,1874,36.4
+Serbia,1875,31.3
+Serbia,1876,48.3
+Serbia,1877,33.6
+Serbia,1878,33.4
+Serbia,1879,31.3
+Serbia,1880,31.5
+Serbia,1881,24.7
+Serbia,1882,23.1
+Serbia,1883,22.8
+Serbia,1884,25
+Serbia,1885,26.9
+Serbia,1886,29.6
+Serbia,1887,24.9
+Serbia,1888,24.4
+Serbia,1889,25.5
+Serbia,1890,25.3
+Serbia,1891,26.5
+Serbia,1892,33.5
+Serbia,1893,29.7
+Serbia,1894,28.1
+Serbia,1895,26.9
+Serbia,1896,27
+Serbia,1897,26.5
+Serbia,1898,22.9
+Serbia,1899,24.3
+Serbia,1900,23.5
+Serbia,1901,21
+Serbia,1902,22.3
+Serbia,1903,23.5
+Serbia,1904,21.1
+Serbia,1905,24.8
+Serbia,1906,24.5
+Serbia,1907,22.4
+Serbia,1908,23.7
+Serbia,1909,29.3
+Serbia,1910,22.4
+Serbia,1911,21.8
+Singapore,1900,40
+Singapore,1901,43
+Singapore,1902,39.4
+Singapore,1903,39
+Singapore,1904,40.5
+Singapore,1906,37.8
+Singapore,1907,38.5
+Singapore,1908,42.5
+Singapore,1909,37.1
+Singapore,1910,38.5
+Singapore,1911,46
+Singapore,1912,39
+Singapore,1913,35
+Singapore,1914,34.1
+Singapore,1915,29.2
+Singapore,1916,30.7
+Singapore,1917,37
+Singapore,1918,43.9
+Singapore,1919,33
+Singapore,1920,33.2
+Singapore,1921,31.7
+Singapore,1922,30.6
+Singapore,1923,27.8
+Singapore,1924,27.4
+Singapore,1925,27.2
+Singapore,1926,31.8
+Singapore,1927,33.5
+Singapore,1928,28.8
+Singapore,1929,26.1
+Singapore,1930,27.6
+Singapore,1931,24.2
+Singapore,1932,20.4
+Singapore,1933,22.5
+Singapore,1934,24.1
+Singapore,1935,24.3
+Singapore,1936,24.2
+Singapore,1937,22
+Singapore,1938,21.4
+Singapore,1939,19.5
+Singapore,1940,20.9
+Singapore,1941,20.8
+Singapore,1947,13.3
+Singapore,1948,12.4
+Singapore,1949,11.8
+Singapore,1950,12.1
+Singapore,1951,11.6
+Singapore,1952,10.7
+Singapore,1953,9.7
+Singapore,1954,8.6
+Singapore,1955,8.1
+Singapore,1956,7.5
+Singapore,1957,7.4
+Singapore,1958,7
+Singapore,1959,6.5
+Singapore,1960,6.3
+Singapore,1961,6
+Singapore,1962,5.9
+Singapore,1963,5.8
+Singapore,1964,5.8
+Singapore,1965,5.5
+Singapore,1966,5.5
+Singapore,1967,5.4
+Singapore,1968,5.5
+Singapore,1969,5
+Singapore,1970,5.2
+Singapore,1971,5.4
+Singapore,1972,5.4
+Singapore,1973,5.5
+Singapore,1974,5.3
+Singapore,1975,5.1
+Singapore,1976,5.1
+Singapore,1977,5.1
+Singapore,1978,5.1
+Singapore,1979,5.2
+Singapore,1980,5.2
+Singapore,1981,5.3
+Singapore,1982,5.2
+Singapore,1983,5.3
+Singapore,1984,5.2
+Singapore,1985,5.2
+Singapore,1986,5
+Singapore,1987,5
+Singapore,1988,5.2
+Singapore,1989,5.3
+Singapore,1990,5.1
+Singapore,1991,5
+Singapore,1992,5.1
+Singapore,1993,5
+Singapore,1994,4.4
+Singapore,1995,4.5
+Singapore,1996,4.3
+Singapore,1997,4.1
+Singapore,1998,4.1
+Singapore,1999,4.8
+Singapore,2000,4.8
+Singapore,2001,4.6
+Singapore,2002,4.7
+Singapore,2003,4.7
+Singapore,2004,4.646529751
+Singapore,2005,4.675875195
+Singapore,2006,3.724496751
+Singapore,2007,3.735344114
+Singapore,2008,3.558705625
+Singapore,2009,3.428703184
+South Africa (non-whites),1937,23.4
+South Africa (non-whites),1938,23.6
+South Africa (non-whites),1939,23
+South Africa (non-whites),1940,22.7
+South Africa (non-whites),1941,23.8
+South Africa (non-whites),1942,24.6
+South Africa (non-whites),1943,23.8
+South Africa (non-whites),1944,24.4
+South Africa (non-whites),1945,22.7
+South Africa (non-whites),1946,20.6
+South Africa (non-whites),1947,20.3
+South Africa (non-whites),1948,21.2
+South Africa (non-whites),1949,22
+South Africa (non-whites),1950,20.3
+South Africa (non-whites),1951,19.4
+South Africa (non-whites),1952,18.4
+South Africa (non-whites),1953,17.7
+South Africa (non-whites),1954,17.3
+South Africa (non-whites),1955,16.6
+South Africa (non-whites),1956,16.5
+South Africa (non-whites),1957,15.9
+South Africa (non-whites),1958,16.4
+South Africa (non-whites),1959,15
+South Africa (non-whites),1960,15.6
+South Africa (non-whites),1961,15.4
+South Africa (non-whites),1962,15
+South Africa (non-whites),1963,15.4
+South Africa (non-whites),1964,14.6
+South Africa (non-whites),1965,15
+South Africa (non-whites),1966,14.8
+South Africa (non-whites),1967,15.3
+South Africa (non-whites),1968,14.3
+South Africa (non-whites),1969,13.9
+South Africa (non-whites),1970,13.3
+South Africa (non-whites),1971,12.5
+South Africa (non-whites),1972,12.2
+South Africa (non-whites),1973,12.2
+South Africa (non-whites),1974,12.4
+South Africa (non-whites),1975,11.4
+South Africa (non-whites),1976,11.6
+South Africa (non-whites),1977,10.1
+South Africa (non-whites),1978,8.8
+South Africa (non-whites),1979,9
+South Africa (non-whites),1980,8.9
+South Africa (non-whites),1981,9.6
+South Africa (non-whites),1982,9.6
+South Africa (non-whites),1983,9
+South Africa (non-whites),1984,8.9
+South Africa (non-whites),1985,7.7
+South Africa (non-whites),1986,7.9
+South Africa (non-whites),1987,9.2
+South Africa (non-whites),1988,8.7
+South Africa (non-whites),1989,7.7
+South Africa (non-whites),1990,7.7
+South Africa (whites),1910,10.8
+South Africa (whites),1911,10.4
+South Africa (whites),1912,10.3
+South Africa (whites),1913,10.3
+South Africa (whites),1914,9.5
+South Africa (whites),1915,10.3
+South Africa (whites),1916,10.2
+South Africa (whites),1917,10.3
+South Africa (whites),1918,17.2
+South Africa (whites),1919,11.9
+South Africa (whites),1920,11.1
+South Africa (whites),1921,10.4
+South Africa (whites),1922,9.5
+South Africa (whites),1923,9.7
+South Africa (whites),1924,9.6
+South Africa (whites),1925,9.3
+South Africa (whites),1926,9.6
+South Africa (whites),1927,9.7
+South Africa (whites),1928,10.1
+South Africa (whites),1929,9.5
+South Africa (whites),1930,9.7
+South Africa (whites),1931,9.4
+South Africa (whites),1932,9.9
+South Africa (whites),1933,9.3
+South Africa (whites),1934,9.6
+South Africa (whites),1935,10.5
+South Africa (whites),1936,9.6
+South Africa (whites),1937,10.1
+South Africa (whites),1938,9.5
+South Africa (whites),1939,9.4
+South Africa (whites),1940,9.4
+South Africa (whites),1941,9.4
+South Africa (whites),1942,9.3
+South Africa (whites),1943,9.5
+South Africa (whites),1944,9.3
+South Africa (whites),1945,9.3
+South Africa (whites),1946,8.7
+South Africa (whites),1947,8.6
+South Africa (whites),1948,8.9
+South Africa (whites),1949,8.8
+South Africa (whites),1950,8.7
+South Africa (whites),1951,8.8
+South Africa (whites),1952,8.2
+South Africa (whites),1953,8.6
+South Africa (whites),1954,8.6
+South Africa (whites),1955,8.1
+South Africa (whites),1956,8.6
+South Africa (whites),1957,8.5
+South Africa (whites),1958,8.6
+South Africa (whites),1959,8.7
+South Africa (whites),1960,8.7
+South Africa (whites),1961,8.7
+South Africa (whites),1962,8.8
+South Africa (whites),1963,9
+South Africa (whites),1964,9
+South Africa (whites),1965,9
+South Africa (whites),1966,8.7
+South Africa (whites),1967,8.9
+South Africa (whites),1968,8.9
+South Africa (whites),1969,8.7
+South Africa (whites),1970,8.9
+South Africa (whites),1971,8.4
+South Africa (whites),1972,8.4
+South Africa (whites),1973,8.3
+South Africa (whites),1974,8.5
+South Africa (whites),1975,8.4
+South Africa (whites),1976,8.6
+South Africa (whites),1977,8.2
+South Africa (whites),1978,8.2
+South Africa (whites),1979,8
+South Africa (whites),1980,8.3
+South Africa (whites),1981,8.6
+South Africa (whites),1982,8.3
+South Africa (whites),1983,8
+South Africa (whites),1984,8
+South Africa (whites),1985,7.7
+South Africa (whites),1986,7.8
+South Africa (whites),1987,8.1
+South Africa (whites),1988,8.1
+South Africa (whites),1989,7
+South Africa (whites),1990,6.7
+Spain,1858,28
+Spain,1859,28.8
+Spain,1860,27.4
+Spain,1861,26.6
+Spain,1862,27.3
+Spain,1863,29.2
+Spain,1864,31.5
+Spain,1865,33.8
+Spain,1866,29
+Spain,1867,30.4
+Spain,1868,34.1
+Spain,1869,34.1
+Spain,1870,31.6
+Spain,1878,30.5
+Spain,1879,30.5
+Spain,1880,30.1
+Spain,1881,30.2
+Spain,1882,31.4
+Spain,1883,32.7
+Spain,1884,30.6
+Spain,1885,38
+Spain,1886,29.2
+Spain,1887,32.8
+Spain,1888,30.1
+Spain,1889,30.4
+Spain,1890,32.1
+Spain,1891,31.8
+Spain,1892,30.6
+Spain,1893,29.7
+Spain,1894,30.3
+Spain,1895,29
+Spain,1896,29.6
+Spain,1897,28.4
+Spain,1898,28.2
+Spain,1899,28.8
+Spain,1900,29
+Spain,1901,27.8
+Spain,1902,26.1
+Spain,1903,25
+Spain,1904,25.7
+Spain,1905,25.7
+Spain,1906,25.9
+Spain,1907,24.4
+Spain,1908,23.6
+Spain,1909,23.7
+Spain,1910,23.1
+Spain,1911,23.4
+Spain,1912,21.3
+Spain,1913,22.3
+Spain,1914,22.2
+Spain,1915,22.1
+Spain,1916,21.4
+Spain,1917,22.5
+Spain,1918,33.3
+Spain,1919,23
+Spain,1920,23.4
+Spain,1921,21.4
+Spain,1922,20.5
+Spain,1923,20.7
+Spain,1924,19.6
+Spain,1925,19.2
+Spain,1926,18.8
+Spain,1927,18.6
+Spain,1928,18.1
+Spain,1929,17.6
+Spain,1930,16.9
+Spain,1931,17.4
+Spain,1932,16.4
+Spain,1933,16.4
+Spain,1934,16
+Spain,1935,15.7
+Spain,1936,16.7
+Spain,1937,18.9
+Spain,1938,19.2
+Spain,1939,18.4
+Spain,1940,16.5
+Spain,1941,18.6
+Spain,1942,14.7
+Spain,1943,13.2
+Spain,1944,13
+Spain,1945,12.2
+Spain,1946,12.9
+Spain,1947,12
+Spain,1948,10.9
+Spain,1949,11.4
+Spain,1950,10.8
+Spain,1951,11.5
+Spain,1952,9.6
+Spain,1953,9.6
+Spain,1954,9
+Spain,1955,9.3
+Spain,1956,9.7
+Spain,1957,9.8
+Spain,1958,8.6
+Spain,1959,8.8
+Spain,1960,8.7
+Spain,1961,8.4
+Spain,1962,8.8
+Spain,1963,8.9
+Spain,1964,8.5
+Spain,1965,8.4
+Spain,1966,8.4
+Spain,1967,8.4
+Spain,1968,8.4
+Spain,1969,8.9
+Spain,1970,8.3
+Spain,1971,8.9
+Spain,1972,8.1
+Spain,1973,8.5
+Spain,1974,8.4
+Spain,1975,8.4
+Spain,1976,8.3
+Spain,1977,8.1
+Spain,1978,8.1
+Spain,1979,7.9
+Spain,1980,7.8
+Spain,1981,7.8
+Spain,1982,7.8
+Spain,1983,7.9
+Spain,1984,7.8
+Spain,1985,8.1
+Spain,1986,7.9
+Spain,1987,8
+Spain,1988,8.2
+Spain,1989,8.4
+Spain,1990,8.6
+Spain,1991,8.7
+Spain,1993,8.7
+Spain,1994,8.6
+Spain,1995,8.8
+Spain,1996,8.9
+Spain,1997,8.9
+Spain,1998,8.9
+Spain,1999,9.3
+Spain,2000,9
+Spain,2001,8.9
+Spain,2002,8.9
+Spain,2003,9.2
+Spain,2004,8.7
+Spain,2005,8.9
+Spain,2006,8.429607497
+Spain,2007,8.587705987
+Spain,2008,8.473246722
+Spain,2009,8.380957725
+Spain,2010,8.232298816
+Sri Lanka,1843,19
+Sri Lanka,1847,13.8
+Sri Lanka,1848,14.6
+Sri Lanka,1849,16.8
+Sri Lanka,1850,14
+Sri Lanka,1851,14.8
+Sri Lanka,1852,15.1
+Sri Lanka,1853,17.1
+Sri Lanka,1854,29.9
+Sri Lanka,1855,24.9
+Sri Lanka,1856,18.1
+Sri Lanka,1857,15.4
+Sri Lanka,1858,17.7
+Sri Lanka,1859,15.9
+Sri Lanka,1860,20.1
+Sri Lanka,1861,19.5
+Sri Lanka,1862,16.2
+Sri Lanka,1863,12.8
+Sri Lanka,1864,19.5
+Sri Lanka,1865,14.8
+Sri Lanka,1866,18.7
+Sri Lanka,1867,21.1
+Sri Lanka,1868,27
+Sri Lanka,1869,22.2
+Sri Lanka,1870,18.9
+Sri Lanka,1871,19.5
+Sri Lanka,1872,22.2
+Sri Lanka,1873,20.1
+Sri Lanka,1874,20.6
+Sri Lanka,1875,21.7
+Sri Lanka,1876,23.3
+Sri Lanka,1878,27.3
+Sri Lanka,1879,22.7
+Sri Lanka,1880,18.8
+Sri Lanka,1881,27.1
+Sri Lanka,1882,19.6
+Sri Lanka,1883,19.1
+Sri Lanka,1884,22
+Sri Lanka,1885,28.6
+Sri Lanka,1886,23.2
+Sri Lanka,1887,23.5
+Sri Lanka,1888,26.1
+Sri Lanka,1889,28.3
+Sri Lanka,1890,23
+Sri Lanka,1891,28.8
+Sri Lanka,1892,27.7
+Sri Lanka,1893,29.6
+Sri Lanka,1894,27.6
+Sri Lanka,1895,27.3
+Sri Lanka,1896,24.9
+Sri Lanka,1897,23.5
+Sri Lanka,1898,26.6
+Sri Lanka,1899,30.3
+Sri Lanka,1900,28.7
+Sri Lanka,1901,27.6
+Sri Lanka,1902,27.5
+Sri Lanka,1903,25.9
+Sri Lanka,1904,24.9
+Sri Lanka,1905,27.7
+Sri Lanka,1906,35.1
+Sri Lanka,1907,30.7
+Sri Lanka,1908,30.1
+Sri Lanka,1909,31
+Sri Lanka,1910,27.3
+Sri Lanka,1911,34.7
+Sri Lanka,1912,32.3
+Sri Lanka,1913,28.4
+Sri Lanka,1914,32
+Sri Lanka,1915,25.4
+Sri Lanka,1916,27.4
+Sri Lanka,1917,25.5
+Sri Lanka,1918,33.4
+Sri Lanka,1919,37.5
+Sri Lanka,1920,29.5
+Sri Lanka,1921,31.1
+Sri Lanka,1922,27.5
+Sri Lanka,1923,30.3
+Sri Lanka,1924,25.8
+Sri Lanka,1925,24.2
+Sri Lanka,1926,25.3
+Sri Lanka,1927,22.6
+Sri Lanka,1928,26
+Sri Lanka,1929,26.2
+Sri Lanka,1930,25.5
+Sri Lanka,1931,22.1
+Sri Lanka,1932,20.5
+Sri Lanka,1933,21.2
+Sri Lanka,1934,22.9
+Sri Lanka,1935,36.5
+Sri Lanka,1936,21.8
+Sri Lanka,1937,21.7
+Sri Lanka,1938,21
+Sri Lanka,1939,21.7
+Sri Lanka,1940,20.6
+Sri Lanka,1941,18.3
+Sri Lanka,1942,18.1
+Sri Lanka,1943,20.8
+Sri Lanka,1944,20.8
+Sri Lanka,1945,21.5
+Sri Lanka,1946,19.8
+Sri Lanka,1947,14
+Sri Lanka,1948,12.9
+Sri Lanka,1949,12.3
+Sri Lanka,1950,12.4
+Sri Lanka,1951,12.7
+Sri Lanka,1952,11.8
+Sri Lanka,1953,10.7
+Sri Lanka,1954,10.2
+Sri Lanka,1955,10.8
+Sri Lanka,1956,9.8
+Sri Lanka,1957,10.1
+Sri Lanka,1958,9.7
+Sri Lanka,1959,9.1
+Sri Lanka,1960,8.6
+Sri Lanka,1961,8
+Sri Lanka,1962,8.5
+Sri Lanka,1963,8.7
+Sri Lanka,1964,8.8
+Sri Lanka,1965,8.2
+Sri Lanka,1966,8.3
+Sri Lanka,1967,7.5
+Sri Lanka,1968,7.9
+Sri Lanka,1969,8.4
+Sri Lanka,1970,7.5
+Sri Lanka,1971,7.7
+Sri Lanka,1972,8
+Sri Lanka,1973,7.7
+Sri Lanka,1974,9
+Sri Lanka,1975,8.5
+Sri Lanka,1976,7.8
+Sri Lanka,1977,7.4
+Sri Lanka,1978,6.6
+Sri Lanka,1979,6.5
+Sri Lanka,1980,6.2
+Sri Lanka,1981,5.9
+Sri Lanka,1982,6.1
+Sri Lanka,1983,6.2
+Sri Lanka,1984,6.5
+Sri Lanka,1985,6.2
+Sri Lanka,1986,6
+Sri Lanka,1987,5.9
+Sri Lanka,1988,5.8
+Sri Lanka,1989,6.2
+Sri Lanka,1990,5.7
+Sri Lanka,1991,5.6
+Sri Lanka,1992,5.6
+Sri Lanka,1993,5.7
+Sri Lanka,1994,5.8
+Sri Lanka,1995,5.8
+Sri Lanka,1996,6.7
+Sri Lanka,1997,6.1
+Sri Lanka,1998,6
+Sri Lanka,1999,6
+Sri Lanka,2000,5.7
+Sri Lanka,2002,5.8
+Sri Lanka,2003,5.9
+Sri Lanka,2004,5.91278621
+Sri Lanka,2005,6.724546936
+Sri Lanka,2006,5.915348978
+Sri Lanka,2007,5.938320276
+Sri Lanka,2008,5.850761773
+Sri Lanka,2009,5.872127139
+Sri Lanka,2010,6.226843558
+Sweden,1749,28.1
+Sweden,1750,26.9
+Sweden,1751,26.2
+Sweden,1752,27.3
+Sweden,1753,24
+Sweden,1754,26.3
+Sweden,1755,27.4
+Sweden,1756,27.7
+Sweden,1757,29.9
+Sweden,1758,32.4
+Sweden,1759,26.3
+Sweden,1760,24.8
+Sweden,1761,25.8
+Sweden,1762,31.2
+Sweden,1763,32.9
+Sweden,1764,27.2
+Sweden,1765,27.7
+Sweden,1766,25.1
+Sweden,1767,25.6
+Sweden,1768,27.2
+Sweden,1769,27.2
+Sweden,1770,26.1
+Sweden,1771,27.8
+Sweden,1772,37.4
+Sweden,1773,52.5
+Sweden,1774,22.4
+Sweden,1775,24.8
+Sweden,1776,22.5
+Sweden,1777,24.9
+Sweden,1778,26.7
+Sweden,1779,28.5
+Sweden,1780,21.7
+Sweden,1781,25.6
+Sweden,1782,27.3
+Sweden,1783,28.1
+Sweden,1784,29.8
+Sweden,1785,28.3
+Sweden,1786,25.9
+Sweden,1787,24
+Sweden,1788,26.7
+Sweden,1789,33.1
+Sweden,1790,30.5
+Sweden,1791,25.5
+Sweden,1792,23.9
+Sweden,1793,24.3
+Sweden,1794,23.6
+Sweden,1795,27.9
+Sweden,1796,24.7
+Sweden,1797,23.8
+Sweden,1798,23.1
+Sweden,1799,25.2
+Sweden,1800,31.4
+Sweden,1801,26.1
+Sweden,1802,23.7
+Sweden,1803,23.8
+Sweden,1804,24.9
+Sweden,1805,23.5
+Sweden,1806,27.5
+Sweden,1807,26.2
+Sweden,1808,34.9
+Sweden,1809,40
+Sweden,1810,31.6
+Sweden,1811,28.8
+Sweden,1812,30.3
+Sweden,1813,27.4
+Sweden,1814,25.1
+Sweden,1815,23.6
+Sweden,1816,22.7
+Sweden,1817,24.3
+Sweden,1818,24.4
+Sweden,1819,27.4
+Sweden,1820,24.5
+Sweden,1821,25.6
+Sweden,1822,22.6
+Sweden,1823,21
+Sweden,1824,20.8
+Sweden,1825,20.5
+Sweden,1826,22.6
+Sweden,1827,23.1
+Sweden,1828,26.7
+Sweden,1829,29
+Sweden,1830,24.1
+Sweden,1831,26
+Sweden,1832,23.4
+Sweden,1833,21.7
+Sweden,1834,25.7
+Sweden,1835,18.6
+Sweden,1836,20
+Sweden,1837,24.7
+Sweden,1838,24.1
+Sweden,1839,23.6
+Sweden,1840,20.4
+Sweden,1841,19.4
+Sweden,1842,21.1
+Sweden,1843,21.5
+Sweden,1844,20.3
+Sweden,1845,18.8
+Sweden,1846,21.8
+Sweden,1847,23.7
+Sweden,1848,19.7
+Sweden,1849,19.8
+Sweden,1850,19.8
+Sweden,1851,20.7
+Sweden,1852,22.7
+Sweden,1853,23.7
+Sweden,1854,19.8
+Sweden,1855,21.5
+Sweden,1856,21.8
+Sweden,1857,27.6
+Sweden,1858,21.7
+Sweden,1859,20.1
+Sweden,1860,17.7
+Sweden,1861,18.5
+Sweden,1862,21.4
+Sweden,1863,19.3
+Sweden,1864,20.3
+Sweden,1865,19.4
+Sweden,1866,20
+Sweden,1867,19.6
+Sweden,1868,21
+Sweden,1869,22.3
+Sweden,1870,19.8
+Sweden,1871,17.2
+Sweden,1872,16.3
+Sweden,1873,17.2
+Sweden,1874,20.3
+Sweden,1875,20.3
+Sweden,1876,19.6
+Sweden,1877,18.7
+Sweden,1878,18.1
+Sweden,1879,16.9
+Sweden,1880,18.1
+Sweden,1881,17.7
+Sweden,1882,17.4
+Sweden,1883,17.3
+Sweden,1884,17.5
+Sweden,1885,17.8
+Sweden,1886,16.6
+Sweden,1887,16.1
+Sweden,1888,16
+Sweden,1889,16
+Sweden,1890,17.1
+Sweden,1891,16.8
+Sweden,1892,17.9
+Sweden,1893,16.8
+Sweden,1894,16.4
+Sweden,1895,15.2
+Sweden,1896,15.6
+Sweden,1897,15.4
+Sweden,1898,15.1
+Sweden,1899,17.7
+Sweden,1900,16.8
+Sweden,1901,16.1
+Sweden,1902,15.4
+Sweden,1903,15.1
+Sweden,1904,15.3
+Sweden,1905,15.6
+Sweden,1906,14.4
+Sweden,1907,14.6
+Sweden,1908,14.9
+Sweden,1909,13.7
+Sweden,1910,14
+Sweden,1911,13.8
+Sweden,1912,14.2
+Sweden,1913,13.7
+Sweden,1914,13.8
+Sweden,1915,14.7
+Sweden,1916,13.6
+Sweden,1917,13.4
+Sweden,1918,18
+Sweden,1919,14.5
+Sweden,1920,13.3
+Sweden,1921,12.4
+Sweden,1922,12.8
+Sweden,1923,11.4
+Sweden,1924,12
+Sweden,1925,11.7
+Sweden,1926,11.8
+Sweden,1927,12.7
+Sweden,1928,12
+Sweden,1929,12.2
+Sweden,1930,11.7
+Sweden,1931,12.5
+Sweden,1932,11.6
+Sweden,1933,11.2
+Sweden,1934,11.2
+Sweden,1935,11.7
+Sweden,1936,12
+Sweden,1937,12
+Sweden,1938,11.5
+Sweden,1939,11.5
+Sweden,1940,11.4
+Sweden,1941,11.3
+Sweden,1942,9.9
+Sweden,1943,10.2
+Sweden,1944,11
+Sweden,1945,10.8
+Sweden,1946,10.5
+Sweden,1947,10.8
+Sweden,1948,9.8
+Sweden,1949,10
+Sweden,1950,10
+Sweden,1951,9.9
+Sweden,1952,9.6
+Sweden,1953,9.7
+Sweden,1954,9.6
+Sweden,1955,9.5
+Sweden,1956,9.6
+Sweden,1957,9.9
+Sweden,1958,9.6
+Sweden,1959,9.5
+Sweden,1960,10
+Sweden,1961,9.8
+Sweden,1962,10.2
+Sweden,1963,10.1
+Sweden,1964,10
+Sweden,1965,10.1
+Sweden,1966,10.1
+Sweden,1967,10.1
+Sweden,1968,10.4
+Sweden,1969,10.5
+Sweden,1970,9.9
+Sweden,1971,10.2
+Sweden,1972,10.3
+Sweden,1973,10.5
+Sweden,1974,10.6
+Sweden,1975,10.8
+Sweden,1976,11
+Sweden,1977,10.7
+Sweden,1978,10.8
+Sweden,1979,11
+Sweden,1980,11
+Sweden,1981,11.1
+Sweden,1982,10.9
+Sweden,1983,10.9
+Sweden,1984,10.9
+Sweden,1985,11.3
+Sweden,1986,11.1
+Sweden,1987,11.1
+Sweden,1988,11.5
+Sweden,1989,10.8
+Sweden,1990,11.1
+Sweden,1991,11
+Sweden,1992,10.9
+Sweden,1993,11.1
+Sweden,1994,11
+Sweden,1995,11
+Sweden,1996,10.6
+Sweden,1997,10.5
+Sweden,1998,10.5
+Sweden,1999,10.7
+Sweden,2000,10.5
+Sweden,2001,10.5
+Sweden,2002,10.6
+Sweden,2003,10.4
+Sweden,2004,10.1
+Sweden,2005,10.2
+Sweden,2006,10.04096138
+Sweden,2007,10.02711822
+Sweden,2008,9.918937156
+Sweden,2009,9.687568912
+Sweden,2010,9.648729394
+Switzerland,1870,25.8
+Switzerland,1871,27.6
+Switzerland,1872,22.2
+Switzerland,1873,22.7
+Switzerland,1874,22.3
+Switzerland,1875,24
+Switzerland,1876,24.1
+Switzerland,1877,23.5
+Switzerland,1878,23.3
+Switzerland,1879,22.6
+Switzerland,1880,21.9
+Switzerland,1881,22.4
+Switzerland,1882,21.9
+Switzerland,1883,20.4
+Switzerland,1884,20.2
+Switzerland,1885,21.3
+Switzerland,1886,20.7
+Switzerland,1887,20.2
+Switzerland,1888,19.9
+Switzerland,1889,20.3
+Switzerland,1890,20.9
+Switzerland,1891,20.6
+Switzerland,1892,19
+Switzerland,1893,20.1
+Switzerland,1894,20.1
+Switzerland,1895,19.2
+Switzerland,1896,17.8
+Switzerland,1897,17.7
+Switzerland,1898,18.3
+Switzerland,1899,17.7
+Switzerland,1900,19.3
+Switzerland,1901,18
+Switzerland,1902,17
+Switzerland,1903,17.4
+Switzerland,1904,17.5
+Switzerland,1905,17.6
+Switzerland,1906,16.6
+Switzerland,1907,16.4
+Switzerland,1908,15.8
+Switzerland,1909,16.1
+Switzerland,1910,15.1
+Switzerland,1911,15.8
+Switzerland,1912,14.2
+Switzerland,1913,14.3
+Switzerland,1914,13.8
+Switzerland,1915,13.3
+Switzerland,1916,13
+Switzerland,1917,13.7
+Switzerland,1918,19.3
+Switzerland,1919,14.2
+Switzerland,1920,14.4
+Switzerland,1921,12.8
+Switzerland,1922,13
+Switzerland,1923,11.8
+Switzerland,1924,12.6
+Switzerland,1925,12.2
+Switzerland,1926,11.8
+Switzerland,1927,12.4
+Switzerland,1928,12
+Switzerland,1929,12.5
+Switzerland,1930,11.6
+Switzerland,1931,12.1
+Switzerland,1932,12.2
+Switzerland,1933,11.4
+Switzerland,1934,11.3
+Switzerland,1935,12.1
+Switzerland,1936,11.4
+Switzerland,1937,11.3
+Switzerland,1938,11.6
+Switzerland,1939,11.8
+Switzerland,1940,12
+Switzerland,1941,11.1
+Switzerland,1942,10.9
+Switzerland,1943,11
+Switzerland,1944,12
+Switzerland,1945,11.6
+Switzerland,1946,11.3
+Switzerland,1947,11.4
+Switzerland,1948,10.8
+Switzerland,1949,10.7
+Switzerland,1950,10.1
+Switzerland,1951,10.5
+Switzerland,1952,9.9
+Switzerland,1953,10.2
+Switzerland,1954,10
+Switzerland,1955,10.1
+Switzerland,1956,10.2
+Switzerland,1957,10
+Switzerland,1958,9.5
+Switzerland,1959,9.5
+Switzerland,1960,9.7
+Switzerland,1961,9.5
+Switzerland,1962,9.9
+Switzerland,1963,10.1
+Switzerland,1964,9.3
+Switzerland,1965,9.5
+Switzerland,1966,9.4
+Switzerland,1967,9.2
+Switzerland,1968,9.5
+Switzerland,1969,9.5
+Switzerland,1970,9.2
+Switzerland,1971,9.3
+Switzerland,1972,8.8
+Switzerland,1973,8.9
+Switzerland,1974,8.8
+Switzerland,1975,8.7
+Switzerland,1976,9
+Switzerland,1977,8.8
+Switzerland,1978,9.1
+Switzerland,1979,9
+Switzerland,1980,9.3
+Switzerland,1981,9.3
+Switzerland,1982,9.2
+Switzerland,1983,9.3
+Switzerland,1984,9.1
+Switzerland,1985,9.2
+Switzerland,1986,9.2
+Switzerland,1987,9.1
+Switzerland,1988,9.2
+Switzerland,1989,9.2
+Switzerland,1990,9.5
+Switzerland,1991,9.2
+Switzerland,1992,9.1
+Switzerland,1993,9
+Switzerland,1994,9
+Switzerland,1995,9
+Switzerland,1996,8.9
+Switzerland,1997,8.5
+Switzerland,1998,8.8
+Switzerland,1999,8.7
+Switzerland,2000,8.7
+Switzerland,2001,8.5
+Switzerland,2002,8.5
+Switzerland,2003,8.6
+Switzerland,2004,8.1
+Switzerland,2005,8.2
+Switzerland,2006,8.054987116
+Switzerland,2007,8.090061378
+Switzerland,2008,8.006746102
+Switzerland,2009,8.067840315
+Switzerland,2010,7.986043718
+Taiwan,1906,33.4
+Taiwan,1907,32.4
+Taiwan,1908,31.9
+Taiwan,1909,31.1
+Taiwan,1910,27.5
+Taiwan,1911,26.2
+Taiwan,1912,25
+Taiwan,1913,25
+Taiwan,1914,27.6
+Taiwan,1915,31.5
+Taiwan,1916,28.6
+Taiwan,1917,27
+Taiwan,1918,34.1
+Taiwan,1919,26.8
+Taiwan,1920,32.1
+Taiwan,1921,24.2
+Taiwan,1922,24.6
+Taiwan,1923,21.3
+Taiwan,1924,24.5
+Taiwan,1925,23.9
+Taiwan,1926,22.4
+Taiwan,1927,22.1
+Taiwan,1928,22
+Taiwan,1929,21.6
+Taiwan,1930,19.4
+Taiwan,1931,21.3
+Taiwan,1932,20.4
+Taiwan,1933,19.7
+Taiwan,1934,20.5
+Taiwan,1935,20.3
+Taiwan,1936,19.8
+Taiwan,1937,19.7
+Taiwan,1938,19.7
+Taiwan,1939,19.8
+Taiwan,1940,19.4
+Taiwan,1941,16.2
+Taiwan,1942,17.7
+Taiwan,1943,18.8
+Taiwan,1947,18.1
+Taiwan,1948,14.3
+Taiwan,1949,13.1
+Taiwan,1950,11.5
+Taiwan,1951,11.6
+Taiwan,1952,9.9
+Taiwan,1953,9.4
+Taiwan,1954,8.2
+Taiwan,1955,8.6
+Taiwan,1956,8
+Taiwan,1957,8.5
+Taiwan,1958,7.6
+Taiwan,1959,7.2
+Taiwan,1960,7
+Taiwan,1961,6.7
+Taiwan,1962,6.4
+Taiwan,1963,6.1
+Taiwan,1964,5.7
+Taiwan,1965,5.5
+Taiwan,1966,5.5
+Taiwan,1967,5.5
+Taiwan,1968,5.5
+Taiwan,1969,5
+Taiwan,1970,4.9
+Taiwan,1971,4.8
+Taiwan,1972,4.7
+Taiwan,1973,4.8
+Taiwan,1974,4.8
+Taiwan,1975,4.7
+Taiwan,1976,4.7
+Taiwan,1977,4.8
+Taiwan,1978,4.7
+Taiwan,1979,4.7
+Taiwan,1980,4.8
+Taiwan,1981,4.8
+Taiwan,1982,4.8
+Taiwan,1983,4.9
+Taiwan,1984,4.7
+Taiwan,1985,4.8
+Taiwan,1986,4.9
+Taiwan,1987,4.9
+Taiwan,1988,5.1
+Taiwan,1989,5.2
+Taiwan,1990,5.2
+Taiwan,1991,5.2
+Taiwan,1992,5.3
+Taiwan,1993,5.3
+Taiwan,1994,5.4
+Taiwan,1995,5.6
+Taiwan,1996,5.7
+Taiwan,1997,5.6
+Taiwan,1998,5.6
+Taiwan,1999,5.7
+Taiwan,2000,5.7
+Taiwan,2001,5.7
+Taiwan,2002,5.7
+Taiwan,2003,5.8
+Taiwan,2004,6
+Taiwan,2005,6.1
+Taiwan,2006,6
+Taiwan,2007,6.2
+Taiwan,2008,6.3
+Taiwan,2009,6.2
+Taiwan,2010,6.3
+Trinidad and Tobago,1883,29.2
+Trinidad and Tobago,1884,27.9
+Trinidad and Tobago,1885,28.7
+Trinidad and Tobago,1886,27.9
+Trinidad and Tobago,1887,27.3
+Trinidad and Tobago,1888,31
+Trinidad and Tobago,1889,30.1
+Trinidad and Tobago,1890,28.5
+Trinidad and Tobago,1891,27
+Trinidad and Tobago,1892,24.8
+Trinidad and Tobago,1893,27.5
+Trinidad and Tobago,1894,24.9
+Trinidad and Tobago,1895,25.3
+Trinidad and Tobago,1896,26.6
+Trinidad and Tobago,1897,28.4
+Trinidad and Tobago,1898,26.3
+Trinidad and Tobago,1899,24.4
+Trinidad and Tobago,1900,25
+Trinidad and Tobago,1901,25.2
+Trinidad and Tobago,1902,23.5
+Trinidad and Tobago,1903,24.5
+Trinidad and Tobago,1904,21.3
+Trinidad and Tobago,1905,26.3
+Trinidad and Tobago,1906,25.3
+Trinidad and Tobago,1907,25.4
+Trinidad and Tobago,1908,23.1
+Trinidad and Tobago,1909,21.8
+Trinidad and Tobago,1910,20.8
+Trinidad and Tobago,1911,23.2
+Trinidad and Tobago,1912,29.7
+Trinidad and Tobago,1913,23.1
+Trinidad and Tobago,1914,23.2
+Trinidad and Tobago,1915,21.3
+Trinidad and Tobago,1916,20.4
+Trinidad and Tobago,1917,21.3
+Trinidad and Tobago,1918,21.7
+Trinidad and Tobago,1919,24.5
+Trinidad and Tobago,1920,23.8
+Trinidad and Tobago,1921,23.2
+Trinidad and Tobago,1922,22.7
+Trinidad and Tobago,1923,20.9
+Trinidad and Tobago,1924,20
+Trinidad and Tobago,1925,20.6
+Trinidad and Tobago,1926,22
+Trinidad and Tobago,1927,18.7
+Trinidad and Tobago,1928,19.9
+Trinidad and Tobago,1929,19.4
+Trinidad and Tobago,1930,19.1
+Trinidad and Tobago,1931,20.1
+Trinidad and Tobago,1932,17.1
+Trinidad and Tobago,1933,19.6
+Trinidad and Tobago,1934,18.6
+Trinidad and Tobago,1935,17.5
+Trinidad and Tobago,1936,16.3
+Trinidad and Tobago,1937,17.4
+Trinidad and Tobago,1938,15.9
+Trinidad and Tobago,1939,16.1
+Trinidad and Tobago,1940,15.8
+Trinidad and Tobago,1941,16.1
+Trinidad and Tobago,1942,17.7
+Trinidad and Tobago,1943,16.6
+Trinidad and Tobago,1944,15
+Trinidad and Tobago,1945,14.5
+Trinidad and Tobago,1946,13.8
+Trinidad and Tobago,1947,13.4
+Trinidad and Tobago,1948,12.2
+Trinidad and Tobago,1949,12.2
+Trinidad and Tobago,1950,12.1
+Trinidad and Tobago,1951,12
+Trinidad and Tobago,1952,12.1
+Trinidad and Tobago,1953,10.7
+Trinidad and Tobago,1954,9.8
+Trinidad and Tobago,1955,10.4
+Trinidad and Tobago,1956,9.6
+Trinidad and Tobago,1957,9.5
+Trinidad and Tobago,1958,9.2
+Trinidad and Tobago,1959,9.2
+Trinidad and Tobago,1960,7.9
+Trinidad and Tobago,1961,8.1
+Trinidad and Tobago,1962,7.2
+Trinidad and Tobago,1963,7.2
+Trinidad and Tobago,1964,7
+Trinidad and Tobago,1965,6.9
+Trinidad and Tobago,1966,7.1
+Trinidad and Tobago,1967,6.7
+Trinidad and Tobago,1968,7
+Trinidad and Tobago,1969,6.9
+Trinidad and Tobago,1970,6.8
+Trinidad and Tobago,1971,6.8
+Trinidad and Tobago,1972,7
+Trinidad and Tobago,1973,7.1
+Trinidad and Tobago,1974,6.3
+Trinidad and Tobago,1975,6.4
+Trinidad and Tobago,1976,7.2
+Trinidad and Tobago,1977,7.1
+Trinidad and Tobago,1978,6.5
+Trinidad and Tobago,1979,6.6
+Trinidad and Tobago,1980,6.9
+Trinidad and Tobago,1981,6.6
+Trinidad and Tobago,1982,6.8
+Trinidad and Tobago,1983,6.6
+Trinidad and Tobago,1984,6.7
+Trinidad and Tobago,1985,6.8
+Trinidad and Tobago,1986,6.4
+Trinidad and Tobago,1987,6.6
+Trinidad and Tobago,1988,6.6
+Trinidad and Tobago,1989,6.8
+Trinidad and Tobago,1990,6.7
+Trinidad and Tobago,1991,6.6
+Trinidad and Tobago,1992,6.8
+Trinidad and Tobago,1993,6.5
+Trinidad and Tobago,1994,7.4
+Trinidad and Tobago,1995,7.2
+Trinidad and Tobago,1996,7.4
+Trinidad and Tobago,1997,7.2
+Trinidad and Tobago,1999,7.8
+Trinidad and Tobago,2000,7.3
+Trinidad and Tobago,2001,7.7
+Trinidad and Tobago,2002,7.7
+Trinidad and Tobago,2003,8
+Trinidad and Tobago,2004,7.6
+Trinidad and Tobago,2005,7.6
+Trinidad and Tobago,2006,7.3
+Uruguay,1882,18.1
+Uruguay,1883,16.3
+Uruguay,1884,17.3
+Uruguay,1885,16.7
+Uruguay,1886,18.3
+Uruguay,1887,20.2
+Uruguay,1888,6.4
+Uruguay,1889,19.1
+Uruguay,1890,21.2
+Uruguay,1891,17.1
+Uruguay,1892,17
+Uruguay,1893,17.2
+Uruguay,1894,18.5
+Uruguay,1895,15.6
+Uruguay,1896,15.6
+Uruguay,1897,14.5
+Uruguay,1898,14.4
+Uruguay,1899,12.8
+Uruguay,1900,13.7
+Uruguay,1901,12.9
+Uruguay,1902,13.6
+Uruguay,1903,13.4
+Uruguay,1904,11.1
+Uruguay,1905,12.7
+Uruguay,1906,13.7
+Uruguay,1907,14.1
+Uruguay,1908,13.6
+Uruguay,1909,13.9
+Uruguay,1910,14.5
+Uruguay,1911,14
+Uruguay,1912,13.6
+Uruguay,1913,12.3
+Uruguay,1914,11.8
+Uruguay,1915,12.8
+Uruguay,1916,14.9
+Uruguay,1917,12.5
+Uruguay,1918,14.1
+Uruguay,1919,13.1
+Uruguay,1920,12.9
+Uruguay,1921,12.2
+Uruguay,1922,10.6
+Uruguay,1923,11.4
+Uruguay,1924,11.8
+Uruguay,1925,11.5
+Uruguay,1926,10.5
+Uruguay,1927,11.5
+Uruguay,1928,10.7
+Uruguay,1929,10.8
+Uruguay,1930,10.7
+Uruguay,1931,11
+Uruguay,1932,10.1
+Uruguay,1933,10.3
+Uruguay,1934,10
+Uruguay,1935,10.6
+Uruguay,1936,9.7
+Uruguay,1937,10.4
+Uruguay,1938,10.3
+Uruguay,1939,9.1
+Uruguay,1940,9.6
+Uruguay,1941,9.4
+Uruguay,1942,9.4
+Uruguay,1943,9.4
+Uruguay,1944,9
+Uruguay,1945,8.7
+Uruguay,1946,8.8
+Uruguay,1947,9
+Uruguay,1948,8.9
+Uruguay,1949,8.6
+Uruguay,1950,8
+Uruguay,1951,8.6
+Uruguay,1952,8.4
+Uruguay,1953,8.5
+Uruguay,1954,8.2
+Uruguay,1955,8.7
+Uruguay,1956,8.3
+Uruguay,1957,8.9
+Uruguay,1958,8.5
+Uruguay,1959,9.4
+Uruguay,1960,8.5
+Uruguay,1961,8.8
+Uruguay,1962,8.7
+Uruguay,1963,8.9
+Uruguay,1964,9
+Uruguay,1965,9.1
+Uruguay,1966,9
+Uruguay,1967,9.5
+Uruguay,1968,9.2
+Uruguay,1969,9.7
+Uruguay,1970,9.2
+Uruguay,1971,10.3
+Uruguay,1972,10.6
+Uruguay,1973,10.2
+Uruguay,1974,10.1
+Uruguay,1975,9.7
+Uruguay,1976,10.1
+Uruguay,1977,10.1
+Uruguay,1978,9.7
+Uruguay,1979,9.8
+Uruguay,1980,10.3
+Uruguay,1981,9.4
+Uruguay,1982,9.2
+Uruguay,1983,9.6
+Uruguay,1984,10
+Uruguay,1985,9.5
+Uruguay,1986,9.5
+Uruguay,1987,9.6
+Uruguay,1988,9.6
+Uruguay,1989,9.6
+Uruguay,1990,9.8
+Uruguay,1991,9.6
+Uruguay,1994,9.5
+Uruguay,1995,9.9
+Uruguay,1996,9.5
+Uruguay,1997,9.3
+Uruguay,1998,9.8
+Uruguay,1999,9.9
+Uruguay,2000,9.2
+Uruguay,2001,9.4
+Uruguay,2002,9.6
+Uruguay,2003,9.9
+Uruguay,2004,9.8
+Uruguay,2005,9.8
+Uruguay,2006,9.369835141
+Uruguay,2007,10.1404793
+Uruguay,2008,9.406871878
+Uruguay,2009,9.620208207
+USA (blacks),1900,25
+USA (blacks),1901,24.3
+USA (blacks),1902,23.6
+USA (blacks),1903,24.5
+USA (blacks),1904,26.1
+USA (blacks),1905,25.5
+USA (blacks),1906,24.2
+USA (blacks),1907,24.3
+USA (blacks),1908,22.4
+USA (blacks),1909,21.8
+USA (blacks),1910,21.7
+USA (blacks),1911,21.3
+USA (blacks),1912,20.6
+USA (blacks),1913,20.3
+USA (blacks),1914,20.2
+USA (blacks),1915,20.2
+USA (blacks),1916,19.1
+USA (blacks),1917,20.4
+USA (blacks),1918,25.6
+USA (blacks),1919,17.9
+USA (blacks),1920,17.7
+USA (blacks),1921,15.5
+USA (blacks),1922,15.2
+USA (blacks),1923,16.5
+USA (blacks),1924,17.1
+USA (blacks),1925,17.4
+USA (blacks),1926,17.8
+USA (blacks),1927,16.4
+USA (blacks),1928,17.1
+USA (blacks),1929,16.9
+USA (blacks),1930,16.3
+USA (blacks),1931,15.5
+USA (blacks),1932,14.5
+USA (blacks),1933,14.1
+USA (blacks),1934,14.8
+USA (blacks),1935,14.3
+USA (blacks),1936,15.4
+USA (blacks),1937,14.9
+USA (blacks),1938,14
+USA (blacks),1939,13.5
+USA (blacks),1940,13.8
+USA (blacks),1941,13.5
+USA (blacks),1942,12.7
+USA (blacks),1943,12.8
+USA (blacks),1944,12.4
+USA (blacks),1945,11.9
+USA (blacks),1946,11.1
+USA (blacks),1947,11.4
+USA (blacks),1948,11.4
+USA (blacks),1949,11.2
+USA (blacks),1950,11.2
+USA (blacks),1951,11.1
+USA (blacks),1952,11
+USA (blacks),1953,10.8
+USA (blacks),1954,10.1
+USA (blacks),1955,10
+USA (blacks),1956,10.1
+USA (blacks),1957,10.5
+USA (blacks),1958,10.3
+USA (blacks),1959,9.9
+USA (blacks),1960,10.1
+USA (blacks),1961,9.6
+USA (blacks),1962,9.8
+USA (blacks),1963,10.1
+USA (blacks),1964,9.7
+USA (blacks),1965,9.6
+USA (blacks),1966,9.7
+USA (blacks),1967,9.4
+USA (blacks),1968,9.9
+USA (blacks),1969,9.6
+USA (blacks),1970,9.4
+USA (blacks),1971,9.2
+USA (blacks),1972,9.2
+USA (blacks),1973,9.1
+USA (blacks),1974,8.7
+USA (blacks),1975,8.8
+USA (blacks),1976,8.2
+USA (blacks),1977,8.6
+USA (blacks),1978,8.6
+USA (blacks),1979,8.4
+USA (blacks),1980,8.8
+USA (blacks),1981,8.4
+USA (blacks),1982,8.2
+USA (blacks),1983,8.3
+USA (blacks),1984,8.4
+USA (blacks),1985,8.5
+USA (blacks),1986,8.6
+USA (blacks),1987,8.7
+USA (blacks),1988,8.9
+USA (blacks),1989,8.9
+USA (blacks),1990,8.8
+USA (blacks),1991,8.6
+USA (blacks),1992,8.5
+USA (blacks),1993,8.8
+USA (whites),1900,17
+USA (whites),1901,16.2
+USA (whites),1902,15.3
+USA (whites),1903,15.4
+USA (whites),1904,16.2
+USA (whites),1905,15.7
+USA (whites),1906,15.5
+USA (whites),1907,15.7
+USA (whites),1908,14.5
+USA (whites),1909,14
+USA (whites),1910,14.5
+USA (whites),1911,13.7
+USA (whites),1912,13.4
+USA (whites),1913,13.5
+USA (whites),1914,13
+USA (whites),1915,12.9
+USA (whites),1916,13.4
+USA (whites),1917,13.5
+USA (whites),1918,17.5
+USA (whites),1919,12.4
+USA (whites),1920,12.6
+USA (whites),1921,11.1
+USA (whites),1922,11.3
+USA (whites),1923,11.7
+USA (whites),1924,11
+USA (whites),1925,11.1
+USA (whites),1926,11.6
+USA (whites),1927,10.8
+USA (whites),1928,11.4
+USA (whites),1929,11.3
+USA (whites),1930,10.8
+USA (whites),1931,10.6
+USA (whites),1932,10.5
+USA (whites),1933,10.3
+USA (whites),1934,10.6
+USA (whites),1935,10.6
+USA (whites),1936,11.1
+USA (whites),1937,10.8
+USA (whites),1938,10.3
+USA (whites),1939,10.3
+USA (whites),1940,10.4
+USA (whites),1941,10.2
+USA (whites),1942,10.1
+USA (whites),1943,10.7
+USA (whites),1944,10.4
+USA (whites),1945,10.4
+USA (whites),1946,9.8
+USA (whites),1947,9.9
+USA (whites),1948,9.7
+USA (whites),1949,9.5
+USA (whites),1950,9.5
+USA (whites),1951,9.5
+USA (whites),1952,9.4
+USA (whites),1953,9.4
+USA (whites),1954,9.1
+USA (whites),1955,9.2
+USA (whites),1956,9.3
+USA (whites),1957,9.5
+USA (whites),1958,9.4
+USA (whites),1959,9.3
+USA (whites),1960,9.5
+USA (whites),1961,9.3
+USA (whites),1962,9.4
+USA (whites),1963,9.5
+USA (whites),1964,9.4
+USA (whites),1965,9.4
+USA (whites),1966,9.5
+USA (whites),1967,9.4
+USA (whites),1968,9.6
+USA (whites),1969,9.5
+USA (whites),1970,9.5
+USA (whites),1971,9.3
+USA (whites),1972,9.5
+USA (whites),1973,9.4
+USA (whites),1974,9.2
+USA (whites),1975,8.9
+USA (whites),1976,9
+USA (whites),1977,8.7
+USA (whites),1978,8.8
+USA (whites),1979,8.7
+USA (whites),1980,8.9
+USA (whites),1981,8.8
+USA (whites),1982,8.7
+USA (whites),1983,8.8
+USA (whites),1984,8.9
+USA (whites),1985,9
+USA (whites),1986,9
+USA (whites),1987,9
+USA (whites),1988,9.1
+USA (whites),1989,8.9
+USA (whites),1990,8.9
+USA (whites),1991,8.9
+USA (whites),1992,8.8
+USA (whites),1993,9.1
+USA (whites),1994,8.7
+USA (whites),1995,8.8
+USA (whites),1996,8.7
+USA (whites),1997,8.6
+USA (whites),1998,8.6
+USA (whites),1999,8.8
+USA (whites),2000,8.5
+USA (whites),2001,8.5
+USA (whites),2002,8.5
+USA (whites),2003,8.4
+USA (whites),2004,8.2
+USA (whites),2005,8.3
+USA (whites),2006,8.125650224
+USA (whites),2007,8.036716108
+USA (whites),2008,8.124909244
+Venezuela,1891,23.2
+Venezuela,1892,23.1
+Venezuela,1893,22.7
+Venezuela,1894,20.4
+Venezuela,1904,19.8
+Venezuela,1905,23.4
+Venezuela,1906,21.3
+Venezuela,1907,20.6
+Venezuela,1908,22.3
+Venezuela,1909,20.7
+Venezuela,1910,21.3
+Venezuela,1911,21.2
+Venezuela,1912,24.9
+Venezuela,1913,19.9
+Venezuela,1914,19.3
+Venezuela,1915,23.3
+Venezuela,1916,24.3
+Venezuela,1917,21
+Venezuela,1918,24.5
+Venezuela,1919,22.2
+Venezuela,1920,19.4
+Venezuela,1921,21.1
+Venezuela,1922,19.7
+Venezuela,1923,18.8
+Venezuela,1924,18.5
+Venezuela,1925,17.5
+Venezuela,1926,22.2
+Venezuela,1927,19.5
+Venezuela,1928,18.8
+Venezuela,1929,17.2
+Venezuela,1930,17.2
+Venezuela,1931,18.4
+Venezuela,1932,17.1
+Venezuela,1933,18.5
+Venezuela,1934,18.1
+Venezuela,1935,16.6
+Venezuela,1936,17.4
+Venezuela,1937,18.1
+Venezuela,1938,18.3
+Venezuela,1939,18.7
+Venezuela,1940,16.6
+Venezuela,1941,16.4
+Venezuela,1942,16.2
+Venezuela,1943,15.9
+Venezuela,1944,17
+Venezuela,1945,15
+Venezuela,1946,14.7
+Venezuela,1947,13.4
+Venezuela,1948,12.8
+Venezuela,1949,11.9
+Venezuela,1950,10.9
+Venezuela,1951,11
+Venezuela,1952,10.6
+Venezuela,1953,9.6
+Venezuela,1954,9.7
+Venezuela,1955,9.7
+Venezuela,1956,9.4
+Venezuela,1957,9.4
+Venezuela,1958,8.6
+Venezuela,1959,8.3
+Venezuela,1960,7.1
+Venezuela,1961,7.3
+Venezuela,1962,7
+Venezuela,1963,7.2
+Venezuela,1964,7.2
+Venezuela,1965,7.1
+Venezuela,1966,6.8
+Venezuela,1967,6.6
+Venezuela,1968,6.7
+Venezuela,1969,6.8
+Venezuela,1970,6.6
+Venezuela,1971,6.6
+Venezuela,1972,6.7
+Venezuela,1973,6.8
+Venezuela,1974,6
+Venezuela,1975,5.9
+Venezuela,1976,5.7
+Venezuela,1977,5.5
+Venezuela,1978,5.2
+Venezuela,1979,5.1
+Venezuela,1980,5.1
+Venezuela,1981,5.2
+Venezuela,1982,4.8
+Venezuela,1983,4.6
+Venezuela,1984,4.6
+Venezuela,1985,4.6
+Venezuela,1986,4.4
+Venezuela,1987,4.4
+Venezuela,1988,4.4
+Venezuela,1989,4.5
+Venezuela,1990,4.6
+Venezuela,1991,4.5
+Venezuela,1992,4.5
+Venezuela,1994,4.5
+Venezuela,1995,4.2
+Venezuela,1996,4.2
+Venezuela,1997,4.1
+Venezuela,1998,4.2
+Venezuela,1999,4.3
+Venezuela,2000,4.2
+Venezuela,2001,4.4
+Venezuela,2002,4.2
+Venezuela,2003,4.6
+Venezuela,2004,4.2
+Venezuela,2005,4.2
+Venezuela,2006,4.267303021
+Venezuela,2007,4.315143996
+Venezuela,2008,4.441129899
+West Germany,1817,26.7
+West Germany,1818,27.1
+West Germany,1819,27.9
+West Germany,1820,24.4
+West Germany,1821,22.9
+West Germany,1822,24.6
+West Germany,1823,24.5
+West Germany,1824,24.2
+West Germany,1825,24.5
+West Germany,1826,26.1
+West Germany,1827,26.4
+West Germany,1828,26.6
+West Germany,1829,27.8
+West Germany,1830,27.4
+West Germany,1831,30.4
+West Germany,1832,28.9
+West Germany,1833,28.5
+West Germany,1834,29.4
+West Germany,1835,26.2
+West Germany,1836,25.9
+West Germany,1837,29.1
+West Germany,1838,26
+West Germany,1839,27.2
+West Germany,1840,26.5
+West Germany,1841,26.2
+West Germany,1842,27.1
+West Germany,1843,26.9
+West Germany,1844,24.5
+West Germany,1845,25.3
+West Germany,1846,27.1
+West Germany,1847,28.3
+West Germany,1848,29
+West Germany,1849,27.1
+West Germany,1850,25.6
+West Germany,1851,25
+West Germany,1852,28.4
+West Germany,1853,27.2
+West Germany,1854,27
+West Germany,1855,28.1
+West Germany,1856,25.2
+West Germany,1857,27.2
+West Germany,1858,26.8
+West Germany,1859,25.7
+West Germany,1860,23.2
+West Germany,1861,25.6
+West Germany,1862,24.7
+West Germany,1863,25.7
+West Germany,1864,26.2
+West Germany,1865,27.6
+West Germany,1866,30.6
+West Germany,1867,26.1
+West Germany,1868,27.6
+West Germany,1869,26.9
+West Germany,1870,27.4
+West Germany,1871,29.6
+West Germany,1872,29
+West Germany,1873,28.3
+West Germany,1874,26.7
+West Germany,1875,27.6
+West Germany,1876,26.4
+West Germany,1877,26.4
+West Germany,1878,26.2
+West Germany,1879,25.6
+West Germany,1880,26
+West Germany,1881,25.5
+West Germany,1882,25.7
+West Germany,1883,25.9
+West Germany,1884,26
+West Germany,1885,25.7
+West Germany,1886,26.2
+West Germany,1887,24.2
+West Germany,1888,23.7
+West Germany,1889,23.7
+West Germany,1890,24.4
+West Germany,1891,23.4
+West Germany,1892,24.1
+West Germany,1893,24.4
+West Germany,1894,22.3
+West Germany,1895,22.1
+West Germany,1896,20.8
+West Germany,1897,21.3
+West Germany,1898,20.6
+West Germany,1899,21.5
+West Germany,1900,22.1
+West Germany,1901,20.7
+West Germany,1902,19.4
+West Germany,1903,20
+West Germany,1904,19.6
+West Germany,1905,19.8
+West Germany,1906,18.2
+West Germany,1907,18
+West Germany,1908,18.1
+West Germany,1909,17.2
+West Germany,1910,16.2
+West Germany,1911,17.3
+West Germany,1912,15.6
+West Germany,1913,15
+West Germany,1914,19
+West Germany,1915,21.4
+West Germany,1916,19.2
+West Germany,1917,20.631
+West Germany,1918,24.8
+West Germany,1919,15.6
+West Germany,1920,15.1
+West Germany,1921,13.9
+West Germany,1922,14.4
+West Germany,1923,13.9
+West Germany,1924,12.2
+West Germany,1925,11.9
+West Germany,1926,11.7
+West Germany,1927,12
+West Germany,1928,11.6
+West Germany,1929,12.6
+West Germany,1930,11
+West Germany,1931,11.2
+West Germany,1932,10.8
+West Germany,1933,11.2
+West Germany,1934,10.9
+West Germany,1935,11.8
+West Germany,1936,11.8
+West Germany,1937,11.7
+West Germany,1938,11.7
+West Germany,1939,12.3
+West Germany,1940,12.7
+West Germany,1941,12.1
+West Germany,1942,12
+West Germany,1943,12.1
+West Germany,1946,13
+West Germany,1947,12.1
+West Germany,1948,10.5
+West Germany,1949,10.4
+West Germany,1950,10.5
+West Germany,1951,10.8
+West Germany,1952,10.7
+West Germany,1953,11.3
+West Germany,1954,10.7
+West Germany,1955,11.1
+West Germany,1956,11.3
+West Germany,1957,11.5
+West Germany,1958,11
+West Germany,1959,11
+West Germany,1960,11.6
+West Germany,1961,11.2
+West Germany,1962,11.3
+West Germany,1963,11.7
+West Germany,1964,11
+West Germany,1965,11.5
+West Germany,1966,11.5
+West Germany,1967,11.5
+West Germany,1968,12.2
+West Germany,1969,12.2
+West Germany,1970,12.1
+West Germany,1971,11.9
+West Germany,1972,11.8
+West Germany,1973,11.8
+West Germany,1974,11.7
+West Germany,1975,12.1
+West Germany,1976,11.9
+West Germany,1977,11.5
+West Germany,1978,11.8
+West Germany,1979,11.6
+West Germany,1980,11.6
+West Germany,1981,11.7
+West Germany,1982,11.6
+West Germany,1983,11.7
+West Germany,1984,11.3
+West Germany,1985,11.5
+West Germany,1986,11.5
+West Germany,1987,11.2
+West Germany,1988,11.2
+West Germany,1989,11.5
+West Germany,1990,11.5
+West Germany,1991,11.4
+West Germany,1992,11
+West Germany,1993,11.1
+West Germany,1994,11.3
+West Germany,1995,10.8
+West Germany,1996,10.8
+West Germany,1997,10.5
+West Germany,1998,10.4
+West Germany,1999,10.3
+West Germany,2000,10.2
+West Germany,2001,10.1
+West Germany,2002,10.2
+West Germany,2003,10.3
+West Germany,2004,9.9
+West Germany,2005,10.1
+West Germany,2006,9.975340496
+West Germany,2007,10.05505014
+West Germany,2008,10.28422857
+West Germany,2009,10.43369884
+West Germany,2010,10.5410448
+Yugoslawia,1921,20.9
+Yugoslawia,1922,20.8
+Yugoslawia,1923,20.3
+Yugoslawia,1924,20.2
+Yugoslawia,1925,18.7
+Yugoslawia,1926,18.8
+Yugoslawia,1927,21
+Yugoslawia,1928,20.4
+Yugoslawia,1929,21.1
+Yugoslawia,1930,19
+Yugoslawia,1931,19.8
+Yugoslawia,1932,19.2
+Yugoslawia,1933,17
+Yugoslawia,1934,17.1
+Yugoslawia,1935,16.9
+Yugoslawia,1936,16.1
+Yugoslawia,1937,16
+Yugoslawia,1938,15.6
+Yugoslawia,1939,15
+Yugoslawia,1947,12.8
+Yugoslawia,1948,13.5
+Yugoslawia,1949,13.5
+Yugoslawia,1950,13
+Yugoslawia,1951,14.1
+Yugoslawia,1952,11.8
+Yugoslawia,1953,12.4
+Yugoslawia,1954,10.9
+Yugoslawia,1955,11.4
+Yugoslawia,1956,11.2
+Yugoslawia,1957,10.7
+Yugoslawia,1958,9.3
+Yugoslawia,1959,9.9
+Yugoslawia,1960,9.9
+Yugoslawia,1961,9
+Yugoslawia,1962,9.9
+Yugoslawia,1963,8.9
+Yugoslawia,1964,9.4
+Yugoslawia,1965,8.8
+Yugoslawia,1966,8.1
+Yugoslawia,1967,8.8
+Yugoslawia,1968,8.7
+Yugoslawia,1969,9.3
+Yugoslawia,1970,8.9
+Yugoslawia,1971,8.7
+Yugoslawia,1972,9.2
+Yugoslawia,1973,8.6
+Yugoslawia,1974,8.4
+Yugoslawia,1975,8.7
+Yugoslawia,1976,8.5
+Yugoslawia,1977,8.4
+Yugoslawia,1978,8.7
+Yugoslawia,1979,8.6
+Yugoslawia,1980,8.8
+Yugoslawia,1981,9
+Yugoslawia,1982,9
+Yugoslawia,1983,9.6
+Yugoslawia,1984,9.4
+Yugoslawia,1985,9.2
+Yugoslawia,1986,9.2
+Yugoslawia,1987,9.2
+Yugoslawia,1988,9
+Yugoslawia,1989,9.3
+Yugoslawia,1990,9.8
+Yugoslawia,1991,9.8
+Yugoslawia,1992,10
+Yugoslawia,1993,10
+Yugoslawia,1994,10.1
+Yugoslawia,1995,10.2
+Yugoslawia,1996,10.2
+Yugoslawia,1997,10.6
+Yugoslawia,1998,10.6
+Yugoslawia,1999,10.9
+Yugoslawia,2000,11.1
+Yugoslawia,2001,10.6
+Yugoslawia,2002,13.3
+Yugoslawia,2003,13.4
+Yugoslawia,2004,13.5
+Zimbabwe (whites only),1906,14.8
+Zimbabwe (whites only),1907,13.4
+Zimbabwe (whites only),1908,14.8
+Zimbabwe (whites only),1909,16.3
+Zimbabwe (whites only),1910,14.1
+Zimbabwe (whites only),1911,12.1
+Zimbabwe (whites only),1912,13.9
+Zimbabwe (whites only),1913,12.8
+Zimbabwe (whites only),1914,11.5
+Zimbabwe (whites only),1915,12.6
+Zimbabwe (whites only),1916,8.5
+Zimbabwe (whites only),1917,10.2
+Zimbabwe (whites only),1918,21.5
+Zimbabwe (whites only),1919,11.8
+Zimbabwe (whites only),1920,10.6
+Zimbabwe (whites only),1921,9.5
+Zimbabwe (whites only),1922,8.9
+Zimbabwe (whites only),1923,10
+Zimbabwe (whites only),1924,8.3
+Zimbabwe (whites only),1925,9.6
+Zimbabwe (whites only),1926,8.8
+Zimbabwe (whites only),1927,9.1
+Zimbabwe (whites only),1928,10.7
+Zimbabwe (whites only),1929,10.1
+Zimbabwe (whites only),1930,9.2
+Zimbabwe (whites only),1931,8.3
+Zimbabwe (whites only),1932,9.5
+Zimbabwe (whites only),1933,8.4
+Zimbabwe (whites only),1934,9.5
+Zimbabwe (whites only),1935,10.3
+Zimbabwe (whites only),1936,10.3
+Zimbabwe (whites only),1937,9.2
+Zimbabwe (whites only),1938,9
+Zimbabwe (whites only),1939,9.3
+Zimbabwe (whites only),1940,8.4
+Zimbabwe (whites only),1941,10
+Zimbabwe (whites only),1942,9.3
+Zimbabwe (whites only),1943,8.7
+Zimbabwe (whites only),1944,8.9
+Zimbabwe (whites only),1945,8.5
+Zimbabwe (whites only),1946,8.2
+Zimbabwe (whites only),1947,8.2
+Zimbabwe (whites only),1948,8.1
+Zimbabwe (whites only),1949,7.1
+Zimbabwe (whites only),1950,6.9
+Zimbabwe (whites only),1951,6.9
+Zimbabwe (whites only),1952,5.9
+Zimbabwe (whites only),1953,6.2
+Zimbabwe (whites only),1954,6.9
+Zimbabwe (whites only),1955,6.4
+Zimbabwe (whites only),1956,6.5
+Zimbabwe (whites only),1957,6
+Zimbabwe (whites only),1958,6.3
+Zimbabwe (whites only),1959,6
+Zimbabwe (whites only),1960,6.4
+Zimbabwe (whites only),1961,6.1
+Zimbabwe (whites only),1962,6.2
+Zimbabwe (whites only),1963,6.5
+Zimbabwe (whites only),1964,6
+Zimbabwe (whites only),1965,6.5
+Zimbabwe (whites only),1966,6.9
+Zimbabwe (whites only),1967,7
+Zimbabwe (whites only),1968,7.4
+Zimbabwe (whites only),1969,7.1
+Zimbabwe (whites only),1970,6.9
+Zimbabwe (whites only),1971,7.1
+Zimbabwe (whites only),1972,7.8
+Zimbabwe (whites only),1973,7.6
+Zimbabwe (whites only),1974,7.8
+Zimbabwe (whites only),1975,7.3
+Zimbabwe (whites only),1976,7.5
+Zimbabwe (whites only),1977,8.2
+Zimbabwe (whites only),1978,8.6
+Zimbabwe (whites only),1979,9.1
