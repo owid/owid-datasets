@@ -1,0 +1,42 @@
+{
+  "name": "Number of polio cases per one million population - WHO (2017)",
+  "title": "Number of polio cases per one million population - WHO (2017)",
+  "id": 916,
+  "description": "The Polio case data from the WHO (2017) were divided by the UN Population estimates (which were reported in thousands). The result was then divided by one thousand to obtain the number of polio cases per one million population.",
+  "sources": [
+    {
+      "name": "Incidence Report of Selected Vaccine Preventable Diseases (VPDs) - WHO (2017)",
+      "dataPublishedBy": "World Health Organization (2017). United Nations (2017)",
+      "dataPublisherSource": "UNICEF and WHO's Joint Reporting Form (JRP) on Immunization, Vaccines and Biologicals (further explanations here: http://www.who.int/immunization/monitoring_surveillance/routine/reporting/en/). The United Nations DESA Population Division latest \"World Population Prospects\" Report from 2017 includes each country's yearly total population estimates from 1950 onwards, which is based on country's Census data.",
+      "link": "http://www.who.int/entity/immunization/monitoring_surveillance/data/incidence_series.xls?ua=1. https://esa.un.org/unpd/wpp/DVD/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2017_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx",
+      "retrievedDate": "11/09/2017",
+      "additionalInfo": "The Polio case data from the WHO (2017) were divided by the UN Population estimates (which were reported in thousands). The result was then divided by one thousand to obtain the number of polio cases per one million population."
+    }
+  ],
+  "owidTags": [
+    "Eradication of Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Number of polio cases per one million population - WHO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Polio cases per 1 million population (WHO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
