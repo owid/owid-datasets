@@ -1,0 +1,42 @@
+{
+  "name": "US Maternal Mortality and FLFP Index - OWID (2017)",
+  "title": "US Maternal Mortality and FLFP Index - OWID (2017)",
+  "id": 846,
+  "description": "The maternal mortality index was calculated by OWID based on maternal mortality data compiled from Gapminder (historical data) and the World Bank (recent data). The original data shows maternal death per 100,000 live births.\n\nFor more detail see: https://ourworldindata.org/grapher/maternal-mortality.\nThe index measures maternal mortality as an index to 1900. This was calculated by dividing maternal mortality in each year by maternal mortality in 1900 (therefore 1900 = 100). Values less than 100 indicate a decrease in maternal mortality relative to 1900; values greater than 100 indicate an increase in maternal mortality relative to 1900.",
+  "sources": [
+    {
+      "name": "OWID based on Gapminder and World Bank",
+      "dataPublishedBy": "OWID calculation based on original data by Gapminder (2010) and the World Bank (2015)",
+      "dataPublisherSource": "Census Data",
+      "link": "https://data.worldbank.org/indicator",
+      "retrievedDate": "01/08/2017",
+      "additionalInfo": "The maternal mortality index was calculated by OWID based on maternal mortality data compiled from Gapminder (historical data) and the World Bank (recent data). The original data shows maternal death per 100,000 live births.\n\nFor more detail see: https://ourworldindata.org/grapher/maternal-mortality.\nThe index measures maternal mortality as an index to 1900. This was calculated by dividing maternal mortality in each year by maternal mortality in 1900 (therefore 1900 = 100). Values less than 100 indicate a decrease in maternal mortality relative to 1900; values greater than 100 indicate an increase in maternal mortality relative to 1900."
+    }
+  ],
+  "owidTags": [
+    "Labor Force Participation"
+  ],
+  "resources": [
+    {
+      "path": "US Maternal Mortality and FLFP Index - OWID (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Maternal Mortality Index (OWID (2017))",
+            "type": "any",
+            "description": "Measures maternal mortality as an index to 1900. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
