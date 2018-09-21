@@ -1,0 +1,66 @@
+{
+  "name": "Long term productivity - Bergeaud, Cette, and Lecat (2016)",
+  "title": "Long term productivity - Bergeaud, Cette, and Lecat (2016)",
+  "id": 2716,
+  "description": "The Long-Term Productivity database was created as a project at the Bank of France in 2013 by Antonin Bergeaud, Gilbert Cette and Remy Lecat. This database covers productivity relevant statistics, at least for the period 1890 to present, and includes 17 countries in the latest version (2016).\n\nThe starting database used was built by Cette, Kocoglu and Mairesse (2009) on the United States, Japan, France and the United Kingdom over the 1890-2006 period. ",
+  "sources": [
+    {
+      "name": "Bergeaud, A., Cette, G. and Lecat, R. (2016)",
+      "dataPublishedBy": "Bergeaud, A., Cette, G. and Lecat, R. (2016): \"Productivity Trends in Advanced Countries between 1890 and 2012,\" Review of Income and Wealth, vol. 62(3), pages 420–444.",
+      "dataPublisherSource": "Historical data series",
+      "link": "http://www.longtermproductivity.com/download.html",
+      "retrievedDate": "03/04/2018",
+      "additionalInfo": "The Long-Term Productivity database was created as a project at the Bank of France in 2013 by Antonin Bergeaud, Gilbert Cette and Remy Lecat. This database covers productivity relevant statistics, at least for the period 1890 to present, and includes 17 countries in the latest version (2016).\n\nThe starting database used was built by Cette, Kocoglu and Mairesse (2009) on the United States, Japan, France and the United Kingdom over the 1890-2006 period. "
+    }
+  ],
+  "owidTags": [
+    "Productivity of Technologies"
+  ],
+  "resources": [
+    {
+      "path": "Long term productivity - Bergeaud, Cette, and Lecat (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Capital Intensity (Bergeaud, Cette, and Lecat (2016))",
+            "type": "any",
+            "description": "Capital intensity is defined as the ratio of total capital stock over total hours worked. Unit of measurement in $US 2010 ppp per hour.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Age of capital stock (Bergeaud, Cette, and Lecat (2016))",
+            "type": "any",
+            "description": "Average age of equipment capital stock measured in years.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Labor productivity (Bergeaud, Cette, and Lecat (2016))",
+            "type": "any",
+            "description": "Labor productivity is defined as the ratio of GDP over total hours worked. Unit of measurement in $US 2010 ppp per hour.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total Factor Productivity (TFP) (Bergeaud, Cette, and Lecat (2016))",
+            "type": "any",
+            "description": "Solow residual from a constant return to scale Cobb-Douglas production function with capital stock and hours worked as input. Units of measurement $US 2010 ppp based.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "GDP per capita (Bergeaud, Cette, and Lecat (2016))",
+            "type": "any",
+            "description": "Gross Domestic Product per capita. Units of measurement $US 2010 ppp per person.\n",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
