@@ -1,0 +1,44 @@
+{
+  "name": "CO2 equivalent from energy sources - IPCC (2011)",
+  "title": "CO2 equivalent from energy sources - IPCC (2011)",
+  "id": 456,
+  "description": "Data reported as the median grams of carbon dioxide equivalents per kWh (gCO2e per kWh) based on life-cycle analysis of energy production sources.",
+  "sources": [
+    {
+      "name": "CO2 equivalent from energy sources - IPCC (2011)",
+      "dataPublishedBy": "IPCC, 2011: Summary for Policymakers. In: IPCC Special Report on Renewable Energy Sources and Climate Change Mitigation [O. Edenhofer, R.  Pichs-Madruga, Y. Sokona, K. Seyboth, P. Matschoss, S. Kadner, T. Zwickel, P. Eickemeier, G. Hansen, S. Schlömer, C. von Stechow (eds)], Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.",
+      "dataPublisherSource": null,
+      "link": "http://www.ipcc.ch/report/srren/",
+      "retrievedDate": "05/05/2017",
+      "additionalInfo": "Data reported as the median grams of carbon dioxide equivalents per kWh (gCO2e per kWh) based on life-cycle analysis of energy production sources."
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "CO2 equivalent from energy sources - IPCC (2011).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Equivalent CO2 emissions (IPCC (2011))",
+            "type": "any",
+            "description": "CO2 equivalent emissions from energy production- IPCC",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
