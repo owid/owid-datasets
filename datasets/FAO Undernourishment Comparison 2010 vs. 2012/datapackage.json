@@ -1,0 +1,52 @@
+{
+  "name": "FAO Undernourishment Comparison 2010 vs. 2012",
+  "title": "FAO Undernourishment Comparison 2010 vs. 2012",
+  "id": 1891,
+  "description": "The original sources:\n\nFAO, IFAD & WFP (2010) – The State of Food Insecurity in the World 2013 – Addressing food insecurity in protracted crises, Food and Agriculture Organization of the United Nations (FAO), the International Fund for Agricultural Development (IFAD) or of the World Food Programme (WFP), FAO, Rome, 2013. http://www.fao.org/docrep/013/i1683e/i1683e.pdf\n\nFAO, IFAD & WFP (2013) – The State of Food Insecurity in the World 2013 – The multiple dimensions of food security, Food and Agriculture Organization of the United Nations (FAO), the International Fund for Agricultural Development (IFAD) or of the World Food Programme (WFP), FAO, Rome, 2013. http://www.fao.org/docrep/018/i3434e/i3434e.pdf",
+  "sources": [
+    {
+      "name": "The Economist",
+      "dataPublishedBy": "The Economist",
+      "dataPublisherSource": "FAO Data",
+      "link": "https://www.economist.com/blogs/feastandfamine/2012/10/hunger",
+      "retrievedDate": "2018-01-03",
+      "additionalInfo": "The original sources:\n\nFAO, IFAD & WFP (2010) – The State of Food Insecurity in the World 2013 – Addressing food insecurity in protracted crises, Food and Agriculture Organization of the United Nations (FAO), the International Fund for Agricultural Development (IFAD) or of the World Food Programme (WFP), FAO, Rome, 2013. http://www.fao.org/docrep/013/i1683e/i1683e.pdf\n\nFAO, IFAD & WFP (2013) – The State of Food Insecurity in the World 2013 – The multiple dimensions of food security, Food and Agriculture Organization of the United Nations (FAO), the International Fund for Agricultural Development (IFAD) or of the World Food Programme (WFP), FAO, Rome, 2013. http://www.fao.org/docrep/018/i3434e/i3434e.pdf"
+    }
+  ],
+  "owidTags": [
+    "Hunger & Undernourishment"
+  ],
+  "resources": [
+    {
+      "path": "FAO Undernourishment Comparison 2010 vs. 2012.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "2012 report",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "conversionFactor": 1000000000
+            }
+          },
+          {
+            "name": "2010 report",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "conversionFactor": 1000000000
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
