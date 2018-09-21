@@ -1,0 +1,42 @@
+{
+  "name": "Green Climate Fund Pledges- GCF (2017)",
+  "title": "Green Climate Fund Pledges- GCF (2017)",
+  "id": 512,
+  "description": "Advanced economies have formally agreed to jointly mobilize USD 100 billion per year by 2020, from a variety of sources, to address the pressing mitigation and adaptation needs of developing countries.",
+  "sources": [
+    {
+      "name": "Green Climate Fund Pledges - GCF (2017)",
+      "dataPublishedBy": "Green Climate Fund (2017)",
+      "dataPublisherSource": "Original sources from the GCF datasets.",
+      "link": "http://www.greenclimate.fund/partners/contributors/resources-mobilized",
+      "retrievedDate": "03/10/2017",
+      "additionalInfo": "Advanced economies have formally agreed to jointly mobilize USD 100 billion per year by 2020, from a variety of sources, to address the pressing mitigation and adaptation needs of developing countries."
+    }
+  ],
+  "owidTags": [
+    "Climate Change"
+  ],
+  "resources": [
+    {
+      "path": "Green Climate Fund Pledges- GCF (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Green Climate Fund Pledges (USD per capita) (GCF (2017))",
+            "type": "any",
+            "description": "Measures USD pledged per capita to the Green Climate Fund (GDF). ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
