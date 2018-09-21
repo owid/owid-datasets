@@ -1,0 +1,42 @@
+{
+  "name": "Income Inequality - World Bank (2016)",
+  "title": "Income Inequality - World Bank (2016)",
+  "id": 284,
+  "description": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm).",
+  "sources": [
+    {
+      "name": "World Bank (2016)",
+      "dataPublishedBy": "World Bank",
+      "dataPublisherSource": "Primary household survey data obtained from government statistical agencies and World Bank country departments",
+      "link": "http://databank.worldbank.org/data/indicator/SI.POV.GINI?id=af3ce82b&report_name=Popular_indicators&populartype=series&ispopular=y",
+      "retrievedDate": "15/08/2016",
+      "additionalInfo": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm)."
+    }
+  ],
+  "owidTags": [
+    "Income Inequality"
+  ],
+  "resources": [
+    {
+      "path": "Income Inequality - World Bank (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Gini coefficient (World Bank (2016))",
+            "type": "any",
+            "description": "The higher the gini coefficient, the greater inequality. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
