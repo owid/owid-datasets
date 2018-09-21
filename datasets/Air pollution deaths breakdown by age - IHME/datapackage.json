@@ -1,0 +1,240 @@
+{
+  "name": "Air pollution deaths breakdown by age - IHME",
+  "title": "Air pollution deaths breakdown by age - IHME",
+  "id": 2495,
+  "description": "Data relates to the number of deaths attributed to air pollution across age groups. This is measured based on attribution to all linked causes. \n\nIHME have developed a Comparative Risk Assessment (CRA) conceptual framework by which they have built a web of risk factors or causes which affect health outcomes. \n\nSuch risk-outcome pairs (e.g. air pollution and lung cancer) are formed based on evidence links using methods such as cohort studies, randomised trials, and case-control studies. Once a risk-outcome pair has been formed, how does IHME begin to quantify the disease burden or number of deaths attributed to each risk? The CRA can be used for two different types of assessment: attributable burden and avoidable burden. 'Attributable burden' represents the reduction in current disease burden (or that of a given year) if population exposure had shifted to another counterfactual/hypothetical exposure level; 'avoidable burden' represents the potential future avoided burden if population exposure was to shift to a counterfactual level of exposure. Since the number of deaths is based on current or historical data, the data presented here is that of attributable burden.",
+  "sources": [
+    {
+      "name": "Air pollution deaths breakdown by age - IHME",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2016 (GBD 2016) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2017.",
+      "dataPublisherSource": null,
+      "link": "http://ghdx.healthdata.org/gbd-results-tool",
+      "retrievedDate": "7th March 2018",
+      "additionalInfo": "Data relates to the number of deaths attributed to air pollution across age groups. This is measured based on attribution to all linked causes. \n\nIHME have developed a Comparative Risk Assessment (CRA) conceptual framework by which they have built a web of risk factors or causes which affect health outcomes. \n\nSuch risk-outcome pairs (e.g. air pollution and lung cancer) are formed based on evidence links using methods such as cohort studies, randomised trials, and case-control studies. Once a risk-outcome pair has been formed, how does IHME begin to quantify the disease burden or number of deaths attributed to each risk? The CRA can be used for two different types of assessment: attributable burden and avoidable burden. 'Attributable burden' represents the reduction in current disease burden (or that of a given year) if population exposure had shifted to another counterfactual/hypothetical exposure level; 'avoidable burden' represents the potential future avoided burden if population exposure was to shift to a counterfactual level of exposure. Since the number of deaths is based on current or historical data, the data presented here is that of attributable burden."
+    }
+  ],
+  "owidTags": [
+    "Air Pollution"
+  ],
+  "resources": [
+    {
+      "path": "Air pollution deaths breakdown by age - IHME.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Indoor (10 to 14 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Indoor (15 to 19 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Indoor (20 to 24 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Indoor (25 to 29 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Indoor (30 to 34 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Indoor (35 to 39 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Indoor (40 to 44 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Indoor (45 to 49 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Indoor (5 to 9 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Indoor (50 to 54 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Indoor (55 to 59 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Indoor (60 to 64 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Indoor (65 to 69 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Indoor (70 to 74 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Indoor (75 to 79 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Indoor (80+ years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Indoor (Under-5s)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Outdoor (10 to 14 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Outdoor (15 to 19 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Outdoor (20 to 24 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Outdoor (25 to 29 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Outdoor (30 to 34 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Outdoor (35 to 39 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Outdoor (40 to 44 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Outdoor (45 to 49 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Outdoor (5 to 9 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Outdoor (50 to 54 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Outdoor (55 to 59 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Outdoor (60 to 64 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Outdoor (65 to 69 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Outdoor (70 to 74 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Outdoor (75 to 79 years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": " Outdoor (80+ years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Outdoor (Under-5s)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}

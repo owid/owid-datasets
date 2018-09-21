@@ -1,0 +1,7 @@
+# Air pollution deaths breakdown by age - IHME
+
+Data relates to the number of deaths attributed to air pollution across age groups. This is measured based on attribution to all linked causes. 
+
+IHME have developed a Comparative Risk Assessment (CRA) conceptual framework by which they have built a web of risk factors or causes which affect health outcomes. 
+
+Such risk-outcome pairs (e.g. air pollution and lung cancer) are formed based on evidence links using methods such as cohort studies, randomised trials, and case-control studies. Once a risk-outcome pair has been formed, how does IHME begin to quantify the disease burden or number of deaths attributed to each risk? The CRA can be used for two different types of assessment: attributable burden and avoidable burden. 'Attributable burden' represents the reduction in current disease burden (or that of a given year) if population exposure had shifted to another counterfactual/hypothetical exposure level; 'avoidable burden' represents the potential future avoided burden if population exposure was to shift to a counterfactual level of exposure. Since the number of deaths is based on current or historical data, the data presented here is that of attributable burden.
