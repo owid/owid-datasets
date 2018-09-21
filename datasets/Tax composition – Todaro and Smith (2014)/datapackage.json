@@ -1,0 +1,72 @@
+{
+  "name": "Tax composition – Todaro and Smith (2014)",
+  "title": "Tax composition – Todaro and Smith (2014)",
+  "id": 302,
+  "description": "Estimates are provided by the source in two windows of time: 1985-1987 and 1995-1997. We report the estimates for the year in the middle of the corresponding estimates (i.e. 1986 and 1996)",
+  "sources": [
+    {
+      "name": "Todaro and Smith (2014)",
+      "dataPublishedBy": "Todaro, M. and Smith, S. (2014) Economic Development, 12th Edition. Pearson. ISBN: 1292002972",
+      "dataPublisherSource": "National Tax Journal by National Tax Association.",
+      "link": null,
+      "retrievedDate": "22/09/2016",
+      "additionalInfo": "Estimates are provided by the source in two windows of time: 1985-1987 and 1995-1997. We report the estimates for the year in the middle of the corresponding estimates (i.e. 1986 and 1996)"
+    }
+  ],
+  "owidTags": [
+    "Composition of Tax Revenues"
+  ],
+  "resources": [
+    {
+      "path": "Tax composition – Todaro and Smith (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Corporate income taxes (Todaro and Smith (2014))",
+            "type": "any",
+            "description": "1986; 1996",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Personal Income taxes (Todaro and Smith (2014))",
+            "type": "any",
+            "description": "1986; 1996",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "General consumption taxes (Todaro and Smith (2014))",
+            "type": "any",
+            "description": "1986; 1996",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Excise taxes (Todaro and Smith (2014))",
+            "type": "any",
+            "description": "1986; 1996",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Trade taxes (Todaro and Smith (2014))",
+            "type": "any",
+            "description": "1986; 1996",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Social security (Todaro and Smith (2014))",
+            "type": "any",
+            "description": "1986; 1996",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
