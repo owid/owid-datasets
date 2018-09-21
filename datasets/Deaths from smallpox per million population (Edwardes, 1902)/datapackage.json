@@ -1,0 +1,42 @@
+{
+  "name": "Deaths from smallpox per million population (Edwardes, 1902)",
+  "title": "Deaths from smallpox per million population (Edwardes, 1902)",
+  "id": 1941,
+  "description": "",
+  "sources": [
+    {
+      "name": "Edwardes (1902)",
+      "dataPublishedBy": "Edwardes, E. (1902) A concise history of small-pox and vaccination in Europe. H.K. Lewis",
+      "dataPublisherSource": "Official government statistics",
+      "link": "https://archive.org/details/b21357262",
+      "retrievedDate": "7 February 2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Eradication of Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Deaths from smallpox per million population (Edwardes, 1902).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of deaths from smallpox per 1,000 population (Edwardes 1902)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
