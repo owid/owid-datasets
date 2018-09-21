@@ -1,0 +1,52 @@
+{
+  "name": "Perceptions of spending on health expenditure - IPSOS (2016)",
+  "title": "Perceptions of spending on health expenditure - IPSOS (2016)",
+  "id": 538,
+  "description": "Ipsos MORI conducted 27,250 interviews across 50 countries between September-November 2016 via the Ipsos MORI Online Panel system. In the Czech Republic, Montenegro, Netherlands, Norway and Serbia, interviews were carried out through a combination of the online system and face-to-face methodologies.\r\n\r\nData are weighted to match the profile of the population.",
+  "sources": [
+    {
+      "name": "Perceptions of spending on health expenditure - IPSOS (2016)",
+      "dataPublishedBy": "Ipsos MORI Perils of Perception Study 2016",
+      "dataPublisherSource": "Ipsos MORI interviews over 50 countries.",
+      "link": "https://www.ipsos.com/ipsos-mori/en-uk/perceptions-are-not-reality-what-world-gets-wrong",
+      "retrievedDate": "15/06/2017",
+      "additionalInfo": "Ipsos MORI conducted 27,250 interviews across 50 countries between September-November 2016 via the Ipsos MORI Online Panel system. In the Czech Republic, Montenegro, Netherlands, Norway and Serbia, interviews were carried out through a combination of the online system and face-to-face methodologies.\r\n\r\nData are weighted to match the profile of the population."
+    }
+  ],
+  "owidTags": [
+    "Health Insurance & Spending"
+  ],
+  "resources": [
+    {
+      "path": "Perceptions of spending on health expenditure - IPSOS (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "How much we think we spend on health expenditure (IPSOS (2016))",
+            "type": "any",
+            "description": "Percentage of GDP the average person thinks its country spends on health expenditure per year",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "How much we actually spend on health expenditure (IPSOS (2016))",
+            "type": "any",
+            "description": "Percentage of GDP we actually spend on health expenditure per year",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
