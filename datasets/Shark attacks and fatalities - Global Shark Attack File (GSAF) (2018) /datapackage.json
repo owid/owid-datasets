@@ -1,0 +1,48 @@
+{
+  "name": "Shark attacks and fatalities - Global Shark Attack File (GSAF) (2018) ",
+  "title": "Shark attacks and fatalities - Global Shark Attack File (GSAF) (2018) ",
+  "id": 2862,
+  "description": "The Global Shark Attack File (GSAF) keeps an incident log that is updated with each new shark attack. Four types of shark attack categories are included: provoked, unprovoked, boating incidents, and sea disasters. The GSAF defines provoked incidents as incidents in which \"the shark was speared, hooked, captured or in which a human drew 'first blood'\" versus unprovoked incidents where this behaviour did not occur. Boating incidents are defined as cases where \"a boat was bitten or rammed by a shark.\" Sea disasters are \"accidents that place people in the day-to-day business of sharks.\" \n\nShark attacks classified as \"Invalid\" or \"Questionable\" have been excluded from estimates.\n\nThe link above provides more details about the type, area, location, activity, whether the victim was a male or female, their age, description of the injury, time of the incident, shark species, and investigator/source for each observation. \n\nWhere a range of dates is provided for a particular incident, we have used the earliest year when plotting the data. For example, where the date is provided as \"Between 1918 and 1939\" we plot this as 1918. For years entered as \"Before xxxx\", we have simply input the previous year. The observations 'Portugal / India' for 1580, and 'Africa' for 1846 have been dropped due to their geographical inaccuracy.\n\nThe 'Global Shark Attack File'  figures reflect reported/recorded attacks or deaths only. For less recent years, these records could be incomplete.",
+  "sources": [
+    {
+      "name": "Global Shark Attack File (GSAF) (2018) ",
+      "dataPublishedBy": "Global Shark Attack File",
+      "dataPublisherSource": "Multiple sources including historical data. See 'Investigator or Source' column in link below for each observation.",
+      "link": "https://docs.google.com/spreadsheets/d/1rH3O8JQ1v6tt7swPNbE5B5-AtVr9OtjhhmwpEuBQFbc/edit?usp=sharing",
+      "retrievedDate": "01/08/2018",
+      "additionalInfo": "The Global Shark Attack File (GSAF) keeps an incident log that is updated with each new shark attack. Four types of shark attack categories are included: provoked, unprovoked, boating incidents, and sea disasters. The GSAF defines provoked incidents as incidents in which \"the shark was speared, hooked, captured or in which a human drew 'first blood'\" versus unprovoked incidents where this behaviour did not occur. Boating incidents are defined as cases where \"a boat was bitten or rammed by a shark.\" Sea disasters are \"accidents that place people in the day-to-day business of sharks.\" \n\nShark attacks classified as \"Invalid\" or \"Questionable\" have been excluded from estimates.\n\nThe link above provides more details about the type, area, location, activity, whether the victim was a male or female, their age, description of the injury, time of the incident, shark species, and investigator/source for each observation. \n\nWhere a range of dates is provided for a particular incident, we have used the earliest year when plotting the data. For example, where the date is provided as \"Between 1918 and 1939\" we plot this as 1918. For years entered as \"Before xxxx\", we have simply input the previous year. The observations 'Portugal / India' for 1580, and 'Africa' for 1846 have been dropped due to their geographical inaccuracy.\n\nThe 'Global Shark Attack File'  figures reflect reported/recorded attacks or deaths only. For less recent years, these records could be incomplete."
+    }
+  ],
+  "owidTags": [
+    "Causes of Death"
+  ],
+  "resources": [
+    {
+      "path": "Shark attacks and fatalities - Global Shark Attack File (GSAF) (2018) .csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total number of shark attacks (GSAF (2018))",
+            "type": "any",
+            "description": "The total number of shark attacks, including both fatal and non-fatal incidents.\n\n4 types of shark attacks are included: provoked, unprovoked, boating incidents, and sea disasters. Shark attacks categorised as \"Questionable\" or \"Invalid\" have been excluded from these figures.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total number of shark attack fatalities (GSAF (2018))",
+            "type": "any",
+            "description": "Total number of deaths resulting from shark attacks. \n\nShark attacks categorised as \"Questionable\" or \"Invalid\" have been excluded from these figures.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
