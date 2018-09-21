@@ -1,0 +1,45 @@
+{
+  "name": "Deaths by World Region - WHO (2016)",
+  "title": "Deaths by World Region - WHO (2016)",
+  "id": 207,
+  "description": "The original dataset is published with confidence intervals.",
+  "sources": [
+    {
+      "name": "Deaths by World Region - WHO (2016)",
+      "dataPublishedBy": "World Health Organization - Global Health Observatory",
+      "dataPublisherSource": "Census data.",
+      "link": "http://apps.who.int/gho/data/view.main.14117?lang=en",
+      "retrievedDate": "14/04/2016",
+      "additionalInfo": "The original dataset is published with confidence intervals."
+    }
+  ],
+  "owidTags": [
+    "Malaria"
+  ],
+  "resources": [
+    {
+      "path": "Deaths by World Region - WHO (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Malaria Deaths by World Region (WHO (2016))",
+            "type": "any",
+            "description": "Absolute number of deaths",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
