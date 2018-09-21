@@ -1,0 +1,5 @@
+# Bourguignon and Morrisson (2002) and World Bank (PovcalNet) (2015)
+
+The share of people of living in poverty and extreme poverty is taken from Bourguignon and Morrison (2002), and ‘the poverty lines were calibrated so that poverty and extreme poverty headcounts in 1992 coincided roughly with estimates from other sources’. And in footnote they say ‘these definitions correspond to poverty lines equal to consumption per capita of $2 and $1 a day, expressed in 1985 PPP.’
+
+To this I added the share of people living living below the international poverty line which, since the revision in 2015, is $1.90 at 2011 purchasing-power parity (PPP). The revisions in the definition of the poverty line and the PPP adjustment make the poverty figures in levels not comparable to earlier data – to illustrate this I have plotted both series for the time from 1981 to 1992. The World Bank data was downloaded in October 2015.
