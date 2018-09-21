@@ -1,0 +1,42 @@
+{
+  "name": "Discrimination towards those with HIV - UNAIDS",
+  "title": "Discrimination towards those with HIV - UNAIDS",
+  "id": 2491,
+  "description": "This metric measures the share of adults aged 15-49 years old who convey discriminatory attitudes towards people living with HIV. This is measured through population-based surveys (demographic, household surveys and cohort cluster surveys).\n\nTo assess discriminatory attitudes, these studies ask participants a simple yes/no question of \"Would you buy fruits or vegetables from a local market seller if you knew the seller had HIV?\". The given percentage indicates the share of respondents who answered \"no\". Respondents who were unfamiliar on the meaning of HIV were excluded from results of this analysis.",
+  "sources": [
+    {
+      "name": "Discrimination towards those with HIV - UNAIDS",
+      "dataPublishedBy": "UNAIDS",
+      "dataPublisherSource": "Population-based surveys",
+      "link": "http://aidsinfoonline.org/",
+      "retrievedDate": "2nd March 2018",
+      "additionalInfo": "This metric measures the share of adults aged 15-49 years old who convey discriminatory attitudes towards people living with HIV. This is measured through population-based surveys (demographic, household surveys and cohort cluster surveys).\n\nTo assess discriminatory attitudes, these studies ask participants a simple yes/no question of \"Would you buy fruits or vegetables from a local market seller if you knew the seller had HIV?\". The given percentage indicates the share of respondents who answered \"no\". Respondents who were unfamiliar on the meaning of HIV were excluded from results of this analysis."
+    }
+  ],
+  "owidTags": [
+    "HIV / AIDS"
+  ],
+  "resources": [
+    {
+      "path": "Discrimination towards those with HIV - UNAIDS.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of adults with discriminatory attitudes towards people living with HIV",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
