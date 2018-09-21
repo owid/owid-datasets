@@ -1,0 +1,54 @@
+{
+  "name": "The allocation of time over five decades - Aguiar and Hurst (2006)",
+  "title": "The allocation of time over five decades - Aguiar and Hurst (2006)",
+  "id": 2801,
+  "description": "",
+  "sources": [
+    {
+      "name": "Aguiar and Hurst (2006)",
+      "dataPublishedBy": "Aguiar, M. and Hurst, E., 2006. Measuring trends in leisure: evidence from five decades of time use surveys. Federal Reserve Bank of Boston Working Paper, 2.",
+      "dataPublisherSource": "Time use surveys",
+      "link": "https://www.econstor.eu/bitstream/10419/55560/1/508634636.pdf",
+      "retrievedDate": "07/06/2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Working Hours"
+  ],
+  "resources": [
+    {
+      "path": "The allocation of time over five decades - Aguiar and Hurst (2006).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Hours per week spent in market and non-market work (Aguiar and Hurst (2006))",
+            "type": "any",
+            "description": "Aguiar and Hurst (2006) define \"core\" market work to \"include all time spent working in the market sector on main jobs, second jobs, and overtime, including any time spent working at home. This market-work measure is analogous to the market work measures in the Census, the Panel Survey of Income Dynamics (PSID), or the Survey of Consumer Finances (SCF).\n\nThe broader category \"total\" market work is core market work plus time spent commuting to/from work and time spent on ancillary work activities (e.g. time spent at work on breaks or eating a meal).\"\n\nNote non-market work excludes child care which has been included as a separate category altogether.\n\nAguiar and Hurst define three categories of time spent in non-market production. Time spent on an activity includes any time spent on transportation associated with that activity. \n1. Time spent on \"core\" housework. This includes any time spent on meal preparation and cleanup, doing laundry, ironing, dusting, vacuuming, indoor household cleaning, indoor design and maintenance (including painting and decorating), etc.\n2. Time spent “obtaining goods and services.” This category includes all time spent\nacquiring any goods or services (excluding medical care, education, and restaurant meals). Examples include grocery shopping, shopping for other household items, comparison shopping,\ncoupon clipping, going to the bank, going to a barber, going to the post office, buying goods online, etc.\n3. Total non-market work includes time spent in core household chores, time spent obtaining goods and services, plus time spent on other home production such as home maintenance, outdoor cleaning, vehicle repair, gardening, pet care, etc. This latter category is designed to be a complete measure of non‐market work.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Hours per week spent on child care (Aguiar and Hurst (2006))",
+            "type": "any",
+            "description": "Aguiar and Hurst (2006) define 'primary' child care as \"any time spent on the basic needs of children, including breast feeding, rocking a child to sleep, general feeding, changing diapers, providing medical care (either directly or indirectly), grooming, etc; 'educational' child care as any time spent reading to children, teaching children, helping children with homework, attending meetings at a child’s school, etc; 'recreational' child care as playing games with children, playing outdoors with children, attending a child’s sporting event or dance recital, going to the zoo with children, and taking walks with children; and 'total' child care,” which is the sum of the other three measures.\"",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Hours per week spent in leisure (Aguiar and Hurst (2006))",
+            "type": "any",
+            "description": "Authors explore three alternative definitions of leisure. Leisure Measure 1 sums together the time spent on \"entertainment/social activities/relaxing\" and \"active recreation\". Activities in this measure do not have close market substitutes, such as watching television, leisure reading, going to parties, relaxing, going to bars, playing golf, surfing the web, visiting friends etc. \"Recreational\" child care is included in this measure which includes activities such as playing with a child, going on outings with a child, attending a child's sporting events or dance recital, etc. \n\nLeisure Measure 2 includes Leisure Measure 1 as well as time spent in sleeping, eating, and personal care, e.g. eating at home or in restaurants. \n\nLeisure Measure 3 includes Leisure Measure 2 plus time spent in \"primary\" and \"educational\" child care. \"Primary\" child care includes any time spent on the basic needs of children while \"educational\" child care includes time spent reading to children, teaching children, helping with homework etc.\n\nThe authors note: \"there appears to be a discontinuity in how child care is measured between the 2003 American Time Use Survey and all other surveys. There is a potential for there to be an increase in time spent in child care activities between the 2003 time‐use survey and the other surveys that results purely from a change in the classification of activities across the surveys. Time spent in activities that were conducted in the presence of children that were previously coded as time spent in other activities may have been classified as child care in 2003.\"\n\nLeisure Measure 4 is the residual of total work. The difference between Leisure Measures 3 and 4 includes time spent in education, civic and religious activities (going to church, volunteering, social clubs, etc.), caring for other adults, and own medical care.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
