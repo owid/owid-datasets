@@ -1,0 +1,42 @@
+{
+  "name": "Year of Maternal and Neonatal Tetanus (MNT) elimination (WHO and KIWANIS, 2018)",
+  "title": "Year of Maternal and Neonatal Tetanus (MNT) elimination (WHO and KIWANIS, 2018)",
+  "id": 2449,
+  "description": "The WHO described 57 countries as at risk of maternal and neonatal tetanus in 1999 here: http://www.who.int/immunization/diseases/MNTE_initiative/en/index4.html\r\n\r\nFor the countries that eliminated MNT before 2011, the list of references was found here (http://www.who.int/immunization/diseases/MNTE_resources/en/) but the individual references are linked below as well:\r\nBangladesh: http://www.who.int/wer/2008/wer8334.pdf?ua=1\r\nBenin: http://www.who.int/immunization/diseases/MNTEStrategicPlan_E.pdf\r\nBurundi: http://www.who.int/wer/2011/wer8628.pdf?ua=1\r\nComoros: http://www.who.int/wer/2011/wer8628.pdf?ua=1\r\nCongo: http://www.who.int/wer/2009/wer8445.pdf?ua=1\r\nEgypt: http://www.who.int/wer/2007/wer8226_27.pdf?ua=1\r\nEritrea: http://www.who.int/wer/2004/en/wer7924.pdf?ua=1\r\nMalawi: http://www.who.int/wer/2004/en/wer7901.pdf?ua=1\r\nMorocco: http://www.who.int/immunization/diseases/WER_2002_Morocco.pdf?ua=1\r\nMozambique: http://www.who.int/wer/2011/wer8644.pdf?ua=1\r\nMyanmar: http://www.who.int/wer/2010/wer8543.pdf?ua=1\r\nNamibia: http://www.who.int/immunization/diseases/MNTEStrategicPlan_E.pdf\r\nNepal: http://www.who.int/wer/2006/wer8113.pdf?ua=1\r\nRwanda: http://www.who.int/wer/2004/en/wer7946.pdf?ua=1\r\nSouth Africa: https://www.sajei.co.za/index.php/SAJEI/article/viewFile/74/68\r\nTogo: http://www.who.int/wer/2006/wer8104.pdf?ua=1\r\nTurkey: http://www.who.int/wer/2009/wer8417.pdf?ua=1\r\nUganda: http://www.who.int/pmnch/media/news/2011/20110726_uganda_mnctetanus/en/\r\nVietnam: http://www.who.int/wer/2006/wer8127.pdf?ua=1\r\nZambia: http://www.who.int/immunization/diseases/WER_2008_Zambia.pdf?ua=1\r\nZimbabwe: http://www.who.int/docstore/wer/pdf/2001/wer7614.pdf?ua=1\r\n\r\nFor countries that eliminated MNT after 2010, their year of elimination was cited on the KIWANIS website here: \r\nhttp://sites.kiwanis.org/Kiwanis/en/theELIMINATEproject/Progress/ProgressDashboard.aspx",
+  "sources": [
+    {
+      "name": "WHO (2018) and KIWANIS (2018)",
+      "dataPublishedBy": "Our World in Data (compiled by Sophie Ochmann, 2018) based on WHO (2018) and KIWANIS (2018)",
+      "dataPublisherSource": "World Health Organization and KIWANIS certification and monitoring system",
+      "link": "http://www.who.int/immunization/diseases/MNTE_resources/en/ http://sites.kiwanis.org/Kiwanis/en/theELIMINATEproject/Progress/ProgressDashboard.aspx",
+      "retrievedDate": "16 February 2018",
+      "additionalInfo": "The WHO described 57 countries as at risk of maternal and neonatal tetanus in 1999 here: http://www.who.int/immunization/diseases/MNTE_initiative/en/index4.html\r\n\r\nFor the countries that eliminated MNT before 2011, the list of references was found here (http://www.who.int/immunization/diseases/MNTE_resources/en/) but the individual references are linked below as well:\r\nBangladesh: http://www.who.int/wer/2008/wer8334.pdf?ua=1\r\nBenin: http://www.who.int/immunization/diseases/MNTEStrategicPlan_E.pdf\r\nBurundi: http://www.who.int/wer/2011/wer8628.pdf?ua=1\r\nComoros: http://www.who.int/wer/2011/wer8628.pdf?ua=1\r\nCongo: http://www.who.int/wer/2009/wer8445.pdf?ua=1\r\nEgypt: http://www.who.int/wer/2007/wer8226_27.pdf?ua=1\r\nEritrea: http://www.who.int/wer/2004/en/wer7924.pdf?ua=1\r\nMalawi: http://www.who.int/wer/2004/en/wer7901.pdf?ua=1\r\nMorocco: http://www.who.int/immunization/diseases/WER_2002_Morocco.pdf?ua=1\r\nMozambique: http://www.who.int/wer/2011/wer8644.pdf?ua=1\r\nMyanmar: http://www.who.int/wer/2010/wer8543.pdf?ua=1\r\nNamibia: http://www.who.int/immunization/diseases/MNTEStrategicPlan_E.pdf\r\nNepal: http://www.who.int/wer/2006/wer8113.pdf?ua=1\r\nRwanda: http://www.who.int/wer/2004/en/wer7946.pdf?ua=1\r\nSouth Africa: https://www.sajei.co.za/index.php/SAJEI/article/viewFile/74/68\r\nTogo: http://www.who.int/wer/2006/wer8104.pdf?ua=1\r\nTurkey: http://www.who.int/wer/2009/wer8417.pdf?ua=1\r\nUganda: http://www.who.int/pmnch/media/news/2011/20110726_uganda_mnctetanus/en/\r\nVietnam: http://www.who.int/wer/2006/wer8127.pdf?ua=1\r\nZambia: http://www.who.int/immunization/diseases/WER_2008_Zambia.pdf?ua=1\r\nZimbabwe: http://www.who.int/docstore/wer/pdf/2001/wer7614.pdf?ua=1\r\n\r\nFor countries that eliminated MNT after 2010, their year of elimination was cited on the KIWANIS website here: \r\nhttp://sites.kiwanis.org/Kiwanis/en/theELIMINATEproject/Progress/ProgressDashboard.aspx"
+    }
+  ],
+  "owidTags": [
+    "Eradication of Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Year of Maternal and Neonatal Tetanus (MNT) elimination (WHO and KIWANIS, 2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Year of Maternal Neonatal Tetanus (MNT) elimination",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
