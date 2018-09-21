@@ -1,0 +1,150 @@
+{
+  "name": "Technology Adoption - Isard (1942) and others",
+  "title": "Technology Adoption - Isard (1942) and others",
+  "id": 941,
+  "description": "Roads - Historical Statistics of the United States, Colonial Times to 1970, Volume 1 and 2. Bureau of the Census, Washington D.C. see Chapter Q - Transportation, Q50-63. Link: https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chQ.pdf;\nDiesel locomotives - Historical Statistics of the United States, Colonial Times to 1970, Volume 1 and 2. Bureau of the Census, Washington D.C. see Chapter Q - Transportation, Series Q284-312: Railroad mileage, equipment, and passenger traffic and revenue: 1890 to 1970. Link: https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chQ.pdf;\nAgricultural tractor, ATM, Aviation passenger-km, Credit and debit payments, Card payments, MRI units, Newspapers, Retail locations accepting card, Rail passenger-km, Steamships (tons), Crude steel production (blast oxygen furnaces)/(electric furnaces), Synthetic (non-cellulosic) fibres, Commercial vehicles - Comin and Hobijn (2004). Link: http://www.nber.org/data/chat/;\nMail and telegrams - Mitchell (1998) International Historical Statistics: the Americas, 1970-2000, 5th Ed",
+  "sources": [
+    {
+      "name": "Isard (1942) and others",
+      "dataPublishedBy": "Isard (1942) and others",
+      "dataPublisherSource": "Scholarly work",
+      "link": "http://www.jstor.org/stable/1927670",
+      "retrievedDate": "28/09/2017",
+      "additionalInfo": "Roads - Historical Statistics of the United States, Colonial Times to 1970, Volume 1 and 2. Bureau of the Census, Washington D.C. see Chapter Q - Transportation, Q50-63. Link: https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chQ.pdf;\nDiesel locomotives - Historical Statistics of the United States, Colonial Times to 1970, Volume 1 and 2. Bureau of the Census, Washington D.C. see Chapter Q - Transportation, Series Q284-312: Railroad mileage, equipment, and passenger traffic and revenue: 1890 to 1970. Link: https://www2.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970/hist_stats_colonial-1970p2-chQ.pdf;\nAgricultural tractor, ATM, Aviation passenger-km, Credit and debit payments, Card payments, MRI units, Newspapers, Retail locations accepting card, Rail passenger-km, Steamships (tons), Crude steel production (blast oxygen furnaces)/(electric furnaces), Synthetic (non-cellulosic) fibres, Commercial vehicles - Comin and Hobijn (2004). Link: http://www.nber.org/data/chat/;\nMail and telegrams - Mitchell (1998) International Historical Statistics: the Americas, 1970-2000, 5th Ed"
+    }
+  ],
+  "owidTags": [
+    "Technological Progress"
+  ],
+  "resources": [
+    {
+      "path": "Technology Adoption - Isard (1942) and others.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Canals (Isard (1942))",
+            "type": "any",
+            "description": "Measures the mileage of completed canals.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Roads (US Census Bureau (2017))",
+            "type": "any",
+            "description": "Total surface mileage in thousands of miles.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Diesel locomotives in service (US Census Bureau (2017))",
+            "type": "any",
+            "description": "Number of diesel locomotives in service.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Agricultural tractor (Comin and Hobijn (2004))",
+            "type": "any",
+            "description": "Number of wheel and crawler tractors (excl. garden tractors) used in agriculture",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "ATM (Comin and Hobijn (2004))",
+            "type": "any",
+            "description": "Number of electro-mechanical devices that permit authorized users, typically using machine readable plastic cards, to withdraw cash from their accounts and/or access other services",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Aviation passenger-km (Comin and Hobijn (2004))",
+            "type": "any",
+            "description": "Civil aviation passenger‐km travelled on scheduled services by companies registered in the country concerned. Not a measure of travel through a country’s airports",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Credit and debit payments (Comin and Hobijn (2004))",
+            "type": "any",
+            "description": "Payments by credit and debit cards (in millions)",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Card payments (Comin and Hobijn (2004))",
+            "type": "any",
+            "description": "Number of transactions using payment cards at points of service (retail locations)",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Mail (Mitchell (1998))",
+            "type": "any",
+            "description": "Number of items mailed/received, with internal items counted one and cross border items counted once for each country. May or may not include newspapers sent by mail, registered mail, or parcel post (in millions)",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "MRI units (Comin and Hobijn (2004))",
+            "type": "any",
+            "description": "Number of magnetic resonance imaging (MRI) units",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Newspapers (Comin and Hobijn (2004))",
+            "type": "any",
+            "description": "Number of newspaper copies circulated daily. Note that there is a tendency for news circulation to be under‐reported, since data for weekly and biweekly publications are not included.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Retail locations accepting card (Comin and Hobijn (2004)) ",
+            "type": "any",
+            "description": "Number of retail locations at which payment cards can be used.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Rail passenger-km (Comin and Hobijn (2004))",
+            "type": "any",
+            "description": "Passenger journeys by railway in passenger‐km. Free passengers typically excluded but may be included for some countries",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Steamships (tons) (Comin and Hobijn (2004))",
+            "type": "any",
+            "description": "Tonnage of steam ships (above a minimum weight) in use at midyear",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Crude steel production (blast oxygen furnaces) (Comin and Hobijn (2004)) ",
+            "type": "any",
+            "description": "Crude steel production (in metric tons) in blast oxygen furnaces (a process that replaced Bessemer and OHF processes)\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Crude steel production (electric furnaces) (Comin and Hobijn (2004)) ",
+            "type": "any",
+            "description": "Crude steel production (in metric tons) in electric arc furnaces (a process that complemented and improved upon Bessemer and OHF processes)",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Telegrams (Mitchell (1998))",
+            "type": "any",
+            "description": "Number of telegrams sent, in millions",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Synthetic (non-cellulosic) fibres (Comin and Hobijn (2004))",
+            "type": "any",
+            "description": "Weight of synthetic (non‐cellulosic) fibres used in spindles",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Commercial vehicles (Comin and Hobijn (2004))",
+            "type": "any",
+            "description": "Number of commercial vehicles, typically including buses and taxis (excluding tractors and similar vehicles), in use. Numbers typically derived from) registration and licensing records, meaning that vehicles out of use may occasionally be included",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
