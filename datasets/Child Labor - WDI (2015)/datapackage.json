@@ -1,0 +1,61 @@
+{
+  "name": "Child Labor - WDI (2015)",
+  "title": "Child Labor - WDI (2015)",
+  "id": 162,
+  "description": "",
+  "sources": [
+    {
+      "name": "World Development Indicators (2015)",
+      "dataPublishedBy": "World Bank Development Indicators (2015)",
+      "dataPublisherSource": "World Bank census data, ILO, UNICEF",
+      "link": "http://data.worldbank.org/indicator",
+      "retrievedDate": "02/04/2015",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Child Labor"
+  ],
+  "resources": [
+    {
+      "path": "Child Labor - WDI (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Child labor (boys) and forecasts (World Bank (2015))",
+            "type": "any",
+            "description": "Percentage of male children in employment, between the ages of 7-4. From 1960 to 2060 forecasts included.",
+            "owidDisplaySettings": {
+              "unit": "% of GDP",
+              "shortUnit": "%"
+            }
+          },
+          {
+            "name": "Child labor (boys) (World Bank (2015))",
+            "type": "any",
+            "description": "Share of boys in employment. ",
+            "owidDisplaySettings": {
+              "unit": "PPP (constant 2011 international $)"
+            }
+          },
+          {
+            "name": "Child labor (girls) (World Bank (2015))",
+            "type": "any",
+            "description": "Percentage of female children in employment. ",
+            "owidDisplaySettings": {
+              "unit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
