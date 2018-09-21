@@ -1,0 +1,44 @@
+{
+  "name": "Weekly home production hours in the USA - Ramey (2009) & Ramey Francis (2009)",
+  "title": "Weekly home production hours in the USA - Ramey (2009) & Ramey Francis (2009)",
+  "id": 390,
+  "description": "Following Ramey and Francis (2009), \"the activities included in home production are: planning, purchasing goods and services (except medical and personal care services), care of children and adults (both in the household and outside the household), general cleaning, care and repair of the house and grounds (including yard work, but excluding gardening), preparing and clearing food, making, mending, and laundering of clothing and other household textiles.\".\nRamey and Francis (2009) estimations are based on data assembled by Ramey (2009).\n\nRamey (2009)'s data are assembled and estimated from samples based on a multitude of different sources, including diaries, U.S. census, historical statistics, and surveys from the Bureau of Labour Statistics and the American Heritage Time Use Survey. For more details on how these data are constructed see Ramey (2009), pp.3-4, and Appendix A.",
+  "sources": [
+    {
+      "name": "Ramey and Francis (2009)",
+      "dataPublishedBy": "Ramey, Valerie R. (2009); Francis, Neville. A Century of Work and Leisure. American Economic Journal: Macroeconomics.",
+      "dataPublisherSource": "Authors own calculations based on Ramey, Valerie R. Time Spent in Home Production in the Twentieth-Century United States: New Estimates from Old Data. The Journal of Economic History, 2009.",
+      "link": "https://www.aeaweb.org/articles?id=10.1257/mac.1.2.189",
+      "retrievedDate": "14/04/2017",
+      "additionalInfo": "Following Ramey and Francis (2009), \"the activities included in home production are: planning, purchasing goods and services (except medical and personal care services), care of children and adults (both in the household and outside the household), general cleaning, care and repair of the house and grounds (including yard work, but excluding gardening), preparing and clearing food, making, mending, and laundering of clothing and other household textiles.\".\nRamey and Francis (2009) estimations are based on data assembled by Ramey (2009).\n\nRamey (2009)'s data are assembled and estimated from samples based on a multitude of different sources, including diaries, U.S. census, historical statistics, and surveys from the Bureau of Labour Statistics and the American Heritage Time Use Survey. For more details on how these data are constructed see Ramey (2009), pp.3-4, and Appendix A."
+    }
+  ],
+  "owidTags": [
+    "Working Hours"
+  ],
+  "resources": [
+    {
+      "path": "Weekly home production hours in the USA - Ramey (2009) & Ramey Francis (2009).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Home production working hours per week in the US, by gender and demographic group (Ramey and Francis (2009))",
+            "type": "any",
+            "description": "Home production working hours per week in the US, by gender and demographic group.",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
