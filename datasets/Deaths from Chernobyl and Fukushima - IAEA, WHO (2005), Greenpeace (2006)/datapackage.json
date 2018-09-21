@@ -1,0 +1,76 @@
+{
+  "name": "Deaths from Chernobyl and Fukushima - IAEA, WHO (2005), Greenpeace (2006)",
+  "title": "Deaths from Chernobyl and Fukushima - IAEA, WHO (2005), Greenpeace (2006)",
+  "id": 525,
+  "description": "Estimates of the total number of deaths from the Chernobyl and Fukushima nuclear incidents remain contested: we have therefore included lower and upper estimates to cover the range of considered values.\r\n\r\nThe number of deaths from Chernobyl are based on direct fatalities from the nuclear incident and radiation exposure in close proximities from IAEA/WHO (2005-06). Lower estimates of deaths across the former USSR and Europe from Fairlie and Sumner (2006); and upper estimates from Greenpeace (2005).\r\n\r\nEstimates for Fukushima have been derived from the WHO (2013), and estimated stress-induced deaths in evacuation from the Government of Japan.\r\n\r\nReferences:\r\n\r\nIAEA, WHO (2005/06). Chernobyl’s Legacy: Health, Environmental and Socio-Economic Impacts. Press release available at: http://www.who.int/mediacentre/news/releases/2005/pr38/en/\r\n\r\nFairlie and Sumner (2006). An independent scientific evaluation of health and environmental effects 20 years after the nuclear disaster providing critical analysis of a recent report by the International Atomic Energy Agency (IAEA) and the World Health Organisation (WHO). Available at: http://www.chernobylreport.org/?p=summary\r\n\r\nGreenpeace (2006). The Chernobyl Catastrophe: consequences on human health. Available at: http://www.greenpeace.org/international/Global/international/planet-2/report/2006/4/chernobylhealthreport.pdf\r\n\r\nWorld Health Organisation (2013). Health risk assessment from the nuclear accident after the 2011 Great East Japan Earthquake and Tsunami based on a preliminary dose estimation. Available at: http://apps.who.int/iris/bitstream/10665/78218/1/9789241505130_eng.pdf",
+  "sources": [
+    {
+      "name": "Deaths from Chernobyl and Fukushima - IAEA, WHO (2005), Greenpeace (2006)",
+      "dataPublishedBy": "IAEA, WHO, Greenpeace",
+      "dataPublisherSource": "Variety of sources, see additional information. ",
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "Estimates of the total number of deaths from the Chernobyl and Fukushima nuclear incidents remain contested: we have therefore included lower and upper estimates to cover the range of considered values.\r\n\r\nThe number of deaths from Chernobyl are based on direct fatalities from the nuclear incident and radiation exposure in close proximities from IAEA/WHO (2005-06). Lower estimates of deaths across the former USSR and Europe from Fairlie and Sumner (2006); and upper estimates from Greenpeace (2005).\r\n\r\nEstimates for Fukushima have been derived from the WHO (2013), and estimated stress-induced deaths in evacuation from the Government of Japan.\r\n\r\nReferences:\r\n\r\nIAEA, WHO (2005/06). Chernobyl’s Legacy: Health, Environmental and Socio-Economic Impacts. Press release available at: http://www.who.int/mediacentre/news/releases/2005/pr38/en/\r\n\r\nFairlie and Sumner (2006). An independent scientific evaluation of health and environmental effects 20 years after the nuclear disaster providing critical analysis of a recent report by the International Atomic Energy Agency (IAEA) and the World Health Organisation (WHO). Available at: http://www.chernobylreport.org/?p=summary\r\n\r\nGreenpeace (2006). The Chernobyl Catastrophe: consequences on human health. Available at: http://www.greenpeace.org/international/Global/international/planet-2/report/2006/4/chernobylhealthreport.pdf\r\n\r\nWorld Health Organisation (2013). Health risk assessment from the nuclear accident after the 2011 Great East Japan Earthquake and Tsunami based on a preliminary dose estimation. Available at: http://apps.who.int/iris/bitstream/10665/78218/1/9789241505130_eng.pdf"
+    }
+  ],
+  "owidTags": [
+    "Safety of Different Energy Sources"
+  ],
+  "resources": [
+    {
+      "path": "Deaths from Chernobyl and Fukushima - IAEA, WHO (2005), Greenpeace (2006).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Mortality from evacuation",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Mortality from exposure in proximity",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Metric Tons"
+            }
+          },
+          {
+            "name": "Mortality from low-level exposure",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Per 100,000 employees"
+            }
+          },
+          {
+            "name": "Total number of deaths",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Number"
+            }
+          },
+          {
+            "name": "Direct fatalities",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Per 100,000 population"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
