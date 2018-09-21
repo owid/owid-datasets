@@ -1,0 +1,108 @@
+{
+  "name": "Vaccine Coverage and Disease Burden - WHO (2017)",
+  "title": "Vaccine Coverage and Disease Burden - WHO (2017)",
+  "id": 645,
+  "description": "",
+  "sources": [
+    {
+      "name": "Global Health Observatory Data Repository (2017)",
+      "dataPublishedBy": "WHO’s Global Health Observatory",
+      "dataPublisherSource": "World Health Organization’s statistics",
+      "link": "http://apps.who.int/gho/data/node.home",
+      "retrievedDate": "26/07/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Vaccination"
+  ],
+  "resources": [
+    {
+      "path": "Vaccine Coverage and Disease Burden - WHO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "BCG immunization coverage among 1-year-olds (WHO 2017)",
+            "type": "any",
+            "description": "Percentage of one-year-olds who have received one dose of Bacillus Calmette-Guérin (BCG) vaccine in a given year. BCG vaccine protects against Tuberculosis. \r\nData sources: Household surveys\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Hepatitis B (HepB3) immunization coverage among 1-year-olds (WHO 2017)",
+            "type": "any",
+            "description": "Percentage of one-year-olds who have received three doses of hepatitis B vaccine in a given year.\r\nData sources: Facility reporting system and household surveys\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "DTP3 immunization coverage among 1-year-olds (WHO 2017)",
+            "type": "any",
+            "description": "Percentage of one-year-olds who have received three doses of the combined diphtheria, tetanus toxoid and pertussis (DTP3) vaccine in a given year.\r\nData sources: Facility reporting system and household surveys\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Polio (Pol3) immunization coverage among 1-year-olds (WHO 2017)",
+            "type": "any",
+            "description": "Percentage of one-year-olds who have received three doses of polio vaccine in a given year. \r\nData sources: Facility reporting system and household surveys\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Measles (MCV) immunization coverage among 1-year-olds (WHO 2017)",
+            "type": "any",
+            "description": "Percentage of children under one year of age who have received at least one dose of measles-containing vaccine in a given year. For countries recommending the first dose of measles vaccine in children over 12 months of age, the indicator is calculated as the proportion of children less than 12-23 months of age receiving one dose of measles-containing vaccine.\r\nData sources: Facility reporting system and household surveys\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of confirmed tetanus cases (WHO 2017)",
+            "type": "any",
+            "description": "Confirmed total tetanus cases.\r\nData sources: Surveillance systems \r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number confirmed polio cases (WHO 2017)",
+            "type": "any",
+            "description": "Reported cases of laboratory-confirmed polio cases. A polio case is confirmed if wild poliovirus is isolated from stool specimens collected from an Acute flaccid paralysis (AFP) case.\r\nData sources: Surveillance systems \r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of confirmed pertussis cases (WHO 2017)",
+            "type": "any",
+            "description": "Confirmed pertussis cases, including those confirmed clinically, epidemiologically, or by laboratory investigation. Cases that have been discarded following laboratory investigation should not be included. \r\nData sources: Surveillance systems \r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of confirmed measles cases (WHO 2017)",
+            "type": "any",
+            "description": "Confirmed measles cases, including those confirmed clinically, epidemiologically, or by laboratory investigation. Cases that have been discarded following laboratory investigation should not be included.\r\nData sources: Surveillance systems\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of confirmed diphtheria cases (WHO 2017)",
+            "type": "any",
+            "description": "Confirmed diphtheria cases, including those confirmed clinically, epidemiologically, or by laboratory investigation. Cases that have been discarded following laboratory investigation should not be included.\r\nData sources: Surveillance systems\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Estimated deaths due to tuberculosis per 100,000 population, excluding HIV (WHO 2017)",
+            "type": "any",
+            "description": "Definition given by WHO is “The estimated number of deaths attributable to tuberculosis (TB) in a given year, expressed as the rate per 100,000 population. Published values are rounded to three significant figures.” \r\nData sources: Civil registration with complete coverage and medical certification of cause of death.\r\n",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Estimated number of deaths due to tuberculosis, excluding HIV (WHO 2017)",
+            "type": "any",
+            "description": "Definition given by WHO is “The estimated number of deaths attributable to tuberculosis (TB) in a given year. Published values are rounded to two significant figures.” \r\nData sources: Civil registration with complete coverage and medical certification of cause of death.\r\n\r\n",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
