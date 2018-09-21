@@ -1,0 +1,52 @@
+{
+  "name": "Extreme income poverty in Europe - Bradshaw and Mayhew (2011)",
+  "title": "Extreme income poverty in Europe - Bradshaw and Mayhew (2011)",
+  "id": 353,
+  "description": "Estimates correspond to individuals living in households with per capita disposable income below the corresponding poverty line.",
+  "sources": [
+    {
+      "name": "Extreme income poverty in Europe - Bradshaw and Mayhew (2011)",
+      "dataPublishedBy": "Bradshaw, J., & Mayhew, E. (2011). The measurement of extreme poverty in the European Union.",
+      "dataPublisherSource": "EU SILC 2008",
+      "link": "http://ec.europa.eu/social/BlobServlet?docId=6462&langId=en",
+      "retrievedDate": "16/02/2017",
+      "additionalInfo": "Estimates correspond to individuals living in households with per capita disposable income below the corresponding poverty line."
+    }
+  ],
+  "owidTags": [
+    "World Poverty"
+  ],
+  "resources": [
+    {
+      "path": "Extreme income poverty in Europe - Bradshaw and Mayhew (2011).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "$1 Poverty rate (Bradshaw and Mayhew (2011))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "$2.15 Poverty Rate (Bradshaw and Mayhew (2011))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
