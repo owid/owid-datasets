@@ -1,0 +1,66 @@
+{
+  "name": "Industrial motive power in the UK 1800-70 (Musson (1976))",
+  "title": "Industrial motive power in the UK 1800-70 (Musson (1976))",
+  "id": 2427,
+  "description": "Data published by: Musson, A. E. “Industrial Motive Power in the United Kingdom, 1800-70.” The Economic History Review, vol. 29, no. 3, 1976, pp. 415–439. JSTOR, JSTOR, www.jstor.org/stable/2595302. Adapted from table on page 424.",
+  "sources": [
+    {
+      "name": "Musson (1976)",
+      "dataPublishedBy": "Musson (1976) - Industrial Motive Power in the United Kingdom, 1800–70 ",
+      "dataPublisherSource": "Historical data",
+      "link": "https://www.jstor.org/stable/2595302",
+      "retrievedDate": "15/02/2018",
+      "additionalInfo": "Data published by: Musson, A. E. “Industrial Motive Power in the United Kingdom, 1800-70.” The Economic History Review, vol. 29, no. 3, 1976, pp. 415–439. JSTOR, JSTOR, www.jstor.org/stable/2595302. Adapted from table on page 424."
+    }
+  ],
+  "owidTags": [
+    "Industrialization & Technological Progress"
+  ],
+  "resources": [
+    {
+      "path": "Industrial motive power in the UK 1800-70 (Musson (1976)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of factories (Musson (1976))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of steam engines (Musson (1976))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Horse power of steam engines (Musson (1976))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of water-wheels (Musson (1976))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Horse-power of water-wheels (Musson (1976))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
