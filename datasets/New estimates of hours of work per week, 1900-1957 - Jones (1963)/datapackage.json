@@ -1,0 +1,83 @@
+{
+  "name": "New estimates of hours of work per week, 1900-1957 - Jones (1963)",
+  "title": "New estimates of hours of work per week, 1900-1957 - Jones (1963)",
+  "id": 2825,
+  "description": "",
+  "sources": [
+    {
+      "name": "Jones (1963)",
+      "dataPublishedBy": "Jones, E.B., 1963. New estimates of hours of work per week and hourly earnings, 1900-1957. The Review of Economics and Statistics, pp.374-385.",
+      "dataPublisherSource": "Historical estimates, Bureau of Labour Statistics etc.",
+      "link": "https://www.jstor.org/stable/1927922",
+      "retrievedDate": "28/06/2018"
+    }
+  ],
+  "owidTags": [
+    "Working Hours"
+  ],
+  "resources": [
+    {
+      "path": "New estimates of hours of work per week, 1900-1957 - Jones (1963).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Average hours per week worked in manufacturing (BLS)",
+            "type": "any",
+            "description": "Average hours of work per week in manufacturing using the Bureau of Labour Statistics' (BLS) historical series. Employee coverage is limited to production workers.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Average hours per week worked in manufacturing (Jones)",
+            "type": "any",
+            "description": "Average hours of work per week in manufacturing using Jones' series construction. Employee coverage is limited to production workers.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Average hours of work per week on railroads (BLS)",
+            "type": "any",
+            "description": "Average hours of work per week working on railroads. Estimates derived hours per week from the monthly reports on hours filed by Class I steam railroads with the United States Interstate Commerce Commission. Total hours paid have sub-categories which allows the separation of hours paid for into 'hours actually spent at work', and 'hours paid for but not worked'. BLS bases its estimates on total time paid for, including both categories above, whereas Jones' series excludes the sub-category 'time paid for but not worked'. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Average hours of work per week on railroads (Jones)",
+            "type": "any",
+            "description": "Average hours of work per week working on railroads. Estimates derived hours per week from the monthly reports on hours filed by Class I steam railroads with the United States Interstate Commerce Commission. Total hours paid have sub-categories which allows the separation of hours paid for into 'hours actually spent at work', and 'hours paid for but not worked'. BLS bases its estimates on total time paid for, including both categories above, whereas Jones' series excludes the sub-category 'time paid for but not worked'. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Average hours of work per week in bituminous coal (BLS)",
+            "type": "any",
+            "description": "Average hours of work per week in bituminous coal. Data gathered using monthly reports from a sample of establishments since 1932. Employee coverage is limited to production workers.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Average hours of work per week in bituminous coal (Jones)",
+            "type": "any",
+            "description": "Average hours of work per week in bituminous coal. Data gathered using monthly reports from a sample of establishments since 1932. Jones' historical series takes the data from the BLS and performs downward adjustments of the BLS observations necessitated by the introduction of a number of employer pay practices. In 1943, employers began to compensate workers in bituminous and anthracite industries for the hours spent travelling in the mine shaft opening to the place of work within the time. Travel time within the mine is included in average work hours when it is paid for, and excluded when it is not. Employee coverage is limited to production workers.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Average hours of work per week in anthracite coal (BLS)",
+            "type": "any",
+            "description": "Average hours of work per week in bituminous coal. Data gathered using monthly reports from a sample of establishments since 1932. Jones' historical series takes the data from the BLS and performs downward adjustments of the BLS observations necessitated by the introduction of a number of employer pay practices. In 1943, employers began to compensate workers in bituminous and anthracite industries for the hours spent travelling in the mine shaft opening to the place of work within the time. Travel time within the mine is included in average work hours when it is paid for, and excluded when it is not. Employee coverage is limited to production workers.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Average hours of work per week in anthracite coal (Jones)",
+            "type": "any",
+            "description": "Average hours of work per week in bituminous coal. Data gathered using monthly reports from a sample of establishments since 1932. Jones' historical series takes the data from the BLS and performs downward adjustments of the BLS observations necessitated by the introduction of a number of employer pay practices. In 1943, employers began to compensate workers in bituminous and anthracite industries for the hours spent travelling in the mine shaft opening to the place of work within the time. Travel time within the mine is included in average work hours when it is paid for, and excluded when it is not. Employee coverage is limited to production workers.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
