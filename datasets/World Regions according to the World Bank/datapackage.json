@@ -1,0 +1,42 @@
+{
+  "name": "World Regions according to the World Bank",
+  "title": "World Regions according to the World Bank",
+  "id": 960,
+  "description": "This dataset simply lists how the World Bank defines world regions.",
+  "sources": [
+    {
+      "name": "World Bank (world region definitions)",
+      "dataPublishedBy": "World Bank",
+      "dataPublisherSource": null,
+      "link": "https://data.worldbank.org/country",
+      "retrievedDate": "2017-October-8",
+      "additionalInfo": "This dataset simply lists how the World Bank defines world regions."
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "World Regions according to the World Bank.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "World Region according to the World Bank",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
