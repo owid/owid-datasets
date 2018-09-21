@@ -1,0 +1,42 @@
+{
+  "name": "Long run life expectancy - Gapminder, UN",
+  "title": "Long run life expectancy - Gapminder, UN",
+  "id": 2793,
+  "description": "Gapminder definition of life expectancy: The average number of years a newborn child would live if current mortality patterns were to stay the same. Interpolated values of life expectancy have been used.\n\nThe UN Population Division defines life expectancy at birth as: The average number of years of life expected by a hypothetical cohort of individuals who would be subject during all their lives to the mortality rates of a given period. Interpolated values have been used.\n\n\nGapminder data is used up until 1949. UN Population Division (2017 Revision) data is used from 1950 to today.",
+  "sources": [
+    {
+      "name": "Life expectancy - Gapminder, UN",
+      "dataPublishedBy": "Gapminder, UN",
+      "dataPublisherSource": "Historical estimates, national statistics",
+      "link": "Gapminder: https://www.gapminder.org/data/documentation/gd004/ and UN: https://esa.un.org/unpd/wpp/Download/Standard/Population/",
+      "retrievedDate": "15/05/2018",
+      "additionalInfo": "Gapminder definition of life expectancy: The average number of years a newborn child would live if current mortality patterns were to stay the same. Interpolated values of life expectancy have been used.\n\nThe UN Population Division defines life expectancy at birth as: The average number of years of life expected by a hypothetical cohort of individuals who would be subject during all their lives to the mortality rates of a given period. Interpolated values have been used.\n\n\nGapminder data is used up until 1949. UN Population Division (2017 Revision) data is used from 1950 to today."
+    }
+  ],
+  "owidTags": [
+    "Life Expectancy"
+  ],
+  "resources": [
+    {
+      "path": "Long run life expectancy - Gapminder, UN.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Life expectancy (Gapminder, UN)",
+            "type": "any",
+            "description": "Gapminder definition of life expectancy: The average number of years a newborn child would live if current mortality patterns were to stay the same. Interpolated values of life expectancy have been used.\n\nThe UN Population Division defines life expectancy at birth as: The average number of years of life expected by a hypothetical cohort of individuals who would be subject during all their lives to the mortality rates of a given period. Interpolated values have been used.\n\nGapminder data is used up until 1949. UN Population Division (2017 Revision) data is used from 1950 to today.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
