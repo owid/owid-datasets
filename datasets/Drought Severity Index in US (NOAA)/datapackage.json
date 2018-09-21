@@ -1,0 +1,48 @@
+{
+  "name": "Drought Severity Index in US (NOAA)",
+  "title": "Drought Severity Index in US (NOAA)",
+  "id": 2955,
+  "description": "The Palmer Drought Severity Index is the most widely used index to measure drought severity over time. is calculated from precipitation and temperature measurements at weather stations. An index value of zero represents the average moisture conditions observed between 1931 and 1990 at a given location. A positive value means conditions are wetter than average, while a negative value is drier than average. \n\nIndex values from locations across US have been averaged together to produce the national or regional values.\n\nPositive values represent wetter-than-average conditions, while negative values represent drier-than-average conditions. A value between -2 and -3 indicates moderate drought, -3 to -4 is severe drought, and -4 or below indicates extreme drought.",
+  "sources": [
+    {
+      "name": "Drought Severity Index in US (NOAA)",
+      "dataPublishedBy": "United States Environmental Protection Agency (EPA)",
+      "dataPublisherSource": "NOAA (National Oceanic and Atmospheric Administration)",
+      "link": "https://www.epa.gov/climate-indicators/climate-change-indicators-drought; http://www.ncdc.noaa.gov/sotc/drought/2012/12",
+      "retrievedDate": "19th September 2018",
+      "additionalInfo": "The Palmer Drought Severity Index is the most widely used index to measure drought severity over time. is calculated from precipitation and temperature measurements at weather stations. An index value of zero represents the average moisture conditions observed between 1931 and 1990 at a given location. A positive value means conditions are wetter than average, while a negative value is drier than average. \n\nIndex values from locations across US have been averaged together to produce the national or regional values.\n\nPositive values represent wetter-than-average conditions, while negative values represent drier-than-average conditions. A value between -2 and -3 indicates moderate drought, -3 to -4 is severe drought, and -4 or below indicates extreme drought."
+    }
+  ],
+  "owidTags": [
+    "Natural Catastrophes"
+  ],
+  "resources": [
+    {
+      "path": "Drought Severity Index in US (NOAA).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Palmer Drought Severity Index (annual) (NOAA)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Palmer Drought Severity Index (9-year avg) (NOAA)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
