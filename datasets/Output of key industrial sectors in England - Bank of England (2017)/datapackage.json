@@ -1,0 +1,60 @@
+{
+  "name": "Output of key industrial sectors in England - Bank of England (2017)",
+  "title": "Output of key industrial sectors in England - Bank of England (2017)",
+  "id": 706,
+  "description": "This dataset is produced using 'A4. Ind Production 1270-1870' sheet in BoE dataset. For each variables, output figures are indexed those in year 1700 (i.e. 1700 = 100), and they are measured on a log scale. ",
+  "sources": [
+    {
+      "name": "Output of key industrial sectors in England - Bank of England (2017)",
+      "dataPublishedBy": "Bank of England (BoE) (2017)",
+      "dataPublisherSource": "Broadberry, S., Campbell, B. M., Klein, A., Overton, M., & Van Leeuwen, B. (2015). British economic growth, 1270–1870. Cambridge University Press.",
+      "link": "http://www.bankofengland.co.uk/research/Pages/datasets/default.aspx#threecenturies",
+      "retrievedDate": "25/08/2017",
+      "additionalInfo": "This dataset is produced using 'A4. Ind Production 1270-1870' sheet in BoE dataset. For each variables, output figures are indexed those in year 1700 (i.e. 1700 = 100), and they are measured on a log scale. "
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Output of key industrial sectors in England - Bank of England (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Metals and Mining (Bank of England (2017))",
+            "type": "any",
+            "description": "Total output of the metals and mining sector, indexed to the year 1700, in log scale. It shows how much production took place in metal and mining sector relative to that in 1700 when measured on a log scale.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Textiles and Leather (Bank of England (2017))",
+            "type": "any",
+            "description": "Total output of the textiles and leather sector, indexed to the year 1700, in log scale. It shows how much production took place in textiles and leather sector relative to that in 1700 when measured on a log scale.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Other Industries (Bank of England (2017))",
+            "type": "any",
+            "description": "Total output of the industries other than metals, mining, textiles and leather. It is indexed to the year 1700 in log scale. It shows how much production took place in 'other industries' relative to that in 1700 when measured on a log scale.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total Industry (Bank of England (2017))",
+            "type": "any",
+            "description": "Total industrial output, indexed to the year 1700, in log scale. It shows how much industrial output was produced relative to that in 1700 when measured on a log scale. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
