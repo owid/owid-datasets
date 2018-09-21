@@ -1,0 +1,54 @@
+{
+  "name": "Healthy Life Expectancy - IHME",
+  "title": "Healthy Life Expectancy - IHME",
+  "id": 2448,
+  "description": "Data on 'Healthy Life Expectancy' and 'Life Expectancy' are provided by the Institute of Health Metrics and Evaluation (IHME), Global Burden of Disease. This is measured based on expectancy of a newborn born in the given year.\n\nOur World in Data have calculated the number of years of living with a disability as the difference between total and healthy life expectancy.",
+  "sources": [
+    {
+      "name": "Healthy Life Expectancy - IHME",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2016 (GBD 2016) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2017.",
+      "dataPublisherSource": null,
+      "link": "http://ghdx.healthdata.org/gbd-results-tool",
+      "retrievedDate": "15th February 2018",
+      "additionalInfo": "Data on 'Healthy Life Expectancy' and 'Life Expectancy' are provided by the Institute of Health Metrics and Evaluation (IHME), Global Burden of Disease. This is measured based on expectancy of a newborn born in the given year.\n\nOur World in Data have calculated the number of years of living with a disability as the difference between total and healthy life expectancy."
+    }
+  ],
+  "owidTags": [
+    "Life Expectancy"
+  ],
+  "resources": [
+    {
+      "path": "Healthy Life Expectancy - IHME.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Healthy Life Expectancy (IHME)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Life Expectancy (IHME)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Years Lived With Disability (IHME)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
