@@ -1,0 +1,45 @@
+{
+  "name": "Fertility v6 - Gapminder (2015)",
+  "title": "Fertility v6 - Gapminder (2015)",
+  "id": 217,
+  "description": "This is version 6 that was updated by Gapminder in January 2015.\r\n\r\nProjections are mostly from the UN's World Population Prospects: The 2012 Revision.\r\n\r\n",
+  "sources": [
+    {
+      "name": "Fertility v6 - Gapminder (2015)",
+      "dataPublishedBy": "Gapminder",
+      "dataPublisherSource": "The data set was authored by  Ferenc Ajus and edited by Mattias Lindgren. The long list of original data sources is presented in the documentation.",
+      "link": "http://www.gapminder.org/documentation/documentation/gapdoc008_v2.pdf",
+      "retrievedDate": "03/05/2016",
+      "additionalInfo": "This is version 6 that was updated by Gapminder in January 2015.\r\n\r\nProjections are mostly from the UN's World Population Prospects: The 2012 Revision.\r\n\r\n"
+    }
+  ],
+  "owidTags": [
+    "Fertility Rates"
+  ],
+  "resources": [
+    {
+      "path": "Fertility v6 - Gapminder (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Fertility v6 (Gapminder (2015))",
+            "type": "any",
+            "description": "Total Fertility Rate",
+            "owidDisplaySettings": {
+              "unit": "% GDP",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
