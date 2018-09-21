@@ -1,0 +1,44 @@
+{
+  "name": "Age-standardised death rates from air pollution (per 100,000)- IHME GBD SDG indicators",
+  "title": "Age-standardised death rates from air pollution (per 100,000)- IHME GBD SDG indicators",
+  "id": 379,
+  "description": "",
+  "sources": [
+    {
+      "name": "IHME, GBD",
+      "dataPublishedBy": "Institute for Health Metrics and Evaluation, Global Burden of Disease",
+      "dataPublisherSource": "Global epidemiological research records, and national statistics",
+      "link": "http://www.healthdata.org/gbd",
+      "retrievedDate": "17/04/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Air Pollution"
+  ],
+  "resources": [
+    {
+      "path": "Age-standardised death rates from air pollution (per 100,000)- IHME GBD SDG indicators.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Age-standardised death rates from air pollution (per 100,000)- IHME GBD SDG indicators",
+            "type": "any",
+            "description": "Age-standardised death rates from air pollution (per 100,000) by country- IHME GBD SDG indicators",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
