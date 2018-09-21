@@ -1,0 +1,42 @@
+{
+  "name": "Polity IV + Wimmer and Min - Our World In Data (2006)",
+  "title": "Polity IV + Wimmer and Min - Our World In Data (2006)",
+  "id": 160,
+  "description": "The original data provides information on each territory's colonial power. To be able to combine this with the numerical Polity2 metric I coded colonized countries as -20. If a country was coded as a colony in the Wimmer and Min data and had a value in the Polity 2 data set then I preferred the Polity 2 measure and this is shown in the final data set.\r\n\r\nMax Roser",
+  "sources": [
+    {
+      "name": "Polity IV + Wimmer and Min (Our World In Data (2006))",
+      "dataPublishedBy": "Center for Systemic Peace & Academic Paper",
+      "dataPublisherSource": "Polity IV data set & Wimmer and Min (2006) – “From empire to nation-state: Explaining war in the modern world, 1816-2001”, American Sociological Review 71(6):867-897, 2006.",
+      "link": "http://www.columbia.edu/~aw2951/Datasets.html",
+      "retrievedDate": "29/01/2016",
+      "additionalInfo": "The original data provides information on each territory's colonial power. To be able to combine this with the numerical Polity2 metric I coded colonized countries as -20. If a country was coded as a colony in the Wimmer and Min data and had a value in the Polity 2 data set then I preferred the Polity 2 measure and this is shown in the final data set.\r\n\r\nMax Roser"
+    }
+  ],
+  "owidTags": [
+    "Colonialism & Imperialism"
+  ],
+  "resources": [
+    {
+      "path": "Polity IV + Wimmer and Min - Our World In Data (2006).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Polity IV + Wimmer and Min (Our World In Data (2006))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
