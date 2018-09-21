@@ -1,0 +1,54 @@
+{
+  "name": "Plastic product lifetime, production, waste by source - Geyer et al. (2017)",
+  "title": "Plastic product lifetime, production, waste by source - Geyer et al. (2017)",
+  "id": 2843,
+  "description": "Data is given as mean product lifetimes of plastic products (measured in years), plastic production, and plastic waste by industrial sector/use (measured in tonnes per year). \n\nData is also given for primary production and plastic waste by polymer type. Polymer types are as follows:\n- LDPE: Low-density polyethylene\n- HDPE: High-density polyethylene\n- PP: Polypropylene\n- PS: Polystyrene\n- PVC: Polyvinyl chloride\n- PET: Polyethylene terephthalate\n- PUT: Polyurethanes\n- PP&A fibres: Polyphthalamide fibres\n- Other polymers\n- Additives",
+  "sources": [
+    {
+      "name": "Plastic product lifetime, production, waste by source - Geyer et al. (2017)",
+      "dataPublishedBy": "Geyer, R., Jambeck, J. R., & Law, K. L. (2017). Production, use, and fate of all plastics ever made. Science Advances, 3(7), e1700782.",
+      "dataPublisherSource": null,
+      "link": "http://advances.sciencemag.org/content/3/7/e1700782",
+      "retrievedDate": null,
+      "additionalInfo": "Data is given as mean product lifetimes of plastic products (measured in years), plastic production, and plastic waste by industrial sector/use (measured in tonnes per year). \n\nData is also given for primary production and plastic waste by polymer type. Polymer types are as follows:\n- LDPE: Low-density polyethylene\n- HDPE: High-density polyethylene\n- PP: Polypropylene\n- PS: Polystyrene\n- PVC: Polyvinyl chloride\n- PET: Polyethylene terephthalate\n- PUT: Polyurethanes\n- PP&A fibres: Polyphthalamide fibres\n- Other polymers\n- Additives"
+    }
+  ],
+  "owidTags": [
+    "Waste"
+  ],
+  "resources": [
+    {
+      "path": "Plastic product lifetime, production, waste by source - Geyer et al. (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Mean product lifetime (years)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Primary plastic production (million tonnes)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Primary plastic waste generation (million tonnes)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
