@@ -1,0 +1,27 @@
+{
+  "name": "Decomposition of Gender Wage Gap - Blau, Kahn (2017)",
+  "title": "Decomposition of Gender Wage Gap - Blau, Kahn (2017)",
+  "id": 995,
+  "description": "",
+  "sources": [],
+  "owidTags": [
+    "Income Inequality"
+  ],
+  "resources": [
+    {
+      "path": "Decomposition of Gender Wage Gap - Blau, Kahn (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          }
+        ]
+      }
+    }
+  ]
+}
