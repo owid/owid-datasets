@@ -1,0 +1,42 @@
+{
+  "name": "Number of deaths due to rabies",
+  "title": "Number of deaths due to rabies",
+  "id": 1905,
+  "description": "",
+  "sources": [
+    {
+      "name": "Institute for Health Metrics and Evaluation (2016)",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2016 (GBD 2016) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2017.",
+      "dataPublisherSource": null,
+      "link": "http://ghdx.healthdata.org/gbd-results-tool",
+      "retrievedDate": "21 January 2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Eradication of Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Number of deaths due to rabies.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of deaths from rabies (IHME 2016)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
