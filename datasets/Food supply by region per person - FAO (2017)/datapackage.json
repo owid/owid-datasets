@@ -1,0 +1,54 @@
+{
+  "name": "Food supply by region per person - FAO (2017)",
+  "title": "Food supply by region per person - FAO (2017)",
+  "id": 597,
+  "description": "Estimates provided as the average caloric, protein or fat supply per person per day. Note that this measures the food available for consumption at the household level but does not account for any food wasted or not eaten at the consumption level.",
+  "sources": [
+    {
+      "name": "Food supply by region per person - FAO (2017)",
+      "dataPublishedBy": "United Nations Food and Agricultural Organization (FAO)",
+      "dataPublisherSource": null,
+      "link": "http://www.fao.org/faostat/en/#data/FBS",
+      "retrievedDate": "24/07/2017",
+      "additionalInfo": "Estimates provided as the average caloric, protein or fat supply per person per day. Note that this measures the food available for consumption at the household level but does not account for any food wasted or not eaten at the consumption level."
+    }
+  ],
+  "owidTags": [
+    "Hunger & Undernourishment"
+  ],
+  "resources": [
+    {
+      "path": "Food supply by region per person - FAO (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Fat supply (FAO (2017))",
+            "type": "any",
+            "description": "Fat supply (in grams) per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Caloric supply (FAO (2017))",
+            "type": "any",
+            "description": "Caloric supply per person per day. ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Protein supply (FAO (2017))",
+            "type": "any",
+            "description": "Protein supply (in grams) per person per day. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
