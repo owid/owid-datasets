@@ -1,0 +1,44 @@
+{
+  "name": "Volcanic eruption deaths (NGDC/NOAA)",
+  "title": "Volcanic eruption deaths (NGDC/NOAA)",
+  "id": 3039,
+  "description": "Data represents the estimated number of deaths from volcanic eruption events. This includes direct deaths from volcanic eruptions, in addition to secondary impacts (such as a tsunami or earthquake triggered by an eruption).\n\nOur World in Data have aggregated significant earthquake numbers by country/location per year. \n\nDue to data availability, reporting and evidence, it's expected that more recent data will be more complete than the long historical record.",
+  "sources": [
+    {
+      "name": "Volcanic eruption deaths (NGDC/NOAA)",
+      "dataPublishedBy": "National Geophysical Data Center / World Data Service (NGDC/WDS): Significant Volcanic Eruptions Database. National Geophysical Data Center, NOAA.",
+      "link": "https://www.ngdc.noaa.gov/nndc/servlet/ShowDatasets?dataset=102557&search_look=50&display_look=50",
+      "retrievedDate": "21st September 2018",
+      "additionalInfo": "Data represents the estimated number of deaths from volcanic eruption events. This includes direct deaths from volcanic eruptions, in addition to secondary impacts (such as a tsunami or earthquake triggered by an eruption).\n\nOur World in Data have aggregated significant earthquake numbers by country/location per year. \n\nDue to data availability, reporting and evidence, it's expected that more recent data will be more complete than the long historical record."
+    }
+  ],
+  "owidTags": [
+    "Natural Catastrophes"
+  ],
+  "resources": [
+    {
+      "path": "Volcanic eruption deaths (NGDC/NOAA).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Volcanic eruption deaths (NGDC/NOAA)",
+            "type": "any",
+            "description": "Data represents the estimated number of deaths from volcanic eruption events. This includes direct deaths from volcanic eruptions, in addition to secondary impacts (such as a tsunami or earthquake triggered by an eruption).\n\nOur World in Data have aggregated significant earthquake numbers by country/location per year. \n\nDue to data availability, reporting and evidence, it's expected that more recent data will be more complete than the long historical record.",
+            "owidDisplaySettings": {
+              "name": "Estimated deaths from volcanic eruptions",
+              "unit": "deaths"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
