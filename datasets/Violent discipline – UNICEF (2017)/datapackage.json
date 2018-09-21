@@ -1,0 +1,66 @@
+{
+  "name": "Violent discipline – UNICEF (2017)",
+  "title": "Violent discipline – UNICEF (2017)",
+  "id": 942,
+  "description": "– The source notes that in some instances observations differ from the standard definition or refer to only part of a country. \r\n\r\n– The dates associated to each observation correspond to the end of the survey used as underlying source \r\n\r\n– Most estimates come from the Multiple Indicator Cluster Surveys (MICS). The MICS include a standard set of questions covering different disciplinary methods. It does allow survey respondents to report both violent and nonviolent forms of discipline.\r\n\r\n–The source notes that estimates reported in UNICEF publications and in MICS country reports prior to 2010 were calculated using household weights that did not take into account the last-stage selection of children for the administration of the child discipline module in MICS surveys. (A random selection of one child aged 2–14 is undertaken for the administration of the child discipline module.) In January 2010, it was decided that more accurate estimates are produced by using a household weight that takes the last-stage selection into account. MICS3 data were recalculated using this approach. All estimates produced after 2010 use the revised estimates.\r\n\r\n– When it was first implemented in MICS3, the child discipline module was administered only to mothers/primary caregivers, who were asked whether any of the disciplinary methods covered in the module had been used by any member of the household during the month preceding the interview. Beginning with MICS4, the methodology was changed: Any adult household member, not just the mother or primary caregiver, can now respond to the questions on child discipline.",
+  "sources": [
+    {
+      "name": "Violent Discipline - UNICEF Global Databases (2016)",
+      "dataPublishedBy": "UNICEF; Data and Analytics Section; Division of Data, Research and Policy",
+      "dataPublisherSource": "DHS, MICS and other nationally representative surveys.",
+      "link": "https://data.unicef.org/topic/child-protection/violence/violent-discipline/",
+      "retrievedDate": "29/09/2017",
+      "additionalInfo": "– The source notes that in some instances observations differ from the standard definition or refer to only part of a country. \r\n\r\n– The dates associated to each observation correspond to the end of the survey used as underlying source \r\n\r\n– Most estimates come from the Multiple Indicator Cluster Surveys (MICS). The MICS include a standard set of questions covering different disciplinary methods. It does allow survey respondents to report both violent and nonviolent forms of discipline.\r\n\r\n–The source notes that estimates reported in UNICEF publications and in MICS country reports prior to 2010 were calculated using household weights that did not take into account the last-stage selection of children for the administration of the child discipline module in MICS surveys. (A random selection of one child aged 2–14 is undertaken for the administration of the child discipline module.) In January 2010, it was decided that more accurate estimates are produced by using a household weight that takes the last-stage selection into account. MICS3 data were recalculated using this approach. All estimates produced after 2010 use the revised estimates.\r\n\r\n– When it was first implemented in MICS3, the child discipline module was administered only to mothers/primary caregivers, who were asked whether any of the disciplinary methods covered in the module had been used by any member of the household during the month preceding the interview. Beginning with MICS4, the methodology was changed: Any adult household member, not just the mother or primary caregiver, can now respond to the questions on child discipline."
+    }
+  ],
+  "owidTags": [
+    "Violence against & Rights for Children"
+  ],
+  "resources": [
+    {
+      "path": "Violent discipline – UNICEF (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Percentage of children (2–14) who experience any violent discipline (UNICEF Global Databases (2016))",
+            "type": "any",
+            "description": "Percentage of children 2–14 years old who experience any violent discipline (psychological aggression and/or physical punishment). ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percentage of boys (2–14) who experience any violent discipline (UNICEF Global Databases (2016))",
+            "type": "any",
+            "description": "Percentage of boys 2–14 years old who experience any violent discipline (psychological aggression and/or physical punishment). ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percentage of girls (2–14) who experience any violent discipline (UNICEF Global Databases (2016))",
+            "type": "any",
+            "description": "Percentage of girls 2–14 years old who experience any violent discipline (psychological aggression and/or physical punishment). ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percentage of children (2–14) in urban areas who experience any violent discipline (UNICEF Global Databases (2016))",
+            "type": "any",
+            "description": "Percentage of children 2–14 years old, in urban areas, who experience any violent discipline (psychological aggression and/or physical punishment). ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Percentage of children (2–14) in rural areas who experience any violent discipline (UNICEF Global Databases (2016))",
+            "type": "any",
+            "description": "Percentage of children 2–14 years old, in rural areas, who experience any violent discipline (psychological aggression and/or physical punishment). ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
