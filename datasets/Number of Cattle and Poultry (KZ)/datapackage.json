@@ -1,0 +1,66 @@
+{
+  "name": "Number of Cattle and Poultry (KZ)",
+  "title": "Number of Cattle and Poultry (KZ)",
+  "id": 1842,
+  "description": "",
+  "sources": [
+    {
+      "name": "Number of Cattle and Poultry (KZ)",
+      "dataPublishedBy": "Agency of the Republic of Kazakhstan on Statistics",
+      "dataPublisherSource": null,
+      "link": "http://www.stat.gov.kz/",
+      "retrievedDate": "26-November-2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Meat Consumption & Livestock Counts"
+  ],
+  "resources": [
+    {
+      "path": "Number of Cattle and Poultry (KZ).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Cattle",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Sheep and goats",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Pigs",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Horses",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Poultry",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
