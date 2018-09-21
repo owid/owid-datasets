@@ -1,0 +1,60 @@
+{
+  "name": "DTP3 vaccinations, global coverage - OWID based on WHO (2016)",
+  "title": "DTP3 vaccinations, global coverage - OWID based on WHO (2016)",
+  "id": 326,
+  "description": "The WHO published this data set in the presentation \"The Summary presentation of routine immunization key indicators pptx\"",
+  "sources": [
+    {
+      "name": "DTP3 Coverage global - OWID based on WHO (2016)",
+      "dataPublishedBy": "Own calculations based on WHO data and Our World in Data global population series",
+      "dataPublisherSource": null,
+      "link": "http://www.who.int/immunization/monitoring_surveillance/data/en/",
+      "retrievedDate": "14/12/2016",
+      "additionalInfo": "The WHO published this data set in the presentation \"The Summary presentation of routine immunization key indicators pptx\""
+    }
+  ],
+  "owidTags": [
+    "Vaccination"
+  ],
+  "resources": [
+    {
+      "path": "DTP3 vaccinations, global coverage - OWID based on WHO (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Not vaccinated (OWID based on WHO (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Vaccinated (OWID based on WHO (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "World population (OWID based on WHO (2016))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
