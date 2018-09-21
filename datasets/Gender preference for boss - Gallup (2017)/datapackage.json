@@ -1,0 +1,72 @@
+{
+  "name": "Gender preference for boss - Gallup (2017)",
+  "title": "Gender preference for boss - Gallup (2017)",
+  "id": 2669,
+  "description": "Question posed to respondents: If you were taking a new job and had your choice of a boss would you prefer to work for a man or a woman?\n\nPossible answers included: prefer man boss, prefer woman boss, no difference, and no opinion. \nWe report the first two responses to this question.\n\nFor more information on the Gallup Poll see the link above. ",
+  "sources": [
+    {
+      "name": "Gallup (2017)",
+      "dataPublishedBy": "Gallup",
+      "dataPublisherSource": "Results are based on telephone interviews conducted November 2-8, 2017 with a random sample of –1,028— adults, ages 18+, living in all 50 U.S. states and the District of Columbia.",
+      "link": "http://news.gallup.com/file/poll/222428/171116MaleFemaleBoss.pdf?g_source=link_newsv9&g_campaign=item_222425&g_medium=copy",
+      "retrievedDate": "21/03/2018",
+      "additionalInfo": "Question posed to respondents: If you were taking a new job and had your choice of a boss would you prefer to work for a man or a woman?\n\nPossible answers included: prefer man boss, prefer woman boss, no difference, and no opinion. \nWe report the first two responses to this question.\n\nFor more information on the Gallup Poll see the link above. "
+    }
+  ],
+  "owidTags": [
+    "Economic Gender & Race Differences"
+  ],
+  "resources": [
+    {
+      "path": "Gender preference for boss - Gallup (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of people who prefer male boss (Gallup (2017))",
+            "type": "any",
+            "description": "The share of national adults, aged 18+, responding to the question 'If you were taking a new job and had your choice of a boss would you prefer to work for a man or a woman?' and answered they prefer a male boss.'",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of people who prefer female boss (Gallup (2017))",
+            "type": "any",
+            "description": "The share of national adults, aged 18+, responding to the question 'If you were taking a new job and had your choice of a boss would you prefer to work for a man or a woman?' and answered they prefer a female boss.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of women who prefer a male boss (Gallup (2017))",
+            "type": "any",
+            "description": "The share of women, aged 18+, responding to the question 'If you were taking a new job and had your choice of a boss would you prefer to work for a man or a woman?' and answered they prefer a male boss.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of women who prefer a female boss (Gallup (2017))",
+            "type": "any",
+            "description": "The share of women responding to the question 'If you were taking a new job and had your choice of a boss would you prefer to work for a man or a woman?' and answered they prefer a female boss.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of men who prefer a male boss (Gallup (2017))",
+            "type": "any",
+            "description": "The share of men responding to the question 'If you were taking a new job and had your choice of a boss would you prefer to work for a man or a woman?' and answered they prefer a male boss.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Share of men who prefer a female boss (Gallup (2017))",
+            "type": "any",
+            "description": "The share of men responding to the question 'If you were taking a new job and had your choice of a boss would you prefer to work for a man or a woman?' and answered they prefer a female boss.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
