@@ -1,0 +1,42 @@
+{
+  "name": "Historical GDP per capita – Maddison Project (2013)",
+  "title": "Historical GDP per capita – Maddison Project (2013)",
+  "id": 664,
+  "description": "The source notes: The Maddison Project has launched an updated version of the original Maddison dataset in January 2013. The update incorporates much of the latest research in the field, and presents new estimates of economic growth in the world economic between AD 1 and 2010. The new estimates are presented and discussed in Bolt, J. and J. L. van Zanden (2014). The Maddison Project: collaborative research on historical national accounts. The Economic History Review, 67 (3): 627–651.\n\nThe original data, as provided by the source, does not include observations for Belgium 1835-45. Our series includes observations obtained from implied growth rates in the GDP series provided by Berthold Herrendorf, Richard Rogerson and Akos Valentinyi (2014) – “Growth and Structural Transformation” Handbook of Economic Growth Vol. 2B",
+  "sources": [
+    {
+      "name": "Maddison-Project (2013)",
+      "dataPublishedBy": "The Maddison-Project",
+      "dataPublisherSource": "Bolt, J. and J. L. van Zanden (2014). The Maddison Project: collaborative research on historical national accounts. The Economic History Review, 67 (3): 627–651.",
+      "link": "http://www.ggdc.net/maddison/maddison-project/home.htm",
+      "retrievedDate": "17/08/2017",
+      "additionalInfo": "The source notes: The Maddison Project has launched an updated version of the original Maddison dataset in January 2013. The update incorporates much of the latest research in the field, and presents new estimates of economic growth in the world economic between AD 1 and 2010. The new estimates are presented and discussed in Bolt, J. and J. L. van Zanden (2014). The Maddison Project: collaborative research on historical national accounts. The Economic History Review, 67 (3): 627–651.\n\nThe original data, as provided by the source, does not include observations for Belgium 1835-45. Our series includes observations obtained from implied growth rates in the GDP series provided by Berthold Herrendorf, Richard Rogerson and Akos Valentinyi (2014) – “Growth and Structural Transformation” Handbook of Economic Growth Vol. 2B"
+    }
+  ],
+  "owidTags": [
+    "GDP Data"
+  ],
+  "resources": [
+    {
+      "path": "Historical GDP per capita – Maddison Project (2013).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "GDP per capita in 1990 Int. GK$ (Maddison-Project 2013) ",
+            "type": "any",
+            "description": "GDP per capita in 1990 international Geary–Khamis dollars.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}

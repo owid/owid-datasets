@@ -1,0 +1,5 @@
+# Historical GDP per capita – Maddison Project (2013)
+
+The source notes: The Maddison Project has launched an updated version of the original Maddison dataset in January 2013. The update incorporates much of the latest research in the field, and presents new estimates of economic growth in the world economic between AD 1 and 2010. The new estimates are presented and discussed in Bolt, J. and J. L. van Zanden (2014). The Maddison Project: collaborative research on historical national accounts. The Economic History Review, 67 (3): 627–651.
+
+The original data, as provided by the source, does not include observations for Belgium 1835-45. Our series includes observations obtained from implied growth rates in the GDP series provided by Berthold Herrendorf, Richard Rogerson and Akos Valentinyi (2014) – “Growth and Structural Transformation” Handbook of Economic Growth Vol. 2B
