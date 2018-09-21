@@ -1,0 +1,42 @@
+{
+  "name": "Proportion of 45-54 year-olds with tertiary education 2009 - OECD (2012)",
+  "title": "Proportion of 45-54 year-olds with tertiary education 2009 - OECD (2012)",
+  "id": 67,
+  "description": "Education at a Glance: OECD Indicators is the authoritative source for accurate and relevant information on the state of education around the world.",
+  "sources": [
+    {
+      "name": "OECD: Education at a Glance 2012",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": "Education at a Glance: OECD Indicators is the authoritative source for accurate and relevant information on the state of education around the world."
+    }
+  ],
+  "owidTags": [
+    "Skill Premium – Income by Education"
+  ],
+  "resources": [
+    {
+      "path": "Proportion of 45-54 year-olds with tertiary education 2009 - OECD (2012).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Proportion of 45-54 year-olds with tertiary education 2009 (OECD (2012))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
