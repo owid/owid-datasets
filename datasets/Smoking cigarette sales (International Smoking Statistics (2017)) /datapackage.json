@@ -1,0 +1,66 @@
+{
+  "name": "Smoking cigarette sales (International Smoking Statistics (2017)) ",
+  "title": "Smoking cigarette sales (International Smoking Statistics (2017)) ",
+  "id": 2465,
+  "description": "Total cigarettes include both manufactured and hand-rolled cigarettes. For Latvia, total cigarettes comprise of manufactured cigarettes and Papyrosi cigarettes. \n\nIn some countries the original data reports 0 for a specific year, with otherwise large reported values for the years before and after. In these cases we treat 0 as a mistake and report missing data for that year.\n\nThe 'number of cigarettes smoked per person per day' for both males and females has been averaged across all years in which multiple estimates were provided in the ISS dataset for the United States, to arrive at one estimate for each year.\n\nThe time series for Germany includes West Germany cigarette sales for the 1948-1989 period .",
+  "sources": [
+    {
+      "name": "International Smoking Statistics (2017)",
+      "dataPublishedBy": "Authors Barbara Forey, Jan Hamling, John Hamling, Alison Thornton, Peter Lee",
+      "dataPublisherSource": "National statistics",
+      "link": "http://www.pnlee.co.uk/ISS.htm",
+      "retrievedDate": "20/02/2018",
+      "additionalInfo": "Total cigarettes include both manufactured and hand-rolled cigarettes. For Latvia, total cigarettes comprise of manufactured cigarettes and Papyrosi cigarettes. \n\nIn some countries the original data reports 0 for a specific year, with otherwise large reported values for the years before and after. In these cases we treat 0 as a mistake and report missing data for that year.\n\nThe 'number of cigarettes smoked per person per day' for both males and females has been averaged across all years in which multiple estimates were provided in the ISS dataset for the United States, to arrive at one estimate for each year.\n\nThe time series for Germany includes West Germany cigarette sales for the 1948-1989 period ."
+    }
+  ],
+  "owidTags": [
+    "Smoking"
+  ],
+  "resources": [
+    {
+      "path": "Smoking cigarette sales (International Smoking Statistics (2017)) .csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Sales of cigarettes per adult per day (International Smoking Statistics (2017)) ",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of cigarettes smoked per smoker per day, females (ISS (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of cigarettes smoked per smoker per day, males (ISS (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prevalence of smoking, females (ISS (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Prevalence of smoking, males (ISS (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
