@@ -1,0 +1,42 @@
+{
+  "name": "Trade – World Bank (2016) & OECD Economic Outlook (2007)",
+  "title": "Trade – World Bank (2016) & OECD Economic Outlook (2007)",
+  "id": 291,
+  "description": "Food comprises the commodities in SITC sections 0 (food and live animals), 1 (beverages and tobacco), and 4 (animal and vegetable oils and fats) and SITC division 22 (oil seeds, oil nuts, and oil kernels).",
+  "sources": [
+    {
+      "name": "Food Exports - World Bank (2016)",
+      "dataPublishedBy": "World Bank ",
+      "dataPublisherSource": "World Bank staff estimates from the COMTRADE database maintained by the United Nations Statistics Division",
+      "link": "http://data.worldbank.org/indicator/TX.VAL.FOOD.ZS.UN",
+      "retrievedDate": "09/06/2016",
+      "additionalInfo": "Food comprises the commodities in SITC sections 0 (food and live animals), 1 (beverages and tobacco), and 4 (animal and vegetable oils and fats) and SITC division 22 (oil seeds, oil nuts, and oil kernels)."
+    }
+  ],
+  "owidTags": [
+    "International Trade"
+  ],
+  "resources": [
+    {
+      "path": "Trade – World Bank (2016) & OECD Economic Outlook (2007).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Food exports (% of merchandise exports) (World Bank (2016))",
+            "type": "any",
+            "description": "Food exports as a share of merchandise exports.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
