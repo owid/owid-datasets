@@ -1,0 +1,44 @@
+{
+  "name": "Poverty Share by Region ($1.90) - World Bank (PovcalNet) (2016)",
+  "title": "Poverty Share by Region ($1.90) - World Bank (PovcalNet) (2016)",
+  "id": 314,
+  "description": "",
+  "sources": [
+    {
+      "name": "Poverty Share by Region ($1.90) - World Bank (PovcalNet) (2016)",
+      "dataPublishedBy": "The World Bank (2016) – Poverty and Shared Prosperity 2016: Taking on Inequality. http://www.worldbank.org/en/publication/poverty-and-shared-prosperity",
+      "dataPublisherSource": "Most recent estimates from PovcalNet (online analysis tool) published by the World Bank http://iresearch.worldbank.org/PovcalNet/.",
+      "link": "http://iresearch.worldbank.org/PovcalNet/",
+      "retrievedDate": "28/10/2016",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "World Poverty"
+  ],
+  "resources": [
+    {
+      "path": "Poverty Share by Region ($1.90) - World Bank (PovcalNet) (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Poverty Share by Region ($1.90) - World Bank (PovcalNet) (2016)",
+            "type": "any",
+            "description": "1990-2013",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
