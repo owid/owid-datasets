@@ -1,0 +1,66 @@
+{
+  "name": "Road deaths and injuries - OECD",
+  "title": "Road deaths and injuries - OECD",
+  "id": 2509,
+  "description": "The majority of series data is sourced from the OECD Statistics.\n\nFor particular countries, longer series have been sourced from specific national records as referenced below.\n\nGermany: Statistisches Bundesamt (https://www.destatis.de/EN/FactsFigures/EconomicSectors/TransportTraffic/TrafficAccidents/Tables_/RoadTrafficAccidents.html)\n\nNew Zealand: http://www.transport.govt.nz/research/roadtoll/annualroadtollhistoricalinformation/\n\nAustralia: https://bitre.gov.au/publications/ongoing/road_deaths_australia_annual_summaries.aspx and https://infrastructure.gov.au/roads/safety/publications/2008/pdf/Ann_Stats_2007.pdf\n\nScotland: https://www.transport.gov.scot/media/39307/sct05174402361.pdf\n\nNorthern Ireland: https://www.psni.police.uk/inside-psni/Statistics/road-traffic-collision-statistics/\n\nUnited States: https://www.bts.gov/content/transportation-fatalities-mode",
+  "sources": [
+    {
+      "name": "Road deaths and injuries - OECD",
+      "dataPublishedBy": "OECD (2018), Road accidents (indicator).",
+      "dataPublisherSource": "National police reports and records",
+      "link": "https://data.oecd.org/transport/road-accidents.htm",
+      "retrievedDate": "11th March 2018",
+      "additionalInfo": "The majority of series data is sourced from the OECD Statistics.\n\nFor particular countries, longer series have been sourced from specific national records as referenced below.\n\nGermany: Statistisches Bundesamt (https://www.destatis.de/EN/FactsFigures/EconomicSectors/TransportTraffic/TrafficAccidents/Tables_/RoadTrafficAccidents.html)\n\nNew Zealand: http://www.transport.govt.nz/research/roadtoll/annualroadtollhistoricalinformation/\n\nAustralia: https://bitre.gov.au/publications/ongoing/road_deaths_australia_annual_summaries.aspx and https://infrastructure.gov.au/roads/safety/publications/2008/pdf/Ann_Stats_2007.pdf\n\nScotland: https://www.transport.gov.scot/media/39307/sct05174402361.pdf\n\nNorthern Ireland: https://www.psni.police.uk/inside-psni/Statistics/road-traffic-collision-statistics/\n\nUnited States: https://www.bts.gov/content/transportation-fatalities-mode"
+    }
+  ],
+  "owidTags": [
+    "Risk of Accidents in Transportation"
+  ],
+  "resources": [
+    {
+      "path": "Road deaths and injuries - OECD.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Accidents involving casualties",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Deaths",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Deaths (per million vehicles)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Injuries",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Road deaths per 100 million vehicle kilometres",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
