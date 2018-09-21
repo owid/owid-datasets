@@ -1,0 +1,44 @@
+{
+  "name": "Fertility - UN Population Division (2015 revision)",
+  "title": "Fertility - UN Population Division (2015 revision)",
+  "id": 224,
+  "description": "The data for a particular refers to the 5 years preceding that year. E.g. 2015 refers to 2010-2015 in the original data.",
+  "sources": [
+    {
+      "name": "UN Population Division (Fertility) (2015 revision)",
+      "dataPublishedBy": "United Nations – Population Division. Published in the World Population Prospects; 2015 revision.",
+      "dataPublisherSource": null,
+      "link": "http://esa.un.org/unpd/wpp/Download/Standard/Fertility/",
+      "retrievedDate": "19/05/2016",
+      "additionalInfo": "The data for a particular refers to the 5 years preceding that year. E.g. 2015 refers to 2010-2015 in the original data."
+    }
+  ],
+  "owidTags": [
+    "Fertility Rates"
+  ],
+  "resources": [
+    {
+      "path": "Fertility - UN Population Division (2015 revision).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Fertility (UN Population Division (2015 revision))",
+            "type": "any",
+            "description": "The total fertility rate is expressed as the average number of children a hypothetical cohort of women would have at the end of their reproductive period if they were subject during their whole lives to the fertility rates of a given period and if they were not subject to mortality. It is expressed as live births per woman. ",
+            "owidDisplaySettings": {
+              "unit": "Gini [0 to 100]"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
