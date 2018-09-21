@@ -1,0 +1,42 @@
+{
+  "name": "Human Rights Protection Score – Christopher Farris (2014) and Keith Schnakenberg",
+  "title": "Human Rights Protection Score – Christopher Farris (2014) and Keith Schnakenberg",
+  "id": 239,
+  "description": "The original dataset includes the country ids 666.001, 666.002, and 666.003. These correspond to different human rights reports which were produced for distinct areas in Israel (Israel, pre-1967 borders Israel, occupied territories Palestinian Authority). Because of technical limitations they cannot be shown in these visualisations and shown is only the 'Israel' series.",
+  "sources": [
+    {
+      "name": "The Latent Human Rights Protection Scores – Christopher Farris (2014) and Keith Schnakenberg",
+      "dataPublishedBy": "These data were published in the following two papers: Christopher J. Fariss. 2014. Respect for Human Rights has Improved Over Time: Modeling the Changing Standard of Accountability. American Political Science Review 108(2):297-318 (May 2014). Supplementary Materials: Keith Schnakenberg and Christopher J. Fariss. 2014. Dynamic Patterns of Human Rights Practices. Political Science Research and Methods 2(1):1-31 (April 2014).",
+      "dataPublisherSource": null,
+      "link": "humanrightsscores.org",
+      "retrievedDate": "6 June 2016. Christopher Farris kindly provided this dataset and shared it with Max Roser via email.",
+      "additionalInfo": "The original dataset includes the country ids 666.001, 666.002, and 666.003. These correspond to different human rights reports which were produced for distinct areas in Israel (Israel, pre-1967 borders Israel, occupied territories Palestinian Authority). Because of technical limitations they cannot be shown in these visualisations and shown is only the 'Israel' series."
+    }
+  ],
+  "owidTags": [
+    "Human Rights"
+  ],
+  "resources": [
+    {
+      "path": "Human Rights Protection Score – Christopher Farris (2014) and Keith Schnakenberg.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "CAN BE DELETED Human Rights Protection Score – by Christopher Farris and Keith Schnakenberg",
+            "type": "any",
+            "description": "(Higher values = better human rights protection)",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}

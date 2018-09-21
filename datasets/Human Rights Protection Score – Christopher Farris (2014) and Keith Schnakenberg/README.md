@@ -1,0 +1,3 @@
+# Human Rights Protection Score – Christopher Farris (2014) and Keith Schnakenberg
+
+The original dataset includes the country ids 666.001, 666.002, and 666.003. These correspond to different human rights reports which were produced for distinct areas in Israel (Israel, pre-1967 borders Israel, occupied territories Palestinian Authority). Because of technical limitations they cannot be shown in these visualisations and shown is only the 'Israel' series.
