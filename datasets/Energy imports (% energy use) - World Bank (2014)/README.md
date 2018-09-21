@@ -1,0 +1,3 @@
+# Energy imports (% energy use) - World Bank (2014)
+
+"Net energy imports are estimated as energy use less production, both measured in oil equivalents. A negative value indicates that the country is a net exporter. Energy use refers to use of primary energy before transformation to other end-use fuels, which is equal to indigenous production plus imports and stock changes, minus exports and fuels supplied to ships and aircraft engaged in international transport." (World Bank)

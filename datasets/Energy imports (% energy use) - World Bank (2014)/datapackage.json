@@ -1,0 +1,45 @@
+{
+  "name": "Energy imports (% energy use) - World Bank (2014)",
+  "title": "Energy imports (% energy use) - World Bank (2014)",
+  "id": 486,
+  "description": "\"Net energy imports are estimated as energy use less production, both measured in oil equivalents. A negative value indicates that the country is a net exporter. Energy use refers to use of primary energy before transformation to other end-use fuels, which is equal to indigenous production plus imports and stock changes, minus exports and fuels supplied to ships and aircraft engaged in international transport.\" (World Bank)",
+  "sources": [
+    {
+      "name": "Energy imports (% energy use) - World Bank (2014)",
+      "dataPublishedBy": "World Bank, World Development Indicators (WDI)",
+      "dataPublisherSource": "IEA Statistics © OECD/IEA 2014. Available at: http://www.iea.org/stats/index.asp",
+      "link": "http://data.worldbank.org/indicator/EG.IMP.CONS.ZS?view=chart",
+      "retrievedDate": "19/05/2017",
+      "additionalInfo": "\"Net energy imports are estimated as energy use less production, both measured in oil equivalents. A negative value indicates that the country is a net exporter. Energy use refers to use of primary energy before transformation to other end-use fuels, which is equal to indigenous production plus imports and stock changes, minus exports and fuels supplied to ships and aircraft engaged in international transport.\" (World Bank)"
+    }
+  ],
+  "owidTags": [
+    "Energy Trade"
+  ],
+  "resources": [
+    {
+      "path": "Energy imports (% energy use) - World Bank (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Energy imports (World Bank (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
