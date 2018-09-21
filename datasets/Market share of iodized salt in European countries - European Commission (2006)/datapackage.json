@@ -1,0 +1,42 @@
+{
+  "name": "Market share of iodized salt in European countries - European Commission (2006)",
+  "title": "Market share of iodized salt in European countries - European Commission (2006)",
+  "id": 950,
+  "description": "Data represents the share of household salt sold on the market which has been fortified with iodine (the most efficient solution to iodine deficiency). This data is available across select European countries.",
+  "sources": [
+    {
+      "name": "Market share of iodized salt in European countries - European Commission (2006)",
+      "dataPublishedBy": "European Commission (2006). Universal Salt Iodization.",
+      "dataPublisherSource": null,
+      "link": "https://ec.europa.eu/food/sites/food/files/safety/docs/labelling_nutrition-supplements-responses-akj_en.pdf",
+      "retrievedDate": "04/10/2017",
+      "additionalInfo": "Data represents the share of household salt sold on the market which has been fortified with iodine (the most efficient solution to iodine deficiency). This data is available across select European countries."
+    }
+  ],
+  "owidTags": [
+    "Hunger & Undernourishment"
+  ],
+  "resources": [
+    {
+      "path": "Market share of iodized salt in European countries - European Commission (2006).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Market share of iodized salt (European Commission (2006))",
+            "type": "any",
+            "description": "The share of salt sold in domestic markets which has been fortified with iodine. Universal Salt Iodization (USI) represents a global solution to addressing iodine deficiency.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
