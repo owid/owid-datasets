@@ -1,0 +1,52 @@
+{
+  "name": "Subnational inequality - OECD based on Royuela et al. (2014))",
+  "title": "Subnational inequality - OECD based on Royuela et al. (2014))",
+  "id": 316,
+  "description": "Each observation corresponds to a different sub-national region. France, for example, is divided in 22 different regions. The source notes that these regions correspond in most cases to the principal sub-national unit of government (states or provinces) ",
+  "sources": [
+    {
+      "name": "OECD based on Royuela et al. (2014)",
+      "dataPublishedBy": "OECD (2015), In It Together: Why Less Inequality Benefits All, OECD Publishing, Paris.",
+      "dataPublisherSource": "Royuela, V., P. Veneri and R. Ramos (2014), “Income Inequality, Urban Size and Economic Growth in OECD",
+      "link": "http://dx.doi.org/10.1787/888933207870",
+      "retrievedDate": "28/10/2016",
+      "additionalInfo": "Each observation corresponds to a different sub-national region. France, for example, is divided in 22 different regions. The source notes that these regions correspond in most cases to the principal sub-national unit of government (states or provinces) "
+    }
+  ],
+  "owidTags": [
+    "Income Inequality"
+  ],
+  "resources": [
+    {
+      "path": "Subnational inequality - OECD based on Royuela et al. (2014)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "OECD Subnational Gini Coefficients (OECD based on Royuela et al. (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Average annual growth rate of GDP per capita (OECD based on Royuela et al. (2014))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
