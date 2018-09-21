@@ -1,0 +1,42 @@
+{
+  "name": "Total population - Gapminder",
+  "title": "Total population - Gapminder",
+  "id": 70,
+  "description": "Gapminder dataset. Available online at http://www.gapminder.org/.",
+  "sources": [
+    {
+      "name": "Gapminder",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": "http://www.gapminder.org/",
+      "retrievedDate": null,
+      "additionalInfo": "Gapminder dataset. Available online at http://www.gapminder.org/."
+    }
+  ],
+  "owidTags": [
+    "World Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Total population - Gapminder.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total population (Gapminder)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
