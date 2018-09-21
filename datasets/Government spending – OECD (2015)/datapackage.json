@@ -1,0 +1,148 @@
+{
+  "name": "Government spending – OECD (2015)",
+  "title": "Government spending – OECD (2015)",
+  "id": 309,
+  "description": "",
+  "sources": [
+    {
+      "name": "Government at a Glance – OECD (2015)",
+      "dataPublishedBy": "OECD",
+      "dataPublisherSource": "Government at a Glance, 2015 edition, public finance and economics indicators",
+      "link": "http://www.oecd-ilibrary.org/governance/government-at-a-glance-2015_gov_glance-2015-en",
+      "retrievedDate": "19/10/2016",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Public Spending"
+  ],
+  "resources": [
+    {
+      "path": "Government spending – OECD (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total government spending per capita",
+            "type": "any",
+            "description": "2009-2013",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Public Spending - General public services",
+            "type": "any",
+            "description": "2013",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Public Spending - Defence",
+            "type": "any",
+            "description": "2013",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Public Spending - Public order and safety",
+            "type": "any",
+            "description": "2013",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Public Spending - Economic affairs",
+            "type": "any",
+            "description": "2013",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Public Spending - Environmental protection",
+            "type": "any",
+            "description": "2013",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Public Spending - Housing and community amenities",
+            "type": "any",
+            "description": "2013",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Public Spending - Health",
+            "type": "any",
+            "description": "2013",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Public Spending - Recreation, culture and religion",
+            "type": "any",
+            "description": "2013",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Public Spending - Education",
+            "type": "any",
+            "description": "2013",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Public Spending - Social protection",
+            "type": "any",
+            "description": "2013",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "Expenditures on general government outsourcing",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "General government procurement expenditure (%GDP)",
+            "type": "any",
+            "description": "2007-2014",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          },
+          {
+            "name": "General government procurement (% government expenditures)",
+            "type": "any",
+            "description": "2007-2014",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
