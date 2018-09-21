@@ -1,0 +1,44 @@
+{
+  "name": "SO2 emissions, China and India - Klimont et al. (2013) ",
+  "title": "SO2 emissions, China and India - Klimont et al. (2013) ",
+  "id": 375,
+  "description": "Metrics of emissions are based on methodology developed in Smith et al. (2011). This methodology estimates emissions based on energy and industrial production and mass-balance statistics.\r\n\r\nReferences:\r\n\r\nKlimont, Z; S J Smith and J Cofala (2013) – The last decade of global anthropogenic sulfur dioxide: 2000–2011 emissions. Environmental Research Letters, Volume 8, Number 1. Published 9 January 2013. Online at: http://iopscience.iop.org/article/10.1088/1748-9326/8/1/014003\r\n\r\nS. J. Smith, J. van Aardenne, Z. Klimont, R. J. Andres, A. Volke, and S. Delgado Arias (2011) – Anthropogenic sulfur dioxide emissions: 1850–2005. Atmospheric Chemistry and Physics, 11, 1101-1116, doi:10.5194/acp-11-1101-2011, 2011. Online at: http://www.atmos-chem-phys.net/11/1101/2011/",
+  "sources": [
+    {
+      "name": "SO2 emissions, China and India - Klimont et al. (2013) ",
+      "dataPublishedBy": "Klimont et al. (2013)",
+      "dataPublisherSource": null,
+      "link": "http://iopscience.iop.org/article/10.1088/1748-9326/8/1/014003",
+      "retrievedDate": "05/04/2017",
+      "additionalInfo": "Metrics of emissions are based on methodology developed in Smith et al. (2011). This methodology estimates emissions based on energy and industrial production and mass-balance statistics.\r\n\r\nReferences:\r\n\r\nKlimont, Z; S J Smith and J Cofala (2013) – The last decade of global anthropogenic sulfur dioxide: 2000–2011 emissions. Environmental Research Letters, Volume 8, Number 1. Published 9 January 2013. Online at: http://iopscience.iop.org/article/10.1088/1748-9326/8/1/014003\r\n\r\nS. J. Smith, J. van Aardenne, Z. Klimont, R. J. Andres, A. Volke, and S. Delgado Arias (2011) – Anthropogenic sulfur dioxide emissions: 1850–2005. Atmospheric Chemistry and Physics, 11, 1101-1116, doi:10.5194/acp-11-1101-2011, 2011. Online at: http://www.atmos-chem-phys.net/11/1101/2011/"
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "SO2 emissions, China and India - Klimont et al. (2013) .csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "SO2 emissions in China and India (Klimont et al. (2013))",
+            "type": "any",
+            "description": "Total SO2 emissions in China and India (2000-2011) measured in million tonnes",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
