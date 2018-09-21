@@ -1,0 +1,44 @@
+{
+  "name": "SO2 emissions by country (1850-2000) - Clio Infra",
+  "title": "SO2 emissions by country (1850-2000) - Clio Infra",
+  "id": 389,
+  "description": "",
+  "sources": [
+    {
+      "name": "SO2 emissions by country (1850-2000) - Clio Infra",
+      "dataPublishedBy": "ClioInfra",
+      "dataPublisherSource": null,
+      "link": "https://www.clio-infra.eu/",
+      "retrievedDate": "14/04/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "SO2 emissions by country (1850-2000) - Clio Infra.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "SO2 emissions by country (1850-2000) (Clio Infra)",
+            "type": "any",
+            "description": "SO2 emissions (million tonnes) by country (1850-2000).",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
