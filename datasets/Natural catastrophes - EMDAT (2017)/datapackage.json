@@ -1,0 +1,82 @@
+{
+  "name": "Natural catastrophes - EMDAT (2017)",
+  "title": "Natural catastrophes - EMDAT (2017)",
+  "id": 573,
+  "description": "The data presented here includes all categories classified as \"natural disasters\" (distinguished from technological disasters, such as oil spills and industrial accidents). This includes those from drought, floods, biological epidemics, extreme weather, extreme temperature, landslides, dry mass movements, extraterrestrial impacts, wildfires, volcanic activity and earthquakes.\r\n\r\nThe combined set of \"all natural disasters\" also includes disasters defined as \"insect infestations\", however this has not been included as a discrete dataset due to low impact numbers.\r\n\r\nemdat defines the following variables as:\r\n\r\nAffected: \"People requiring immediate assistance during a period of emergency, i.e. requiring basic survival needs such as food, water, shelter, sanitation and immediate medical assistance.\"\r\n\r\nInjured: \"People suffering from physical injuries, trauma or an illness requiring immediate medical assistance as a direct result of a disaster.\"\r\n\r\nHomeless: \"Number of people whose house is destroyed or heavily damaged and therefore need shelter after an event.\"\r\n\r\nTotal affected: \"In EM-DAT, it is the sum of the injured, affected and left homeless after a disaster.\"\r\n\r\nEstimated economic damage: \"The amount of damage to property, crops, and livestock. In EM-DAT estimated damage are given in US$ (‘000). For each disaster, the registered figure corresponds to the damage value at the moment of the event, i.e. the figures are shown true to the year of the event.\"\r\n\r\nTotal deaths: \"In EM-DAT, it is the sum of deaths and missing.\"",
+  "sources": [
+    {
+      "name": "Natural disasters - EMDAT (2017)",
+      "dataPublishedBy": "EMDAT (2017): OFDA/CRED International Disaster Database, Université catholique de Louvain – Brussels – Belgium",
+      "dataPublisherSource": "Census data",
+      "link": "http://www.emdat.be/",
+      "retrievedDate": "04/01/2018",
+      "additionalInfo": "The data presented here includes all categories classified as \"natural disasters\" (distinguished from technological disasters, such as oil spills and industrial accidents). This includes those from drought, floods, biological epidemics, extreme weather, extreme temperature, landslides, dry mass movements, extraterrestrial impacts, wildfires, volcanic activity and earthquakes.\r\n\r\nThe combined set of \"all natural disasters\" also includes disasters defined as \"insect infestations\", however this has not been included as a discrete dataset due to low impact numbers.\r\n\r\nemdat defines the following variables as:\r\n\r\nAffected: \"People requiring immediate assistance during a period of emergency, i.e. requiring basic survival needs such as food, water, shelter, sanitation and immediate medical assistance.\"\r\n\r\nInjured: \"People suffering from physical injuries, trauma or an illness requiring immediate medical assistance as a direct result of a disaster.\"\r\n\r\nHomeless: \"Number of people whose house is destroyed or heavily damaged and therefore need shelter after an event.\"\r\n\r\nTotal affected: \"In EM-DAT, it is the sum of the injured, affected and left homeless after a disaster.\"\r\n\r\nEstimated economic damage: \"The amount of damage to property, crops, and livestock. In EM-DAT estimated damage are given in US$ (‘000). For each disaster, the registered figure corresponds to the damage value at the moment of the event, i.e. the figures are shown true to the year of the event.\"\r\n\r\nTotal deaths: \"In EM-DAT, it is the sum of deaths and missing.\""
+    }
+  ],
+  "owidTags": [
+    "Natural Catastrophes"
+  ],
+  "resources": [
+    {
+      "path": "Natural catastrophes - EMDAT (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of disasters (EMDAT (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total deaths (EMDAT (2017))",
+            "type": "any",
+            "description": "Total number of deaths as a result of natural disasters.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Injured (EMDAT (2017))",
+            "type": "any",
+            "description": "Number of injuries as a result of natural disasters.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Affected (EMDAT (2017))",
+            "type": "any",
+            "description": "Number of people affected by natural disasters.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Homeless (EMDAT (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total affected (EMDAT (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Total economic damage (EMDAT (2017))",
+            "type": "any",
+            "description": "Total economic damage as a result of natural disasters. ",
+            "owidDisplaySettings": {
+              "unit": "US$",
+              "shortUnit": "$",
+              "tolerance": 5
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
