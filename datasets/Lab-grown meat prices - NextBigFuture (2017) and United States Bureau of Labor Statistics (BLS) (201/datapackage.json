@@ -1,0 +1,42 @@
+{
+  "name": "Lab-grown meat prices - NextBigFuture (2017) and United States Bureau of Labor Statistics (BLS) (2017)",
+  "title": "Lab-grown meat prices - NextBigFuture (2017) and United States Bureau of Labor Statistics (BLS) (2017)",
+  "id": 570,
+  "description": "Data is based on industry and company reports from lab-scale (not commercial-scale) production of in-vitro beef.\n\nPrices have been reported in US$ per pound (lb) of lab-grown beef. We have converted this to US$ per kilogram using a conversion factor of 0.454.",
+  "sources": [
+    {
+      "name": "Lab-grown beef prices - NextBigFuture (2017)",
+      "dataPublishedBy": "Next Big Future (2017). \"Lab grown meat prices have dropped 30,000 times in less than four years and are about 3-4 times more expensive than regular ground beef\"",
+      "dataPublisherSource": null,
+      "link": "https://www.nextbigfuture.com/2017/02/lab-grown-meat-prices-have-dropped.html",
+      "retrievedDate": "11/07/2017",
+      "additionalInfo": "Data is based on industry and company reports from lab-scale (not commercial-scale) production of in-vitro beef.\n\nPrices have been reported in US$ per pound (lb) of lab-grown beef. We have converted this to US$ per kilogram using a conversion factor of 0.454."
+    }
+  ],
+  "owidTags": [
+    "Food Prices"
+  ],
+  "resources": [
+    {
+      "path": "Lab-grown meat prices - NextBigFuture (2017) and United States Bureau of Labor Statistics (BLS) (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Lab-grown beef (NextBigFuture (2017))",
+            "type": "any",
+            "description": "Lab-grown beef measured in US$ per kilogram. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
