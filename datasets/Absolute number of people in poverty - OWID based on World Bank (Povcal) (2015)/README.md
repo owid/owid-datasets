@@ -1,0 +1,3 @@
+# Absolute number of people in poverty - OWID based on World Bank (Povcal) (2015)
+
+Max Roser has calculated the number of people in extreme poverty (living with less than 1.25$ in 2005 International Dollar) based on the World Bank (Povcal) data. I have downloaded the poverty headcount for each year and multiplied it with the population in each region to arrive at the total number of people in poverty. Both data sets come from Povcal and were downloaded on 1 August 2015. Data is PPP-adjusted and expressed in 2005 International Dollars.

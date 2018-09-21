@@ -1,0 +1,42 @@
+{
+  "name": "Absolute number of people in poverty - OWID based on World Bank (Povcal) (2015)",
+  "title": "Absolute number of people in poverty - OWID based on World Bank (Povcal) (2015)",
+  "id": 87,
+  "description": "Max Roser has calculated the number of people in extreme poverty (living with less than 1.25$ in 2005 International Dollar) based on the World Bank (Povcal) data. I have downloaded the poverty headcount for each year and multiplied it with the population in each region to arrive at the total number of people in poverty. Both data sets come from Povcal and were downloaded on 1 August 2015. Data is PPP-adjusted and expressed in 2005 International Dollars.",
+  "sources": [
+    {
+      "name": "World Bank (Povcal) (2015)",
+      "dataPublishedBy": "World Bank (Povcal)",
+      "dataPublisherSource": "OWID calculations from World Bank census data.",
+      "link": "http://iresearch.worldbank.org/PovcalNet/povOnDemand.aspx",
+      "retrievedDate": "01/08/2015",
+      "additionalInfo": "Max Roser has calculated the number of people in extreme poverty (living with less than 1.25$ in 2005 International Dollar) based on the World Bank (Povcal) data. I have downloaded the poverty headcount for each year and multiplied it with the population in each region to arrive at the total number of people in poverty. Both data sets come from Povcal and were downloaded on 1 August 2015. Data is PPP-adjusted and expressed in 2005 International Dollars."
+    }
+  ],
+  "owidTags": [
+    "World Poverty"
+  ],
+  "resources": [
+    {
+      "path": "Absolute number of people in poverty - OWID based on World Bank (Povcal) (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "People in extreme poverty (living with less than 1.25$ in 2005 International Dollar) (World Bank (Povcal) (2015))",
+            "type": "any",
+            "description": "Number of people in extreme poverty (living with less than 1.25$ in 2005 International Dollar) based on the World Bank (Povcal) data. ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
