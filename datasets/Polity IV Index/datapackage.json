@@ -1,0 +1,42 @@
+{
+  "name": "Polity IV Index",
+  "title": "Polity IV Index",
+  "id": 44,
+  "description": "Polity IV Project: Political Regime Characteristics and Transitions dataset",
+  "sources": [
+    {
+      "name": "Polity IV Project",
+      "dataPublishedBy": "PolityProject",
+      "dataPublisherSource": null,
+      "link": "http://www.systemicpeace.org/polityproject.html",
+      "retrievedDate": null,
+      "additionalInfo": "Polity IV Project: Political Regime Characteristics and Transitions dataset"
+    }
+  ],
+  "owidTags": [
+    "Democratisation"
+  ],
+  "resources": [
+    {
+      "path": "Polity IV Index.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Polity IV Index",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
