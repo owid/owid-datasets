@@ -1,0 +1,48 @@
+{
+  "name": "OECD Education: PISA Test Scores - PISA (2015)",
+  "title": "OECD Education: PISA Test Scores - PISA (2015)",
+  "id": 37,
+  "description": "PISA education test scores (reading, mathematics, and science)\nOECD PISA average variable is the mean average taken over the mathematics, reading and sciences scores to create an overall ranking. Note also that a problem solving test was included in 2003 and also used to calculate the average. Data is missing for US Reading in 2006 as it was disqualified. Method of averaging over different tests is not endorsed by OECD",
+  "sources": [
+    {
+      "name": "OECD Programme for International Student Assessment (PISA) (2015)",
+      "dataPublishedBy": "OECD (2015)",
+      "dataPublisherSource": "OECD, census data",
+      "link": "http://www.oecd.org/pisa/home/",
+      "retrievedDate": "08/06/2015",
+      "additionalInfo": "PISA education test scores (reading, mathematics, and science)\nOECD PISA average variable is the mean average taken over the mathematics, reading and sciences scores to create an overall ranking. Note also that a problem solving test was included in 2003 and also used to calculate the average. Data is missing for US Reading in 2006 as it was disqualified. Method of averaging over different tests is not endorsed by OECD"
+    }
+  ],
+  "owidTags": [
+    "Quality of Education & Drop-Out Rates"
+  ],
+  "resources": [
+    {
+      "path": "OECD Education: PISA Test Scores - PISA (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "OECD PISA education score (PISA (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "OECD PISA Reading Score, 2000-2012 (PISA (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
