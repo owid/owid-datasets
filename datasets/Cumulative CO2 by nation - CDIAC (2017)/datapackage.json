@@ -1,0 +1,44 @@
+{
+  "name": "Cumulative CO2 by nation - CDIAC (2017)",
+  "title": "Cumulative CO2 by nation - CDIAC (2017)",
+  "id": 445,
+  "description": "Data converted from carbon into carbon dioxide (using conversion factor of 3.67). Raw data converted from thousand tonnes to million tonnes. Data for Australia appears to be negative from 1851-1858; for clarity, these figures have been renormalised to zero.",
+  "sources": [
+    {
+      "name": "Cumulative CO2 by nation - CDIAC (2017)",
+      "dataPublishedBy": "Carbon Dioxide Information Analysis Centre (CDIAC)",
+      "dataPublisherSource": "Tom Boden and Bob Andres (Oak Ridge National Laboratory); Gregg Marland (Appalachian State University)",
+      "link": "http://cdiac.ornl.gov/",
+      "retrievedDate": "25/04/2017",
+      "additionalInfo": "Data converted from carbon into carbon dioxide (using conversion factor of 3.67). Raw data converted from thousand tonnes to million tonnes. Data for Australia appears to be negative from 1851-1858; for clarity, these figures have been renormalised to zero."
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "Cumulative CO2 by nation - CDIAC (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Cumulative CO2 by nation (CDIAC (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
