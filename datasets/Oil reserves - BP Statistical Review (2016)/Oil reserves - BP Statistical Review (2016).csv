@@ -1,0 +1,242 @@
+Entity,Year,Oil reserves (BP Statistical Review (2016))
+Africa,1995,72
+Africa,2005,111.3
+Africa,2014,129.3
+Africa,2015,129.1
+Algeria,1995,10
+Algeria,2005,12.3
+Algeria,2014,12.2
+Algeria,2015,12.2
+Angola,1995,3.1
+Angola,2005,9
+Angola,2014,12.7
+Angola,2015,12.7
+Argentina,1995,2.4
+Argentina,2005,2.2
+Argentina,2014,2.4
+Argentina,2015,2.4
+Asia & Pacific,1995,39.1
+Asia & Pacific,2005,40.8
+Asia & Pacific,2014,42.6
+Asia & Pacific,2015,42.6
+Australia,1995,3.8
+Australia,2005,3.7
+Australia,2014,4
+Australia,2015,4
+Azerbaijan,1995,1.2
+Azerbaijan,2005,7
+Azerbaijan,2014,7
+Azerbaijan,2015,7
+Brazil,1995,6.2
+Brazil,2005,11.8
+Brazil,2014,16.2
+Brazil,2015,13
+Brunei,1995,1.1
+Brunei,2005,1.1
+Brunei,2014,1.1
+Brunei,2015,1.1
+Canada,1995,48.4
+Canada,2005,180
+Canada,2014,172.2
+Canada,2015,172.2
+Chad,2005,1.5
+Chad,2014,1.5
+Chad,2015,1.5
+China,1995,16.4
+China,2005,15.6
+China,2014,18.5
+China,2015,18.5
+Colombia,1995,3
+Colombia,2005,1.5
+Colombia,2014,2.4
+Colombia,2015,2.3
+Democratic Republic of Congo,1995,1.3
+Democratic Republic of Congo,2005,1.5
+Democratic Republic of Congo,2014,1.6
+Democratic Republic of Congo,2015,1.6
+Denmark,1995,0.9
+Denmark,2005,1.3
+Denmark,2014,0.6
+Denmark,2015,0.6
+Ecuador,1995,4.3
+Ecuador,2005,4.9
+Ecuador,2014,8
+Ecuador,2015,8
+Egypt,1995,3.8
+Egypt,2005,3.7
+Egypt,2014,3.7
+Egypt,2015,3.5
+Equatorial Guinea,1995,0.6
+Equatorial Guinea,2005,1.8
+Equatorial Guinea,2014,1.1
+Equatorial Guinea,2015,1.1
+Europe & Central Asia,1995,141.2
+Europe & Central Asia,2005,139.5
+Europe & Central Asia,2014,154.6
+Europe & Central Asia,2015,155.2
+Gabon,1995,1.5
+Gabon,2005,2.1
+Gabon,2014,2
+Gabon,2015,2
+India,1995,5.5
+India,2005,5.9
+India,2014,5.7
+India,2015,5.7
+Indonesia,1995,5
+Indonesia,2005,4.2
+Indonesia,2014,3.6
+Indonesia,2015,3.6
+Iran,1995,93.7
+Iran,2005,137.5
+Iran,2014,157.8
+Iran,2015,157.8
+Iraq,1995,100
+Iraq,2005,115
+Iraq,2014,143.1
+Iraq,2015,143.1
+Italy,1995,0.8
+Italy,2005,0.5
+Italy,2014,0.6
+Italy,2015,0.6
+Kazakhstan,1995,5.3
+Kazakhstan,2005,9
+Kazakhstan,2014,30
+Kazakhstan,2015,30
+Kuwait,1995,96.5
+Kuwait,2005,101.5
+Kuwait,2014,101.5
+Kuwait,2015,101.5
+Latin America & the Caribbean,1995,83.7
+Latin America & the Caribbean,2005,103.6
+Latin America & the Caribbean,2014,331.7
+Latin America & the Caribbean,2015,329.2
+Libya,1995,29.5
+Libya,2005,41.5
+Libya,2014,48.4
+Libya,2015,48.4
+Malaysia,1995,5.2
+Malaysia,2005,5.3
+Malaysia,2014,3.6
+Malaysia,2015,3.6
+Mexico,1995,48.8
+Mexico,2005,13.7
+Mexico,2014,10.8
+Mexico,2015,10.8
+Middle East,1995,663.3
+Middle East,2005,755.5
+Middle East,2014,803.8
+Middle East,2015,803.5
+Nigeria,1995,20.8
+Nigeria,2005,36.2
+Nigeria,2014,37.1
+Nigeria,2015,37.1
+North America,1995,126.9
+North America,2005,223.6
+North America,2014,238
+North America,2015,238
+Norway,1995,10.8
+Norway,2005,9.7
+Norway,2014,6.5
+Norway,2015,8
+Oman,1995,5.2
+Oman,2005,5.6
+Oman,2014,5.2
+Oman,2015,5.3
+Other Africa,1995,0.7
+Other Africa,2005,0.5
+Other Africa,2014,3.7
+Other Africa,2015,3.7
+Other Asia & Pacific,1995,1
+Other Asia & Pacific,2005,1.4
+Other Asia & Pacific,2014,1.3
+Other Asia & Pacific,2015,1.3
+Other Europe & Central Asia,1995,2.2
+Other Europe & Central Asia,2005,2.2
+Other Europe & Central Asia,2014,2.1
+Other Europe & Central Asia,2015,2.1
+Other Latin America & the Caribbean,1995,1
+Other Latin America & the Caribbean,2005,1.5
+Other Latin America & the Caribbean,2014,0.5
+Other Latin America & the Caribbean,2015,0.5
+Other Middle East,1995,0.1
+Other Middle East,2005,0.1
+Other Middle East,2014,0.2
+Other Middle East,2015,0.2
+Peru,1995,0.8
+Peru,2005,1.1
+Peru,2014,1.4
+Peru,2015,1.4
+Qatar,1995,3.7
+Qatar,2005,27.9
+Qatar,2014,25.7
+Qatar,2015,25.7
+Romania,1995,1
+Romania,2005,0.5
+Romania,2014,0.6
+Romania,2015,0.6
+Russia,1995,113.6
+Russia,2005,104.4
+Russia,2014,103.2
+Russia,2015,102.4
+Saudi Arabia,1995,261.5
+Saudi Arabia,2005,264.2
+Saudi Arabia,2014,267
+Saudi Arabia,2015,266.6
+South Sudan,2014,3.5
+South Sudan,2015,3.5
+Sudan,1995,0.3
+Sudan,2005,0.6
+Sudan,2014,1.5
+Sudan,2015,1.5
+Syria,1995,2.6
+Syria,2005,3
+Syria,2014,2.5
+Syria,2015,2.5
+Thailand,1995,0.3
+Thailand,2005,0.5
+Thailand,2014,0.4
+Thailand,2015,0.4
+Trinidad and Tobago,1995,0.7
+Trinidad and Tobago,2005,0.8
+Trinidad and Tobago,2014,0.8
+Trinidad and Tobago,2015,0.7
+Tunisia,1995,0.4
+Tunisia,2005,0.6
+Tunisia,2014,0.4
+Tunisia,2015,0.4
+Turkmenistan,1995,0.5
+Turkmenistan,2005,0.5
+Turkmenistan,2014,0.6
+Turkmenistan,2015,0.6
+United Arab Emirates,1995,98.1
+United Arab Emirates,2005,97.8
+United Arab Emirates,2014,97.8
+United Arab Emirates,2015,97.8
+United Kingdom,1995,4.5
+United Kingdom,2005,3.9
+United Kingdom,2014,2.8
+United Kingdom,2015,2.8
+United States,1995,29.8
+United States,2005,29.9
+United States,2014,55
+United States,2015,55
+Uzbekistan,1995,0.3
+Uzbekistan,2005,0.6
+Uzbekistan,2014,0.6
+Uzbekistan,2015,0.6
+Venezuela,1995,66.3
+Venezuela,2005,80
+Venezuela,2014,300
+Venezuela,2015,300.9
+Vietnam,1995,0.8
+Vietnam,2005,3.1
+Vietnam,2014,4.4
+Vietnam,2015,4.4
+World,1995,1126.2
+World,2005,1374.4
+World,2014,1700
+World,2015,1697.6
+Yemen,1995,2
+Yemen,2005,2.9
+Yemen,2014,3
+Yemen,2015,3
