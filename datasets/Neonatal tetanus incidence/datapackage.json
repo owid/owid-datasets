@@ -1,0 +1,42 @@
+{
+  "name": "Neonatal tetanus incidence",
+  "title": "Neonatal tetanus incidence",
+  "id": 2450,
+  "description": "",
+  "sources": [
+    {
+      "name": "WHO (2017)",
+      "dataPublishedBy": "World Health Organization (2017)",
+      "dataPublisherSource": "UNICEF and WHO's Joint Reporting Form (JRP) on Immunization, Vaccines and Biologicals (further explanations here: http://www.who.int/immunization/monitoring_surveillance/routine/reporting/en/)",
+      "link": " http://www.who.int/entity/immunization/monitoring_surveillance/data/incidence_series.xls?ua=1. ",
+      "retrievedDate": "16 February 2018",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Eradication of Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Neonatal tetanus incidence.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Year of Maternal Neonatal Tetanus (MNT) elimination",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
