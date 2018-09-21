@@ -1,0 +1,42 @@
+{
+  "name": "Relative wages of craftsmen to labourers, 1200-2000 - Clark (2005)",
+  "title": "Relative wages of craftsmen to labourers, 1200-2000 - Clark (2005)",
+  "id": 65,
+  "description": "Data taken from Table A2.",
+  "sources": [
+    {
+      "name": "The Condition of the Working Class in England, 1209–2004 - Clark (2005)",
+      "dataPublishedBy": "Clark (2005) The Condition of the Working Class in England, 1209–2004. Journal of Political Economy, Vol. 113, No. 6, pp. 1307-1340.",
+      "dataPublisherSource": "Scholarly work",
+      "link": "http://www.journals.uchicago.edu/doi/abs/10.1086/498123",
+      "retrievedDate": "01/10/2017",
+      "additionalInfo": "Data taken from Table A2."
+    }
+  ],
+  "owidTags": [
+    "Skill Premium – Income by Education"
+  ],
+  "resources": [
+    {
+      "path": "Relative wages of craftsmen to labourers, 1200-2000 - Clark (2005).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Relative wages of craftsmen to labourers, 1200-2000 (Clark (2005))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
