@@ -1,0 +1,45 @@
+{
+  "name": "Nuclear energy (% electricity production) - World Bank (2014)",
+  "title": "Nuclear energy (% electricity production) - World Bank (2014)",
+  "id": 483,
+  "description": "World Bank sourced nuclear production data from IEA Statistics © OECD/IEA 2014. Available at: http://www.iea.org/stats/index.asp",
+  "sources": [
+    {
+      "name": "Nuclear energy (% electricity production) - World Bank (2014)",
+      "dataPublishedBy": "World Bank, World Development Indicators (WDI)",
+      "dataPublisherSource": "IEA Statistics",
+      "link": "http://data.worldbank.org/indicator/EG.ELC.NUCL.ZS?end=2015&name_desc=true&start=1960&view=chart&year=2015",
+      "retrievedDate": "18/05/2017",
+      "additionalInfo": "World Bank sourced nuclear production data from IEA Statistics © OECD/IEA 2014. Available at: http://www.iea.org/stats/index.asp"
+    }
+  ],
+  "owidTags": [
+    "Nuclear Energy"
+  ],
+  "resources": [
+    {
+      "path": "Nuclear energy (% electricity production) - World Bank (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Nuclear energy (% electricity production) (World Bank (2014))",
+            "type": "any",
+            "description": "Percentage of electricity produce from nuclear sources- World Bank",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
