@@ -1,0 +1,51 @@
+{
+  "name": "Airline hijacking - Aviation Safety Network",
+  "title": "Airline hijacking - Aviation Safety Network",
+  "id": 135,
+  "description": "Number of hijackings, fatalities of hijacking",
+  "sources": [
+    {
+      "name": "Aviation Safety Network",
+      "dataPublishedBy": "Aviation Safety Network",
+      "dataPublisherSource": "Aviation Safety Network",
+      "link": "http://aviation-safety.net/statistics/period/stats.php?cat=H2",
+      "retrievedDate": "21/09/2015",
+      "additionalInfo": "Number of hijackings, fatalities of hijacking"
+    }
+  ],
+  "owidTags": [
+    "Terrorism"
+  ],
+  "resources": [
+    {
+      "path": "Airline hijacking - Aviation Safety Network.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of airline hijackings (Aviation Safety Network)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fatalities due to airline hijacking (Aviation Safety Network)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
