@@ -1,0 +1,42 @@
+{
+  "name": "UN Population Division (2015)",
+  "title": "UN Population Division (2015)",
+  "id": 190,
+  "description": "",
+  "sources": [
+    {
+      "name": "UN Population Division (2015)",
+      "dataPublishedBy": "United Nations Population Division",
+      "dataPublisherSource": "UN estimates and projections",
+      "link": "http://esa.un.org/unpd/wpp/unpp/panel_population.htm",
+      "retrievedDate": null,
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "World Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "UN Population Division (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Population Growth Rate (UN Population Division (2015))",
+            "type": "any",
+            "description": "Quinquennial population growth rate",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
