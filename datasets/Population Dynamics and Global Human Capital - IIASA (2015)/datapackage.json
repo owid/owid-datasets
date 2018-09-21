@@ -1,0 +1,91 @@
+{
+  "name": "Population Dynamics and Global Human Capital - IIASA (2015)",
+  "title": "Population Dynamics and Global Human Capital - IIASA (2015)",
+  "id": 39,
+  "description": "The data on past and projected rates of educational attainment comes from the International Institute for Applied Systems Analysis (IIASA) and can be found here. These projections are constructed using current Global Economic Trends (GET). There are other scenarios available, including a best and worst case.",
+  "sources": [
+    {
+      "name": "International Institute for Applied Systems Analysis (IIASA): World Population and Human Capital in the Twenty-First Century (2015)",
+      "dataPublishedBy": " IIASA (2015)",
+      "dataPublisherSource": "Lutz, Wolfgang, William P. Butz, and Samir (2014) World population and human capital in the twenty-first century. Oxford: Oxford University Press.",
+      "link": "http://www.oeaw.ac.at/vid/dataexplorer/",
+      "retrievedDate": "08/10/2015",
+      "additionalInfo": "The data on past and projected rates of educational attainment comes from the International Institute for Applied Systems Analysis (IIASA) and can be found here. These projections are constructed using current Global Economic Trends (GET). There are other scenarios available, including a best and worst case."
+    }
+  ],
+  "owidTags": [
+    "Projections of Future Education"
+  ],
+  "resources": [
+    {
+      "path": "Population Dynamics and Global Human Capital - IIASA (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "IIASA rates of no education projections (IIASA (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "shortUnit": "%"
+            }
+          },
+          {
+            "name": "Total number of people aged 15+ with no education (millions) (IIASA (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "No education, 1970-2050 (IIASA (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Primary education, 1970-2050 (IIASA (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Secondary education, 1970-2050 (IIASA (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Tertiary education, 1970-2050 (IIASA (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "name": "Child mortality rate",
+              "unit": "%",
+              "tolerance": 5,
+              "conversionFactor": 0.1
+            }
+          },
+          {
+            "name": "Aged 0-14, 1970-2050 (IIASA (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Tertiary education for those aged 15+ (proportion), 1970-2050 (IIASA (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
