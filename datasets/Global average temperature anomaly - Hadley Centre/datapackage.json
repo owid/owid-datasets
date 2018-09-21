@@ -1,0 +1,44 @@
+{
+  "name": "Global average temperature anomaly - Hadley Centre",
+  "title": "Global average temperature anomaly - Hadley Centre",
+  "id": 451,
+  "description": "The temperature anomaly is measured relative to the 1961-1990 global average temperature. Temperatures at this baseline represent an increase of 0.3-0.4 degrees celcius since pre-Industrial (1850) global average temperatures.\r\n\r\nThe data presented here is a combined land-surface air temperature and sea-surface temperature series. Upper and lower bounds represent the 95% confidence intervals.",
+  "sources": [
+    {
+      "name": "Global average temperature anomaly - Hadley Centre",
+      "dataPublishedBy": "Met Office (UK) Hadley Centre",
+      "dataPublisherSource": "Aggregation of global datasets compiled across scientific and meteorological organisations",
+      "link": "http://www.metoffice.gov.uk/hadobs/index.html",
+      "retrievedDate": "01/05/2017",
+      "additionalInfo": "The temperature anomaly is measured relative to the 1961-1990 global average temperature. Temperatures at this baseline represent an increase of 0.3-0.4 degrees celcius since pre-Industrial (1850) global average temperatures.\r\n\r\nThe data presented here is a combined land-surface air temperature and sea-surface temperature series. Upper and lower bounds represent the 95% confidence intervals."
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "Global average temperature anomaly - Hadley Centre.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Global average temperature anomaly (Hadley Centre)",
+            "type": "any",
+            "description": "Global average (land and sea) temperature anomaly- Hadley Centre",
+            "owidDisplaySettings": {
+              "unit": "Rate"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
