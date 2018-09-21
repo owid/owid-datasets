@@ -1,0 +1,44 @@
+{
+  "name": "Gini Index – World Bank (2016)",
+  "title": "Gini Index – World Bank (2016)",
+  "id": 313,
+  "description": "For more information and methodology, please see PovcalNet ( iresearch.worldbank.org/PovcalNet/index.htm ).\r\n\r\nIt is important to note that the estimates presented here are a mix between income and consumption measures and comparability is therefore limited.",
+  "sources": [
+    {
+      "name": "Gini Index – World Bank (2016)",
+      "dataPublishedBy": "World Bank WDI",
+      "dataPublisherSource": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments.",
+      "link": "http://data.worldbank.org/indicator/SI.POV.GINI",
+      "retrievedDate": "27/10/2016",
+      "additionalInfo": "For more information and methodology, please see PovcalNet ( iresearch.worldbank.org/PovcalNet/index.htm ).\r\n\r\nIt is important to note that the estimates presented here are a mix between income and consumption measures and comparability is therefore limited."
+    }
+  ],
+  "owidTags": [
+    "Income Inequality"
+  ],
+  "resources": [
+    {
+      "path": "Gini Index – World Bank (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Gini Index (World Bank (2016))",
+            "type": "any",
+            "description": "A higher value indicates greater inequality. ",
+            "owidDisplaySettings": {
+              "unit": "Percent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
