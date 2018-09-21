@@ -1,0 +1,54 @@
+{
+  "name": "World Poverty Clock",
+  "title": "World Poverty Clock",
+  "id": 1895,
+  "description": "For the years prior to 2020, the values for January were taken. ",
+  "sources": [
+    {
+      "name": "World Data Lab (2018)",
+      "dataPublishedBy": "World Data Lab",
+      "dataPublisherSource": "Own calculations",
+      "link": "http://worldpoverty.io",
+      "retrievedDate": "7 January 2018",
+      "additionalInfo": "For the years prior to 2020, the values for January were taken. "
+    }
+  ],
+  "owidTags": [
+    "World Poverty"
+  ],
+  "resources": [
+    {
+      "path": "World Poverty Clock.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of population in extreme poverty (World Data Lab, 2018)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of people in extreme poverty (World Data Lab, 2018)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Population (World Data Lab, 2018)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
