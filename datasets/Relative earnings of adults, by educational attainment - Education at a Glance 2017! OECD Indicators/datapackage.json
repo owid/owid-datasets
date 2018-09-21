@@ -1,0 +1,42 @@
+{
+  "name": "Relative earnings of adults, by educational attainment - Education at a Glance 2017: OECD Indicators (2017)",
+  "title": "Relative earnings of adults, by educational attainment - Education at a Glance 2017: OECD Indicators (2017)",
+  "id": 2873,
+  "description": "The year of reference is 2015 for all countries except: Denmark (2014), Finland (2014), Belgium (2014), Italy (2013), Canada (2014), Netherlands (2014), Japan (2012), Spain (2014), France (2013), Luxembourg (2014), Poland (2014), and Lithuania (2014). \n\nEarnings are net of income tax only for: Latvia, Ireland, and Mexico.\n\nFor further details, see Table A6.1 in the <a href=\"https://www.oecd-ilibrary.org/docserver/eag-2017-en.pdf?expires=1533729082&id=id&accname=guest&checksum=78D200C9AD96EA2A893AEC34BFB793F8\" rel=\"noopener\" target=\"_blank\">Education at a Glance 2017</a> report.",
+  "sources": [
+    {
+      "name": "Education at a Glance 2017: OECD Indicators (2017)",
+      "dataPublishedBy": "OECD",
+      "dataPublisherSource": "National data sources",
+      "link": "https://www.oecd-ilibrary.org/education/education-at-a-glance-2017_eag-2017-en",
+      "retrievedDate": "08/08/2018",
+      "additionalInfo": "The year of reference is 2015 for all countries except: Denmark (2014), Finland (2014), Belgium (2014), Italy (2013), Canada (2014), Netherlands (2014), Japan (2012), Spain (2014), France (2013), Luxembourg (2014), Poland (2014), and Lithuania (2014). \n\nEarnings are net of income tax only for: Latvia, Ireland, and Mexico.\n\nFor further details, see Table A6.1 in the <a href=\"https://www.oecd-ilibrary.org/docserver/eag-2017-en.pdf?expires=1533729082&id=id&accname=guest&checksum=78D200C9AD96EA2A893AEC34BFB793F8\" rel=\"noopener\" target=\"_blank\">Education at a Glance 2017</a> report."
+    }
+  ],
+  "owidTags": [
+    "Wages & Other Measures of Income"
+  ],
+  "resources": [
+    {
+      "path": "Relative earnings of adults, by educational attainment - Education at a Glance 2017: OECD Indicators (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Earnings of tertiary-educated workers relative to the earnings of workers with upper-secondary education (OECD 2017)",
+            "type": "any",
+            "description": "Earnings of tertiary-educated workers expressed as a percentage of the earnings of workers with upper-secondary education. Estimates correspond to workers ages 25-64. Regular earnings data collection provides information based on an annual, monthly or weekly reference period depending on the country. Data on earnings are before income tax in most countries.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
