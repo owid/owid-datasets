@@ -1,0 +1,53 @@
+{
+  "name": "World Poverty in absolute numbers - OWID based on World Bank (2016) and Bourguignon and Morrisson (2002)",
+  "title": "World Poverty in absolute numbers - OWID based on World Bank (2016) and Bourguignon and Morrisson (2002)",
+  "id": 228,
+  "description": "People are considered to live in extreme poverty at a consumption (or income) level below 1.90 international-$ per day. International $ are adjusted for price differences between countries and for price changes over time (inflation).",
+  "sources": [
+    {
+      "name": "World Poverty in absolute numbers - OWID based on World Bank (2016) and Bourguignon and Morrisson (2002)",
+      "dataPublishedBy": "Max Roser based on World Bank and Bourguignon and Morrisson (2002).",
+      "dataPublisherSource": "The absolute number of the world population is taken from the OurWorldInData world population data set: https://ourworldindata.org/world-population-growth/All poverty estimates 1981 and later are taken from the World Bank's Povcal Net: iresearch.worldbank.org/PovcalNet/ (downloaded May 23, 2016)All data from 1970 and earlier is taken from Bourguignon and Morrisson (2002) – Inequality Among World Citizens: 1820–1992. In American Economic Review, 92, 4, 727–748 Bourguignon and Morrisson (2002) state that 'the poverty lines were calibrated so that poverty and extreme poverty headcounts in 1992 coincided roughly with estimates from other sources'. To have one continuous series from 1820 up to 2015 I have followed the idea of Bourguignon and Morrisson (2002) to calibrate so that poverty headcounts in \"coincide roughly\" with estimates from the World Bank. Therefore the series is poverty headcount (1.90$ per day) as far back as possible (1981) from the World Bank and all observations before 1980 are Bourguignon and Morrison (2002) 'share of the world population living in extreme poverty'.",
+      "link": "iresearch.worldbank.org/PovcalNet/",
+      "retrievedDate": "23/05/2016",
+      "additionalInfo": "People are considered to live in extreme poverty at a consumption (or income) level below 1.90 international-$ per day. International $ are adjusted for price differences between countries and for price changes over time (inflation)."
+    }
+  ],
+  "owidTags": [
+    "World Poverty"
+  ],
+  "resources": [
+    {
+      "path": "World Poverty in absolute numbers - OWID based on World Bank (2016) and Bourguignon and Morrisson (2002).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of people living in extreme poverty (OWID based on World Bank (2016) and Bourguignon and Morrisson (2002))",
+            "type": "any",
+            "description": "World population living in extreme poverty",
+            "owidDisplaySettings": {
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          },
+          {
+            "name": "Number of people not in extreme poverty (OWID based on World Bank (2016) and Bourguignon and Morrisson (2002))",
+            "type": "any",
+            "description": "World population living in extreme poverty",
+            "owidDisplaySettings": {
+              "shortUnit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
