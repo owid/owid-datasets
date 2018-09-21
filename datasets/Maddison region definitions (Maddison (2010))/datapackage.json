@@ -1,0 +1,42 @@
+{
+  "name": "Maddison region definitions (Maddison (2010))",
+  "title": "Maddison region definitions (Maddison (2010))",
+  "id": 1927,
+  "description": "Note: Sudan in Maddison's classification includes the Republic of the Sudan and South Sudan (which had not yet become independent until the 2011 referendum which took place). ",
+  "sources": [
+    {
+      "name": "Regions according to Maddison (Maddison (2010))",
+      "dataPublishedBy": "Maddison (2010)",
+      "dataPublisherSource": null,
+      "link": "http://www.ggdc.net/maddison/oriindex.htm",
+      "retrievedDate": "24/01/2018",
+      "additionalInfo": "Note: Sudan in Maddison's classification includes the Republic of the Sudan and South Sudan (which had not yet become independent until the 2011 referendum which took place). "
+    }
+  ],
+  "owidTags": [
+    "Relative Poverty"
+  ],
+  "resources": [
+    {
+      "path": "Maddison region definitions (Maddison (2010)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "World regions according to Maddison (Maddison (2010))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
