@@ -1,0 +1,42 @@
+{
+  "name": "Population Density - HYDE and UN Population Division (2008 Revision)",
+  "title": "Population Density - HYDE and UN Population Division (2008 Revision)",
+  "id": 195,
+  "description": "(1) Original HYDE data had millennial observations from 10,000BCE to 0CE; centennial observations from 0-1,700CE; decennial observations from 1700-1950CE; and yearly observations from 1,950-2,000CE. UN projections are also annual. The granularity of these data were reduced to observations (i) every 5,000 years from from 10,000BCE to 0CE; (ii) every 500 years from 0-1,950CE; and (iii) every 5 years thereafter. (2) Observations for Australia exclude Heard and McDonald Island. (3) Observations for the United Kingdom exclude the Channel Islands and the Isle of Man. (4) The original HYDE data had a series for Serbia and Montenegro; this series was dropped and series for the two separate countries were kept (Kosovo included in Serbia).",
+  "sources": [
+    {
+      "name": "History Database of the Global Environment (HYDE) and UN Population Division projections (2008 revision)",
+      "dataPublishedBy": "History Database of the Global Environment (HYDE) and UN Population Division (2008 Revision)",
+      "dataPublisherSource": null,
+      "link": "HYDE: http://themasites.pbl.nl/tridion/en/themasites/hyde/basicdrivingfactors/population/index-2.html UN Population Division: http://esa.un.org/unpd/wpp/DVD/",
+      "retrievedDate": null,
+      "additionalInfo": "(1) Original HYDE data had millennial observations from 10,000BCE to 0CE; centennial observations from 0-1,700CE; decennial observations from 1700-1950CE; and yearly observations from 1,950-2,000CE. UN projections are also annual. The granularity of these data were reduced to observations (i) every 5,000 years from from 10,000BCE to 0CE; (ii) every 500 years from 0-1,950CE; and (iii) every 5 years thereafter. (2) Observations for Australia exclude Heard and McDonald Island. (3) Observations for the United Kingdom exclude the Channel Islands and the Isle of Man. (4) The original HYDE data had a series for Serbia and Montenegro; this series was dropped and series for the two separate countries were kept (Kosovo included in Serbia)."
+    }
+  ],
+  "owidTags": [
+    "World Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Population Density - HYDE and UN Population Division (2008 Revision).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Population Density ((HYDE) and UN Population Division (2008 Revision))",
+            "type": "any",
+            "description": "Population Density",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
