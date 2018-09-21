@@ -1,0 +1,66 @@
+{
+  "name": "Delivery points in the US - United States Postal Service (2018)",
+  "title": "Delivery points in the US - United States Postal Service (2018)",
+  "id": 2718,
+  "description": "Source notes: In 2004, the Postal Service refined its reporting of addresses on rural and highway contract routes by no longer\ncounting vacant addresses (unoccupied for more than 90 days) and addresses of customers who received mail solely\nvia Post Office box. Numbers may not add up due to rounding.",
+  "sources": [
+    {
+      "name": "United States Postal Service (2018)",
+      "dataPublishedBy": "United States Postal Service",
+      "dataPublisherSource": "1905-1970, Annual Report of the Postmaster General; 1971-2010, Comprehensive Statement on Postal Operations; since 2011, Annual Report to Congress and Comprehensive Statement on Postal Operations",
+      "link": "https://about.usps.com/who-we-are/postal-history/delivery-points-since-1905.pdf",
+      "retrievedDate": "04/04/2018",
+      "additionalInfo": "Source notes: In 2004, the Postal Service refined its reporting of addresses on rural and highway contract routes by no longer\ncounting vacant addresses (unoccupied for more than 90 days) and addresses of customers who received mail solely\nvia Post Office box. Numbers may not add up due to rounding."
+    }
+  ],
+  "owidTags": [
+    "Communication Technology & Mobile Phone"
+  ],
+  "resources": [
+    {
+      "path": "Delivery points in the US - United States Postal Service (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of delivery points to city addresses (US Postal Service (2018))",
+            "type": "any",
+            "description": "Number of postal delivery points to city addresses (in millions). ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of delivery points to rural addresses (US Postal Service (2018))",
+            "type": "any",
+            "description": "Number of postal delivery points to rural addresses (in millions). ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of delivery points to PO box addresses (US Postal Service (2018))",
+            "type": "any",
+            "description": "Number of postal delivery points to PO box addresses (in millions). ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of delivery points to highway contract route addresses (US Postal Service (2018))",
+            "type": "any",
+            "description": "Number of postal delivery points to highway contract route addresses (in millions). ",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Number of total delivery points (US Postal Service (2018))",
+            "type": "any",
+            "description": "Number of total delivery points (in millions). ",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
