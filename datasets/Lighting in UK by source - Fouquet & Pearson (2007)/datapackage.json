@@ -1,0 +1,66 @@
+{
+  "name": "Lighting in UK by source - Fouquet & Pearson (2007)",
+  "title": "Lighting in UK by source - Fouquet & Pearson (2007)",
+  "id": 948,
+  "description": "Data measures the percentage of lighting in the United Kingdom by source from 1700-2000. These estimates ignore the proportion provided by fish and vegetable oil, and from indirect sources, such as cooking and heating fires.\n\nOWID have extended the dataset from 2000 onwards, assuming electricity has maintained a 100% share of lighting sourcing.",
+  "sources": [
+    {
+      "name": "Lighting in UK by source - Fouquet & Pearson (2007)",
+      "dataPublishedBy": "Fouquet, R and Pearson, P J G (2006): ‘Seven Centuries of Energy Services: The Price and Use of Light in the United Kingdom (1300-2000)’, The Energy Journal, 27(1).",
+      "dataPublisherSource": "Author's own estimates",
+      "link": "http://eprints.lse.ac.uk/50460/",
+      "retrievedDate": "03/10/2017",
+      "additionalInfo": "Data measures the percentage of lighting in the United Kingdom by source from 1700-2000. These estimates ignore the proportion provided by fish and vegetable oil, and from indirect sources, such as cooking and heating fires.\n\nOWID have extended the dataset from 2000 onwards, assuming electricity has maintained a 100% share of lighting sourcing."
+    }
+  ],
+  "owidTags": [
+    "Energy Efficiency"
+  ],
+  "resources": [
+    {
+      "path": "Lighting in UK by source - Fouquet & Pearson (2007).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Candles (Fouquet & Pearson (2007))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Whale Oil (Fouquet & Pearson (2007))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gas (Fouquet & Pearson (2007))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Kerosene (Fouquet & Pearson (2007))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Electricity (Fouquet & Pearson (2007))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
