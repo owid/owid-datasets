@@ -1,0 +1,44 @@
+{
+  "name": "CO2 emissions per capita - CDIAC (2016)",
+  "title": "CO2 emissions per capita - CDIAC (2016)",
+  "id": 212,
+  "description": "China only refers to Mainland China; France is including Monaco.",
+  "sources": [
+    {
+      "name": "CO2 emissions per capita - CDIAC (2016)",
+      "dataPublishedBy": "CDIAC",
+      "dataPublisherSource": null,
+      "link": "http://cdiac.ornl.gov/trends/emis/tre_coun.html",
+      "retrievedDate": "25/04/2016",
+      "additionalInfo": "China only refers to Mainland China; France is including Monaco."
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "CO2 emissions per capita - CDIAC (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "CO2 emissions per capita (CDIAC (2016))",
+            "type": "any",
+            "description": "CO2 emissions per capita",
+            "owidDisplaySettings": {
+              "unit": "survey observations per decade"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
