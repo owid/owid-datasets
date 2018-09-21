@@ -1,0 +1,42 @@
+{
+  "name": "Under five mortality rate - Gapminder and UN Population Division (2017)",
+  "title": "Under five mortality rate - Gapminder and UN Population Division (2017)",
+  "id": 2710,
+  "description": "Series is constructed from Gapminder estimates up until 1949 and the UN Population Divisions data from 1950 to today. UN Population Division data is available from the latter link provided above, in the Annual Demographic Indicators excel file. ",
+  "sources": [
+    {
+      "name": "Gapminder estimates up until 1949 and UN Population Division from 1950 to today",
+      "dataPublishedBy": "Gapminder and the UN Population Division",
+      "dataPublisherSource": "Historical sources, national statistics",
+      "link": "https://www.gapminder.org/data/documentation/gd005/ and https://esa.un.org/unpd/wpp/Download/Standard/Interpolated/",
+      "retrievedDate": "28/03/2018",
+      "additionalInfo": "Series is constructed from Gapminder estimates up until 1949 and the UN Population Divisions data from 1950 to today. UN Population Division data is available from the latter link provided above, in the Annual Demographic Indicators excel file. "
+    }
+  ],
+  "owidTags": [
+    "Child Mortality"
+  ],
+  "resources": [
+    {
+      "path": "Under five mortality rate - Gapminder and UN Population Division (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Under five mortality rate (per 1000 live births) (Gapminder and UN Population Division)",
+            "type": "any",
+            "description": "The probability that a child born in a specific year will die before reaching the age of five if subject to current age-specific mortality rates. Expressed as a rate per 1,000 live births.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
