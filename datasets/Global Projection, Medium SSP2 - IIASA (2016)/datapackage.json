@@ -1,0 +1,89 @@
+{
+  "name": "Global Projection, Medium SSP2 - IIASA (2016)",
+  "title": "Global Projection, Medium SSP2 - IIASA (2016)",
+  "id": 225,
+  "description": "This is Medium (SSP2) scenario.",
+  "sources": [
+    {
+      "name": "Global Projection, Medium SSP2 - IIASA (2016)",
+      "dataPublishedBy": "Wittgenstein Centre for Demography and Global Human Capital (2015). Wittgenstein Centre Data Explorer Version 1.2.",
+      "dataPublisherSource": "Projections published by the Wittgenstein Centre.",
+      "link": "http://www.oeaw.ac.at/vid/dataexplorer/",
+      "retrievedDate": "20/05/2016",
+      "additionalInfo": "This is Medium (SSP2) scenario."
+    }
+  ],
+  "owidTags": [
+    "World Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Global Projection, Medium SSP2 - IIASA (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Under 15 (IIASA (2016))",
+            "type": "any",
+            "description": "Population size by education level.",
+            "owidDisplaySettings": {
+              "unit": "% in extreme poverty"
+            }
+          },
+          {
+            "name": "No Education (IIASA (2016))",
+            "type": "any",
+            "description": "Population size by education level.",
+            "owidDisplaySettings": {
+              "unit": "people in extreme poverty"
+            }
+          },
+          {
+            "name": "Incomplete Primary (IIASA (2016))",
+            "type": "any",
+            "description": "Population size by education level.",
+            "owidDisplaySettings": {
+              "unit": "0-1 scale"
+            }
+          },
+          {
+            "name": "Primary (IIASA (2016))",
+            "type": "any",
+            "description": "Population size by education level.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Lower Secondary (IIASA (2016))",
+            "type": "any",
+            "description": "Population size by education level.",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Upper Secondary (IIASA (2016))",
+            "type": "any",
+            "description": "Population size by education level.",
+            "owidDisplaySettings": {
+              "name": "Infant mortality rate",
+              "unit": "%",
+              "tolerance": 5,
+              "conversionFactor": 0.1
+            }
+          },
+          {
+            "name": "Post Secondary (IIASA (2016))",
+            "type": "any",
+            "description": "Population size by education level.",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
