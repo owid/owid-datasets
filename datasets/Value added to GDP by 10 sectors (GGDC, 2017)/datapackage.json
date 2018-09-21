@@ -1,0 +1,102 @@
+{
+  "name": "Value added to GDP by 10 sectors (GGDC, 2017)",
+  "title": "Value added to GDP by 10 sectors (GGDC, 2017)",
+  "id": 1876,
+  "description": "",
+  "sources": [
+    {
+      "name": "Groningen Growth and Development Centre (2017)",
+      "dataPublishedBy": "Groningen Growth and Development Centre",
+      "dataPublisherSource": "National governments' statistics (see https://www.rug.nl/ggdc/docs/10sector_sm_jan2015.pdf for more information)",
+      "link": "https://www.rug.nl/ggdc/productivity/10-sector/",
+      "retrievedDate": "7 December 2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Uncategorized"
+  ],
+  "resources": [
+    {
+      "path": "Value added to GDP by 10 sectors (GGDC, 2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Gross value added of Agriculture to GDP (GGDC, 2017)",
+            "type": "any",
+            "description": "Gross value added of Agriculture to GDP at constant 2005 national prices (in millions)",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gross value added of Mining to GDP (GGDC, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gross value added of Manufacturing to GDP (GGDC, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gross value added of Utilities to GDP (GGDC, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gross value added of Construction to GDP (GGDC, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gross value added of Trade, Restaurants and Hotel to GDP (GGDC, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gross value added of Transport, Storage and Communication to GDP (GGDC, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gross value added of Finance, insurance, real estate and business services to GDP (GGDC, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gross value added of government services to GDP (GGDC, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Gross value added of Community, social and personal services to GDP (GGDC, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Summation of all sectors GDP (GGDC, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
