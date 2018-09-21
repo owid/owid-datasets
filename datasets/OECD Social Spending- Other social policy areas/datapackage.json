@@ -1,0 +1,44 @@
+{
+  "name": "OECD Social Spending- Other social policy areas",
+  "title": "OECD Social Spending- Other social policy areas",
+  "id": 474,
+  "description": "Dimension of social spending given as the percentage of a country's gross domestic product (%GDP)",
+  "sources": [
+    {
+      "name": "OECD Social Spending- Other social policy areas",
+      "dataPublishedBy": "Organisation for Economic Co-operation and Development (OECD)",
+      "dataPublisherSource": null,
+      "link": "http://stats.oecd.org/Index.aspx?datasetcode=SOCX_AGG",
+      "retrievedDate": "17/05/2017",
+      "additionalInfo": "Dimension of social spending given as the percentage of a country's gross domestic product (%GDP)"
+    }
+  ],
+  "owidTags": [
+    "Social Spending"
+  ],
+  "resources": [
+    {
+      "path": "OECD Social Spending- Other social policy areas.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Other social policy areas",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "unit": "% teachers"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
