@@ -1,0 +1,48 @@
+{
+  "name": "City populations (1950-2035) - UN Urbanization Prospects (2018)",
+  "title": "City populations (1950-2035) - UN Urbanization Prospects (2018)",
+  "id": 2898,
+  "description": "Data on city populations is available for the world's largest 30 cities by population (in 2015).\n\nEstimates are available in 5-year intervals from 1950 to 2015. Projections are also available to the year 2035 as published by the UN World Urbanization Prospects (2018) based on its median fertility scenario and urbanization trends.",
+  "sources": [
+    {
+      "name": "City populations (1950-2035) - UN Urbanization Prospects (2018)",
+      "dataPublishedBy": "United Nations, Department of Economic and Social Affairs, Population Division (2018). World Urbanization Prospects: The 2018 Revision, Online Edition.",
+      "dataPublisherSource": null,
+      "link": "https://esa.un.org/unpd/wup/Download/",
+      "retrievedDate": "26th August 2018",
+      "additionalInfo": "Data on city populations is available for the world's largest 30 cities by population (in 2015).\n\nEstimates are available in 5-year intervals from 1950 to 2015. Projections are also available to the year 2035 as published by the UN World Urbanization Prospects (2018) based on its median fertility scenario and urbanization trends."
+    }
+  ],
+  "owidTags": [
+    "Urbanization"
+  ],
+  "resources": [
+    {
+      "path": "City populations (1950-2035) - UN Urbanization Prospects (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "City population (UN Urbanization Prospects, 2018)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Projected city population (UN Urbanization Prospects, 2018)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
