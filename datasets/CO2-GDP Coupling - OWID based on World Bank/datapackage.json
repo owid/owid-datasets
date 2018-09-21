@@ -1,0 +1,104 @@
+{
+  "name": "CO2-GDP Coupling - OWID based on World Bank",
+  "title": "CO2-GDP Coupling - OWID based on World Bank",
+  "id": 1032,
+  "description": "",
+  "sources": [
+    {
+      "name": "CO2-GDP Coupling - OWID based on World Bank",
+      "dataPublishedBy": null,
+      "dataPublisherSource": null,
+      "link": null,
+      "retrievedDate": null,
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "CO2-GDP Coupling - OWID based on World Bank.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "GDP per capita (OWID based on World Bank)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "GDP (OWID based on World Bank)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Population (OWID based on World Bank)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "CO2 emissions (OWID based on World Bank)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {
+              "name": "CO₂ emissions"
+            }
+          },
+          {
+            "name": "CO2 emissions per capita (OWID based on World Bank)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Methane emissions (OWID based on World Bank)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Methane emissions per capita (OWID based on World Bank)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Nitrous oxide emissions (OWID based on World Bank)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Nitrous oxide per capita (OWID based on World Bank)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Energy use per capita (OWID based on World Bank)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Energy use (OWID based on World Bank)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
