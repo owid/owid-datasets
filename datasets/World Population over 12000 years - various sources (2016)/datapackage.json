@@ -1,0 +1,44 @@
+{
+  "name": "World Population over 12000 years - various sources (2016)",
+  "title": "World Population over 12000 years - various sources (2016)",
+  "id": 223,
+  "description": "Among others these are the original source:\r\n\r\nMcEvedy, Colin and Richard Jones, 1978, “Atlas of World Population History,” Facts on File, New York, pp. 342-351.\r\n\r\nBiraben, Jean-Noel, 1980, An Essay Concerning Mankind’s Evolution, Population, Selected Papers, December, table 2.\r\n\r\nDurand, John D., 1974, “Historical Estimates of World Population: An Evaluation,” University of Pennsylvania, Population Center, Analytical and Technical Reports, Number 10, table 2.\r\n\r\nHaub, Carl, 1995, “How Many People Have Ever Lived on Earth?” Population Today, February, p. 5.\r\n\r\nThomlinson, Ralph, 1975, “Demographic Problems, Controversy Over Population Control,” Second Edition, Table 1.\r\n\r\nUnited Nations, 1999, The World at Six Billion, Table 1, “World Population From” Year 0 to Stabilization, p. 5,\r\nU.S. Census Bureau (USCB), 2012, Total Midyear Population for the World: 1950-2050.\r\n\r\nMichael Kremer (1993) “Population Growth and Technological Change: One Million B.C. to 1990”, Quarterly Journal of Economics., August 1993, pp.681-716.",
+  "sources": [
+    {
+      "name": "World Population over 12000 years - various sources (2016)",
+      "dataPublishedBy": "The History Database of the Global Environment (HYDE) collected the data by earlier publications. For the 'OurWorldInData'-series we used various sources: The data for the period before 1900 are taken from the History Database of the Global Environment (HYDE). The data for the World Population between 1900 and 1940 is taken from the UN publication 'The World at Six Billion'. The annual data for the World Population between 1950 and 2015 is taken from the UN's World Population Prospects: The 2015 Revision. It is the series 'Total Population - Both Sexes' online available <a href=\"https://esa.un.org/unpd/wpp/Download/Standard/Population/\" rel=\"noopener\" target=\"_blank\">here</a>.",
+      "dataPublisherSource": "HYDE aggregated estimates published in earlier publications. The series are named after these publications.",
+      "link": "http://themasites.pbl.nl/tridion/en/themasites/hyde/basicdrivingfactors/population/index-2.html",
+      "retrievedDate": "19/05/2016",
+      "additionalInfo": "Among others these are the original source:\r\n\r\nMcEvedy, Colin and Richard Jones, 1978, “Atlas of World Population History,” Facts on File, New York, pp. 342-351.\r\n\r\nBiraben, Jean-Noel, 1980, An Essay Concerning Mankind’s Evolution, Population, Selected Papers, December, table 2.\r\n\r\nDurand, John D., 1974, “Historical Estimates of World Population: An Evaluation,” University of Pennsylvania, Population Center, Analytical and Technical Reports, Number 10, table 2.\r\n\r\nHaub, Carl, 1995, “How Many People Have Ever Lived on Earth?” Population Today, February, p. 5.\r\n\r\nThomlinson, Ralph, 1975, “Demographic Problems, Controversy Over Population Control,” Second Edition, Table 1.\r\n\r\nUnited Nations, 1999, The World at Six Billion, Table 1, “World Population From” Year 0 to Stabilization, p. 5,\r\nU.S. Census Bureau (USCB), 2012, Total Midyear Population for the World: 1950-2050.\r\n\r\nMichael Kremer (1993) “Population Growth and Technological Change: One Million B.C. to 1990”, Quarterly Journal of Economics., August 1993, pp.681-716."
+    }
+  ],
+  "owidTags": [
+    "World Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "World Population over 12000 years - various sources (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "World Population over 12000 years (various sources (2016))",
+            "type": "any",
+            "description": "Total world population",
+            "owidDisplaySettings": {
+              "unit": "0-1 scale"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
