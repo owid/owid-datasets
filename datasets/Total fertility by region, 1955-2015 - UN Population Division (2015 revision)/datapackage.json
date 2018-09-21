@@ -1,0 +1,44 @@
+{
+  "name": "Total fertility by region, 1955-2015 - UN Population Division (2015 revision)",
+  "title": "Total fertility by region, 1955-2015 - UN Population Division (2015 revision)",
+  "id": 542,
+  "description": "",
+  "sources": [
+    {
+      "name": "UN Population Division (2015 revision)",
+      "dataPublishedBy": "United Nations Population Division",
+      "dataPublisherSource": "UN estimates (2015 revision)",
+      "link": "https://esa.un.org/unpd/wpp/",
+      "retrievedDate": "15/06/2017",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Fertility Rates"
+  ],
+  "resources": [
+    {
+      "path": "Total fertility by region, 1955-2015 - UN Population Division (2015 revision).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total fertility (UN Population Division (2015 revision))",
+            "type": "any",
+            "description": "Quinquennial projected total fertility rate (medium variant)",
+            "owidDisplaySettings": {
+              "unit": "Constant USD"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
