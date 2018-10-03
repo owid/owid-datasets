@@ -7,3 +7,5 @@ Data is based on its latest statistics on FAOstats (http://www.fao.org/faostat/e
 Figures at the national level are reported as 3-year averages; here we have allocated these figures to the mid-year. For example, the UN FAO reports national data for "2014-2016" which we allocate to the year 2015.
 
 Some data, particularly for high-income countries, is not reported by the UN FAO. This is often the case for countries where the prevalence of undernourishment is less than 2.5% of the total population.
+
+The categories of Extreme Fragility and Fragile have been added as a variable based on the country groupings defined in the OECD's States of Fragility (2018) Report.

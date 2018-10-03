@@ -1,4 +1,4 @@
-Entity,Year,Prevalence of undernourishment,Number of people who are undernourished (millions)
+Entity,Year,"Prevalence of undernourishment (FAOStat, 2018)","Number of people who are undernourished (FAOStat, 2018)"
 Afghanistan,2000,46.1,9.3
 Afghanistan,2001,46.4,9.8
 Afghanistan,2002,43.7,9.6
@@ -686,6 +686,23 @@ Ethiopia,2013,26.9,25.5
 Ethiopia,2014,24.7,24
 Ethiopia,2015,22.8,22.8
 Ethiopia,2016,21.4,21.9
+Extreme Fragility,2000,,67.1
+Extreme Fragility,2001,,66.8
+Extreme Fragility,2002,,66.7
+Extreme Fragility,2003,,66.2
+Extreme Fragility,2004,,65.7
+Extreme Fragility,2005,,64.8
+Extreme Fragility,2006,,64.6
+Extreme Fragility,2007,,64
+Extreme Fragility,2008,,63.1
+Extreme Fragility,2009,,61.9
+Extreme Fragility,2010,,61.2
+Extreme Fragility,2011,,61.1
+Extreme Fragility,2012,,71.1
+Extreme Fragility,2013,,72.5
+Extreme Fragility,2014,,73.8
+Extreme Fragility,2015,,75.5
+Extreme Fragility,2016,,76.8
 Fiji,2000,4.8,
 Fiji,2001,4.7,
 Fiji,2002,4.6,
@@ -703,6 +720,40 @@ Fiji,2013,4.4,
 Fiji,2014,4.4,
 Fiji,2015,4.4,
 Fiji,2016,4.4,
+Fragile,2000,,216.4
+Fragile,2001,,217.2
+Fragile,2002,,219.4
+Fragile,2003,,217.5
+Fragile,2004,,213.5
+Fragile,2005,,209.1
+Fragile,2006,,206.1
+Fragile,2007,,204.7
+Fragile,2008,,204.8
+Fragile,2009,,205.7
+Fragile,2010,,206.6
+Fragile,2011,,208.3
+Fragile,2012,,211.2
+Fragile,2013,,215.1
+Fragile,2014,,221.6
+Fragile,2015,,231.1
+Fragile,2016,,243.3
+Fragile (+ extreme fragility),2000,,283.5
+Fragile (+ extreme fragility),2001,,284
+Fragile (+ extreme fragility),2002,,286.1
+Fragile (+ extreme fragility),2003,,283.7
+Fragile (+ extreme fragility),2004,,279.2
+Fragile (+ extreme fragility),2005,,273.9
+Fragile (+ extreme fragility),2006,,270.7
+Fragile (+ extreme fragility),2007,,268.7
+Fragile (+ extreme fragility),2008,,267.9
+Fragile (+ extreme fragility),2009,,267.6
+Fragile (+ extreme fragility),2010,,267.8
+Fragile (+ extreme fragility),2011,,269.4
+Fragile (+ extreme fragility),2012,,282.3
+Fragile (+ extreme fragility),2013,,287.6
+Fragile (+ extreme fragility),2014,,295.4
+Fragile (+ extreme fragility),2015,,306.6
+Fragile (+ extreme fragility),2016,,320.1
 French Polynesia,2000,4.6,
 French Polynesia,2001,4.3,
 French Polynesia,2002,4,
@@ -1538,6 +1589,23 @@ Nigeria,2013,7.1,12.2
 Nigeria,2014,7.8,13.8
 Nigeria,2015,9,16.4
 Nigeria,2016,11.5,21.5
+Non-fragile,2000,,624
+Non-fragile,2001,,644.1
+Non-fragile,2002,,662.3
+Non-fragile,2003,,677.8
+Non-fragile,2004,,679.2
+Non-fragile,2005,,671.1
+Non-fragile,2006,,640.7
+Non-fragile,2007,,608.2
+Non-fragile,2008,,587.2
+Non-fragile,2009,,572.2
+Non-fragile,2010,,552.7
+Non-fragile,2011,,543.4
+Non-fragile,2012,,523.4
+Non-fragile,2013,,507.3
+Non-fragile,2014,,488.3
+Non-fragile,2015,,477.8
+Non-fragile,2016,,484.1
 North Korea,2000,37.5,8.6
 North Korea,2001,37.1,8.6
 North Korea,2002,35.5,8.3
