@@ -1,0 +1,42 @@
+{
+  "name": "Year of last Rinderpest case - OIE (2018)",
+  "title": "Year of last Rinderpest case - OIE (2018)",
+  "id": 3075,
+  "description": "Mauritania and Pakistan's values were obtained from the 2003 Archives of the OIE that can be accessed here: http://web.oie.int/hs2/sit_mald_cont.asp?c_mald=5&c_cont=6&annee=2003\n\nChina's value was obtained from page 109 in Roeder, P. L., Taylor, W. P. & Rweyemamu, M. M. (2006) Rinderpest in the twentieth and twenty-first centuries. Academic Press. Abstract available online here: https://www.sciencedirect.com/science/article/pii/B9780120883851500368",
+  "sources": [
+    {
+      "name": "World Organization for Animal Health (OIE) (2018)",
+      "link": "http://web.oie.int/hs2/sit_mald_cont.asp?c_mald=5&c_cont=6&annee=2004",
+      "retrievedDate": "3 October 2018",
+      "additionalInfo": "Mauritania and Pakistan's values were obtained from the 2003 Archives of the OIE that can be accessed here: http://web.oie.int/hs2/sit_mald_cont.asp?c_mald=5&c_cont=6&annee=2003\n\nChina's value was obtained from page 109 in Roeder, P. L., Taylor, W. P. & Rweyemamu, M. M. (2006) Rinderpest in the twentieth and twenty-first centuries. Academic Press. Abstract available online here: https://www.sciencedirect.com/science/article/pii/B9780120883851500368",
+      "dataPublisherSource": "Organization's own data collection",
+      "dataPublishedBy": "Archives of World Animal Health"
+    }
+  ],
+  "owidTags": [
+    "Eradication of Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Year of last Rinderpest case - OIE (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Year of the last reported Rinderpest case",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
