@@ -1,4 +1,4 @@
-# Global Hunger Index- IFPRI (2016)
+# Global Hunger Index- IFPRI (2018)
 
 The Global Hunger Index (GHI) is a tool designed to comprehensively measure and track hunger globally, regionally, and by country. To reflect the multidimensional nature of hunger, the GHI combines four component indicators into one index score. An increase in a country's GHI score indicates that the hunger situation is worsening, while a decrease in the score indicates an improvement in the hunger situation.
 
