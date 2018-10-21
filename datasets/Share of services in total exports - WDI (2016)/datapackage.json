@@ -1,0 +1,43 @@
+{
+  "name": "Share of services in total exports - WDI (2016)",
+  "title": "Share of services in total exports - WDI (2016)",
+  "id": 3080,
+  "description": "",
+  "sources": [
+    {
+      "name": "World Bank - WDI (2016)",
+      "dataPublishedBy": "World Bank – World Development Indicators",
+      "link": "http://data.worldbank.org/data-catalog/world-development-indicators",
+      "dataPublisherSource": "International Monetary Fund, Balance of Payments Statistics Yearbook and data files.",
+      "retrievedDate": "21/10/2018"
+    }
+  ],
+  "owidTags": [
+    "International Trade"
+  ],
+  "resources": [
+    {
+      "path": "Share of services in total exports - WDI (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of services in total exports (WDI)",
+            "type": "any",
+            "description": "Services refer to economic output of intangible commodities that may be produced, transferred, and consumed at the same time. The share of services in total exports comes from comparing trade in goods and services at current US dollars.",
+            "owidDisplaySettings": {
+              "unit": "%"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
