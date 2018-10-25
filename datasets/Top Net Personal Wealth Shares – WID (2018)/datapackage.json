@@ -1,0 +1,45 @@
+{
+  "name": "Top Net Personal Wealth Shares – WID (2018)",
+  "title": "Top Net Personal Wealth Shares – WID (2018)",
+  "id": 3086,
+  "description": "",
+  "sources": [
+    {
+      "name": "World Inequality Database (2018)",
+      "link": "https://wid.world",
+      "retrievedDate": "25/10/2018"
+    }
+  ],
+  "owidTags": [
+    "Inequality of Wealth"
+  ],
+  "resources": [
+    {
+      "path": "Top Net Personal Wealth Shares – WID (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Top 10% share of net personal wealth (WID 2018)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Top 1% share of net personal wealth (WID 2018)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
