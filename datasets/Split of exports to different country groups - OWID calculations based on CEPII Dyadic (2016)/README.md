@@ -8,3 +8,5 @@ The total export values of regional income aggregates have been calculated using
 
 Germany's time series is comprised of West Germany, and Germany. East Germany has been excluded for the purposes of Germany's calculations but is included in the World series.
 Russia's time series comprises Russia and the USSR. 
+
+Continental groupings are defined according to OWID's classification. Europe has been split into Western Europe including: Austria, Belgium, Denmark, Finland, France, Germany, Greece, Hungary, Italy, the Netherlands, Norway, Portugal, Russia, Spain, Sweden, Switzerland, and the United Kingdom. Remaining European countries have been classified as Eastern Europe.
