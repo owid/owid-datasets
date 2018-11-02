@@ -1,4 +1,4 @@
-# Current GDP (British pounds) - CEPII (2014)
+# Current GDP (British pounds) - Fouquin and Hugot (CEPII 2016)
 
 Due to the long-run nature of CEPII's time series, GDP estimates are compiled using a variety of sources. The top five sources, which together make up more than a third of the dataset (approx 11,864 observations out of 31,541) are from the following sources: World Bank (2015) (8513 obs); Mitchell (2017a,b,c) (1714); Barbieri and Keshik (2012) (1037 obs); Smits et al (2014) (335 obs); and Dincecco and Prado (2013) (265 obs). 
 
