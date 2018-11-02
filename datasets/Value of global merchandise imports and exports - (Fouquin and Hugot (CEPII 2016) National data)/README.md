@@ -1,6 +1,6 @@
-# Value of global merchandise imports and exports - (Fouquin and Hugot; CEPII 2016, National data)
+# Value of global merchandise imports and exports - (Fouquin and Hugot (CEPII 2016) National data)
 
-To calculate country exports (imports) to (from) the rest of the world, the total value of exports (imports) by country, per year, is divided by the country's GDP. Calculations use CEPII national trade data.
+To calculate country exports (imports) to (from) the rest of the world, the total value of exports (imports) by country, per year, is divided by the country's GDP. Calculations use Fouquin and Hugot (CEPII 2016) national trade data.
 
 The time series 'World' corresponds to the World's total exports (imports) (i.e. the sum of exports (imports) reported by all countries in the dataset).
 
