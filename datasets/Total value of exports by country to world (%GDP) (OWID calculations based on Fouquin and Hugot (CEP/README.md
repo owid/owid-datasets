@@ -1,6 +1,7 @@
-# Total value of exports by country to world (%GDP) (OWID calculations based on CEPII and other sources)
+# Total value of exports by country to world (%GDP) (OWID calculations based on Fouquin and Hugot (CEPII 2016) and other sources)
 
-Whenever possible, the source reports data on merchandise trade, excluding trade in services and re-exports. Some specific goods are also excluded (the authors highlight the omission of bullion and species in historical data). 
+Whenever possible, the source reports data on merchandise trade, excluding trade in services and re-exports. Some specific goods are also excluded (the authors highlight the omission of bullion and species in historical data).
+
 Since re-exports are excluded, special import data is favored over general import data (special imports have the importing country as their final destination, whereas general trade is composed of special trade, together with transit trade).
 
 To calculate total exports to the rest of the world as a share of GDP, using the UK as an example, figures have been calculated as follows:
