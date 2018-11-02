@@ -10,7 +10,7 @@ UK-exports-to-the-world-as-share-of-GDP = [exports-to-A + exports-to-B + exports
 
 Export values used rely on the estimate given by the importer as the authors note: "importers have a greater incentive to properly assess trade flows as they are commonly subject to duties". Bilateral trade flows are recorded in current British pounds.
 
-The CEPII data source uses the IMF's Direction of Trade Statistics (DOTS) dataset extensively from 1948 until the present day.
+ Fouquin and Hugot (CEPII 2016) data uses the IMF's Direction of Trade Statistics (DOTS) dataset extensively from 1948 until the present day.
 
 West Germany estimates have been used between 1950 - 1990, and Germany's trade estimates used before 1950 and after 1990. Estimates for East Germany have been excluded. Please see the original document providing a detailed description of the data set used, including country and territory definitions, available at: http://www.cepii.fr/CEPII/fr/publications/wp/abstract.asp?NoDoc=9134
 
