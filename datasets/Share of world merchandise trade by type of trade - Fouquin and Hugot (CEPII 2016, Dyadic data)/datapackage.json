@@ -32,7 +32,7 @@
           {
             "name": "Value of world merchandise trade - rich to rich (Fouquin and Hugot; CEPII 2016, Dyadic data)",
             "type": "any",
-            "description": "The value of world merchandise trade exports from rich to rich countries. Calculations use CEPII dyadic trade data.\n\n'Non-rich' countries are all countries in the world except: Australia, Austria, Belgium, Canada, Cyprus, Denmark, Finland, France, Germany, Greece, Iceland,Ireland, Israel, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, United Kingdom, United States.",
+            "description": "The value of world merchandise trade exports from rich to rich countries. Calculations use Fouquin and Hugot (CEPII 2016) dyadic trade data.\n\n'Non-rich' countries are all countries in the world except: Australia, Austria, Belgium, Canada, Cyprus, Denmark, Finland, France, Germany, Greece, Iceland,Ireland, Israel, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, United Kingdom, United States.",
             "owidDisplaySettings": {}
           },
           {
