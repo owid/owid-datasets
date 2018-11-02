@@ -1,4 +1,4 @@
-# Trade share with capital- and labor-intensive countries (OWID calculations based on CEPII (2016)) 
+# Trade share with capital- and labor-intensive countries (OWID calculations based on Fouquin and Hugot (CEPII 2016))
 
 Capital and labor-intensive countries have been defined according to the World Bank’s 2016 income classifications as our starting point. Low and lower-middle income countries have been classified as labor-intensive while upper-middle income and high income countries as capital-intensive. The 2016 classification has been applied to all previous years for which there is data available. Where no World Bank classification is available for self-governing territories, the observation is assigned the country classification to which it is related. For example, Saint Pierre and Miquelon would be assigned France's income classification. 
 
