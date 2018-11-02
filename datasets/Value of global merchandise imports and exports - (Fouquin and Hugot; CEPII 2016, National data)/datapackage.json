@@ -30,13 +30,13 @@
             "type": "year"
           },
           {
-            "name": "Value of global merchandise imports as a share of GDP (CEPII National (2016))",
+            "name": "Value of global merchandise imports as a share of GDP (Fouquin and Hugot; CEPII 2016, National data)",
             "type": "any",
             "description": "The value of imports, by country and regions, expressed as a share of GDP. Uses CEPII national trade data.",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Value of global merchandise exports as a share of GDP (CEPII National (2016))",
+            "name": "Value of global merchandise exports as a share of GDP (Fouquin and Hugot; CEPII 2016, National data)",
             "type": "any",
             "description": "The value of exports, by country and regions, expressed as a share of GDP. Uses CEPII national trade data.",
             "owidDisplaySettings": {}
