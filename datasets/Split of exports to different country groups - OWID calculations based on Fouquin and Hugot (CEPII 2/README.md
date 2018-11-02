@@ -1,6 +1,6 @@
-# Split of exports to different country groups - OWID calculations based on CEPII Dyadic (2016)
+# Split of exports to different country groups - OWID calculations based on Fouquin and Hugot (CEPII 2016) dyadic data
 
-To calculate country exports to the rest of the world, the total value of exports by country, per year, is divided by the country's GDP. Calculations use CEPII dyadic trade data.
+To calculate country exports to the rest of the world, the total value of exports by country, per year, is divided by the country's GDP. Calculations use Fouquin and Hugot (CEPII 2016) dyadic trade data.
 
 The time series 'World' corresponds to the World's total exports (i.e. the sum of exports reported by all countries in the dataset).
 
