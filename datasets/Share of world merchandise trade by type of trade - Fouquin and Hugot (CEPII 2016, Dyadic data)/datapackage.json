@@ -2,7 +2,7 @@
   "name": "Share of world merchandise trade by type of trade - Fouquin and Hugot (CEPII 2016, Dyadic data)",
   "title": "Share of world merchandise trade by type of trade - Fouquin and Hugot (CEPII 2016, Dyadic data)",
   "id": 2708,
-  "description": "'Non-rich' countries are all countries in the world except: Australia, Austria, Belgium, Canada, Cyprus, Denmark, Finland, France, Germany, Greece, Iceland,Ireland, Israel, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, United Kingdom, United States.\n\nCalculations use CEPII dyadic trade data.",
+  "description": "'Non-rich' countries are all countries in the world except: Australia, Austria, Belgium, Canada, Cyprus, Denmark, Finland, France, Germany, Greece, Iceland,Ireland, Israel, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, United Kingdom, United States.\n\nCalculations use Fouquin and Hugot (CEPII 2016) dyadic trade data.",
   "sources": [
     {
       "name": "Fouquin and Hugot (CEPII 2016)",
@@ -10,7 +10,7 @@
       "dataPublisherSource": "IMF Direction of Trade Statistics data set, manuscripts",
       "link": "http://www.cepii.fr/cepii/en/bdd_modele/presentation.asp?id=32",
       "retrievedDate": "19/03/2018",
-      "additionalInfo": "'Non-rich' countries are all countries in the world except: Australia, Austria, Belgium, Canada, Cyprus, Denmark, Finland, France, Germany, Greece, Iceland,Ireland, Israel, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, United Kingdom, United States.\n\nCalculations use CEPII dyadic trade data."
+      "additionalInfo": "'Non-rich' countries are all countries in the world except: Australia, Austria, Belgium, Canada, Cyprus, Denmark, Finland, France, Germany, Greece, Iceland,Ireland, Israel, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, United Kingdom, United States.\n\nCalculations use Fouquin and Hugot (CEPII 2016) dyadic trade data."
     }
   ],
   "owidTags": [
