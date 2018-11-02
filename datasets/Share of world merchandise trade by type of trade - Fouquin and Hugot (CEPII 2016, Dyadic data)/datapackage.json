@@ -1,11 +1,11 @@
 {
-  "name": "Share of world merchandise trade by type of trade - CEPII Dyadic (2016)",
-  "title": "Share of world merchandise trade by type of trade - CEPII Dyadic (2016)",
+  "name": "Share of world merchandise trade by type of trade - Fouquin and Hugot (CEPII 2016, Dyadic data)",
+  "title": "Share of world merchandise trade by type of trade - Fouquin and Hugot (CEPII 2016, Dyadic data)",
   "id": 2708,
   "description": "'Non-rich' countries are all countries in the world except: Australia, Austria, Belgium, Canada, Cyprus, Denmark, Finland, France, Germany, Greece, Iceland,Ireland, Israel, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, United Kingdom, United States.\n\nCalculations use CEPII dyadic trade data.",
   "sources": [
     {
-      "name": "CEPII (2016) Two Centuries of Bilateral Trade and Gravity Data: 1827-2014 (2016)",
+      "name": "Fouquin and Hugot (CEPII 2016)",
       "dataPublishedBy": "Michel Fouquin & Jules Hugot , 2016. \"Two Centuries of Bilateral Trade and Gravity Data: 1827-2014,\" CEPII Working Paper 2016- 14 , May 2016 , CEPII ",
       "dataPublisherSource": "IMF Direction of Trade Statistics data set, manuscripts",
       "link": "http://www.cepii.fr/cepii/en/bdd_modele/presentation.asp?id=32",
@@ -18,7 +18,7 @@
   ],
   "resources": [
     {
-      "path": "Share of world merchandise trade by type of trade - CEPII Dyadic (2016).csv",
+      "path": "Share of world merchandise trade by type of trade - Fouquin and Hugot (CEPII 2016, Dyadic data).csv",
       "schema": {
         "fields": [
           {
@@ -30,49 +30,49 @@
             "type": "year"
           },
           {
-            "name": "Value of world merchandise trade - rich to rich (CEPII Dyadic (2016))",
+            "name": "Value of world merchandise trade - rich to rich (Fouquin and Hugot; CEPII 2016, Dyadic data)",
             "type": "any",
             "description": "The value of world merchandise trade exports from rich to rich countries. Calculations use CEPII dyadic trade data.\n\n'Non-rich' countries are all countries in the world except: Australia, Austria, Belgium, Canada, Cyprus, Denmark, Finland, France, Germany, Greece, Iceland,Ireland, Israel, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, United Kingdom, United States.",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Value of world merchandise trade - rich to non-rich (CEPII Dyadic (2016))",
+            "name": "Value of world merchandise trade - rich to non-rich (Fouquin and Hugot; CEPII 2016, Dyadic data)",
             "type": "any",
             "description": "The value of world merchandise trade exports from rich to non-rich countries. Calculations use CEPII dyadic trade data.\n\n'Non-rich' countries are all countries in the world except: Australia, Austria, Belgium, Canada, Cyprus, Denmark, Finland, France, Germany, Greece, Iceland,Ireland, Israel, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, United Kingdom, United States.",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Value of world merchandise trade - non-rich to rich (CEPII Dyadic (2016))",
+            "name": "Value of world merchandise trade - non-rich to rich (Fouquin and Hugot; CEPII 2016, Dyadic data)",
             "type": "any",
             "description": "The value of world merchandise trade exports from non-rich to rich countries. Calculations use CEPII dyadic trade data.\n\n'Non-rich' countries are all countries in the world except: Australia, Austria, Belgium, Canada, Cyprus, Denmark, Finland, France, Germany, Greece, Iceland,Ireland, Israel, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, United Kingdom, United States.",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Value of world merchandise trade - non-rich to non-rich (CEPII Dyadic (2016))",
+            "name": "Value of world merchandise trade - non-rich to non-rich (Fouquin and Hugot; CEPII 2016, Dyadic data)",
             "type": "any",
             "description": "The value of world merchandise trade exports from non-rich to non-rich countries. Calculations use CEPII dyadic trade data.\n\n'Non-rich' countries are all countries in the world except: Australia, Austria, Belgium, Canada, Cyprus, Denmark, Finland, France, Germany, Greece, Iceland,Ireland, Israel, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, United Kingdom, United States.",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Share of world merchandise trade - rich to rich (CEPII Dyadic (2016))",
+            "name": "Share of world merchandise trade - rich to rich (Fouquin and Hugot; CEPII 2016, Dyadic data)",
             "type": "any",
             "description": "The rich to rich trade series shows the proportion of merchandise exports that are exported from rich countries to other rich countries as a share of total world exports. Calculations use CEPII dyadic trade data.\n\n'Non-rich' countries are all countries in the world except: Australia, Austria, Belgium, Canada, Cyprus, Denmark, Finland, France, Germany, Greece, Iceland,Ireland, Israel, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, United Kingdom, United States.",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Share of world merchandise trade - rich to non-rich (CEPII Dyadic (2016))",
+            "name": "Share of world merchandise trade - rich to non-rich (Fouquin and Hugot; CEPII 2016, Dyadic data)",
             "type": "any",
             "description": "The rich to non-rich trade series shows the proportion of merchandise exports that are exported from rich countries to non-rich countries as a share of total world exports. Calculations use CEPII dyadic trade data.\n\n'Non-rich' countries are all countries in the world except: Australia, Austria, Belgium, Canada, Cyprus, Denmark, Finland, France, Germany, Greece, Iceland,Ireland, Israel, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, United Kingdom, United States.",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Share of world merchandise trade - non-rich to rich (CEPII Dyadic (2016)) ",
+            "name": "Share of world merchandise trade - non-rich to rich (Fouquin and Hugot; CEPII 2016, Dyadic data)",
             "type": "any",
             "description": "The non-rich to rich trade series shows the proportion of merchandise exports that are exported from non-rich countries to rich countries as a share of total world exports. Calculations use CEPII dyadic trade data.\n\n'Non-rich' countries are all countries in the world except: Australia, Austria, Belgium, Canada, Cyprus, Denmark, Finland, France, Germany, Greece, Iceland,Ireland, Israel, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, United Kingdom, United States.",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Share of world merchandise trade - non-rich to non-rich (CEPII Dyadic (2016))",
+            "name": "Share of world merchandise trade - non-rich to non-rich (Fouquin and Hugot; CEPII 2016, Dyadic data)",
             "type": "any",
             "description": "The non-rich to non-rich trade series shows the proportion of merchandise exports that are exported from non-rich countries to other non-rich countries as a share of total world exports. Calculations use CEPII dyadic trade data.\n\n'Non-rich' countries are all countries in the world except: Australia, Austria, Belgium, Canada, Cyprus, Denmark, Finland, France, Germany, Greece, Iceland,Ireland, Israel, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, United Kingdom, United States.",
             "owidDisplaySettings": {}
