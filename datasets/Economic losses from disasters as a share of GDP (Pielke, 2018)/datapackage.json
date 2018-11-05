@@ -1,0 +1,89 @@
+{
+  "name": "Economic losses from disasters as a share of GDP (Pielke, 2018)",
+  "title": "Economic losses from disasters as a share of GDP (Pielke, 2018)",
+  "id": 3093,
+  "description": "Data represents absolute global economic losses from disasters (total and weather-related) in 2017 US$ from two sources: Munich Re and Aon Benfield. Data from these sources has been cross-checked with data from the EMDAT database (http://www.emdat.be/). The former two sources in general report slightly higher economic losses relative to EMDAT.\n\nThis has been normalized to economic losses from disasters as a share of global gross domestic product (GDP) based on global GDP data derived from the World Bank.\n",
+  "sources": [
+    {
+      "name": "Economic losses from disasters as a share of GDP (Pielke, 2018)",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/17477891.2018.1540343",
+      "retrievedDate": "7th November 2018",
+      "dataPublishedBy": "Pielke, R. (2018). Tracking progress on the economic costs of disasters under the indicators of the sustainable development goals. Environmental Hazards, 1-6.",
+      "additionalInfo": "Data represents absolute global economic losses from disasters (total and weather-related) in 2017 US$ from two sources: Munich Re and Aon Benfield. Data from these sources has been cross-checked with data from the EMDAT database (http://www.emdat.be/). The former two sources in general report slightly higher economic losses relative to EMDAT.\n\nThis has been normalized to economic losses from disasters as a share of global gross domestic product (GDP) based on global GDP data derived from the World Bank.\n"
+    }
+  ],
+  "owidTags": [
+    "Natural Catastrophes"
+  ],
+  "resources": [
+    {
+      "path": "Economic losses from disasters as a share of GDP (Pielke, 2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Global GDP in 2017 $ (billions, World Bank)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Munich Re overall disaster losses in 2017 $ (billions)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Disaster losses as % of global GDP (Munich Re)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Aon Benfield overall disaster losses in 2017 $ (billions)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Disaster losses as % of global GDP (Aon Benfield)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Munich Re weather disaster losses in 2017 $ (billions)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Weather disaster losses as % of global GDP (Munich Re)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Aon Benfield weather disaster losses in 2017 $ (billions)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Weather disaster losses as % of global GDP (Aon Benfield)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
