@@ -1,4 +1,4 @@
-Entity,Year,"Global GDP in 2017 $ (billions, World Bank)",Munich Re overall disaster losses in 2017 $ (billions),Disaster losses as % of global GDP (Munich Re),Aon Benfield overall disaster losses in 2017 $ (billions),Disaster losses as % of global GDP (Aon Benfield),Munich Re weather disaster losses in 2017 $ (billions),Weather disaster losses as % of global GDP (Munich Re),Aon Benfield weather disaster losses in 2017 $ (billions),Weather disaster losses as % of global GDP (Aon Benfield)
+Entity,Year,"Global GDP in 2017 $ (billions, World Bank)",Munich Re overall disaster losses in 2017 $,Disaster losses as % of global GDP (Munich Re),Aon Benfield overall disaster losses in 2017 $,Disaster losses as % of global GDP (Aon Benfield),Munich Re weather disaster losses in 2017 $,Weather disaster losses as % of global GDP (Munich Re),Aon Benfield weather disaster losses in 2017 $,Weather disaster losses as % of global GDP (Aon Benfield)
 World,1990,38582,92,0.24,,,86,0.22,,
 World,1991,39459,106,0.27,,,100,0.25,,
 World,1992,40902,126,0.31,,,119,0.29,,

@@ -35,52 +35,88 @@
             "owidDisplaySettings": {}
           },
           {
-            "name": "Munich Re overall disaster losses in 2017 $ (billions)",
+            "name": "Munich Re overall disaster losses in 2017 $",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Munich Re overall disaster losses in 2017 $",
+              "unit": "$",
+              "shortUnit": "$",
+              "conversionFactor": 1000000000
+            }
           },
           {
             "name": "Disaster losses as % of global GDP (Munich Re)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Disaster losses as % of global GDP (Munich Re)",
+              "unit": "% of global GDP",
+              "shortUnit": "%"
+            }
           },
           {
-            "name": "Aon Benfield overall disaster losses in 2017 $ (billions)",
+            "name": "Aon Benfield overall disaster losses in 2017 $",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Aon Benfield overall disaster losses in 2017 $",
+              "unit": "$",
+              "shortUnit": "$",
+              "conversionFactor": 1000000000
+            }
           },
           {
             "name": "Disaster losses as % of global GDP (Aon Benfield)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Disaster losses as % of global GDP (Aon Benfield)",
+              "unit": "% of global GDP",
+              "shortUnit": "%"
+            }
           },
           {
-            "name": "Munich Re weather disaster losses in 2017 $ (billions)",
+            "name": "Munich Re weather disaster losses in 2017 $",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Munich Re weather disaster losses in 2017 $",
+              "unit": "$",
+              "shortUnit": "$",
+              "conversionFactor": 1000000000
+            }
           },
           {
             "name": "Weather disaster losses as % of global GDP (Munich Re)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Weather disaster losses as % of global GDP (Munich Re)",
+              "unit": "% of global GDP",
+              "shortUnit": "%"
+            }
           },
           {
-            "name": "Aon Benfield weather disaster losses in 2017 $ (billions)",
+            "name": "Aon Benfield weather disaster losses in 2017 $",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Aon Benfield weather disaster losses in 2017 $",
+              "unit": "$",
+              "shortUnit": "$",
+              "conversionFactor": 1000000000
+            }
           },
           {
             "name": "Weather disaster losses as % of global GDP (Aon Benfield)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Weather disaster losses as % of global GDP (Aon Benfield)",
+              "unit": "% of global GDP",
+              "shortUnit": "%"
+            }
           }
         ]
       }
