@@ -1,0 +1,52 @@
+{
+  "name": "Air pollution death rates in 1990 vs. 2016 (IHME, 2017)",
+  "title": "Air pollution death rates in 1990 vs. 2016 (IHME, 2017)",
+  "id": 3091,
+  "description": "Age-standardized death rates (for both sexes) from ambient particulate matter air pollution, measured as the number of deaths per 100,000 individuals. This is given as two variables: death rates in 1990 versus death rates in 2016.",
+  "sources": [
+    {
+      "name": "Air pollution death rates in 1990 vs. 2016 (IHME, 2017)",
+      "link": "http://ghdx.healthdata.org/gbd-results-tool",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2016 (GBD 2016) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2017.",
+      "additionalInfo": "Age-standardized death rates (for both sexes) from ambient particulate matter air pollution, measured as the number of deaths per 100,000 individuals. This is given as two variables: death rates in 1990 versus death rates in 2016."
+    }
+  ],
+  "owidTags": [
+    "Air Pollution"
+  ],
+  "resources": [
+    {
+      "path": "Air pollution death rates in 1990 vs. 2016 (IHME, 2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Death rates from ambient PM in 1990 (IHME)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {
+              "name": "Death rates from ambient particulate matter in 1990",
+              "unit": "deaths per 100,000"
+            }
+          },
+          {
+            "name": "Death rates from ambient PM in 2016 (IHME)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {
+              "name": "Death rates from ambient particulate matter in 2016",
+              "unit": "deaths per 100,000"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
