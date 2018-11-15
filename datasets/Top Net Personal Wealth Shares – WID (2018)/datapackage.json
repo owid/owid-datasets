@@ -11,7 +11,7 @@
     }
   ],
   "owidTags": [
-    "Inequality of Wealth"
+    "Wealth Inequality"
   ],
   "resources": [
     {
@@ -30,13 +30,17 @@
             "name": "Top 10% share of net personal wealth (WID 2018)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "shortUnit": "%"
+            }
           },
           {
             "name": "Top 1% share of net personal wealth (WID 2018)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "shortUnit": "%"
+            }
           }
         ]
       }
