@@ -14,7 +14,7 @@
     }
   ],
   "owidTags": [
-    "Trade from Antiquity to Early Modern Times"
+    "International Trade"
   ],
   "resources": [
     {
@@ -30,81 +30,81 @@
             "type": "year"
           },
           {
-            "name": "Exports to Africa (CEPII Dyadic (2016))",
+            "name": "Exports to Africa (Fouquin and Hugot (CEPII 2016), Dyadic)",
             "type": "any",
-            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use CEPII dyadic trade data.\n",
+            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use Fouquin and Hugot (CEPII 2016) dyadic trade data.\n",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Exports to Antarctica (CEPII Dyadic (2016))",
+            "name": "Exports to Antarctica (Fouquin and Hugot (CEPII 2016), Dyadic)",
             "type": "any",
-            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use CEPII dyadic trade data.\n",
+            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use Fouquin and Hugot (CEPII 2016) dyadic trade data.\n",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Exports to Asia (CEPII Dyadic (2016))",
+            "name": "Exports to Asia (Fouquin and Hugot (CEPII 2016), Dyadic)",
             "type": "any",
-            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use CEPII dyadic trade data.\n\n",
+            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use Fouqin and Hugot (CEPII 2016) dyadic trade data.\n\n",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Exports to Eastern Europe (CEPII Dyadic (2016))",
+            "name": "Exports to Eastern Europe (Fouquin and Hugot (CEPII 2016), Dyadic)",
             "type": "any",
-            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use CEPII dyadic trade data.\n\n",
+            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use Fouqin and Hugot (CEPII 2016) dyadic trade data.\n\n",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Exports to North America (CEPII Dyadic (2016))",
+            "name": "Exports to North America (Fouquin and Hugot (CEPII 2016), Dyadic)",
             "type": "any",
-            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use CEPII dyadic trade data.\n\n",
+            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use Fouqin and Hugot (CEPII 2016) dyadic trade data.\n\n",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Exports to Oceania (CEPII Dyadic (2016))",
+            "name": "Exports to Oceania (Fouquin and Hugot (CEPII 2016), Dyadic)",
             "type": "any",
-            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use CEPII dyadic trade data.\n\n",
+            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use Fouqin and Hugot (CEPII 2016) dyadic trade data.\n\n",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Exports to South America (CEPII Dyadic (2016))",
+            "name": "Exports to South America (Fouquin and Hugot (CEPII 2016), Dyadic)",
             "type": "any",
-            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use CEPII dyadic trade data.\n",
+            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use Fouqin and Hugot (CEPII 2016) dyadic trade data.\n",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Exports to Western Europe (CEPII Dyadic (2016)) ",
+            "name": "Exports to Western Europe (Fouquin and Hugot (CEPII 2016), Dyadic)",
             "type": "any",
-            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use CEPII dyadic trade data.\n",
+            "description": "Value of merchandise exports by continental destination as a share of GDP. All partner countries are classified into continent groupings according to OWID's classification.  Calculations use Fouqin and Hugot (CEPII 2016) dyadic trade data.\n",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Exports to lower-middle income grouping (CEPII Dyadic (2016))",
+            "name": "Exports to lower-middle income grouping (Fouquin and Hugot (CEPII 2016), Dyadic)",
             "type": "any",
-            "description": "Value of merchandise exports by destination as a share of GDP. All partner countries are classified into income groups according to the latest World Bank classification. Calculations use CEPII dyadic trade data.",
+            "description": "Value of merchandise exports by destination as a share of GDP. All partner countries are classified into income groups according to the latest World Bank classification. Calculations use Fouqin and Hugot (CEPII 2016) dyadic trade data.",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Exports to high-income grouping (CEPII Dyadic (2016))",
+            "name": "Exports to high-income grouping (Fouquin and Hugot (CEPII 2016), Dyadic)",
             "type": "any",
-            "description": "Value of merchandise exports by destination as a share of GDP. All partner countries are classified into income groups according to the latest World Bank classification. Calculations use CEPII dyadic trade data.",
+            "description": "Value of merchandise exports by destination as a share of GDP. All partner countries are classified into income groups according to the latest World Bank classification. Calculations use Fouqin and Hugot (CEPII 2016) dyadic trade data.",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Exports to low-income grouping (CEPII Dyadic (2016))",
+            "name": "Exports to low-income grouping (Fouquin and Hugot (CEPII 2016), Dyadic)",
             "type": "any",
-            "description": "The share of exports from each entity exported to low-income country grouping. Income groupings are determined according to the World Bank's 2016 income classification. Calculations use CEPII dyadic trade data.",
+            "description": "The share of exports from each entity exported to low-income country grouping. Income groupings are determined according to the World Bank's 2016 income classification. Calculations use Fouqin and Hugot (CEPII 2016) dyadic trade data.",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Exports to upper-middle income grouping (CEPII Dyadic (2016))",
+            "name": "Exports to upper-middle income grouping (Fouquin and Hugot (CEPII 2016), Dyadic)",
             "type": "any",
-            "description": "Value of merchandise exports by destination as a share of GDP. All partner countries are classified into income groups according to the latest World Bank classification. Calculations use CEPII dyadic trade data.",
+            "description": "Value of merchandise exports by destination as a share of GDP. All partner countries are classified into income groups according to the latest World Bank classification. Calculations use Fouqin and Hugot (CEPII 2016) dyadic trade data.",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Exports to the World (CEPII Dyadic (2016))",
+            "name": "Exports to the World (Fouquin and Hugot (CEPII 2016), Dyadic)",
             "type": "any",
-            "description": "Value of merchandise exports by destination as a share of GDP. Calculations use CEPII dyadic trade data.",
+            "description": "Value of merchandise exports by destination as a share of GDP. Calculations use Fouqin and Hugot (CEPII 2016) dyadic trade data.",
             "owidDisplaySettings": {}
           }
         ]
