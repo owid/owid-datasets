@@ -354,8 +354,6 @@ Aircraft,2013,-.84494698
 Aircraft,2014,-.75937903
 Aircraft,2015,-.509951
 Aircraft,2016,-.112079
-Aircraft and equipment and parts,1962,1.1179
-Aircraft and equipment and parts,1963,1.33959
 Aircraft Parts and Accessories,1976,.67514801
 Aircraft Parts and Accessories,1977,.51317
 Aircraft Parts and Accessories,1978,1.0721
@@ -438,6 +436,8 @@ Aircraft Tires,2013,.25357199
 Aircraft Tires,2014,.073691897
 Aircraft Tires,2015,.61904901
 Aircraft Tires,2016,.83468598
+Aircraft and equipment and parts,1962,1.1179
+Aircraft and equipment and parts,1963,1.33959
 "Aldehyde, Ketone and Quinone-Function Compounds",1962,.50341898
 "Aldehyde, Ketone and Quinone-Function Compounds",1963,.57664001
 "Aldehyde, Ketone and Quinone-Function Compounds",1964,.25246701
@@ -2756,6 +2756,43 @@ Butter,2012,-.68043399
 Butter,2013,-.442812
 Butter,2014,-.35613099
 Butter,2016,-.38878301
+CPUs,1980,1.74647
+CPUs,1981,1.59216
+CPUs,1982,1.66518
+CPUs,1983,1.56787
+CPUs,1984,.858248
+CPUs,1985,1.0318
+CPUs,1986,.90564299
+CPUs,1987,1.01573
+CPUs,1988,1.1811399
+CPUs,1989,.77509099
+CPUs,1990,.78931302
+CPUs,1991,.77046603
+CPUs,1992,1.32614
+CPUs,1993,.62712997
+CPUs,1994,.85781199
+CPUs,1995,1.46514
+CPUs,1996,.99818301
+CPUs,1997,.78916502
+CPUs,1998,.70438701
+CPUs,1999,.81527102
+CPUs,2000,.56781101
+CPUs,2001,2.04017
+CPUs,2002,1.52311
+CPUs,2003,1.34229
+CPUs,2004,1.35329
+CPUs,2005,1.29004
+CPUs,2006,1.32801
+CPUs,2007,1.37047
+CPUs,2008,1.61625
+CPUs,2009,1.44394
+CPUs,2010,1.0390199
+CPUs,2011,1.4272
+CPUs,2012,1.23929
+CPUs,2013,1.51141
+CPUs,2014,1.41433
+CPUs,2015,1.44445
+CPUs,2016,1.60554
 Calculating Machines,1962,1.15127
 Calculating Machines,1963,1.5125999
 Calculating Machines,1964,1.3398
@@ -5019,8 +5056,6 @@ Coffee,2012,-1.67679
 Coffee,2013,-1.50471
 Coffee,2014,-1.72166
 Coffee,2016,-.77655703
-Coffee and coffee substitutes,1962,-1.90892
-Coffee and coffee substitutes,1963,1.28175
 Coffee Extracts,1962,-.59337097
 Coffee Extracts,1963,-.354276
 Coffee Extracts,1964,-.74909699
@@ -5075,6 +5110,8 @@ Coffee Extracts,2012,-.465756
 Coffee Extracts,2013,-.572483
 Coffee Extracts,2014,-.58764398
 Coffee Extracts,2016,-.47219199
+Coffee and coffee substitutes,1962,-1.90892
+Coffee and coffee substitutes,1963,1.28175
 Coke,1962,.69338799
 Coke,1963,.64737803
 Coke,1964,.67575502
@@ -6227,45 +6264,6 @@ Cotton Yarn,2013,-1.7046
 Cotton Yarn,2014,-1.34193
 Cotton Yarn,2015,-1.899
 Cotton Yarn,2016,-1.2805001
-CPUs,1980,1.74647
-CPUs,1981,1.59216
-CPUs,1982,1.66518
-CPUs,1983,1.56787
-CPUs,1984,.858248
-CPUs,1985,1.0318
-CPUs,1986,.90564299
-CPUs,1987,1.01573
-CPUs,1988,1.1811399
-CPUs,1989,.77509099
-CPUs,1990,.78931302
-CPUs,1991,.77046603
-CPUs,1992,1.32614
-CPUs,1993,.62712997
-CPUs,1994,.85781199
-CPUs,1995,1.46514
-CPUs,1996,.99818301
-CPUs,1997,.78916502
-CPUs,1998,.70438701
-CPUs,1999,.81527102
-CPUs,2000,.56781101
-CPUs,2001,2.04017
-CPUs,2002,1.52311
-CPUs,2003,1.34229
-CPUs,2004,1.35329
-CPUs,2005,1.29004
-CPUs,2006,1.32801
-CPUs,2007,1.37047
-CPUs,2008,1.61625
-CPUs,2009,1.44394
-CPUs,2010,1.0390199
-CPUs,2011,1.4272
-CPUs,2012,1.23929
-CPUs,2013,1.51141
-CPUs,2014,1.41433
-CPUs,2015,1.44445
-CPUs,2016,1.60554
-Crude animal materials,1962,-.86826402
-Crude animal materials,1963,-.981305
 Crude Fertilizer,1962,-.95198399
 Crude Fertilizer,1963,-.90001398
 Crude Fertilizer,1964,-.69014001
@@ -6426,6 +6424,8 @@ Crude Petroleum,2013,-2.54636
 Crude Petroleum,2014,-1.86612
 Crude Petroleum,2015,-1.58416
 Crude Petroleum,2016,-1.08424
+Crude animal materials,1962,-.86826402
+Crude animal materials,1963,-.981305
 Crustaceans and Molluscs,1962,-1.45991
 Crustaceans and Molluscs,1963,-1.4782799
 Crustaceans and Molluscs,1964,-1.08683
@@ -6712,6 +6712,47 @@ Cyclic Hydrocarbons,2013,.75383103
 Cyclic Hydrocarbons,2014,.83795202
 Cyclic Hydrocarbons,2015,1.0527
 Cyclic Hydrocarbons,2016,1.6961499
+DC Motors,1976,.66427499
+DC Motors,1977,1.11228
+DC Motors,1978,.54354
+DC Motors,1979,.95883399
+DC Motors,1980,.77916098
+DC Motors,1981,.61688501
+DC Motors,1982,.58131099
+DC Motors,1983,.377958
+DC Motors,1984,.18972801
+DC Motors,1985,.456294
+DC Motors,1986,.25287899
+DC Motors,1987,.293221
+DC Motors,1988,.85645401
+DC Motors,1989,1.03882
+DC Motors,1990,.66106898
+DC Motors,1991,1.12778
+DC Motors,1992,.86523902
+DC Motors,1993,1.31164
+DC Motors,1994,1.31364
+DC Motors,1995,1.03923
+DC Motors,1996,1.05676
+DC Motors,1997,1.13713
+DC Motors,1998,1.31564
+DC Motors,1999,1.27715
+DC Motors,2000,1.23965
+DC Motors,2001,.63133901
+DC Motors,2002,1.15806
+DC Motors,2003,1.2794
+DC Motors,2004,1.41761
+DC Motors,2005,1.3556499
+DC Motors,2006,1.16816
+DC Motors,2007,.93481499
+DC Motors,2008,1.07433
+DC Motors,2009,.714315
+DC Motors,2010,.88022298
+DC Motors,2011,.68812501
+DC Motors,2012,1.23112
+DC Motors,2013,1.14586
+DC Motors,2014,1.24651
+DC Motors,2015,1.17954
+DC Motors,2016,.64986801
 Dairy Machinery,1962,1.15634
 Dairy Machinery,1963,.77985698
 Dairy Machinery,1964,.83547503
@@ -6767,47 +6808,6 @@ Dairy Machinery,2013,.70791799
 Dairy Machinery,2014,.67346603
 Dairy Machinery,2015,.77208501
 Dairy Machinery,2016,.38699099
-DC Motors,1976,.66427499
-DC Motors,1977,1.11228
-DC Motors,1978,.54354
-DC Motors,1979,.95883399
-DC Motors,1980,.77916098
-DC Motors,1981,.61688501
-DC Motors,1982,.58131099
-DC Motors,1983,.377958
-DC Motors,1984,.18972801
-DC Motors,1985,.456294
-DC Motors,1986,.25287899
-DC Motors,1987,.293221
-DC Motors,1988,.85645401
-DC Motors,1989,1.03882
-DC Motors,1990,.66106898
-DC Motors,1991,1.12778
-DC Motors,1992,.86523902
-DC Motors,1993,1.31164
-DC Motors,1994,1.31364
-DC Motors,1995,1.03923
-DC Motors,1996,1.05676
-DC Motors,1997,1.13713
-DC Motors,1998,1.31564
-DC Motors,1999,1.27715
-DC Motors,2000,1.23965
-DC Motors,2001,.63133901
-DC Motors,2002,1.15806
-DC Motors,2003,1.2794
-DC Motors,2004,1.41761
-DC Motors,2005,1.3556499
-DC Motors,2006,1.16816
-DC Motors,2007,.93481499
-DC Motors,2008,1.07433
-DC Motors,2009,.714315
-DC Motors,2010,.88022298
-DC Motors,2011,.68812501
-DC Motors,2012,1.23112
-DC Motors,2013,1.14586
-DC Motors,2014,1.24651
-DC Motors,2015,1.17954
-DC Motors,2016,.64986801
 Decorative Wood,1962,-.0107312
 Decorative Wood,1963,-.17473701
 Decorative Wood,1964,-.333884
@@ -7504,6 +7504,42 @@ Dye,2013,.634745
 Dye,2014,.58189499
 Dye,2015,.84009498
 Dye,2016,.98267299
+"Eggs, Shelled",1980,1.74647
+"Eggs, Shelled",1981,1.59216
+"Eggs, Shelled",1982,1.66518
+"Eggs, Shelled",1983,1.25656
+"Eggs, Shelled",1984,.263818
+"Eggs, Shelled",1985,.36998001
+"Eggs, Shelled",1986,.289211
+"Eggs, Shelled",1987,.256625
+"Eggs, Shelled",1988,.282516
+"Eggs, Shelled",1989,.166224
+"Eggs, Shelled",1990,.12915599
+"Eggs, Shelled",1991,.27070001
+"Eggs, Shelled",1992,.28178599
+"Eggs, Shelled",1993,.50366002
+"Eggs, Shelled",1994,.310258
+"Eggs, Shelled",1995,.63084
+"Eggs, Shelled",1996,.20246001
+"Eggs, Shelled",1997,.33968499
+"Eggs, Shelled",1998,.72785902
+"Eggs, Shelled",1999,.098701999
+"Eggs, Shelled",2000,.244385
+"Eggs, Shelled",2001,.15773401
+"Eggs, Shelled",2002,.152991
+"Eggs, Shelled",2003,-.21055201
+"Eggs, Shelled",2004,-.026482999
+"Eggs, Shelled",2005,.30265301
+"Eggs, Shelled",2006,.077165
+"Eggs, Shelled",2007,.30775499
+"Eggs, Shelled",2008,-.002226
+"Eggs, Shelled",2009,.36736101
+"Eggs, Shelled",2010,.85490698
+"Eggs, Shelled",2011,.22696701
+"Eggs, Shelled",2012,.32492599
+"Eggs, Shelled",2013,.050307401
+"Eggs, Shelled",2014,.155918
+"Eggs, Shelled",2016,-.291343
 "Eggs, in shell",1976,.25975001
 "Eggs, in shell",1977,.17588
 "Eggs, in shell",1978,.370859
@@ -7544,42 +7580,6 @@ Dye,2016,.98267299
 "Eggs, in shell",2013,-.49266601
 "Eggs, in shell",2014,-.30219701
 "Eggs, in shell",2016,-.51668501
-"Eggs, Shelled",1980,1.74647
-"Eggs, Shelled",1981,1.59216
-"Eggs, Shelled",1982,1.66518
-"Eggs, Shelled",1983,1.25656
-"Eggs, Shelled",1984,.263818
-"Eggs, Shelled",1985,.36998001
-"Eggs, Shelled",1986,.289211
-"Eggs, Shelled",1987,.256625
-"Eggs, Shelled",1988,.282516
-"Eggs, Shelled",1989,.166224
-"Eggs, Shelled",1990,.12915599
-"Eggs, Shelled",1991,.27070001
-"Eggs, Shelled",1992,.28178599
-"Eggs, Shelled",1993,.50366002
-"Eggs, Shelled",1994,.310258
-"Eggs, Shelled",1995,.63084
-"Eggs, Shelled",1996,.20246001
-"Eggs, Shelled",1997,.33968499
-"Eggs, Shelled",1998,.72785902
-"Eggs, Shelled",1999,.098701999
-"Eggs, Shelled",2000,.244385
-"Eggs, Shelled",2001,.15773401
-"Eggs, Shelled",2002,.152991
-"Eggs, Shelled",2003,-.21055201
-"Eggs, Shelled",2004,-.026482999
-"Eggs, Shelled",2005,.30265301
-"Eggs, Shelled",2006,.077165
-"Eggs, Shelled",2007,.30775499
-"Eggs, Shelled",2008,-.002226
-"Eggs, Shelled",2009,.36736101
-"Eggs, Shelled",2010,.85490698
-"Eggs, Shelled",2011,.22696701
-"Eggs, Shelled",2012,.32492599
-"Eggs, Shelled",2013,.050307401
-"Eggs, Shelled",2014,.155918
-"Eggs, Shelled",2016,-.291343
 Elastic Fabrics and Trimming,1962,1.22019
 Elastic Fabrics and Trimming,1963,.89496303
 Elastic Fabrics and Trimming,1964,.799088
@@ -7894,8 +7894,6 @@ Electric Wire,2013,-.177826
 Electric Wire,2014,-.23045699
 Electric Wire,2015,-.65862298
 Electric Wire,2016,-.60507601
-Electrical apparatus for making and breaking electrical circuits,1962,1.14687
-Electrical apparatus for making and breaking electrical circuits,1963,1.2727
 Electrical Insulators,1962,.83336598
 Electrical Insulators,1963,.95958602
 Electrical Insulators,1964,1.00117
@@ -8088,6 +8086,8 @@ Electrical Transformers,2013,.64745402
 Electrical Transformers,2014,.68206102
 Electrical Transformers,2015,.408301
 Electrical Transformers,2016,-.185054
+Electrical apparatus for making and breaking electrical circuits,1962,1.14687
+Electrical apparatus for making and breaking electrical circuits,1963,1.2727
 Electronic Microcircuits,1978,-.93343502
 Electronic Microcircuits,1979,-.93730003
 Electronic Microcircuits,1980,-1.02263
@@ -10052,60 +10052,6 @@ Fruit Jams,2012,-.62531799
 Fruit Jams,2013,-.55625802
 Fruit Jams,2014,-.54728401
 Fruit Jams,2016,-.93430501
-Fruit or Vegetable Juices,1962,-1.27466
-Fruit or Vegetable Juices,1963,-1.4144
-Fruit or Vegetable Juices,1964,-1.08026
-Fruit or Vegetable Juices,1965,-1.18682
-Fruit or Vegetable Juices,1966,-1.09443
-Fruit or Vegetable Juices,1967,-1.03298
-Fruit or Vegetable Juices,1968,-.78191102
-Fruit or Vegetable Juices,1969,-1.1379499
-Fruit or Vegetable Juices,1970,-1.03088
-Fruit or Vegetable Juices,1971,-.023508999
-Fruit or Vegetable Juices,1972,-1.01673
-Fruit or Vegetable Juices,1973,-.77203798
-Fruit or Vegetable Juices,1974,-.67486101
-Fruit or Vegetable Juices,1975,-.57069302
-Fruit or Vegetable Juices,1976,-.58611602
-Fruit or Vegetable Juices,1977,-.73004001
-Fruit or Vegetable Juices,1978,-.46286699
-Fruit or Vegetable Juices,1979,-.63653898
-Fruit or Vegetable Juices,1980,-.70187902
-Fruit or Vegetable Juices,1981,-.95604801
-Fruit or Vegetable Juices,1982,-.65108103
-Fruit or Vegetable Juices,1983,-.69055098
-Fruit or Vegetable Juices,1984,-.70499599
-Fruit or Vegetable Juices,1985,-.88700598
-Fruit or Vegetable Juices,1986,-.69716197
-Fruit or Vegetable Juices,1987,-.71817303
-Fruit or Vegetable Juices,1988,-.796148
-Fruit or Vegetable Juices,1989,-.79661697
-Fruit or Vegetable Juices,1990,-.936571
-Fruit or Vegetable Juices,1991,-.88042498
-Fruit or Vegetable Juices,1992,-.84451503
-Fruit or Vegetable Juices,1993,-.95583498
-Fruit or Vegetable Juices,1994,-.67631501
-Fruit or Vegetable Juices,1995,-.76231599
-Fruit or Vegetable Juices,1996,-.77606499
-Fruit or Vegetable Juices,1997,-.74650002
-Fruit or Vegetable Juices,1998,-.82330698
-Fruit or Vegetable Juices,1999,-.79604298
-Fruit or Vegetable Juices,2000,-.82449502
-Fruit or Vegetable Juices,2001,-.88795799
-Fruit or Vegetable Juices,2002,-.98595899
-Fruit or Vegetable Juices,2003,-.78373098
-Fruit or Vegetable Juices,2004,-.86025
-Fruit or Vegetable Juices,2005,-.70909798
-Fruit or Vegetable Juices,2006,-.66356099
-Fruit or Vegetable Juices,2007,-.88685101
-Fruit or Vegetable Juices,2008,-.92210603
-Fruit or Vegetable Juices,2009,-.81137401
-Fruit or Vegetable Juices,2010,-.74366403
-Fruit or Vegetable Juices,2011,-.87750298
-Fruit or Vegetable Juices,2012,-.97677302
-Fruit or Vegetable Juices,2013,-.99571598
-Fruit or Vegetable Juices,2014,-.82327902
-Fruit or Vegetable Juices,2016,-1.11338
 Fruit Preserved by Sugar,1962,-.34603
 Fruit Preserved by Sugar,1963,-.188287
 Fruit Preserved by Sugar,1964,-.126543
@@ -10160,28 +10106,60 @@ Fruit Preserved by Sugar,2012,-.17349599
 Fruit Preserved by Sugar,2013,-.112786
 Fruit Preserved by Sugar,2014,-.19472
 Fruit Preserved by Sugar,2016,-.28882399
-Fuel oils,1962,-1.26519
-Fuel oils,1963,-1.04084
-Fuel oils,1964,-1.30146
-Fuel oils,1965,-1.5862401
-Fuel oils,1966,-1.61114
-Fuel oils,1967,-1.38033
-Fuel oils,1968,-1.58181
-Fuel oils,1969,-1.28909
-Fuel oils,1970,-1.05391
-Fuel oils,1971,3.5994301
-Fuel oils,1972,-1.12111
-Fuel oils,1973,-1.04619
-Fuel oils,1974,-1.95772
-Fuel oils,1975,-1.72824
-Fuel oils,1976,-2.6724899
-Fuel oils,1977,-2.3441899
-Fuel oils,1978,-2.95595
-Fuel oils,1979,-2.7746301
-Fuel oils,1980,-2.5896699
-Fuel oils,1981,-2.36832
-Fuel oils,1982,-2.09164
-Fuel oils,1983,-2.08253
+Fruit or Vegetable Juices,1962,-1.27466
+Fruit or Vegetable Juices,1963,-1.4144
+Fruit or Vegetable Juices,1964,-1.08026
+Fruit or Vegetable Juices,1965,-1.18682
+Fruit or Vegetable Juices,1966,-1.09443
+Fruit or Vegetable Juices,1967,-1.03298
+Fruit or Vegetable Juices,1968,-.78191102
+Fruit or Vegetable Juices,1969,-1.1379499
+Fruit or Vegetable Juices,1970,-1.03088
+Fruit or Vegetable Juices,1971,-.023508999
+Fruit or Vegetable Juices,1972,-1.01673
+Fruit or Vegetable Juices,1973,-.77203798
+Fruit or Vegetable Juices,1974,-.67486101
+Fruit or Vegetable Juices,1975,-.57069302
+Fruit or Vegetable Juices,1976,-.58611602
+Fruit or Vegetable Juices,1977,-.73004001
+Fruit or Vegetable Juices,1978,-.46286699
+Fruit or Vegetable Juices,1979,-.63653898
+Fruit or Vegetable Juices,1980,-.70187902
+Fruit or Vegetable Juices,1981,-.95604801
+Fruit or Vegetable Juices,1982,-.65108103
+Fruit or Vegetable Juices,1983,-.69055098
+Fruit or Vegetable Juices,1984,-.70499599
+Fruit or Vegetable Juices,1985,-.88700598
+Fruit or Vegetable Juices,1986,-.69716197
+Fruit or Vegetable Juices,1987,-.71817303
+Fruit or Vegetable Juices,1988,-.796148
+Fruit or Vegetable Juices,1989,-.79661697
+Fruit or Vegetable Juices,1990,-.936571
+Fruit or Vegetable Juices,1991,-.88042498
+Fruit or Vegetable Juices,1992,-.84451503
+Fruit or Vegetable Juices,1993,-.95583498
+Fruit or Vegetable Juices,1994,-.67631501
+Fruit or Vegetable Juices,1995,-.76231599
+Fruit or Vegetable Juices,1996,-.77606499
+Fruit or Vegetable Juices,1997,-.74650002
+Fruit or Vegetable Juices,1998,-.82330698
+Fruit or Vegetable Juices,1999,-.79604298
+Fruit or Vegetable Juices,2000,-.82449502
+Fruit or Vegetable Juices,2001,-.88795799
+Fruit or Vegetable Juices,2002,-.98595899
+Fruit or Vegetable Juices,2003,-.78373098
+Fruit or Vegetable Juices,2004,-.86025
+Fruit or Vegetable Juices,2005,-.70909798
+Fruit or Vegetable Juices,2006,-.66356099
+Fruit or Vegetable Juices,2007,-.88685101
+Fruit or Vegetable Juices,2008,-.92210603
+Fruit or Vegetable Juices,2009,-.81137401
+Fruit or Vegetable Juices,2010,-.74366403
+Fruit or Vegetable Juices,2011,-.87750298
+Fruit or Vegetable Juices,2012,-.97677302
+Fruit or Vegetable Juices,2013,-.99571598
+Fruit or Vegetable Juices,2014,-.82327902
+Fruit or Vegetable Juices,2016,-1.11338
 Fuel Wood and Charcoal,1962,-1.26906
 Fuel Wood and Charcoal,1963,-1.20908
 Fuel Wood and Charcoal,1964,-.91232002
@@ -10237,6 +10215,28 @@ Fuel Wood and Charcoal,2013,-.59826601
 Fuel Wood and Charcoal,2014,-.51886398
 Fuel Wood and Charcoal,2015,-.439749
 Fuel Wood and Charcoal,2016,-.77696699
+Fuel oils,1962,-1.26519
+Fuel oils,1963,-1.04084
+Fuel oils,1964,-1.30146
+Fuel oils,1965,-1.5862401
+Fuel oils,1966,-1.61114
+Fuel oils,1967,-1.38033
+Fuel oils,1968,-1.58181
+Fuel oils,1969,-1.28909
+Fuel oils,1970,-1.05391
+Fuel oils,1971,3.5994301
+Fuel oils,1972,-1.12111
+Fuel oils,1973,-1.04619
+Fuel oils,1974,-1.95772
+Fuel oils,1975,-1.72824
+Fuel oils,1976,-2.6724899
+Fuel oils,1977,-2.3441899
+Fuel oils,1978,-2.95595
+Fuel oils,1979,-2.7746301
+Fuel oils,1980,-2.5896699
+Fuel oils,1981,-2.36832
+Fuel oils,1982,-2.09164
+Fuel oils,1983,-2.08253
 Fungicides,1980,1.39829
 Fungicides,1981,.98896098
 Fungicides,1982,1.0400701
@@ -12754,116 +12754,6 @@ Internal Combustion Engines for Boats,2015,2.2293601
 Internal Combustion Engines for Boats,2016,2.8499501
 Internal combustion piston engines and parts,1962,1.2052799
 Internal combustion piston engines and parts,1963,1.30839
-Iron and Steel Forging,1962,.87408698
-Iron and Steel Forging,1963,-.023368901
-Iron and Steel Forging,1964,.50821102
-Iron and Steel Forging,1965,.98694497
-Iron and Steel Forging,1966,1.19084
-Iron and Steel Forging,1967,1.11841
-Iron and Steel Forging,1968,1.1052901
-Iron and Steel Forging,1969,1.04817
-Iron and Steel Forging,1970,1.3646899
-Iron and Steel Forging,1971,.86381102
-Iron and Steel Forging,1972,1.24939
-Iron and Steel Forging,1973,1.33705
-Iron and Steel Forging,1974,.987409
-Iron and Steel Forging,1975,1.2124701
-Iron and Steel Forging,1976,.62980098
-Iron and Steel Forging,1977,.50713998
-Iron and Steel Forging,1978,.630328
-Iron and Steel Forging,1979,1.0382
-Iron and Steel Forging,1980,.88561797
-Iron and Steel Forging,1981,.73513001
-Iron and Steel Forging,1982,.38871601
-Iron and Steel Forging,1983,.65982801
-Iron and Steel Forging,1984,.34416401
-Iron and Steel Forging,1985,.68870902
-Iron and Steel Forging,1986,.687195
-Iron and Steel Forging,1987,.78734398
-Iron and Steel Forging,1988,.91194499
-Iron and Steel Forging,1989,.72205198
-Iron and Steel Forging,1990,.55408502
-Iron and Steel Forging,1991,.30475399
-Iron and Steel Forging,1992,.017146001
-Iron and Steel Forging,1993,.25872499
-Iron and Steel Forging,1994,.34481901
-Iron and Steel Forging,1995,.232381
-Iron and Steel Forging,1996,.35835299
-Iron and Steel Forging,1997,.44471499
-Iron and Steel Forging,1998,.45548201
-Iron and Steel Forging,1999,.65851802
-Iron and Steel Forging,2000,.61171502
-Iron and Steel Forging,2001,.196335
-Iron and Steel Forging,2002,.430812
-Iron and Steel Forging,2003,.28670299
-Iron and Steel Forging,2004,-.093762003
-Iron and Steel Forging,2005,.198906
-Iron and Steel Forging,2006,.35421699
-Iron and Steel Forging,2007,.51211399
-Iron and Steel Forging,2008,.62735999
-Iron and Steel Forging,2009,.294321
-Iron and Steel Forging,2010,.58354902
-Iron and Steel Forging,2011,.19444001
-Iron and Steel Forging,2012,.32480401
-Iron and Steel Forging,2013,.114975
-Iron and Steel Forging,2014,.242653
-Iron and Steel Forging,2015,.064162798
-Iron and Steel Forging,2016,.31000701
-Iron and Steel Powders,1962,.64575702
-Iron and Steel Powders,1963,1.06681
-Iron and Steel Powders,1964,1.10133
-Iron and Steel Powders,1965,1.3341
-Iron and Steel Powders,1966,1.42708
-Iron and Steel Powders,1967,1.46114
-Iron and Steel Powders,1968,1.42067
-Iron and Steel Powders,1969,1.3409899
-Iron and Steel Powders,1970,1.2387
-Iron and Steel Powders,1971,.424606
-Iron and Steel Powders,1972,1.02561
-Iron and Steel Powders,1973,.97449201
-Iron and Steel Powders,1974,.729599
-Iron and Steel Powders,1975,.581981
-Iron and Steel Powders,1976,.52549398
-Iron and Steel Powders,1977,-.0029750001
-Iron and Steel Powders,1978,-.14725301
-Iron and Steel Powders,1979,.28631699
-Iron and Steel Powders,1980,-.58967602
-Iron and Steel Powders,1981,-.70412803
-Iron and Steel Powders,1982,-.51278001
-Iron and Steel Powders,1983,.010245
-Iron and Steel Powders,1984,-.263183
-Iron and Steel Powders,1985,-.43392801
-Iron and Steel Powders,1986,-.106118
-Iron and Steel Powders,1987,.071158998
-Iron and Steel Powders,1988,-.690229
-Iron and Steel Powders,1989,.26456499
-Iron and Steel Powders,1990,-.41403699
-Iron and Steel Powders,1991,-.52398401
-Iron and Steel Powders,1992,-.25134599
-Iron and Steel Powders,1993,-.60554498
-Iron and Steel Powders,1994,-.446969
-Iron and Steel Powders,1995,-.114448
-Iron and Steel Powders,1996,-.108214
-Iron and Steel Powders,1997,-.14714
-Iron and Steel Powders,1998,-.28975201
-Iron and Steel Powders,1999,-.258257
-Iron and Steel Powders,2000,-.33053899
-Iron and Steel Powders,2001,-.34499201
-Iron and Steel Powders,2002,-.60259598
-Iron and Steel Powders,2003,-.624614
-Iron and Steel Powders,2004,-.55850202
-Iron and Steel Powders,2005,-.25817299
-Iron and Steel Powders,2006,-.243266
-Iron and Steel Powders,2007,-.41660699
-Iron and Steel Powders,2008,-.52115899
-Iron and Steel Powders,2009,-.61658299
-Iron and Steel Powders,2010,-.62823099
-Iron and Steel Powders,2011,-.23285399
-Iron and Steel Powders,2012,-.56144398
-Iron and Steel Powders,2013,-.311699
-Iron and Steel Powders,2014,-.179598
-Iron and Steel Powders,2015,-.0088100396
-Iron and Steel Powders,2016,-.102492
 Iron Bars and Rods,1962,.48687699
 Iron Bars and Rods,1963,.54375499
 Iron Bars and Rods,1964,.71221602
@@ -13029,8 +12919,6 @@ Iron Coils,2013,.44599399
 Iron Coils,2014,.36265099
 Iron Coils,2015,.47048399
 Iron Coils,2016,.23497801
-Iron or steel hot or cold rolled,1962,1.15481
-Iron or steel hot or cold rolled,1963,.92887402
 Iron Ore,1986,-1.29669
 Iron Ore,1987,-1.11296
 Iron Ore,1988,-1.39689
@@ -13478,6 +13366,118 @@ Iron Wire,2013,-.0069463202
 Iron Wire,2014,.40946999
 Iron Wire,2015,.498458
 Iron Wire,2016,.44158301
+Iron and Steel Forging,1962,.87408698
+Iron and Steel Forging,1963,-.023368901
+Iron and Steel Forging,1964,.50821102
+Iron and Steel Forging,1965,.98694497
+Iron and Steel Forging,1966,1.19084
+Iron and Steel Forging,1967,1.11841
+Iron and Steel Forging,1968,1.1052901
+Iron and Steel Forging,1969,1.04817
+Iron and Steel Forging,1970,1.3646899
+Iron and Steel Forging,1971,.86381102
+Iron and Steel Forging,1972,1.24939
+Iron and Steel Forging,1973,1.33705
+Iron and Steel Forging,1974,.987409
+Iron and Steel Forging,1975,1.2124701
+Iron and Steel Forging,1976,.62980098
+Iron and Steel Forging,1977,.50713998
+Iron and Steel Forging,1978,.630328
+Iron and Steel Forging,1979,1.0382
+Iron and Steel Forging,1980,.88561797
+Iron and Steel Forging,1981,.73513001
+Iron and Steel Forging,1982,.38871601
+Iron and Steel Forging,1983,.65982801
+Iron and Steel Forging,1984,.34416401
+Iron and Steel Forging,1985,.68870902
+Iron and Steel Forging,1986,.687195
+Iron and Steel Forging,1987,.78734398
+Iron and Steel Forging,1988,.91194499
+Iron and Steel Forging,1989,.72205198
+Iron and Steel Forging,1990,.55408502
+Iron and Steel Forging,1991,.30475399
+Iron and Steel Forging,1992,.017146001
+Iron and Steel Forging,1993,.25872499
+Iron and Steel Forging,1994,.34481901
+Iron and Steel Forging,1995,.232381
+Iron and Steel Forging,1996,.35835299
+Iron and Steel Forging,1997,.44471499
+Iron and Steel Forging,1998,.45548201
+Iron and Steel Forging,1999,.65851802
+Iron and Steel Forging,2000,.61171502
+Iron and Steel Forging,2001,.196335
+Iron and Steel Forging,2002,.430812
+Iron and Steel Forging,2003,.28670299
+Iron and Steel Forging,2004,-.093762003
+Iron and Steel Forging,2005,.198906
+Iron and Steel Forging,2006,.35421699
+Iron and Steel Forging,2007,.51211399
+Iron and Steel Forging,2008,.62735999
+Iron and Steel Forging,2009,.294321
+Iron and Steel Forging,2010,.58354902
+Iron and Steel Forging,2011,.19444001
+Iron and Steel Forging,2012,.32480401
+Iron and Steel Forging,2013,.114975
+Iron and Steel Forging,2014,.242653
+Iron and Steel Forging,2015,.064162798
+Iron and Steel Forging,2016,.31000701
+Iron and Steel Powders,1962,.64575702
+Iron and Steel Powders,1963,1.06681
+Iron and Steel Powders,1964,1.10133
+Iron and Steel Powders,1965,1.3341
+Iron and Steel Powders,1966,1.42708
+Iron and Steel Powders,1967,1.46114
+Iron and Steel Powders,1968,1.42067
+Iron and Steel Powders,1969,1.3409899
+Iron and Steel Powders,1970,1.2387
+Iron and Steel Powders,1971,.424606
+Iron and Steel Powders,1972,1.02561
+Iron and Steel Powders,1973,.97449201
+Iron and Steel Powders,1974,.729599
+Iron and Steel Powders,1975,.581981
+Iron and Steel Powders,1976,.52549398
+Iron and Steel Powders,1977,-.0029750001
+Iron and Steel Powders,1978,-.14725301
+Iron and Steel Powders,1979,.28631699
+Iron and Steel Powders,1980,-.58967602
+Iron and Steel Powders,1981,-.70412803
+Iron and Steel Powders,1982,-.51278001
+Iron and Steel Powders,1983,.010245
+Iron and Steel Powders,1984,-.263183
+Iron and Steel Powders,1985,-.43392801
+Iron and Steel Powders,1986,-.106118
+Iron and Steel Powders,1987,.071158998
+Iron and Steel Powders,1988,-.690229
+Iron and Steel Powders,1989,.26456499
+Iron and Steel Powders,1990,-.41403699
+Iron and Steel Powders,1991,-.52398401
+Iron and Steel Powders,1992,-.25134599
+Iron and Steel Powders,1993,-.60554498
+Iron and Steel Powders,1994,-.446969
+Iron and Steel Powders,1995,-.114448
+Iron and Steel Powders,1996,-.108214
+Iron and Steel Powders,1997,-.14714
+Iron and Steel Powders,1998,-.28975201
+Iron and Steel Powders,1999,-.258257
+Iron and Steel Powders,2000,-.33053899
+Iron and Steel Powders,2001,-.34499201
+Iron and Steel Powders,2002,-.60259598
+Iron and Steel Powders,2003,-.624614
+Iron and Steel Powders,2004,-.55850202
+Iron and Steel Powders,2005,-.25817299
+Iron and Steel Powders,2006,-.243266
+Iron and Steel Powders,2007,-.41660699
+Iron and Steel Powders,2008,-.52115899
+Iron and Steel Powders,2009,-.61658299
+Iron and Steel Powders,2010,-.62823099
+Iron and Steel Powders,2011,-.23285399
+Iron and Steel Powders,2012,-.56144398
+Iron and Steel Powders,2013,-.311699
+Iron and Steel Powders,2014,-.179598
+Iron and Steel Powders,2015,-.0088100396
+Iron and Steel Powders,2016,-.102492
+Iron or steel hot or cold rolled,1962,1.15481
+Iron or steel hot or cold rolled,1963,.92887402
 "Jewellery, gold and other articles of precious metal",1962,.863949
 "Jewellery, gold and other articles of precious metal",1963,1.38754
 Jute,1962,-2.4298699
@@ -14113,47 +14113,6 @@ Leather Articles Used in Machinery,2008,-.71779001
 Leather Articles Used in Machinery,2009,-.095219001
 Leather Articles Used in Machinery,2010,.45148501
 Leather Articles Used in Machinery,2014,0
-Leather of Miscellaneous Animal Hides,1976,-.27268401
-Leather of Miscellaneous Animal Hides,1977,-.0059039998
-Leather of Miscellaneous Animal Hides,1978,-1.19391
-Leather of Miscellaneous Animal Hides,1979,-1.3156101
-Leather of Miscellaneous Animal Hides,1980,-.56676602
-Leather of Miscellaneous Animal Hides,1981,-1.33972
-Leather of Miscellaneous Animal Hides,1982,-1.0649101
-Leather of Miscellaneous Animal Hides,1983,-.67235398
-Leather of Miscellaneous Animal Hides,1984,-2.1800301
-Leather of Miscellaneous Animal Hides,1985,-2.24614
-Leather of Miscellaneous Animal Hides,1986,-1.94578
-Leather of Miscellaneous Animal Hides,1987,-1.58644
-Leather of Miscellaneous Animal Hides,1988,-1.7618901
-Leather of Miscellaneous Animal Hides,1989,-1.71258
-Leather of Miscellaneous Animal Hides,1990,-1.83409
-Leather of Miscellaneous Animal Hides,1991,-1.57248
-Leather of Miscellaneous Animal Hides,1992,-1.51288
-Leather of Miscellaneous Animal Hides,1993,-1.52843
-Leather of Miscellaneous Animal Hides,1994,-1.4252
-Leather of Miscellaneous Animal Hides,1995,-1.45227
-Leather of Miscellaneous Animal Hides,1996,-1.70868
-Leather of Miscellaneous Animal Hides,1997,-1.73799
-Leather of Miscellaneous Animal Hides,1998,-1.6659499
-Leather of Miscellaneous Animal Hides,1999,-1.56823
-Leather of Miscellaneous Animal Hides,2000,-1.53827
-Leather of Miscellaneous Animal Hides,2001,-1.25965
-Leather of Miscellaneous Animal Hides,2002,-1.16303
-Leather of Miscellaneous Animal Hides,2003,-1.1952699
-Leather of Miscellaneous Animal Hides,2004,-1.4785399
-Leather of Miscellaneous Animal Hides,2005,-1.6702501
-Leather of Miscellaneous Animal Hides,2006,-1.4450099
-Leather of Miscellaneous Animal Hides,2007,-1.6234
-Leather of Miscellaneous Animal Hides,2008,-1.56314
-Leather of Miscellaneous Animal Hides,2009,-1.68511
-Leather of Miscellaneous Animal Hides,2010,-2.1257501
-Leather of Miscellaneous Animal Hides,2011,-2.0190101
-Leather of Miscellaneous Animal Hides,2012,-1.83224
-Leather of Miscellaneous Animal Hides,2013,-1.9888901
-Leather of Miscellaneous Animal Hides,2014,-1.86497
-Leather of Miscellaneous Animal Hides,2015,-1.65791
-Leather of Miscellaneous Animal Hides,2016,-1.03438
 Leather Sheets or Rolls,1962,.61540002
 Leather Sheets or Rolls,1963,.481792
 Leather Sheets or Rolls,1964,.90455902
@@ -14264,6 +14223,47 @@ Leather Tanning Machinery,2013,-.38207799
 Leather Tanning Machinery,2014,.130225
 Leather Tanning Machinery,2015,-.077794597
 Leather Tanning Machinery,2016,.076596603
+Leather of Miscellaneous Animal Hides,1976,-.27268401
+Leather of Miscellaneous Animal Hides,1977,-.0059039998
+Leather of Miscellaneous Animal Hides,1978,-1.19391
+Leather of Miscellaneous Animal Hides,1979,-1.3156101
+Leather of Miscellaneous Animal Hides,1980,-.56676602
+Leather of Miscellaneous Animal Hides,1981,-1.33972
+Leather of Miscellaneous Animal Hides,1982,-1.0649101
+Leather of Miscellaneous Animal Hides,1983,-.67235398
+Leather of Miscellaneous Animal Hides,1984,-2.1800301
+Leather of Miscellaneous Animal Hides,1985,-2.24614
+Leather of Miscellaneous Animal Hides,1986,-1.94578
+Leather of Miscellaneous Animal Hides,1987,-1.58644
+Leather of Miscellaneous Animal Hides,1988,-1.7618901
+Leather of Miscellaneous Animal Hides,1989,-1.71258
+Leather of Miscellaneous Animal Hides,1990,-1.83409
+Leather of Miscellaneous Animal Hides,1991,-1.57248
+Leather of Miscellaneous Animal Hides,1992,-1.51288
+Leather of Miscellaneous Animal Hides,1993,-1.52843
+Leather of Miscellaneous Animal Hides,1994,-1.4252
+Leather of Miscellaneous Animal Hides,1995,-1.45227
+Leather of Miscellaneous Animal Hides,1996,-1.70868
+Leather of Miscellaneous Animal Hides,1997,-1.73799
+Leather of Miscellaneous Animal Hides,1998,-1.6659499
+Leather of Miscellaneous Animal Hides,1999,-1.56823
+Leather of Miscellaneous Animal Hides,2000,-1.53827
+Leather of Miscellaneous Animal Hides,2001,-1.25965
+Leather of Miscellaneous Animal Hides,2002,-1.16303
+Leather of Miscellaneous Animal Hides,2003,-1.1952699
+Leather of Miscellaneous Animal Hides,2004,-1.4785399
+Leather of Miscellaneous Animal Hides,2005,-1.6702501
+Leather of Miscellaneous Animal Hides,2006,-1.4450099
+Leather of Miscellaneous Animal Hides,2007,-1.6234
+Leather of Miscellaneous Animal Hides,2008,-1.56314
+Leather of Miscellaneous Animal Hides,2009,-1.68511
+Leather of Miscellaneous Animal Hides,2010,-2.1257501
+Leather of Miscellaneous Animal Hides,2011,-2.0190101
+Leather of Miscellaneous Animal Hides,2012,-1.83224
+Leather of Miscellaneous Animal Hides,2013,-1.9888901
+Leather of Miscellaneous Animal Hides,2014,-1.86497
+Leather of Miscellaneous Animal Hides,2015,-1.65791
+Leather of Miscellaneous Animal Hides,2016,-1.03438
 Legumes,1962,-1.3289
 Legumes,1963,-1.51179
 Legumes,1964,-1.52285
@@ -14937,8 +14937,6 @@ Liquor,2013,-.71354002
 Liquor,2014,-.50705701
 Liquor,2015,-.316302
 Liquor,2016,-.52788699
-"live animals used for food, misc",1962,-1.08008
-"live animals used for food, misc",1963,-1.13465
 Live Plants,1962,-.643767
 Live Plants,1963,.642272
 Live Plants,1964,.79369998
@@ -15582,6 +15580,47 @@ Margarine,2012,-.89347202
 Margarine,2013,-.96893001
 Margarine,2014,-1.0790499
 Margarine,2016,-.93882298
+Mathematical Calculation Instruments,1976,.527704
+Mathematical Calculation Instruments,1977,.93273699
+Mathematical Calculation Instruments,1978,.90802801
+Mathematical Calculation Instruments,1979,1.20946
+Mathematical Calculation Instruments,1980,1.4024301
+Mathematical Calculation Instruments,1981,.536699
+Mathematical Calculation Instruments,1982,1.35097
+Mathematical Calculation Instruments,1983,1.61446
+Mathematical Calculation Instruments,1984,1.31116
+Mathematical Calculation Instruments,1985,.85089701
+Mathematical Calculation Instruments,1986,.96457797
+Mathematical Calculation Instruments,1987,1.47875
+Mathematical Calculation Instruments,1988,1.6685899
+Mathematical Calculation Instruments,1989,1.28136
+Mathematical Calculation Instruments,1990,1.67171
+Mathematical Calculation Instruments,1991,1.3905801
+Mathematical Calculation Instruments,1992,1.29233
+Mathematical Calculation Instruments,1993,1.8915
+Mathematical Calculation Instruments,1994,1.40443
+Mathematical Calculation Instruments,1995,1.89487
+Mathematical Calculation Instruments,1996,1.6313
+Mathematical Calculation Instruments,1997,1.47036
+Mathematical Calculation Instruments,1998,1.46589
+Mathematical Calculation Instruments,1999,1.43742
+Mathematical Calculation Instruments,2000,1.46782
+Mathematical Calculation Instruments,2001,1.96167
+Mathematical Calculation Instruments,2002,1.54102
+Mathematical Calculation Instruments,2003,1.75983
+Mathematical Calculation Instruments,2004,1.6708699
+Mathematical Calculation Instruments,2005,1.72061
+Mathematical Calculation Instruments,2006,1.16468
+Mathematical Calculation Instruments,2007,1.6436
+Mathematical Calculation Instruments,2008,1.60589
+Mathematical Calculation Instruments,2009,1.60383
+Mathematical Calculation Instruments,2010,1.46772
+Mathematical Calculation Instruments,2011,1.54855
+Mathematical Calculation Instruments,2012,1.4198101
+Mathematical Calculation Instruments,2013,1.31343
+Mathematical Calculation Instruments,2014,1.5209
+Mathematical Calculation Instruments,2015,1.68638
+Mathematical Calculation Instruments,2016,1.65602
 MatÃ©,1962,-2.7298999
 MatÃ©,1963,-2.8717799
 MatÃ©,1964,-2.14341
@@ -15636,47 +15675,6 @@ MatÃ©,2012,-1.944
 MatÃ©,2013,-2.0018499
 MatÃ©,2014,-2.09216
 MatÃ©,2016,-2.24034
-Mathematical Calculation Instruments,1976,.527704
-Mathematical Calculation Instruments,1977,.93273699
-Mathematical Calculation Instruments,1978,.90802801
-Mathematical Calculation Instruments,1979,1.20946
-Mathematical Calculation Instruments,1980,1.4024301
-Mathematical Calculation Instruments,1981,.536699
-Mathematical Calculation Instruments,1982,1.35097
-Mathematical Calculation Instruments,1983,1.61446
-Mathematical Calculation Instruments,1984,1.31116
-Mathematical Calculation Instruments,1985,.85089701
-Mathematical Calculation Instruments,1986,.96457797
-Mathematical Calculation Instruments,1987,1.47875
-Mathematical Calculation Instruments,1988,1.6685899
-Mathematical Calculation Instruments,1989,1.28136
-Mathematical Calculation Instruments,1990,1.67171
-Mathematical Calculation Instruments,1991,1.3905801
-Mathematical Calculation Instruments,1992,1.29233
-Mathematical Calculation Instruments,1993,1.8915
-Mathematical Calculation Instruments,1994,1.40443
-Mathematical Calculation Instruments,1995,1.89487
-Mathematical Calculation Instruments,1996,1.6313
-Mathematical Calculation Instruments,1997,1.47036
-Mathematical Calculation Instruments,1998,1.46589
-Mathematical Calculation Instruments,1999,1.43742
-Mathematical Calculation Instruments,2000,1.46782
-Mathematical Calculation Instruments,2001,1.96167
-Mathematical Calculation Instruments,2002,1.54102
-Mathematical Calculation Instruments,2003,1.75983
-Mathematical Calculation Instruments,2004,1.6708699
-Mathematical Calculation Instruments,2005,1.72061
-Mathematical Calculation Instruments,2006,1.16468
-Mathematical Calculation Instruments,2007,1.6436
-Mathematical Calculation Instruments,2008,1.60589
-Mathematical Calculation Instruments,2009,1.60383
-Mathematical Calculation Instruments,2010,1.46772
-Mathematical Calculation Instruments,2011,1.54855
-Mathematical Calculation Instruments,2012,1.4198101
-Mathematical Calculation Instruments,2013,1.31343
-Mathematical Calculation Instruments,2014,1.5209
-Mathematical Calculation Instruments,2015,1.68638
-Mathematical Calculation Instruments,2016,1.65602
 Measuring Controlling Instruments,1962,1.19274
 Measuring Controlling Instruments,1963,1.36408
 Measuring Controlling Instruments,1964,1.21965
@@ -15829,8 +15827,6 @@ Meat and fish extract,2012,-.49272701
 Meat and fish extract,2013,-.69037598
 Meat and fish extract,2014,-.26418599
 Meat and fish extract,2016,-.39543501
-Mechanical handling equipment and parts,1962,1.11669
-Mechanical handling equipment and parts,1963,1.23577
 Mechanical Wood Pulp,1962,.61271101
 Mechanical Wood Pulp,1963,.66156101
 Mechanical Wood Pulp,1964,.76565301
@@ -15886,6 +15882,8 @@ Mechanical Wood Pulp,2013,.33803001
 Mechanical Wood Pulp,2014,.66678298
 Mechanical Wood Pulp,2015,.75240803
 Mechanical Wood Pulp,2016,-.29414299
+Mechanical handling equipment and parts,1962,1.11669
+Mechanical handling equipment and parts,1963,1.23577
 Mechanically Propelled Railway,1962,1.25867
 Mechanically Propelled Railway,1963,1.4008
 Mechanically Propelled Railway,1964,1.17152
@@ -20107,8 +20105,6 @@ Miscellaneous Man Made Carpets,2013,.398835
 Miscellaneous Man Made Carpets,2014,.39133701
 Miscellaneous Man Made Carpets,2015,.18279199
 Miscellaneous Man Made Carpets,2016,.122395
-Miscellaneous manufactured articles,1962,.81448299
-Miscellaneous manufactured articles,1963,.84188598
 Miscellaneous Manufactured Goods,1962,.77933103
 Miscellaneous Manufactured Goods,1963,1.00471
 Miscellaneous Manufactured Goods,1964,.349525
@@ -20874,61 +20870,6 @@ Miscellaneous Non-Iron Waste,2013,-.38235801
 Miscellaneous Non-Iron Waste,2014,-.34116101
 Miscellaneous Non-Iron Waste,2015,-.51734102
 Miscellaneous Non-Iron Waste,2016,-.63289201
-Miscellaneous Office and Stationary Supplies,1962,1.07619
-Miscellaneous Office and Stationary Supplies,1963,1.16461
-Miscellaneous Office and Stationary Supplies,1964,1.05195
-Miscellaneous Office and Stationary Supplies,1965,.93102002
-Miscellaneous Office and Stationary Supplies,1966,1.01071
-Miscellaneous Office and Stationary Supplies,1967,.96647298
-Miscellaneous Office and Stationary Supplies,1968,.97449201
-Miscellaneous Office and Stationary Supplies,1969,.993213
-Miscellaneous Office and Stationary Supplies,1970,1.0580699
-Miscellaneous Office and Stationary Supplies,1971,.44174999
-Miscellaneous Office and Stationary Supplies,1972,1.15782
-Miscellaneous Office and Stationary Supplies,1973,1.0634
-Miscellaneous Office and Stationary Supplies,1974,.91412902
-Miscellaneous Office and Stationary Supplies,1975,.839737
-Miscellaneous Office and Stationary Supplies,1976,.63537002
-Miscellaneous Office and Stationary Supplies,1977,.51833999
-Miscellaneous Office and Stationary Supplies,1978,.78556299
-Miscellaneous Office and Stationary Supplies,1979,.63756299
-Miscellaneous Office and Stationary Supplies,1980,.58920699
-Miscellaneous Office and Stationary Supplies,1981,.75323898
-Miscellaneous Office and Stationary Supplies,1982,.60812801
-Miscellaneous Office and Stationary Supplies,1983,.81675702
-Miscellaneous Office and Stationary Supplies,1984,1.21408
-Miscellaneous Office and Stationary Supplies,1985,1.19074
-Miscellaneous Office and Stationary Supplies,1986,1.26881
-Miscellaneous Office and Stationary Supplies,1987,1.1458499
-Miscellaneous Office and Stationary Supplies,1988,1.21753
-Miscellaneous Office and Stationary Supplies,1989,.98919803
-Miscellaneous Office and Stationary Supplies,1990,1.36696
-Miscellaneous Office and Stationary Supplies,1991,1.06963
-Miscellaneous Office and Stationary Supplies,1992,1.19241
-Miscellaneous Office and Stationary Supplies,1993,.93564999
-Miscellaneous Office and Stationary Supplies,1994,1.22903
-Miscellaneous Office and Stationary Supplies,1995,1.27299
-Miscellaneous Office and Stationary Supplies,1996,1.14755
-Miscellaneous Office and Stationary Supplies,1997,1.01107
-Miscellaneous Office and Stationary Supplies,1998,.878901
-Miscellaneous Office and Stationary Supplies,1999,.97238898
-Miscellaneous Office and Stationary Supplies,2000,.73399901
-Miscellaneous Office and Stationary Supplies,2001,1.29653
-Miscellaneous Office and Stationary Supplies,2002,.68152899
-Miscellaneous Office and Stationary Supplies,2003,.89901602
-Miscellaneous Office and Stationary Supplies,2004,.987275
-Miscellaneous Office and Stationary Supplies,2005,.97665697
-Miscellaneous Office and Stationary Supplies,2006,.96321899
-Miscellaneous Office and Stationary Supplies,2007,.97091901
-Miscellaneous Office and Stationary Supplies,2008,1.32881
-Miscellaneous Office and Stationary Supplies,2009,1.29217
-Miscellaneous Office and Stationary Supplies,2010,1.3753901
-Miscellaneous Office and Stationary Supplies,2011,1.22632
-Miscellaneous Office and Stationary Supplies,2012,1.0304101
-Miscellaneous Office and Stationary Supplies,2013,1.2083
-Miscellaneous Office and Stationary Supplies,2014,.97526997
-Miscellaneous Office and Stationary Supplies,2015,1.30153
-Miscellaneous Office and Stationary Supplies,2016,1.36915
 Miscellaneous Office Equipment,1962,1.21525
 Miscellaneous Office Equipment,1963,1.3453701
 Miscellaneous Office Equipment,1964,1.2595
@@ -20984,6 +20925,61 @@ Miscellaneous Office Equipment,2013,.819601
 Miscellaneous Office Equipment,2014,.62474602
 Miscellaneous Office Equipment,2015,.59139901
 Miscellaneous Office Equipment,2016,1.27965
+Miscellaneous Office and Stationary Supplies,1962,1.07619
+Miscellaneous Office and Stationary Supplies,1963,1.16461
+Miscellaneous Office and Stationary Supplies,1964,1.05195
+Miscellaneous Office and Stationary Supplies,1965,.93102002
+Miscellaneous Office and Stationary Supplies,1966,1.01071
+Miscellaneous Office and Stationary Supplies,1967,.96647298
+Miscellaneous Office and Stationary Supplies,1968,.97449201
+Miscellaneous Office and Stationary Supplies,1969,.993213
+Miscellaneous Office and Stationary Supplies,1970,1.0580699
+Miscellaneous Office and Stationary Supplies,1971,.44174999
+Miscellaneous Office and Stationary Supplies,1972,1.15782
+Miscellaneous Office and Stationary Supplies,1973,1.0634
+Miscellaneous Office and Stationary Supplies,1974,.91412902
+Miscellaneous Office and Stationary Supplies,1975,.839737
+Miscellaneous Office and Stationary Supplies,1976,.63537002
+Miscellaneous Office and Stationary Supplies,1977,.51833999
+Miscellaneous Office and Stationary Supplies,1978,.78556299
+Miscellaneous Office and Stationary Supplies,1979,.63756299
+Miscellaneous Office and Stationary Supplies,1980,.58920699
+Miscellaneous Office and Stationary Supplies,1981,.75323898
+Miscellaneous Office and Stationary Supplies,1982,.60812801
+Miscellaneous Office and Stationary Supplies,1983,.81675702
+Miscellaneous Office and Stationary Supplies,1984,1.21408
+Miscellaneous Office and Stationary Supplies,1985,1.19074
+Miscellaneous Office and Stationary Supplies,1986,1.26881
+Miscellaneous Office and Stationary Supplies,1987,1.1458499
+Miscellaneous Office and Stationary Supplies,1988,1.21753
+Miscellaneous Office and Stationary Supplies,1989,.98919803
+Miscellaneous Office and Stationary Supplies,1990,1.36696
+Miscellaneous Office and Stationary Supplies,1991,1.06963
+Miscellaneous Office and Stationary Supplies,1992,1.19241
+Miscellaneous Office and Stationary Supplies,1993,.93564999
+Miscellaneous Office and Stationary Supplies,1994,1.22903
+Miscellaneous Office and Stationary Supplies,1995,1.27299
+Miscellaneous Office and Stationary Supplies,1996,1.14755
+Miscellaneous Office and Stationary Supplies,1997,1.01107
+Miscellaneous Office and Stationary Supplies,1998,.878901
+Miscellaneous Office and Stationary Supplies,1999,.97238898
+Miscellaneous Office and Stationary Supplies,2000,.73399901
+Miscellaneous Office and Stationary Supplies,2001,1.29653
+Miscellaneous Office and Stationary Supplies,2002,.68152899
+Miscellaneous Office and Stationary Supplies,2003,.89901602
+Miscellaneous Office and Stationary Supplies,2004,.987275
+Miscellaneous Office and Stationary Supplies,2005,.97665697
+Miscellaneous Office and Stationary Supplies,2006,.96321899
+Miscellaneous Office and Stationary Supplies,2007,.97091901
+Miscellaneous Office and Stationary Supplies,2008,1.32881
+Miscellaneous Office and Stationary Supplies,2009,1.29217
+Miscellaneous Office and Stationary Supplies,2010,1.3753901
+Miscellaneous Office and Stationary Supplies,2011,1.22632
+Miscellaneous Office and Stationary Supplies,2012,1.0304101
+Miscellaneous Office and Stationary Supplies,2013,1.2083
+Miscellaneous Office and Stationary Supplies,2014,.97526997
+Miscellaneous Office and Stationary Supplies,2015,1.30153
+Miscellaneous Office and Stationary Supplies,2016,1.36915
 Miscellaneous Oil Seeds and Fruits,1976,-.33130801
 Miscellaneous Oil Seeds and Fruits,1977,.042514
 Miscellaneous Oil Seeds and Fruits,1978,-.24313401
@@ -22651,6 +22647,8 @@ Miscellaneous Woven Fabrics,2013,-.62538302
 Miscellaneous Woven Fabrics,2014,-.329014
 Miscellaneous Woven Fabrics,2015,-.822465
 Miscellaneous Woven Fabrics,2016,-.27371499
+Miscellaneous manufactured articles,1962,.81448299
+Miscellaneous manufactured articles,1963,.84188598
 Molasses,1962,-1.83463
 Molasses,1963,-1.98215
 Molasses,1964,-1.9835401
@@ -22965,8 +22963,6 @@ Musical Instrument Parts,2013,.79493499
 Musical Instrument Parts,2014,1.0557899
 Musical Instrument Parts,2015,.694884
 Musical Instrument Parts,2016,1.11061
-Natural abrasives like industrial diamonds,1962,.63774699
-Natural abrasives like industrial diamonds,1963,.610439
 Natural Calcium Phosphates,1962,-1.21852
 Natural Calcium Phosphates,1963,-1.35078
 Natural Calcium Phosphates,1964,-.85228997
@@ -23228,6 +23224,8 @@ Natural Sodium Nitrate,2013,.208408
 Natural Sodium Nitrate,2014,-.622159
 Natural Sodium Nitrate,2015,-.71005499
 Natural Sodium Nitrate,2016,-.973203
+Natural abrasives like industrial diamonds,1962,.63774699
+Natural abrasives like industrial diamonds,1963,.610439
 Newspapers and Journals,1962,.32716799
 Newspapers and Journals,1963,.932455
 Newspapers and Journals,1964,.61759502
@@ -23613,8 +23611,6 @@ Non-Coniferous Worked Wood,2013,-1.2267801
 Non-Coniferous Worked Wood,2014,-1.15869
 Non-Coniferous Worked Wood,2015,-1.1454901
 Non-Coniferous Worked Wood,2016,-.95606202
-Non-electric engines and motors,1962,1.06964
-Non-electric engines and motors,1963,.71308303
 Non-Electrical Counting Devices,1976,.70007497
 Non-Electrical Counting Devices,1977,1.22161
 Non-Electrical Counting Devices,1978,.65895897
@@ -23901,49 +23897,6 @@ Non-Military Arms,2013,.34686601
 Non-Military Arms,2014,.027453501
 Non-Military Arms,2015,.300392
 Non-Military Arms,2016,-.126568
-Non-retail Synthetic Yarn,1976,.390248
-Non-retail Synthetic Yarn,1977,.42245099
-Non-retail Synthetic Yarn,1978,.153888
-Non-retail Synthetic Yarn,1979,.37849101
-Non-retail Synthetic Yarn,1980,.078528002
-Non-retail Synthetic Yarn,1981,-.169432
-Non-retail Synthetic Yarn,1982,-.130917
-Non-retail Synthetic Yarn,1983,.072985999
-Non-retail Synthetic Yarn,1984,.531259
-Non-retail Synthetic Yarn,1985,.55049801
-Non-retail Synthetic Yarn,1986,.383113
-Non-retail Synthetic Yarn,1987,.155496
-Non-retail Synthetic Yarn,1988,.36585701
-Non-retail Synthetic Yarn,1989,.36262801
-Non-retail Synthetic Yarn,1990,.243728
-Non-retail Synthetic Yarn,1991,.71630001
-Non-retail Synthetic Yarn,1992,.41212699
-Non-retail Synthetic Yarn,1993,.24367499
-Non-retail Synthetic Yarn,1994,.18644001
-Non-retail Synthetic Yarn,1995,.17948
-Non-retail Synthetic Yarn,1996,.17044
-Non-retail Synthetic Yarn,1997,.107728
-Non-retail Synthetic Yarn,1998,.30181199
-Non-retail Synthetic Yarn,1999,.415611
-Non-retail Synthetic Yarn,2000,.38468599
-Non-retail Synthetic Yarn,2001,.429353
-Non-retail Synthetic Yarn,2002,.030370001
-Non-retail Synthetic Yarn,2003,.16566101
-Non-retail Synthetic Yarn,2004,.422977
-Non-retail Synthetic Yarn,2005,-.066993997
-Non-retail Synthetic Yarn,2006,.042858999
-Non-retail Synthetic Yarn,2007,-.139342
-Non-retail Synthetic Yarn,2008,-.022595
-Non-retail Synthetic Yarn,2009,.118631
-Non-retail Synthetic Yarn,2010,.075843297
-Non-retail Synthetic Yarn,2011,-.0145151
-Non-retail Synthetic Yarn,2012,.107943
-Non-retail Synthetic Yarn,2013,.210068
-Non-retail Synthetic Yarn,2014,.228651
-Non-retail Synthetic Yarn,2015,.061959401
-Non-retail Synthetic Yarn,2016,.118042
-Non-road tractors,1962,1.2022099
-Non-road tractors,1963,1.36581
 Non-Wheat Cereal Flour,1962,-.99230498
 Non-Wheat Cereal Flour,1963,-1.3111
 Non-Wheat Cereal Flour,1964,-.58032101
@@ -23998,6 +23951,51 @@ Non-Wheat Cereal Flour,2012,-.99573499
 Non-Wheat Cereal Flour,2013,-1.05891
 Non-Wheat Cereal Flour,2014,-1.07652
 Non-Wheat Cereal Flour,2016,-.883771
+Non-electric engines and motors,1962,1.06964
+Non-electric engines and motors,1963,.71308303
+Non-retail Synthetic Yarn,1976,.390248
+Non-retail Synthetic Yarn,1977,.42245099
+Non-retail Synthetic Yarn,1978,.153888
+Non-retail Synthetic Yarn,1979,.37849101
+Non-retail Synthetic Yarn,1980,.078528002
+Non-retail Synthetic Yarn,1981,-.169432
+Non-retail Synthetic Yarn,1982,-.130917
+Non-retail Synthetic Yarn,1983,.072985999
+Non-retail Synthetic Yarn,1984,.531259
+Non-retail Synthetic Yarn,1985,.55049801
+Non-retail Synthetic Yarn,1986,.383113
+Non-retail Synthetic Yarn,1987,.155496
+Non-retail Synthetic Yarn,1988,.36585701
+Non-retail Synthetic Yarn,1989,.36262801
+Non-retail Synthetic Yarn,1990,.243728
+Non-retail Synthetic Yarn,1991,.71630001
+Non-retail Synthetic Yarn,1992,.41212699
+Non-retail Synthetic Yarn,1993,.24367499
+Non-retail Synthetic Yarn,1994,.18644001
+Non-retail Synthetic Yarn,1995,.17948
+Non-retail Synthetic Yarn,1996,.17044
+Non-retail Synthetic Yarn,1997,.107728
+Non-retail Synthetic Yarn,1998,.30181199
+Non-retail Synthetic Yarn,1999,.415611
+Non-retail Synthetic Yarn,2000,.38468599
+Non-retail Synthetic Yarn,2001,.429353
+Non-retail Synthetic Yarn,2002,.030370001
+Non-retail Synthetic Yarn,2003,.16566101
+Non-retail Synthetic Yarn,2004,.422977
+Non-retail Synthetic Yarn,2005,-.066993997
+Non-retail Synthetic Yarn,2006,.042858999
+Non-retail Synthetic Yarn,2007,-.139342
+Non-retail Synthetic Yarn,2008,-.022595
+Non-retail Synthetic Yarn,2009,.118631
+Non-retail Synthetic Yarn,2010,.075843297
+Non-retail Synthetic Yarn,2011,-.0145151
+Non-retail Synthetic Yarn,2012,.107943
+Non-retail Synthetic Yarn,2013,.210068
+Non-retail Synthetic Yarn,2014,.228651
+Non-retail Synthetic Yarn,2015,.061959401
+Non-retail Synthetic Yarn,2016,.118042
+Non-road tractors,1962,1.2022099
+Non-road tractors,1963,1.36581
 "Nonoptical Glass Balls, Rods or Tubes",1962,.89137
 "Nonoptical Glass Balls, Rods or Tubes",1963,.54006201
 "Nonoptical Glass Balls, Rods or Tubes",1964,1.00117
@@ -24792,10 +24790,6 @@ Orthopedic Devices,2013,1.33369
 Orthopedic Devices,2014,1.19546
 Orthopedic Devices,2015,1.41276
 Orthopedic Devices,2016,.95654899
-Other articles of rubber,1962,.56232798
-Other articles of rubber,1963,.806135
-Other electrical machinery,1962,.77044302
-Other electrical machinery,1963,.46906701
 Other Nitrogen Function Compounds,1962,.52915603
 Other Nitrogen Function Compounds,1963,.77039701
 Other Nitrogen Function Compounds,1964,.72173703
@@ -24851,6 +24845,10 @@ Other Nitrogen Function Compounds,2013,1.38546
 Other Nitrogen Function Compounds,2014,1.5289201
 Other Nitrogen Function Compounds,2015,1.7659301
 Other Nitrogen Function Compounds,2016,1.8296
+Other articles of rubber,1962,.56232798
+Other articles of rubber,1963,.806135
+Other electrical machinery,1962,.77044302
+Other electrical machinery,1963,.46906701
 Oxygen-Function Acids,1976,.414911
 Oxygen-Function Acids,1977,.53660399
 Oxygen-Function Acids,1978,.68457103
@@ -26206,6 +26204,60 @@ Pianos and String Instruments,2013,1.15563
 Pianos and String Instruments,2014,1.42963
 Pianos and String Instruments,2015,1.41593
 Pianos and String Instruments,2016,1.4433
+Pig Meat,1962,-.29188499
+Pig Meat,1963,-.35955399
+Pig Meat,1964,.0678
+Pig Meat,1965,.37678
+Pig Meat,1966,.086184002
+Pig Meat,1967,.215985
+Pig Meat,1968,.28245699
+Pig Meat,1969,.50507301
+Pig Meat,1970,.54358298
+Pig Meat,1971,-.29319799
+Pig Meat,1972,.60257298
+Pig Meat,1973,.578062
+Pig Meat,1974,.32264501
+Pig Meat,1975,.61983597
+Pig Meat,1976,.29813999
+Pig Meat,1977,.32466701
+Pig Meat,1978,.34826699
+Pig Meat,1979,.37652099
+Pig Meat,1980,.188621
+Pig Meat,1981,.410014
+Pig Meat,1982,.329418
+Pig Meat,1983,.39758399
+Pig Meat,1984,.58658302
+Pig Meat,1985,.57741302
+Pig Meat,1986,.21313401
+Pig Meat,1987,.24789
+Pig Meat,1988,.382581
+Pig Meat,1989,.62384999
+Pig Meat,1990,.62319702
+Pig Meat,1991,.80683303
+Pig Meat,1992,.85807502
+Pig Meat,1993,.78233099
+Pig Meat,1994,.74047101
+Pig Meat,1995,.84696901
+Pig Meat,1996,.61808997
+Pig Meat,1997,.56300598
+Pig Meat,1998,.42650899
+Pig Meat,1999,.78118598
+Pig Meat,2000,.731897
+Pig Meat,2001,.60362703
+Pig Meat,2002,.48701099
+Pig Meat,2003,.60909498
+Pig Meat,2004,.746656
+Pig Meat,2005,1.05437
+Pig Meat,2006,1.00761
+Pig Meat,2007,1.04708
+Pig Meat,2008,.94848597
+Pig Meat,2009,.89287603
+Pig Meat,2010,.95670801
+Pig Meat,2011,.90312701
+Pig Meat,2012,.75690502
+Pig Meat,2013,.71907401
+Pig Meat,2014,.556669
+Pig Meat,2016,.224363
 Pig and Cast Iron,1962,-.39724401
 Pig and Cast Iron,1963,-.70405298
 Pig and Cast Iron,1964,-.77795601
@@ -26261,60 +26313,6 @@ Pig and Cast Iron,2013,-1.33406
 Pig and Cast Iron,2014,-1.15264
 Pig and Cast Iron,2015,-.86300999
 Pig and Cast Iron,2016,-.69796199
-Pig Meat,1962,-.29188499
-Pig Meat,1963,-.35955399
-Pig Meat,1964,.0678
-Pig Meat,1965,.37678
-Pig Meat,1966,.086184002
-Pig Meat,1967,.215985
-Pig Meat,1968,.28245699
-Pig Meat,1969,.50507301
-Pig Meat,1970,.54358298
-Pig Meat,1971,-.29319799
-Pig Meat,1972,.60257298
-Pig Meat,1973,.578062
-Pig Meat,1974,.32264501
-Pig Meat,1975,.61983597
-Pig Meat,1976,.29813999
-Pig Meat,1977,.32466701
-Pig Meat,1978,.34826699
-Pig Meat,1979,.37652099
-Pig Meat,1980,.188621
-Pig Meat,1981,.410014
-Pig Meat,1982,.329418
-Pig Meat,1983,.39758399
-Pig Meat,1984,.58658302
-Pig Meat,1985,.57741302
-Pig Meat,1986,.21313401
-Pig Meat,1987,.24789
-Pig Meat,1988,.382581
-Pig Meat,1989,.62384999
-Pig Meat,1990,.62319702
-Pig Meat,1991,.80683303
-Pig Meat,1992,.85807502
-Pig Meat,1993,.78233099
-Pig Meat,1994,.74047101
-Pig Meat,1995,.84696901
-Pig Meat,1996,.61808997
-Pig Meat,1997,.56300598
-Pig Meat,1998,.42650899
-Pig Meat,1999,.78118598
-Pig Meat,2000,.731897
-Pig Meat,2001,.60362703
-Pig Meat,2002,.48701099
-Pig Meat,2003,.60909498
-Pig Meat,2004,.746656
-Pig Meat,2005,1.05437
-Pig Meat,2006,1.00761
-Pig Meat,2007,1.04708
-Pig Meat,2008,.94848597
-Pig Meat,2009,.89287603
-Pig Meat,2010,.95670801
-Pig Meat,2011,.90312701
-Pig Meat,2012,.75690502
-Pig Meat,2013,.71907401
-Pig Meat,2014,.556669
-Pig Meat,2016,.224363
 Pile and Chenille Fabrics,1976,.35047001
 Pile and Chenille Fabrics,1977,1.3343
 Pile and Chenille Fabrics,1978,1.30171
@@ -26589,61 +26587,6 @@ Plastic Lamps,2013,1.21524
 Plastic Lamps,2014,1.1806099
 Plastic Lamps,2015,1.237
 Plastic Lamps,2016,1.21868
-Plastic or Rubber Clothing,1962,.56278503
-Plastic or Rubber Clothing,1963,.889157
-Plastic or Rubber Clothing,1964,.80351597
-Plastic or Rubber Clothing,1965,.471874
-Plastic or Rubber Clothing,1966,.55539203
-Plastic or Rubber Clothing,1967,.405462
-Plastic or Rubber Clothing,1968,.348414
-Plastic or Rubber Clothing,1969,.40582001
-Plastic or Rubber Clothing,1970,.34699899
-Plastic or Rubber Clothing,1971,.201196
-Plastic or Rubber Clothing,1972,.59894001
-Plastic or Rubber Clothing,1973,.478598
-Plastic or Rubber Clothing,1974,.49253601
-Plastic or Rubber Clothing,1975,.157336
-Plastic or Rubber Clothing,1976,.231525
-Plastic or Rubber Clothing,1977,-.057906002
-Plastic or Rubber Clothing,1978,-.121776
-Plastic or Rubber Clothing,1979,-.016801
-Plastic or Rubber Clothing,1980,-.050746001
-Plastic or Rubber Clothing,1981,-.34453601
-Plastic or Rubber Clothing,1982,-.18705399
-Plastic or Rubber Clothing,1983,-.46637601
-Plastic or Rubber Clothing,1984,-.69113702
-Plastic or Rubber Clothing,1985,-.65570098
-Plastic or Rubber Clothing,1986,-.68048298
-Plastic or Rubber Clothing,1987,-.84679198
-Plastic or Rubber Clothing,1988,-.87134999
-Plastic or Rubber Clothing,1989,-.75435603
-Plastic or Rubber Clothing,1990,-.957865
-Plastic or Rubber Clothing,1991,-.908575
-Plastic or Rubber Clothing,1992,-1.19819
-Plastic or Rubber Clothing,1993,-1.45971
-Plastic or Rubber Clothing,1994,-1.77593
-Plastic or Rubber Clothing,1995,-1.3584599
-Plastic or Rubber Clothing,1996,-1.48536
-Plastic or Rubber Clothing,1997,-1.44405
-Plastic or Rubber Clothing,1998,-1.12221
-Plastic or Rubber Clothing,1999,-1.1712199
-Plastic or Rubber Clothing,2000,-1.33227
-Plastic or Rubber Clothing,2001,-.135221
-Plastic or Rubber Clothing,2002,-.000064
-Plastic or Rubber Clothing,2003,-.070601001
-Plastic or Rubber Clothing,2004,-.123984
-Plastic or Rubber Clothing,2005,-.960446
-Plastic or Rubber Clothing,2006,-.69538897
-Plastic or Rubber Clothing,2007,-.86149198
-Plastic or Rubber Clothing,2008,-.51580799
-Plastic or Rubber Clothing,2009,-.40253001
-Plastic or Rubber Clothing,2010,-.57937098
-Plastic or Rubber Clothing,2011,-.29496899
-Plastic or Rubber Clothing,2012,-.86043501
-Plastic or Rubber Clothing,2013,-.61838901
-Plastic or Rubber Clothing,2014,-.77304298
-Plastic or Rubber Clothing,2015,-.82673597
-Plastic or Rubber Clothing,2016,.21673299
 Plastic Ornaments,1976,.230084
 Plastic Ornaments,1977,.55013001
 Plastic Ornaments,1978,-.48347899
@@ -26758,6 +26701,61 @@ Plastic Storage Containers,2013,-.2924
 Plastic Storage Containers,2014,-.40676799
 Plastic Storage Containers,2015,-.382339
 Plastic Storage Containers,2016,-.32922101
+Plastic or Rubber Clothing,1962,.56278503
+Plastic or Rubber Clothing,1963,.889157
+Plastic or Rubber Clothing,1964,.80351597
+Plastic or Rubber Clothing,1965,.471874
+Plastic or Rubber Clothing,1966,.55539203
+Plastic or Rubber Clothing,1967,.405462
+Plastic or Rubber Clothing,1968,.348414
+Plastic or Rubber Clothing,1969,.40582001
+Plastic or Rubber Clothing,1970,.34699899
+Plastic or Rubber Clothing,1971,.201196
+Plastic or Rubber Clothing,1972,.59894001
+Plastic or Rubber Clothing,1973,.478598
+Plastic or Rubber Clothing,1974,.49253601
+Plastic or Rubber Clothing,1975,.157336
+Plastic or Rubber Clothing,1976,.231525
+Plastic or Rubber Clothing,1977,-.057906002
+Plastic or Rubber Clothing,1978,-.121776
+Plastic or Rubber Clothing,1979,-.016801
+Plastic or Rubber Clothing,1980,-.050746001
+Plastic or Rubber Clothing,1981,-.34453601
+Plastic or Rubber Clothing,1982,-.18705399
+Plastic or Rubber Clothing,1983,-.46637601
+Plastic or Rubber Clothing,1984,-.69113702
+Plastic or Rubber Clothing,1985,-.65570098
+Plastic or Rubber Clothing,1986,-.68048298
+Plastic or Rubber Clothing,1987,-.84679198
+Plastic or Rubber Clothing,1988,-.87134999
+Plastic or Rubber Clothing,1989,-.75435603
+Plastic or Rubber Clothing,1990,-.957865
+Plastic or Rubber Clothing,1991,-.908575
+Plastic or Rubber Clothing,1992,-1.19819
+Plastic or Rubber Clothing,1993,-1.45971
+Plastic or Rubber Clothing,1994,-1.77593
+Plastic or Rubber Clothing,1995,-1.3584599
+Plastic or Rubber Clothing,1996,-1.48536
+Plastic or Rubber Clothing,1997,-1.44405
+Plastic or Rubber Clothing,1998,-1.12221
+Plastic or Rubber Clothing,1999,-1.1712199
+Plastic or Rubber Clothing,2000,-1.33227
+Plastic or Rubber Clothing,2001,-.135221
+Plastic or Rubber Clothing,2002,-.000064
+Plastic or Rubber Clothing,2003,-.070601001
+Plastic or Rubber Clothing,2004,-.123984
+Plastic or Rubber Clothing,2005,-.960446
+Plastic or Rubber Clothing,2006,-.69538897
+Plastic or Rubber Clothing,2007,-.86149198
+Plastic or Rubber Clothing,2008,-.51580799
+Plastic or Rubber Clothing,2009,-.40253001
+Plastic or Rubber Clothing,2010,-.57937098
+Plastic or Rubber Clothing,2011,-.29496899
+Plastic or Rubber Clothing,2012,-.86043501
+Plastic or Rubber Clothing,2013,-.61838901
+Plastic or Rubber Clothing,2014,-.77304298
+Plastic or Rubber Clothing,2015,-.82673597
+Plastic or Rubber Clothing,2016,.21673299
 Platinum,1962,.77292699
 Platinum,1963,1.48728
 Platinum,1964,.87562698
@@ -28064,60 +28062,6 @@ Prepared Fruit,2012,-.77969998
 Prepared Fruit,2013,-.96579099
 Prepared Fruit,2014,-.96594298
 Prepared Fruit,2016,-.99394
-Preserved meat,1962,-1.0351599
-Preserved meat,1963,-1.05599
-Preserved meat,1964,-.76898903
-Preserved meat,1965,-.89826
-Preserved meat,1966,-.45851001
-Preserved meat,1967,-.51456398
-Preserved meat,1968,-.053941999
-Preserved meat,1969,-.58390301
-Preserved meat,1970,-.51898199
-Preserved meat,1971,-.113515
-Preserved meat,1972,-.74549001
-Preserved meat,1973,-.079106003
-Preserved meat,1974,-.094766997
-Preserved meat,1975,-.043338999
-Preserved meat,1976,-.050271999
-Preserved meat,1977,-.155707
-Preserved meat,1978,-.31877199
-Preserved meat,1979,-.312657
-Preserved meat,1980,-.50377601
-Preserved meat,1981,-.098922998
-Preserved meat,1982,-.140174
-Preserved meat,1983,-.81883699
-Preserved meat,1984,-.942213
-Preserved meat,1985,-1.11054
-Preserved meat,1986,-1.01718
-Preserved meat,1987,-.80968302
-Preserved meat,1988,-1.2445101
-Preserved meat,1989,-.35815799
-Preserved meat,1990,-.038805999
-Preserved meat,1991,-.26213101
-Preserved meat,1992,.283232
-Preserved meat,1993,.44490299
-Preserved meat,1994,.67906201
-Preserved meat,1995,.614088
-Preserved meat,1996,.258652
-Preserved meat,1997,.76690102
-Preserved meat,1998,1.0185699
-Preserved meat,1999,1.08218
-Preserved meat,2000,1.08289
-Preserved meat,2001,-.089924
-Preserved meat,2002,-1.02467
-Preserved meat,2003,-.56543499
-Preserved meat,2004,-1.0163
-Preserved meat,2005,-.71873897
-Preserved meat,2006,-1.01219
-Preserved meat,2007,-.436171
-Preserved meat,2008,-.31534901
-Preserved meat,2009,-.27793801
-Preserved meat,2010,.192477
-Preserved meat,2011,-.40045699
-Preserved meat,2012,-.300322
-Preserved meat,2013,-.12389
-Preserved meat,2014,-.31619799
-Preserved meat,2016,-.22662801
 Preserved Milk,1962,.17148601
 Preserved Milk,1963,.354918
 Preserved Milk,1964,.468207
@@ -28172,6 +28116,60 @@ Preserved Milk,2012,-1.00105
 Preserved Milk,2013,-1.0443701
 Preserved Milk,2014,-.51971102
 Preserved Milk,2016,-.51819301
+Preserved meat,1962,-1.0351599
+Preserved meat,1963,-1.05599
+Preserved meat,1964,-.76898903
+Preserved meat,1965,-.89826
+Preserved meat,1966,-.45851001
+Preserved meat,1967,-.51456398
+Preserved meat,1968,-.053941999
+Preserved meat,1969,-.58390301
+Preserved meat,1970,-.51898199
+Preserved meat,1971,-.113515
+Preserved meat,1972,-.74549001
+Preserved meat,1973,-.079106003
+Preserved meat,1974,-.094766997
+Preserved meat,1975,-.043338999
+Preserved meat,1976,-.050271999
+Preserved meat,1977,-.155707
+Preserved meat,1978,-.31877199
+Preserved meat,1979,-.312657
+Preserved meat,1980,-.50377601
+Preserved meat,1981,-.098922998
+Preserved meat,1982,-.140174
+Preserved meat,1983,-.81883699
+Preserved meat,1984,-.942213
+Preserved meat,1985,-1.11054
+Preserved meat,1986,-1.01718
+Preserved meat,1987,-.80968302
+Preserved meat,1988,-1.2445101
+Preserved meat,1989,-.35815799
+Preserved meat,1990,-.038805999
+Preserved meat,1991,-.26213101
+Preserved meat,1992,.283232
+Preserved meat,1993,.44490299
+Preserved meat,1994,.67906201
+Preserved meat,1995,.614088
+Preserved meat,1996,.258652
+Preserved meat,1997,.76690102
+Preserved meat,1998,1.0185699
+Preserved meat,1999,1.08218
+Preserved meat,2000,1.08289
+Preserved meat,2001,-.089924
+Preserved meat,2002,-1.02467
+Preserved meat,2003,-.56543499
+Preserved meat,2004,-1.0163
+Preserved meat,2005,-.71873897
+Preserved meat,2006,-1.01219
+Preserved meat,2007,-.436171
+Preserved meat,2008,-.31534901
+Preserved meat,2009,-.27793801
+Preserved meat,2010,.192477
+Preserved meat,2011,-.40045699
+Preserved meat,2012,-.300322
+Preserved meat,2013,-.12389
+Preserved meat,2014,-.31619799
+Preserved meat,2016,-.22662801
 Pressed or Moulded Glass,1962,.907897
 Pressed or Moulded Glass,1963,.74087602
 Pressed or Moulded Glass,1964,.94633502
@@ -31389,60 +31387,6 @@ Shavers and Hair Clippers,2013,1.4257801
 Shavers and Hair Clippers,2014,1.2852401
 Shavers and Hair Clippers,2015,1.0650899
 Shavers and Hair Clippers,2016,1.04483
-Sheep and goat,1962,-.97823298
-Sheep and goat,1963,-1.2318799
-Sheep and goat,1964,-.88279599
-Sheep and goat,1965,-1.0027699
-Sheep and goat,1966,-1.32171
-Sheep and goat,1967,-1.29784
-Sheep and goat,1968,-1.25726
-Sheep and goat,1969,-1.00231
-Sheep and goat,1970,-1.22123
-Sheep and goat,1971,-1.7934099
-Sheep and goat,1972,-.86992002
-Sheep and goat,1973,-1.13623
-Sheep and goat,1974,-.89896601
-Sheep and goat,1975,-.75082201
-Sheep and goat,1976,-.34061599
-Sheep and goat,1977,-.85523599
-Sheep and goat,1978,-.497962
-Sheep and goat,1979,-1.28336
-Sheep and goat,1980,-1.38235
-Sheep and goat,1981,-1.20512
-Sheep and goat,1982,-1.26105
-Sheep and goat,1983,-.453666
-Sheep and goat,1984,-1.32893
-Sheep and goat,1985,-1.13313
-Sheep and goat,1986,-1.1851
-Sheep and goat,1987,-1.00788
-Sheep and goat,1988,-1.03865
-Sheep and goat,1989,-.99493098
-Sheep and goat,1990,-1.03297
-Sheep and goat,1991,-.62851799
-Sheep and goat,1992,-.41338599
-Sheep and goat,1993,-.92488903
-Sheep and goat,1994,-.64071202
-Sheep and goat,1995,-.93712401
-Sheep and goat,1996,-.76149899
-Sheep and goat,1997,-.50722998
-Sheep and goat,1998,-.85863203
-Sheep and goat,1999,-.62608999
-Sheep and goat,2000,-1.04275
-Sheep and goat,2001,-.69519502
-Sheep and goat,2002,-1.44962
-Sheep and goat,2003,-1.86221
-Sheep and goat,2004,-1.7096
-Sheep and goat,2005,-1.68894
-Sheep and goat,2006,-1.59762
-Sheep and goat,2007,-1.26723
-Sheep and goat,2008,-1.32216
-Sheep and goat,2009,-.98231399
-Sheep and goat,2010,-1.3234
-Sheep and goat,2011,-1.50037
-Sheep and goat,2012,-1.5521801
-Sheep and goat,2013,-1.23404
-Sheep and goat,2014,-.96089
-Sheep and goat,2016,-1.25739
 Sheep and Goat Meat,1962,-1.44528
 Sheep and Goat Meat,1963,-1.2087899
 Sheep and Goat Meat,1964,-.72378898
@@ -31538,6 +31482,60 @@ Sheep and Lamb Leather,2013,-1.91134
 Sheep and Lamb Leather,2014,-1.78733
 Sheep and Lamb Leather,2015,-1.67146
 Sheep and Lamb Leather,2016,-1.48162
+Sheep and goat,1962,-.97823298
+Sheep and goat,1963,-1.2318799
+Sheep and goat,1964,-.88279599
+Sheep and goat,1965,-1.0027699
+Sheep and goat,1966,-1.32171
+Sheep and goat,1967,-1.29784
+Sheep and goat,1968,-1.25726
+Sheep and goat,1969,-1.00231
+Sheep and goat,1970,-1.22123
+Sheep and goat,1971,-1.7934099
+Sheep and goat,1972,-.86992002
+Sheep and goat,1973,-1.13623
+Sheep and goat,1974,-.89896601
+Sheep and goat,1975,-.75082201
+Sheep and goat,1976,-.34061599
+Sheep and goat,1977,-.85523599
+Sheep and goat,1978,-.497962
+Sheep and goat,1979,-1.28336
+Sheep and goat,1980,-1.38235
+Sheep and goat,1981,-1.20512
+Sheep and goat,1982,-1.26105
+Sheep and goat,1983,-.453666
+Sheep and goat,1984,-1.32893
+Sheep and goat,1985,-1.13313
+Sheep and goat,1986,-1.1851
+Sheep and goat,1987,-1.00788
+Sheep and goat,1988,-1.03865
+Sheep and goat,1989,-.99493098
+Sheep and goat,1990,-1.03297
+Sheep and goat,1991,-.62851799
+Sheep and goat,1992,-.41338599
+Sheep and goat,1993,-.92488903
+Sheep and goat,1994,-.64071202
+Sheep and goat,1995,-.93712401
+Sheep and goat,1996,-.76149899
+Sheep and goat,1997,-.50722998
+Sheep and goat,1998,-.85863203
+Sheep and goat,1999,-.62608999
+Sheep and goat,2000,-1.04275
+Sheep and goat,2001,-.69519502
+Sheep and goat,2002,-1.44962
+Sheep and goat,2003,-1.86221
+Sheep and goat,2004,-1.7096
+Sheep and goat,2005,-1.68894
+Sheep and goat,2006,-1.59762
+Sheep and goat,2007,-1.26723
+Sheep and goat,2008,-1.32216
+Sheep and goat,2009,-.98231399
+Sheep and goat,2010,-1.3234
+Sheep and goat,2011,-1.50037
+Sheep and goat,2012,-1.5521801
+Sheep and goat,2013,-1.23404
+Sheep and goat,2014,-.96089
+Sheep and goat,2016,-1.25739
 Ships and Boats,1962,.81230402
 Ships and Boats,1963,.69546098
 Ships and Boats,1964,.424218
@@ -32144,8 +32142,6 @@ Solid Fuels,2013,.25484899
 Solid Fuels,2014,-.097077303
 Solid Fuels,2015,.43405801
 Solid Fuels,2016,.0020323701
-Sound recording devices,1962,1.22497
-Sound recording devices,1963,1.2309999
 Sound Recording Media,1962,.29784101
 Sound Recording Media,1963,.393996
 Sound Recording Media,1964,.21873701
@@ -32196,6 +32192,8 @@ Sound Recording Media,2008,-.15613
 Sound Recording Media,2009,-.117651
 Sound Recording Media,2010,.57813501
 Sound Recording Media,2014,0
+Sound recording devices,1962,1.22497
+Sound recording devices,1963,1.2309999
 Soy Bean Oil,1962,.542997
 Soy Bean Oil,1963,.64654899
 Soy Bean Oil,1964,.654351
@@ -33336,6 +33334,88 @@ Synthetic Woven Fabrics,2013,.0098475302
 Synthetic Woven Fabrics,2014,-.15018199
 Synthetic Woven Fabrics,2015,-.51632297
 Synthetic Woven Fabrics,2016,.0488967
+TV Tubes and Cathode Rays,1976,.82020497
+TV Tubes and Cathode Rays,1977,1.20171
+TV Tubes and Cathode Rays,1978,.78343803
+TV Tubes and Cathode Rays,1979,.74774897
+TV Tubes and Cathode Rays,1980,1.07521
+TV Tubes and Cathode Rays,1981,1.13506
+TV Tubes and Cathode Rays,1982,.59644097
+TV Tubes and Cathode Rays,1983,.51626599
+TV Tubes and Cathode Rays,1984,.54393202
+TV Tubes and Cathode Rays,1985,.547095
+TV Tubes and Cathode Rays,1986,.70699197
+TV Tubes and Cathode Rays,1987,.78207302
+TV Tubes and Cathode Rays,1988,.46179301
+TV Tubes and Cathode Rays,1989,.48926601
+TV Tubes and Cathode Rays,1990,.45373201
+TV Tubes and Cathode Rays,1991,.34741899
+TV Tubes and Cathode Rays,1992,.58627099
+TV Tubes and Cathode Rays,1993,.542413
+TV Tubes and Cathode Rays,1994,.48576999
+TV Tubes and Cathode Rays,1995,.56171697
+TV Tubes and Cathode Rays,1996,.38691899
+TV Tubes and Cathode Rays,1997,.537103
+TV Tubes and Cathode Rays,1998,.61208701
+TV Tubes and Cathode Rays,1999,.018564001
+TV Tubes and Cathode Rays,2000,.39789999
+TV Tubes and Cathode Rays,2001,.245552
+TV Tubes and Cathode Rays,2002,.76703799
+TV Tubes and Cathode Rays,2003,.73413599
+TV Tubes and Cathode Rays,2004,.60501999
+TV Tubes and Cathode Rays,2005,.61442798
+TV Tubes and Cathode Rays,2006,.647717
+TV Tubes and Cathode Rays,2007,.572631
+TV Tubes and Cathode Rays,2008,.58463103
+TV Tubes and Cathode Rays,2009,.54999
+TV Tubes and Cathode Rays,2010,-.422445
+TV Tubes and Cathode Rays,2011,.13761701
+TV Tubes and Cathode Rays,2012,-.621876
+TV Tubes and Cathode Rays,2013,.0096969204
+TV Tubes and Cathode Rays,2014,-.41174299
+TV Tubes and Cathode Rays,2015,-.236817
+TV Tubes and Cathode Rays,2016,-.226937
+TV and Radio Transmitters,1976,.4287
+TV and Radio Transmitters,1977,.73484302
+TV and Radio Transmitters,1978,.430134
+TV and Radio Transmitters,1979,.435554
+TV and Radio Transmitters,1980,.129154
+TV and Radio Transmitters,1981,.033794001
+TV and Radio Transmitters,1982,.71116602
+TV and Radio Transmitters,1983,.33391601
+TV and Radio Transmitters,1984,1.09352
+TV and Radio Transmitters,1985,.91439497
+TV and Radio Transmitters,1986,.70714402
+TV and Radio Transmitters,1987,.76068801
+TV and Radio Transmitters,1988,.88339502
+TV and Radio Transmitters,1989,.55387503
+TV and Radio Transmitters,1990,.70283699
+TV and Radio Transmitters,1991,.37035701
+TV and Radio Transmitters,1992,.362542
+TV and Radio Transmitters,1993,.23928601
+TV and Radio Transmitters,1994,.42200601
+TV and Radio Transmitters,1995,.576823
+TV and Radio Transmitters,1996,.823268
+TV and Radio Transmitters,1997,.98794001
+TV and Radio Transmitters,1998,1.1841
+TV and Radio Transmitters,1999,1.14846
+TV and Radio Transmitters,2000,.59087402
+TV and Radio Transmitters,2001,1.20392
+TV and Radio Transmitters,2002,1.11445
+TV and Radio Transmitters,2003,.89180601
+TV and Radio Transmitters,2004,1.18582
+TV and Radio Transmitters,2005,1.0687799
+TV and Radio Transmitters,2006,.50938201
+TV and Radio Transmitters,2007,.37979099
+TV and Radio Transmitters,2008,.40530699
+TV and Radio Transmitters,2009,.99450999
+TV and Radio Transmitters,2010,.72146302
+TV and Radio Transmitters,2011,.72162998
+TV and Radio Transmitters,2012,.88366997
+TV and Radio Transmitters,2013,.646604
+TV and Radio Transmitters,2014,.63108897
+TV and Radio Transmitters,2015,.67971301
+TV and Radio Transmitters,2016,1.24307
 Tanned Furskins,1962,.12362
 Tanned Furskins,1963,-.0441746
 Tanned Furskins,1964,.32339701
@@ -33636,8 +33716,6 @@ Temporarily Preserved Fruit,2012,-.54977
 Temporarily Preserved Fruit,2013,-.446899
 Temporarily Preserved Fruit,2014,-.57340401
 Temporarily Preserved Fruit,2016,-.91020799
-Textile and leather machinery,1962,.87932903
-Textile and leather machinery,1963,1.0071599
 Textile Bags,1962,-.998137
 Textile Bags,1963,-.85741901
 Textile Bags,1964,-.858199
@@ -33858,6 +33936,8 @@ Textile Machinery,2013,1.4565001
 Textile Machinery,2014,.97839999
 Textile Machinery,2015,1.45767
 Textile Machinery,2016,2.13836
+Textile and leather machinery,1962,.87932903
+Textile and leather machinery,1963,1.0071599
 Textile yarn,1962,.862786
 Textile yarn,1963,.40497801
 Textiles Fabrics for Machinery,1962,.90619302
@@ -34688,88 +34768,6 @@ Trucks and Vans,2013,.130527
 Trucks and Vans,2014,.271207
 Trucks and Vans,2015,.35528901
 Trucks and Vans,2016,.236894
-TV and Radio Transmitters,1976,.4287
-TV and Radio Transmitters,1977,.73484302
-TV and Radio Transmitters,1978,.430134
-TV and Radio Transmitters,1979,.435554
-TV and Radio Transmitters,1980,.129154
-TV and Radio Transmitters,1981,.033794001
-TV and Radio Transmitters,1982,.71116602
-TV and Radio Transmitters,1983,.33391601
-TV and Radio Transmitters,1984,1.09352
-TV and Radio Transmitters,1985,.91439497
-TV and Radio Transmitters,1986,.70714402
-TV and Radio Transmitters,1987,.76068801
-TV and Radio Transmitters,1988,.88339502
-TV and Radio Transmitters,1989,.55387503
-TV and Radio Transmitters,1990,.70283699
-TV and Radio Transmitters,1991,.37035701
-TV and Radio Transmitters,1992,.362542
-TV and Radio Transmitters,1993,.23928601
-TV and Radio Transmitters,1994,.42200601
-TV and Radio Transmitters,1995,.576823
-TV and Radio Transmitters,1996,.823268
-TV and Radio Transmitters,1997,.98794001
-TV and Radio Transmitters,1998,1.1841
-TV and Radio Transmitters,1999,1.14846
-TV and Radio Transmitters,2000,.59087402
-TV and Radio Transmitters,2001,1.20392
-TV and Radio Transmitters,2002,1.11445
-TV and Radio Transmitters,2003,.89180601
-TV and Radio Transmitters,2004,1.18582
-TV and Radio Transmitters,2005,1.0687799
-TV and Radio Transmitters,2006,.50938201
-TV and Radio Transmitters,2007,.37979099
-TV and Radio Transmitters,2008,.40530699
-TV and Radio Transmitters,2009,.99450999
-TV and Radio Transmitters,2010,.72146302
-TV and Radio Transmitters,2011,.72162998
-TV and Radio Transmitters,2012,.88366997
-TV and Radio Transmitters,2013,.646604
-TV and Radio Transmitters,2014,.63108897
-TV and Radio Transmitters,2015,.67971301
-TV and Radio Transmitters,2016,1.24307
-TV Tubes and Cathode Rays,1976,.82020497
-TV Tubes and Cathode Rays,1977,1.20171
-TV Tubes and Cathode Rays,1978,.78343803
-TV Tubes and Cathode Rays,1979,.74774897
-TV Tubes and Cathode Rays,1980,1.07521
-TV Tubes and Cathode Rays,1981,1.13506
-TV Tubes and Cathode Rays,1982,.59644097
-TV Tubes and Cathode Rays,1983,.51626599
-TV Tubes and Cathode Rays,1984,.54393202
-TV Tubes and Cathode Rays,1985,.547095
-TV Tubes and Cathode Rays,1986,.70699197
-TV Tubes and Cathode Rays,1987,.78207302
-TV Tubes and Cathode Rays,1988,.46179301
-TV Tubes and Cathode Rays,1989,.48926601
-TV Tubes and Cathode Rays,1990,.45373201
-TV Tubes and Cathode Rays,1991,.34741899
-TV Tubes and Cathode Rays,1992,.58627099
-TV Tubes and Cathode Rays,1993,.542413
-TV Tubes and Cathode Rays,1994,.48576999
-TV Tubes and Cathode Rays,1995,.56171697
-TV Tubes and Cathode Rays,1996,.38691899
-TV Tubes and Cathode Rays,1997,.537103
-TV Tubes and Cathode Rays,1998,.61208701
-TV Tubes and Cathode Rays,1999,.018564001
-TV Tubes and Cathode Rays,2000,.39789999
-TV Tubes and Cathode Rays,2001,.245552
-TV Tubes and Cathode Rays,2002,.76703799
-TV Tubes and Cathode Rays,2003,.73413599
-TV Tubes and Cathode Rays,2004,.60501999
-TV Tubes and Cathode Rays,2005,.61442798
-TV Tubes and Cathode Rays,2006,.647717
-TV Tubes and Cathode Rays,2007,.572631
-TV Tubes and Cathode Rays,2008,.58463103
-TV Tubes and Cathode Rays,2009,.54999
-TV Tubes and Cathode Rays,2010,-.422445
-TV Tubes and Cathode Rays,2011,.13761701
-TV Tubes and Cathode Rays,2012,-.621876
-TV Tubes and Cathode Rays,2013,.0096969204
-TV Tubes and Cathode Rays,2014,-.41174299
-TV Tubes and Cathode Rays,2015,-.236817
-TV Tubes and Cathode Rays,2016,-.226937
 Type Setting Machines,1976,.74789703
 Type Setting Machines,1977,1.48317
 Type Setting Machines,1978,1.44978
@@ -36590,61 +36588,6 @@ Washing Machines,2013,.59093702
 Washing Machines,2014,.54118502
 Washing Machines,2015,.43834999
 Washing Machines,2016,.078965798
-Waste of Man-Made Fibres,1962,1.16537
-Waste of Man-Made Fibres,1963,.82598799
-Waste of Man-Made Fibres,1964,.765432
-Waste of Man-Made Fibres,1965,1.16988
-Waste of Man-Made Fibres,1966,1.1796
-Waste of Man-Made Fibres,1967,.98388499
-Waste of Man-Made Fibres,1968,1.1844
-Waste of Man-Made Fibres,1969,1.1848
-Waste of Man-Made Fibres,1970,.83577597
-Waste of Man-Made Fibres,1971,.130804
-Waste of Man-Made Fibres,1972,1.11854
-Waste of Man-Made Fibres,1973,1.0418
-Waste of Man-Made Fibres,1974,.75332099
-Waste of Man-Made Fibres,1975,1.03765
-Waste of Man-Made Fibres,1976,.38379499
-Waste of Man-Made Fibres,1977,.459755
-Waste of Man-Made Fibres,1978,.57999998
-Waste of Man-Made Fibres,1979,.54953998
-Waste of Man-Made Fibres,1980,.418006
-Waste of Man-Made Fibres,1981,.118583
-Waste of Man-Made Fibres,1982,.113376
-Waste of Man-Made Fibres,1983,.175982
-Waste of Man-Made Fibres,1984,.12498
-Waste of Man-Made Fibres,1985,.099821001
-Waste of Man-Made Fibres,1986,.35679299
-Waste of Man-Made Fibres,1987,.65970898
-Waste of Man-Made Fibres,1988,.155371
-Waste of Man-Made Fibres,1989,-.00083799998
-Waste of Man-Made Fibres,1990,.120953
-Waste of Man-Made Fibres,1991,.31310701
-Waste of Man-Made Fibres,1992,-.069265999
-Waste of Man-Made Fibres,1993,.026143
-Waste of Man-Made Fibres,1994,.032595001
-Waste of Man-Made Fibres,1995,-.12096
-Waste of Man-Made Fibres,1996,.122599
-Waste of Man-Made Fibres,1997,.53173703
-Waste of Man-Made Fibres,1998,.416484
-Waste of Man-Made Fibres,1999,.482869
-Waste of Man-Made Fibres,2000,.220781
-Waste of Man-Made Fibres,2001,.16290601
-Waste of Man-Made Fibres,2002,-.23853999
-Waste of Man-Made Fibres,2003,-.099025004
-Waste of Man-Made Fibres,2004,.158865
-Waste of Man-Made Fibres,2005,.249467
-Waste of Man-Made Fibres,2006,.070520997
-Waste of Man-Made Fibres,2007,.13806701
-Waste of Man-Made Fibres,2008,.28284001
-Waste of Man-Made Fibres,2009,.011099
-Waste of Man-Made Fibres,2010,.018244401
-Waste of Man-Made Fibres,2011,.116757
-Waste of Man-Made Fibres,2012,.068533003
-Waste of Man-Made Fibres,2013,.00347007
-Waste of Man-Made Fibres,2014,-.0170947
-Waste of Man-Made Fibres,2015,-.012527
-Waste of Man-Made Fibres,2016,-.086691
 Waste Paper,1962,.82936502
 Waste Paper,1963,.92894298
 Waste Paper,1964,.41536099
@@ -36700,6 +36643,61 @@ Waste Paper,2013,-.26427299
 Waste Paper,2014,-.19589999
 Waste Paper,2015,-.158921
 Waste Paper,2016,-.33933401
+Waste of Man-Made Fibres,1962,1.16537
+Waste of Man-Made Fibres,1963,.82598799
+Waste of Man-Made Fibres,1964,.765432
+Waste of Man-Made Fibres,1965,1.16988
+Waste of Man-Made Fibres,1966,1.1796
+Waste of Man-Made Fibres,1967,.98388499
+Waste of Man-Made Fibres,1968,1.1844
+Waste of Man-Made Fibres,1969,1.1848
+Waste of Man-Made Fibres,1970,.83577597
+Waste of Man-Made Fibres,1971,.130804
+Waste of Man-Made Fibres,1972,1.11854
+Waste of Man-Made Fibres,1973,1.0418
+Waste of Man-Made Fibres,1974,.75332099
+Waste of Man-Made Fibres,1975,1.03765
+Waste of Man-Made Fibres,1976,.38379499
+Waste of Man-Made Fibres,1977,.459755
+Waste of Man-Made Fibres,1978,.57999998
+Waste of Man-Made Fibres,1979,.54953998
+Waste of Man-Made Fibres,1980,.418006
+Waste of Man-Made Fibres,1981,.118583
+Waste of Man-Made Fibres,1982,.113376
+Waste of Man-Made Fibres,1983,.175982
+Waste of Man-Made Fibres,1984,.12498
+Waste of Man-Made Fibres,1985,.099821001
+Waste of Man-Made Fibres,1986,.35679299
+Waste of Man-Made Fibres,1987,.65970898
+Waste of Man-Made Fibres,1988,.155371
+Waste of Man-Made Fibres,1989,-.00083799998
+Waste of Man-Made Fibres,1990,.120953
+Waste of Man-Made Fibres,1991,.31310701
+Waste of Man-Made Fibres,1992,-.069265999
+Waste of Man-Made Fibres,1993,.026143
+Waste of Man-Made Fibres,1994,.032595001
+Waste of Man-Made Fibres,1995,-.12096
+Waste of Man-Made Fibres,1996,.122599
+Waste of Man-Made Fibres,1997,.53173703
+Waste of Man-Made Fibres,1998,.416484
+Waste of Man-Made Fibres,1999,.482869
+Waste of Man-Made Fibres,2000,.220781
+Waste of Man-Made Fibres,2001,.16290601
+Waste of Man-Made Fibres,2002,-.23853999
+Waste of Man-Made Fibres,2003,-.099025004
+Waste of Man-Made Fibres,2004,.158865
+Waste of Man-Made Fibres,2005,.249467
+Waste of Man-Made Fibres,2006,.070520997
+Waste of Man-Made Fibres,2007,.13806701
+Waste of Man-Made Fibres,2008,.28284001
+Waste of Man-Made Fibres,2009,.011099
+Waste of Man-Made Fibres,2010,.018244401
+Waste of Man-Made Fibres,2011,.116757
+Waste of Man-Made Fibres,2012,.068533003
+Waste of Man-Made Fibres,2013,.00347007
+Waste of Man-Made Fibres,2014,-.0170947
+Waste of Man-Made Fibres,2015,-.012527
+Waste of Man-Made Fibres,2016,-.086691
 Watches,1962,.50173998
 Watches,1963,.78240597
 Watches,1964,.47905701
@@ -37140,61 +37138,6 @@ Women's Underwear,2013,-1.14393
 Women's Underwear,2014,-1.15452
 Women's Underwear,2015,-1.62177
 Women's Underwear,2016,-1.33777
-Wood and Animal Hair Waste,1962,-.096169099
-Wood and Animal Hair Waste,1963,-.319199
-Wood and Animal Hair Waste,1964,.179767
-Wood and Animal Hair Waste,1965,.060164999
-Wood and Animal Hair Waste,1966,-.081583001
-Wood and Animal Hair Waste,1967,-.27825001
-Wood and Animal Hair Waste,1968,-.56633198
-Wood and Animal Hair Waste,1969,-.0092749996
-Wood and Animal Hair Waste,1970,-.130566
-Wood and Animal Hair Waste,1971,-1.39566
-Wood and Animal Hair Waste,1972,.276629
-Wood and Animal Hair Waste,1973,.180278
-Wood and Animal Hair Waste,1974,.37384701
-Wood and Animal Hair Waste,1975,.106052
-Wood and Animal Hair Waste,1976,-.101011
-Wood and Animal Hair Waste,1977,-.347166
-Wood and Animal Hair Waste,1978,-.33206999
-Wood and Animal Hair Waste,1979,-.284069
-Wood and Animal Hair Waste,1980,-.49814299
-Wood and Animal Hair Waste,1981,-.55456799
-Wood and Animal Hair Waste,1982,-.375705
-Wood and Animal Hair Waste,1983,-.58807898
-Wood and Animal Hair Waste,1984,-.35898101
-Wood and Animal Hair Waste,1985,-.34199899
-Wood and Animal Hair Waste,1986,-.54470402
-Wood and Animal Hair Waste,1987,-.40288201
-Wood and Animal Hair Waste,1988,-.429708
-Wood and Animal Hair Waste,1989,-.25702801
-Wood and Animal Hair Waste,1990,-.20235801
-Wood and Animal Hair Waste,1991,-.19679099
-Wood and Animal Hair Waste,1992,-.37550899
-Wood and Animal Hair Waste,1993,-.210702
-Wood and Animal Hair Waste,1994,-.088685997
-Wood and Animal Hair Waste,1995,-.60028601
-Wood and Animal Hair Waste,1996,-.26126799
-Wood and Animal Hair Waste,1997,-.301633
-Wood and Animal Hair Waste,1998,-.236866
-Wood and Animal Hair Waste,1999,-.37806401
-Wood and Animal Hair Waste,2000,-.365098
-Wood and Animal Hair Waste,2001,-.47993401
-Wood and Animal Hair Waste,2002,-.52316397
-Wood and Animal Hair Waste,2003,-.61350501
-Wood and Animal Hair Waste,2004,-.52446902
-Wood and Animal Hair Waste,2005,-.448412
-Wood and Animal Hair Waste,2006,-.41417599
-Wood and Animal Hair Waste,2007,-.59483403
-Wood and Animal Hair Waste,2008,-.60108399
-Wood and Animal Hair Waste,2009,-.71036202
-Wood and Animal Hair Waste,2010,-.72965097
-Wood and Animal Hair Waste,2011,-.83038402
-Wood and Animal Hair Waste,2012,-.56511402
-Wood and Animal Hair Waste,2013,-.566158
-Wood and Animal Hair Waste,2014,-.77039403
-Wood and Animal Hair Waste,2015,-.85785598
-Wood and Animal Hair Waste,2016,-.586676
 Wood Boxes,1962,.342632
 Wood Boxes,1963,.50019902
 Wood Boxes,1964,.103818
@@ -37283,6 +37226,61 @@ Wood Panels,2008,-1.94507
 Wood Panels,2009,-1.41574
 Wood Panels,2010,-.46456799
 Wood Panels,2014,0
+Wood and Animal Hair Waste,1962,-.096169099
+Wood and Animal Hair Waste,1963,-.319199
+Wood and Animal Hair Waste,1964,.179767
+Wood and Animal Hair Waste,1965,.060164999
+Wood and Animal Hair Waste,1966,-.081583001
+Wood and Animal Hair Waste,1967,-.27825001
+Wood and Animal Hair Waste,1968,-.56633198
+Wood and Animal Hair Waste,1969,-.0092749996
+Wood and Animal Hair Waste,1970,-.130566
+Wood and Animal Hair Waste,1971,-1.39566
+Wood and Animal Hair Waste,1972,.276629
+Wood and Animal Hair Waste,1973,.180278
+Wood and Animal Hair Waste,1974,.37384701
+Wood and Animal Hair Waste,1975,.106052
+Wood and Animal Hair Waste,1976,-.101011
+Wood and Animal Hair Waste,1977,-.347166
+Wood and Animal Hair Waste,1978,-.33206999
+Wood and Animal Hair Waste,1979,-.284069
+Wood and Animal Hair Waste,1980,-.49814299
+Wood and Animal Hair Waste,1981,-.55456799
+Wood and Animal Hair Waste,1982,-.375705
+Wood and Animal Hair Waste,1983,-.58807898
+Wood and Animal Hair Waste,1984,-.35898101
+Wood and Animal Hair Waste,1985,-.34199899
+Wood and Animal Hair Waste,1986,-.54470402
+Wood and Animal Hair Waste,1987,-.40288201
+Wood and Animal Hair Waste,1988,-.429708
+Wood and Animal Hair Waste,1989,-.25702801
+Wood and Animal Hair Waste,1990,-.20235801
+Wood and Animal Hair Waste,1991,-.19679099
+Wood and Animal Hair Waste,1992,-.37550899
+Wood and Animal Hair Waste,1993,-.210702
+Wood and Animal Hair Waste,1994,-.088685997
+Wood and Animal Hair Waste,1995,-.60028601
+Wood and Animal Hair Waste,1996,-.26126799
+Wood and Animal Hair Waste,1997,-.301633
+Wood and Animal Hair Waste,1998,-.236866
+Wood and Animal Hair Waste,1999,-.37806401
+Wood and Animal Hair Waste,2000,-.365098
+Wood and Animal Hair Waste,2001,-.47993401
+Wood and Animal Hair Waste,2002,-.52316397
+Wood and Animal Hair Waste,2003,-.61350501
+Wood and Animal Hair Waste,2004,-.52446902
+Wood and Animal Hair Waste,2005,-.448412
+Wood and Animal Hair Waste,2006,-.41417599
+Wood and Animal Hair Waste,2007,-.59483403
+Wood and Animal Hair Waste,2008,-.60108399
+Wood and Animal Hair Waste,2009,-.71036202
+Wood and Animal Hair Waste,2010,-.72965097
+Wood and Animal Hair Waste,2011,-.83038402
+Wood and Animal Hair Waste,2012,-.56511402
+Wood and Animal Hair Waste,2013,-.566158
+Wood and Animal Hair Waste,2014,-.77039403
+Wood and Animal Hair Waste,2015,-.85785598
+Wood and Animal Hair Waste,2016,-.586676
 Woods and Resin Chemicals,1962,-.18828601
 Woods and Resin Chemicals,1963,-.418136
 Woods and Resin Chemicals,1964,.230694
@@ -37912,6 +37910,47 @@ X-Ray Equipment,2013,2.1192
 X-Ray Equipment,2014,2.0956399
 X-Ray Equipment,2015,2.11712
 X-Ray Equipment,2016,2.4240501
+Yarn Preparing Machines,1976,.99920601
+Yarn Preparing Machines,1977,1.3105201
+Yarn Preparing Machines,1978,1.2655801
+Yarn Preparing Machines,1979,1.34997
+Yarn Preparing Machines,1980,1.3226399
+Yarn Preparing Machines,1981,1.44452
+Yarn Preparing Machines,1982,1.20033
+Yarn Preparing Machines,1983,1.14375
+Yarn Preparing Machines,1984,.890338
+Yarn Preparing Machines,1985,.95662498
+Yarn Preparing Machines,1986,1.41611
+Yarn Preparing Machines,1987,1.25572
+Yarn Preparing Machines,1988,1.36252
+Yarn Preparing Machines,1989,1.39985
+Yarn Preparing Machines,1990,.85965598
+Yarn Preparing Machines,1991,1.4656301
+Yarn Preparing Machines,1992,1.2232
+Yarn Preparing Machines,1993,1.01535
+Yarn Preparing Machines,1994,1.0985
+Yarn Preparing Machines,1995,1.85637
+Yarn Preparing Machines,1996,1.57812
+Yarn Preparing Machines,1997,1.5702
+Yarn Preparing Machines,1998,1.2450401
+Yarn Preparing Machines,1999,1.51993
+Yarn Preparing Machines,2000,1.28512
+Yarn Preparing Machines,2001,1.18802
+Yarn Preparing Machines,2002,1.07212
+Yarn Preparing Machines,2003,2.5818601
+Yarn Preparing Machines,2004,.81984901
+Yarn Preparing Machines,2005,.54335302
+Yarn Preparing Machines,2006,1.46934
+Yarn Preparing Machines,2007,1.60331
+Yarn Preparing Machines,2008,.69016701
+Yarn Preparing Machines,2009,.41743001
+Yarn Preparing Machines,2010,1.52512
+Yarn Preparing Machines,2011,1.73625
+Yarn Preparing Machines,2012,1.38069
+Yarn Preparing Machines,2013,1.05495
+Yarn Preparing Machines,2014,1.0674599
+Yarn Preparing Machines,2015,.86858898
+Yarn Preparing Machines,2016,.79994297
 Yarn of Less Than 85% Synthetic Fibers,1980,1.74647
 Yarn of Less Than 85% Synthetic Fibers,1981,1.59216
 Yarn of Less Than 85% Synthetic Fibers,1982,1.66518
@@ -38087,47 +38126,6 @@ Yarn of Textile Fibers,2013,.88064897
 Yarn of Textile Fibers,2014,.69314897
 Yarn of Textile Fibers,2015,.478982
 Yarn of Textile Fibers,2016,.33285001
-Yarn Preparing Machines,1976,.99920601
-Yarn Preparing Machines,1977,1.3105201
-Yarn Preparing Machines,1978,1.2655801
-Yarn Preparing Machines,1979,1.34997
-Yarn Preparing Machines,1980,1.3226399
-Yarn Preparing Machines,1981,1.44452
-Yarn Preparing Machines,1982,1.20033
-Yarn Preparing Machines,1983,1.14375
-Yarn Preparing Machines,1984,.890338
-Yarn Preparing Machines,1985,.95662498
-Yarn Preparing Machines,1986,1.41611
-Yarn Preparing Machines,1987,1.25572
-Yarn Preparing Machines,1988,1.36252
-Yarn Preparing Machines,1989,1.39985
-Yarn Preparing Machines,1990,.85965598
-Yarn Preparing Machines,1991,1.4656301
-Yarn Preparing Machines,1992,1.2232
-Yarn Preparing Machines,1993,1.01535
-Yarn Preparing Machines,1994,1.0985
-Yarn Preparing Machines,1995,1.85637
-Yarn Preparing Machines,1996,1.57812
-Yarn Preparing Machines,1997,1.5702
-Yarn Preparing Machines,1998,1.2450401
-Yarn Preparing Machines,1999,1.51993
-Yarn Preparing Machines,2000,1.28512
-Yarn Preparing Machines,2001,1.18802
-Yarn Preparing Machines,2002,1.07212
-Yarn Preparing Machines,2003,2.5818601
-Yarn Preparing Machines,2004,.81984901
-Yarn Preparing Machines,2005,.54335302
-Yarn Preparing Machines,2006,1.46934
-Yarn Preparing Machines,2007,1.60331
-Yarn Preparing Machines,2008,.69016701
-Yarn Preparing Machines,2009,.41743001
-Yarn Preparing Machines,2010,1.52512
-Yarn Preparing Machines,2011,1.73625
-Yarn Preparing Machines,2012,1.38069
-Yarn Preparing Machines,2013,1.05495
-Yarn Preparing Machines,2014,1.0674599
-Yarn Preparing Machines,2015,.86858898
-Yarn Preparing Machines,2016,.79994297
 Zinc,1962,.092558503
 Zinc,1963,.351475
 Zinc,1964,.49271199
@@ -38238,3 +38236,5 @@ Zinc Ore,2013,-.99310899
 Zinc Ore,2014,-1.13146
 Zinc Ore,2015,-1.07955
 Zinc Ore,2016,-1.36801
+"live animals used for food, misc",1962,-1.08008
+"live animals used for food, misc",1963,-1.13465
