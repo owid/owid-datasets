@@ -1,0 +1,53 @@
+{
+  "name": "Biomass and taxa abundance (Bar-On et al. 2018)",
+  "title": "Biomass and taxa abundance (Bar-On et al. 2018)",
+  "id": 3096,
+  "description": "Estimates of the global biomass (measured in tonnes of carbon) and abundance (number of individuals) of different taxonomic groups.\n\nDue to large uncertainty for some groups, these are used as order-of-magnitude estimates and come with notable error margins.",
+  "sources": [
+    {
+      "name": "Biomass and taxa abundance (Bar-On et al. 2018)",
+      "dataPublishedBy": "Bar-On, Y. M., Phillips, R., & Milo, R. (2018). The biomass distribution on Earth. Proceedings of the National Academy of Sciences, 201711842.",
+      "link": "http://www.pnas.org/content/115/25/6506",
+      "retrievedDate": "16th November 2018",
+      "additionalInfo": "Estimates of the global biomass (measured in tonnes of carbon) and abundance (number of individuals) of different taxonomic groups.\n\nDue to large uncertainty for some groups, these are used as order-of-magnitude estimates and come with notable error margins."
+    }
+  ],
+  "owidTags": [
+    "Biodiversity"
+  ],
+  "resources": [
+    {
+      "path": "Biomass and taxa abundance (Bar-On et al. 2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Global biomass",
+            "type": "any",
+            "description": "Global biomass of taxonomic groups, measured in tonnes of carbon.",
+            "owidDisplaySettings": {
+              "name": "Global biomass",
+              "unit": "tonnes carbon",
+              "shortUnit": "t"
+            }
+          },
+          {
+            "name": "Abundance of organisms",
+            "type": "any",
+            "description": "Global number of individuals of a given taxonomic group.",
+            "owidDisplaySettings": {
+              "name": "Abundance of organisms"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
