@@ -1,12 +1,12 @@
 {
-  "name": "Consumption vs. production-based CO2 emissions shares (based on GCP & UN)",
-  "title": "Consumption vs. production-based CO2 emissions shares (based on GCP & UN)",
+  "name": "Consumption vs. production-based CO₂ emissions shares (based on GCP & UN)",
+  "title": "Consumption vs. production-based CO₂ emissions shares (based on GCP & UN)",
   "id": 3106,
   "description": "Variables include each country, region and World Bank income group's share of the global population; production-based (territorial); and consumption-based (trade-adjusted) carbon dioxide emissions. \n\nThis was calculated by Our World in Data based on CO₂ figures produced by Le Quéré et al. (2017). Global Carbon Project. This is given as production (territorial) emissions in addition to trade-adjusted consumption-based emissions. Consumption-based emissions are national or regional emissions which have been adjusted for trade (i.e. territorial/production emissions minus emissions embedded in exports, plus emissions embedded in imports). If a country's consumption-based emissions are higher than its production emissions it is a net importer of carbon dioxide.\n\nNote that consumption-based emissions are not available for all countries; although those without complete data are a small fraction (3%) of the global total. Each country's share of world emissions are based on the share of the global total minus categories termed 'bunkers' and 'statistical differences' (which include cross-boundary emissions such as international travel and shipping.\n\nCalculation of each country's share of the global population is calculated using national and global population figures from the UN World Population Prospects (UNWPPP, 2018). \n\nFull reference for the Global Carbon Project:\nFull reference: Le Quéré, Corinne, Robbie M. Andrew, Pierre Friedlingstein, Stephen Sitch, Julia Pongratz, Andrew C. Manning, Jan Ivar Korsbakken, Glen P. Peters, Josep G. Canadell, Robert B. Jackson, Thomas A. Boden, Pieter P. Tans, Oliver D. Andrews, Vivek Arora, Dorothee C. E. Bakker, Leticia Barbero, Meike Becker, Richard A. Betts, Laurent Bopp, Frédéric Chevallier, Louise P. Chini, Philippe Ciais, Cathy Cosca, Jessica Cross, Kim Currie, Thomas Gasser, Ian Harris, Judith Hauck, Vanessa Haverd, Richard A. Houghton, Christopher W. Hunt, George Hurtt, Tatiana Ilyina, Atul K. Jain, Etsushi Kato, Markus Kautz, Ralph F. Keeling, Kees Klein Goldewijk, Arne Körtzinger, Peter Landschützer, Nathalie Lefèvre, Andrew Lenton, Sebastian Lienert, Ivan Lima, Danica Lombardozzi, Nicolas Metzl, Frank Millero, Pedro M. S. Monteiro, David R. Munro, Julia E. M. S. Nabel, Shin-ichiro Nakaoka, Yukihiro Nojiri, X. Antoni Padin, Benjamin Pfeil, Denis Pierrot, Benjamin Poulter, Gregor Rehder, Janet Reimer, Christian Rödenbeck, Jörg Schwinger, Roland Séférian, Ingunn Skjelvan, Benjamin D. Stocker, Hanqin Tian, Bronte Tilbrook, Ingrid T. van der Laan-Luijkx, Guido R. van der Werf, Steven M. A. C. van Heuven, Nicolas Viovy, Nicolas Vuichard, Anthony P. Walker, Andrew J. Watson, Andrew J. Wiltshire, Sönke Zaehle, Dan Zhu: Global Carbon Budget 2017, Earth Syst. Sci. Data Discussions, 2017. https://doi.org/10.5194/essdd-2017-123.",
   "sources": [
     {
-      "name": "Consumption vs. production-based CO2 emissions shares (based on GCP & UN)",
-      "dataPublishedBy": "Calculated by OWID based on CO2 estimates from the Global Carbon Project (GCP) and UN Population",
+      "name": "Consumption vs. production-based CO₂ emissions shares (based on GCP & UN)",
+      "dataPublishedBy": "Calculated by OWID based on CO₂ estimates from the Global Carbon Project (GCP) and UN Population",
       "link": "http://www.globalcarbonproject.org/carbonbudget/17/data.htm; https://population.un.org/wpp/Download/Standard/Population/",
       "retrievedDate": "19th November 2018",
       "additionalInfo": "Variables include each country, region and World Bank income group's share of the global population; production-based (territorial); and consumption-based (trade-adjusted) carbon dioxide emissions. \n\nThis was calculated by Our World in Data based on CO₂ figures produced by Le Quéré et al. (2017). Global Carbon Project. This is given as production (territorial) emissions in addition to trade-adjusted consumption-based emissions. Consumption-based emissions are national or regional emissions which have been adjusted for trade (i.e. territorial/production emissions minus emissions embedded in exports, plus emissions embedded in imports). If a country's consumption-based emissions are higher than its production emissions it is a net importer of carbon dioxide.\n\nNote that consumption-based emissions are not available for all countries; although those without complete data are a small fraction (3%) of the global total. Each country's share of world emissions are based on the share of the global total minus categories termed 'bunkers' and 'statistical differences' (which include cross-boundary emissions such as international travel and shipping.\n\nCalculation of each country's share of the global population is calculated using national and global population figures from the UN World Population Prospects (UNWPPP, 2018). \n\nFull reference for the Global Carbon Project:\nFull reference: Le Quéré, Corinne, Robbie M. Andrew, Pierre Friedlingstein, Stephen Sitch, Julia Pongratz, Andrew C. Manning, Jan Ivar Korsbakken, Glen P. Peters, Josep G. Canadell, Robert B. Jackson, Thomas A. Boden, Pieter P. Tans, Oliver D. Andrews, Vivek Arora, Dorothee C. E. Bakker, Leticia Barbero, Meike Becker, Richard A. Betts, Laurent Bopp, Frédéric Chevallier, Louise P. Chini, Philippe Ciais, Cathy Cosca, Jessica Cross, Kim Currie, Thomas Gasser, Ian Harris, Judith Hauck, Vanessa Haverd, Richard A. Houghton, Christopher W. Hunt, George Hurtt, Tatiana Ilyina, Atul K. Jain, Etsushi Kato, Markus Kautz, Ralph F. Keeling, Kees Klein Goldewijk, Arne Körtzinger, Peter Landschützer, Nathalie Lefèvre, Andrew Lenton, Sebastian Lienert, Ivan Lima, Danica Lombardozzi, Nicolas Metzl, Frank Millero, Pedro M. S. Monteiro, David R. Munro, Julia E. M. S. Nabel, Shin-ichiro Nakaoka, Yukihiro Nojiri, X. Antoni Padin, Benjamin Pfeil, Denis Pierrot, Benjamin Poulter, Gregor Rehder, Janet Reimer, Christian Rödenbeck, Jörg Schwinger, Roland Séférian, Ingunn Skjelvan, Benjamin D. Stocker, Hanqin Tian, Bronte Tilbrook, Ingrid T. van der Laan-Luijkx, Guido R. van der Werf, Steven M. A. C. van Heuven, Nicolas Viovy, Nicolas Vuichard, Anthony P. Walker, Andrew J. Watson, Andrew J. Wiltshire, Sönke Zaehle, Dan Zhu: Global Carbon Budget 2017, Earth Syst. Sci. Data Discussions, 2017. https://doi.org/10.5194/essdd-2017-123.",
@@ -18,7 +18,7 @@
   ],
   "resources": [
     {
-      "path": "Consumption vs. production-based CO2 emissions shares (based on GCP & UN).csv",
+      "path": "Consumption vs. production-based CO₂ emissions shares (based on GCP & UN).csv",
       "schema": {
         "fields": [
           {
@@ -33,19 +33,31 @@
             "name": "Share of global population (%)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Share of global population",
+              "unit": "%",
+              "shortUnit": "%"
+            }
           },
           {
             "name": "Consumption-based CO2 emissions (% of global total)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Consumption-based CO2 emissions (% of global total)",
+              "unit": "%",
+              "shortUnit": "%"
+            }
           },
           {
             "name": "Production-based CO2 emissions (% of global total)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Production-based CO2 emissions (% of global total)",
+              "unit": "%",
+              "shortUnit": "%"
+            }
           },
           {
             "name": "Consumption-based CO2 per capita",

@@ -1,4 +1,4 @@
-# Consumption vs. production-based CO2 emissions shares (based on GCP & UN)
+# Consumption vs. production-based CO₂ emissions shares (based on GCP & UN)
 
 Variables include each country, region and World Bank income group's share of the global population; production-based (territorial); and consumption-based (trade-adjusted) carbon dioxide emissions. 
 
