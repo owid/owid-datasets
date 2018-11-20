@@ -44,7 +44,7 @@
             "type": "any",
             "description": null,
             "owidDisplaySettings": {
-              "name": "Consumption-based CO2 emissions (% of global total)",
+              "name": "Consumption-based CO₂ emissions (% of global total)",
               "unit": "%",
               "shortUnit": "%"
             }
@@ -54,22 +54,30 @@
             "type": "any",
             "description": null,
             "owidDisplaySettings": {
-              "name": "Production-based CO2 emissions (% of global total)",
+              "name": "Production-based CO₂ emissions (% of global total)",
               "unit": "%",
               "shortUnit": "%"
             }
           },
           {
-            "name": "Consumption-based CO2 per capita",
+            "name": "Consumption-based CO₂ per capita",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Consumption-based CO₂ per capita",
+              "unit": "tonnes CO₂ per capita",
+              "shortUnit": "t"
+            }
           },
           {
-            "name": "Production-based CO2 per capita",
+            "name": "Production-based CO₂ per capita",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Production-based CO₂ per capita",
+              "unit": "tonnes CO₂ per capita",
+              "shortUnit": "t"
+            }
           }
         ]
       }
