@@ -1,0 +1,107 @@
+{
+  "name": "Terrorist attacks by weapon type - Global Terrorism Database (2018)",
+  "title": "Terrorist attacks by weapon type - Global Terrorism Database (2018)",
+  "id": 3109,
+  "description": "The general weapon used in a given terrorist attack is recorded in the following categories:\n\n1 = Biological\nA weapon whose components are produced from pathogenic microorganisms or toxic substances of biological origins.\n\n2 = Chemical\nA weapon produced from toxic chemicals that is contained in a delivery system and dispersed as a liquid, vapor, or aerosol. This category includes chemical weapons delivered via explosive device.\n\n3 = Radiological\nA weapon whose components are produced from radioactive materials that emit ionizing radiation and can take many forms.\n\n4 = Nuclear\nA weapon which draws its explosive force from fission, fusion, or a combination of these methods.\n\n5 = Firearms\nA weapon which is capable of firing a projectile using an explosive charge as a propellant.\n\n6 = Explosives\nA weapon composed of energetically unstable material undergoing rapid decomposition and releasing a pressure wave that causes physical damage to the surrounding environment. Note that chemical weapons delivered via explosive are classified as “Chemical” with weapon subtype “Explosives.”\n\n7 = Fake Weapons\nA weapon that was claimed by the perpetrator at the time of the incident to be real but was discovered after-the-fact to be non-existent or incapable of producing the desired effects.\n\n8 = Incendiary\nA weapon that is capable of catching fire, causing fire, or burning readily and produces intensely hot fire when exploded.\n\n9 = Melee\nA weapon—targeting people rather than property—that does not involve a projectile in which the user and target are in contact with it simultaneously.\n\n10 = Vehicle\nAn automobile that is used in an incident that does not incorporate the use of explosives such as a car bomb or truck bomb.\n\n11 = Sabotage Equipment\nA weapon that is used in the demolition or destruction of property (e.g., removing bolts from a train tracks).\n\n12 = Other\nA weapon that has been identified but does not fit into one of the above categories.\n\n13 = Unknown\nThe weapon type cannot be determined from the available information. ",
+  "sources": [
+    {
+      "name": "Terrorist attacks by weapon type - Global Terrorism Database (2018)",
+      "link": "https://www.start.umd.edu/gtd/",
+      "retrievedDate": "22nd November 2018",
+      "dataPublishedBy": "Global Terrorism Database (GTD). University of Maryland.",
+      "additionalInfo": "The general weapon used in a given terrorist attack is recorded in the following categories:\n\n1 = Biological\nA weapon whose components are produced from pathogenic microorganisms or toxic substances of biological origins.\n\n2 = Chemical\nA weapon produced from toxic chemicals that is contained in a delivery system and dispersed as a liquid, vapor, or aerosol. This category includes chemical weapons delivered via explosive device.\n\n3 = Radiological\nA weapon whose components are produced from radioactive materials that emit ionizing radiation and can take many forms.\n\n4 = Nuclear\nA weapon which draws its explosive force from fission, fusion, or a combination of these methods.\n\n5 = Firearms\nA weapon which is capable of firing a projectile using an explosive charge as a propellant.\n\n6 = Explosives\nA weapon composed of energetically unstable material undergoing rapid decomposition and releasing a pressure wave that causes physical damage to the surrounding environment. Note that chemical weapons delivered via explosive are classified as “Chemical” with weapon subtype “Explosives.”\n\n7 = Fake Weapons\nA weapon that was claimed by the perpetrator at the time of the incident to be real but was discovered after-the-fact to be non-existent or incapable of producing the desired effects.\n\n8 = Incendiary\nA weapon that is capable of catching fire, causing fire, or burning readily and produces intensely hot fire when exploded.\n\n9 = Melee\nA weapon—targeting people rather than property—that does not involve a projectile in which the user and target are in contact with it simultaneously.\n\n10 = Vehicle\nAn automobile that is used in an incident that does not incorporate the use of explosives such as a car bomb or truck bomb.\n\n11 = Sabotage Equipment\nA weapon that is used in the demolition or destruction of property (e.g., removing bolts from a train tracks).\n\n12 = Other\nA weapon that has been identified but does not fit into one of the above categories.\n\n13 = Unknown\nThe weapon type cannot be determined from the available information. "
+    }
+  ],
+  "owidTags": [
+    "Terrorism"
+  ],
+  "resources": [
+    {
+      "path": "Terrorist attacks by weapon type - Global Terrorism Database (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Biological",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Chemical",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Explosives",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fake Weapons",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Firearms",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Incendiary",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Melee",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Other",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Radiological",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Sabotage Equipment",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Unknown",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Vehicle",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
