@@ -1,4 +1,4 @@
-# Global Primary Energy Consumption - Vaclav Smil (2017)
+# Global Primary Energy Consumption - Vaclav Smil (2017) & BP Statistics
 
 This data comprises of a combination of data from Appendix A of Vaclav Smil's Updated and Revised Edition of his book, 'Energy Transitions: Global and National Perspectives' (2017). & BP Statistical Review of World Energy.
 
