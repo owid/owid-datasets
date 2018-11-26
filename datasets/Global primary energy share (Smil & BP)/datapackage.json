@@ -1,0 +1,89 @@
+{
+  "name": "Global primary energy share (Smil & BP)",
+  "title": "Global primary energy share (Smil & BP)",
+  "id": 3110,
+  "description": "Global share of primary energy consumption by source, calculated by Our World in Data based on absolute energy consumption figures from Smil (2017) and BP Statistical Review of World Energy (2018).\n\nThis data comprises of a combination of data from Appendix A of Vaclav Smil's Updated and Revised Edition of his book, 'Energy Transitions: Global and National Perspectives' (2017). & BP Statistical Review of World Energy.\n\nAll data prior to the year 1965 is sourced from Smil (2017). All data from 1965 onwards, with the exception of traditional biomass is sourced from BP Statistical Review. Smil's estimates of traditional biomass have been used for the full series, with interpolation of annual changes by Our World in Data between reported 5-year increments by Smil. Traditional biomass for the years 2016 and 2017 have been estimated based on the approximate rate of change in the previous 5 years from Smil data.\n\nData represents primary energy (rather than final energy) consumption. 'Other renewables' represents all renewable sources minus solar, wind, and hydropower (e.g. geothermal, wave and tidal, and modern biofuels).\n",
+  "sources": [
+    {
+      "name": "Global primary energy share (Smil & BP)",
+      "dataPublishedBy": "Vaclav Smil (2017). Energy Transitions: Global and National Perspectives. & BP Statistical Review of World Energy.",
+      "link": "http://vaclavsmil.com/2016/12/14/energy-transitions-global-and-national-perspectives-second-expanded-and-updated-edition/ ; http://www.bp.com/statisticalreview",
+      "retrievedDate": "26th November 2018",
+      "additionalInfo": "Global share of primary energy consumption by source, calculated by Our World in Data based on absolute energy consumption figures from Smil (2017) and BP Statistical Review of World Energy (2018).\n\nThis data comprises of a combination of data from Appendix A of Vaclav Smil's Updated and Revised Edition of his book, 'Energy Transitions: Global and National Perspectives' (2017). & BP Statistical Review of World Energy.\n\nAll data prior to the year 1965 is sourced from Smil (2017). All data from 1965 onwards, with the exception of traditional biomass is sourced from BP Statistical Review. Smil's estimates of traditional biomass have been used for the full series, with interpolation of annual changes by Our World in Data between reported 5-year increments by Smil. Traditional biomass for the years 2016 and 2017 have been estimated based on the approximate rate of change in the previous 5 years from Smil data.\n\nData represents primary energy (rather than final energy) consumption. 'Other renewables' represents all renewable sources minus solar, wind, and hydropower (e.g. geothermal, wave and tidal, and modern biofuels).\n"
+    }
+  ],
+  "owidTags": [
+    "Energy Production & Changing Energy Sources"
+  ],
+  "resources": [
+    {
+      "path": "Global primary energy share (Smil & BP).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Coal (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Solar (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Crude oil (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Natural gas (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Traditional biofuels (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Other renewables (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Hydropower (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Nuclear (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Wind (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
