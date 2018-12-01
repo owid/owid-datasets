@@ -1,0 +1,46 @@
+{
+  "name": "CO2 concentrations - NOAA (2018)",
+  "title": "CO2 concentrations - NOAA (2018)",
+  "id": 418,
+  "description": "Annual mean carbon dioxide (CO₂) concentration data from the Mauna Loa monitoring station. \n\nData from 1958 through 1974 have been obtained by C. David Keeling of the Scripps Institution of Oceanography (SIO) and were obtained from the Scripps website (scrippsco2.ucsd.edu).\n\n",
+  "sources": [
+    {
+      "name": "CO2 concentrations - NOAA (2018)",
+      "dataPublishedBy": "NOAA/ESRL",
+      "dataPublisherSource": "Ed Dlugokencky and Pieter Tans, NOAA/ESRL",
+      "link": "https://www.esrl.noaa.gov/gmd/ccgg/trends/data.html",
+      "retrievedDate": "01/12/2018",
+      "additionalInfo": "Annual mean carbon dioxide (CO₂) concentration data from the Mauna Loa monitoring station. \n\nData from 1958 through 1974 have been obtained by C. David Keeling of the Scripps Institution of Oceanography (SIO) and were obtained from the Scripps website (scrippsco2.ucsd.edu).\n\n"
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "CO2 concentrations - NOAA (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "CO2 concentrations (NOAA, 2018)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {
+              "name": "CO₂ concentration",
+              "unit": "parts per million",
+              "shortUnit": "ppm"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
