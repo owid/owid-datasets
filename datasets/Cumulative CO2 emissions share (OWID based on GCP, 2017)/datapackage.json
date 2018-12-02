@@ -33,7 +33,11 @@
             "name": "Cumulative CO2 emissions share (OWID based on GCP, 2017)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Share of global cumulative CO₂ emissions",
+              "unit": "%",
+              "shortUnit": "%"
+            }
           }
         ]
       }
