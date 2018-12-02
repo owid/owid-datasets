@@ -2,7 +2,7 @@
   "name": "Cumulative CO2 emissions (OWID based on GCP, 2017)",
   "title": "Cumulative CO2 emissions (OWID based on GCP, 2017)",
   "id": 445,
-  "description": "\n\nData converted from carbon into carbon dioxide (using conversion factor of 3.67). Data for Australia appears to be negative from 1851-1858; for clarity, these figures have been renormalised to zero.",
+  "description": "Cumulative carbon dioxide (CO₂) emissions have been calculated by Our World in Data based on annual CO₂ emissions published by the Global Carbon Project (GCP). By summing the annual emissions to a given year we have calculated the cumulative total. \n\nData converted from carbon into carbon dioxide (using conversion factor of 3.67). Data for Australia appears to be negative from 1851-1858; for clarity, these figures have been renormalised to zero.\n\nArchived data is held at the Carbon Dioxide Information Analysis Centre (CDIAC). Reference: Tom Boden and Bob Andres (Oak Ridge National Laboratory); Gregg Marland (Appalachian State University). Available at: http://cdiac.ornl.gov/",
   "sources": [
     {
       "name": "Cumulative CO2 emissions (OWID based on GCP, 2017)",
@@ -10,7 +10,7 @@
       "dataPublisherSource": "Carbon Dioxide Information Analysis Centre (CDIAC)",
       "link": "http://www.globalcarbonproject.org/carbonbudget/17/data.htm",
       "retrievedDate": "02/12/18",
-      "additionalInfo": "\n\nData converted from carbon into carbon dioxide (using conversion factor of 3.67). Data for Australia appears to be negative from 1851-1858; for clarity, these figures have been renormalised to zero."
+      "additionalInfo": "Cumulative carbon dioxide (CO₂) emissions have been calculated by Our World in Data based on annual CO₂ emissions published by the Global Carbon Project (GCP). By summing the annual emissions to a given year we have calculated the cumulative total. \n\nData converted from carbon into carbon dioxide (using conversion factor of 3.67). Data for Australia appears to be negative from 1851-1858; for clarity, these figures have been renormalised to zero.\n\nArchived data is held at the Carbon Dioxide Information Analysis Centre (CDIAC). Reference: Tom Boden and Bob Andres (Oak Ridge National Laboratory); Gregg Marland (Appalachian State University). Available at: http://cdiac.ornl.gov/"
     }
   ],
   "owidTags": [
