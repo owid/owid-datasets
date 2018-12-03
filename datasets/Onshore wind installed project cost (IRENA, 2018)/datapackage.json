@@ -32,19 +32,31 @@
             "name": "Average onshore wind installed cost (2016 $/kW)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Average onshore wind installed cost",
+              "unit": "2016USD/kW",
+              "shortUnit": "$"
+            }
           },
           {
             "name": "Max onshore wind installed cost (2016 $/kW)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Maximum onshore wind installed cost",
+              "unit": "2016 USD/kW",
+              "shortUnit": "$"
+            }
           },
           {
             "name": "Min onshore wind installed cost (2016 $/kW)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Minimum onshore wind installed cost",
+              "unit": "2016 USD/kW",
+              "shortUnit": "$"
+            }
           }
         ]
       }
