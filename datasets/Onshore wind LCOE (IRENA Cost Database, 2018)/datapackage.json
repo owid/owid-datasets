@@ -32,7 +32,11 @@
             "name": "Onshore wind LCOE (2016$/kWh)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Onshore wind LCOE",
+              "unit": "2016 $/kWh",
+              "shortUnit": "$"
+            }
           }
         ]
       }
