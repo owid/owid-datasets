@@ -1,0 +1,42 @@
+{
+  "name": "Annual share of CO2 emissions (OWID based on GCP, 2017)",
+  "title": "Annual share of CO2 emissions (OWID based on GCP, 2017)",
+  "id": 3116,
+  "description": "Each country's share of global carbon dioxide (CO₂) has been calculated by Our World in Data based on annual national emissions data published by the Global Carbon Project (GCP). This is calculated as each country's share of the sum of all country emissions; this does not include international aviation and shipping ('bunkers') and 'statistical differences'.\n\nRaw emissions data was from tonnes of carbon to tonnes of carbon dioxide (CO₂) using a conversion factor of 3.664.\n\nArchived data is held at the Carbon Dioxide Information Analysis Centre (CDIAC). Reference: Tom Boden and Bob Andres (Oak Ridge National Laboratory); Gregg Marland (Appalachian State University). Available at: http://cdiac.ornl.gov/",
+  "sources": [
+    {
+      "name": "Annual share of CO2 emissions (OWID based on GCP, 2017)",
+      "dataPublishedBy": "Le Quéré et al. (2017). Global Carbon Project.",
+      "dataPublisherSource": "UNFCCC and CDIAC",
+      "link": "http://www.globalcarbonproject.org/carbonbudget/17/data.htm",
+      "retrievedDate": "3rd December 2018",
+      "additionalInfo": "Each country's share of global carbon dioxide (CO₂) has been calculated by Our World in Data based on annual national emissions data published by the Global Carbon Project (GCP). This is calculated as each country's share of the sum of all country emissions; this does not include international aviation and shipping ('bunkers') and 'statistical differences'.\n\nRaw emissions data was from tonnes of carbon to tonnes of carbon dioxide (CO₂) using a conversion factor of 3.664.\n\nArchived data is held at the Carbon Dioxide Information Analysis Centre (CDIAC). Reference: Tom Boden and Bob Andres (Oak Ridge National Laboratory); Gregg Marland (Appalachian State University). Available at: http://cdiac.ornl.gov/"
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "Annual share of CO2 emissions (OWID based on GCP, 2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Annual share of CO2 emissions (OWID based on GCP, 2017)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
