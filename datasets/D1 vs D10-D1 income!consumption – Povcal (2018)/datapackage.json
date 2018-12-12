@@ -1,0 +1,66 @@
+{
+  "name": "D1 vs D10-D1 income/consumption – Povcal (2018)",
+  "title": "D1 vs D10-D1 income/consumption – Povcal (2018)",
+  "id": 3158,
+  "description": "",
+  "sources": [
+    {
+      "name": "PovcalNet (2018)",
+      "dataPublishedBy": "PovcalNet: the online tool for poverty measurement developed by the Development Research Group of the World Bank",
+      "dataPublisherSource": "Income and consumption surveys",
+      "link": "http://iresearch.worldbank.org/PovcalNet/povOnDemand.aspx",
+      "retrievedDate": "11/12/18"
+    }
+  ],
+  "owidTags": [
+    "Income Inequality"
+  ],
+  "resources": [
+    {
+      "path": "D1 vs D10-D1 income/consumption – Povcal (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Bottom decile income/consumption per day",
+            "type": "any",
+            "description": "Average income or consumption per day of the bottom decile.",
+            "owidDisplaySettings": {
+              "name": "Bottom decile income/consumption per day",
+              "unit": "$/day"
+            }
+          },
+          {
+            "name": "Difference between top and bottom decile income/consumption per day",
+            "type": "any",
+            "description": "The absolute difference between the top and bottom decile's average income/consumption per day.",
+            "owidDisplaySettings": {
+              "name": "Difference between top and bottom decile income/consumption per day"
+            }
+          },
+          {
+            "name": "World Bank region (including Advanced Industrialized category)",
+            "type": "any",
+            "description": "Region as defined by World Bank, including Advanced Industrialized country category taken from 'Poverty and Shared Prosperity: Taking on Inequality' World Bank (2016).",
+            "owidDisplaySettings": {
+              "name": "Region"
+            }
+          },
+          {
+            "name": "pop",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
