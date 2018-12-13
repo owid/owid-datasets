@@ -30,19 +30,19 @@
             "type": "year"
           },
           {
-            "name": "Deaths from Smallpox",
+            "name": "Deaths from Smallpox in London 1629-1902 (OWID, 2017)",
             "type": "any",
             "description": "",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Deaths from all causes",
+            "name": "Deaths from all causes in London 1629-1902 (OWID, 2017)",
             "type": "any",
             "description": "",
             "owidDisplaySettings": {}
           },
           {
-            "name": "Smallpox death rate",
+            "name": "Smallpox death rate in London 1629-1902 (OWID, 2017)",
             "type": "any",
             "description": "Deaths from smallpox per 100 deaths from all causes",
             "owidDisplaySettings": {}
