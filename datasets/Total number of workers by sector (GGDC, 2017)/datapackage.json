@@ -1,6 +1,6 @@
 {
-  "name": "Total number of workers by sector",
-  "title": "Total number of workers by sector",
+  "name": "Total number of workers by sector (GGDC, 2017)",
+  "title": "Total number of workers by sector (GGDC, 2017)",
   "id": 1881,
   "description": "",
   "sources": [
@@ -18,7 +18,7 @@
   ],
   "resources": [
     {
-      "path": "Total number of workers by sector.csv",
+      "path": "Total number of workers by sector (GGDC, 2017).csv",
       "schema": {
         "fields": [
           {
