@@ -1,0 +1,43 @@
+{
+  "name": "Figure_19.5",
+  "title": "Figure_19.5",
+  "id": 3172,
+  "description": "",
+  "sources": [
+    {
+      "name": "Milanovic (2012)",
+      "dataPublishedBy": "Branko Milanovic. 2012. ‘Global Income Inequality by the Numbers: In History and Now—an Overview’. Policy Research Working Paper 6259. The World Bank. ",
+      "link": "http://documents.worldbank.org/curated/en/959251468176687085/pdf/wps6259.pdf"
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "Figure_19.5.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Inequality between countries (hypothetical)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Global inequality: inequality among all individuals in the world",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
