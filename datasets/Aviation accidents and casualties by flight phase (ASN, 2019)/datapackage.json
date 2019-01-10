@@ -1,0 +1,110 @@
+{
+  "name": "Aviation accidents and casualties by flight phase (ASN, 2019)",
+  "title": "Aviation accidents and casualties by flight phase (ASN, 2019)",
+  "id": 3177,
+  "description": "The total number of aviation accidents and fatalities by flight phase (take-off, climbing, en-route, approach and landing). The figures include corporate jet and military transport accidents.",
+  "sources": [
+    {
+      "name": "Aviation accidents and casualties by flight phase (ASN, 2019)",
+      "dataPublishedBy": "Aviation Safety Network (ASN)",
+      "link": "https://aviation-safety.net/statistics/phase/",
+      "retrievedDate": "10th January 2019",
+      "additionalInfo": "The total number of aviation accidents and fatalities by flight phase (take-off, climbing, en-route, approach and landing). The figures include corporate jet and military transport accidents."
+    }
+  ],
+  "owidTags": [
+    "Transport Safety & Accidents"
+  ],
+  "resources": [
+    {
+      "path": "Aviation accidents and casualties by flight phase (ASN, 2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "En route accidents",
+            "type": "any",
+            "description": "The number of aviation accidents in the en route phase of flight.",
+            "owidDisplaySettings": {
+              "name": "En route accidents",
+              "unit": "accidents"
+            }
+          },
+          {
+            "name": "En route casualties",
+            "type": "any",
+            "description": "The number of aviation casualties in the en route phase of flight.",
+            "owidDisplaySettings": {
+              "name": "En route casualties",
+              "unit": "casualties"
+            }
+          },
+          {
+            "name": "Take off accidents",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Take off casualties",
+            "type": "any",
+            "description": "The number of aviation casualties in the take off phase of flight.",
+            "owidDisplaySettings": {
+              "name": "Take off casualties",
+              "unit": "casualties"
+            }
+          },
+          {
+            "name": "Initial climb accidents",
+            "type": "any",
+            "description": "The number of aviation accidents in the initial climb phase of flight.",
+            "owidDisplaySettings": {
+              "name": "Initial climb accidents",
+              "unit": "accidents"
+            }
+          },
+          {
+            "name": "Initial climb casualties",
+            "type": "any",
+            "description": "The number of aviation casualties in the initial climb phase of flight.",
+            "owidDisplaySettings": {
+              "name": "Initial climb casualties",
+              "unit": "casualties"
+            }
+          },
+          {
+            "name": "Approach accidents",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Approach casualties",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Landing accidents",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Landing casualties",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
