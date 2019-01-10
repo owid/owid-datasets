@@ -42,23 +42,26 @@
             "type": "any",
             "description": "The number of aviation casualties in the en route phase of flight.",
             "owidDisplaySettings": {
-              "name": "En route casualties",
-              "unit": "casualties"
+              "name": "En route fatalities",
+              "unit": "fatalities"
             }
           },
           {
             "name": "Take off accidents",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "The number of aviation accidents in the take off phase of flight.",
+            "owidDisplaySettings": {
+              "name": "Take off accidents",
+              "unit": "accidents"
+            }
           },
           {
             "name": "Take off casualties",
             "type": "any",
             "description": "The number of aviation casualties in the take off phase of flight.",
             "owidDisplaySettings": {
-              "name": "Take off casualties",
-              "unit": "casualties"
+              "name": "Take off fatalities",
+              "unit": "fatalities"
             }
           },
           {
@@ -75,33 +78,45 @@
             "type": "any",
             "description": "The number of aviation casualties in the initial climb phase of flight.",
             "owidDisplaySettings": {
-              "name": "Initial climb casualties",
-              "unit": "casualties"
+              "name": "Initial climb fatalities",
+              "unit": "fatalities"
             }
           },
           {
             "name": "Approach accidents",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "The number of aviation accidents in the approach phase of flight.",
+            "owidDisplaySettings": {
+              "name": "Approach accidents",
+              "unit": "accidents"
+            }
           },
           {
-            "name": "Approach casualties",
+            "name": "Approach fatalities",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "The number of aviation fatalities in the approach phase of flight.",
+            "owidDisplaySettings": {
+              "name": "Approach fatalities",
+              "unit": "fatalities"
+            }
           },
           {
             "name": "Landing accidents",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "The number of aviation accidents in the landing phase of flight.",
+            "owidDisplaySettings": {
+              "name": "Landing accidents",
+              "unit": "accidents"
+            }
           },
           {
-            "name": "Landing casualties",
+            "name": "Landing fatalities",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "The number of aviation fatalities in the landing phase of flight.",
+            "owidDisplaySettings": {
+              "name": "Landing fatalities",
+              "unit": "fatalities"
+            }
           }
         ]
       }

@@ -1,4 +1,4 @@
-Entity,Year,En route accidents,En route casualties,Take off accidents,Take off casualties,Initial climb accidents,Initial climb casualties,Approach accidents,Approach casualties,Landing accidents,Landing casualties
+Entity,Year,En route accidents,En route casualties,Take off accidents,Take off casualties,Initial climb accidents,Initial climb casualties,Approach accidents,Approach fatalities,Landing accidents,Landing fatalities
 World,1942,15,196,4,46,4,51,3,24,1,3
 World,1943,18,189,1,1,6,34,10,73,2,5
 World,1944,20,194,3,23,3,27,5,46,3,10
