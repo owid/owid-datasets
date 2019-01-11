@@ -1,0 +1,43 @@
+{
+  "name": "Number of confirmed tetanus cases (WHO GHO - 2016)",
+  "title": "Number of confirmed tetanus cases (WHO GHO - 2016)",
+  "id": 3178,
+  "description": "This dataset is identical to the WHO GHO data, except that an aggregate entity \"World\" was added by summing up all confirmed tetanus cases for each year. ",
+  "sources": [
+    {
+      "name": "WHO GHO (2016)",
+      "additionalInfo": "This dataset is identical to the WHO GHO data, except that an aggregate entity \"World\" was added by summing up all confirmed tetanus cases for each year. ",
+      "retrievedDate": "11 January 2018",
+      "link": "http://apps.who.int/gho/data/node.home",
+      "dataPublishedBy": "World Health Organization Global Health Observatory",
+      "dataPublisherSource": "Institution's own data collection "
+    }
+  ],
+  "owidTags": [
+    "Burden of Disease",
+    "Infectious Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Number of confirmed tetanus cases (WHO GHO - 2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of confirmed tetanus cases",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
