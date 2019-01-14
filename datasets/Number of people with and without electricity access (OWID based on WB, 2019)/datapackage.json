@@ -2,14 +2,15 @@
   "name": "Number of people with and without electricity access (OWID based on WB, 2019)",
   "title": "Number of people with and without electricity access (OWID based on WB, 2019)",
   "id": 3179,
-  "description": "",
+  "description": "The number of people with and without access to electricity globally, regionally and by country.\n\nThis was calculated by Our World in Data based on estimates the share of the population with electricity access (%) published by the World Bank and total population estimates from the UN World Population Prospects (UNWPP). \n\nOriginal metrics of electricity access shares and total population can be accessed from the World Bank World Development Indicators (available at: http://data.worldbank.org/data-catalog/world-development-indicators). ",
   "sources": [
     {
       "name": "Number of people with and without electricity access (OWID based on WB, 2019)",
       "dataPublishedBy": "Calculated by Our World in Data based on electricity access and population data published in the World Bank World Development Indicators",
       "dataPublisherSource": "World Bank, Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking Framework led jointly by the World Bank, International Energy Agency, and the Energy Sector Management Assistance Program. Population data from the UN World Population Prospects (UNWPP)",
       "link": "http://data.worldbank.org/data-catalog/world-development-indicators",
-      "retrievedDate": "14th January 2019"
+      "retrievedDate": "14th January 2019",
+      "additionalInfo": "The number of people with and without access to electricity globally, regionally and by country.\n\nThis was calculated by Our World in Data based on estimates the share of the population with electricity access (%) published by the World Bank and total population estimates from the UN World Population Prospects (UNWPP). \n\nOriginal metrics of electricity access shares and total population can be accessed from the World Bank World Development Indicators (available at: http://data.worldbank.org/data-catalog/world-development-indicators). "
     }
   ],
   "owidTags": [
@@ -51,14 +52,22 @@
           {
             "name": "Share of population without access to electricity (%)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "The share of the total population without access to electricity. This is calculated based on published estimates of the share *with* electricity access.",
+            "owidDisplaySettings": {
+              "name": "Share of population without access to electricity (%)",
+              "unit": "%",
+              "shortUnit": "%"
+            }
           },
           {
             "name": "Share of population with access to electricity (%)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "The share of the total population with access to electricity. ",
+            "owidDisplaySettings": {
+              "name": "Share of population with access to electricity (%)",
+              "unit": "%",
+              "shortUnit": "%"
+            }
           }
         ]
       }
