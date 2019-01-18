@@ -1,0 +1,40 @@
+{
+  "name": "Number of internet users (OWID based on WB & UNWPP)",
+  "title": "Number of internet users (OWID based on WB & UNWPP)",
+  "id": 3180,
+  "description": "The number of internet users is calculated by Our World in Data based on internet access figures as a share of the total population, published in the World Bank, World Development Indicators (http://data.worldbank.org/data-catalog/world-development-indicators) and total population figures from the UN World Population Prospects (2017) (https://esa.un.org/unpd/wpp/Download/Standard/Population/).\n\nThe World Bank defines internet users as: \"Internet users are individuals who have used the Internet (from any location) in the last 3 months. The Internet can be used via a computer, mobile phone, personal digital assistant, games machine, digital TV etc.\"",
+  "sources": [
+    {
+      "name": "Number of internet users (OWID based on WB & UNWPP)",
+      "dataPublishedBy": "World Bank, World Development Indicators & UN World Population Prospects (2017)",
+      "link": "http://data.worldbank.org/data-catalog/world-development-indicators ; https://esa.un.org/unpd/wpp/Download/Standard/Population/",
+      "additionalInfo": "The number of internet users is calculated by Our World in Data based on internet access figures as a share of the total population, published in the World Bank, World Development Indicators (http://data.worldbank.org/data-catalog/world-development-indicators) and total population figures from the UN World Population Prospects (2017) (https://esa.un.org/unpd/wpp/Download/Standard/Population/).\n\nThe World Bank defines internet users as: \"Internet users are individuals who have used the Internet (from any location) in the last 3 months. The Internet can be used via a computer, mobile phone, personal digital assistant, games machine, digital TV etc.\""
+    }
+  ],
+  "owidTags": [
+    "Internet"
+  ],
+  "resources": [
+    {
+      "path": "Number of internet users (OWID based on WB & UNWPP).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of internet users",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
