@@ -30,37 +30,56 @@
             "type": "year"
           },
           {
-            "name": "Coal Output (DECC (2016))",
+            "name": "Coal Output (DECC (2018))",
             "type": "any",
             "description": "",
             "owidDisplaySettings": {
+              "name": "Coal Output",
               "unit": "tonnes",
               "shortUnit": "t",
               "conversionFactor": 1000000
             }
           },
           {
-            "name": "Employment in coal industry (DECC (2016))",
+            "name": "Employment in coal industry (DECC (2018))",
             "type": "any",
             "description": "",
             "owidDisplaySettings": {
+              "name": "Employment in coal industry",
               "unit": "employed",
               "conversionFactor": 1000
             }
           },
           {
-            "name": "Coal production per worker (DECC (2016))",
+            "name": "Coal production per worker (DECC (2018))",
             "type": "any",
             "description": "",
             "owidDisplaySettings": {
+              "name": "Coal production per worker",
+              "unit": "tonnes",
               "shortUnit": "t"
             }
           },
           {
-            "name": "Percentage of workforce in coal industry (DECC (2016))",
+            "name": "Percentage of workforce in coal industry (DECC (2018))",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Percentage of workforce in coal industry",
+              "unit": "%",
+              "shortUnit": "%"
+            }
+          },
+          {
+            "name": "Coal imports (DECC (2018))",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {
+              "name": "Coal imports",
+              "unit": "tonnes",
+              "shortUnit": "t",
+              "conversionFactor": 1000000
+            }
           }
         ]
       }
