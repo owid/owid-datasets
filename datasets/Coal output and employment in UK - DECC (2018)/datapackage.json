@@ -80,6 +80,28 @@
               "shortUnit": "t",
               "conversionFactor": 1000000
             }
+          },
+          {
+            "name": "Deepmined coal output (DECC (2018))",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {
+              "name": "Deepmined coal output",
+              "unit": "tonnes",
+              "shortUnit": "t",
+              "conversionFactor": 1000000
+            }
+          },
+          {
+            "name": "Opencast coal output (DECC (2018))",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {
+              "name": "Opencast coal output",
+              "unit": "tonnes",
+              "shortUnit": "t",
+              "conversionFactor": 1000000
+            }
           }
         ]
       }
