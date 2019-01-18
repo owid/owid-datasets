@@ -29,10 +29,15 @@
             "type": "year"
           },
           {
-            "name": "Number of internet users",
+            "name": "Number of internet users (OWID based on WB & UN)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "The World Bank defines internet users as: \"Internet users are individuals who have used the Internet (from any location) in the last 3 months. The Internet can be used via a computer, mobile phone, personal digital assistant, games machine, digital TV etc.\"",
+            "owidDisplaySettings": {
+              "name": "Number of internet users",
+              "unit": "users",
+              "shortUnit": "users",
+              "numDecimalPlaces": 0
+            }
           }
         ]
       }
