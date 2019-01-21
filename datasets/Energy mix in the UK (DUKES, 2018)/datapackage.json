@@ -31,20 +31,32 @@
           {
             "name": "Coal (Mtoe)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Primary energy use from coal in the UK, measured in million tonnes oil equivalent.",
+            "owidDisplaySettings": {
+              "name": "Coal",
+              "unit": "million tonnes oil equivalent",
+              "shortUnit": "Mtoe"
+            }
           },
           {
             "name": "Oil (Mtoe)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Primary energy use in the UK from oil, measured in million tonnes oil equivalent.",
+            "owidDisplaySettings": {
+              "name": "Oil",
+              "unit": "million tonnes oil equivalent",
+              "shortUnit": "Mtoe"
+            }
           },
           {
             "name": "Natural Gas (Mtoe)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Primary energy use in the UK from natural gas, measured in million tonnes oil equivalent.",
+            "owidDisplaySettings": {
+              "name": "Natural gas",
+              "unit": "million tonnes oil equivalent",
+              "shortUnit": "Mtoe"
+            }
           },
           {
             "name": "Nuclear (Mtoe)",
@@ -53,82 +65,143 @@
             "owidDisplaySettings": {}
           },
           {
-            "name": "Renewables (Mtoe)",
+            "name": "Hydro, wind & solar (Mtoe)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Primary energy use from hydropower, solar and wind in the UK, measured in million tonnes oil equivalent.",
+            "owidDisplaySettings": {
+              "name": "Hydro, wind & solar",
+              "unit": "million tonnes oil equivalent",
+              "shortUnit": "Mtoe"
+            }
           },
           {
             "name": "Imports (Mtoe)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Primary energy use that is imported to the UK, measured in million tonnes oil equivalent.",
+            "owidDisplaySettings": {
+              "name": "Imports",
+              "unit": "million tonnes oil equivalent",
+              "shortUnit": "Mtoe"
+            }
           },
           {
             "name": "Bioenergy (Mtoe)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Primary energy use in the UK from bioenergy, measured in million tonnes oil equivalent.",
+            "owidDisplaySettings": {
+              "name": "Bioenergy",
+              "unit": "million tonnes oil equivalent",
+              "shortUnit": "Mtoe"
+            }
           },
           {
             "name": "Coal (%)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Share of the UK's primary energy mix derived from coal.",
+            "owidDisplaySettings": {
+              "name": "Coal",
+              "unit": "%",
+              "shortUnit": "%",
+              "numDecimalPlaces": 2
+            }
           },
           {
             "name": "Oil (%)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Share of the UK's primary energy mix derived from oil.",
+            "owidDisplaySettings": {
+              "name": "Oil",
+              "unit": "%",
+              "shortUnit": "%",
+              "numDecimalPlaces": 2
+            }
           },
           {
             "name": "Natural Gas (%)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Share of the UK's primary energy mix derived from natural gas.",
+            "owidDisplaySettings": {
+              "name": "Natural gas",
+              "unit": "%",
+              "shortUnit": "%"
+            }
           },
           {
             "name": "Nuclear (%)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Share of the UK's primary energy mix derived from nuclear.",
+            "owidDisplaySettings": {
+              "name": "Nuclear",
+              "unit": "%",
+              "shortUnit": "%",
+              "numDecimalPlaces": 2
+            }
           },
           {
             "name": "Hydro, wind & solar (%)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Share of the UK's primary energy mix derived from hydropower, wind and solar.",
+            "owidDisplaySettings": {
+              "name": "Hydro, wind & solar",
+              "unit": "%",
+              "shortUnit": "%",
+              "numDecimalPlaces": 2
+            }
           },
           {
             "name": "Imports (%)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Share of the UK's primary energy mix derived from imports.",
+            "owidDisplaySettings": {
+              "name": "Imports",
+              "unit": "%",
+              "shortUnit": "%",
+              "numDecimalPlaces": 2
+            }
           },
           {
             "name": "Bioenergy (%)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Share of the UK's primary energy mix derived from bioenergy.",
+            "owidDisplaySettings": {
+              "name": "Bioenergy",
+              "unit": "%",
+              "shortUnit": "%",
+              "numDecimalPlaces": 2
+            }
           },
           {
-            "name": "Fossil fuel (%)",
+            "name": "Fossil fuels (%)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Share of the UK's primary energy mix derived from coal, oil and gas (fossil fuels).",
+            "owidDisplaySettings": {
+              "name": "Fossil fuels",
+              "unit": "%",
+              "shortUnit": "%",
+              "numDecimalPlaces": 2
+            }
           },
           {
             "name": "Low-carbon (%)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Share of the UK's primary energy mix derived from low-carbon sources (nuclear plus renewables).",
+            "owidDisplaySettings": {
+              "name": "Low-carbon",
+              "unit": "%",
+              "shortUnit": "%",
+              "numDecimalPlaces": 2
+            }
           },
           {
             "name": "Renewables (%)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Share of the UK's primary energy mix derived from renewables (hydropower, wind, solar and bioenergy).",
+            "owidDisplaySettings": {
+              "name": "Renewables",
+              "unit": "%",
+              "shortUnit": "%",
+              "numDecimalPlaces": 2
+            }
           }
         ]
       }
