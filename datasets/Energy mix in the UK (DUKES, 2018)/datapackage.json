@@ -1,0 +1,137 @@
+{
+  "name": "Energy mix in the UK (DUKES, 2018)",
+  "title": "Energy mix in the UK (DUKES, 2018)",
+  "id": 3181,
+  "description": "Primary energy mix in the United Kingdom by source. This is available in absolute terms of million tonnes of oil equivalents (Mtoe) and as a relative share of the total energy mix. \n\nPrimary energy mix relates to the quantity of energy inputs to the system; thermal losses are not taken into account, meaning this does not represent the final energy share. ",
+  "sources": [
+    {
+      "name": "Energy mix in the UK (DUKES, 2018)",
+      "dataPublishedBy": "Digest of UK Energy Statistics (DUKES)",
+      "additionalInfo": "Primary energy mix in the United Kingdom by source. This is available in absolute terms of million tonnes of oil equivalents (Mtoe) and as a relative share of the total energy mix. \n\nPrimary energy mix relates to the quantity of energy inputs to the system; thermal losses are not taken into account, meaning this does not represent the final energy share. ",
+      "link": "https://www.gov.uk/government/collections/digest-of-uk-energy-statistics-dukes#2018",
+      "retrievedDate": "20th January 2019"
+    }
+  ],
+  "owidTags": [
+    "Energy Production & Changing Energy Sources"
+  ],
+  "resources": [
+    {
+      "path": "Energy mix in the UK (DUKES, 2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Coal (Mtoe)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Oil (Mtoe)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Natural Gas (Mtoe)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Nuclear (Mtoe)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Renewables (Mtoe)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Imports (Mtoe)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Bioenergy (Mtoe)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Coal (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Oil (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Natural Gas (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Nuclear (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Hydro, wind & solar (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Imports (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Bioenergy (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Fossil fuel (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Low-carbon (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Renewables (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
