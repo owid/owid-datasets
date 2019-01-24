@@ -1,0 +1,63 @@
+{
+  "name": "Temporary accommodation in England - UK Government (2018)",
+  "title": "Temporary accommodation in England - UK Government (2018)",
+  "id": 3184,
+  "description": "Figures report the number of households, households with children and number of children in 'temporary accommodation' (TA).\n\nTemporary accommodation (typically given for a period of 28 days or less) is allocated to households without permanent housing, and are therefore included in annual homelessness accounts. Temporary accommodation includes relocation to bed and breakfasts, hostels, shelters, local authority or privately-owned temporary accommodation.",
+  "sources": [
+    {
+      "name": "Temporary accommodation in England - UK Government (2018)",
+      "dataPublishedBy": "UK Government (2018). Ministry of Housing, Communities & Local Government.",
+      "link": "https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness#statutory-homelessness-live-tables",
+      "retrievedDate": "24th January 2018",
+      "additionalInfo": "Figures report the number of households, households with children and number of children in 'temporary accommodation' (TA).\n\nTemporary accommodation (typically given for a period of 28 days or less) is allocated to households without permanent housing, and are therefore included in annual homelessness accounts. Temporary accommodation includes relocation to bed and breakfasts, hostels, shelters, local authority or privately-owned temporary accommodation."
+    }
+  ],
+  "owidTags": [
+    "Homelessness"
+  ],
+  "resources": [
+    {
+      "path": "Temporary accommodation in England - UK Government (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total number of households in TA (Temporary Accomodation)",
+            "type": "any",
+            "description": "Total number of households in temporary accommodation in England. ",
+            "owidDisplaySettings": {
+              "name": "Number of households in temporary accommodation",
+              "unit": "households",
+              "numDecimalPlaces": 0
+            }
+          },
+          {
+            "name": "Total number of households in TA (Temporary Accommodation) with children",
+            "type": "any",
+            "description": "Total number of households with children in temporary accommodation in England. ",
+            "owidDisplaySettings": {
+              "name": "Number of households in temporary accommodation with children",
+              "unit": "households with children"
+            }
+          },
+          {
+            "name": "Total number of children in TA (Temporary Accommodation)",
+            "type": "any",
+            "description": "Total number of children in temporary accommodation in England. ",
+            "owidDisplaySettings": {
+              "name": "Number of children in temporary accommodation",
+              "unit": "children"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
