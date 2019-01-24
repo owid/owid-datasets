@@ -30,19 +30,19 @@
             "type": "year"
           },
           {
-            "name": "Share of people experiencing rough sleeping per 100,000 in England (2010-2015) (OWID based on UK National Statistics (2017))",
+            "name": "Share of people experiencing rough sleeping per 100,000 in England (2010-2017) (OWID based on UK National Statistics (2018))",
             "type": "any",
             "description": "",
             "owidDisplaySettings": {
-              "unit": "Percent"
+              "unit": "per 100,000"
             }
           },
           {
-            "name": "Total number of people experiencing rough sleeping in England in the 2010s (OWID based on UK National Statistics (2017)) ",
+            "name": "Total number of people experiencing rough sleeping in England in the 2010s (OWID based on UK National Statistics (2018)) ",
             "type": "any",
             "description": "",
             "owidDisplaySettings": {
-              "unit": "Percent"
+              "unit": "rough sleepers"
             }
           }
         ]
