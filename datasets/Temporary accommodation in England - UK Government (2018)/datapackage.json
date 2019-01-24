@@ -2,14 +2,14 @@
   "name": "Temporary accommodation in England - UK Government (2018)",
   "title": "Temporary accommodation in England - UK Government (2018)",
   "id": 3184,
-  "description": "Figures report the number of households, households with children and number of children in 'temporary accommodation' (TA).\n\nTemporary accommodation (typically given for a period of 28 days or less) is allocated to households without permanent housing, and are therefore included in annual homelessness accounts. Temporary accommodation includes relocation to bed and breakfasts, hostels, shelters, local authority or privately-owned temporary accommodation.",
+  "description": "Figures report the number of households, households with children and number of children in 'temporary accommodation' (TA).\n\nTemporary accommodation (typically given for a period of 28 days or less) is allocated to households without permanent housing, and are therefore included in annual homelessness accounts. Temporary accommodation includes relocation to bed and breakfasts, hostels, shelters, local authority or privately-owned temporary accommodation.\n\nThe UK National Statistics note: \"Complete temporary accommodation data was provided by 299 (92%) local authorities. A further 23 local authorities did provide a return but their totals have been omitted from the release due to quality concerns that placements may have been underreported or double reported.\"",
   "sources": [
     {
       "name": "Temporary accommodation in England - UK Government (2018)",
       "dataPublishedBy": "UK Government (2018). Ministry of Housing, Communities & Local Government.",
       "link": "https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness#statutory-homelessness-live-tables",
       "retrievedDate": "24th January 2018",
-      "additionalInfo": "Figures report the number of households, households with children and number of children in 'temporary accommodation' (TA).\n\nTemporary accommodation (typically given for a period of 28 days or less) is allocated to households without permanent housing, and are therefore included in annual homelessness accounts. Temporary accommodation includes relocation to bed and breakfasts, hostels, shelters, local authority or privately-owned temporary accommodation."
+      "additionalInfo": "Figures report the number of households, households with children and number of children in 'temporary accommodation' (TA).\n\nTemporary accommodation (typically given for a period of 28 days or less) is allocated to households without permanent housing, and are therefore included in annual homelessness accounts. Temporary accommodation includes relocation to bed and breakfasts, hostels, shelters, local authority or privately-owned temporary accommodation.\n\nThe UK National Statistics note: \"Complete temporary accommodation data was provided by 299 (92%) local authorities. A further 23 local authorities did provide a return but their totals have been omitted from the release due to quality concerns that placements may have been underreported or double reported.\""
     }
   ],
   "owidTags": [
