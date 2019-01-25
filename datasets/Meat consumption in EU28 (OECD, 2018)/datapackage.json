@@ -1,0 +1,71 @@
+{
+  "name": "Meat consumption in EU28 (OECD, 2018)",
+  "title": "Meat consumption in EU28 (OECD, 2018)",
+  "id": 3192,
+  "description": "Per capita meat availability, given as the average of the EU-28 countries. Meat availability is typically taken as an estimate of per capita consumption. Meat availability does not account for consumption (household and retail waste), so actual consumption will be slightly lower than these values.\n\nPer capita meat consumption is measured in kilograms per person per year.",
+  "sources": [
+    {
+      "name": "Meat consumption in EU28 (OECD, 2018)",
+      "dataPublishedBy": "Organisation for Economic Co-operation and Development (OECD, 2018)",
+      "link": "https://data.oecd.org/agroutput/meat-consumption.htm",
+      "retrievedDate": "25th January 2018",
+      "additionalInfo": "Per capita meat availability, given as the average of the EU-28 countries. Meat availability is typically taken as an estimate of per capita consumption. Meat availability does not account for consumption (household and retail waste), so actual consumption will be slightly lower than these values.\n\nPer capita meat consumption is measured in kilograms per person per year."
+    }
+  ],
+  "owidTags": [
+    "Meat and Seafood Production & Consumption"
+  ],
+  "resources": [
+    {
+      "path": "Meat consumption in EU28 (OECD, 2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Per capita beef consumption",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Per capita pork consumption",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Per capita poultry consumption",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Per capita sheep consumption",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Per capita red meat consumption",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Per capita meat consumption",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
