@@ -1,0 +1,66 @@
+{
+  "name": "Meat consumption in the USA (USDA, 2018)",
+  "title": "Meat consumption in the USA (USDA, 2018)",
+  "id": 3190,
+  "description": "Per capita meat availability in the United States. Per capita meat availability is typically used as an estimate for meat consumption, although it does not correct for consumption-level waste (households and retail). Actual meat intake will therefore be slightly lower but close to meat availability.\n\nFigures are given in lbs and kilograms per person per year.\n\n'Red meat' is the sum of beef, pork, sheep and veal, excluding offals.",
+  "sources": [
+    {
+      "name": "Meat consumption in the USA (USDA, 2018)",
+      "dataPublishedBy": "United States Department for Agriculture (USDA) Economic Research Service",
+      "link": "https://www.ers.usda.gov/data-products/food-availability-per-capita-data-system/",
+      "retrievedDate": "25th January 2019",
+      "additionalInfo": "Per capita meat availability in the United States. Per capita meat availability is typically used as an estimate for meat consumption, although it does not correct for consumption-level waste (households and retail). Actual meat intake will therefore be slightly lower but close to meat availability.\n\nFigures are given in lbs and kilograms per person per year.\n\n'Red meat' is the sum of beef, pork, sheep and veal, excluding offals."
+    }
+  ],
+  "owidTags": [
+    "Food per Person",
+    "Meat and Seafood Production & Consumption"
+  ],
+  "resources": [
+    {
+      "path": "Meat consumption in the USA (USDA, 2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Per capita beef",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Per capita pork",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Per capita red meat",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Per capita poultry",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Per capita total meat",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
