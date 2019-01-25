@@ -31,38 +31,62 @@
           {
             "name": "Per capita beef consumption",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Per capita beef consumption in the EU28, measured in kilograms per person per year. ",
+            "owidDisplaySettings": {
+              "name": "Beef",
+              "unit": "kilograms per year",
+              "shortUnit": "kg"
+            }
           },
           {
             "name": "Per capita pork consumption",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Per capita pork consumption in the EU28, measured in kilograms per person per year. ",
+            "owidDisplaySettings": {
+              "name": "Pork",
+              "unit": "kilograms per year",
+              "shortUnit": "kg"
+            }
           },
           {
             "name": "Per capita poultry consumption",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Per capita poultry consumption in the EU28, measured in kilograms per person per year. ",
+            "owidDisplaySettings": {
+              "name": "Poultry",
+              "unit": "kilograms per year",
+              "shortUnit": "kg"
+            }
           },
           {
             "name": "Per capita sheep consumption",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Per capita sheep consumption in the EU28, measured in kilograms per person per year. ",
+            "owidDisplaySettings": {
+              "name": "Sheep",
+              "unit": "kilograms per year",
+              "shortUnit": "kg"
+            }
           },
           {
             "name": "Per capita red meat consumption",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Per capita red meat consumption in the EU28, measured in kilograms per person per year. ",
+            "owidDisplaySettings": {
+              "name": "Red meat",
+              "unit": "kilograms per year",
+              "shortUnit": "kg"
+            }
           },
           {
             "name": "Per capita meat consumption",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Per capita meat consumption in the EU28, measured in kilograms per person per year. ",
+            "owidDisplaySettings": {
+              "name": "Total meat",
+              "unit": "kilograms per year",
+              "shortUnit": "kg"
+            }
           }
         ]
       }
