@@ -2,14 +2,14 @@
   "name": "Meat consumption in the USA (USDA, 2018)",
   "title": "Meat consumption in the USA (USDA, 2018)",
   "id": 3190,
-  "description": "Per capita meat availability in the United States. Per capita meat availability is typically used as an estimate for meat consumption, although it does not correct for consumption-level waste (households and retail). Actual meat intake will therefore be slightly lower but close to meat availability.\n\nFigures are given in lbs and kilograms per person per year.\n\n'Red meat' is the sum of beef, pork, sheep and veal, excluding offals.",
+  "description": "Per capita meat availability in the United States. Per capita meat availability is typically used as an estimate for meat consumption, although it does not correct for consumption-level waste (households and retail). Actual meat intake will therefore be slightly lower but close to meat availability.\n\nFigures are given in lbs and kilograms per person per year. Conversion from lbs to kilograms using a factor of 0.453592 (1 lbs = 0.453592 kilograms).\n\n'Red meat' is the sum of beef, pork, sheep and veal, excluding offals.",
   "sources": [
     {
       "name": "Meat consumption in the USA (USDA, 2018)",
       "dataPublishedBy": "United States Department for Agriculture (USDA) Economic Research Service",
       "link": "https://www.ers.usda.gov/data-products/food-availability-per-capita-data-system/",
       "retrievedDate": "25th January 2019",
-      "additionalInfo": "Per capita meat availability in the United States. Per capita meat availability is typically used as an estimate for meat consumption, although it does not correct for consumption-level waste (households and retail). Actual meat intake will therefore be slightly lower but close to meat availability.\n\nFigures are given in lbs and kilograms per person per year.\n\n'Red meat' is the sum of beef, pork, sheep and veal, excluding offals."
+      "additionalInfo": "Per capita meat availability in the United States. Per capita meat availability is typically used as an estimate for meat consumption, although it does not correct for consumption-level waste (households and retail). Actual meat intake will therefore be slightly lower but close to meat availability.\n\nFigures are given in lbs and kilograms per person per year. Conversion from lbs to kilograms using a factor of 0.453592 (1 lbs = 0.453592 kilograms).\n\n'Red meat' is the sum of beef, pork, sheep and veal, excluding offals."
     }
   ],
   "owidTags": [
@@ -30,34 +30,59 @@
             "type": "year"
           },
           {
-            "name": "Per capita beef",
+            "name": "Per capita beef consumption",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Average per capita consumption of beef in the United States.",
+            "owidDisplaySettings": {
+              "name": "Beef",
+              "unit": "kilograms per year",
+              "shortUnit": "kg",
+              "conversionFactor": 0.453592
+            }
           },
           {
-            "name": "Per capita pork",
+            "name": "Per capita pork consumption",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Average per capita consumption of pork in the United States.",
+            "owidDisplaySettings": {
+              "name": "Pork",
+              "unit": "kilograms per year",
+              "shortUnit": "kg",
+              "conversionFactor": 0.453592
+            }
           },
           {
-            "name": "Per capita red meat",
+            "name": "Per capita red meat consumption",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Average per capita consumption of red meat in the United States.",
+            "owidDisplaySettings": {
+              "name": "Red meat",
+              "unit": "kilograms per year",
+              "shortUnit": "kg",
+              "conversionFactor": 0.453592
+            }
           },
           {
-            "name": "Per capita poultry",
+            "name": "Per capita poultry consumption",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Average per capita consumption of poultry in the United States.",
+            "owidDisplaySettings": {
+              "name": "Poultry",
+              "unit": "kilograms per year",
+              "shortUnit": "kg",
+              "conversionFactor": 0.453592
+            }
           },
           {
-            "name": "Per capita total meat",
+            "name": "Per capita total meat consumption",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Average per capita consumption of meat in the United States.",
+            "owidDisplaySettings": {
+              "name": "Total meat",
+              "unit": "kilograms per year",
+              "shortUnit": "kg",
+              "conversionFactor": 0.453592
+            }
           }
         ]
       }
