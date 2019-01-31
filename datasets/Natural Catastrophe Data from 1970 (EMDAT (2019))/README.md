@@ -1,4 +1,4 @@
-# Natural Catastrophe Data from 1970 (EMDAT (2017))
+# Natural Catastrophe Data from 1970 (EMDAT (2019))
 
 The data presented here includes all categories classified as "natural disasters" (distinguished from technological disasters, such as oil spills and industrial accidents). This includes those from drought, floods, biological epidemics, extreme weather, extreme temperature, landslides, dry mass movements, extraterrestrial impacts, wildfires, volcanic activity and earthquakes.
 
