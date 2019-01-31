@@ -62,7 +62,7 @@
             }
           },
           {
-            "name": "Homeless (EMDAT (2017))",
+            "name": "Homeless (EMDAT (2019))",
             "type": "any",
             "description": "Number of people whose house is destroyed or heavily damaged and therefore need shelter after an event.",
             "owidDisplaySettings": {
@@ -70,7 +70,7 @@
             }
           },
           {
-            "name": "Total affected (EMDAT (2017))",
+            "name": "Total affected (EMDAT (2019))",
             "type": "any",
             "description": "Total number of people affected by natural disasters. \"In EM-DAT, it is the sum of the injured, affected and left homeless after a disaster.\"",
             "owidDisplaySettings": {
@@ -78,7 +78,7 @@
             }
           },
           {
-            "name": "Total economic damage (EMDAT (2017))",
+            "name": "Total economic damage (EMDAT (2019))",
             "type": "any",
             "description": "The amount of damage to property, crops, and livestock. In EM-DAT estimated damage are given in US$. For each disaster, the registered figure corresponds to the damage value at the moment of the event, i.e. the figures are shown true to the year of the event.",
             "owidDisplaySettings": {

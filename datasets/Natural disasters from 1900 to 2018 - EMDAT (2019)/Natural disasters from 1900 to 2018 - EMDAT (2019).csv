@@ -1,4 +1,4 @@
-Entity,Year,Number of disasters (EMDAT (2019)),Total deaths (EMDAT (2019)),Injured (EMDAT (2019)),Affected (EMDAT (2019)),Homeless (EMDAT (2017)),Total affected (EMDAT (2017)),Total economic damage (EMDAT (2017))
+Entity,Year,Number of disasters (EMDAT (2019)),Total deaths (EMDAT (2019)),Injured (EMDAT (2019)),Affected (EMDAT (2019)),Homeless (EMDAT (2019)),Total affected (EMDAT (2019)),Total economic damage (EMDAT (2019))
 All natural disasters,1900,5,1267330,0,0,0,0,30000000
 All natural disasters,1901,2,18,0,0,0,0,0
 All natural disasters,1902,9,46037,0,0,0,0,0
