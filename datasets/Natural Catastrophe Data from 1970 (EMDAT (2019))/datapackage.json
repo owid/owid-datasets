@@ -30,46 +30,62 @@
             "type": "year"
           },
           {
-            "name": "Number of disasters (EMDAT (2017))",
+            "name": "Number of disasters (EMDAT (2019))",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Number of natural disasters"
+            }
           },
           {
-            "name": "Total deaths (EMDAT (2017))",
+            "name": "Total deaths (EMDAT (2019))",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Deaths from natural disasters"
+            }
           },
           {
-            "name": "Injured (EMDAT (2017))",
+            "name": "Injured (EMDAT (2019))",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Number injured from natural disasters"
+            }
           },
           {
-            "name": "Affected (EMDAT (2017))",
+            "name": "Affected (EMDAT (2019))",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Number affected by natural disasters"
+            }
           },
           {
-            "name": "Homeless (EMDAT (2017))",
+            "name": "Homeless (EMDAT (2019))",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Number left homeless from natural disasters"
+            }
           },
           {
-            "name": "Total affected (EMDAT (2017))",
+            "name": "Total affected (EMDAT (2019))",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Total number affected by natural disasters"
+            }
           },
           {
-            "name": "Total economic damage (EMDAT (2017))",
+            "name": "Total economic damage (EMDAT (2019))",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Total economic damage from natural disasters",
+              "unit": "2016 US$",
+              "shortUnit": "$"
+            }
           }
         ]
       }
