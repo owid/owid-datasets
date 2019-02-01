@@ -30,7 +30,7 @@
             "type": "year"
           },
           {
-            "name": "Share dying in first 5 years (based on Gapminder and World Bank (2015))",
+            "name": "Share dying in first 5 years (based on Gapminder and World Bank (2019))",
             "type": "any",
             "description": "Share of children in the world dying in the first 5 years of life. This extends from 1800 to 2017.",
             "owidDisplaySettings": {
@@ -40,7 +40,7 @@
             }
           },
           {
-            "name": "Share surviving first 5 years of life (based on Gapminder and World Bank (2015))",
+            "name": "Share surviving first 5 years of life (based on Gapminder and World Bank (2019))",
             "type": "any",
             "description": "Share of children in the world surviving the first 5 years of life. This extends from 1800 to 2017.",
             "owidDisplaySettings": {
