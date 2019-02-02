@@ -1,0 +1,71 @@
+{
+  "name": "Worldwide Governance Indicators (WGI) - Kaufmann and Kraay (2017)",
+  "title": "Worldwide Governance Indicators (WGI) - Kaufmann and Kraay (2017)",
+  "id": 3203,
+  "description": "",
+  "sources": [
+    {
+      "name": "Worldwide Governance Indicators (WGI) (2017)",
+      "link": "http://info.worldbank.org/Governance/wgi/#home",
+      "retrievedDate": "02/02/2019",
+      "dataPublishedBy": "World Bank",
+      "dataPublisherSource": "WGI composed of 30 underlying indicators. See http://info.worldbank.org/Governance/wgi/#doc-sources for further details."
+    }
+  ],
+  "owidTags": [
+    "Quality of Institutions"
+  ],
+  "resources": [
+    {
+      "path": "Worldwide Governance Indicators (WGI) - Kaufmann and Kraay (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Voice and Accountability (WGI)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Political Stability and Absence of Violence (WGI)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Government Effectiveness (WGI)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Regulatory Quality (WGI)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Rule of Law (WGI)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Control of Corruption (WGI)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
