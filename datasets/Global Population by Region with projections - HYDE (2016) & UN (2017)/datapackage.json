@@ -1,0 +1,56 @@
+{
+  "name": "Global Population by Region with projections - HYDE (2016) & UN (2017)",
+  "title": "Global Population by Region with projections - HYDE (2016) & UN (2017)",
+  "id": 325,
+  "description": "This long-run population series by region was constructed by Our World in Data based on two key sources: the HYDE database (2016) and UN World Population Prospects (2017). \n\n- HYDE (2016) data is used from the year -10,000 to 1940\n- UN World Population Population Prospects (2017) from 1950 to 2015; \n- Projections to 2100 from the UN World Population Population Prospects (2017)\n\nHYDE Database, available at: ftp://ftp.pbl.nl/hyde/supplementary/Klein_Goldewijk_et_al_2016_HYDE32_paper/\n\nUnited Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, DVD Edition. Available at: https://esa.un.org/unpd/wpp/Download/Standard/Population/",
+  "sources": [
+    {
+      "name": "Global Population by Region with projections - HYDE (2016) & UN (2017)",
+      "dataPublishedBy": "HYDE Database and United Nations World Populations Prospects",
+      "retrievedDate": "8th February 2019",
+      "additionalInfo": "This long-run population series by region was constructed by Our World in Data based on two key sources: the HYDE database (2016) and UN World Population Prospects (2017). \n\n- HYDE (2016) data is used from the year -10,000 to 1940\n- UN World Population Population Prospects (2017) from 1950 to 2015; \n- Projections to 2100 from the UN World Population Population Prospects (2017)\n\nHYDE Database, available at: ftp://ftp.pbl.nl/hyde/supplementary/Klein_Goldewijk_et_al_2016_HYDE32_paper/\n\nUnited Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, DVD Edition. Available at: https://esa.un.org/unpd/wpp/Download/Standard/Population/"
+    }
+  ],
+  "owidTags": [
+    "Population Growth",
+    "Future Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Global Population by Region with projections - HYDE (2016) & UN (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Global Population by Region (HYDE (2016) and UN (2017))",
+            "type": "any",
+            "description": "Global population differentiated by region from -10,000 BC to 2015.",
+            "owidDisplaySettings": {
+              "name": "Population by region",
+              "unit": "people"
+            }
+          },
+          {
+            "name": "Projected population to 2100 (UN, 2017)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Combined historial and projected population by region (HYDE & UN)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
