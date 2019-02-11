@@ -30,10 +30,12 @@
             "type": "year"
           },
           {
-            "name": "Human Development Index (Prados de la Escosura)",
+            "name": "Historical Index of Human Development (Prados de la Escosura)",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Historical Index of Human Development"
+            }
           }
         ]
       }
