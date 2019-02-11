@@ -1,6 +1,6 @@
-# Human Development Index - Prados de la Escosura
+# Historical Index of Human Development - Prados de la Escosura
 
-The Human Development Index (HDI) is a composite statistic (index) that measures key dimensions of human development:
+The Historical Index of Human Development (HIHD) is a composite statistic (index) that measures key dimensions of human development:
 - life expectancy
 - literacy
 - educational enrolment
