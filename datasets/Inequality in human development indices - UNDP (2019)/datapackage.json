@@ -1,0 +1,48 @@
+{
+  "name": "Inequality in human development indices - UNDP (2019)",
+  "title": "Inequality in human development indices - UNDP (2019)",
+  "id": 3218,
+  "description": "",
+  "sources": [
+    {
+      "name": "Inequality in human development indices - UNDP (2019)",
+      "link": "http://hdr.undp.org/en/composite/IHDI",
+      "retrievedDate": "13 February 2019",
+      "dataPublishedBy": "United Nations Development Programme",
+      "dataPublisherSource": "Within-country surveys"
+    }
+  ],
+  "owidTags": [
+    "Health Inequality",
+    "Educational Mobility & Inequality"
+  ],
+  "resources": [
+    {
+      "path": "Inequality in human development indices - UNDP (2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Inequality in life expectancy (2015-2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          },
+          {
+            "name": "Inequality in education (2017)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
