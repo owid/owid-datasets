@@ -1,0 +1,42 @@
+{
+  "name": "Learning-Adjusted Years of Schooling - World Bank (2018)",
+  "title": "Learning-Adjusted Years of Schooling - World Bank (2018)",
+  "id": 3219,
+  "description": "The methodology can be read up in Filmer et al. (2018): http://documents.worldbank.org/curated/en/243261538075151093/Learning-Adjusted-Years-of-Schooling-LAYS-Defining-A-New-Macro-Measure-of-Education",
+  "sources": [
+    {
+      "name": "Learning-Adjusted Years of Schooling - World Bank (2018)",
+      "dataPublishedBy": "World Bank",
+      "link": "https://databank.worldbank.org/data/source/human-capital-index",
+      "retrievedDate": "14 February 2019",
+      "dataPublisherSource": "Calculations based on TIMSS test, methodology by Filmer et al. (2018)",
+      "additionalInfo": "The methodology can be read up in Filmer et al. (2018): http://documents.worldbank.org/curated/en/243261538075151093/Learning-Adjusted-Years-of-Schooling-LAYS-Defining-A-New-Macro-Measure-of-Education"
+    }
+  ],
+  "owidTags": [
+    "Quality of Education"
+  ],
+  "resources": [
+    {
+      "path": "Learning-Adjusted Years of Schooling - World Bank (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Learning-Adjusted Years of School",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": {}
+          }
+        ]
+      }
+    }
+  ]
+}
