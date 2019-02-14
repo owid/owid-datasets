@@ -1,0 +1,71 @@
+Entity,Year,Wine (% total alcohol),Beer (% total alcohol),Spirits (% total alcohol)
+Australia,1890,10,47,43
+Australia,1929,19,62,20
+Australia,1964,12,75,13
+Australia,1984,24,64,12
+Australia,2014,40,46,14
+Austria,1964,30,55,15
+Austria,1984,37,49,14
+Austria,2014,35,51,14
+Belgium,1890,3,62,35
+Belgium,1929,8,81,12
+Belgium,1964,13,77,11
+Belgium,1984,21,61,18
+Belgium,2014,35,51,14
+Canada,1964,6,60,34
+Canada,1984,14,48,38
+Canada,2014,25,49,26
+Denmark,1929,4,55,42
+Denmark,1964,8,77,15
+Denmark,1984,19,65,16
+Denmark,2014,47,38,16
+Finland,1964,13,21,66
+Finland,1984,12,42,46
+Finland,2014,21,53,26
+France,1890,68,6,26
+France,1929,82,6,12
+France,1964,78,10,13
+France,1984,69,16,16
+France,2014,59,19,23
+Germany,1890,7,49,44
+Germany,1964,18,57,24
+Germany,1984,51,56,20
+Germany,2014,53,53,19
+Italy,1890,95,0,5
+Italy,1929,95,1,4
+Italy,1964,87,3,10
+Italy,1984,80,8,12
+Italy,2014,65,23,11
+Japan,1964,2,20,78
+Japan,1984,4,29,67
+Japan,2014,5,21,74
+Netherlands,1890,4,25,71
+Netherlands,1929,8,47,45
+Netherlands,1964,9,48,43
+Netherlands,1984,22,49,29
+Netherlands,2014,35,48,17
+New Zealand,1890,2,32,66
+New Zealand,1964,4,78,18
+New Zealand,1984,17,64,20
+New Zealand,2014,38,43,19
+Norway,1964,4,27,69
+Norway,1984,9,34,58
+Norway,2014,29,35,36
+Sweden,1964,9,39,52
+Sweden,1984,20,39,41
+Sweden,2014,48,37,15
+Switzerland,1890,63,17,20
+Switzerland,1929,49,25,27
+Switzerland,1964,42,38,20
+Switzerland,1984,49,31,20
+Switzerland,2014,47,34,19
+United Kingdom,1890,2,68,30
+United Kingdom,1929,4,78,17
+United Kingdom,1964,4,81,15
+United Kingdom,1984,11,69,20
+United Kingdom,2014,41,37,22
+United States,1890,4,47,49
+United States,1929,0,0,0
+United States,1964,8,48,44
+United States,1984,13,51,36
+United States,2014,18,49,34
