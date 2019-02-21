@@ -1,6 +1,6 @@
 # Wheat prices, long run, in England (Makridakis et al. 1997)
 
-Long-run series on wheat prices in England, measured in 1996 pounds.
+Long-run series on wheat prices in England, measured in constant 1996 pounds per tonne.
 
 Data is sourced from Makridakis, Wheelwright, and Hyndman (1997) - Forecasting: Methods and Applications. Wiley.
 

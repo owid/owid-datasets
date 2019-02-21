@@ -2,14 +2,14 @@
   "name": "Wheat prices, long run, in England (Makridakis et al. 1997)",
   "title": "Wheat prices, long run, in England (Makridakis et al. 1997)",
   "id": 3222,
-  "description": "Long-run series on wheat prices in England, measured in 1996 pounds.\n\nData is sourced from Makridakis, Wheelwright, and Hyndman (1997) - Forecasting: Methods and Applications. Wiley.\n\nThe data is available at the book's accompanying website here: https://robjhyndman.com/forecasting/\n\nThis book is online here: http://otexts.com/fpp/",
+  "description": "Long-run series on wheat prices in England, measured in constant 1996 pounds per tonne.\n\nData is sourced from Makridakis, Wheelwright, and Hyndman (1997) - Forecasting: Methods and Applications. Wiley.\n\nThe data is available at the book's accompanying website here: https://robjhyndman.com/forecasting/\n\nThis book is online here: http://otexts.com/fpp/",
   "sources": [
     {
       "name": "Wheat prices, long run, in England (Makridakis et al. 1997)",
       "dataPublishedBy": "Makridakis, Wheelwright, and Hyndman (1997) - Forecasting: Methods and Applications. Wiley.",
       "link": "https://robjhyndman.com/forecasting/",
       "retrievedDate": "21st February 2019",
-      "additionalInfo": "Long-run series on wheat prices in England, measured in 1996 pounds.\n\nData is sourced from Makridakis, Wheelwright, and Hyndman (1997) - Forecasting: Methods and Applications. Wiley.\n\nThe data is available at the book's accompanying website here: https://robjhyndman.com/forecasting/\n\nThis book is online here: http://otexts.com/fpp/"
+      "additionalInfo": "Long-run series on wheat prices in England, measured in constant 1996 pounds per tonne.\n\nData is sourced from Makridakis, Wheelwright, and Hyndman (1997) - Forecasting: Methods and Applications. Wiley.\n\nThe data is available at the book's accompanying website here: https://robjhyndman.com/forecasting/\n\nThis book is online here: http://otexts.com/fpp/"
     }
   ],
   "owidTags": [
@@ -31,8 +31,13 @@
           {
             "name": "Wheat price in 1996 pounds (Makridakis et al. (1997))",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": {}
+            "description": "Long-run series on wheat prices in England, measured in constant 1996 pounds per tonne.",
+            "owidDisplaySettings": {
+              "name": "Wheat prices",
+              "unit": "1996 pounds per tonne",
+              "shortUnit": "£",
+              "numDecimalPlaces": 2
+            }
           }
         ]
       }
