@@ -1,12 +1,12 @@
 {
-  "name": "Labor productivity per hour (Bank of England (2016))",
-  "title": "Labor productivity per hour (Bank of England (2016))",
+  "name": "Labor productivity per hour (Hill, Thomas, Dimsdale (2016), Bank of England)",
+  "title": "Labor productivity per hour (Hill, Thomas, Dimsdale (2016), Bank of England)",
   "id": 2479,
   "description": "Uses GDP at factor cost.  Great Britain growth rates prior to 1855.",
   "sources": [
     {
-      "name": "Bank of England, A Millennium of UK Data (2016)",
-      "dataPublishedBy": "Thomas, R and Dimsdale, N (2017) \"A Millennium of UK Data\", Bank of England OBRA dataset, http://www.bankofengland.co.uk/research/Pages/onebank/threecenturies.aspx",
+      "name": "Hill, Thomas, Dimsdale (2016), A Millennium of UK Data (2016), Bank of England",
+      "dataPublishedBy": "Hill, S, Thomas, R and Dimsdale, N (2017) \"A Millennium of UK Data\", Bank of England OBRA dataset, https://www.bankofengland.co.uk/statistics/research-datasets",
       "dataPublisherSource": "Historical data",
       "link": "https://www.bankofengland.co.uk/statistics/research-datasets#",
       "retrievedDate": "22/02/2018",
@@ -18,7 +18,7 @@
   ],
   "resources": [
     {
-      "path": "Labor productivity per hour (Bank of England (2016)).csv",
+      "path": "Labor productivity per hour (Hill, Thomas, Dimsdale (2016), Bank of England).csv",
       "schema": {
         "fields": [
           {
