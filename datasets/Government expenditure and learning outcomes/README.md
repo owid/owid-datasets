@@ -1,0 +1,5 @@
+# Government expenditure and learning outcomes
+
+This dataset was compiled to compare the government expenditure per primary student ($PPP) with learning outcomes. Because of the patchy nature of the government expenditure data as obtained from the World Bank EdStats Dataset, the most recent available expenditure data were used while 2006 was used as a cut-off point. 
+
+The measure of learning outcome used is the share of students either achieving or not achieving a minimum proficiency benchmark. Achievement outcomes come from standardized, psychometrically-robust international and regional tests. In order to maximize coverage by country, tests have been harmonized and pooled across subjects (math, reading, science) and levels (primary and secondary education). Higher proficiency benchmarks that represent the missing share of 100% are students that reached intermediate or advanced proficiency levels. See source for details on proficiency benchmarks. 
