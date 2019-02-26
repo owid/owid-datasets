@@ -39,7 +39,9 @@
             "name": "Inequality in education (2017)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": {
+              "name": "Inequality in education"
+            }
           }
         ]
       }

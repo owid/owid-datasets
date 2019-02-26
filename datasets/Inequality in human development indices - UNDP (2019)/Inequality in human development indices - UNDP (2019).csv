@@ -1,211 +1,385 @@
 Entity,Year,Inequality in life expectancy (2015-2020),Inequality in education (2017)
-Afghanistan,1,28.4,45.4
-Albania,1,9.2,8.5
-Algeria,1,15.1,33.7
-Andorra,1,..,9.4
-Angola,1,33.8,34.3
-Antigua and Barbuda,1,7.5,..
-Arab States,1,15.7,32.6
-Argentina,1,9.5,6.2
-Armenia,1,9,2.9
-Australia,1,3.6,2.6
-Austria,1,3,2.6
-Azerbaijan,1,17,3.8
-Bahamas,1,8.7,6.3
-Bahrain,1,5.6,19
-Bangladesh,1,17.3,37.3
-Barbados,1,7,5.5
-Belarus,1,4.9,3.7
-Belgium,1,3.6,8.7
-Belize,1,10.1,15.9
-Benin,1,35,43.7
-Bhutan,1,17.8,41.7
-Bolivia,1,25.2,20
-Bosnia and Herzegovina,1,5.9,19.8
-Botswana,1,18.6,..
-Brazil,1,10.8,22
-Brunei,1,5.5,..
-Bulgaria,1,6.7,6.5
-Burkina Faso,1,32,39.2
-Burundi,1,38.1,39.5
-Cambodia,1,16,27.3
-Cameroon,1,33.7,33
-Canada,1,4.3,1.4
-Cape Verde,1,13.3,23.7
-Central African Republic,1,41.7,34.5
-Chad,1,42.4,43
-Chile,1,6.1,7.5
-China,1,7.9,11.5
-Colombia,1,13.2,19.4
-Comoros,1,28.9,47.6
-Congo,1,25.1,21.5
-Costa Rica,1,7.5,11.9
-Cote d'Ivoire,1,34.2,47.4
-Croatia,1,4.1,5
-Cuba,1,5.3,10.9
-Cyprus,1,3.6,11.7
-Czech Republic,1,3.3,1.6
-Democratic Republic of Congo,1,36.1,26.3
-Denmark,1,3.4,4.3
-Developing countries,1,17.4,25.3
-Djibouti,1,30.8,47
-Dominica,1,..,..
-Dominican Republic,1,15.4,19.1
-East Asia and the Pacific,1,10,13.1
-Ecuador,1,13.9,13.8
-Egypt,1,11.6,36.9
-El Salvador,1,12.2,30.3
-Equatorial Guinea,1,35,..
-Eritrea,1,21.4,..
-Estonia,1,4.3,2.3
-Ethiopia,1,24.9,43.5
-Europe and Central Asia,1,10.9,7.2
-Fiji,1,10.9,..
-Finland,1,2.8,1.9
-France,1,3.6,8.6
-Gabon,1,23.1,23.5
-Gambia,1,28.5,49.3
-Georgia,1,8.1,2.2
-Germany,1,3,2.7
-Ghana,1,26.2,34.9
-Greece,1,3.5,13.1
-Grenada,1,8,..
-Guatemala,1,16,35
-Guinea,1,31.2,48.3
-Guinea-Bissau,1,38.4,41.9
-Guyana,1,19.5,10.7
-Haiti,1,28.6,38.3
-High human development,1,9.2,13.1
-Honduras,1,18.1,22.7
-Hong Kong,1,2.5,10.2
-Hungary,1,4.7,3.2
-Iceland,1,2.4,2.6
-India,1,21.4,38.7
-Indonesia,1,14.8,16.5
-Iran,1,9,4.9
-Iraq,1,17.3,27.2
-Ireland,1,2.8,2.9
-Israel,1,3.3,7
-Italy,1,2.9,10.5
-Jamaica,1,11,5.6
-Japan,1,2.9,1.6
-Jordan,1,10.7,16.9
-Kazakhstan,1,10.1,3.2
-Kenya,1,22.8,22.9
-Kiribati,1,24.5,21.4
-Korea,1,3.2,18.5
-Kuwait,1,6.3,17.8
-Kyrgyzstan,1,12.1,5
-Laos,1,23.1,34.1
-Latin America and the Caribbean,1,12.1,18.4
-Latvia,1,5.9,3.7
-Least developed countries,1,27.1,36.2
-Lebanon,1,6.7,6.2
-Lesotho,1,28.5,21.9
-Liberia,1,27.5,42.9
-Libya,1,14.1,..
-Liechtenstein,1,..,..
-Lithuania,1,5.4,4.5
-Low human development,1,31.2,37
-Luxembourg,1,3.4,9.4
-Macedonia,1,6.5,10.5
-Madagascar,1,21.3,35
-Malawi,1,30.3,28.4
-Malaysia,1,5.9,15.6
-Maldives,1,5.7,40
-Mali,1,36.8,46.2
-Malta,1,4,6.9
-Marshall Islands,1,..,..
-Mauritania,1,32.6,40.8
-Mauritius,1,8.9,13.2
-Medium human development,1,20.3,33.1
-Mexico,1,12.3,17.1
-Micronesia (country),1,19,..
-Moldova,1,9.6,7.3
-Monaco,1,..,..
-Mongolia,1,13.4,11.9
-Montenegro,1,4.4,7.4
-Morocco,1,14,..
-Mozambique,1,35.6,33.8
-Myanmar,1,24,26.9
-Namibia,1,20.2,25
-Nauru,1,..,..
-Nepal,1,16.6,40.9
-Netherlands,1,3,5.3
-New Zealand,1,4.3,1.7
-Nicaragua,1,12.9,25.7
-Niger,1,34.9,35
-Nigeria,1,37.4,38.1
-North Korea,1,11.6,..
-Norway,1,2.7,6.1
-Oman,1,7.1,..
-Organization for Economic Co-operation and Development,1,5.3,7.7
-Pakistan,1,31,46.2
-Palau,1,..,1.9
-Palestine,1,12.2,14.1
-Panama,1,11.5,12.5
-Papua New Guinea,1,25.3,11.5
-Paraguay,1,18,16.7
-Peru,1,13.2,15.3
-Philippines,1,14.4,11.6
-Poland,1,4.7,4.7
-Portugal,1,2.9,16.3
-Qatar,1,5.9,11.4
-Romania,1,6.8,6.3
-Russia,1,8,2.2
-Rwanda,1,23.8,29.3
-Saint Kitts and Nevis,1,..,..
-Saint Lucia,1,9,12.6
-Saint Vincent and the Grenadines,1,11.9,..
-Samoa,1,11.4,4.9
-San Marino,1,..,..
-Sao Tome and Principe,1,25.9,18.3
-Saudi Arabia,1,8.9,16.2
-Senegal,1,21.1,46.5
-Serbia,1,7.1,8.1
-Seychelles,1,7.7,..
-Sierra Leone,1,39.8,47.3
-Singapore,1,2.6,8.2
-Slovakia,1,5.2,1.4
-Slovenia,1,3,2.2
-Small island developing states,1,16.1,19.6
-Solomon Islands,1,15.9,..
-Somalia,1,38.9,..
-South Africa,1,20.3,14.3
-South Asia,1,21.4,37.7
-South Sudan,1,37,39.6
-Spain,1,3,18.6
-Sri Lanka,1,7.1,12.8
-Sub-Saharan Africa,1,30.8,33.7
-Sudan,1,27.9,42.5
-Suriname,1,12.4,15.6
-Swaziland,1,26.2,24.1
-Sweden,1,2.7,3.7
-Switzerland,1,3.5,2.4
-Syria,1,13,..
-Tajikistan,1,20.1,6.5
-Tanzania,1,24.9,27
-Thailand,1,9.3,13.3
-Timor,1,20.6,44.9
-Togo,1,30.5,38.9
-Tonga,1,13,4.5
-Trinidad and Tobago,1,15.6,..
-Tunisia,1,10.7,34.6
-Turkey,1,9.6,13.5
-Turkmenistan,1,23.4,3.6
-Tuvalu,1,..,10.5
-Uganda,1,32.5,27.9
-Ukraine,1,7.5,3.6
-United Arab Emirates,1,5.2,..
-United Kingdom,1,4,3.7
-United States,1,5.6,5.5
-Uruguay,1,9,7.4
-Uzbekistan,1,17,0.8
-Vanuatu,1,14.1,17.5
-Venezuela,1,10.5,12.9
-Very high human development,1,5,6.3
-Vietnam,1,12.7,17.6
-World,1,15.2,22
-Yemen,1,24.9,46.1
-Zambia,1,28.8,21.7
-Zimbabwe,1,26.6,16.8
+Afghanistan,2015,28.4,
+Afghanistan,2017,,45.4
+Albania,2015,9.2,
+Albania,2017,,8.5
+Algeria,2015,15.1,
+Algeria,2017,,33.7
+Andorra,2017,,9.4
+Angola,2015,33.8,
+Angola,2017,,34.3
+Antigua and Barbuda,2015,7.5,
+Arab States,2015,15.7,
+Arab States,2017,,32.6
+Argentina,2015,9.5,
+Argentina,2017,,6.2
+Armenia,2015,9,
+Armenia,2017,,2.9
+Australia,2015,3.6,
+Australia,2017,,2.6
+Austria,2015,3,
+Austria,2017,,2.6
+Azerbaijan,2015,17,
+Azerbaijan,2017,,3.8
+Bahamas,2015,8.7,
+Bahamas,2017,,6.3
+Bahrain,2015,5.6,
+Bahrain,2017,,19
+Bangladesh,2015,17.3,
+Bangladesh,2017,,37.3
+Barbados,2015,7,
+Barbados,2017,,5.5
+Belarus,2015,4.9,
+Belarus,2017,,3.7
+Belgium,2015,3.6,
+Belgium,2017,,8.7
+Belize,2015,10.1,
+Belize,2017,,15.9
+Benin,2015,35,
+Benin,2017,,43.7
+Bhutan,2015,17.8,
+Bhutan,2017,,41.7
+Bolivia,2015,25.2,
+Bolivia,2017,,20
+Bosnia and Herzegovina,2015,5.9,
+Bosnia and Herzegovina,2017,,19.8
+Botswana,2015,18.6,
+Brazil,2015,10.8,
+Brazil,2017,,22
+Brunei,2015,5.5,
+Bulgaria,2015,6.7,
+Bulgaria,2017,,6.5
+Burkina Faso,2015,32,
+Burkina Faso,2017,,39.2
+Burundi,2015,38.1,
+Burundi,2017,,39.5
+Cambodia,2015,16,
+Cambodia,2017,,27.3
+Cameroon,2015,33.7,
+Cameroon,2017,,33
+Canada,2015,4.3,
+Canada,2017,,1.4
+Cape Verde,2015,13.3,
+Cape Verde,2017,,23.7
+Central African Republic,2015,41.7,
+Central African Republic,2017,,34.5
+Chad,2015,42.4,
+Chad,2017,,43
+Chile,2015,6.1,
+Chile,2017,,7.5
+China,2015,7.9,
+China,2017,,11.5
+Colombia,2015,13.2,
+Colombia,2017,,19.4
+Comoros,2015,28.9,
+Comoros,2017,,47.6
+Congo,2015,25.1,
+Congo,2017,,21.5
+Costa Rica,2015,7.5,
+Costa Rica,2017,,11.9
+Cote d'Ivoire,2015,34.2,
+Cote d'Ivoire,2017,,47.4
+Croatia,2015,4.1,
+Croatia,2017,,5
+Cuba,2015,5.3,
+Cuba,2017,,10.9
+Cyprus,2015,3.6,
+Cyprus,2017,,11.7
+Czech Republic,2015,3.3,
+Czech Republic,2017,,1.6
+Democratic Republic of Congo,2015,36.1,
+Democratic Republic of Congo,2017,,26.3
+Denmark,2015,3.4,
+Denmark,2017,,4.3
+Developing countries,2015,17.4,
+Developing countries,2017,,25.3
+Djibouti,2015,30.8,
+Djibouti,2017,,47
+Dominican Republic,2015,15.4,
+Dominican Republic,2017,,19.1
+East Asia and the Pacific,2015,10,
+East Asia and the Pacific,2017,,13.1
+Ecuador,2015,13.9,
+Ecuador,2017,,13.8
+Egypt,2015,11.6,
+Egypt,2017,,36.9
+El Salvador,2015,12.2,
+El Salvador,2017,,30.3
+Equatorial Guinea,2015,35,
+Eritrea,2015,21.4,
+Estonia,2015,4.3,
+Estonia,2017,,2.3
+Ethiopia,2015,24.9,
+Ethiopia,2017,,43.5
+Europe and Central Asia,2015,10.9,
+Europe and Central Asia,2017,,7.2
+Fiji,2015,10.9,
+Finland,2015,2.8,
+Finland,2017,,1.9
+France,2015,3.6,
+France,2017,,8.6
+Gabon,2015,23.1,
+Gabon,2017,,23.5
+Gambia,2015,28.5,
+Gambia,2017,,49.3
+Georgia,2015,8.1,
+Georgia,2017,,2.2
+Germany,2015,3,
+Germany,2017,,2.7
+Ghana,2015,26.2,
+Ghana,2017,,34.9
+Greece,2015,3.5,
+Greece,2017,,13.1
+Grenada,2015,8,
+Guatemala,2015,16,
+Guatemala,2017,,35
+Guinea,2015,31.2,
+Guinea,2017,,48.3
+Guinea-Bissau,2015,38.4,
+Guinea-Bissau,2017,,41.9
+Guyana,2015,19.5,
+Guyana,2017,,10.7
+Haiti,2015,28.6,
+Haiti,2017,,38.3
+High human development,2015,9.2,
+High human development,2017,,13.1
+Honduras,2015,18.1,
+Honduras,2017,,22.7
+Hong Kong,2015,2.5,
+Hong Kong,2017,,10.2
+Hungary,2015,4.7,
+Hungary,2017,,3.2
+Iceland,2015,2.4,
+Iceland,2017,,2.6
+India,2015,21.4,
+India,2017,,38.7
+Indonesia,2015,14.8,
+Indonesia,2017,,16.5
+Iran,2015,9,
+Iran,2017,,4.9
+Iraq,2015,17.3,
+Iraq,2017,,27.2
+Ireland,2015,2.8,
+Ireland,2017,,2.9
+Israel,2015,3.3,
+Israel,2017,,7
+Italy,2015,2.9,
+Italy,2017,,10.5
+Jamaica,2015,11,
+Jamaica,2017,,5.6
+Japan,2015,2.9,
+Japan,2017,,1.6
+Jordan,2015,10.7,
+Jordan,2017,,16.9
+Kazakhstan,2015,10.1,
+Kazakhstan,2017,,3.2
+Kenya,2015,22.8,
+Kenya,2017,,22.9
+Kiribati,2015,24.5,
+Kiribati,2017,,21.4
+Korea,2015,3.2,
+Korea,2017,,18.5
+Kuwait,2015,6.3,
+Kuwait,2017,,17.8
+Kyrgyzstan,2015,12.1,
+Kyrgyzstan,2017,,5
+Laos,2015,23.1,
+Laos,2017,,34.1
+Latin America and the Caribbean,2015,12.1,
+Latin America and the Caribbean,2017,,18.4
+Latvia,2015,5.9,
+Latvia,2017,,3.7
+Least developed countries,2015,27.1,
+Least developed countries,2017,,36.2
+Lebanon,2015,6.7,
+Lebanon,2017,,6.2
+Lesotho,2015,28.5,
+Lesotho,2017,,21.9
+Liberia,2015,27.5,
+Liberia,2017,,42.9
+Libya,2015,14.1,
+Lithuania,2015,5.4,
+Lithuania,2017,,4.5
+Low human development,2015,31.2,
+Low human development,2017,,37
+Luxembourg,2015,3.4,
+Luxembourg,2017,,9.4
+Macedonia,2015,6.5,
+Macedonia,2017,,10.5
+Madagascar,2015,21.3,
+Madagascar,2017,,35
+Malawi,2015,30.3,
+Malawi,2017,,28.4
+Malaysia,2015,5.9,
+Malaysia,2017,,15.6
+Maldives,2015,5.7,
+Maldives,2017,,40
+Mali,2015,36.8,
+Mali,2017,,46.2
+Malta,2015,4,
+Malta,2017,,6.9
+Mauritania,2015,32.6,
+Mauritania,2017,,40.8
+Mauritius,2015,8.9,
+Mauritius,2017,,13.2
+Medium human development,2015,20.3,
+Medium human development,2017,,33.1
+Mexico,2015,12.3,
+Mexico,2017,,17.1
+Micronesia (country),2015,19,
+Moldova,2015,9.6,
+Moldova,2017,,7.3
+Mongolia,2015,13.4,
+Mongolia,2017,,11.9
+Montenegro,2015,4.4,
+Montenegro,2017,,7.4
+Morocco,2015,14,
+Mozambique,2015,35.6,
+Mozambique,2017,,33.8
+Myanmar,2015,24,
+Myanmar,2017,,26.9
+Namibia,2015,20.2,
+Namibia,2017,,25
+Nepal,2015,16.6,
+Nepal,2017,,40.9
+Netherlands,2015,3,
+Netherlands,2017,,5.3
+New Zealand,2015,4.3,
+New Zealand,2017,,1.7
+Nicaragua,2015,12.9,
+Nicaragua,2017,,25.7
+Niger,2015,34.9,
+Niger,2017,,35
+Nigeria,2015,37.4,
+Nigeria,2017,,38.1
+North Korea,2015,11.6,
+Norway,2015,2.7,
+Norway,2017,,6.1
+Oman,2015,7.1,
+Organization for Economic Co-operation and Development,2015,5.3,
+Organization for Economic Co-operation and Development,2017,,7.7
+Pakistan,2015,31,
+Pakistan,2017,,46.2
+Palau,2017,,1.9
+Palestine,2015,12.2,
+Palestine,2017,,14.1
+Panama,2015,11.5,
+Panama,2017,,12.5
+Papua New Guinea,2015,25.3,
+Papua New Guinea,2017,,11.5
+Paraguay,2015,18,
+Paraguay,2017,,16.7
+Peru,2015,13.2,
+Peru,2017,,15.3
+Philippines,2015,14.4,
+Philippines,2017,,11.6
+Poland,2015,4.7,
+Poland,2017,,4.7
+Portugal,2015,2.9,
+Portugal,2017,,16.3
+Qatar,2015,5.9,
+Qatar,2017,,11.4
+Romania,2015,6.8,
+Romania,2017,,6.3
+Russia,2015,8,
+Russia,2017,,2.2
+Rwanda,2015,23.8,
+Rwanda,2017,,29.3
+Saint Lucia,2015,9,
+Saint Lucia,2017,,12.6
+Saint Vincent and the Grenadines,2015,11.9,
+Samoa,2015,11.4,
+Samoa,2017,,4.9
+Sao Tome and Principe,2015,25.9,
+Sao Tome and Principe,2017,,18.3
+Saudi Arabia,2015,8.9,
+Saudi Arabia,2017,,16.2
+Senegal,2015,21.1,
+Senegal,2017,,46.5
+Serbia,2015,7.1,
+Serbia,2017,,8.1
+Seychelles,2015,7.7,
+Sierra Leone,2015,39.8,
+Sierra Leone,2017,,47.3
+Singapore,2015,2.6,
+Singapore,2017,,8.2
+Slovakia,2015,5.2,
+Slovakia,2017,,1.4
+Slovenia,2015,3,
+Slovenia,2017,,2.2
+Small island developing states,2015,16.1,
+Small island developing states,2017,,19.6
+Solomon Islands,2015,15.9,
+Somalia,2015,38.9,
+South Africa,2015,20.3,
+South Africa,2017,,14.3
+South Asia,2015,21.4,
+South Asia,2017,,37.7
+South Sudan,2015,37,
+South Sudan,2017,,39.6
+Spain,2015,3,
+Spain,2017,,18.6
+Sri Lanka,2015,7.1,
+Sri Lanka,2017,,12.8
+Sub-Saharan Africa,2015,30.8,
+Sub-Saharan Africa,2017,,33.7
+Sudan,2015,27.9,
+Sudan,2017,,42.5
+Suriname,2015,12.4,
+Suriname,2017,,15.6
+Swaziland,2015,26.2,
+Swaziland,2017,,24.1
+Sweden,2015,2.7,
+Sweden,2017,,3.7
+Switzerland,2015,3.5,
+Switzerland,2017,,2.4
+Syria,2015,13,
+Tajikistan,2015,20.1,
+Tajikistan,2017,,6.5
+Tanzania,2015,24.9,
+Tanzania,2017,,27
+Thailand,2015,9.3,
+Thailand,2017,,13.3
+Timor,2015,20.6,
+Timor,2017,,44.9
+Togo,2015,30.5,
+Togo,2017,,38.9
+Tonga,2015,13,
+Tonga,2017,,4.5
+Trinidad and Tobago,2015,15.6,
+Tunisia,2015,10.7,
+Tunisia,2017,,34.6
+Turkey,2015,9.6,
+Turkey,2017,,13.5
+Turkmenistan,2015,23.4,
+Turkmenistan,2017,,3.6
+Tuvalu,2017,,10.5
+Uganda,2015,32.5,
+Uganda,2017,,27.9
+Ukraine,2015,7.5,
+Ukraine,2017,,3.6
+United Arab Emirates,2015,5.2,
+United Kingdom,2015,4,
+United Kingdom,2017,,3.7
+United States,2015,5.6,
+United States,2017,,5.5
+Uruguay,2015,9,
+Uruguay,2017,,7.4
+Uzbekistan,2015,17,
+Uzbekistan,2017,,0.8
+Vanuatu,2015,14.1,
+Vanuatu,2017,,17.5
+Venezuela,2015,10.5,
+Venezuela,2017,,12.9
+Very high human development,2015,5,
+Very high human development,2017,,6.3
+Vietnam,2015,12.7,
+Vietnam,2017,,17.6
+World,2015,15.2,
+World,2017,,22
+Yemen,2015,24.9,
+Yemen,2017,,46.1
+Zambia,2015,28.8,
+Zambia,2017,,21.7
+Zimbabwe,2015,26.6,
+Zimbabwe,2017,,16.8
