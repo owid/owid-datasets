@@ -1,15 +1,15 @@
 {
-  "name": "CO2 concentrations - NOAA (2018)",
-  "title": "CO2 concentrations - NOAA (2018)",
+  "name": "CO2 concentrations - NOAA (2019)",
+  "title": "CO2 concentrations - NOAA (2019)",
   "id": 418,
   "description": "Annual mean carbon dioxide (CO₂) concentration data from the Mauna Loa monitoring station. \n\nData from 1958 through 1974 have been obtained by C. David Keeling of the Scripps Institution of Oceanography (SIO) and were obtained from the Scripps website (scrippsco2.ucsd.edu).\n\n",
   "sources": [
     {
-      "name": "CO2 concentrations - NOAA (2018)",
+      "name": "CO2 concentrations - NOAA (2019)",
       "dataPublishedBy": "NOAA/ESRL",
       "dataPublisherSource": "Ed Dlugokencky and Pieter Tans, NOAA/ESRL",
       "link": "https://www.esrl.noaa.gov/gmd/ccgg/trends/data.html",
-      "retrievedDate": "01/12/2018",
+      "retrievedDate": "5th March 2019",
       "additionalInfo": "Annual mean carbon dioxide (CO₂) concentration data from the Mauna Loa monitoring station. \n\nData from 1958 through 1974 have been obtained by C. David Keeling of the Scripps Institution of Oceanography (SIO) and were obtained from the Scripps website (scrippsco2.ucsd.edu).\n\n"
     }
   ],
@@ -18,7 +18,7 @@
   ],
   "resources": [
     {
-      "path": "CO2 concentrations - NOAA (2018).csv",
+      "path": "CO2 concentrations - NOAA (2019).csv",
       "schema": {
         "fields": [
           {
@@ -33,11 +33,7 @@
             "name": "CO2 concentrations (NOAA, 2018)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {
-              "name": "CO₂ concentration",
-              "unit": "parts per million",
-              "shortUnit": "ppm"
-            }
+            "owidDisplaySettings": "{\"name\": \"CO₂ concentration\", \"unit\": \"parts per million\", \"shortUnit\": \"ppm\"}"
           }
         ]
       }
