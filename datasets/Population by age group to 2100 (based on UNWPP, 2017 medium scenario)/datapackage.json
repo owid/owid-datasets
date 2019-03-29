@@ -1,0 +1,78 @@
+{
+  "name": "Population by age group to 2100 (based on UNWPP, 2017 medium scenario)",
+  "title": "Population by age group to 2100 (based on UNWPP, 2017 medium scenario)",
+  "id": 3262,
+  "description": "Dataset was compiled by Our World in Data by combining historical estimates (1950-2015) published by the UN World Population Prospects (2017) Revision, and its medium scenario projected to 2100. \n\n",
+  "sources": [
+    {
+      "name": "Population by age group to 2100 (based on UNWPP, 2017 medium scenario)",
+      "dataPublishedBy": "United Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, DVD Edition.",
+      "link": "https://esa.un.org/unpd/wpp/Download/Standard/Population/",
+      "additionalInfo": "Dataset was compiled by Our World in Data by combining historical estimates (1950-2015) published by the UN World Population Prospects (2017) Revision, and its medium scenario projected to 2100. \n\n"
+    }
+  ],
+  "owidTags": [
+    "Population Growth",
+    "Future Population Growth",
+    "Age Structure"
+  ],
+  "resources": [
+    {
+      "path": "Population by age group to 2100 (based on UNWPP, 2017 medium scenario).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Under 15 years old (UNWPP, 2017)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Working age (15-64 years old) (UNWPP, 2017)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "65+ years old (UNWPP, 2017)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Under 5 years old (UNWPP, 2017)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "5-14 years old (UNWPP, 2017)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "15-24 years old (UNWPP, 2017)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "25-64 years old (UNWPP, 2017)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
