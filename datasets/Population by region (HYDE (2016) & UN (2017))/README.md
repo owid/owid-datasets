@@ -1,4 +1,4 @@
-# Population by region (HYDE & UN)
+# Population by region (HYDE (2016) & UN (2017))
 
 This long-run population series by region was constructed by Our World in Data based on two key sources: the HYDE database (2016) and UN World Population Prospects (2017). 
 
