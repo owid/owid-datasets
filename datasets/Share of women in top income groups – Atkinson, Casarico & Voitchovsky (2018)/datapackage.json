@@ -1,0 +1,72 @@
+{
+  "name": "Share of women in top income groups – Atkinson, Casarico & Voitchovsky (2018)",
+  "title": "Share of women in top income groups – Atkinson, Casarico & Voitchovsky (2018)",
+  "id": 3265,
+  "description": "Based on tax data",
+  "sources": [
+    {
+      "name": "Atkinson, Casarico and Voitchovsky (2018)",
+      "additionalInfo": "Based on tax data",
+      "dataPublisherSource": "Tax data",
+      "dataPublishedBy": "Atkinson, A.B., Casarico, A. & Voitchovsky, S. J Econ Inequal (2018) 16: 225. https://doi.org/10.1007/s10888-018-9384-z",
+      "link": "https://doi.org/10.1007/s10888-018-9384-z",
+      "retrievedDate": "4/4/2019"
+    }
+  ],
+  "owidTags": [
+    "Economic Inequality by Gender"
+  ],
+  "resources": [
+    {
+      "path": "Share of women in top income groups – Atkinson, Casarico & Voitchovsky (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of women in top 10%",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Share of women in top 5%",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Share of women in top 1%",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Share of women in top 0.1%",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Share of women in top 0.5%",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Share of women in top 0.25%",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
