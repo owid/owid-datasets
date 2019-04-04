@@ -1,0 +1,59 @@
+{
+  "name": "Sex ratio at birth by birth order in S.Korea & China (Jiang et al. 2017)",
+  "title": "Sex ratio at birth by birth order in S.Korea & China (Jiang et al. 2017)",
+  "id": 3266,
+  "description": "Data measures the sex ratio at birth (SRB) depending on the birth order of children (first, second or third-born child). SRB is measured as the number of male births per 100 female births.\n\nData is available for South Korea and China.",
+  "sources": [
+    {
+      "name": "Sex ratio at birth by birth order in S.Korea & China (Jiang et al. 2017)",
+      "dataPublishedBy": "Jiang, Q., Yu, Q., Yang, S., & Sánchez-Barricarte, J. J. (2017). Changes in sex ratio at birth in china: a decomposition by birth order. Journal of Biosocial Science, 49(6), 826-841.",
+      "link": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/51D48C611E5176A042FF28684041D997/S0021932016000547a.pdf/changes_in_sex_ratio_at_birth_in_china_a_decomposition_by_birth_order.pdf",
+      "retrievedDate": "4th April 2019",
+      "additionalInfo": "Data measures the sex ratio at birth (SRB) depending on the birth order of children (first, second or third-born child). SRB is measured as the number of male births per 100 female births.\n\nData is available for South Korea and China."
+    }
+  ],
+  "owidTags": [
+    "Gender Ratio"
+  ],
+  "resources": [
+    {
+      "path": "Sex ratio at birth by birth order in S.Korea & China (Jiang et al. 2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total SRB",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "First child SRB",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Second child SRB",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Third child SRB",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
