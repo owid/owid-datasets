@@ -1,4 +1,4 @@
-# Causes of infant death in boys and girls (IHME, 2019)
+# Causes of infant death in boys and girls (IHME, 2018)
 
 Rates of infant mortality by sex for selected causes of death. This is based on death rates per 100,000 for infants less than one year old. This is given for a range of leading causes of death for comparison between infant mortality rates in males and females.
 
