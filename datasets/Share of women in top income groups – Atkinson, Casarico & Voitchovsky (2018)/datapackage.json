@@ -2,11 +2,11 @@
   "name": "Share of women in top income groups – Atkinson, Casarico & Voitchovsky (2018)",
   "title": "Share of women in top income groups – Atkinson, Casarico & Voitchovsky (2018)",
   "id": 3265,
-  "description": "Based on tax data",
+  "description": "Share of women in pre-tax top income groups. Based on tax data. Income includes earned, self-employment and investment income. Capital gains is in general excluded, but to varying degrees between countries.",
   "sources": [
     {
       "name": "Atkinson, Casarico and Voitchovsky (2018)",
-      "additionalInfo": "Based on tax data",
+      "additionalInfo": "Share of women in pre-tax top income groups. Based on tax data. Income includes earned, self-employment and investment income. Capital gains is in general excluded, but to varying degrees between countries.",
       "dataPublisherSource": "Tax data",
       "dataPublishedBy": "Atkinson, A.B., Casarico, A. & Voitchovsky, S. J Econ Inequal (2018) 16: 225. https://doi.org/10.1007/s10888-018-9384-z",
       "link": "https://doi.org/10.1007/s10888-018-9384-z",
@@ -33,34 +33,76 @@
             "name": "Share of women in top 10%",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "Share of women in top 5%",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "Share of women in top 1%",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "Share of women in top 0.1%",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "Share of women in top 0.5%",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "Share of women in top 0.25%",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
+          },
+          {
+            "name": "top 10% series 2",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "top 5% series 2",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "top 1% series 2",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "top 0.1% series 2",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "top 0.5% series 2",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "top 0.25% series 2",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "top 0.5% series 3",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
