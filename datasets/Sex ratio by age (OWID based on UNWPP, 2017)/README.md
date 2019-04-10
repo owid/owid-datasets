@@ -1,4 +1,4 @@
-# Sex ratio by age (OWID based on UNWPP)
+# Sex ratio by age (OWID based on UNWPP, 2017)
 
 Sex ratio is here defined as the number of males per 100 females. Data is given at different life stages: one-year olds, 5-year olds, 10-year olds, 15-year olds, 20-year olds and each decade thereafter (to 100 year olds).
 

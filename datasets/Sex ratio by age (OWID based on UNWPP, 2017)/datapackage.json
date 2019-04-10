@@ -1,11 +1,11 @@
 {
-  "name": "Sex ratio by age (OWID based on UNWPP)",
-  "title": "Sex ratio by age (OWID based on UNWPP)",
+  "name": "Sex ratio by age (OWID based on UNWPP, 2017)",
+  "title": "Sex ratio by age (OWID based on UNWPP, 2017)",
   "id": 3269,
   "description": "Sex ratio is here defined as the number of males per 100 females. Data is given at different life stages: one-year olds, 5-year olds, 10-year olds, 15-year olds, 20-year olds and each decade thereafter (to 100 year olds).\n\nThis was calculated by Our World in Data based on male and female population estimates published in the United Nations World Population Prospects (2017 Revision).",
   "sources": [
     {
-      "name": "Sex ratio by age (OWID based on UNWPP)",
+      "name": "Sex ratio by age (OWID based on UNWPP, 2017)",
       "dataPublishedBy": "Calculated by Our World in Data based on United Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, DVD Edition.",
       "link": "https://esa.un.org/unpd/wpp/Download/Standard/Population/",
       "retrievedDate": "10th April 2019",
@@ -17,7 +17,7 @@
   ],
   "resources": [
     {
-      "path": "Sex ratio by age (OWID based on UNWPP).csv",
+      "path": "Sex ratio by age (OWID based on UNWPP, 2017).csv",
       "schema": {
         "fields": [
           {
