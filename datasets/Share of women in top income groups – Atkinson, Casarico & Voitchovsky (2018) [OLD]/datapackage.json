@@ -1,6 +1,6 @@
 {
-  "name": "Share of women in top income groups – Atkinson, Casarico & Voitchovsky (2018)",
-  "title": "Share of women in top income groups – Atkinson, Casarico & Voitchovsky (2018)",
+  "name": "Share of women in top income groups – Atkinson, Casarico & Voitchovsky (2018) [OLD]",
+  "title": "Share of women in top income groups – Atkinson, Casarico & Voitchovsky (2018) [OLD]",
   "id": 3265,
   "description": "Share of women in pre-tax top income groups. Based on tax data. Income includes earned, self-employment and investment income. Capital gains is in general excluded, but to varying degrees between countries.",
   "sources": [
@@ -18,7 +18,7 @@
   ],
   "resources": [
     {
-      "path": "Share of women in top income groups – Atkinson, Casarico & Voitchovsky (2018).csv",
+      "path": "Share of women in top income groups – Atkinson, Casarico & Voitchovsky (2018) [OLD].csv",
       "schema": {
         "fields": [
           {
