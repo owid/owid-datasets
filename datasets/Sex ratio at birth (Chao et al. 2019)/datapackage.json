@@ -1,0 +1,41 @@
+{
+  "name": "Sex ratio at birth (Chao et al. 2019)",
+  "title": "Sex ratio at birth (Chao et al. 2019)",
+  "id": 3271,
+  "description": "Sex ratio at birth, measured as the number of male births per 100 female births. Birth ratios are slightly male-biased, with an expected biological ratio of 105 male per 100 female births.\n\nData is available for every country from 1950, with modelled estimates based on a range of sources (census, household surveys and other population information sources) by the study authors.",
+  "sources": [
+    {
+      "name": "Sex ratio at birth (Chao et al. 2019)",
+      "dataPublishedBy": "Chao, F., Gerland, P., Cook, A.R., Alkema, L. (2019). Systematic assessment of the sex ratio at birth for all countries and estimation of national imbalances and regional reference levels. PNAS. ",
+      "link": "https://www.pnas.org/content/early/2019/04/09/1812593116",
+      "retrievedDate": "16th April 2019",
+      "additionalInfo": "Sex ratio at birth, measured as the number of male births per 100 female births. Birth ratios are slightly male-biased, with an expected biological ratio of 105 male per 100 female births.\n\nData is available for every country from 1950, with modelled estimates based on a range of sources (census, household surveys and other population information sources) by the study authors."
+    }
+  ],
+  "owidTags": [
+    "Gender Ratio"
+  ],
+  "resources": [
+    {
+      "path": "Sex ratio at birth (Chao et al. 2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Sex ratio at birth (Chao et al. 2019)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
