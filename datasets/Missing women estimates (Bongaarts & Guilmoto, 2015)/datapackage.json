@@ -2,14 +2,14 @@
   "name": "Missing women estimates (Bongaarts & Guilmoto, 2015)",
   "title": "Missing women estimates (Bongaarts & Guilmoto, 2015)",
   "id": 3272,
-  "description": "Missing women are defined as the number of additional women who would be alive in the absence of sex discrimination. Missing women are the sum of women missing at birth (as a result of sex-selective abortion) and excess female mortality through infanticide or neglect.\n\nMissing female births and excess female mortality are calculated based on the difference between observed and expected sex ratios.",
+  "description": "Missing women are defined as the number of additional women who would be alive in the absence of sex discrimination. Missing women are the sum of women missing at birth (as a result of sex-selective abortion) and excess female mortality through infanticide or neglect.\n\nMissing female births and excess female mortality are calculated based on the difference between observed and expected sex ratios.\n\nAuthors have calculated this historically from 1970 to today in five-year intervals, with projections through to 2100.",
   "sources": [
     {
       "name": "Missing women estimates (Bongaarts & Guilmoto, 2015)",
       "dataPublishedBy": "Bongaarts, J., & Guilmoto, C. Z. (2015). How many more missing women? Excess female mortality and prenatal sex selection, 1970–2050. Population and Development Review, 41(2), 241-269.",
       "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1728-4457.2015.00046.x",
       "retrievedDate": "17th April 2019",
-      "additionalInfo": "Missing women are defined as the number of additional women who would be alive in the absence of sex discrimination. Missing women are the sum of women missing at birth (as a result of sex-selective abortion) and excess female mortality through infanticide or neglect.\n\nMissing female births and excess female mortality are calculated based on the difference between observed and expected sex ratios."
+      "additionalInfo": "Missing women are defined as the number of additional women who would be alive in the absence of sex discrimination. Missing women are the sum of women missing at birth (as a result of sex-selective abortion) and excess female mortality through infanticide or neglect.\n\nMissing female births and excess female mortality are calculated based on the difference between observed and expected sex ratios.\n\nAuthors have calculated this historically from 1970 to today in five-year intervals, with projections through to 2100."
     }
   ],
   "owidTags": [
@@ -31,20 +31,20 @@
           {
             "name": "Missing Females (Bongaarts & Guilmoto, 2015)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Missing women are defined as the number of additional women who would be alive in the absence of sex discrimination. Missing women are the sum of women missing at birth (as a result of sex-selective abortion) and excess female mortality through infanticide or neglect.",
+            "owidDisplaySettings": "{\"name\": \"Number of missing women\", \"unit\": \"missing women\"}"
           },
           {
             "name": "Excess female deaths (Bongaarts & Guilmoto, 2015)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Missing women are defined as the number of additional women who would be alive in the absence of sex discrimination. Missing women are the sum of women missing at birth (as a result of sex-selective abortion) and excess female mortality through infanticide or neglect.",
+            "owidDisplaySettings": "{\"name\": \"Excess female deaths\", \"unit\": \"excess deaths\"}"
           },
           {
             "name": "Missing female births (Bongaarts & Guilmoto, 2015)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Missing women are defined as the number of additional women who would be alive in the absence of sex discrimination. Missing women are the sum of women missing at birth (as a result of sex-selective abortion) and excess female mortality through infanticide or neglect.",
+            "owidDisplaySettings": "{\"name\": \"Number of missing female births\", \"unit\": \"missing births\"}"
           }
         ]
       }
