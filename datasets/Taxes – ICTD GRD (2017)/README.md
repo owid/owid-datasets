@@ -1,4 +1,4 @@
-# Taxes – ICTD (2017)
+# Taxes – ICTD GRD (2017)
 
 This data comes from the 'merged' dataset provided by ICTD, after excluding observations flagged as unreliable. Specifically, we excluded the observations where the ICTD indicated concerns about their quality, accuracy or comparability. Details regarding these flags, as well as the dataset more generally, are available Prichard, W. (2016). Reassessing Tax and Development Research: A New Dataset, New Findings, and Lessons for Research. World Development, 80, 48-60.
 
