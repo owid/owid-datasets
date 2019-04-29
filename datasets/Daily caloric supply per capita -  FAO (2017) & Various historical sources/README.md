@@ -4,6 +4,8 @@ Data for all countries spanning the timeframe from 1961 is based on daily calori
 
 Data from 1961-1991 for Post-Soviet states are assumed to be in line with reported data for the USSR over this period.
 
+Data for the USSR is determined to be highly uncertain, and likely represents an overestimate of caloric supply prior to its dissolution. The FAO admits its estimates of USSR availability are highly uncertain, and comparative sources suggest the same. Detailed discussion on this topic is published by José Luis Ricón (Artir), available here: https://nintil.com/2016/05/11/the-soviet-union-food/
+
 Data estimates for a select number of countries extends earlier than 1961. The data sources are noted below:
 
 The data for Belgium, England, Finland, France, Germany, Iceland, Italy, the Netherlands and Norway between 1800 and 1960 is taken from Table 5.5 (Daily calorie consumption per head in western Europe, 1800–1960) in Floud, Fogel, Harris, and Hong (2011) – The Changing Body Health, Nutrition, and Human Development in the Western World Since 1700.
