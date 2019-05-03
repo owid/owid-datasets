@@ -1,0 +1,167 @@
+{
+  "name": "Endemic mammal species by country (IUCN, 2019)",
+  "title": "Endemic mammal species by country (IUCN, 2019)",
+  "id": 4098,
+  "description": "Data denotes the number of endemic species within a given organism group by country. Endemic species are those which are known to naturally occur in only one country. \n\nAlso available is the number of these endemic species which are categorised as 'threatened'.  'Threatened' species are those in any of the three Red List categories: Critically Endangered, Endangered, or Vulnerable. They are considered high or greater risk of extinction in the wild.\n\nThis data is only given for the more comprehensively assessed species groups (i.e., where >80% of the species in the group have been assessed).",
+  "sources": [
+    {
+      "name": "Endemic mammal species by country (IUCN, 2019)",
+      "dataPublishedBy": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/resources/summary-statistics#Summary%20Tables",
+      "retrievedDate": "3rd May 2019",
+      "additionalInfo": "Data denotes the number of endemic species within a given organism group by country. Endemic species are those which are known to naturally occur in only one country. \n\nAlso available is the number of these endemic species which are categorised as 'threatened'.  'Threatened' species are those in any of the three Red List categories: Critically Endangered, Endangered, or Vulnerable. They are considered high or greater risk of extinction in the wild.\n\nThis data is only given for the more comprehensively assessed species groups (i.e., where >80% of the species in the group have been assessed)."
+    }
+  ],
+  "owidTags": [
+    "Biodiversity"
+  ],
+  "resources": [
+    {
+      "path": "Endemic mammal species by country (IUCN, 2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Mammals (total endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Mammals (threatened endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Birds (total endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Birds (threatened endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Crocodiles & Alligators (total endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Crocodiles & Alligators (threatened endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Chameleons (total endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Chameleons (threatened endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Amphibians (total endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Amphibians (threatened endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Groupers (total endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Groupers (threatened endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Herrings, anchovies etc. (total endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Herrings, anchovies etc. (threatened endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Seahorses & Pipefishes (total endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Seahorses & Pipefishes (threatened endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Sturgeons (total endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Sturgeons (threatened endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Wrasses & Parrotfishes (total endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Wrasses & Parrotfishes (threatened endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Sharks & Rays (total endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Sharks & Rays (threatened endemic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
