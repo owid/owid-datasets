@@ -1,6 +1,6 @@
 # Endemic vertebrate species by country (IUCN, 2019)
 
-Data denotes the number of endemic species within a given organism group by country. Endemic species are those which are known to naturally occur in only one country. 
+Data denotes the number of endemic vertebrate species within a given organism group by country. Endemic species are those which are known to naturally occur in only one country. 
 
 Also available is the number of these endemic species which are categorised as 'threatened'.  'Threatened' species are those in any of the three Red List categories: Critically Endangered, Endangered, or Vulnerable. They are considered high or greater risk of extinction in the wild.
 
