@@ -61,8 +61,8 @@
           {
             "name": "Crocodiles & Alligators (threatened endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of threatened endemic crocodile & alligator species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Crocodiles & Alligators\", \"unit\": \"threatened endemic species\"}"
           },
           {
             "name": "Chameleons (total endemic)",
@@ -73,8 +73,8 @@
           {
             "name": "Chameleons (threatened endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of threatened endemic chameleon species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Chameleons\", \"unit\": \"threatened endemic species\"}"
           },
           {
             "name": "Amphibians (total endemic)",
@@ -85,8 +85,8 @@
           {
             "name": "Amphibians (threatened endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of threatened endemic amphibian species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Amphibians\", \"unit\": \"threatened endemic species\"}"
           },
           {
             "name": "Groupers (total endemic)",
@@ -97,8 +97,8 @@
           {
             "name": "Groupers (threatened endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of threatened endemic grouper species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Groupers\", \"unit\": \"threatened endemic species\"}"
           },
           {
             "name": "Herrings, anchovies etc. (total endemic)",
@@ -109,8 +109,8 @@
           {
             "name": "Herrings, anchovies etc. (threatened endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of threatened endemic herring and anchovy species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Herrings, anchovies etc.\", \"unit\": \"threatened endemic species\"}"
           },
           {
             "name": "Seahorses & Pipefishes (total endemic)",
@@ -121,8 +121,8 @@
           {
             "name": "Seahorses & Pipefishes (threatened endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of threatened endemic seahorse & pipefish species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Seahorses & Pipefishes\", \"unit\": \"threatened endemic species\"}"
           },
           {
             "name": "Sturgeons (total endemic)",
@@ -133,8 +133,8 @@
           {
             "name": "Sturgeons (threatened endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of threatened endemic sturgeon species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Sturgeons\", \"unit\": \"threatened endemic species\"}"
           },
           {
             "name": "Wrasses & Parrotfishes (total endemic)",
@@ -145,8 +145,8 @@
           {
             "name": "Wrasses & Parrotfishes (threatened endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of threatened endemic wrasses & parrotfish species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Wrasses & Parrotfishes\", \"unit\": \"threatened endemic species\"}"
           },
           {
             "name": "Sharks & Rays (total endemic)",
@@ -157,8 +157,8 @@
           {
             "name": "Sharks & Rays (threatened endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of threatened endemic shark & ray species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Sharks & Rays\", \"unit\": \"threatened endemic species\"}"
           }
         ]
       }
