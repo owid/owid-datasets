@@ -1,11 +1,11 @@
 {
-  "name": "Endemic mammal species by country (IUCN, 2019)",
-  "title": "Endemic mammal species by country (IUCN, 2019)",
+  "name": "Endemic vertebrate species by country (IUCN, 2019)",
+  "title": "Endemic vertebrate species by country (IUCN, 2019)",
   "id": 4098,
   "description": "Data denotes the number of endemic species within a given organism group by country. Endemic species are those which are known to naturally occur in only one country. \n\nAlso available is the number of these endemic species which are categorised as 'threatened'.  'Threatened' species are those in any of the three Red List categories: Critically Endangered, Endangered, or Vulnerable. They are considered high or greater risk of extinction in the wild.\n\nThis data is only given for the more comprehensively assessed species groups (i.e., where >80% of the species in the group have been assessed).",
   "sources": [
     {
-      "name": "Endemic mammal species by country (IUCN, 2019)",
+      "name": "Endemic vertebrate species by country (IUCN, 2019)",
       "dataPublishedBy": "IUCN Red List",
       "link": "https://www.iucnredlist.org/resources/summary-statistics#Summary%20Tables",
       "retrievedDate": "3rd May 2019",
@@ -17,7 +17,7 @@
   ],
   "resources": [
     {
-      "path": "Endemic mammal species by country (IUCN, 2019).csv",
+      "path": "Endemic vertebrate species by country (IUCN, 2019).csv",
       "schema": {
         "fields": [
           {
@@ -31,32 +31,32 @@
           {
             "name": "Mammals (total endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of endemic mammals species by country. Endemic species are those known to occur naturally within one country only.",
+            "owidDisplaySettings": "{\"name\": \"Mammals\", \"unit\": \"endemic species\"}"
           },
           {
             "name": "Mammals (threatened endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of threatened endemic mammals species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Mammals\", \"unit\": \"threatened endemic species\"}"
           },
           {
             "name": "Birds (total endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of endemic bird species by country. Endemic species are those known to occur naturally within one country only.",
+            "owidDisplaySettings": "{\"name\": \"Birds\", \"unit\": \"endemic species\"}"
           },
           {
             "name": "Birds (threatened endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of threatened endemic bird species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Birds\", \"unit\": \"threatened endemic species\"}"
           },
           {
             "name": "Crocodiles & Alligators (total endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of endemic crocodile & alligator species by country. Endemic species are those known to occur naturally within one country only.",
+            "owidDisplaySettings": "{\"name\": \"Crocodiles & alligators\", \"unit\": \"endemic species\"}"
           },
           {
             "name": "Crocodiles & Alligators (threatened endemic)",
@@ -67,8 +67,8 @@
           {
             "name": "Chameleons (total endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of endemic chameleon species by country. Endemic species are those known to occur naturally within one country only.",
+            "owidDisplaySettings": "{\"name\": \"Chameleons\", \"unit\": \"endemic species\"}"
           },
           {
             "name": "Chameleons (threatened endemic)",
@@ -79,8 +79,8 @@
           {
             "name": "Amphibians (total endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of endemic mammals species by country. Endemic species are those known to occur naturally within one country only.",
+            "owidDisplaySettings": "{\"name\": \"Amphibians\", \"unit\": \"endemic species\"}"
           },
           {
             "name": "Amphibians (threatened endemic)",
@@ -91,8 +91,8 @@
           {
             "name": "Groupers (total endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of endemic grouper (fish) species by country. Endemic species are those known to occur naturally within one country only.",
+            "owidDisplaySettings": "{\"name\": \"Groupers\", \"unit\": \"endemic species\"}"
           },
           {
             "name": "Groupers (threatened endemic)",
@@ -103,8 +103,8 @@
           {
             "name": "Herrings, anchovies etc. (total endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of endemic herring, anchovy (fish) species by country. Endemic species are those known to occur naturally within one country only.",
+            "owidDisplaySettings": "{\"name\": \"Herrings, anchovies etc.\", \"unit\": \"endemic species\"}"
           },
           {
             "name": "Herrings, anchovies etc. (threatened endemic)",
@@ -115,8 +115,8 @@
           {
             "name": "Seahorses & Pipefishes (total endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of endemic seahorse & pipefish species by country. Endemic species are those known to occur naturally within one country only.",
+            "owidDisplaySettings": "{\"name\": \"Seahorses & Pipefishes\", \"unit\": \"endemic species\"}"
           },
           {
             "name": "Seahorses & Pipefishes (threatened endemic)",
@@ -127,8 +127,8 @@
           {
             "name": "Sturgeons (total endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of endemic sturgeon species by country. Endemic species are those known to occur naturally within one country only.",
+            "owidDisplaySettings": "{\"name\": \"Sturgeons\", \"unit\": \"endemic species\"}"
           },
           {
             "name": "Sturgeons (threatened endemic)",
@@ -139,8 +139,8 @@
           {
             "name": "Wrasses & Parrotfishes (total endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of endemic wrasses and parrotfish species by country. Endemic species are those known to occur naturally within one country only.",
+            "owidDisplaySettings": "{\"name\": \"Wrasses & Parrotfishes\", \"unit\": \"endemic species\"}"
           },
           {
             "name": "Wrasses & Parrotfishes (threatened endemic)",
@@ -151,8 +151,8 @@
           {
             "name": "Sharks & Rays (total endemic)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The number of endemic shark & ray species by country. Endemic species are those known to occur naturally within one country only.",
+            "owidDisplaySettings": "{\"name\": \"Sharks & Rays\", \"unit\": \"endemic species\"}"
           },
           {
             "name": "Sharks & Rays (threatened endemic)",

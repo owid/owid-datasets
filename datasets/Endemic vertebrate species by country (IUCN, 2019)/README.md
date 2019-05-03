@@ -1,4 +1,4 @@
-# Endemic mammal species by country (IUCN, 2019)
+# Endemic vertebrate species by country (IUCN, 2019)
 
 Data denotes the number of endemic species within a given organism group by country. Endemic species are those which are known to naturally occur in only one country. 
 
