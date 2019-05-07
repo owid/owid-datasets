@@ -1,16 +1,16 @@
 {
-  "name": "Corruption - Transparency International (2013)",
-  "title": "Corruption - Transparency International (2013)",
+  "name": "Corruption Perception Index - Transparency International (2018)",
+  "title": "Corruption Perception Index - Transparency International (2018)",
   "id": 305,
-  "description": "",
+  "description": "The index, which ranks 180 countries and territories by their perceived levels of public sector corruption according to experts and businesspeople, uses a scale of 0 to 100, where 0 is highly corrupt and 100 is very clean.",
   "sources": [
     {
-      "name": "CPI (Transparency International (2016))",
+      "name": "Transparency International (2018)",
       "dataPublishedBy": "Transparency International",
       "dataPublisherSource": "Various expert surveys including (as available for each country):  African Development Bank Governance Ratings, Bertelsmann Foundation Sustainable Governance Indicators, Bertelsmann Foundation Transformation Index, Economist Intelligence Unit Country Risk Ratings, Freedom House Nations in Transit, Global Insight Country Risk Ratings, IMD World Competitiveness Yearbook, Political and Economic Risk Consultancy Asian Intelligence, Political Risk Services International Country Risk Guide, World Bank - Country Policy and Institutional Assessment, World Economic Forum Executive Opinion Survey, World Justice Project Rule of Law Index ",
-      "link": "http://www.transparency.org/cpi2015",
-      "retrievedDate": "10/10/2016",
-      "additionalInfo": null
+      "link": "https://www.transparency.org/cpi2018",
+      "retrievedDate": "07/05/2018",
+      "additionalInfo": "The index, which ranks 180 countries and territories by their perceived levels of public sector corruption according to experts and businesspeople, uses a scale of 0 to 100, where 0 is highly corrupt and 100 is very clean."
     }
   ],
   "owidTags": [
@@ -18,7 +18,7 @@
   ],
   "resources": [
     {
-      "path": "Corruption - Transparency International (2013).csv",
+      "path": "Corruption Perception Index - Transparency International (2018).csv",
       "schema": {
         "fields": [
           {
@@ -33,7 +33,7 @@
             "name": "Corruption Perception Index (Transparency International (2016))",
             "type": "any",
             "description": "Annual ranking of countries by their perceived levels of corruption, as determined by expert assessments and opinion surveys. Scale is from 100 (very clean) to 0 (highly corrupt). ",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           }
         ]
       }
