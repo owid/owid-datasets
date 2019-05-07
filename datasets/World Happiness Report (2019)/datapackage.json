@@ -1,0 +1,42 @@
+{
+  "name": "World Happiness Report (2019)",
+  "title": "World Happiness Report (2019)",
+  "id": 4109,
+  "description": "Life evaluation was measured by the individual answers to the Cantril ladder question: “Please imagine a ladder, with steps numbered from 0 at the bottom to 10 at the top. The top of the ladder represents the best possible life for you and the bottom of the ladder represents the worst possible life for you. On which step of the ladder would you say you personally feel you stand at this time?”",
+  "sources": [
+    {
+      "name": "World Happiness Report (2019)",
+      "additionalInfo": "Life evaluation was measured by the individual answers to the Cantril ladder question: “Please imagine a ladder, with steps numbered from 0 at the bottom to 10 at the top. The top of the ladder represents the best possible life for you and the bottom of the ladder represents the worst possible life for you. On which step of the ladder would you say you personally feel you stand at this time?”",
+      "dataPublishedBy": "World Happiness Report 2019",
+      "dataPublisherSource": "Gallup World Poll surveys (life evaluation question)",
+      "link": "https://worldhappiness.report/ed/2019/#read",
+      "retrievedDate": "07/05/2019"
+    }
+  ],
+  "owidTags": [
+    "Happiness and Life Satisfaction"
+  ],
+  "resources": [
+    {
+      "path": "World Happiness Report (2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "World Happiness Report 2019 (Cantril Ladder (0=worst; 10=best))",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
