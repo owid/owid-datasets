@@ -1,0 +1,125 @@
+{
+  "name": "Endemic and threatened invertebrate species by country (IUCN, 2019)",
+  "title": "Endemic and threatened invertebrate species by country (IUCN, 2019)",
+  "id": 4110,
+  "description": "Data denotes the number of endemic invertebrate species within a given organism group by country. Endemic species are those which are known to naturally occur in only one country. \n\nAlso available is the number of these endemic species which are categorised as 'threatened'. 'Threatened' species are those in any of the three Red List categories: Critically Endangered, Endangered, or Vulnerable. They are considered high or greater risk of extinction in the wild.\n\nThis data is only given for the more comprehensively assessed species groups (i.e., where >80% of the species in the group have been assessed).",
+  "sources": [
+    {
+      "name": "Endemic and threatened invertebrate species (IUCN, 2019)",
+      "additionalInfo": "Data denotes the number of endemic invertebrate species within a given organism group by country. Endemic species are those which are known to naturally occur in only one country. \n\nAlso available is the number of these endemic species which are categorised as 'threatened'. 'Threatened' species are those in any of the three Red List categories: Critically Endangered, Endangered, or Vulnerable. They are considered high or greater risk of extinction in the wild.\n\nThis data is only given for the more comprehensively assessed species groups (i.e., where >80% of the species in the group have been assessed).",
+      "dataPublishedBy": "IUCN Red List",
+      "link": "https://www.iucnredlist.org/resources/summary-statistics#Summary%20Tables",
+      "retrievedDate": "8th May 2019"
+    }
+  ],
+  "owidTags": [
+    "Biodiversity"
+  ],
+  "resources": [
+    {
+      "path": "Endemic and threatened invertebrate species by country (IUCN, 2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Freshwater crabs (total endemics)",
+            "type": "any",
+            "description": "The number of endemic freshwater crab species by country. Endemic species are those known to occur naturally within one country only.",
+            "owidDisplaySettings": "{\"name\": \"Freshwater crabs\", \"unit\": \"endemic species\"}"
+          },
+          {
+            "name": "Freshwater crabs (threatened endemics)",
+            "type": "any",
+            "description": "The number of threatened endemic freshwater crab species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Freshwater crabs\", \"unit\": \"threatened endemic species\"}"
+          },
+          {
+            "name": "Freshwater crabs (non-threatened endemics)",
+            "type": "any",
+            "description": "The number of non-threatened endemic freshwater crab species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Freshwater crabs\", \"unit\": \"non-threatened endemic species\"}"
+          },
+          {
+            "name": "Freshwater crayfish (total endemics)",
+            "type": "any",
+            "description": "The number of endemic freshwater crayfish species by country. Endemic species are those known to occur naturally within one country only.",
+            "owidDisplaySettings": "{\"name\": \"Freshwater crayfish\", \"unit\": \"endemic species\"}"
+          },
+          {
+            "name": "Freshwater crayfish (threatened endemics)",
+            "type": "any",
+            "description": "The number of threatened endemic freshwater crayfish species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Freshwater crayfish\", \"unit\": \"threatened endemic species\"}"
+          },
+          {
+            "name": "Freshwater crayfish (non-threatened endemics)",
+            "type": "any",
+            "description": "The number of non-threatened endemic freshwater crayfish species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Freshwater crayfish\", \"unit\": \"non-threatened endemic species\"}"
+          },
+          {
+            "name": "Lobsters (total endemics)",
+            "type": "any",
+            "description": "The number of endemic lobster species by country. Endemic species are those known to occur naturally within one country only.",
+            "owidDisplaySettings": "{\"name\": \"Lobsters\", \"unit\": \"endemic species\"}"
+          },
+          {
+            "name": "Lobsters (threatened endemics)",
+            "type": "any",
+            "description": "The number of threatened endemic lobster species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Lobsters\", \"unit\": \"threatened endemic species\"}"
+          },
+          {
+            "name": "Lobsters (non-threatened endemics)",
+            "type": "any",
+            "description": "The number of non-threatened endemic lobster species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Lobsters\", \"unit\": \"non-threatened endemic species\"}"
+          },
+          {
+            "name": "Cone snails (total endemics)",
+            "type": "any",
+            "description": "The number of endemic cone snail species by country. Endemic species are those known to occur naturally within one country only.",
+            "owidDisplaySettings": "{\"name\": \"Cone snails\", \"unit\": \"endemic species\"}"
+          },
+          {
+            "name": "Cone snails (threatened endemics)",
+            "type": "any",
+            "description": "The number of threatened endemic cone snail species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Cone snails\", \"unit\": \"threatened endemic species\"}"
+          },
+          {
+            "name": "Cone snails (non-threatened endemics)",
+            "type": "any",
+            "description": "The number of non-threatened endemic cone snail species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Cone snails\", \"unit\": \"non-threatened endemic species\"}"
+          },
+          {
+            "name": "Reef-forming corals (total endemics)",
+            "type": "any",
+            "description": "The number of endemic reef-forming coral species by country. Endemic species are those known to occur naturally within one country only.",
+            "owidDisplaySettings": "{\"name\": \"Reef-forming corals\", \"unit\": \"endemic species\"}"
+          },
+          {
+            "name": "Reef-forming corals (threatened endemics)",
+            "type": "any",
+            "description": "The number of threatened endemic reef-forming coral species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Reef-forming corals\", \"unit\": \"threatened endemic species\"}"
+          },
+          {
+            "name": "Reef-forming corals (non-threatened endemics)",
+            "type": "any",
+            "description": "The number of non-threatened endemic reef-forming coral species by country. Endemic species are those known to occur naturally within one country only. Threatened species are those classified on the Red List as Critically Endangered, Endangered or Vulnerable. They are at high or greater risk of extinction in the wild.",
+            "owidDisplaySettings": "{\"name\": \"Reef-forming corals\", \"unit\": \"non-threatened endemic species\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
