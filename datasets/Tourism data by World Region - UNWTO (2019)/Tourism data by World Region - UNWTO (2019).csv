@@ -1,4 +1,4 @@
-Entity,Year,International Tourist Arrivals (UNWTO (2017))
+Entity,Year,International Tourist Arrivals
 Africa,1950,500000
 Africa,1960,800000
 Africa,1965,1400000
@@ -38,6 +38,8 @@ Africa,2010,50400000
 Africa,2014,55200000
 Africa,2015,53800000
 Africa,2016,58200000
+Africa,2017,63000000
+Africa,2018,67000000
 Americas,1950,7500000
 Americas,1960,16700000
 Americas,1965,23200000
@@ -77,6 +79,8 @@ Americas,2010,150100000
 Americas,2014,181900000
 Americas,2015,192700000
 Americas,2016,200900000
+Americas,2017,207000000
+Americas,2018,217000000
 Asia & Pacific,1950,200000
 Asia & Pacific,1960,900000
 Asia & Pacific,1965,2100000
@@ -116,6 +120,8 @@ Asia & Pacific,2010,205500000
 Asia & Pacific,2014,264400000
 Asia & Pacific,2015,279300000
 Asia & Pacific,2016,302900000
+Asia & Pacific,2017,323000000
+Asia & Pacific,2018,343000000
 Europe,1950,16800000
 Europe,1960,50400000
 Europe,1965,83700000
@@ -155,6 +161,8 @@ Europe,2010,489400000
 Europe,2014,580200000
 Europe,2015,607500000
 Europe,2016,619700000
+Europe,2017,671000000
+Europe,2018,713000000
 Middle East,1950,200000
 Middle East,1960,600000
 Middle East,1965,2400000
@@ -194,3 +202,5 @@ Middle East,2010,55400000
 Middle East,2014,55400000
 Middle East,2015,55900000
 Middle East,2016,53600000
+Middle East,2017,58000000
+Middle East,2018,64000000

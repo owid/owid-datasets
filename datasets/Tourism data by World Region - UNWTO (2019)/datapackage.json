@@ -1,6 +1,6 @@
 {
-  "name": "Tourism data by World Region - UNWTO (2017)",
-  "title": "Tourism data by World Region - UNWTO (2017)",
+  "name": "Tourism data by World Region - UNWTO (2019)",
+  "title": "Tourism data by World Region - UNWTO (2019)",
   "id": 437,
   "description": "The UNWTO World Tourism Barometer monitors short-term tourism trends on a regular basis to provide global tourism stakeholders with up-to-date analysis on international tourism.\n\n",
   "sources": [
@@ -18,7 +18,7 @@
   ],
   "resources": [
     {
-      "path": "Tourism data by World Region - UNWTO (2017).csv",
+      "path": "Tourism data by World Region - UNWTO (2019).csv",
       "schema": {
         "fields": [
           {
@@ -30,7 +30,7 @@
             "type": "year"
           },
           {
-            "name": "International Tourist Arrivals (UNWTO (2017))",
+            "name": "International Tourist Arrivals",
             "type": "any",
             "description": "",
             "owidDisplaySettings": "{\"unit\": \"Percent\"}"
