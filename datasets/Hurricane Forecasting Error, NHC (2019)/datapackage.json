@@ -1,0 +1,132 @@
+{
+  "name": "Hurricane Forecasting Error, NHC (2019)",
+  "title": "Hurricane Forecasting Error, NHC (2019)",
+  "id": 4119,
+  "description": "Data on intensity and track forecast errors for tropical cyclones in the Atlantic basin and the Eastern North Pacific Basin, published by the National Hurricane Centre to show changes in the accuracy and skill of its forecasts.",
+  "sources": [
+    {
+      "name": "NHC, Hurricane Forecasting Error (2019)",
+      "additionalInfo": "Data on intensity and track forecast errors for tropical cyclones in the Atlantic basin and the Eastern North Pacific Basin, published by the National Hurricane Centre to show changes in the accuracy and skill of its forecasts.",
+      "dataPublishedBy": "National Hurricane Centre",
+      "dataPublisherSource": "NHC official forecast error database",
+      "link": "https://www.nhc.noaa.gov/verification/verify5.shtml",
+      "retrievedDate": "13/05/19"
+    }
+  ],
+  "owidTags": [
+    "Natural Disasters"
+  ],
+  "resources": [
+    {
+      "path": "Hurricane Forecasting Error, NHC (2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Track error, 0h (n mi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Track error, 12h (n mi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Track error, 24h (n mi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Track error, 36h (n mi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Track error, 48h (n mi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Track error, 72h (n mi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Track error, 96h (n mi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Track error, 120h (n mi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Intensity error, 0h (kt)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Intensity error, 12h (kt)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Intensity error, 24h (kt)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Intensity error, 36h (kt)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Intensity error, 48h (kt)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Intensity error, 72h (kt)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Intensity error, 96h (kt)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Intensity error, 120h (kt)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
