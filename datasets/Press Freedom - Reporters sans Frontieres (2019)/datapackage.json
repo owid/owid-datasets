@@ -6,8 +6,8 @@
   "sources": [
     {
       "name": "Reporters sans Frontieres, Press Freedom (2019)",
-      "dataPublishedBy": "RSF",
-      "dataPublisherSource": "Questionnaire",
+      "dataPublishedBy": "Reporters sans Frontieres",
+      "dataPublisherSource": "Surveys and quantitative data on abuses and acts of violence against journalists ",
       "additionalInfo": "The Index ranks countries and regions according to the level of freedom available to journalists. It is a snapshot of the media freedom situation based on an evaluation of pluralism, independence of the media, quality of legislative framework and safety of journalists in each country and region. It does not rank public policies even if governments obviously have a major impact on their country’s ranking.",
       "link": "https://rsf.org/en/ranking_table",
       "retrievedDate": "13/05/19"
@@ -30,7 +30,7 @@
           {
             "name": "Press Freedom Score",
             "type": "any",
-            "description": null,
+            "description": "The degree of freedom available to journalists in 180 countries is determined by pooling the responses of experts to a questionnaire devised by RSF. This qualitative analysis is combined with quantitative data on abuses and acts of violence against journalists during the period evaluated. The criteria evaluated in the questionnaire are pluralism, media independence, media environment and self-censorship, legislative framework, transparency, and the quality of the infrastructure that supports the production of news and information. ",
             "owidDisplaySettings": "{}"
           }
         ]
