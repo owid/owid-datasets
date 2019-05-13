@@ -1,0 +1,540 @@
+Entity,Year,Press Freedom Score
+Afghanistan,2017,39.46
+Afghanistan,2018,37.28
+Afghanistan,2019,36.55
+Albania,2017,29.92
+Albania,2018,29.49
+Albania,2019,29.84
+Algeria,2017,42.83
+Algeria,2018,43.13
+Algeria,2019,45.75
+Andorra,2017,21.03
+Andorra,2018,22.21
+Andorra,2019,24.63
+Angola,2017,40.42
+Angola,2018,38.35
+Angola,2019,34.96
+Argentina,2017,25.07
+Argentina,2018,26.05
+Argentina,2019,28.3
+Armenia,2017,30.38
+Armenia,2018,29.99
+Armenia,2019,28.98
+Australia,2017,16.02
+Australia,2018,15.46
+Australia,2019,16.55
+Austria,2017,13.47
+Austria,2018,14.04
+Austria,2019,15.33
+Azerbaijan,2017,56.4
+Azerbaijan,2018,59.73
+Azerbaijan,2019,59.13
+Bahrain,2017,58.88
+Bahrain,2018,60.85
+Bahrain,2019,61.31
+Bangladesh,2017,48.36
+Bangladesh,2018,48.62
+Bangladesh,2019,50.74
+Belarus,2017,52.43
+Belarus,2018,52.59
+Belarus,2019,51.66
+Belgium,2017,12.75
+Belgium,2018,13.16
+Belgium,2019,12.07
+Belize,2017,23.43
+Belize,2018,24.55
+Belize,2019,27.5
+Benin,2017,30.32
+Benin,2018,30.16
+Benin,2019,31.74
+Bhutan,2017,30.73
+Bhutan,2018,30.73
+Bhutan,2019,29.81
+Bolivia,2017,33.88
+Bolivia,2018,32.45
+Bolivia,2019,35.38
+Bosnia and Herzegovina,2017,27.83
+Bosnia and Herzegovina,2018,27.37
+Bosnia and Herzegovina,2019,29.02
+Botswana,2017,24.93
+Botswana,2018,25.29
+Botswana,2019,25.09
+Brazil,2017,33.58
+Brazil,2018,31.2
+Brazil,2019,32.79
+Brunei,2017,53.72
+Brunei,2018,51.48
+Brunei,2019,51.48
+Bulgaria,2017,35.01
+Bulgaria,2018,35.22
+Bulgaria,2019,35.11
+Burkina Faso,2017,23.85
+Burkina Faso,2018,23.33
+Burkina Faso,2019,24.53
+Burundi,2017,55.78
+Burundi,2018,55.26
+Burundi,2019,52.89
+Cambodia,2017,42.07
+Cambodia,2018,45.9
+Cambodia,2019,45.9
+Cameroon,2017,41.59
+Cameroon,2018,40.92
+Cameroon,2019,43.32
+Canada,2017,16.53
+Canada,2018,15.28
+Canada,2019,15.69
+Cape Verde,2017,18.02
+Cape Verde,2018,20.39
+Cape Verde,2019,19.81
+Central African Republic,2017,36.12
+Central African Republic,2018,35.25
+Central African Republic,2019,47.27
+Chad,2017,39.66
+Chad,2018,38.45
+Chad,2019,36.71
+Chile,2017,20.53
+Chile,2018,22.69
+Chile,2019,25.65
+China,2017,77.66
+China,2018,78.29
+China,2019,78.92
+Colombia,2017,41.47
+Colombia,2018,41.03
+Colombia,2019,42.82
+Comoros,2017,24.33
+Comoros,2018,25.3
+Comoros,2019,27.91
+Congo,2017,36.73
+Congo,2018,35.42
+Congo,2019,36.04
+Costa Rica,2017,11.93
+Costa Rica,2018,14.01
+Costa Rica,2019,12.24
+Cote d'Ivoire,2017,30.42
+Cote d'Ivoire,2018,30.08
+Cote d'Ivoire,2019,29.52
+Croatia,2017,29.59
+Croatia,2018,28.94
+Croatia,2019,29.03
+Cuba,2017,71.75
+Cuba,2018,68.9
+Cuba,2019,63.81
+Cyprus,2017,19.79
+Cyprus,2018,19.85
+Cyprus,2019,21.74
+Czech Republic,2017,16.91
+Czech Republic,2018,21.89
+Czech Republic,2019,24.89
+Democratic Republic of Congo,2017,52.67
+Democratic Republic of Congo,2018,51.6
+Democratic Republic of Congo,2019,51.71
+Denmark,2017,10.36
+Denmark,2018,13.99
+Denmark,2019,9.87
+Djibouti,2017,70.54
+Djibouti,2018,70.77
+Djibouti,2019,71.36
+Dominican Republic,2017,26.76
+Dominican Republic,2018,26.79
+Dominican Republic,2019,27.9
+Ecuador,2017,33.64
+Ecuador,2018,30.56
+Ecuador,2019,31.88
+Egypt,2017,55.78
+Egypt,2018,56.72
+Egypt,2019,56.47
+El Salvador,2017,27.24
+El Salvador,2018,27.78
+El Salvador,2019,29.81
+Equatorial Guinea,2017,66.47
+Equatorial Guinea,2018,66.47
+Equatorial Guinea,2019,58.35
+Eritrea,2017,84.24
+Eritrea,2018,84.24
+Eritrea,2019,80.26
+Estonia,2017,13.55
+Estonia,2018,14.08
+Estonia,2019,12.27
+Ethiopia,2017,50.34
+Ethiopia,2018,50.17
+Ethiopia,2019,35.11
+Fiji,2017,28.64
+Fiji,2018,26.55
+Fiji,2019,27.18
+Finland,2017,8.92
+Finland,2018,10.26
+Finland,2019,7.9
+France,2017,22.24
+France,2018,21.87
+France,2019,22.21
+Gabon,2017,34.83
+Gabon,2018,32.37
+Gabon,2019,35.6
+Gambia,2017,46.7
+Gambia,2018,38.36
+Gambia,2019,31.35
+Georgia,2017,27.76
+Georgia,2018,27.34
+Georgia,2019,28.98
+Germany,2017,14.97
+Germany,2018,14.39
+Germany,2019,14.6
+Ghana,2017,17.95
+Ghana,2018,18.41
+Ghana,2019,20.81
+Greece,2017,30.89
+Greece,2018,29.19
+Greece,2019,29.08
+Guatemala,2017,39.33
+Guatemala,2018,36.17
+Guatemala,2019,35.94
+Guinea,2017,33.15
+Guinea,2018,31.9
+Guinea,2019,33.49
+Guinea-Bissau,2017,30.09
+Guinea-Bissau,2018,30.09
+Guinea-Bissau,2019,30.95
+Guyana,2017,26.8
+Guyana,2018,26.25
+Guyana,2019,26.63
+Haiti,2017,26.36
+Haiti,2018,26.82
+Haiti,2019,29
+Honduras,2017,43.75
+Honduras,2018,45.23
+Honduras,2019,48.53
+Hong Kong,2017,29.46
+Hong Kong,2018,29.04
+Hong Kong,2019,29.65
+Hungary,2017,29.01
+Hungary,2018,29.11
+Hungary,2019,30.44
+Iceland,2017,13.03
+Iceland,2018,14.1
+Iceland,2019,14.71
+India,2017,42.94
+India,2018,43.24
+India,2019,45.67
+Indonesia,2017,39.93
+Indonesia,2018,39.68
+Indonesia,2019,36.77
+Iran,2017,65.12
+Iran,2018,60.71
+Iran,2019,64.41
+Iraq,2017,54.03
+Iraq,2018,56.56
+Iraq,2019,52.6
+Ireland,2017,14.08
+Ireland,2018,14.59
+Ireland,2019,15
+Israel,2017,31.01
+Israel,2018,30.26
+Israel,2019,30.8
+Italy,2017,26.26
+Italy,2018,24.12
+Italy,2019,24.98
+Jamaica,2017,12.73
+Jamaica,2018,11.33
+Jamaica,2019,11.13
+Japan,2017,29.44
+Japan,2018,28.64
+Japan,2019,29.36
+Jordan,2017,43.24
+Jordan,2018,41.71
+Jordan,2019,43.11
+Kazakhstan,2017,54.01
+Kazakhstan,2018,54.41
+Kazakhstan,2019,52.82
+Kenya,2017,31.2
+Kenya,2018,30.82
+Kenya,2019,32.44
+Kosovo,2017,30.45
+Kosovo,2018,29.61
+Kosovo,2019,29.68
+Kuwait,2017,33.61
+Kuwait,2018,31.91
+Kuwait,2019,33.86
+Kyrgyzstan,2017,30.92
+Kyrgyzstan,2018,31
+Kyrgyzstan,2019,29.92
+Laos,2017,66.41
+Laos,2018,66.41
+Laos,2019,64.49
+Latvia,2017,18.62
+Latvia,2018,19.63
+Latvia,2019,19.53
+Lebanon,2017,33.01
+Lebanon,2018,31.15
+Lebanon,2019,32.44
+Lesotho,2017,28.78
+Lesotho,2018,28.78
+Lesotho,2019,29.74
+Liberia,2017,31.12
+Liberia,2018,30.33
+Liberia,2019,31.49
+Libya,2017,56.81
+Libya,2018,56.79
+Libya,2019,55.77
+Liechtenstein,2017,20.31
+Liechtenstein,2018,20.49
+Liechtenstein,2019,20.49
+Lithuania,2017,21.37
+Lithuania,2018,22.2
+Lithuania,2019,22.06
+Luxembourg,2017,14.72
+Luxembourg,2018,14.72
+Luxembourg,2019,15.66
+Macedonia,2017,35.74
+Macedonia,2018,32.43
+Macedonia,2019,31.66
+Madagascar,2017,26.71
+Madagascar,2018,26.2
+Madagascar,2019,27.76
+Malawi,2017,28.97
+Malawi,2018,27.43
+Malawi,2019,29.36
+Malaysia,2017,46.89
+Malaysia,2018,47.41
+Malaysia,2019,36.74
+Maldives,2017,39.3
+Maldives,2018,37.95
+Maldives,2019,32.16
+Mali,2017,38.27
+Mali,2018,36.15
+Mali,2019,35.23
+Malta,2017,24.76
+Malta,2018,27.44
+Malta,2019,29.74
+Martinique,2017,22.1
+Martinique,2018,22.11
+Martinique,2019,26.04
+Mauritania,2017,26.49
+Mauritania,2018,29.09
+Mauritania,2019,31.65
+Mauritius,2017,26.67
+Mauritius,2018,26.45
+Mauritius,2019,28.46
+Mexico,2017,48.97
+Mexico,2018,48.91
+Mexico,2019,46.78
+Moldova,2017,30.41
+Moldova,2018,30.01
+Moldova,2019,31.21
+Mongolia,2017,28.95
+Mongolia,2018,29.05
+Mongolia,2019,29.51
+Montenegro,2017,33.65
+Montenegro,2018,31.21
+Montenegro,2019,32.74
+Morocco,2017,42.42
+Morocco,2018,43.13
+Morocco,2019,43.98
+Mozambique,2017,31.05
+Mozambique,2018,31.12
+Mozambique,2019,32.66
+Myanmar,2017,41.82
+Myanmar,2018,43.15
+Myanmar,2019,44.92
+Namibia,2017,17.08
+Namibia,2018,20.24
+Namibia,2019,18.95
+Nepal,2017,33.02
+Nepal,2018,32.05
+Nepal,2019,33.4
+Netherlands,2017,11.28
+Netherlands,2018,10.01
+Netherlands,2019,8.63
+New Zealand,2017,13.98
+New Zealand,2018,13.62
+New Zealand,2019,10.75
+Nicaragua,2017,31.01
+Nicaragua,2018,30.41
+Nicaragua,2019,35.53
+Niger,2017,27.21
+Niger,2018,27.4
+Niger,2019,29.26
+Nigeria,2017,39.69
+Nigeria,2018,37.41
+Nigeria,2019,36.5
+North Korea,2018,88.87
+North Korea,2019,83.4
+Northern Cyprus,2017,29.88
+Northern Cyprus,2018,29.59
+Northern Cyprus,2019,29.67
+Norway,2017,7.6
+Norway,2018,7.63
+Norway,2019,7.82
+Oman,2017,40.46
+Oman,2018,40.67
+Oman,2019,43.42
+Pakistan,2017,43.55
+Pakistan,2018,43.24
+Pakistan,2019,45.83
+Palestine,2017,42.9
+Palestine,2018,42.96
+Palestine,2019,44.68
+Panama,2017,32.12
+Panama,2018,30.56
+Panama,2019,29.78
+Papua New Guinea,2017,25.07
+Papua New Guinea,2018,26.19
+Papua New Guinea,2019,24.7
+Paraguay,2017,35.64
+Paraguay,2018,32.32
+Paraguay,2019,32.4
+Peru,2017,30.98
+Peru,2018,30.27
+Peru,2019,30.22
+Philippines,2017,41.08
+Philippines,2018,42.53
+Philippines,2019,43.91
+Poland,2017,26.47
+Poland,2018,26.59
+Poland,2019,28.89
+Portugal,2017,15.77
+Portugal,2018,14.17
+Portugal,2019,12.63
+Qatar,2017,39.83
+Qatar,2018,40.16
+Qatar,2019,42.51
+Romania,2017,24.46
+Romania,2018,23.65
+Romania,2019,25.67
+Russia,2017,49.45
+Russia,2018,49.96
+Russia,2019,50.31
+Rwanda,2017,54.11
+Rwanda,2018,52.9
+Rwanda,2019,52.43
+Samoa,2017,16.41
+Samoa,2018,16.69
+Samoa,2019,18.25
+Saudi Arabia,2017,66.02
+Saudi Arabia,2018,63.13
+Saudi Arabia,2019,65.88
+Senegal,2017,26.72
+Senegal,2018,25.61
+Senegal,2019,25.81
+Serbia,2017,28.05
+Serbia,2018,29.58
+Serbia,2019,31.18
+Seychelles,2017,30.86
+Seychelles,2018,30.17
+Seychelles,2019,29.41
+Sierra Leone,2017,30.73
+Sierra Leone,2018,29.98
+Sierra Leone,2019,30.36
+Singapore,2017,51.1
+Singapore,2018,50.95
+Singapore,2019,51.41
+Slovakia,2017,15.51
+Slovakia,2018,20.26
+Slovakia,2019,23.58
+Slovenia,2017,21.7
+Slovenia,2018,21.69
+Slovenia,2019,22.31
+Somalia,2017,65.95
+Somalia,2018,63.04
+Somalia,2019,57.24
+South Africa,2017,20.12
+South Africa,2018,20.39
+South Africa,2019,22.19
+South Korea,2017,27.61
+South Korea,2018,23.51
+South Korea,2019,24.94
+South Sudan,2017,48.16
+South Sudan,2018,46.88
+South Sudan,2019,45.65
+Spain,2017,18.69
+Spain,2018,20.51
+Spain,2019,21.99
+Sri Lanka,2017,44.34
+Sri Lanka,2018,41.37
+Sri Lanka,2019,39.61
+Sudan,2017,73.56
+Sudan,2018,71.13
+Sudan,2019,72.45
+Suriname,2017,16.07
+Suriname,2018,16.44
+Suriname,2019,16.38
+Swaziland,2017,51.27
+Swaziland,2018,51.46
+Swaziland,2019,49.09
+Sweden,2017,8.27
+Sweden,2018,8.31
+Sweden,2019,8.31
+Switzerland,2017,12.13
+Switzerland,2018,11.27
+Switzerland,2019,10.52
+Syria,2017,81.49
+Syria,2018,79.22
+Syria,2019,71.78
+Taiwan,2017,24.37
+Taiwan,2018,23.36
+Taiwan,2019,24.98
+Tajikistan,2017,50.27
+Tajikistan,2018,50.06
+Tajikistan,2019,54.02
+Tanzania,2017,30.65
+Tanzania,2018,30.65
+Tanzania,2019,36.28
+Thailand,2017,44.69
+Thailand,2018,44.31
+Thailand,2019,44.1
+Timor,2017,32.82
+Timor,2018,30.81
+Timor,2019,29.93
+Togo,2017,30.75
+Togo,2018,30.23
+Togo,2019,29.69
+Tonga,2017,24.97
+Tonga,2018,25.68
+Tonga,2019,25.41
+Trinidad and Tobago,2017,20.62
+Trinidad and Tobago,2018,22.79
+Trinidad and Tobago,2019,24.74
+Tunisia,2017,32.22
+Tunisia,2018,30.91
+Tunisia,2019,29.61
+Turkey,2017,52.98
+Turkey,2018,53.5
+Turkey,2019,52.81
+Turkmenistan,2017,84.19
+Turkmenistan,2018,84.2
+Turkmenistan,2019,85.44
+Uganda,2017,35.94
+Uganda,2018,36.77
+Uganda,2019,39.42
+Ukraine,2017,33.19
+Ukraine,2018,31.16
+Ukraine,2019,32.46
+United Arab Emirates,2017,39.39
+United Arab Emirates,2018,40.86
+United Arab Emirates,2019,43.63
+United Kingdom,2017,22.26
+United Kingdom,2018,23.25
+United Kingdom,2019,22.23
+United States,2017,23.88
+United States,2018,23.73
+United States,2019,25.69
+Uruguay,2017,17.43
+Uruguay,2018,15.56
+Uruguay,2019,16.06
+Uzbekistan,2017,66.11
+Uzbekistan,2018,60.84
+Uzbekistan,2019,53.52
+Venezuela,2017,42.94
+Venezuela,2018,46.03
+Venezuela,2019,49.1
+Vietnam,2017,73.96
+Vietnam,2018,75.05
+Vietnam,2019,74.93
+Yemen,2017,65.8
+Yemen,2018,62.23
+Yemen,2019,61.66
+Zambia,2017,36.48
+Zambia,2018,35.36
+Zambia,2019,36.38
+Zimbabwe,2017,41.44
+Zimbabwe,2018,40.53
+Zimbabwe,2019,42.23

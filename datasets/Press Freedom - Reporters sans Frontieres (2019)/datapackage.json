@@ -1,0 +1,42 @@
+{
+  "name": "Press Freedom - Reporters sans Frontieres (2019)",
+  "title": "Press Freedom - Reporters sans Frontieres (2019)",
+  "id": 4118,
+  "description": "The Index ranks countries and regions according to the level of freedom available to journalists. It is a snapshot of the media freedom situation based on an evaluation of pluralism, independence of the media, quality of legislative framework and safety of journalists in each country and region. It does not rank public policies even if governments obviously have a major impact on their country’s ranking.",
+  "sources": [
+    {
+      "name": "Reporters sans Frontieres, Press Freedom (2019)",
+      "dataPublishedBy": "RSF",
+      "dataPublisherSource": "Questionnaire",
+      "additionalInfo": "The Index ranks countries and regions according to the level of freedom available to journalists. It is a snapshot of the media freedom situation based on an evaluation of pluralism, independence of the media, quality of legislative framework and safety of journalists in each country and region. It does not rank public policies even if governments obviously have a major impact on their country’s ranking.",
+      "link": "https://rsf.org/en/ranking_table",
+      "retrievedDate": "13/05/19"
+    }
+  ],
+  "owidTags": [
+    "Press Freedom"
+  ],
+  "resources": [
+    {
+      "path": "Press Freedom - Reporters sans Frontieres (2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Press Freedom Score",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
