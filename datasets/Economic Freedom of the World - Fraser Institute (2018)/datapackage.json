@@ -2,18 +2,19 @@
   "name": "Economic Freedom of the World - Fraser Institute (2018)",
   "title": "Economic Freedom of the World - Fraser Institute (2018)",
   "id": 153,
-  "description": "From the 2015 (http://www.freetheworld.com/2015/economic-freedom-of-the-world-2015.pdf) report: The cornerstones of economic freedom are (1) personal choice, (2) voluntary exchange coordinated by markets, (3) freedom to enter and compete in markets, and (4) protection of persons and their property from aggression by others.\n\nEconomic freedom is present when individuals are permitted to choose for themselves and engage in voluntary transactions as long as they do not harm the person or property of others.",
+  "description": "The cornerstones of economic freedom are (1) personal choice, (2) voluntary exchange coordinated by markets, (3) freedom to enter and compete in markets, and (4) protection of persons and their property from aggression by others.\n\nEconomic freedom is present when individuals are permitted to choose for themselves and engage in voluntary transactions as long as they do not harm the person or property of others.\n\nEconomic freedom scoring is measured from 0 to 10 where 10 represents the maximum economic freedom, and 0 no economic freedom.",
   "sources": [
     {
-      "name": "Economic Freedom of the World - Fraser Institute (2018)",
+      "name": "Fraser Institute, Economic Freedom of the World (2018)",
       "dataPublishedBy": "Fraser Institute",
-      "link": "https://www.fraserinstitute.org/economic-freedom",
-      "retrievedDate": "3rd October 2018",
-      "additionalInfo": "From the 2015 (http://www.freetheworld.com/2015/economic-freedom-of-the-world-2015.pdf) report: The cornerstones of economic freedom are (1) personal choice, (2) voluntary exchange coordinated by markets, (3) freedom to enter and compete in markets, and (4) protection of persons and their property from aggression by others.\n\nEconomic freedom is present when individuals are permitted to choose for themselves and engage in voluntary transactions as long as they do not harm the person or property of others."
+      "link": "https://www.fraserinstitute.org/economic-freedom/dataset?geozone=world&year=2016&page=dataset",
+      "retrievedDate": "13/05/19",
+      "additionalInfo": "The cornerstones of economic freedom are (1) personal choice, (2) voluntary exchange coordinated by markets, (3) freedom to enter and compete in markets, and (4) protection of persons and their property from aggression by others.\n\nEconomic freedom is present when individuals are permitted to choose for themselves and engage in voluntary transactions as long as they do not harm the person or property of others.\n\nEconomic freedom scoring is measured from 0 to 10 where 10 represents the maximum economic freedom, and 0 no economic freedom.",
+      "dataPublisherSource": "Third party sources, such as the International Country Risk Guide, the Global Competitiveness Report, and the World Bank’s Doing Business project"
     }
   ],
   "owidTags": [
-    "Economic Freedom & Regulation"
+    "Economic Freedom"
   ],
   "resources": [
     {
@@ -32,18 +33,13 @@
             "name": "Economic Freedom of the World (Fraser Institute (2018))",
             "type": "any",
             "description": "Economic freedom scoring is measured from 0 to 10 where 10 represents the maximum economic freedom, and 0 no economic freedom.\n\nEconomic freedom is measured by the Fraser Institute on the basis of the cornerstones of economic freedom: (1) personal choice, (2) voluntary exchange coordinated by markets, (3) freedom to enter and compete in markets, and (4) protection of persons and their property from aggression by others.",
-            "owidDisplaySettings": {
-              "name": "Economic Freedom Score",
-              "unit": "(0 to 10; 10 is highest)"
-            }
+            "owidDisplaySettings": "{\"name\": \"Economic Freedom Score\", \"unit\": \"(0 to 10; 10 is highest)\"}"
           },
           {
             "name": "Economic Freedom Rank (Fraser Institute, 2018)",
             "type": "any",
             "description": "Economic freedom ranking is measured from 1 to 162 (on the basis of 162 countries with data), where 1 represents the country with the highest economic freedom, and 162 the least.\n\nEconomic freedom is measured by the Fraser Institute on the basis of the cornerstones of economic freedom: (1) personal choice, (2) voluntary exchange coordinated by markets, (3) freedom to enter and compete in markets, and (4) protection of persons and their property from aggression by others.",
-            "owidDisplaySettings": {
-              "name": "Economic Freedom Global Ranking"
-            }
+            "owidDisplaySettings": "{\"name\": \"Economic Freedom Global Ranking\"}"
           }
         ]
       }

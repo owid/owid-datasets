@@ -17,6 +17,8 @@ Albania,2012,7.2,58
 Albania,2013,7.24,52
 Albania,2014,7.48,38
 Albania,2015,7.54,33
+Albania,2016,7.538571065,34
+Algeria,1965,3.648770878,92
 Algeria,1980,3.79,91
 Algeria,1985,3.59,97
 Algeria,1990,3.33,106
@@ -37,6 +39,7 @@ Algeria,2012,4.95,149
 Algeria,2013,5.04,152
 Algeria,2014,5.01,152
 Algeria,2015,4.85,156
+Algeria,2016,4.985321051,159
 Angola,2005,3.81,140
 Angola,2006,4.44,139
 Angola,2007,4.57,137
@@ -48,6 +51,11 @@ Angola,2012,5.28,142
 Angola,2013,5.25,149
 Angola,2014,5.13,150
 Angola,2015,5.4,148
+Angola,2016,5.166512658,155
+Argentina,1950,3.985771577,49
+Argentina,1955,4.088213892,59
+Argentina,1960,4.330926513,71
+Argentina,1965,4.313662573,75
 Argentina,1970,5.67,33
 Argentina,1975,3.13,72
 Argentina,1980,4.25,80
@@ -70,6 +78,7 @@ Argentina,2012,5.04,146
 Argentina,2013,4.85,154
 Argentina,2014,4.49,158
 Argentina,2015,4.88,155
+Argentina,2016,4.839536444,160
 Armenia,2004,7.36,36
 Armenia,2005,7.31,44
 Armenia,2006,7.45,36
@@ -82,6 +91,11 @@ Armenia,2012,7.75,14
 Armenia,2013,7.69,13
 Armenia,2014,7.7,23
 Armenia,2015,7.6,29
+Armenia,2016,7.565793873,29
+Australia,1950,6.056715516,8
+Australia,1955,6.026502259,8
+Australia,1960,6.316157812,10
+Australia,1965,6.689718562,8
 Australia,1970,6.93,14
 Australia,1975,6.06,17
 Australia,1980,6.85,12
@@ -104,6 +118,11 @@ Australia,2012,7.96,8
 Australia,2013,7.92,9
 Australia,2014,8.02,7
 Australia,2015,8,9
+Australia,2016,7.977567819,11
+Austria,1950,5.633153905,19
+Austria,1955,5.669562117,20
+Austria,1960,6.208092544,13
+Austria,1965,6.302215885,13
 Austria,1970,6.51,19
 Austria,1975,6.04,21
 Austria,1980,6.45,18
@@ -126,6 +145,7 @@ Austria,2012,7.62,21
 Austria,2013,7.6,25
 Austria,2014,7.68,24
 Austria,2015,7.65,26
+Austria,2016,7.564971368,30
 Azerbaijan,2004,6.19,86
 Azerbaijan,2005,6.01,106
 Azerbaijan,2006,6.1,108
@@ -138,6 +158,7 @@ Azerbaijan,2012,6.32,112
 Azerbaijan,2013,6.2,120
 Azerbaijan,2014,6.4,115
 Azerbaijan,2015,6.38,114
+Azerbaijan,2016,6.477059287,108
 Bahamas,1975,6.43,14
 Bahamas,1980,6.28,22
 Bahamas,1985,6.32,26
@@ -159,6 +180,7 @@ Bahamas,2012,7.31,50
 Bahamas,2013,7.31,47
 Bahamas,2014,7.3,57
 Bahamas,2015,7.3,55
+Bahamas,2016,7.348118274,50
 Bahrain,1980,7.39,7
 Bahrain,1985,6.6,18
 Bahrain,1990,6.62,29
@@ -179,6 +201,7 @@ Bahrain,2012,7.33,46
 Bahrain,2013,7.32,45
 Bahrain,2014,7.36,51
 Bahrain,2015,7.37,49
+Bahrain,2016,7.547998735,32
 Bangladesh,1975,3.29,70
 Bangladesh,1980,3.28,101
 Bangladesh,1985,3.59,97
@@ -200,6 +223,7 @@ Bangladesh,2012,6.24,116
 Bangladesh,2013,6.34,115
 Bangladesh,2014,6.3,119
 Bangladesh,2015,6.32,118
+Bangladesh,2016,6.320027985,119
 Barbados,1975,5.67,30
 Barbados,1980,5.72,33
 Barbados,1985,6.06,31
@@ -221,6 +245,12 @@ Barbados,2012,6.67,88
 Barbados,2013,6.65,93
 Barbados,2014,6.63,97
 Barbados,2015,6.48,108
+Barbados,2016,6.441310507,111
+Belarus,2016,6.222585784,124
+Belgium,1950,6.167647432,5
+Belgium,1955,6.331733308,6
+Belgium,1960,6.776391625,6
+Belgium,1965,6.821484057,6
 Belgium,1970,7.44,6
 Belgium,1975,6.75,11
 Belgium,1980,7.35,9
@@ -243,6 +273,7 @@ Belgium,2012,7.35,42
 Belgium,2013,7.34,41
 Belgium,2014,7.59,31
 Belgium,2015,7.44,45
+Belgium,2016,7.324201584,52
 Belize,1980,5.59,39
 Belize,1985,5.4,50
 Belize,1990,5.9,45
@@ -263,6 +294,9 @@ Belize,2012,6.64,91
 Belize,2013,6.55,102
 Belize,2014,6.47,110
 Belize,2015,6.51,105
+Belize,2016,6.861622623,83
+Benin,1960,4.097161541,80
+Benin,1965,4.139612384,82
 Benin,1980,4.56,70
 Benin,1985,4.26,89
 Benin,1990,4.54,90
@@ -283,9 +317,15 @@ Benin,2012,5.74,134
 Benin,2013,5.98,131
 Benin,2014,5.94,132
 Benin,2015,5.78,134
+Benin,2016,5.978389576,133
 Bhutan,2013,6.93,75
 Bhutan,2014,6.99,78
 Bhutan,2015,7.11,70
+Bhutan,2016,7.036470399,73
+Bolivia,1950,4.229486689,46
+Bolivia,1955,4.251602298,55
+Bolivia,1960,4.651500624,56
+Bolivia,1965,4.856073016,55
 Bolivia,1980,4.08,83
 Bolivia,1985,3.52,102
 Bolivia,1990,5.62,51
@@ -306,6 +346,7 @@ Bolivia,2012,6.38,109
 Bolivia,2013,6.4,108
 Bolivia,2014,6.21,125
 Bolivia,2015,6.05,126
+Bolivia,2016,6.23460416,123
 Bosnia and Herzegovina,2005,6.18,100
 Bosnia and Herzegovina,2006,6.48,88
 Bosnia and Herzegovina,2007,6.61,85
@@ -317,6 +358,7 @@ Bosnia and Herzegovina,2012,6.79,83
 Bosnia and Herzegovina,2013,6.91,78
 Bosnia and Herzegovina,2014,6.79,92
 Bosnia and Herzegovina,2015,6.62,97
+Bosnia and Herzegovina,2016,6.621755881,97
 Botswana,1980,5.34,50
 Botswana,1985,5.66,39
 Botswana,1990,5.92,44
@@ -337,6 +379,11 @@ Botswana,2012,7.25,54
 Botswana,2013,7.23,54
 Botswana,2014,7.3,57
 Botswana,2015,7.37,49
+Botswana,2016,7.437125791,45
+Brazil,1950,4.045171386,48
+Brazil,1955,4.030173926,60
+Brazil,1960,4.287865831,74
+Brazil,1965,4.225138557,80
 Brazil,1970,5.28,38
 Brazil,1975,4.19,56
 Brazil,1980,3.92,86
@@ -359,12 +406,14 @@ Brazil,2012,6.24,116
 Brazil,2013,6.01,129
 Brazil,2014,5.93,134
 Brazil,2015,5.77,136
+Brazil,2016,5.758552944,144
 Brunei,2010,7.07,64
 Brunei,2011,6.92,75
 Brunei,2012,7.07,66
 Brunei,2013,7.06,69
 Brunei,2014,7.18,66
 Brunei,2015,6.77,85
+Brunei,2016,6.941173001,76
 Bulgaria,1985,5.65,40
 Bulgaria,1990,4.17,99
 Bulgaria,1995,4.82,101
@@ -384,6 +433,7 @@ Bulgaria,2012,7.37,39
 Bulgaria,2013,7.3,48
 Bulgaria,2014,7.37,50
 Bulgaria,2015,7.39,48
+Bulgaria,2016,7.413846286,47
 Burkina Faso,2005,5.85,115
 Burkina Faso,2006,5.84,120
 Burkina Faso,2007,5.99,115
@@ -395,6 +445,8 @@ Burkina Faso,2012,5.81,133
 Burkina Faso,2013,5.93,134
 Burkina Faso,2014,6.02,127
 Burkina Faso,2015,5.87,132
+Burkina Faso,2016,6.059183395,128
+Burundi,1965,4.277681452,76
 Burundi,1975,3.97,59
 Burundi,1980,3.92,86
 Burundi,1985,4.44,84
@@ -416,12 +468,16 @@ Burundi,2012,5.22,143
 Burundi,2013,5.96,133
 Burundi,2014,5.97,131
 Burundi,2015,6.1,125
+Burundi,2016,5.932866637,137
 Cambodia,2010,7.08,63
 Cambodia,2011,6.98,70
 Cambodia,2012,6.92,75
 Cambodia,2013,7.17,61
 Cambodia,2014,7.16,69
 Cambodia,2015,7.2,63
+Cambodia,2016,7.187433978,63
+Cameroon,1960,4.659137869,55
+Cameroon,1965,5.42340376,33
 Cameroon,1980,5.55,45
 Cameroon,1985,5.43,48
 Cameroon,1990,5.5,55
@@ -442,6 +498,11 @@ Cameroon,2012,6.23,119
 Cameroon,2013,6.13,125
 Cameroon,2014,6.03,126
 Cameroon,2015,5.92,127
+Cameroon,2016,5.844995065,141
+Canada,1950,6.467040017,3
+Canada,1955,6.83043428,2
+Canada,1960,6.991221436,4
+Canada,1965,7.074653164,4
 Canada,1970,8,3
 Canada,1975,7.2,6
 Canada,1980,7.77,4
@@ -464,12 +525,16 @@ Canada,2012,7.99,6
 Canada,2013,8,7
 Canada,2014,8.2,5
 Canada,2015,7.93,12
+Canada,2016,7.989774329,10
 Cape Verde,2010,6.38,107
 Cape Verde,2011,6.53,103
 Cape Verde,2012,6.56,101
 Cape Verde,2013,6.62,96
 Cape Verde,2014,6.56,104
 Cape Verde,2015,6.67,93
+Cape Verde,2016,6.662962575,93
+Central African Republic,1960,3.960755146,84
+Central African Republic,1965,3.942784889,90
 Central African Republic,1980,4.29,78
 Central African Republic,1985,4.39,85
 Central African Republic,1990,4.87,80
@@ -490,6 +555,9 @@ Central African Republic,2012,4.93,150
 Central African Republic,2013,5.23,150
 Central African Republic,2014,4.99,153
 Central African Republic,2015,4.62,158
+Central African Republic,2016,5.085648,156
+Chad,1960,4.183096518,78
+Chad,1965,4.194087909,81
 Chad,1985,4.45,83
 Chad,1990,5.13,67
 Chad,1995,5.09,92
@@ -509,6 +577,11 @@ Chad,2012,4.72,151
 Chad,2013,4.98,153
 Chad,2014,4.97,155
 Chad,2015,5.27,151
+Chad,2016,5.456090431,150
+Chile,1950,4.717569264,38
+Chile,1955,4.84175302,39
+Chile,1960,5.239851966,38
+Chile,1965,5.345146147,36
 Chile,1970,3.58,53
 Chile,1975,3.34,69
 Chile,1980,5.05,57
@@ -531,6 +604,10 @@ Chile,2012,7.81,11
 Chile,2013,7.84,10
 Chile,2014,7.84,12
 Chile,2015,7.79,14
+Chile,2016,7.780627687,15
+China,1955,4.249270368,56
+China,1960,4.201622506,77
+China,1965,4.348500973,73
 China,1980,3.64,94
 China,1985,4.82,73
 China,1990,4.09,100
@@ -551,6 +628,11 @@ China,2012,6.36,110
 China,2013,6.37,110
 China,2014,6.38,116
 China,2015,6.39,113
+China,2016,6.451520582,110
+Colombia,1950,4.63091553,40
+Colombia,1955,4.544491543,48
+Colombia,1960,5.18120587,40
+Colombia,1965,5.244475345,42
 Colombia,1970,4.81,41
 Colombia,1975,4.62,51
 Colombia,1980,4.59,69
@@ -573,6 +655,9 @@ Colombia,2012,6.62,95
 Colombia,2013,6.61,98
 Colombia,2014,6.46,111
 Colombia,2015,6.41,112
+Colombia,2016,6.4960464,105
+Congo,1960,4.202211874,76
+Congo,1965,4.096353805,87
 Congo,1980,4.67,66
 Congo,1985,4.3,88
 Congo,1990,4.77,84
@@ -593,6 +678,11 @@ Congo,2012,4.4,152
 Congo,2013,4.57,156
 Congo,2014,4.62,157
 Congo,2015,4.81,157
+Congo,2016,5.0329102,158
+Costa Rica,1950,5.059767663,28
+Costa Rica,1955,5.565368454,23
+Costa Rica,1960,5.643889527,24
+Costa Rica,1965,5.543753715,31
 Costa Rica,1975,6.7,12
 Costa Rica,1980,5.52,46
 Costa Rica,1985,5.33,53
@@ -614,6 +704,9 @@ Costa Rica,2012,7.53,28
 Costa Rica,2013,7.45,34
 Costa Rica,2014,7.5,37
 Costa Rica,2015,7.51,36
+Costa Rica,2016,7.544079485,33
+Cote d'Ivoire,1960,4.537270034,59
+Cote d'Ivoire,1965,4.876415878,54
 Cote d'Ivoire,1980,5.2,52
 Cote d'Ivoire,1985,5.34,51
 Cote d'Ivoire,1990,4.91,76
@@ -634,6 +727,7 @@ Cote d'Ivoire,2012,5.64,136
 Cote d'Ivoire,2013,5.89,138
 Cote d'Ivoire,2014,5.99,129
 Cote d'Ivoire,2015,5.88,131
+Cote d'Ivoire,2016,5.994718394,131
 Croatia,1995,5.08,94
 Croatia,2000,6.28,78
 Croatia,2001,6,85
@@ -651,6 +745,10 @@ Croatia,2012,6.93,73
 Croatia,2013,6.87,80
 Croatia,2014,7.01,76
 Croatia,2015,7.05,72
+Croatia,2016,6.95783489,75
+Cyprus,1955,5.550958985,24
+Cyprus,1960,5.439056995,30
+Cyprus,1965,5.315190233,38
 Cyprus,1975,6.04,21
 Cyprus,1980,5.56,44
 Cyprus,1985,5.52,43
@@ -672,6 +770,7 @@ Cyprus,2012,7.47,32
 Cyprus,2013,7.04,71
 Cyprus,2014,7.44,45
 Cyprus,2015,7.79,14
+Cyprus,2016,7.708212245,18
 Czech Republic,1995,5.76,72
 Czech Republic,2000,6.74,62
 Czech Republic,2001,6.82,57
@@ -689,6 +788,8 @@ Czech Republic,2012,7.42,36
 Czech Republic,2013,7.34,41
 Czech Republic,2014,7.46,40
 Czech Republic,2015,7.48,39
+Czech Republic,2016,7.573594724,26
+Democratic Republic of Congo,1965,4.232407268,79
 Democratic Republic of Congo,1970,4.26,51
 Democratic Republic of Congo,1975,3.92,60
 Democratic Republic of Congo,1980,2.84,102
@@ -711,6 +812,11 @@ Democratic Republic of Congo,2012,5.22,143
 Democratic Republic of Congo,2013,5.17,151
 Democratic Republic of Congo,2014,5.03,151
 Democratic Republic of Congo,2015,5.46,147
+Democratic Republic of Congo,2016,5.679637719,148
+Denmark,1950,5.789457618,17
+Denmark,1955,5.785261369,14
+Denmark,1960,6.241899314,11
+Denmark,1965,6.200545336,15
 Denmark,1970,7.39,9
 Denmark,1975,6.09,16
 Denmark,1980,6.24,24
@@ -733,6 +839,11 @@ Denmark,2012,7.56,24
 Denmark,2013,7.65,19
 Denmark,2014,7.8,15
 Denmark,2015,7.74,17
+Denmark,2016,7.766156184,16
+Dominican Republic,1950,4.608374126,41
+Dominican Republic,1955,4.99067011,35
+Dominican Republic,1960,5.019394877,44
+Dominican Republic,1965,4.943393073,51
 Dominican Republic,1980,5.59,39
 Dominican Republic,1985,5.33,53
 Dominican Republic,1990,4.42,94
@@ -753,6 +864,11 @@ Dominican Republic,2012,7.03,68
 Dominican Republic,2013,7.21,58
 Dominican Republic,2014,7.27,59
 Dominican Republic,2015,7.23,62
+Dominican Republic,2016,7.18506935,64
+Ecuador,1950,4.587077563,42
+Ecuador,1955,4.747393574,42
+Ecuador,1960,4.887135497,48
+Ecuador,1965,4.976829304,50
 Ecuador,1970,4.22,52
 Ecuador,1975,5.31,38
 Ecuador,1980,5.7,36
@@ -775,6 +891,11 @@ Ecuador,2012,5.93,130
 Ecuador,2013,5.93,134
 Ecuador,2014,5.66,141
 Ecuador,2015,5.91,129
+Ecuador,2016,6.058442512,129
+Egypt,1950,4.289301818,45
+Egypt,1955,4.021638922,61
+Egypt,1960,4.069162376,83
+Egypt,1965,4.124108449,84
 Egypt,1975,3.75,63
 Egypt,1980,4.32,77
 Egypt,1985,4.72,74
@@ -796,6 +917,11 @@ Egypt,2012,6.14,125
 Egypt,2013,5.99,130
 Egypt,2014,5.81,138
 Egypt,2015,5.74,139
+Egypt,2016,5.712223766,147
+El Salvador,1950,4.670957178,39
+El Salvador,1955,4.670468199,46
+El Salvador,1960,4.815192226,53
+El Salvador,1965,4.476459255,67
 El Salvador,1980,4.12,82
 El Salvador,1985,4.34,87
 El Salvador,1990,4.81,81
@@ -816,6 +942,7 @@ El Salvador,2012,7.09,64
 El Salvador,2013,7.16,62
 El Salvador,2014,7.34,55
 El Salvador,2015,7.13,69
+El Salvador,2016,7.133397009,67
 Estonia,1995,6.23,57
 Estonia,2000,7.6,23
 Estonia,2001,7.67,16
@@ -833,6 +960,7 @@ Estonia,2012,7.68,17
 Estonia,2013,7.66,18
 Estonia,2014,7.8,15
 Estonia,2015,7.95,10
+Estonia,2016,7.837735993,14
 Ethiopia,2005,5.54,128
 Ethiopia,2006,5.68,124
 Ethiopia,2007,5.74,126
@@ -844,6 +972,7 @@ Ethiopia,2012,5.58,137
 Ethiopia,2013,5.53,143
 Ethiopia,2014,5.46,146
 Ethiopia,2015,5.53,146
+Ethiopia,2016,5.746327451,145
 Fiji,1975,5.27,39
 Fiji,1980,5.57,42
 Fiji,1985,5.97,34
@@ -865,6 +994,11 @@ Fiji,2012,7,71
 Fiji,2013,6.55,102
 Fiji,2014,6.6,99
 Fiji,2015,6.68,91
+Fiji,2016,6.808111223,88
+Finland,1950,5.727278461,18
+Finland,1955,5.762723401,16
+Finland,1960,6.119668278,15
+Finland,1965,6.351752217,12
 Finland,1970,7.12,11
 Finland,1975,6.05,19
 Finland,1980,6.5,16
@@ -887,6 +1021,11 @@ Finland,2012,7.81,11
 Finland,2013,7.67,17
 Finland,2014,7.79,18
 Finland,2015,7.73,18
+Finland,2016,7.620819275,24
+France,1950,5.601627698,20
+France,1955,5.479187554,26
+France,1960,5.528612457,29
+France,1965,5.625965855,28
 France,1970,6.51,19
 France,1975,5.81,26
 France,1980,6.05,27
@@ -909,6 +1048,9 @@ France,2012,7.27,53
 France,2013,7.2,60
 France,2014,7.36,51
 France,2015,7.35,52
+France,2016,7.23569039,57
+Gabon,1960,4.48222709,62
+Gabon,1965,4.920562213,52
 Gabon,1980,4.38,75
 Gabon,1985,5.28,55
 Gabon,1990,5.39,59
@@ -929,12 +1071,14 @@ Gabon,2012,5.37,139
 Gabon,2013,5.42,144
 Gabon,2014,5.57,144
 Gabon,2015,5.76,137
+Gabon,2016,5.864793558,140
 Gambia,2010,7.24,49
 Gambia,2011,7.04,68
 Gambia,2012,6.87,79
 Gambia,2013,7.28,51
 Gambia,2014,7.35,54
 Gambia,2015,7.24,61
+Gambia,2016,7.359703603,49
 Georgia,2003,7.11,46
 Georgia,2004,6.96,56
 Georgia,2005,7.42,33
@@ -948,6 +1092,11 @@ Georgia,2012,7.75,14
 Georgia,2013,7.83,11
 Georgia,2014,8.02,7
 Georgia,2015,8.01,8
+Georgia,2016,8.02,7
+Germany,1950,6.053795567,9
+Germany,1955,5.997955225,11
+Germany,1960,6.609845189,7
+Germany,1965,6.715639492,7
 Germany,1970,7.4,8
 Germany,1975,6.76,10
 Germany,1980,7.18,11
@@ -970,6 +1119,10 @@ Germany,2012,7.64,19
 Germany,2013,7.63,22
 Germany,2014,7.67,26
 Germany,2015,7.68,24
+Germany,2016,7.679705306,21
+Ghana,1955,3.65373117,66
+Ghana,1960,3.872347647,86
+Ghana,1965,3.615575153,94
 Ghana,1975,3.6,65
 Ghana,1980,2.83,103
 Ghana,1985,3.16,105
@@ -991,6 +1144,11 @@ Ghana,2012,6.44,105
 Ghana,2013,6.54,105
 Ghana,2014,6.41,113
 Ghana,2015,6.52,104
+Ghana,2016,6.601015102,99
+Greece,1950,4.980283546,31
+Greece,1955,5.08613366,33
+Greece,1960,5.307334965,35
+Greece,1965,5.282998251,39
 Greece,1970,6.47,21
 Greece,1975,5.82,25
 Greece,1980,5.72,33
@@ -1013,6 +1171,11 @@ Greece,2012,6.67,88
 Greece,2013,6.89,79
 Greece,2014,6.81,89
 Greece,2015,6.36,116
+Greece,2016,6.492319707,106
+Guatemala,1950,4.722732328,37
+Guatemala,1955,4.818694456,40
+Guatemala,1960,5.016163603,45
+Guatemala,1965,4.751234759,60
 Guatemala,1970,6.69,17
 Guatemala,1975,7.24,5
 Guatemala,1980,6.27,23
@@ -1035,9 +1198,11 @@ Guatemala,2012,7.41,37
 Guatemala,2013,7.62,23
 Guatemala,2014,7.65,27
 Guatemala,2015,7.69,23
+Guatemala,2016,7.623024421,23
 Guinea,2013,5.64,141
 Guinea,2014,5.62,142
 Guinea,2015,5.75,138
+Guinea,2016,5.9311292,138
 Guinea-Bissau,1990,2.9,110
 Guinea-Bissau,1995,3.12,122
 Guinea-Bissau,2000,4.3,120
@@ -1056,6 +1221,10 @@ Guinea-Bissau,2012,5.96,129
 Guinea-Bissau,2013,5.77,140
 Guinea-Bissau,2014,5.44,147
 Guinea-Bissau,2015,5.65,142
+Guinea-Bissau,2016,5.204764232,154
+Guyana,1955,3.695098499,63
+Guyana,1960,3.851227349,87
+Guyana,1965,3.931655613,91
 Guyana,1985,3.27,104
 Guyana,1995,5,97
 Guyana,2000,6.45,75
@@ -1074,6 +1243,10 @@ Guyana,2012,6.3,113
 Guyana,2013,6.02,128
 Guyana,2014,6.22,124
 Guyana,2015,6.45,109
+Guyana,2016,6.319215573,120
+Haiti,1955,4.301174824,53
+Haiti,1960,4.474416652,63
+Haiti,1965,4.601578879,64
 Haiti,1980,5.35,49
 Haiti,1985,4.97,66
 Haiti,1990,4.96,73
@@ -1094,6 +1267,11 @@ Haiti,2012,6,127
 Haiti,2013,6.36,112
 Haiti,2014,6.58,101
 Haiti,2015,6.53,103
+Haiti,2016,6.540483644,102
+Honduras,1950,5.581895323,21
+Honduras,1955,5.487791144,25
+Honduras,1960,5.547359223,28
+Honduras,1965,5.493456773,32
 Honduras,1980,5.44,47
 Honduras,1985,5.73,38
 Honduras,1990,5.7,50
@@ -1114,6 +1292,7 @@ Honduras,2012,7.16,60
 Honduras,2013,7.1,66
 Honduras,2014,7.2,65
 Honduras,2015,7.3,55
+Honduras,2016,7.053142395,70
 Hong Kong,1970,8.34,1
 Hong Kong,1975,8.42,2
 Hong Kong,1980,8.72,1
@@ -1136,6 +1315,7 @@ Hong Kong,2012,8.96,1
 Hong Kong,2013,8.94,1
 Hong Kong,2014,8.99,1
 Hong Kong,2015,8.95,1
+Hong Kong,2016,8.971599172,1
 Hungary,1980,4.07,84
 Hungary,1985,4.48,82
 Hungary,1990,4.89,78
@@ -1156,6 +1336,10 @@ Hungary,2012,7.33,46
 Hungary,2013,7.3,48
 Hungary,2014,7.36,51
 Hungary,2015,7.29,58
+Hungary,2016,7.226473871,59
+Iceland,1955,5.650711635,21
+Iceland,1960,5.858064337,19
+Iceland,1965,5.876654062,23
 Iceland,1970,5.95,28
 Iceland,1975,4.53,52
 Iceland,1980,5.15,54
@@ -1178,6 +1362,11 @@ Iceland,2012,6.89,77
 Iceland,2013,6.93,75
 Iceland,2014,7.18,66
 Iceland,2015,7.19,64
+Iceland,2016,7.212059862,61
+India,1950,4.750593709,36
+India,1955,4.573562574,47
+India,1960,4.849940888,52
+India,1965,4.816031732,57
 India,1970,5.08,40
 India,1975,4.27,55
 India,1980,5.02,58
@@ -1200,6 +1389,9 @@ India,2012,6.54,103
 India,2013,6.36,112
 India,2014,6.23,122
 India,2015,6.61,99
+India,2016,6.627177736,96
+Indonesia,1960,4.873369664,49
+Indonesia,1965,5.091211484,46
 Indonesia,1970,4.27,50
 Indonesia,1975,4.78,50
 Indonesia,1980,4.79,63
@@ -1222,6 +1414,11 @@ Indonesia,2012,6.84,81
 Indonesia,2013,6.98,72
 Indonesia,2014,7.02,75
 Indonesia,2015,6.98,74
+Indonesia,2016,7.142168145,66
+Iran,1950,3.905729498,50
+Iran,1955,3.910845108,62
+Iran,1960,3.956215031,85
+Iran,1965,4.133603257,83
 Iran,1970,5.77,32
 Iran,1975,5.64,31
 Iran,1980,3.53,97
@@ -1244,6 +1441,12 @@ Iran,2012,4.96,148
 Iran,2013,5.3,146
 Iran,2014,4.98,154
 Iran,2015,5.3,150
+Iran,2016,6.020622191,130
+Iraq,2016,5.407654263,152
+Ireland,1950,5.807357925,16
+Ireland,1955,5.736588928,17
+Ireland,1960,5.843820571,20
+Ireland,1965,5.971242553,18
 Ireland,1970,6.75,16
 Ireland,1975,5.96,23
 Ireland,1980,6.46,17
@@ -1266,6 +1469,11 @@ Ireland,2012,7.98,7
 Ireland,2013,8.01,6
 Ireland,2014,8.09,6
 Ireland,2015,8.18,5
+Ireland,2016,8.067158288,5
+Israel,1950,4.789324354,35
+Israel,1955,4.672453899,45
+Israel,1960,4.925800927,46
+Israel,1965,4.907179247,53
 Israel,1970,4.79,42
 Israel,1975,4.03,58
 Israel,1980,3.5,98
@@ -1288,6 +1496,11 @@ Israel,2012,7.37,39
 Israel,2013,7.38,36
 Israel,2014,7.46,40
 Israel,2015,7.48,39
+Israel,2016,7.469375569,41
+Italy,1950,5.87894413,12
+Italy,1955,5.580283213,22
+Italy,1960,5.842926391,21
+Italy,1965,5.960322259,19
 Italy,1970,6.37,23
 Italy,1975,5.37,36
 Italy,1980,5.58,41
@@ -1310,6 +1523,10 @@ Italy,2012,7.22,57
 Italy,2013,7.16,62
 Italy,2014,7.25,61
 Italy,2015,7.31,54
+Italy,2016,7.272612388,55
+Jamaica,1955,5.274037129,29
+Jamaica,1960,5.304726094,36
+Jamaica,1965,5.90886572,22
 Jamaica,1980,3.98,85
 Jamaica,1985,5.09,61
 Jamaica,1990,5.62,51
@@ -1330,6 +1547,10 @@ Jamaica,2012,7.14,61
 Jamaica,2013,7.29,50
 Jamaica,2014,7.18,66
 Jamaica,2015,7.3,55
+Jamaica,2016,7.198321709,62
+Japan,1955,6.012764374,9
+Japan,1960,6.217829624,12
+Japan,1965,6.449929381,11
 Japan,1970,7.68,5
 Japan,1975,6.83,9
 Japan,1980,7.37,8
@@ -1352,6 +1573,10 @@ Japan,2012,7.66,18
 Japan,2013,7.51,32
 Japan,2014,7.55,33
 Japan,2015,7.49,37
+Japan,2016,7.470801386,39
+Jordan,1955,4.275350734,54
+Jordan,1960,4.345444157,69
+Jordan,1965,4.828534935,56
 Jordan,1975,4.83,48
 Jordan,1980,5.13,56
 Jordan,1985,5.5,44
@@ -1373,6 +1598,7 @@ Jordan,2012,7.56,24
 Jordan,2013,7.65,19
 Jordan,2014,7.54,35
 Jordan,2015,7.47,41
+Jordan,2016,7.469710428,40
 Kazakhstan,2005,6.88,69
 Kazakhstan,2006,6.98,66
 Kazakhstan,2007,7.15,57
@@ -1384,6 +1610,9 @@ Kazakhstan,2012,7.14,61
 Kazakhstan,2013,7.12,65
 Kazakhstan,2014,7.22,64
 Kazakhstan,2015,7.18,65
+Kazakhstan,2016,7.118116418,69
+Kenya,1960,5.427192297,31
+Kenya,1965,5.246058457,41
 Kenya,1970,5.11,39
 Kenya,1975,4.8,49
 Kenya,1980,4.84,62
@@ -1406,6 +1635,7 @@ Kenya,2012,7.09,64
 Kenya,2013,7.1,66
 Kenya,2014,7.1,72
 Kenya,2015,7.11,70
+Kenya,2016,7.214441717,60
 Kuwait,1980,3.69,92
 Kuwait,1985,5.46,46
 Kuwait,1990,4.98,71
@@ -1426,6 +1656,7 @@ Kuwait,2012,6.93,73
 Kuwait,2013,6.81,86
 Kuwait,2014,6.81,89
 Kuwait,2015,6.62,97
+Kuwait,2016,6.762842638,89
 Kyrgyzstan,2005,6.54,79
 Kyrgyzstan,2006,6.9,72
 Kyrgyzstan,2007,7.01,67
@@ -1437,8 +1668,10 @@ Kyrgyzstan,2012,6.67,88
 Kyrgyzstan,2013,6.72,90
 Kyrgyzstan,2014,6.98,80
 Kyrgyzstan,2015,6.9,80
+Kyrgyzstan,2016,6.928605538,79
 Laos,2014,6.95,82
 Laos,2015,6.98,74
+Laos,2016,6.897792969,81
 Latvia,1995,5.68,75
 Latvia,2000,7.24,39
 Latvia,2001,7.23,38
@@ -1456,12 +1689,14 @@ Latvia,2012,7.56,24
 Latvia,2013,7.65,19
 Latvia,2014,7.81,13
 Latvia,2015,7.77,16
+Latvia,2016,7.642272018,22
 Lebanon,2010,7.21,54
 Lebanon,2011,7.18,58
 Lebanon,2012,6.96,72
 Lebanon,2013,6.87,80
 Lebanon,2014,6.9,84
 Lebanon,2015,6.91,79
+Lebanon,2016,7.0162559,74
 Lesotho,2005,5.74,122
 Lesotho,2006,5.98,115
 Lesotho,2007,5.84,123
@@ -1473,11 +1708,14 @@ Lesotho,2012,6.19,121
 Lesotho,2013,6.3,119
 Lesotho,2014,6.59,100
 Lesotho,2015,6.57,101
+Lesotho,2016,6.381731401,115
 Liberia,2014,7.14,70
 Liberia,2015,6.79,83
+Liberia,2016,6.558400412,101
 Libya,2013,4.77,155
 Libya,2014,4.78,156
 Libya,2015,4.95,154
+Libya,2016,4.773094763,161
 Lithuania,1995,5.47,80
 Lithuania,2000,6.92,53
 Lithuania,2001,6.87,53
@@ -1495,6 +1733,11 @@ Lithuania,2012,7.52,29
 Lithuania,2013,7.69,13
 Lithuania,2014,7.91,11
 Lithuania,2015,7.94,11
+Lithuania,2016,7.849591595,13
+Luxembourg,1950,6.455048331,4
+Luxembourg,1955,6.627958531,4
+Luxembourg,1960,7.264212724,1
+Luxembourg,1965,7.369133501,1
 Luxembourg,1970,8.01,2
 Luxembourg,1975,8.48,1
 Luxembourg,1980,8.05,3
@@ -1517,6 +1760,7 @@ Luxembourg,2012,7.46,34
 Luxembourg,2013,7.58,28
 Luxembourg,2014,7.78,19
 Luxembourg,2015,7.64,27
+Luxembourg,2016,7.586641726,25
 Macedonia,2003,6.14,88
 Macedonia,2004,6.07,89
 Macedonia,2005,6.42,86
@@ -1530,6 +1774,9 @@ Macedonia,2012,7.23,56
 Macedonia,2013,7.15,64
 Macedonia,2014,7.24,62
 Macedonia,2015,7.16,67
+Macedonia,2016,7.122560119,68
+Madagascar,1960,4.082319636,81
+Madagascar,1965,4.453996319,68
 Madagascar,1970,5.43,35
 Madagascar,1980,3.87,89
 Madagascar,1985,4.21,90
@@ -1551,6 +1798,8 @@ Madagascar,2012,6.45,104
 Madagascar,2013,6.57,99
 Madagascar,2014,6.41,113
 Madagascar,2015,6.44,110
+Madagascar,2016,6.174695918,126
+Malawi,1965,4.351437968,72
 Malawi,1975,5.12,43
 Malawi,1980,4.48,74
 Malawi,1985,4.89,68
@@ -1572,6 +1821,11 @@ Malawi,2012,6.18,122
 Malawi,2013,5.9,137
 Malawi,2014,5.94,132
 Malawi,2015,5.87,132
+Malawi,2016,5.86902225,139
+Malaysia,1950,5.945910778,11
+Malaysia,1955,5.719623333,18
+Malaysia,1960,5.983165111,18
+Malaysia,1965,5.957623331,20
 Malaysia,1970,6.25,24
 Malaysia,1975,6.05,19
 Malaysia,1980,6.61,15
@@ -1594,6 +1848,9 @@ Malaysia,2012,6.85,80
 Malaysia,2013,7.07,68
 Malaysia,2014,7.1,72
 Malaysia,2015,7.17,66
+Malaysia,2016,6.913130396,80
+Mali,1960,4.311986211,72
+Mali,1965,4.247406456,78
 Mali,1975,5.81,26
 Mali,1980,5.79,31
 Mali,1985,4.88,69
@@ -1615,6 +1872,9 @@ Mali,2012,5.99,128
 Mali,2013,5.92,136
 Mali,2014,5.98,130
 Mali,2015,5.89,130
+Mali,2016,5.794917503,142
+Malta,1960,5.130143976,42
+Malta,1965,5.235433618,43
 Malta,1980,5.57,42
 Malta,1985,5.34,51
 Malta,1990,5.54,54
@@ -1635,6 +1895,7 @@ Malta,2012,7.63,20
 Malta,2013,7.62,23
 Malta,2014,7.8,15
 Malta,2015,7.71,21
+Malta,2016,7.740315514,17
 Mauritania,2005,6.3,93
 Mauritania,2006,5.9,117
 Mauritania,2007,5.9,120
@@ -1646,6 +1907,9 @@ Mauritania,2012,5.68,135
 Mauritania,2013,5.6,142
 Mauritania,2014,5.6,143
 Mauritania,2015,5.56,145
+Mauritania,2016,5.962612389,136
+Mauritius,1960,5.549123416,27
+Mauritius,1965,5.94504779,21
 Mauritius,1975,5.21,41
 Mauritius,1980,4.9,59
 Mauritius,1985,6.38,24
@@ -1667,6 +1931,11 @@ Mauritius,2012,8.15,5
 Mauritius,2013,8.12,5
 Mauritius,2014,8.02,7
 Mauritius,2015,8.03,7
+Mauritius,2016,7.995281457,9
+Mexico,1950,4.937049001,33
+Mexico,1955,5.085796474,34
+Mexico,1960,5.159847888,41
+Mexico,1965,5.333768367,37
 Mexico,1970,6.78,15
 Mexico,1975,5.73,29
 Mexico,1980,5.19,53
@@ -1689,6 +1958,7 @@ Mexico,2012,6.78,84
 Mexico,2013,6.82,85
 Mexico,2014,6.93,83
 Mexico,2015,6.96,76
+Mexico,2016,6.895887517,82
 Moldova,2005,6.73,73
 Moldova,2006,6.74,79
 Moldova,2007,6.79,77
@@ -1700,6 +1970,7 @@ Moldova,2012,6.64,91
 Moldova,2013,6.53,107
 Moldova,2014,6.65,96
 Moldova,2015,6.57,101
+Moldova,2016,6.629613844,95
 Mongolia,2004,6.81,64
 Mongolia,2005,7.08,56
 Mongolia,2006,7.2,52
@@ -1712,6 +1983,7 @@ Mongolia,2012,7.02,69
 Mongolia,2013,7.21,58
 Mongolia,2014,7.39,48
 Mongolia,2015,7.45,44
+Mongolia,2016,7.395856246,48
 Montenegro,2005,6.3,93
 Montenegro,2006,6.91,71
 Montenegro,2007,7.04,66
@@ -1723,6 +1995,11 @@ Montenegro,2012,7.25,54
 Montenegro,2013,7.05,70
 Montenegro,2014,7.23,63
 Montenegro,2015,6.77,85
+Montenegro,2016,7.050268253,71
+Morocco,1950,4.938975934,32
+Morocco,1955,4.93845153,37
+Morocco,1960,5.375537872,32
+Morocco,1965,4.813810606,58
 Morocco,1970,4.74,43
 Morocco,1975,4.91,46
 Morocco,1980,4.29,78
@@ -1745,6 +2022,7 @@ Morocco,2012,6.34,111
 Morocco,2013,6.34,115
 Morocco,2014,6.28,120
 Morocco,2015,6.31,119
+Morocco,2016,6.339798901,118
 Mozambique,2003,5.84,103
 Mozambique,2004,5.61,114
 Mozambique,2005,5.45,129
@@ -1758,6 +2036,11 @@ Mozambique,2012,5.93,130
 Mozambique,2013,5.78,139
 Mozambique,2014,5.75,140
 Mozambique,2015,5.63,143
+Mozambique,2016,5.479430172,149
+Myanmar,1950,3.748533857,53
+Myanmar,1955,3.675707225,65
+Myanmar,1960,3.630128353,89
+Myanmar,1965,3.476775643,96
 Myanmar,1980,3.81,90
 Myanmar,1985,3.52,102
 Myanmar,1990,2.66,113
@@ -1778,6 +2061,7 @@ Myanmar,2012,5.09,145
 Myanmar,2013,5.36,145
 Myanmar,2014,5.41,148
 Myanmar,2015,5.26,152
+Myanmar,2016,5.41638899,151
 Namibia,1990,4.9,77
 Namibia,1995,5.64,76
 Namibia,2000,6.65,65
@@ -1796,6 +2080,9 @@ Namibia,2012,6.77,86
 Namibia,2013,6.83,84
 Namibia,2014,6.97,81
 Namibia,2015,6.76,87
+Namibia,2016,6.413544685,113
+Nepal,1960,4.401583802,67
+Nepal,1965,5.151886857,45
 Nepal,1980,5.77,32
 Nepal,1985,5.27,57
 Nepal,1990,5.37,60
@@ -1816,6 +2103,11 @@ Nepal,2012,6.12,126
 Nepal,2013,6.36,112
 Nepal,2014,6.45,112
 Nepal,2015,6.5,106
+Nepal,2016,6.527727586,103
+Netherlands,1950,5.876282629,13
+Netherlands,1955,6.044377133,7
+Netherlands,1960,6.384143308,9
+Netherlands,1965,6.523361352,10
 Netherlands,1970,7.01,13
 Netherlands,1975,6.6,13
 Netherlands,1980,7.29,10
@@ -1838,6 +2130,11 @@ Netherlands,2012,7.54,27
 Netherlands,2013,7.59,27
 Netherlands,2014,7.74,20
 Netherlands,2015,7.73,18
+Netherlands,2016,7.697608946,20
+New Zealand,1950,5.852072014,15
+New Zealand,1955,5.699862645,19
+New Zealand,1960,5.80197023,22
+New Zealand,1965,5.869594754,24
 New Zealand,1970,6.62,18
 New Zealand,1975,5.77,28
 New Zealand,1980,6.44,19
@@ -1860,6 +2157,11 @@ New Zealand,2012,8.47,3
 New Zealand,2013,8.45,3
 New Zealand,2014,8.48,3
 New Zealand,2015,8.48,3
+New Zealand,2016,8.490329773,3
+Nicaragua,1950,3.792339062,52
+Nicaragua,1955,3.68924273,64
+Nicaragua,1960,3.810698079,88
+Nicaragua,1965,3.497727869,95
 Nicaragua,1980,3.49,99
 Nicaragua,1985,1.97,110
 Nicaragua,1990,2.87,111
@@ -1880,6 +2182,9 @@ Nicaragua,2012,7.36,41
 Nicaragua,2013,7.34,41
 Nicaragua,2014,7.31,56
 Nicaragua,2015,7.28,59
+Nicaragua,2016,7.277070764,54
+Niger,1960,4.338727913,70
+Niger,1965,4.795990137,59
 Niger,1975,5.56,35
 Niger,1980,4.62,67
 Niger,1985,4.51,81
@@ -1901,6 +2206,10 @@ Niger,2012,5.55,138
 Niger,2013,6.14,122
 Niger,2014,5.9,136
 Niger,2015,5.74,139
+Niger,2016,5.965836428,135
+Nigeria,1955,4.161243305,58
+Nigeria,1960,4.513075452,61
+Nigeria,1965,4.263376054,77
 Nigeria,1970,4.28,49
 Nigeria,1975,3.85,61
 Nigeria,1980,3.44,100
@@ -1923,6 +2232,11 @@ Nigeria,2012,6.22,120
 Nigeria,2013,6.38,109
 Nigeria,2014,6.38,116
 Nigeria,2015,6.37,115
+Nigeria,2016,6.36072046,117
+Norway,1950,6.0664098,7
+Norway,1955,5.783424656,15
+Norway,1960,6.076654489,17
+Norway,1965,6.103971013,17
 Norway,1970,6.19,26
 Norway,1975,5.57,33
 Norway,1980,5.72,33
@@ -1945,6 +2259,7 @@ Norway,2012,7.58,22
 Norway,2013,7.57,30
 Norway,2014,7.62,28
 Norway,2015,7.67,25
+Norway,2016,7.57088482,27
 Oman,1985,6.63,17
 Oman,1990,6.2,36
 Oman,1995,6.67,43
@@ -1964,6 +2279,11 @@ Oman,2012,7.04,67
 Oman,2013,6.95,73
 Oman,2014,7.05,74
 Oman,2015,6.64,95
+Oman,2016,6.749671402,90
+Pakistan,1950,4.305036485,44
+Pakistan,1955,4.326194472,51
+Pakistan,1960,4.383530954,68
+Pakistan,1965,4.607017666,63
 Pakistan,1970,4.45,46
 Pakistan,1975,3.51,66
 Pakistan,1980,4.25,80
@@ -1986,6 +2306,11 @@ Pakistan,2012,6.15,124
 Pakistan,2013,6.14,122
 Pakistan,2014,5.89,137
 Pakistan,2015,5.92,127
+Pakistan,2016,5.993016925,132
+Panama,1950,5.85847542,14
+Panama,1955,6.009340199,10
+Panama,1960,6.116557879,16
+Panama,1965,6.213842398,14
 Panama,1975,7.32,4
 Panama,1980,6.07,26
 Panama,1985,6.7,14
@@ -2007,6 +2332,7 @@ Panama,2012,7.34,44
 Panama,2013,7.36,39
 Panama,2014,7.48,38
 Panama,2015,7.6,29
+Panama,2016,7.566113507,28
 Papua New Guinea,1985,6.02,33
 Papua New Guinea,1990,6.07,39
 Papua New Guinea,1995,6.06,62
@@ -2026,6 +2352,11 @@ Papua New Guinea,2012,6.91,76
 Papua New Guinea,2013,6.57,99
 Papua New Guinea,2014,6.48,108
 Papua New Guinea,2015,6.43,111
+Papua New Guinea,2016,6.268588715,122
+Paraguay,1950,3.797854139,51
+Paraguay,1955,4.492534586,49
+Paraguay,1960,4.920471328,47
+Paraguay,1965,5.081646497,47
 Paraguay,1980,6.24,24
 Paraguay,1985,5.24,58
 Paraguay,1990,5.94,43
@@ -2046,6 +2377,11 @@ Paraguay,2012,6.89,77
 Paraguay,2013,6.92,77
 Paraguay,2014,6.87,86
 Paraguay,2015,6.92,77
+Paraguay,2016,6.93248077,77
+Peru,1950,4.064480968,47
+Peru,1955,4.302455076,52
+Peru,1960,4.432028598,64
+Peru,1965,4.369279243,71
 Peru,1970,4.62,44
 Peru,1975,3.5,67
 Peru,1980,3.6,95
@@ -2068,6 +2404,11 @@ Peru,2012,7.57,23
 Peru,2013,7.38,36
 Peru,2014,7.53,36
 Peru,2015,7.47,41
+Peru,2016,7.439497099,43
+Philippines,1950,5.015764665,29
+Philippines,1955,4.842840321,38
+Philippines,1960,4.851963159,51
+Philippines,1965,5.280546195,40
 Philippines,1970,5.3,37
 Philippines,1975,5.02,44
 Philippines,1980,5.15,54
@@ -2090,6 +2431,7 @@ Philippines,2012,7.31,50
 Philippines,2013,7.58,28
 Philippines,2014,7.45,43
 Philippines,2015,7.47,41
+Philippines,2016,7.347101298,51
 Poland,1985,3.68,96
 Poland,1990,3.51,104
 Poland,1995,5.28,90
@@ -2109,6 +2451,11 @@ Poland,2012,7.32,48
 Poland,2013,7.22,57
 Poland,2014,7.43,47
 Poland,2015,7.36,51
+Poland,2016,7.26956524,56
+Portugal,1950,5.256428275,24
+Portugal,1955,5.46069916,27
+Portugal,1960,5.599486954,25
+Portugal,1965,5.609656822,29
 Portugal,1970,5.51,34
 Portugal,1975,3.74,64
 Portugal,1980,5.62,38
@@ -2131,12 +2478,16 @@ Portugal,2012,7.31,50
 Portugal,2013,7.49,33
 Portugal,2014,7.6,30
 Portugal,2015,7.54,33
+Portugal,2016,7.496775811,36
 Qatar,2010,7.35,37
 Qatar,2011,7.23,54
 Qatar,2012,7.5,30
 Qatar,2013,7.53,31
 Qatar,2014,7.68,24
 Qatar,2015,7.43,46
+Qatar,2016,7.467956558,42
+Romania,1960,4.620736156,57
+Romania,1965,4.478893332,66
 Romania,1985,5.58,41
 Romania,1990,5.02,68
 Romania,1995,3.75,118
@@ -2156,6 +2507,7 @@ Romania,2012,7.47,32
 Romania,2013,7.6,25
 Romania,2014,7.74,20
 Romania,2015,7.73,18
+Romania,2016,7.698155057,19
 Russia,1995,4.33,107
 Russia,2000,5.5,106
 Russia,2001,5.55,107
@@ -2173,6 +2525,8 @@ Russia,2012,6.64,91
 Russia,2013,6.56,101
 Russia,2014,6.58,101
 Russia,2015,6.61,99
+Russia,2016,6.823958472,85
+Rwanda,1965,4.713098121,61
 Rwanda,1975,3.2,71
 Rwanda,1980,4.6,68
 Rwanda,1990,4.89,78
@@ -2193,12 +2547,16 @@ Rwanda,2012,7.32,48
 Rwanda,2013,7.38,36
 Rwanda,2014,7.39,48
 Rwanda,2015,7.56,31
+Rwanda,2016,7.483949815,38
 Saudi Arabia,2010,6.71,86
 Saudi Arabia,2011,6.67,91
 Saudi Arabia,2012,6.42,106
 Saudi Arabia,2013,6.55,102
 Saudi Arabia,2014,6.55,106
 Saudi Arabia,2015,6.24,122
+Saudi Arabia,2016,6.516357351,104
+Senegal,1960,4.297115611,73
+Senegal,1965,4.425990449,69
 Senegal,1980,4.85,61
 Senegal,1985,4.85,71
 Senegal,1990,5.02,68
@@ -2219,6 +2577,7 @@ Senegal,2012,5.9,132
 Senegal,2013,6.18,121
 Senegal,2014,6.23,122
 Senegal,2015,6.16,124
+Senegal,2016,6.199727938,125
 Serbia,2005,5.96,109
 Serbia,2006,6.39,95
 Serbia,2007,6.77,80
@@ -2230,9 +2589,13 @@ Serbia,2012,6.55,102
 Serbia,2013,6.65,93
 Serbia,2014,6.71,94
 Serbia,2015,6.76,87
+Serbia,2016,6.855902529,84
 Seychelles,2013,7.24,52
 Seychelles,2014,7.46,40
 Seychelles,2015,7.42,47
+Seychelles,2016,7.234818257,58
+Sierra Leone,1960,4.226059414,75
+Sierra Leone,1965,4.344492592,74
 Sierra Leone,1975,4.93,45
 Sierra Leone,1980,4.79,63
 Sierra Leone,1985,3.71,95
@@ -2254,6 +2617,9 @@ Sierra Leone,2012,6.27,115
 Sierra Leone,2013,6.11,126
 Sierra Leone,2014,6,128
 Sierra Leone,2015,5.78,134
+Sierra Leone,2016,5.744552987,146
+Singapore,1960,6.867969309,5
+Singapore,1965,6.867358275,5
 Singapore,1970,7.08,12
 Singapore,1975,7.01,8
 Singapore,1980,7.42,6
@@ -2276,6 +2642,7 @@ Singapore,2012,8.59,2
 Singapore,2013,8.59,2
 Singapore,2014,8.79,2
 Singapore,2015,8.8,2
+Singapore,2016,8.820735091,2
 Slovakia,1995,5.42,83
 Slovakia,2000,6.89,57
 Slovakia,2001,6.81,58
@@ -2293,6 +2660,7 @@ Slovakia,2012,7.38,38
 Slovakia,2013,7.35,40
 Slovakia,2014,7.44,45
 Slovakia,2015,7.33,53
+Slovakia,2016,7.308716412,53
 Slovenia,1995,5.31,87
 Slovenia,2000,6.58,71
 Slovenia,2001,6.81,58
@@ -2310,6 +2678,11 @@ Slovenia,2012,6.84,81
 Slovenia,2013,6.72,90
 Slovenia,2014,7.01,76
 Slovenia,2015,7.02,73
+Slovenia,2016,7.044029738,72
+South Africa,1950,5.009284321,30
+South Africa,1955,5.269977287,31
+South Africa,1960,5.351373106,33
+South Africa,1965,5.39080015,34
 South Africa,1970,5.91,30
 South Africa,1975,5.23,40
 South Africa,1980,5.23,51
@@ -2332,6 +2705,10 @@ South Africa,2012,6.78,84
 South Africa,2013,6.75,87
 South Africa,2014,6.67,95
 South Africa,2015,6.64,95
+South Africa,2016,6.658054541,94
+South Korea,1955,4.473568498,50
+South Korea,1960,4.712475215,54
+South Korea,1965,4.994749293,49
 South Korea,1970,5.84,31
 South Korea,1975,5.18,42
 South Korea,1980,5.38,48
@@ -2354,6 +2731,11 @@ South Korea,2012,7.45,35
 South Korea,2013,7.34,41
 South Korea,2014,7.55,33
 South Korea,2015,7.55,32
+South Korea,2016,7.501501501,35
+Spain,1950,5.276045386,23
+Spain,1955,5.273538458,30
+Spain,1960,5.585498034,26
+Spain,1965,5.716850924,25
 Spain,1970,6.12,27
 Spain,1975,5.57,33
 Spain,1980,5.81,30
@@ -2376,6 +2758,11 @@ Spain,2012,7.35,42
 Spain,2013,7.32,45
 Spain,2014,7.45,43
 Spain,2015,7.52,35
+Spain,2016,7.551851757,31
+Sri Lanka,1950,5.148317474,26
+Sri Lanka,1955,4.728241433,43
+Sri Lanka,1960,4.514507267,60
+Sri Lanka,1965,4.564146363,65
 Sri Lanka,1980,4.54,72
 Sri Lanka,1985,4.71,76
 Sri Lanka,1990,4.76,85
@@ -2396,18 +2783,26 @@ Sri Lanka,2012,6.73,87
 Sri Lanka,2013,6.64,95
 Sri Lanka,2014,6.58,101
 Sri Lanka,2015,6.66,94
+Sri Lanka,2016,6.489522916,107
+Sudan,2016,5.36,153
 Suriname,2010,6.64,90
 Suriname,2011,6.35,110
 Suriname,2012,6.64,91
 Suriname,2013,6.62,96
 Suriname,2014,6.61,98
 Suriname,2015,6.68,91
+Suriname,2016,6.381872508,114
 Swaziland,2010,6.49,101
 Swaziland,2011,6.64,93
 Swaziland,2012,6.58,99
 Swaziland,2013,6.74,88
 Swaziland,2014,6.83,87
 Swaziland,2015,6.79,83
+Swaziland,2016,6.470780954,109
+Sweden,1950,6.048710847,10
+Sweden,1955,5.861236978,12
+Sweden,1960,6.137294365,14
+Sweden,1965,6.181658611,16
 Sweden,1970,5.31,36
 Sweden,1975,5.34,37
 Sweden,1980,5.66,37
@@ -2430,6 +2825,11 @@ Sweden,2012,7.48,31
 Sweden,2013,7.4,35
 Sweden,2014,7.62,28
 Sweden,2015,7.64,27
+Sweden,2016,7.431505399,46
+Switzerland,1950,6.843106439,2
+Switzerland,1955,6.966214875,1
+Switzerland,1960,7.098046799,2
+Switzerland,1965,7.181874236,3
 Switzerland,1970,7.41,7
 Switzerland,1975,7.12,7
 Switzerland,1980,7.62,5
@@ -2452,6 +2852,11 @@ Switzerland,2012,8.27,4
 Switzerland,2013,8.26,4
 Switzerland,2014,8.37,4
 Switzerland,2015,8.42,4
+Switzerland,2016,8.387414206,4
+Syria,1950,3.719703497,54
+Syria,1955,4.162254599,57
+Syria,1960,4.422438541,66
+Syria,1965,4.110284047,85
 Syria,1970,4.61,45
 Syria,1975,4.88,47
 Syria,1980,3.69,92
@@ -2474,6 +2879,11 @@ Syria,2012,5.36,140
 Syria,2013,5.28,147
 Syria,2014,5.21,149
 Syria,2015,5.22,153
+Syria,2016,5.034062658,157
+Taiwan,1950,4.363944181,43
+Taiwan,1955,4.713460622,44
+Taiwan,1960,5.194391515,39
+Taiwan,1965,5.699698047,26
 Taiwan,1970,6.4,22
 Taiwan,1975,5.6,32
 Taiwan,1980,6.32,21
@@ -2496,12 +2906,15 @@ Taiwan,2012,7.71,16
 Taiwan,2013,7.68,16
 Taiwan,2014,7.71,22
 Taiwan,2015,7.7,22
+Taiwan,2016,7.883663307,12
 Tajikistan,2010,6.28,113
 Tajikistan,2011,6.39,108
 Tajikistan,2012,6.59,98
 Tajikistan,2013,6.66,92
 Tajikistan,2014,6.82,88
 Tajikistan,2015,6.8,82
+Tajikistan,2016,6.716732564,92
+Tanzania,1965,3.634027851,93
 Tanzania,1970,4.36,48
 Tanzania,1975,3.46,68
 Tanzania,1980,4.33,76
@@ -2524,6 +2937,11 @@ Tanzania,2012,6.62,95
 Tanzania,2013,6.85,82
 Tanzania,2014,6.76,93
 Tanzania,2015,6.92,77
+Tanzania,2016,6.930080248,78
+Thailand,1950,5.164054027,25
+Thailand,1955,5.284416326,28
+Thailand,1960,5.283564697,37
+Thailand,1965,5.376643364,35
 Thailand,1970,6.2,25
 Thailand,1975,5.83,24
 Thailand,1980,5.86,29
@@ -2546,12 +2964,16 @@ Thailand,2012,6.58,99
 Thailand,2013,6.54,105
 Thailand,2014,6.56,104
 Thailand,2015,6.74,89
+Thailand,2016,6.821824859,86
 Timor,2010,5.42,143
 Timor,2011,6.39,108
 Timor,2012,6.29,114
 Timor,2013,6.14,122
 Timor,2014,6.27,121
 Timor,2015,6.29,121
+Timor,2016,6.561040228,100
+Togo,1960,4.59164758,58
+Togo,1965,4.678545834,62
 Togo,1980,3.89,88
 Togo,1985,5.14,59
 Togo,1990,5.31,63
@@ -2572,6 +2994,10 @@ Togo,2012,5.33,141
 Togo,2013,5.98,131
 Togo,2014,5.81,138
 Togo,2015,5.7,141
+Togo,2016,5.784202354,143
+Trinidad and Tobago,1955,4.969638563,36
+Trinidad and Tobago,1960,5.081313185,43
+Trinidad and Tobago,1965,5.176027006,44
 Trinidad and Tobago,1975,4.33,54
 Trinidad and Tobago,1980,4.88,60
 Trinidad and Tobago,1985,4.86,70
@@ -2593,6 +3019,9 @@ Trinidad and Tobago,2012,6.6,97
 Trinidad and Tobago,2013,6.73,89
 Trinidad and Tobago,2014,6.8,91
 Trinidad and Tobago,2015,6.5,106
+Trinidad and Tobago,2016,6.741669083,91
+Tunisia,1960,4.152942491,79
+Tunisia,1965,4.024663527,89
 Tunisia,1970,4.44,47
 Tunisia,1975,4.49,53
 Tunisia,1980,4.55,71
@@ -2615,6 +3044,11 @@ Tunisia,2012,6.4,107
 Tunisia,2013,6.31,118
 Tunisia,2014,6.48,108
 Tunisia,2015,6.33,117
+Tunisia,2016,6.276433717,121
+Turkey,1950,4.855648872,34
+Turkey,1955,4.817036381,41
+Turkey,1960,4.868148997,50
+Turkey,1965,5.022595465,48
 Turkey,1970,3.52,54
 Turkey,1975,3.83,62
 Turkey,1980,3.59,96
@@ -2637,6 +3071,8 @@ Turkey,2012,7.01,70
 Turkey,2013,6.84,83
 Turkey,2014,6.88,85
 Turkey,2015,6.83,81
+Turkey,2016,6.821242893,87
+Uganda,1965,4.105334185,86
 Uganda,1980,2.71,104
 Uganda,1985,2.75,108
 Uganda,1990,2.74,112
@@ -2657,6 +3093,7 @@ Uganda,2012,7.13,63
 Uganda,2013,7.23,54
 Uganda,2014,7.26,60
 Uganda,2015,7.26,60
+Uganda,2016,7.43850886,44
 Ukraine,1995,3.03,123
 Ukraine,2000,4.71,117
 Ukraine,2001,4.92,116
@@ -2674,6 +3111,7 @@ Ukraine,2012,6.24,116
 Ukraine,2013,6.03,127
 Ukraine,2014,5.91,135
 Ukraine,2015,5.38,149
+Ukraine,2016,5.969297672,134
 United Arab Emirates,1980,6.01,28
 United Arab Emirates,1985,6.64,16
 United Arab Emirates,1990,7.23,15
@@ -2694,6 +3132,11 @@ United Arab Emirates,2012,7.76,13
 United Arab Emirates,2013,7.69,13
 United Arab Emirates,2014,7.59,31
 United Arab Emirates,2015,7.49,37
+United Arab Emirates,2016,7.485404568,37
+United Kingdom,1950,6.08765252,6
+United Kingdom,1955,6.355369053,5
+United Kingdom,1960,6.539997297,8
+United Kingdom,1965,6.639302155,9
 United Kingdom,1970,5.94,29
 United Kingdom,1975,6.06,17
 United Kingdom,1980,6.72,13
@@ -2716,6 +3159,11 @@ United Kingdom,2012,7.9,9
 United Kingdom,2013,7.94,8
 United Kingdom,2014,7.94,10
 United Kingdom,2015,8.04,6
+United Kingdom,2016,8.007157126,8
+United States,1950,6.895925873,1
+United States,1955,6.662700661,3
+United States,1960,7.069675243,3
+United States,1965,7.20331723,2
 United States,1970,7.77,4
 United States,1975,7.88,3
 United States,1980,8.07,2
@@ -2738,6 +3186,11 @@ United States,2012,7.88,10
 United States,2013,7.74,12
 United States,2014,7.81,13
 United States,2015,7.93,12
+United States,2016,8.040992466,6
+Uruguay,1950,5.471494752,22
+Uruguay,1955,5.808298917,13
+Uruguay,1960,5.76215169,23
+Uruguay,1965,5.683865446,27
 Uruguay,1980,6.33,20
 Uruguay,1985,6.16,28
 Uruguay,1990,6.6,31
@@ -2758,6 +3211,11 @@ Uruguay,2012,7.34,44
 Uruguay,2013,7.23,54
 Uruguay,2014,7.12,71
 Uruguay,2015,7.15,68
+Uruguay,2016,7.150333043,65
+Venezuela,1950,5.141077863,27
+Venezuela,1955,5.175234546,32
+Venezuela,1960,5.348478542,34
+Venezuela,1965,5.562041973,30
 Venezuela,1970,7.18,10
 Venezuela,1975,6.22,15
 Venezuela,1980,6.72,13
@@ -2780,6 +3238,7 @@ Venezuela,2012,3.82,153
 Venezuela,2013,3.29,157
 Venezuela,2014,3.28,159
 Venezuela,2015,2.96,159
+Venezuela,2016,2.88085998,162
 Vietnam,2003,5.67,109
 Vietnam,2004,6.05,91
 Vietnam,2005,6.19,99
@@ -2793,12 +3252,15 @@ Vietnam,2012,6.4,107
 Vietnam,2013,6.37,110
 Vietnam,2014,6.32,118
 Vietnam,2015,6.3,120
+Vietnam,2016,6.416821979,112
 Yemen,2010,6.12,122
 Yemen,2011,6.19,122
 Yemen,2012,6.17,123
 Yemen,2013,6.33,117
 Yemen,2014,6.54,107
 Yemen,2015,6.18,123
+Yemen,2016,6.37069288,116
+Zambia,1965,4.07200942,82
 Zambia,1975,4.11,57
 Zambia,1980,4.73,65
 Zambia,1985,3.55,99
@@ -2820,6 +3282,8 @@ Zambia,2012,7.19,59
 Zambia,2013,6.95,73
 Zambia,2014,6.99,78
 Zambia,2015,6.74,89
+Zambia,2016,6.603235047,98
+Zimbabwe,1965,4.425076713,65
 Zimbabwe,1980,4.5,73
 Zimbabwe,1985,4.69,77
 Zimbabwe,1990,4.94,75
@@ -2840,3 +3304,4 @@ Zimbabwe,2012,4.99,147
 Zimbabwe,2013,5.26,148
 Zimbabwe,2014,5.55,145
 Zimbabwe,2015,5.62,144
+Zimbabwe,2016,6.07711626,127
