@@ -1,14 +1,14 @@
 {
-  "name": "Human Height - NCD (2017)",
-  "title": "Human Height - NCD (2017)",
+  "name": "Human Height - NCD RisC (2017)",
+  "title": "Human Height - NCD RisC (2017)",
   "id": 4120,
   "description": "Heights of men and women aged 18 or older by birth year for every country from 1896 to 1996",
   "sources": [
     {
-      "name": "NCD, Human Height (2017)",
+      "name": "NCD RisC, Human Height (2017)",
       "link": "http://www.ncdrisc.org/data-downloads-height.html",
       "retrievedDate": "14/05/19",
-      "dataPublishedBy": "NCD",
+      "dataPublishedBy": "NCD RisC",
       "additionalInfo": "Heights of men and women aged 18 or older by birth year for every country from 1896 to 1996"
     }
   ],
@@ -17,7 +17,7 @@
   ],
   "resources": [
     {
-      "path": "Human Height - NCD (2017).csv",
+      "path": "Human Height - NCD RisC (2017).csv",
       "schema": {
         "fields": [
           {
@@ -32,13 +32,13 @@
             "name": "Mean male height (cm)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"cm\"}"
           },
           {
             "name": "Mean female height (cm)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"cm\"}"
           },
           {
             "name": "Male-to-female height ratio",
