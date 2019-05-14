@@ -1,0 +1,65 @@
+{
+  "name": "Human Height - NCD (2017)",
+  "title": "Human Height - NCD (2017)",
+  "id": 4120,
+  "description": "Changes in height of men and women aged 18 or older for every country from 1896 to 1996",
+  "sources": [
+    {
+      "name": "NCD, Human Height (2017)",
+      "link": "http://www.ncdrisc.org/data-downloads-height.html",
+      "retrievedDate": "14/05/19",
+      "dataPublishedBy": "NCD",
+      "additionalInfo": "Changes in height of men and women aged 18 or older for every country from 1896 to 1996"
+    }
+  ],
+  "owidTags": [
+    "Human Height"
+  ],
+  "resources": [
+    {
+      "path": "Human Height - NCD (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Mean male height (cm)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Mean female height (cm)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Male-to-female height ratio",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"cm\"}"
+          },
+          {
+            "name": "Change in male height",
+            "type": "any",
+            "description": "Difference between mean male height in 1896 and 1996",
+            "owidDisplaySettings": "{\"unit\": \"cm\"}"
+          },
+          {
+            "name": "Change in female height",
+            "type": "any",
+            "description": "Difference between mean female height in 1896 and 1996",
+            "owidDisplaySettings": "{\"unit\": \"cm\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
