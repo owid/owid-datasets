@@ -2,14 +2,14 @@
   "name": "Human Height - NCD RisC (2017)",
   "title": "Human Height - NCD RisC (2017)",
   "id": 4120,
-  "description": "Heights of men and women aged 18 or older by birth year for every country from 1896 to 1996",
+  "description": "Mean heights of men and women aged 18 or older by birth year, extending from 1896 to 1996. ",
   "sources": [
     {
       "name": "NCD RisC, Human Height (2017)",
       "link": "http://www.ncdrisc.org/data-downloads-height.html",
       "retrievedDate": "14/05/19",
       "dataPublishedBy": "NCD RisC",
-      "additionalInfo": "Heights of men and women aged 18 or older by birth year for every country from 1896 to 1996"
+      "additionalInfo": "Mean heights of men and women aged 18 or older by birth year, extending from 1896 to 1996. "
     }
   ],
   "owidTags": [
@@ -44,19 +44,31 @@
             "name": "Male-to-female height ratio",
             "type": "any",
             "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Change in male height (cm)",
+            "type": "any",
+            "description": "Absolute difference between mean male height in 1896 and 1996",
             "owidDisplaySettings": "{\"unit\": \"cm\"}"
           },
           {
-            "name": "Change in male height",
+            "name": "Change in female height (cm)",
             "type": "any",
-            "description": "Difference between mean male height in 1896 and 1996",
+            "description": "Absolute difference between mean female height in 1896 and 1996",
             "owidDisplaySettings": "{\"unit\": \"cm\"}"
           },
           {
-            "name": "Change in female height",
+            "name": "Change in male height (%)",
             "type": "any",
-            "description": "Difference between mean female height in 1896 and 1996",
-            "owidDisplaySettings": "{\"unit\": \"cm\"}"
+            "description": "Percentage difference between mean male height in 1896 and 1996",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Change in female height (%)",
+            "type": "any",
+            "description": "Percentage difference between mean female height in 1896 and 1996",
+            "owidDisplaySettings": "{}"
           }
         ]
       }
