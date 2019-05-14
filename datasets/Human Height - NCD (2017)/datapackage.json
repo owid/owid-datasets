@@ -2,14 +2,14 @@
   "name": "Human Height - NCD (2017)",
   "title": "Human Height - NCD (2017)",
   "id": 4120,
-  "description": "Changes in height of men and women aged 18 or older for every country from 1896 to 1996",
+  "description": "Heights of men and women aged 18 or older by birth year for every country from 1896 to 1996",
   "sources": [
     {
       "name": "NCD, Human Height (2017)",
       "link": "http://www.ncdrisc.org/data-downloads-height.html",
       "retrievedDate": "14/05/19",
       "dataPublishedBy": "NCD",
-      "additionalInfo": "Changes in height of men and women aged 18 or older for every country from 1896 to 1996"
+      "additionalInfo": "Heights of men and women aged 18 or older by birth year for every country from 1896 to 1996"
     }
   ],
   "owidTags": [
