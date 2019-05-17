@@ -33,13 +33,13 @@
             "name": "Males (Hermanussen (2003))",
             "type": "any",
             "description": "Height of males measured in centimetres. ",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "Females (Hermanussen (2003))",
             "type": "any",
             "description": "Height of females measured in centimetres.",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           }
         ]
       }
