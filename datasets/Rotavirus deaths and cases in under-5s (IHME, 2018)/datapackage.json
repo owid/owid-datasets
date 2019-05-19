@@ -1,0 +1,75 @@
+{
+  "name": "Rotavirus deaths and cases in under-5s (IHME, 2018)",
+  "title": "Rotavirus deaths and cases in under-5s (IHME, 2018)",
+  "id": 4122,
+  "description": "Data is the summary of research published by Troeger et al. (2018) based on statistics from the IHME, Global Burden of Disease study.\n\nData presents the estimated number of child (under five years old) deaths; child mortality rate; and number of cases from rotavirus. Also given is the estimated number of deaths averted from the rotavirus vaccine, and potential avertable deaths if full rotavirus vaccine coverage was achieved.\n\nRotavirus is a diarrheal disease responsible for an estimated 29% of diarrheal disease deaths in children under five years old.\n\nEstimates of potentially avertable deaths from the rotavirus vaccine take into consideration its efficacy in different regions: whilst efficacy in children in high-income countries is typically greater than 90%, in lower-income countries, particularly in Sub-Saharan Africa, this efficacy rate is closer to 50%.",
+  "sources": [
+    {
+      "name": "Rotavirus deaths and cases in under-5s (IHME, 2018)",
+      "dataPublishedBy": "Troeger, C., Khalil, I. A., Rao, P. C., Cao, S., Blacker, B. F., Ahmed, T., ... & Kang, G. (2018). Rotavirus vaccination and the global burden of rotavirus diarrhea among children younger than 5 years. JAMA Pediatrics, 172(10), 958-965.",
+      "dataPublisherSource": "Institute of Health Metrics and Evaluation (IHME), Global Burden of Disease",
+      "link": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2696431",
+      "retrievedDate": "19th May 2019",
+      "additionalInfo": "Data is the summary of research published by Troeger et al. (2018) based on statistics from the IHME, Global Burden of Disease study.\n\nData presents the estimated number of child (under five years old) deaths; child mortality rate; and number of cases from rotavirus. Also given is the estimated number of deaths averted from the rotavirus vaccine, and potential avertable deaths if full rotavirus vaccine coverage was achieved.\n\nRotavirus is a diarrheal disease responsible for an estimated 29% of diarrheal disease deaths in children under five years old.\n\nEstimates of potentially avertable deaths from the rotavirus vaccine take into consideration its efficacy in different regions: whilst efficacy in children in high-income countries is typically greater than 90%, in lower-income countries, particularly in Sub-Saharan Africa, this efficacy rate is closer to 50%."
+    }
+  ],
+  "owidTags": [
+    "Child Mortality",
+    "Vaccination",
+    "Diarrheal Diseases",
+    "Child Health"
+  ],
+  "resources": [
+    {
+      "path": "Rotavirus deaths and cases in under-5s (IHME, 2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Child deaths from rotavirus",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Child mortality from rotavirus per 100,000",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Rotavirus incidence per 1,000 children",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Rotavirus cases in children",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths averted from rotavirus vaccine",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Avertable deaths if rotavirus vaccine coverage was 100%",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
