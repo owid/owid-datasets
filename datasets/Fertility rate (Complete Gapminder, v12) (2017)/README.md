@@ -13,3 +13,7 @@ It notes its data sources during three key periods of time:
 — 2015 – 2099: We use the UN forecast of future fertility rate in all countries, called median fertility variant.
 
 Version 12 of the dataset extends back to the year 1800. Version 6 of Gapminder's fertility series includes data for a few countries further than 1800. We have included more historic data from Version 6 for Finland, the United Kingdom and Sweden. All data from 1800 onwards is from Version 12; data from pre-1800 is from Version 6.
+
+There are significant uncertainties in data for many countries pre-1950. To develop full series back to 1800 for all countries, Gapminder combines published estimates within the academic literature and national statistics, with their own guesstimates and extrapolations for countries without published estimates. This series presents the full Gapminder dataset: both those from published estimates and estimates made by Gapminder with high uncertainty. This is provided so users have access to the full dataset.
+
+However, for our main long-term series on fertility rates at Our World in Data we exclude the highly uncertain data points which are not backed up with published estimates within the literature. Users looking for a series with less uncertainty should refer to that instead.
