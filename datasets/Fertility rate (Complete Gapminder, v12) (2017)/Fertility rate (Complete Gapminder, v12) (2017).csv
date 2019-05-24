@@ -1,4 +1,4 @@
-Entity,Year,Fertility v6 (Gapminder (2015))
+Entity,Year,"Fertility rate (Complete Gapminder, v12) (2017)"
 Afghanistan,1800,7
 Afghanistan,1801,7
 Afghanistan,1802,7
@@ -17457,6 +17457,30 @@ Fiji,2097,1.81
 Fiji,2098,1.81
 Fiji,2099,1.81
 Fiji,2100,1.81
+Finland,1776,5.42
+Finland,1777,5.51
+Finland,1778,5.82
+Finland,1779,5.91
+Finland,1780,5.71
+Finland,1781,5.17
+Finland,1782,5.74
+Finland,1783,5.42
+Finland,1784,5.79
+Finland,1785,5.39
+Finland,1786,5.6
+Finland,1787,5.46
+Finland,1788,4.86
+Finland,1789,4.51
+Finland,1790,4.88
+Finland,1791,4.66
+Finland,1792,5.43
+Finland,1793,5.71
+Finland,1794,5.41
+Finland,1795,5.18
+Finland,1796,5.05
+Finland,1797,5.2
+Finland,1798,5.08
+Finland,1799,5.09
 Finland,1800,4.92
 Finland,1801,5.07
 Finland,1802,5.23
@@ -51985,6 +52009,176 @@ Swaziland,2097,1.78
 Swaziland,2098,1.78
 Swaziland,2099,1.78
 Swaziland,2100,1.78
+Sweden,1630,4.807771807
+Sweden,1631,4.580856324
+Sweden,1632,4.254665316
+Sweden,1633,3.829198785
+Sweden,1634,3.885927655
+Sweden,1635,3.758287696
+Sweden,1636,4.382305276
+Sweden,1637,4.212118663
+Sweden,1638,4.396487493
+Sweden,1639,4.821954025
+Sweden,1640,4.921229549
+Sweden,1641,4.907047331
+Sweden,1642,4.382305276
+Sweden,1643,4.552491888
+Sweden,1644,4.254665316
+Sweden,1645,4.127025357
+Sweden,1646,4.949593984
+Sweden,1647,5.020505073
+Sweden,1648,5.403424952
+Sweden,1649,4.736860719
+Sweden,1650,4.339758622
+Sweden,1651,4.35394084
+Sweden,1652,4.538309671
+Sweden,1653,4.694314066
+Sweden,1654,5.332513863
+Sweden,1655,5.375060516
+Sweden,1656,4.722678501
+Sweden,1657,5.034687291
+Sweden,1658,4.580856324
+Sweden,1659,4.35394084
+Sweden,1660,4.197936445
+Sweden,1661,4.722678501
+Sweden,1662,4.538309671
+Sweden,1663,4.637585195
+Sweden,1664,5.006322855
+Sweden,1665,5.233238339
+Sweden,1666,4.97795842
+Sweden,1667,4.680131848
+Sweden,1668,4.595038541
+Sweden,1669,5.190691686
+Sweden,1670,5.133962815
+Sweden,1671,5.431789387
+Sweden,1672,5.006322855
+Sweden,1673,4.79358959
+Sweden,1674,4.382305276
+Sweden,1675,3.829198785
+Sweden,1676,4.283029752
+Sweden,1677,4.864500678
+Sweden,1678,4.35394084
+Sweden,1679,4.396487493
+Sweden,1680,4.637585195
+Sweden,1681,5.275784992
+Sweden,1682,5.403424952
+Sweden,1683,5.233238339
+Sweden,1684,5.247420557
+Sweden,1685,5.006322855
+Sweden,1686,4.836136243
+Sweden,1687,5.318331645
+Sweden,1688,5.28996721
+Sweden,1689,5.247420557
+Sweden,1690,4.992140638
+Sweden,1691,4.821954025
+Sweden,1692,5.105598379
+Sweden,1693,5.304149427
+Sweden,1694,4.97795842
+Sweden,1695,5.431789387
+Sweden,1696,5.332513863
+Sweden,1697,4.992140638
+Sweden,1698,5.105598379
+Sweden,1699,5.375060516
+Sweden,1700,5.559429346
+Sweden,1701,5.729615959
+Sweden,1702,5.814709265
+Sweden,1703,5.587793782
+Sweden,1704,5.516882693
+Sweden,1705,5.28996721
+Sweden,1706,5.16232725
+Sweden,1707,5.502700476
+Sweden,1708,5.318331645
+Sweden,1709,4.35394084
+Sweden,1710,4.297211969
+Sweden,1711,4.751042936
+Sweden,1712,5.630340435
+Sweden,1713,5.275784992
+Sweden,1714,5.814709265
+Sweden,1715,5.389242734
+Sweden,1716,4.921229549
+Sweden,1717,4.907047331
+Sweden,1718,5.133962815
+Sweden,1719,4.453216364
+Sweden,1720,4.623402977
+Sweden,1721,5.133962815
+Sweden,1722,5.091416162
+Sweden,1723,5.034687291
+Sweden,1724,5.020505073
+Sweden,1725,4.907047331
+Sweden,1726,4.751042936
+Sweden,1727,4.4815808
+Sweden,1728,4.226300881
+Sweden,1729,4.935411767
+Sweden,1730,4.765225154
+Sweden,1731,5.020505073
+Sweden,1732,4.864500678
+Sweden,1733,4.708496283
+Sweden,1734,4.765225154
+Sweden,1735,4.79358959
+Sweden,1736,4.509945235
+Sweden,1737,4.396487493
+Sweden,1738,4.963776202
+Sweden,1739,4.921229549
+Sweden,1740,4.524127453
+Sweden,1741,4.580856324
+Sweden,1742,4.35394084
+Sweden,1743,4.183754228
+Sweden,1744,5.020505073
+Sweden,1745,5.105598379
+Sweden,1746,4.85031846
+Sweden,1747,4.807771807
+Sweden,1748,4.864500678
+Sweden,1749,4.79358959
+Sweden,1750,5.091416162
+Sweden,1751,5.460153822
+Sweden,1752,5.28996721
+Sweden,1753,5.275784992
+Sweden,1754,5.403424952
+Sweden,1755,5.375060516
+Sweden,1756,5.233238339
+Sweden,1757,4.694314066
+Sweden,1758,4.680131848
+Sweden,1759,4.85031846
+Sweden,1760,5.063051726
+Sweden,1761,4.935411767
+Sweden,1762,4.97795842
+Sweden,1763,4.963776202
+Sweden,1764,4.921229549
+Sweden,1765,4.736860719
+Sweden,1766,4.79358959
+Sweden,1767,5.020505073
+Sweden,1768,4.765225154
+Sweden,1769,4.694314066
+Sweden,1770,4.680131848
+Sweden,1771,4.566674106
+Sweden,1772,4.098660921
+Sweden,1773,3.616465519
+Sweden,1774,4.892865114
+Sweden,1775,5.048869509
+Sweden,1776,4.66594963
+Sweden,1777,4.708496283
+Sweden,1778,4.935411767
+Sweden,1779,5.204873903
+Sweden,1780,5.063051726
+Sweden,1781,4.751042936
+Sweden,1782,4.538309671
+Sweden,1783,4.297211969
+Sweden,1784,4.467398582
+Sweden,1785,4.453216364
+Sweden,1786,4.66594963
+Sweden,1787,4.467398582
+Sweden,1788,4.807771807
+Sweden,1789,4.538309671
+Sweden,1790,4.325576405
+Sweden,1791,4.623402977
+Sweden,1792,5.190691686
+Sweden,1793,4.878682896
+Sweden,1794,4.79358959
+Sweden,1795,4.538309671
+Sweden,1796,4.921229549
+Sweden,1797,4.935411767
+Sweden,1798,4.79358959
+Sweden,1799,4.538309671
 Sweden,1800,4.07
 Sweden,1801,4.26
 Sweden,1802,4.5
@@ -57102,6 +57296,265 @@ United Arab Emirates,2097,1.77
 United Arab Emirates,2098,1.77
 United Arab Emirates,2099,1.77
 United Arab Emirates,2100,1.77
+United Kingdom,1541,4.6172
+United Kingdom,1542,5.4999
+United Kingdom,1543,5.20114
+United Kingdom,1544,4.80732
+United Kingdom,1545,4.99744
+United Kingdom,1546,5.11966
+United Kingdom,1547,4.65794
+United Kingdom,1548,5.47274
+United Kingdom,1549,5.21472
+United Kingdom,1550,5.6357
+United Kingdom,1551,5.37768
+United Kingdom,1552,5.11966
+United Kingdom,1553,5.05176
+United Kingdom,1554,4.52214
+United Kingdom,1555,4.8888
+United Kingdom,1556,4.78016
+United Kingdom,1557,3.70734
+United Kingdom,1558,4.23696
+United Kingdom,1559,3.69376
+United Kingdom,1560,4.69868
+United Kingdom,1561,5.03818
+United Kingdom,1562,5.1604
+United Kingdom,1563,4.84806
+United Kingdom,1564,5.1604
+United Kingdom,1565,5.30978
+United Kingdom,1566,4.83448
+United Kingdom,1567,4.83448
+United Kingdom,1568,5.0925
+United Kingdom,1569,4.25054
+United Kingdom,1570,4.64436
+United Kingdom,1571,4.52214
+United Kingdom,1572,4.53572
+United Kingdom,1573,4.31844
+United Kingdom,1574,4.30486
+United Kingdom,1575,4.4814
+United Kingdom,1576,4.69868
+United Kingdom,1577,4.69868
+United Kingdom,1578,4.73942
+United Kingdom,1579,4.72584
+United Kingdom,1580,4.6172
+United Kingdom,1581,4.59004
+United Kingdom,1582,4.69868
+United Kingdom,1583,4.64436
+United Kingdom,1584,4.71226
+United Kingdom,1585,4.69868
+United Kingdom,1586,4.46782
+United Kingdom,1587,3.97894
+United Kingdom,1588,4.50856
+United Kingdom,1589,4.97028
+United Kingdom,1590,4.25054
+United Kingdom,1591,4.01968
+United Kingdom,1592,4.45424
+United Kingdom,1593,4.49498
+United Kingdom,1594,4.83448
+United Kingdom,1595,4.46782
+United Kingdom,1596,4.12832
+United Kingdom,1597,3.95178
+United Kingdom,1598,3.95178
+United Kingdom,1599,4.92954
+United Kingdom,1600,4.63078
+United Kingdom,1601,4.25054
+United Kingdom,1602,4.22338
+United Kingdom,1603,4.86164
+United Kingdom,1604,4.6851
+United Kingdom,1605,4.79374
+United Kingdom,1606,4.60362
+United Kingdom,1607,4.72584
+United Kingdom,1608,4.4135
+United Kingdom,1609,4.38634
+United Kingdom,1610,4.46782
+United Kingdom,1611,4.64436
+United Kingdom,1612,4.38634
+United Kingdom,1613,4.06042
+United Kingdom,1614,4.29128
+United Kingdom,1615,4.50856
+United Kingdom,1616,4.2098
+United Kingdom,1617,4.2777
+United Kingdom,1618,4.33202
+United Kingdom,1619,4.57646
+United Kingdom,1620,4.78016
+United Kingdom,1621,4.6851
+United Kingdom,1622,4.38634
+United Kingdom,1623,3.78882
+United Kingdom,1624,4.04684
+United Kingdom,1625,4.3456
+United Kingdom,1626,4.06042
+United Kingdom,1627,4.29128
+United Kingdom,1628,4.57646
+United Kingdom,1629,4.46782
+United Kingdom,1630,4.45424
+United Kingdom,1631,3.76166
+United Kingdom,1632,4.35918
+United Kingdom,1633,4.53572
+United Kingdom,1634,4.38634
+United Kingdom,1635,4.30486
+United Kingdom,1636,4.42708
+United Kingdom,1637,4.30486
+United Kingdom,1638,4.11474
+United Kingdom,1639,3.9382
+United Kingdom,1640,4.71226
+United Kingdom,1641,4.37276
+United Kingdom,1642,4.44066
+United Kingdom,1643,4.5493
+United Kingdom,1644,4.16906
+United Kingdom,1645,4.46782
+United Kingdom,1646,4.37276
+United Kingdom,1647,4.08758
+United Kingdom,1648,3.76166
+United Kingdom,1649,3.55796
+United Kingdom,1650,3.49006
+United Kingdom,1651,3.91104
+United Kingdom,1652,3.63944
+United Kingdom,1653,3.5987
+United Kingdom,1654,4.1419
+United Kingdom,1655,4.35918
+United Kingdom,1656,4.22338
+United Kingdom,1657,3.69376
+United Kingdom,1658,3.35426
+United Kingdom,1659,3.10982
+United Kingdom,1660,3.82956
+United Kingdom,1661,3.85672
+United Kingdom,1662,3.50364
+United Kingdom,1663,3.95178
+United Kingdom,1664,4.08758
+United Kingdom,1665,4.10116
+United Kingdom,1666,4.12832
+United Kingdom,1667,3.99252
+United Kingdom,1668,4.03326
+United Kingdom,1669,4.06042
+United Kingdom,1670,3.96536
+United Kingdom,1671,3.74808
+United Kingdom,1672,4.18264
+United Kingdom,1673,4.10116
+United Kingdom,1674,3.96536
+United Kingdom,1675,3.74808
+United Kingdom,1676,4.22338
+United Kingdom,1677,4.2098
+United Kingdom,1678,4.01968
+United Kingdom,1679,3.74808
+United Kingdom,1680,3.96536
+United Kingdom,1681,4.08758
+United Kingdom,1682,4.16906
+United Kingdom,1683,4.44066
+United Kingdom,1684,4.38634
+United Kingdom,1685,4.25054
+United Kingdom,1686,4.5493
+United Kingdom,1687,4.50856
+United Kingdom,1688,4.56288
+United Kingdom,1689,4.44066
+United Kingdom,1690,4.29128
+United Kingdom,1691,4.35918
+United Kingdom,1692,4.23696
+United Kingdom,1693,4.15548
+United Kingdom,1694,3.82956
+United Kingdom,1695,4.37276
+United Kingdom,1696,4.5493
+United Kingdom,1697,4.3456
+United Kingdom,1698,4.30486
+United Kingdom,1699,4.22338
+United Kingdom,1700,4.38634
+United Kingdom,1701,4.64436
+United Kingdom,1702,4.6172
+United Kingdom,1703,4.5493
+United Kingdom,1704,4.35918
+United Kingdom,1705,4.37276
+United Kingdom,1706,4.29128
+United Kingdom,1707,4.04684
+United Kingdom,1708,4.12832
+United Kingdom,1709,3.8703
+United Kingdom,1710,3.78882
+United Kingdom,1711,3.92462
+United Kingdom,1712,3.89746
+United Kingdom,1713,4.10116
+United Kingdom,1714,4.19622
+United Kingdom,1715,4.25054
+United Kingdom,1716,4.52214
+United Kingdom,1717,4.33202
+United Kingdom,1718,4.46782
+United Kingdom,1719,4.57646
+United Kingdom,1720,4.15548
+United Kingdom,1721,4.29128
+United Kingdom,1722,4.57646
+United Kingdom,1723,4.79374
+United Kingdom,1724,4.63078
+United Kingdom,1725,4.50856
+United Kingdom,1726,4.67152
+United Kingdom,1727,4.65794
+United Kingdom,1728,3.9382
+United Kingdom,1729,3.97894
+United Kingdom,1730,4.2777
+United Kingdom,1731,4.94312
+United Kingdom,1732,4.80732
+United Kingdom,1733,4.97028
+United Kingdom,1734,4.92954
+United Kingdom,1735,4.94312
+United Kingdom,1736,4.79374
+United Kingdom,1737,4.71226
+United Kingdom,1738,4.78016
+United Kingdom,1739,4.86164
+United Kingdom,1740,4.57646
+United Kingdom,1741,4.23696
+United Kingdom,1742,4.18264
+United Kingdom,1743,4.60362
+United Kingdom,1744,4.6172
+United Kingdom,1745,4.63078
+United Kingdom,1746,4.50856
+United Kingdom,1747,4.45424
+United Kingdom,1748,4.57646
+United Kingdom,1749,4.45424
+United Kingdom,1750,4.72584
+United Kingdom,1751,4.64436
+United Kingdom,1752,4.4814
+United Kingdom,1753,4.60362
+United Kingdom,1754,4.57646
+United Kingdom,1755,4.64436
+United Kingdom,1756,4.56288
+United Kingdom,1757,4.30486
+United Kingdom,1758,4.26412
+United Kingdom,1759,4.57646
+United Kingdom,1760,4.56288
+United Kingdom,1761,4.72584
+United Kingdom,1762,4.67152
+United Kingdom,1763,4.53572
+United Kingdom,1764,4.76658
+United Kingdom,1765,4.80732
+United Kingdom,1766,4.56288
+United Kingdom,1767,4.60362
+United Kingdom,1768,4.59004
+United Kingdom,1769,4.8209
+United Kingdom,1770,4.98386
+United Kingdom,1771,4.78016
+United Kingdom,1772,4.84806
+United Kingdom,1773,4.90238
+United Kingdom,1774,4.73942
+United Kingdom,1775,4.9567
+United Kingdom,1776,4.90238
+United Kingdom,1777,5.0246
+United Kingdom,1778,5.01102
+United Kingdom,1779,5.01102
+United Kingdom,1780,4.90238
+United Kingdom,1781,4.8209
+United Kingdom,1782,4.73942
+United Kingdom,1783,4.72584
+United Kingdom,1784,4.79374
+United Kingdom,1785,5.0925
+United Kingdom,1786,5.2283
+United Kingdom,1787,5.06534
+United Kingdom,1788,5.30978
+United Kingdom,1789,5.14682
+United Kingdom,1790,5.35052
+United Kingdom,1791,5.21472
+United Kingdom,1792,5.48632
+United Kingdom,1793,5.32336
+United Kingdom,1794,5.18756
+United Kingdom,1795,5.21472
+United Kingdom,1796,5.14682
+United Kingdom,1797,5.40484
+United Kingdom,1798,5.33694
+United Kingdom,1799,5.10608
 United Kingdom,1800,4.97
 United Kingdom,1801,4.6
 United Kingdom,1802,5.3

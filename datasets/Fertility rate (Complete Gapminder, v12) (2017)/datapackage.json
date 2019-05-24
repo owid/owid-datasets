@@ -1,0 +1,41 @@
+{
+  "name": "Fertility rate (Complete Gapminder, v12) (2017)",
+  "title": "Fertility rate (Complete Gapminder, v12) (2017)",
+  "id": 217,
+  "description": "Data is that of version 12 of Gapminder, the latest version as of 2019. This is the full fertility rate dataset published by Gapminder.\n\nGapminder's sources and methodology if well-documented in its dataset at: https://www.gapminder.org/data/\n\nIt notes its data sources during three key periods of time:\n\n— 1800 to 1950 (and in some cases also years after 1950): Gapminder v6 which were compiled and documented by Mattias Lindgren.\n\n— 1950 to 2014: In most cases we use the latest UN estimates from World Population Prospects 2017 published in the file with Annually interpolated demographic indicators, called WPP2017_INT_F01_ANNUAL_DEMOGRAPHIC_INDICATORS.xlsx , accessed on September 2, 2017.\n\n— 2015 – 2099: We use the UN forecast of future fertility rate in all countries, called median fertility variant.\n\nVersion 12 of the dataset extends back to the year 1800. Version 6 of Gapminder's fertility series includes data for a few countries further than 1800. We have included more historic data from Version 6 for Finland, the United Kingdom and Sweden. All data from 1800 onwards is from Version 12; data from pre-1800 is from Version 6.",
+  "sources": [
+    {
+      "name": "Fertility rate (Complete Gapminder, v12) (2017)",
+      "dataPublishedBy": "Gapminder",
+      "link": "https://drive.google.com/drive/folders/1i30LyIcvbLa800Q1ZFrPGlNHIw9ymYGm",
+      "retrievedDate": "24th May 2019",
+      "additionalInfo": "Data is that of version 12 of Gapminder, the latest version as of 2019. This is the full fertility rate dataset published by Gapminder.\n\nGapminder's sources and methodology if well-documented in its dataset at: https://www.gapminder.org/data/\n\nIt notes its data sources during three key periods of time:\n\n— 1800 to 1950 (and in some cases also years after 1950): Gapminder v6 which were compiled and documented by Mattias Lindgren.\n\n— 1950 to 2014: In most cases we use the latest UN estimates from World Population Prospects 2017 published in the file with Annually interpolated demographic indicators, called WPP2017_INT_F01_ANNUAL_DEMOGRAPHIC_INDICATORS.xlsx , accessed on September 2, 2017.\n\n— 2015 – 2099: We use the UN forecast of future fertility rate in all countries, called median fertility variant.\n\nVersion 12 of the dataset extends back to the year 1800. Version 6 of Gapminder's fertility series includes data for a few countries further than 1800. We have included more historic data from Version 6 for Finland, the United Kingdom and Sweden. All data from 1800 onwards is from Version 12; data from pre-1800 is from Version 6."
+    }
+  ],
+  "owidTags": [
+    "Fertility Rate"
+  ],
+  "resources": [
+    {
+      "path": "Fertility rate (Complete Gapminder, v12) (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Fertility rate (Complete Gapminder, v12) (2017)",
+            "type": "any",
+            "description": "Total fertility rate represents the number of children that would be born to a woman if she were to live to the end of her childbearing years and bear children in accordance with age-specific fertility rates of the specified year.",
+            "owidDisplaySettings": "{\"name\": \"Fertility rate\", \"unit\": \"babies per woman\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
