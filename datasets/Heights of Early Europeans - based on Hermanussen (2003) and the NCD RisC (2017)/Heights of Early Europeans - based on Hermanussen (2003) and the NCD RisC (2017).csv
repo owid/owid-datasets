@@ -1,10 +1,10 @@
-Entity,Year,Males (Hermanussen (2003)),Females (Hermanussen (2003))
+Entity,Year,Males (Hermanussen (2003) and NCD-RisC (2017)),Females (Hermanussen (2003) and NCD-RisC (2017))
 Eastern Mediterranean,-16000,179,
 Eastern Mediterranean,-10000,177.1,166.5
 Eastern Mediterranean,-8000,172.5,158.7
 Eastern Mediterranean,-6000,169.6,155.5
 Eastern Mediterranean,-4000,161.3,154.3
-Eastern Mediterranean,-2500,166.3,153.9
+Eastern Mediterranean,-2500,166.3,152.9
 Eastern Mediterranean,-1750,166.1,153.5
 Eastern Mediterranean,-1450,172.5,160.1
 Eastern Mediterranean,-1300,166.8,154.5
@@ -12,8 +12,6 @@ Eastern Mediterranean,-900,166.7,155.1
 Eastern Mediterranean,-500,170.5,156.2
 Eastern Mediterranean,0,171.9,156.4
 Eastern Mediterranean,400,169.2,158
-Eastern Mediterranean,1870,168.5,
-Eastern Mediterranean,1880,167.3,
 Eastern Mediterranean,1896,165.7233,153.1882
 Eastern Mediterranean,1897,165.8518,153.3516
 Eastern Mediterranean,1898,165.9805,153.5154
