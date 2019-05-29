@@ -1,4 +1,4 @@
-# Age of democracies (years)
+# Age of democracies (in years, at the end of 2015)
 
 Boix, Miller, and Rosato (2012, "A Complete Data Set of Political Regimes, 1800–2007", Comparative Political Studies) code each country as being either a democracy or not in each year 1800–2015 (we use the March 2018 Version 3.0 of their data). We can then compute the age of each existing democracy in 2015.
 
