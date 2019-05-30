@@ -1,4 +1,4 @@
-# Age of democracies (in years, at the end of 2015)
+# Age of democracies at the end of 2015 (Boix et al. 2018)
 
 The age of democracies is calculated based on data published by Boix et al. (2018) on political regimes from 1800 through to 2015. Here we rely on Version 3.0 of the Boix et al. dataset which was published in March 2018. The original version of the Boix et al. data was published in 2012.
 
