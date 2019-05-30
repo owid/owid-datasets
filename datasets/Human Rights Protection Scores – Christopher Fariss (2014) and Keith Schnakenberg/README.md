@@ -1,6 +1,6 @@
-# Human Rights Protection Scores – Christopher Farris (2014) and Keith Schnakenberg
+# Human Rights Protection Scores – Christopher Fariss (2014) and Keith Schnakenberg
 
-This dataset is based on Farris and Schnakenberg's (2014). They use an econometric model for estimating ‘latent' human rights.
+This dataset is based on Fariss and Schnakenberg's (2014). They use an econometric model for estimating ‘latent' human rights.
 
 The authors aggregate multiple types of abuse into one scale. These are coded from CIRI data and are split into four items including disappearances, extrajudicial killing, political imprisonment, and torture (see Table 1 for further information [here] . This data is fed into their model, and gives a range of parameter estimates around -3 and 3, where a higher score indicates more respect for human rights (and vice versa).
 
