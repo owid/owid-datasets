@@ -34,7 +34,7 @@
             "name": "Age of democracies at the end of 2015 (Boix, Miller, and Rosato, 2013, 2018)",
             "type": "any",
             "description": "Age of each democracy (in years) at the end of 2015.",
-            "owidDisplaySettings": "{\"unit\": \"Years old\", \"shortUnit\": \"Years\"}"
+            "owidDisplaySettings": "{\"unit\": \"years old\", \"shortUnit\": \"years\"}"
           }
         ]
       }
