@@ -1,0 +1,115 @@
+{
+  "name": "Numbers and Shares of Each Political Regime — V-Dem (2019)",
+  "title": "Numbers and Shares of Each Political Regime — V-Dem (2019)",
+  "id": 4134,
+  "description": "For each year 1900–2018, the V-Dem Project's variable \"Regimes of the world – the RoW measure (D) (v2x_regime)\" (version 9, 2019) classifies each country as one of four possible regimes:\n\n0. Closed autocracy\n1. Electoral autocracy\n2. Electoral democracy\n3. Liberal democracy\n\n(For how they did this classification, see p. 254 of their \"V-Dem Cookbook v9\".)\n\nThis dataset was produced entirely from the above classification and contains 13 variables. These variables simply count, for each year 1900–2018, the number and share of each of the four regimes and combinations thereof.\n\nFor how this dataset was produced, see this document: https://drive.google.com/open?id=1_Xbbxiw-nbSv1dSWHZK36ttsNb7DmuG8.",
+  "sources": [
+    {
+      "name": "Varieties of Democracy Project (2019, version 9)",
+      "additionalInfo": "For each year 1900–2018, the V-Dem Project's variable \"Regimes of the world – the RoW measure (D) (v2x_regime)\" (version 9, 2019) classifies each country as one of four possible regimes:\n\n0. Closed autocracy\n1. Electoral autocracy\n2. Electoral democracy\n3. Liberal democracy\n\n(For how they did this classification, see p. 254 of their \"V-Dem Cookbook v9\".)\n\nThis dataset was produced entirely from the above classification and contains 13 variables. These variables simply count, for each year 1900–2018, the number and share of each of the four regimes and combinations thereof.\n\nFor how this dataset was produced, see this document: https://drive.google.com/open?id=1_Xbbxiw-nbSv1dSWHZK36ttsNb7DmuG8.",
+      "dataPublisherSource": "See description.",
+      "dataPublishedBy": "Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg, Jan Teorell, David Altman, Michael Bernhard, M. Steven Fish, Adam Glynn, Allen Hicken, Anna L¨uhrmann, Kyle L. Marquardt, Kelly McMann, Pamela Paxton, Daniel Pemstein, Brigitte Seim, Rachel Sigman, Svend-Erik Skaaning, Jeffrey Staton, Steven Wilson, Agnes Cornell, Lisa Gastaldi, Haakon Gjerløw, Nina Ilchenko, Joshua Krusell, Laura Maxwell, Valeriya Mechkova, Juraj Medzihorsky, Josefine Pernes, Johannes von R¨omer, Natalia Stepanova, Aksel Sundstr¨om, Eitan Tzelgov, YitingWang, Tore Wig, and Daniel Ziblatt. 2019. ”V-Dem [Country-Year/Country-Date] Dataset v9” Varieties of Democracy (V-Dem) Project. https://doi.org/10.23696/vdemcy19.",
+      "link": "https://www.v-dem.net/en/data/data-version-9/",
+      "retrievedDate": "2019-05-27"
+    }
+  ],
+  "owidTags": [
+    "Democracy",
+    "Political Regimes"
+  ],
+  "resources": [
+    {
+      "path": "Numbers and Shares of Each Political Regime — V-Dem (2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Closed autocracies",
+            "type": "any",
+            "description": "Number of the world's political regimes that were closed autocracies in a given year.\n\nFor each year 1900–2018, the V-Dem Project classifies each country as one of four possible political regimes: closed autocracy, electoral autocracy, electoral democracy, or liberal democracy. Based on these data, this variable gives, for each year 1900–2018, the number of the world's regimes that were classified as closed autocracies.",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Electoral autocracies",
+            "type": "any",
+            "description": "Number of the world's political regimes that were electoral autocracies in a given year.\n\nFor each year 1900–2018, the V-Dem Project classifies each country as one of four possible political regimes: closed autocracy, electoral autocracy, electoral democracy, or liberal democracy. Based on these data, this variable gives, for each year 1900–2018, the number of the world's regimes that were classified as electoral autocracies.",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Electoral democracies",
+            "type": "any",
+            "description": "Number of the world's political regimes that were electoral democracies in a given year.\n\nFor each year 1900–2018, the V-Dem Project classifies each country as one of four possible political regimes: closed autocracy, electoral autocracy, electoral democracy, or liberal democracy. Based on these data, this variable gives, for each year 1900–2018, the number of the world's regimes that were classified as electoral democracies.",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Liberal democracies",
+            "type": "any",
+            "description": "Number of the world's political regimes that were liberal democracies in a given year.\n\nFor each year 1900–2018, the V-Dem Project classifies each country as one of four possible political regimes: closed autocracy, electoral autocracy, electoral democracy, or liberal democracy. Based on these data, this variable gives, for each year 1900–2018, the number of the world's regimes that were classified as liberal democracies.",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Total",
+            "type": "any",
+            "description": "Number of the world's political regimes in a given year.\n\nFor each year 1900–2018, the V-Dem Project classifies each country as one of four possible political regimes: closed autocracy, electoral autocracy, electoral democracy, or liberal democracy. Based on these data, this variable gives, for each year 1900–2018, the total number of the world's regimes that were classified as one of these four regimes.",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Autocracies",
+            "type": "any",
+            "description": "Number of the world's political regimes that were autocracies in a given year.\n\nFor each year 1900–2018, the V-Dem Project classifies each country as one of four possible political regimes: closed autocracy, electoral autocracy, electoral democracy, or liberal democracy. Based on these data, this variable gives, for each year 1900–2018, the number of the world's regimes that were classified as closed autocracies OR electoral autocracies.",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Democracies",
+            "type": "any",
+            "description": "Number of the world's political regimes that were democracies in a given year.\n\nFor each year 1900–2018, the V-Dem Project classifies each country as one of four possible political regimes: closed autocracy, electoral autocracy, electoral democracy, or liberal democracy. Based on these data, this variable gives, for each year 1900–2018, the number of the world's regimes that were classified as electoral democracies OR liberal democracies.",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Share of closed autocracies",
+            "type": "any",
+            "description": "Share of the world's political regimes that were closed autocracies in a given year.\n\nFor each year 1900–2018, the V-Dem Project classifies each country as one of four possible political regimes: closed autocracy, electoral autocracy, electoral democracy, or liberal democracy. Based on these data, this variable gives, for each year 1900–2018, the share of all regimes classified as closed autocracies.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
+          },
+          {
+            "name": "Share of electoral autocracies",
+            "type": "any",
+            "description": "Share of the world's political regimes that were electoral autocracies in a given year.\n\nFor each year 1900–2018, the V-Dem Project classifies each country as one of four possible political regimes: closed autocracy, electoral autocracy, electoral democracy, or liberal democracy. Based on these data, this variable gives, for each year 1900–2018, the share of all regimes classified as electoral autocracies.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
+          },
+          {
+            "name": "Share of electoral democracies",
+            "type": "any",
+            "description": "Share of the world's political regimes that were electoral democracies in a given year.\n\nFor each year 1900–2018, the V-Dem Project classifies each country as one of four possible political regimes: closed autocracy, electoral autocracy, electoral democracy, or liberal democracy. Based on these data, this variable gives, for each year 1900–2018, the share of all regimes classified as electoral democracies.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
+          },
+          {
+            "name": "Share of liberal democracies",
+            "type": "any",
+            "description": "Share of the world's political regimes that were liberal democracies in a given year.\n\nFor each year 1900–2018, the V-Dem Project classifies each country as one of four possible political regimes: closed autocracy, electoral autocracy, electoral democracy, or liberal democracy. Based on these data, this variable gives, for each year 1900–2018, the share of all regimes classified as liberal democracies.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
+          },
+          {
+            "name": "Share of autocracies",
+            "type": "any",
+            "description": "Share of the world's political regimes that were autocracies in a given year.\n\nFor each year 1900–2018, the V-Dem Project classifies each country as one of four possible political regimes: closed autocracy, electoral autocracy, electoral democracy, or liberal democracy. Based on these data, this variable gives, for each year 1900–2018, the share of all regimes classified as closed autocracies OR electoral autocracies.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
+          },
+          {
+            "name": "Share of democracies",
+            "type": "any",
+            "description": "Share of the world's political regimes that were democracies in a given year.\n\nFor each year 1900–2018, the V-Dem Project classifies each country as one of four possible political regimes: closed autocracy, electoral autocracy, electoral democracy, or liberal democracy. Based on these data, this variable gives, for each year 1900–2018, the share of all regimes classified as electoral democracies OR liberal democracies.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
