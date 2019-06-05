@@ -5,3 +5,6 @@ This dataset gives the number of direct national elections held in each country 
 For a summary of the most important information about the NELDA dataset (e.g. which elections and countries are included), see their overview: https://nelda.co/#about. 
 
 See also their 2012 paper, “Which Elections can be Lost?” Political Analysis, 20(2), 191–210, available at: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0474B124646DF486D1FD9A8E26D31DEC/S1047198700013097a.pdf/div-class-title-which-elections-can-be-lost-div.pdf
+
+Notes: “Serbia” refers to Yugoslavia before 1992 and “Serbia and Montenegro” in 1992–2006.
+“Germany” refers to West Germany before 1990.

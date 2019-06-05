@@ -1,4 +1,4 @@
-Entity,Year,Number of elections
+Entity,Year,Number of direct national elections
 Afghanistan,1949,1
 Afghanistan,1952,1
 Afghanistan,1955,1
@@ -831,6 +831,22 @@ Georgia,2003,1
 Georgia,2004,2
 Georgia,2008,2
 Georgia,2012,1
+Germany,1953,1
+Germany,1957,1
+Germany,1961,1
+Germany,1965,1
+Germany,1969,1
+Germany,1972,1
+Germany,1976,1
+Germany,1980,1
+Germany,1983,1
+Germany,1987,1
+Germany,1990,1
+Germany,1994,1
+Germany,1998,1
+Germany,2002,1
+Germany,2005,1
+Germany,2009,1
 Ghana,1960,1
 Ghana,1969,1
 Ghana,1979,3
@@ -2228,22 +2244,6 @@ Vietnam,1997,1
 Vietnam,2002,1
 Vietnam,2007,1
 Vietnam,2011,1
-West Germany,1953,1
-West Germany,1957,1
-West Germany,1961,1
-West Germany,1965,1
-West Germany,1969,1
-West Germany,1972,1
-West Germany,1976,1
-West Germany,1980,1
-West Germany,1983,1
-West Germany,1987,1
-West Germany,1990,1
-West Germany,1994,1
-West Germany,1998,1
-West Germany,2002,1
-West Germany,2005,1
-West Germany,2009,1
 Yemen,1971,1
 Yemen,1988,1
 Yemen,1993,1
