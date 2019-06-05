@@ -1,0 +1,44 @@
+{
+  "name": "Number of direct national elections — NELDA (2015)",
+  "title": "Number of direct national elections — NELDA (2015)",
+  "id": 4135,
+  "description": "This dataset gives the number of direct national elections held in each country in each year 1945–2012. It is taken entirely from Susan Hyde and Nikolay Marinov's NELDA dataset (Version 4, 2015).\n\nFor a summary of the most important information about the NELDA dataset (e.g. which elections and countries are included), see their overview: https://nelda.co/#about. \n\nSee also their 2012 paper, “Which Elections can be Lost?” Political Analysis, 20(2), 191–210, available at: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0474B124646DF486D1FD9A8E26D31DEC/S1047198700013097a.pdf/div-class-title-which-elections-can-be-lost-div.pdf",
+  "sources": [
+    {
+      "name": "Hyde and Marinov (2012, 2015)",
+      "link": "https://www.dropbox.com/s/tsy2a9j3fud2rk8/NELDA_version_4.zip?file_subpath=%2FNELDA+version+4",
+      "dataPublishedBy": "Hyde, Susan D. and Nikolay Marinov, \"National Elections Across Democracy and Autocracy Dataset Version 4\" (2015).",
+      "retrievedDate": "2019-05-27",
+      "additionalInfo": "This dataset gives the number of direct national elections held in each country in each year 1945–2012. It is taken entirely from Susan Hyde and Nikolay Marinov's NELDA dataset (Version 4, 2015).\n\nFor a summary of the most important information about the NELDA dataset (e.g. which elections and countries are included), see their overview: https://nelda.co/#about. \n\nSee also their 2012 paper, “Which Elections can be Lost?” Political Analysis, 20(2), 191–210, available at: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0474B124646DF486D1FD9A8E26D31DEC/S1047198700013097a.pdf/div-class-title-which-elections-can-be-lost-div.pdf",
+      "dataPublisherSource": "\"Sources used to code the data are diverse, including scholarly studies of specific countries, the elections data handbooks published by Oxford University Press (Nohlen, Krennerich, and Thibaut 1999; Nohlen, Grotz and Hartmann 2001; Nohlen 2005), historical news archives available through ProQuest and Lexis-Nexis, the Inter-Parliamentary Union’s data and archives on parliamentary elections, and a number of other sources.\""
+    }
+  ],
+  "owidTags": [
+    "Democracy",
+    "Political Regimes",
+    "Franchise, Voting Rights & Electoral Systems"
+  ],
+  "resources": [
+    {
+      "path": "Number of direct national elections — NELDA (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of elections",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
