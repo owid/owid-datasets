@@ -8,4 +8,4 @@ See also their 2012 paper, “Which Elections can be Lost?” Political Analysis
 
 Notes: “Serbia” refers to Yugoslavia for 1945–91 and to “Serbia and Montenegro” for 1992–2006. “Germany” refers to West Germany for 1945–89.
 
-Instructions for producing the dataset "Number of direct national elections — NELDA (2015)": https://drive.google.com/open?id=1bfmN0bd00-7PVFf9W4eRPRHdOTTHm6cB
+How the dataset "Number of direct national elections — NELDA (2015)" was produced: https://drive.google.com/open?id=1bfmN0bd00-7PVFf9W4eRPRHdOTTHm6cB
