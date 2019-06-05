@@ -6,7 +6,6 @@ For a summary of the most important information about the NELDA dataset (e.g. wh
 
 See also their 2012 paper, “Which Elections can be Lost?” Political Analysis, 20(2), 191–210, available at: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0474B124646DF486D1FD9A8E26D31DEC/S1047198700013097a.pdf/div-class-title-which-elections-can-be-lost-div.pdf
 
-Notes: “Serbia” refers to Yugoslavia before 1992 and “Serbia and Montenegro” in 1992–2006.
-“Germany” refers to West Germany before 1990.
+Notes: “Serbia” refers to Yugoslavia for 1945–91 and to “Serbia and Montenegro” for 1992–2006. “Germany” refers to West Germany for 1945–89.
 
 Instructions for producing the dataset "Number of direct national elections — NELDA (2015)": https://drive.google.com/open?id=1bfmN0bd00-7PVFf9W4eRPRHdOTTHm6cB
