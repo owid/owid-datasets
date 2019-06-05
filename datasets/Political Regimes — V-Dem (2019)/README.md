@@ -11,7 +11,9 @@ The V-Dem Project makes these classifications based on a number of other measure
 
 The dataset "Political Regimes — V-Dem (2019)" simply reproduces this v2x_regime classification. (For how this dataset was produced, see: https://drive.google.com/open?id=1eFZmRChBFmeAXLx0tQ965YOHlXe6WQH_.)
 
-Below are just some notes on several peculiar "countries" in the V-Dem Project dataset.
+---
+
+Here follow some notes on several peculiar "countries" that appear on the V-Dem Project dataset.
 
 First, there are three separate Palestines, namely:
 
