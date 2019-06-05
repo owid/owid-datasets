@@ -30,28 +30,28 @@
             "type": "year"
           },
           {
-            "name": "Share of deaths",
+            "name": "Share of deaths (Shen et al. 2018)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{\"name\": \"Share of deaths\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
-            "name": "Share of Google searches",
+            "name": "Share of Google searches (Shen et al. 2018)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{\"name\": \"Share of Google searches\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
-            "name": "Share of NYT media coverage",
+            "name": "Share of NYT media coverage (Shen et al. 2018)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{\"name\": \"Share of NYT media coverage\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
-            "name": "Share of Guardian media coverage",
+            "name": "Share of Guardian media coverage (Shen et al. 2018)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{\"name\": \"Share of Guardian media coverage\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
           }
         ]
       }
