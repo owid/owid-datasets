@@ -11,7 +11,7 @@ The V-Dem Project makes these classifications based on a number of other measure
 
 The dataset "Political Regimes — V-Dem (2019)" simply reproduces this v2x_regime classification. (For how this dataset was produced, see: https://drive.google.com/open?id=1eFZmRChBFmeAXLx0tQ965YOHlXe6WQH_.)
 
-There are several "countries" in the V-Dem Project that warrant special attention.
+Below are just some notes on several peculiar "countries" in the V-Dem Project dataset.
 
 First, there are three separate Palestines, namely:
 
@@ -19,7 +19,7 @@ First, there are three separate Palestines, namely:
 - "Palestine/Gaza" (1948–66 and 2007–18): 0 every year.
 - "Palestine/West Bank" (1948–49 and 2003–18): 0 in 1948–49, 2008–12, and 2015–18; 1 in all other years.
 
-We decided to drop Palestine/British Mandate for 1948.
+We at OWID have decided to drop Palestine/British Mandate for 1948.
 
 Second, there are Somalia and Somaliland:
 
@@ -35,4 +35,4 @@ Third, there are Tanzania and Zanzibar:
 
 Thus, in this dataset, "Tanzania" excludes Zanzibar.
 
-Fourth, for 1990 and before, "Yemen" refers to North Yemen. There are separate data for "South Yemen".
+Fourth, for 1990 and before, "Yemen" refers to North Yemen. There are separate data for "South Yemen" for the years 1900–90.
