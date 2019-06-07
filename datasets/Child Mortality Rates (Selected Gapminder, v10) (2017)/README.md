@@ -1,4 +1,4 @@
-# Child Mortality Rates, (Selected Gapminder, v10) (2017)
+# Child Mortality Rates (Selected Gapminder, v10) (2017)
 
 Dataset comes from Gapminder - Child mortality (version 10), the latest version as of 2019.
 
