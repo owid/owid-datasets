@@ -1,0 +1,43 @@
+{
+  "name": "Conflict deaths by country – UCDP (2019)",
+  "title": "Conflict deaths by country – UCDP (2019)",
+  "id": 4143,
+  "description": "Aggregation of the 'best' estimates for deaths listed for all incidents in UCDP GED 19.1 for each country and year. UCDP defines incidents as being \"where armed force was used by an organised actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date\".\nNote that currently the data excludes Syria.",
+  "sources": [
+    {
+      "name": "UCDP Georeferenced Event Dataset (GED) Global version 19.1 (2019)",
+      "additionalInfo": "Aggregation of the 'best' estimates for deaths listed for all incidents in UCDP GED 19.1 for each country and year. UCDP defines incidents as being \"where armed force was used by an organised actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date\".\nNote that currently the data excludes Syria.",
+      "dataPublishedBy": "Sundberg, Ralph, and Erik Melander, 2013, “Introducing the UCDP Georeferenced Event Dataset”, Journal of Peace Research, vol.50, no.4, 523-532",
+      "dataPublisherSource": "Collated from and crosschecked against a range of sources, primarily news reporting.",
+      "link": "https://ucdp.uu.se/downloads/",
+      "retrievedDate": "07/06/2019"
+    }
+  ],
+  "owidTags": [
+    "Civil Wars",
+    "War and Peace"
+  ],
+  "resources": [
+    {
+      "path": "Conflict deaths by country – UCDP (2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Violent deaths in conflicts and one-sided violence (UCDP 2019)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
