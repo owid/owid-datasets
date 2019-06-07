@@ -14,4 +14,4 @@ It notes its data sources during three key periods of time:
 
 There are significant uncertainties in data for many countries pre-1950. To develop full series back to 1800 for all countries, Gapminder combines published estimates within the academic literature and national statistics, with their own guesstimates and extrapolations for countries without published estimates. This series presents the selective Gapminder dataset: we have removed data points which were estimated by Gapminder with high uncertainty and instead only include those from published sources or the United Nations dataset. 
 
-We also publish the full dataset from Gapminder for users looking for a complete series. However, we should highlight that some of these estimates have a high degree of uncertainty.
+We also publish the full dataset from Gapminder for users looking for a complete series. However, we should highlight that some of these estimates have a high degree of uncertainty. This dataset can be accessed here: https://ourworldindata.org/grapher/child-mortality-complete
