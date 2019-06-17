@@ -1,11 +1,11 @@
 {
-  "name": "Expected Years of Schooling - HDR (2018)",
-  "title": "Expected Years of Schooling - HDR (2018)",
+  "name": "Expected Years of Schooling - UNDP (2018)",
+  "title": "Expected Years of Schooling - UNDP (2018)",
   "id": 4151,
   "description": "Number of years of schooling that a child of school entrance age can expect to receive if prevailing patterns of age-specific enrollment rates persist throughout the child’s life.",
   "sources": [
     {
-      "name": "Expected Years of Schooling - HDR (2018)",
+      "name": "UNDP, HDR (2018)",
       "link": "http://hdr.undp.org/en/indicators/69706#",
       "retrievedDate": "17/06/19",
       "additionalInfo": "Number of years of schooling that a child of school entrance age can expect to receive if prevailing patterns of age-specific enrollment rates persist throughout the child’s life."
@@ -16,7 +16,7 @@
   ],
   "resources": [
     {
-      "path": "Expected Years of Schooling - HDR (2018).csv",
+      "path": "Expected Years of Schooling - UNDP (2018).csv",
       "schema": {
         "fields": [
           {
