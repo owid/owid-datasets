@@ -9,7 +9,8 @@
       "link": "http://hdr.undp.org/en/indicators/69706#",
       "retrievedDate": "17/06/19",
       "additionalInfo": "This series was published by the United Nations Development Programme (UNDP) Human Development Reports (HDR), which includes data from: UNESCO Institute for Statistics (2018); ICF Macro Demographic and Health Surveys; UNICEF Multiple Indicator Cluster Surveys; and OECD (2017a).\n\nIt gives the number of years of schooling that a child of school entrance age can expect to receive if prevailing patterns of age-specific enrollment rates persist throughout the child’s life.",
-      "dataPublisherSource": "Household and/or labor force surveys"
+      "dataPublisherSource": "Household and/or labor force surveys",
+      "dataPublishedBy": "UNDP, HDR (2018)"
     }
   ],
   "owidTags": [
