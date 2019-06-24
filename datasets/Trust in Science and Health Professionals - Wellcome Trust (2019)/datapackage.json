@@ -2,11 +2,11 @@
   "name": "Trust in Science and Health Professionals - Wellcome Trust (2019)",
   "title": "Trust in Science and Health Professionals - Wellcome Trust (2019)",
   "id": 4154,
-  "description": "The Wellcome Global Monitor is the world’s largest study into how people around the world think and feel about science and major health challenges. It surveys over 140,000 people from more than 140 countries.\n\nHow much do you trust each of the following: other people in you neighborhood; your national government; scientists; journalists; doctors and nurses; people who work at non-governmental or non-profit organizations; healers? Do you trust them a lot, some, not much, or not at all?\n\nWe then added the share of people who responded \"a lot\", and \"some\".",
+  "description": "The Wellcome Global Monitor is the world’s largest study into how people around the world think and feel about science and major health challenges. It surveys over 140,000 people from more than 140 countries.\n\nRespondents were asked, \"How much do you trust each of the following: other people in you neighborhood; your national government; scientists; journalists; doctors and nurses; people who work at non-governmental or non-profit organizations; healers? Do you trust them a lot, some, not much, or not at all?\"\n\nWe then added the share of people who responded \"a lot\", and \"some\".",
   "sources": [
     {
       "name": "Trust in Science and Health Professionals - Wellcome Trust (2019)",
-      "additionalInfo": "The Wellcome Global Monitor is the world’s largest study into how people around the world think and feel about science and major health challenges. It surveys over 140,000 people from more than 140 countries.\n\nHow much do you trust each of the following: other people in you neighborhood; your national government; scientists; journalists; doctors and nurses; people who work at non-governmental or non-profit organizations; healers? Do you trust them a lot, some, not much, or not at all?\n\nWe then added the share of people who responded \"a lot\", and \"some\".",
+      "additionalInfo": "The Wellcome Global Monitor is the world’s largest study into how people around the world think and feel about science and major health challenges. It surveys over 140,000 people from more than 140 countries.\n\nRespondents were asked, \"How much do you trust each of the following: other people in you neighborhood; your national government; scientists; journalists; doctors and nurses; people who work at non-governmental or non-profit organizations; healers? Do you trust them a lot, some, not much, or not at all?\"\n\nWe then added the share of people who responded \"a lot\", and \"some\".",
       "link": "https://wellcome.ac.uk/reports/wellcome-global-monitor/2018",
       "retrievedDate": "24/06/19",
       "dataPublisherSource": "Surveys"
@@ -32,43 +32,43 @@
             "name": "Share of people who trust other people in their neighbourhood",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "Share of people who trust their national government",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "Share of people who trust scientists in their country",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "Share of people who trust journalists in their country",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "Share of people who trust doctors and nurses in their country",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "Share of people who trust people who work at non-governmental or non-profit orgnaizations",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "Share of people who trust traditional healers in their countries",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
           }
         ]
       }
