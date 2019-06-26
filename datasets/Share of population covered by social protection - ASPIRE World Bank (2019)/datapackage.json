@@ -1,0 +1,42 @@
+{
+  "name": "Share of population covered by social protection - ASPIRE World Bank (2019)",
+  "title": "Share of population covered by social protection - ASPIRE World Bank (2019)",
+  "id": 4157,
+  "description": "",
+  "sources": [
+    {
+      "name": "Share of population covered by social protection - ASPIRE World Bank (2019)",
+      "dataPublishedBy": "Atlas of Social Protection Indicators of Resilience and Equity (ASPIRE) - World Bank",
+      "dataPublisherSource": "World Bank Internal Surveys",
+      "link": "https://data.worldbank.org/indicator/per_allsp.cov_pop_tot?locations=ZG-ZQ&view=chart",
+      "retrievedDate": "26 June 2019"
+    }
+  ],
+  "owidTags": [
+    "Labor Market Policies",
+    "Risk and Insurance"
+  ],
+  "resources": [
+    {
+      "path": "Share of population covered by social protection - ASPIRE World Bank (2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of population covered by social protection (in %)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
