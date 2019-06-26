@@ -1,0 +1,39 @@
+{
+  "name": "Price of mobile data - Alliance for Affordable Internet (2019)",
+  "title": "Price of mobile data - Alliance for Affordable Internet (2019)",
+  "id": 4158,
+  "description": "",
+  "sources": [
+    {
+      "name": "Alliance for Affordable Internet (2019)",
+      "link": "https://a4ai.org/extra/mobile_broadband_pricing_gnicm-2018Q4",
+      "retrievedDate": "26 June 2019"
+    }
+  ],
+  "owidTags": [
+    "Internet"
+  ],
+  "resources": [
+    {
+      "path": "Price of mobile data - Alliance for Affordable Internet (2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Cost of 1GB of mobile data (% of mean GNI per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
