@@ -1,6 +1,6 @@
 {
-  "name": "Self-reported loneliness in older adults - OWID (2018)",
-  "title": "Self-reported loneliness in older adults - OWID (2018)",
+  "name": "Self-reported loneliness in older adults - OWID (2019)",
+  "title": "Self-reported loneliness in older adults - OWID (2019)",
   "id": 4159,
   "description": "",
   "sources": [
@@ -16,7 +16,7 @@
   ],
   "resources": [
     {
-      "path": "Self-reported loneliness in older adults - OWID (2018).csv",
+      "path": "Self-reported loneliness in older adults - OWID (2019).csv",
       "schema": {
         "fields": [
           {
