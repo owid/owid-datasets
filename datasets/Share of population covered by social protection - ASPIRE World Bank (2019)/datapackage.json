@@ -33,7 +33,7 @@
             "name": "Share of population covered by social protection (in %)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\"}"
           }
         ]
       }
