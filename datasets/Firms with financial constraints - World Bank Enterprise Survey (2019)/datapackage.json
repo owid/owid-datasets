@@ -1,0 +1,44 @@
+{
+  "name": "Firms with financial constraints - World Bank Enterprise Survey (2019)",
+  "title": "Firms with financial constraints - World Bank Enterprise Survey (2019)",
+  "id": 4156,
+  "description": "Surveys were conducted in different years for different countries, but all during the time period of 2009 to 2018. The date displayed is standardized to 2018.",
+  "sources": [
+    {
+      "name": "World Bank Enterprise Survey (2019)",
+      "dataPublishedBy": "World Bank",
+      "additionalInfo": "Surveys were conducted in different years for different countries, but all during the time period of 2009 to 2018. The date displayed is standardized to 2018.",
+      "link": "http://www.enterprisesurveys.org/data/exploretopics/finance",
+      "retrievedDate": "26 June 2019",
+      "dataPublisherSource": "World Bank surveys"
+    }
+  ],
+  "owidTags": [
+    "Economic Growth",
+    "Financial Markets, Banks & Financial Institutions",
+    "Financial Inclusion"
+  ],
+  "resources": [
+    {
+      "path": "Firms with financial constraints - World Bank Enterprise Survey (2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of firms for which access to finance is a major constraint (in %)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
