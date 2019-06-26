@@ -9,7 +9,8 @@
       "additionalInfo": "The numbers were obtained by dividing each country's number of internet users by its population (both data points provided by Internet World Stats).",
       "link": "https://www.internetworldstats.com/stats1.htm",
       "retrievedDate": "26 June 2019",
-      "dataPublishedBy": "Internet World Stats"
+      "dataPublishedBy": "Internet World Stats",
+      "dataPublisherSource": "Aggregated from sources including WWW, ITU, Facebook and other sources."
     }
   ],
   "owidTags": [
@@ -32,7 +33,7 @@
             "name": "Share of population covered by the internet (in %)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\"}"
           }
         ]
       }
