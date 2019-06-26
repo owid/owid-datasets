@@ -1,0 +1,40 @@
+{
+  "name": "Self-reported loneliness in older adults - OWID (2018)",
+  "title": "Self-reported loneliness in older adults - OWID (2018)",
+  "id": 4159,
+  "description": "",
+  "sources": [
+    {
+      "name": "Our World in Data based on Sundström et al. (2009), Savikko et al (2005), ONS (2019) and CIGNA (2018)",
+      "dataPublishedBy": "<p>Sundström, G., Fransson, E., Malmberg, B., & Davey, A. (2009). Loneliness among older Europeans. European Journal of Ageing, 6(4), 267.</p> <p>Sundström, G., Fransson, E., Malmberg, B., & Davey, A. (2009). Loneliness among older Europeans. European Journal of Ageing, 6(4), 267.</p><p>Office for National Statistics (2019), Community Life Survey: Focus on Loneliness. <p>CIGNA (2018), Survey of 20,000 Americans Examining Behaviours Driving Loneliness in the U.S.</p>",
+      "retrievedDate": "2019",
+      "dataPublisherSource": "Survey data"
+    }
+  ],
+  "owidTags": [
+    "Marriage & Relationships"
+  ],
+  "resources": [
+    {
+      "path": "Self-reported loneliness in older adults - OWID (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Self-reported feelings of loneliness among older adults",
+            "type": "any",
+            "description": "Share of survey respondents who report feeling lonely at least some of the time. For all countries except US, England and Finland, the estimates correspond to the year 2005, and include population 65+. For the US and UK estimates correspond to the year 2018, and populations 72+ and 65-74 respectively. For Finland estimates correspond to 2002 and ages 75+.  You find details on the exact survey questions and response options under Further Information below",
+            "owidDisplaySettings": "{\"name\": \"Self-reported feelings of loneliness among older adults\", \"unit\": \"%\", \"shortUnit\": \"%\", \"numDecimalPlaces\": 1}"
+          }
+        ]
+      }
+    }
+  ]
+}
