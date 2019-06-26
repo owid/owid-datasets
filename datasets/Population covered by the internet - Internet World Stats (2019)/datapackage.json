@@ -1,0 +1,41 @@
+{
+  "name": "Population covered by the internet - Internet World Stats (2019)",
+  "title": "Population covered by the internet - Internet World Stats (2019)",
+  "id": 4155,
+  "description": "The numbers were obtained by dividing each country's number of internet users by its population (both data points provided by Internet World Stats).",
+  "sources": [
+    {
+      "name": "Internet World Stats (2019)",
+      "additionalInfo": "The numbers were obtained by dividing each country's number of internet users by its population (both data points provided by Internet World Stats).",
+      "link": "https://www.internetworldstats.com/stats1.htm",
+      "retrievedDate": "26 June 2019",
+      "dataPublishedBy": "Internet World Stats"
+    }
+  ],
+  "owidTags": [
+    "Internet"
+  ],
+  "resources": [
+    {
+      "path": "Population covered by the internet - Internet World Stats (2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of population covered by the internet (in %)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
