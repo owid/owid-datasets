@@ -2,19 +2,19 @@
   "name": "Total population - Gapminder",
   "title": "Total population - Gapminder",
   "id": 70,
-  "description": "Gapminder dataset. Available online at http://www.gapminder.org/.",
+  "description": "Gapminder dataset. Available online at http://www.gapminder.org/.\n\nPopulation data by country is taken from Version 5 of Gapminder. This provides data by country from 1800 through to 2100.\n\nFrom 1950 to 2015, estimates come from the UN Population Revision (2017), and projections to 2100 from the UN Population Revision (2017) medium scenario.\n\nFull documentation of Gapminder's sources and process are available here: https://www.gapminder.org/data/documentation/gd003/.\n\nUN population revision citation:\nUnited Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, DVD Edition. Available at: https://esa.un.org/unpd/wpp/Download/Standard/Population/.",
   "sources": [
     {
-      "name": "Gapminder",
-      "dataPublishedBy": null,
+      "name": "Population by country, 1800 to 2100 (Gapminder & UN)",
+      "dataPublishedBy": "Gapminder and United Nations Population Division (2017)",
       "dataPublisherSource": null,
-      "link": "http://www.gapminder.org/",
-      "retrievedDate": null,
-      "additionalInfo": "Gapminder dataset. Available online at http://www.gapminder.org/."
+      "link": "http://www.gapminder.org/ and https://www.gapminder.org/data/documentation/gd003/",
+      "retrievedDate": "03/04/2019",
+      "additionalInfo": "Gapminder dataset. Available online at http://www.gapminder.org/.\n\nPopulation data by country is taken from Version 5 of Gapminder. This provides data by country from 1800 through to 2100.\n\nFrom 1950 to 2015, estimates come from the UN Population Revision (2017), and projections to 2100 from the UN Population Revision (2017) medium scenario.\n\nFull documentation of Gapminder's sources and process are available here: https://www.gapminder.org/data/documentation/gd003/.\n\nUN population revision citation:\nUnited Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, DVD Edition. Available at: https://esa.un.org/unpd/wpp/Download/Standard/Population/."
     }
   ],
   "owidTags": [
-    "World Population Growth"
+    "Population Growth"
   ],
   "resources": [
     {
@@ -32,8 +32,14 @@
           {
             "name": "Total population (Gapminder)",
             "type": "any",
-            "description": "",
-            "owidDisplaySettings": {}
+            "description": "Population by country, available from 1800 to 2019 based on Gapminder data and UN Population Division (2017) estimates.",
+            "owidDisplaySettings": "{\"name\": \"Population by country\"}"
+          },
+          {
+            "name": "Population by country, historic and projections (Gapminder & UN)",
+            "type": "any",
+            "description": "Population by country, available from 1800 to 2100 based on Gapminder data and UN Population Division (2017) medium scenario projections.",
+            "owidDisplaySettings": "{\"name\": \"Population by country\"}"
           }
         ]
       }
