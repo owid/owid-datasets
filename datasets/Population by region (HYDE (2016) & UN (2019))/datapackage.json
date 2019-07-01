@@ -1,0 +1,41 @@
+{
+  "name": "Population by region (HYDE (2016) & UN (2019))",
+  "title": "Population by region (HYDE (2016) & UN (2019))",
+  "id": 3264,
+  "description": "This long-run population series by region was constructed by Our World in Data based on two key sources: the HYDE database (2016) and UN World Population Prospects (2019). \n\n- HYDE (2016) data is used from the year -10,000 to 1940\n- UN World Population Population Prospects (2019) from 1950 to 2019; \n- Projections to 2100 from the UN World Population Population Prospects (2019)\n\nHYDE regions have been aggregated to match with UN regional groupings:\n- 'Europe' and 'CIS' in HYDE data have been combined and labelled here simply as 'Europe'\n- 'Asia' and 'Middle East' in HYDE data have been combined and labelled here simply as 'Asia'\n\nHYDE Database, available at: https://themasites.pbl.nl/tridion/en/themasites/hyde/basicdrivingfactors/population/index-2.html\n\nUnited Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019, Online Edition. Available at: https://esa.un.org/unpd/wpp/Download/Standard/Population/\n\nThe world population series over 12,000 years is compiled from a number of sources.\nAmong others these are the original sources:\n\nMcEvedy, Colin and Richard Jones, 1978, “Atlas of World Population History,” Facts on File, New York, pp. 342-351.\n\nBiraben, Jean-Noel, 1980, An Essay Concerning Mankind’s Evolution, Population, Selected Papers, December, table 2.\n\nDurand, John D., 1974, “Historical Estimates of World Population: An Evaluation,” University of Pennsylvania, Population Center, Analytical and Technical Reports, Number 10, table 2.\n\nHaub, Carl, 1995, “How Many People Have Ever Lived on Earth?” Population Today, February, p. 5.\n\nThomlinson, Ralph, 1975, “Demographic Problems, Controversy Over Population Control,” Second Edition, Table 1.\n\nUnited Nations, 1999, The World at Six Billion, Table 1, “World Population From” Year 0 to Stabilization, p. 5,\nU.S. Census Bureau (USCB), 2012, Total Midyear Population for the World: 1950-2050.\n\nMichael Kremer (1993) “Population Growth and Technological Change: One Million B.C. to 1990”, Quarterly Journal of Economics., August 1993, pp.681-716.",
+  "sources": [
+    {
+      "name": "Population by region (HYDE (2016) & UN (2019))",
+      "dataPublishedBy": "HYDE Database (2016) and United Nations World Populations Prospects (2019)",
+      "additionalInfo": "This long-run population series by region was constructed by Our World in Data based on two key sources: the HYDE database (2016) and UN World Population Prospects (2019). \n\n- HYDE (2016) data is used from the year -10,000 to 1940\n- UN World Population Population Prospects (2019) from 1950 to 2019; \n- Projections to 2100 from the UN World Population Population Prospects (2019)\n\nHYDE regions have been aggregated to match with UN regional groupings:\n- 'Europe' and 'CIS' in HYDE data have been combined and labelled here simply as 'Europe'\n- 'Asia' and 'Middle East' in HYDE data have been combined and labelled here simply as 'Asia'\n\nHYDE Database, available at: https://themasites.pbl.nl/tridion/en/themasites/hyde/basicdrivingfactors/population/index-2.html\n\nUnited Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019, Online Edition. Available at: https://esa.un.org/unpd/wpp/Download/Standard/Population/\n\nThe world population series over 12,000 years is compiled from a number of sources.\nAmong others these are the original sources:\n\nMcEvedy, Colin and Richard Jones, 1978, “Atlas of World Population History,” Facts on File, New York, pp. 342-351.\n\nBiraben, Jean-Noel, 1980, An Essay Concerning Mankind’s Evolution, Population, Selected Papers, December, table 2.\n\nDurand, John D., 1974, “Historical Estimates of World Population: An Evaluation,” University of Pennsylvania, Population Center, Analytical and Technical Reports, Number 10, table 2.\n\nHaub, Carl, 1995, “How Many People Have Ever Lived on Earth?” Population Today, February, p. 5.\n\nThomlinson, Ralph, 1975, “Demographic Problems, Controversy Over Population Control,” Second Edition, Table 1.\n\nUnited Nations, 1999, The World at Six Billion, Table 1, “World Population From” Year 0 to Stabilization, p. 5,\nU.S. Census Bureau (USCB), 2012, Total Midyear Population for the World: 1950-2050.\n\nMichael Kremer (1993) “Population Growth and Technological Change: One Million B.C. to 1990”, Quarterly Journal of Economics., August 1993, pp.681-716.",
+      "retrievedDate": "20/06/19",
+      "dataPublisherSource": "HYDE aggregated estimates published in earlier publications. The series are named after these publications."
+    }
+  ],
+  "owidTags": [
+    "Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Population by region (HYDE (2016) & UN (2019)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Population by region (HYDE & UN)",
+            "type": "any",
+            "description": "This long-run population series by region was constructed by Our World in Data based on two key sources: the HYDE database (2016) and UN World Population Prospects (2017). \n\n- HYDE (2016) data is used from the year -10,000 to 1940\n- UN World Population Population Prospects (2017) from 1950 to 2015; \n- Projections to 2100 from the UN World Population Population Prospects (2017)\n\nHYDE regions have been aggregated to match with UN regional groupings:\n- 'Europe' and 'CIS' in HYDE data have been combined and labelled here simply as 'Europe'\n- 'Asia' and 'Middle East' in HYDE data have been combined and labelled here simply as 'Asia'\n\nHYDE Database, available at: https://themasites.pbl.nl/tridion/en/themasites/hyde/basicdrivingfactors/population/index-2.html\n\nUnited Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, DVD Edition. Available at: https://esa.un.org/unpd/wpp/Download/Standard/Population/",
+            "owidDisplaySettings": "{\"name\": \"Population by region\", \"numDecimalPlaces\": 0}"
+          }
+        ]
+      }
+    }
+  ]
+}
