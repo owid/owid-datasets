@@ -6,7 +6,7 @@
   "sources": [
     {
       "name": "World Population over 12000 years - various sources (2016)",
-      "dataPublishedBy": "The History Database of the Global Environment (HYDE) collected the data by earlier publications. For the 'OurWorldInData'-series we used various sources: The data for the period before 1900 are taken from the History Database of the Global Environment (HYDE). The data for the World Population between 1900 and 1940 is taken from the UN publication 'The World at Six Billion'. The annual data for the World Population between 1950 and 2015 is taken from the UN's World Population Prospects: The 2015 Revision. It is the series 'Total Population - Both Sexes' online available <a href=\"https://esa.un.org/unpd/wpp/Download/Standard/Population/\" rel=\"noopener\" target=\"_blank\">here</a>.",
+      "dataPublishedBy": "The History Database of the Global Environment (HYDE) collected the data by earlier publications. For the 'OurWorldInData'-series we used various sources: The data for the period before 1900 are taken from the History Database of the Global Environment (HYDE). The data for the World Population between 1900 and 1940 is taken from the UN publication 'The World at Six Billion'. The annual data for the World Population between 1950 and 2019 is taken from the UN's World Population Prospects: The 2019 Revision. It is the series 'Total Population - Both Sexes' online available <a href=\"https://esa.un.org/unpd/wpp/Download/Standard/Population/\" rel=\"noopener\" target=\"_blank\">here</a>.",
       "dataPublisherSource": "HYDE aggregated estimates published in earlier publications. The series are named after these publications.",
       "link": "http://themasites.pbl.nl/tridion/en/themasites/hyde/basicdrivingfactors/population/index-2.html",
       "retrievedDate": "19/05/2016",
@@ -14,7 +14,7 @@
     }
   ],
   "owidTags": [
-    "World Population Growth"
+    "Population Growth"
   ],
   "resources": [
     {
@@ -33,9 +33,7 @@
             "name": "World Population over 12000 years (various sources (2016))",
             "type": "any",
             "description": "Total world population",
-            "owidDisplaySettings": {
-              "unit": "0-1 scale"
-            }
+            "owidDisplaySettings": "{\"unit\": \"0-1 scale\"}"
           }
         ]
       }
