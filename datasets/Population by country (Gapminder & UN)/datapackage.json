@@ -1,6 +1,6 @@
 {
-  "name": "Total population - Gapminder",
-  "title": "Total population - Gapminder",
+  "name": "Population by country (Gapminder & UN)",
+  "title": "Population by country (Gapminder & UN)",
   "id": 70,
   "description": "Gapminder dataset. Available online at http://www.gapminder.org/.\n\nPopulation data by country is taken from Version 5 of Gapminder. This provides data by country from 1800 through to 2100.\n\nFrom 1950 to 2015, estimates come from the UN Population Revision (2017), and projections to 2100 from the UN Population Revision (2017) medium scenario.\n\nFull documentation of Gapminder's sources and process are available here: https://www.gapminder.org/data/documentation/gd003/.\n\nUN population revision citation:\nUnited Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, DVD Edition. Available at: https://esa.un.org/unpd/wpp/Download/Standard/Population/.",
   "sources": [
@@ -18,7 +18,7 @@
   ],
   "resources": [
     {
-      "path": "Total population - Gapminder.csv",
+      "path": "Population by country (Gapminder & UN).csv",
       "schema": {
         "fields": [
           {
@@ -30,7 +30,7 @@
             "type": "year"
           },
           {
-            "name": "Total population (Gapminder)",
+            "name": "Total population (Gapminder & UN)",
             "type": "any",
             "description": "Population by country, available from 1800 to 2019 based on Gapminder data and UN Population Division (2017) estimates.",
             "owidDisplaySettings": "{\"name\": \"Population by country\"}"

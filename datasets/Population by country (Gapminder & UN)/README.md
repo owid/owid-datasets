@@ -1,4 +1,4 @@
-# Total population - Gapminder
+# Population by country (Gapminder & UN)
 
 Gapminder dataset. Available online at http://www.gapminder.org/.
 
