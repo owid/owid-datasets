@@ -2,18 +2,20 @@
   "name": "Tourism - World Bank (2019)",
   "title": "Tourism - World Bank (2019)",
   "id": 4161,
-  "description": "Data is sourced from the World Bank.",
+  "description": "Data is sourced from the World Bank's World Development Indicators (WDI).",
   "sources": [
     {
-      "name": "World Bank (2019)",
+      "name": "World Bank, World Development Indicators (2019)",
       "link": "https://data.worldbank.org/indicator/ST.INT.DPRT",
       "retrievedDate": "08/07/19",
       "dataPublishedBy": "World Bank",
       "dataPublisherSource": "World Tourism Organization, Yearbook of Tourism Statistics, Compendium of Tourism Statistics and data files",
-      "additionalInfo": "Data is sourced from the World Bank."
+      "additionalInfo": "Data is sourced from the World Bank's World Development Indicators (WDI)."
     }
   ],
-  "owidTags": [],
+  "owidTags": [
+    "Tourism"
+  ],
   "resources": [
     {
       "path": "Tourism - World Bank (2019).csv",
