@@ -1,6 +1,6 @@
 {
-  "name": "Tourism - World Bank (2019)",
-  "title": "Tourism - World Bank (2019)",
+  "name": "Number of tourist departures per 1000 - World Bank & UN (2019)",
+  "title": "Number of tourist departures per 1000 - World Bank & UN (2019)",
   "id": 4161,
   "description": "Data is sourced from the World Bank's World Development Indicators (WDI).",
   "sources": [
@@ -18,7 +18,7 @@
   ],
   "resources": [
     {
-      "path": "Tourism - World Bank (2019).csv",
+      "path": "Number of tourist departures per 1000 - World Bank & UN (2019).csv",
       "schema": {
         "fields": [
           {
