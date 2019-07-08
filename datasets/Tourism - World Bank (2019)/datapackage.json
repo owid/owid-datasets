@@ -1,0 +1,40 @@
+{
+  "name": "Tourism - World Bank (2019)",
+  "title": "Tourism - World Bank (2019)",
+  "id": 4161,
+  "description": "Data is sourced from the World Bank.",
+  "sources": [
+    {
+      "name": "World Bank (2019)",
+      "link": "https://data.worldbank.org/indicator/ST.INT.DPRT",
+      "retrievedDate": "08/07/19",
+      "dataPublishedBy": "World Bank",
+      "dataPublisherSource": "World Tourism Organization, Yearbook of Tourism Statistics, Compendium of Tourism Statistics and data files",
+      "additionalInfo": "Data is sourced from the World Bank."
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "Tourism - World Bank (2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of departures (per 1000 people)",
+            "type": "any",
+            "description": "International outbound tourists are the number of departures that people make from their country of usual residence to any other country for any purpose other than a remunerated activity in the country visited. The data on outbound tourists refer to the number of departures, not to the number of people traveling. Thus a person who makes several trips from a country during a given period is counted each time as a new departure. This figure is given per 1000 people.",
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
