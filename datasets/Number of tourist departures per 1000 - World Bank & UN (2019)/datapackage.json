@@ -8,7 +8,7 @@
       "name": "World Bank, World Development Indicators (2019)",
       "link": "https://data.worldbank.org/indicator/ST.INT.DPRT",
       "retrievedDate": "08/07/19",
-      "dataPublishedBy": "World Bank",
+      "dataPublishedBy": "World Bank – World Development Indicators",
       "dataPublisherSource": "World Tourism Organization, Yearbook of Tourism Statistics, Compendium of Tourism Statistics and data files",
       "additionalInfo": "Number of tourist departures per 1000 was derived based on the number of departures per year divided by total population figures from the World Bank's World Development Indicators (WDI)"
     }
