@@ -33,25 +33,25 @@
             "name": "Drank in last week",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "Drank on 5 or more days in last week",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "Don't drink",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "Share of drinkers who \"binged\" on heaviest day of drinking in last week",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           }
         ]
       }
