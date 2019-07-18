@@ -7,6 +7,10 @@ Our World in Data has also defined the following regions as:
 – "Americas (other)" is North, Central, South America and the Caribbean minus the USA
 – "Europe (other)" is Western and Eastern Europe minus the EU-28.
 
+"Statistical differences" are referred to by the Global Carbon Project as the difference between global emissions and the sum of all national emissions plus bunker fuels: this discrepancy is therefore categorized as "statistical differences".
+
+Our World in Data have renamed the category "bunker fuels" as "International transport" which includes emissions from international aviation and shipping. We have renamed this category for clarity.
+
 Historical data for Australia in CDIAC from 1820 until 1860 reports negative CO2 emissions. In this dataset, pre-1860 data for Australia has been removed.
 
 Data from pre-1959 is sourced from the archived Carbon Dioxide Information Analysis Centre (CDIAC). Reference: Tom Boden and Bob Andres (Oak Ridge National Laboratory); Gregg Marland (Appalachian State University). Available at: http://cdiac.ornl.gov/
