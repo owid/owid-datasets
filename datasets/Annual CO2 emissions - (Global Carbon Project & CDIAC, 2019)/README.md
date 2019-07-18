@@ -13,6 +13,8 @@ Our World in Data have renamed the category "bunker fuels" as "International tra
 
 Historical data for Australia in CDIAC from 1820 until 1860 reports negative CO2 emissions. In this dataset, pre-1860 data for Australia has been removed.
 
+Each country and region's share of global carbon dioxide (CO₂) has been calculated by Our World in Data based on annual national emissions data published by the Global Carbon Project (GCP). This is calculated as each country's share of the sum of all country emissions plus international aviation and shipping ('bunkers') and 'statistical differences'.
+
 Data from pre-1959 is sourced from the archived Carbon Dioxide Information Analysis Centre (CDIAC). Reference: Tom Boden and Bob Andres (Oak Ridge National Laboratory); Gregg Marland (Appalachian State University). Available at: http://cdiac.ornl.gov/
 
 Data from 1959 onwards is sourced from the Global Carbon Project (2018).
