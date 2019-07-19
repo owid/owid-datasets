@@ -1,0 +1,41 @@
+{
+  "name": "Consumption-based CO2 emissions - Global Carbon Project (2018)",
+  "title": "Consumption-based CO2 emissions - Global Carbon Project (2018)",
+  "id": 1091,
+  "description": "Consumption-based emissions are national or regional emissions which have been adjusted for trade (i.e. territorial/production emissions minus emissions embedded in exports, plus emissions embedded in imports). If a country's consumption-based emissions are higher than its production emissions it is a net importer of carbon dioxide.\n\nThe underlying source is an updated version of the paper by \"Peters et al. (2011). Growth in emission transfers via international trade from 1990 to 2008.\" This updated data is available in the latest version of the Global Carbon Budget. \n\nData has been converted by Our World in Data from tonnes of carbon to carbon dioxide (CO₂) using a conversion factor of 3.664.\n\nFull reference of the updated paper: Peters, GP, Minx, JC, Weber, CL and Edenhofer, O 2011. Growth in emission transfers via international trade from 1990 to 2008. Proceedings of the National Academy of Sciences 108, 8903-8908.\n\nReference of the full global carbon budget 2018: Corinne Le Quéré, Robbie M. Andrew, Pierre Friedlingstein, Stephen Sitch, Judith Hauck, Julia Pongratz, Penelope A. Pickers, Jan Ivar Korsbakken, Glen P. Peters, Josep G. Canadell, Almut Arneth, Vivek K. Arora, Leticia Barbero, Ana Bastos, Laurent Bopp, Frédéric Chevallier, Louise P. Chini, Philippe Ciais, Scott C. Doney, Thanos Gkritzalis, Daniel S. Goll, Ian Harris, Vanessa Haverd, Forrest M. Hoffman, Mario Hoppema, Richard A. Houghton, George Hurtt, Tatiana Ilyina, Atul K. Jain, Truls Johannesen, Chris D. Jones, Etsushi Kato, Ralph F. Keeling, Kees Klein Goldewijk, Peter Landschützer, Nathalie Lefèvre, Sebastian Lienert, Zhu Liu, Danica Lombardozzi, Nicolas Metzl, David R. Munro, Julia E. M. S. Nabel, Shin-ichiro Nakaoka, Craig Neill, Are Olsen, Tsueno Ono, Prabir Patra, Anna Peregon, Wouter Peters, Philippe Peylin, Benjamin Pfeil, Denis Pierrot, Benjamin Poulter, Gregor Rehder, Laure Resplandy, Eddy Robertson, Matthias Rocher, Christian Rödenbeck, Ute Schuster, Jörg Schwinger, Roland Séférian, Ingunn Skjelvan, Tobias Steinhoff, Adrienne Sutton, Pieter P. Tans, Hanqin Tian, Bronte Tilbrook, Francesco N Tubiello, Ingrid T. van der Laan-Luijkx, Guido R. van der Werf, Nicolas Viovy, Anthony P. Walker, Andrew J. Wiltshire, Rebecca Wright, Sönke Zaehle, Bo Zheng: Global Carbon Budget 2018, Earth Syst. Sci. Data, 2018b. https://doi.org/10.5194/essd-10-2141-2018",
+  "sources": [
+    {
+      "name": "Consumption-based CO2 emissions - Global Carbon Project (2018)",
+      "dataPublishedBy": "Updated from Peters, GP, Minx, JC, Weber, CL and Edenhofer, O 2011. Growth in emission transfers via international trade from 1990 to 2008. Proceedings of the National Academy of Sciences 108, 8903-8908.",
+      "link": "https://www.globalcarbonproject.org/carbonbudget/18/data.htm",
+      "retrievedDate": "19th July 2019",
+      "additionalInfo": "Consumption-based emissions are national or regional emissions which have been adjusted for trade (i.e. territorial/production emissions minus emissions embedded in exports, plus emissions embedded in imports). If a country's consumption-based emissions are higher than its production emissions it is a net importer of carbon dioxide.\n\nThe underlying source is an updated version of the paper by \"Peters et al. (2011). Growth in emission transfers via international trade from 1990 to 2008.\" This updated data is available in the latest version of the Global Carbon Budget. \n\nData has been converted by Our World in Data from tonnes of carbon to carbon dioxide (CO₂) using a conversion factor of 3.664.\n\nFull reference of the updated paper: Peters, GP, Minx, JC, Weber, CL and Edenhofer, O 2011. Growth in emission transfers via international trade from 1990 to 2008. Proceedings of the National Academy of Sciences 108, 8903-8908.\n\nReference of the full global carbon budget 2018: Corinne Le Quéré, Robbie M. Andrew, Pierre Friedlingstein, Stephen Sitch, Judith Hauck, Julia Pongratz, Penelope A. Pickers, Jan Ivar Korsbakken, Glen P. Peters, Josep G. Canadell, Almut Arneth, Vivek K. Arora, Leticia Barbero, Ana Bastos, Laurent Bopp, Frédéric Chevallier, Louise P. Chini, Philippe Ciais, Scott C. Doney, Thanos Gkritzalis, Daniel S. Goll, Ian Harris, Vanessa Haverd, Forrest M. Hoffman, Mario Hoppema, Richard A. Houghton, George Hurtt, Tatiana Ilyina, Atul K. Jain, Truls Johannesen, Chris D. Jones, Etsushi Kato, Ralph F. Keeling, Kees Klein Goldewijk, Peter Landschützer, Nathalie Lefèvre, Sebastian Lienert, Zhu Liu, Danica Lombardozzi, Nicolas Metzl, David R. Munro, Julia E. M. S. Nabel, Shin-ichiro Nakaoka, Craig Neill, Are Olsen, Tsueno Ono, Prabir Patra, Anna Peregon, Wouter Peters, Philippe Peylin, Benjamin Pfeil, Denis Pierrot, Benjamin Poulter, Gregor Rehder, Laure Resplandy, Eddy Robertson, Matthias Rocher, Christian Rödenbeck, Ute Schuster, Jörg Schwinger, Roland Séférian, Ingunn Skjelvan, Tobias Steinhoff, Adrienne Sutton, Pieter P. Tans, Hanqin Tian, Bronte Tilbrook, Francesco N Tubiello, Ingrid T. van der Laan-Luijkx, Guido R. van der Werf, Nicolas Viovy, Anthony P. Walker, Andrew J. Wiltshire, Rebecca Wright, Sönke Zaehle, Bo Zheng: Global Carbon Budget 2018, Earth Syst. Sci. Data, 2018b. https://doi.org/10.5194/essd-10-2141-2018"
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "Consumption-based CO2 emissions - Global Carbon Project (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Consumption-based CO₂ emissions (Global Carbon Project (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{\"name\": \"Consumption-based\", \"shortUnit\": \"Mt\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
