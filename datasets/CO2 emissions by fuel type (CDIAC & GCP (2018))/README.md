@@ -1,4 +1,4 @@
-# CO2 emissions by fuel type (CDIAC; GCP)
+# CO2 emissions by fuel type (CDIAC & GCP (2018))
 
 Recent data (from 1959 onwards) is sourced from the Global Carbon Budget (2018). Earlier and regional data is source from CDIAC. 
 
