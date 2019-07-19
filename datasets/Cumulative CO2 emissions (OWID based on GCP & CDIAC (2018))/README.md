@@ -2,6 +2,8 @@
 
 Cumulative carbon dioxide (CO₂) emissions have been calculated by Our World in Data based on annual CO₂ emissions published by the Global Carbon Project (GCP) and Carbon Dioxide Information Analysis Centre (CDIAC). By summing the annual emissions to a given year we have calculated the cumulative total. 
 
+This is given as the share of global cumulative emissions by dividing each country or region's cumulative emissions by the cumulative world emissions for that given year. 
+
 Data has been converted by Our World in Data from tonnes of carbon to tonnes of carbon dioxide (CO₂) using a conversion factor of 3.664.
 
 Our World in Data has also defined the following regions as: 
