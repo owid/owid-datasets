@@ -37,8 +37,8 @@
           {
             "name": "Share of global cumulative CO2 emissions (OWID based on CDIAC & GCP (2018)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Cumulative carbon dioxide (CO₂) emissions is the total quantity of CO₂ emissions emitted from 1751 until a given year, measured in tonnes. This is based on territorial emissions, which do not account for emissions embedded in traded goods. This is given as each country or region's share of the global total.",
+            "owidDisplaySettings": "{\"name\": \"Share of global cumulative CO₂ emissions\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
           }
         ]
       }
