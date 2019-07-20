@@ -1,0 +1,42 @@
+{
+  "name": "N2O concentration (EEA, 2019)",
+  "title": "N2O concentration (EEA, 2019)",
+  "id": 4169,
+  "description": "Global annual averaged atmospheric concentration of nitrous oxide (N₂O), measured in parts per billion (ppb).\n\nPublished data is from the European Environment Agency (EEA). Original data is derived from the Advanced Global Atmospheric Gases Experiment (AGAGE), available at: https://www.eea.europa.eu/data-and-maps/data/external/agage-measurements.",
+  "sources": [
+    {
+      "name": "N2O concentrations (EEA, 2019)",
+      "dataPublishedBy": "European Environment Agency (EEA)",
+      "dataPublisherSource": "Advanced Global Atmospheric Gases Experiment (AGAGE)",
+      "link": "https://www.eea.europa.eu/data-and-maps/indicators/atmospheric-greenhouse-gas-concentrations-6/assessment",
+      "retrievedDate": "19th July 2019",
+      "additionalInfo": "Global annual averaged atmospheric concentration of nitrous oxide (N₂O), measured in parts per billion (ppb).\n\nPublished data is from the European Environment Agency (EEA). Original data is derived from the Advanced Global Atmospheric Gases Experiment (AGAGE), available at: https://www.eea.europa.eu/data-and-maps/data/external/agage-measurements."
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "N2O concentration (EEA, 2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "N2O concentrations (annual average) (EEA, 2019)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
