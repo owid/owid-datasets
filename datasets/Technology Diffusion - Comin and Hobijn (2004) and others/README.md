@@ -1,6 +1,8 @@
 # Technology Diffusion - Comin and Hobijn (2004) and others
 
-A similar dataset was previously assembled by Horace Dediu who writes at: http://www.asymco.com/author/asymco/. We are thankful for Horace Dediu's generosity in making his dataset available to us. We have tracked down all of his original sources and assembled our dataset based on these original sources.
+A similar dataset was previously assembled by Horace Dediu who writes at: http://www.asymco.com/author/asymco/. We are thankful for Horace Dediu's generosity in making his dataset available to us. We have tracked down all of his original sources and assembled our dataset based on these original sources. 
+
+The latest update to the dataset are detailed <a href="https://owid.cloud/wp-content/uploads/2019/07/Tech_Adoption_Update_documentation.xlsx">here (ver 27.07.19)</a>. 
 
 This dataset is a compilation of multiple sources to construct a broad overview of the adoption of technology in the United States. The dataset is comprised of the following sources:
 
