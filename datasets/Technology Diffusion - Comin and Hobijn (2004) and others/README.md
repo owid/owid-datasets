@@ -29,5 +29,11 @@ Bech and Hobijn (2006), Technology diffusion within central banking;
 
 Pew Research Centre; 
 
+Statista;
+
+World Bank;
+
+Consumer Intelligence Research Partners (CIRP), LLC
+
 Greenwood, Seshadri & Yorikoglu (2005), Engines of Liberation. 
 Data on dishwashers, dryers, freezers, microwaves, refrigerators, and washers uses the US Census Bureau's data from 1992 to 2011, using Greenwood et al. (2005) data for previous years;

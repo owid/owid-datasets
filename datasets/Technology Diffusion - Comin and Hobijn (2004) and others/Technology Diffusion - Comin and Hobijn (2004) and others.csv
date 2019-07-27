@@ -1,4 +1,9 @@
 Entity,Year,Technology Diffusion (Comin and Hobijn (2004) and others)
+Amazon Prime users,2014,11.13
+Amazon Prime users,2015,17.09
+Amazon Prime users,2016,24.58
+Amazon Prime users,2017,32.51
+Amazon Prime users,2018,36.58
 Automatic transmission,1910,0
 Automatic transmission,1939,0
 Automatic transmission,1951,36
@@ -175,10 +180,13 @@ Cellular phone,2009,84
 Cellular phone,2010,87.2
 Cellular phone,2011,89
 Cellular phone,2012,87
-Cellular phone,2013,89
+Cellular phone,2013,90
 Cellular phone,2014,91
 Cellular phone,2015,92
-Cellular phone,2016,92
+Cellular phone,2016,93
+Cellular phone,2017,94
+Cellular phone,2018,95
+Cellular phone,2019,96
 Central heating,1900,0
 Central heating,1910,0
 Central heating,1920,1
@@ -231,7 +239,12 @@ Computer,1998,42
 Computer,2003,63.1
 Computer,2005,67.1
 Computer,2010,75.2
-Computer,2011,78
+Computer,2011,76.7
+Computer,2012,78.9
+Computer,2013,83.8
+Computer,2014,85.1
+Computer,2015,86.8
+Computer,2016,89.3
 Dishwasher,1922,1.1
 Dishwasher,1923,1
 Dishwasher,1924,1.8
@@ -309,8 +322,19 @@ Ebook reader,2010,5
 Ebook reader,2011,10
 Ebook reader,2012,19
 Ebook reader,2013,24
-Ebook reader,2015,19
-Ebook reader,2016,22
+Ebook reader,2014,25.1
+Ebook reader,2015,26
+Ebook reader,2016,26.6
+Ebook reader,2017,27.2
+Ebook reader,2018,27.5
+Electric Range,1933,5
+Electric Range,1950,14
+Electric Range,1960,30
+Electric Range,1970,40
+Electric Range,1975,45
+Electric Range,1980,50
+Electric Range,1985,53
+Electric Range,1986,57
 Electric power,1908,10
 Electric power,1909,10.67
 Electric power,1910,12.33
@@ -409,14 +433,13 @@ Electric power,2002,99
 Electric power,2003,99
 Electric power,2004,99
 Electric power,2005,99
-Electric Range,1933,5
-Electric Range,1950,14
-Electric Range,1960,30
-Electric Range,1970,40
-Electric Range,1975,45
-Electric Range,1980,50
-Electric Range,1985,53
-Electric Range,1986,57
+Electricity access,2011,100
+Electricity access,2012,100
+Electricity access,2013,100
+Electricity access,2014,100
+Electricity access,2015,100
+Electricity access,2016,100
+Electricity access,2017,100
 Electronic ignition,1962,0
 Electronic ignition,1977,2
 Electronic ignition,1978,5
@@ -582,6 +605,18 @@ Household refrigerator,2004,99
 Household refrigerator,2005,99
 Household refrigerator,2010,99.3
 Household refrigerator,2011,99.2
+Household refrigerator,2012,99
+Household refrigerator,2013,98.8
+Household refrigerator,2014,98.6
+Household refrigerator,2015,98.4
+Household refrigerator,2016,98.2
+Household refrigerator,2017,98
+Households with only mobile phones (no landlines),2013,40
+Households with only mobile phones (no landlines),2014,45.3
+Households with only mobile phones (no landlines),2015,50.6
+Households with only mobile phones (no landlines),2016,52.7
+Households with only mobile phones (no landlines),2017,54
+Households with only mobile phones (no landlines),2018,54.9
 Internet,1993,10
 Internet,1994,11
 Internet,1995,13
@@ -716,8 +751,12 @@ Landline,2009,83
 Landline,2010,75
 Landline,2011,70.5
 Landline,2012,75
-Landline,2013,66
-Landline,2014,65
+Landline,2013,58.7
+Landline,2014,57.3
+Landline,2015,54.7
+Landline,2016,50.7
+Landline,2017,46.7
+Landline,2018,41.7
 Microcomputer,1984,8.2
 Microcomputer,1985,10
 Microcomputer,1986,12
@@ -762,6 +801,12 @@ Microwave,2003,95.9
 Microwave,2005,96.4
 Microwave,2010,97.1
 Microwave,2011,96.8
+Microwave,2012,96
+Microwave,2013,95.2
+Microwave,2014,94.4
+Microwave,2015,93.6
+Microwave,2016,92.8
+Microwave,2017,92
 Nox pollution controls (boilers),1990,16
 Nox pollution controls (boilers),1991,20
 Nox pollution controls (boilers),1992,22
@@ -822,6 +867,42 @@ Power steering,1981,96
 Power steering,1982,95
 Power steering,1983,97
 Power steering,1984,100
+RTGS adoption,1970,0
+RTGS adoption,1971,0.57
+RTGS adoption,1972,0.57
+RTGS adoption,1973,0.57
+RTGS adoption,1974,0.57
+RTGS adoption,1975,0.57
+RTGS adoption,1976,0.57
+RTGS adoption,1977,0.57
+RTGS adoption,1978,0.57
+RTGS adoption,1979,0.57
+RTGS adoption,1980,0.57
+RTGS adoption,1981,1.14
+RTGS adoption,1982,1.14
+RTGS adoption,1983,1.14
+RTGS adoption,1984,1.14
+RTGS adoption,1985,1.71
+RTGS adoption,1986,2.29
+RTGS adoption,1987,3.43
+RTGS adoption,1988,4
+RTGS adoption,1989,4.57
+RTGS adoption,1990,4.57
+RTGS adoption,1991,5.14
+RTGS adoption,1992,6.29
+RTGS adoption,1993,6.86
+RTGS adoption,1994,7.43
+RTGS adoption,1995,9.14
+RTGS adoption,1996,12
+RTGS adoption,1997,16
+RTGS adoption,1998,20
+RTGS adoption,1999,22.86
+RTGS adoption,2000,26.86
+RTGS adoption,2001,30.29
+RTGS adoption,2002,38.86
+RTGS adoption,2003,42.29
+RTGS adoption,2004,47.43
+RTGS adoption,2005,52
 Radial tires,1972,0.5
 Radial tires,1973,4.5
 Radial tires,1974,16
@@ -969,42 +1050,6 @@ Refrigerator,1974,99.9
 Refrigerator,1975,99.9
 Refrigerator,1976,99.8
 Refrigerator,1978,99.7
-RTGS adoption,1970,0
-RTGS adoption,1971,0.57
-RTGS adoption,1972,0.57
-RTGS adoption,1973,0.57
-RTGS adoption,1974,0.57
-RTGS adoption,1975,0.57
-RTGS adoption,1976,0.57
-RTGS adoption,1977,0.57
-RTGS adoption,1978,0.57
-RTGS adoption,1979,0.57
-RTGS adoption,1980,0.57
-RTGS adoption,1981,1.14
-RTGS adoption,1982,1.14
-RTGS adoption,1983,1.14
-RTGS adoption,1984,1.14
-RTGS adoption,1985,1.71
-RTGS adoption,1986,2.29
-RTGS adoption,1987,3.43
-RTGS adoption,1988,4
-RTGS adoption,1989,4.57
-RTGS adoption,1990,4.57
-RTGS adoption,1991,5.14
-RTGS adoption,1992,6.29
-RTGS adoption,1993,6.86
-RTGS adoption,1994,7.43
-RTGS adoption,1995,9.14
-RTGS adoption,1996,12
-RTGS adoption,1997,16
-RTGS adoption,1998,20
-RTGS adoption,1999,22.86
-RTGS adoption,2000,26.86
-RTGS adoption,2001,30.29
-RTGS adoption,2002,38.86
-RTGS adoption,2003,42.29
-RTGS adoption,2004,47.43
-RTGS adoption,2005,52
 Running water,1890,24
 Running water,1940,70
 Running water,1950,83
@@ -1037,10 +1082,13 @@ Shipping container port infrastructure,1985,92
 Shipping container port infrastructure,1986,92
 Smartphone usage,2011,35
 Smartphone usage,2012,45
-Smartphone usage,2013,58
-Smartphone usage,2014,58
-Smartphone usage,2015,69
-Smartphone usage,2016,77
+Smartphone usage,2013,54
+Smartphone usage,2014,57
+Smartphone usage,2015,68
+Smartphone usage,2016,73
+Smartphone usage,2017,73
+Smartphone usage,2018,77
+Smartphone usage,2019,81
 Social media usage,2005,5
 Social media usage,2006,11
 Social media usage,2007,15
@@ -1053,6 +1101,9 @@ Social media usage,2013,63
 Social media usage,2014,62
 Social media usage,2015,65
 Social media usage,2016,69
+Social media usage,2017,80
+Social media usage,2018,77
+Social media usage,2019,79
 Stove,1900,10
 Stove,1901,10.5
 Stove,1902,11
@@ -1168,12 +1219,20 @@ Tablet,2013,34
 Tablet,2014,39
 Tablet,2015,45
 Tablet,2016,51
+Tablet,2017,64
 Television,1992,96.6
 Television,1998,98.4
 Television,2003,98.8
 Television,2005,98.9
 Television,2010,98.5
 Television,2011,98.3
+Television,2012,94.65
+Television,2013,93.25
+Television,2014,93.81
+Television,2015,93.43
+Television,2016,94.1
+Television,2017,94.76
+Television,2018,93.97
 Vacuum,1922,31.5
 Vacuum,1923,33.5
 Vacuum,1924,35.7
