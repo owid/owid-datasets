@@ -1,0 +1,45 @@
+{
+  "name": "Endangered Species - IUCN (2019)",
+  "title": "Endangered Species - IUCN (2019)",
+  "id": 4175,
+  "description": "",
+  "sources": [
+    {
+      "name": "Endangered Species - IUCN (2019)",
+      "link": "https://www.iucnredlist.org/resources/summary-statistics",
+      "retrievedDate": "29/07/2019"
+    }
+  ],
+  "owidTags": [
+    "Biodiversity"
+  ],
+  "resources": [
+    {
+      "path": "Endangered Species - IUCN (2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total assessed species",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Total threatened species",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
