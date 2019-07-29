@@ -43,7 +43,7 @@
           {
             "name": "Total described species",
             "type": "any",
-            "description": "Total described species is the number of distinct species identified by various scientific sources.\n\nThese figures should be used with extreme care as these are not the currently accepted totals for all taxonomic groups.",
+            "description": "Total described species is the number of distinct species identified by various scientific sources, which are shown here: https://nc.iucnredlist.org/redlist/content/attachment_files/2019_2_RL_Table_1a_v2.pdf. \n\nThese figures should be used with extreme care as these are not the currently accepted totals for all taxonomic groups.",
             "owidDisplaySettings": "{}"
           },
           {
