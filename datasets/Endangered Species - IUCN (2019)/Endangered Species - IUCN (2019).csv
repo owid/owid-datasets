@@ -1,487 +1,487 @@
-Entity,Year,Total assessed species,Total threatened species
-All species,2000,16507,11046
-All species,2002,16697,11167
-All species,2003,22424,12259
-All species,2004,38046,15503
-All species,2006,40174,16116
-All species,2007,41415,16306
-All species,2008,44838,16928
-All species,2009,47677,17291
-All species,2010,55926,18351
-All species,2011,61914,19570
-All species,2012,65518,20219
-All species,2013,71576,21286
-All species,2014,76199,22413
-All species,2015,79837,23250
-All species,2016,85604,24307
-All species,2017,91523,25821
-All species,2018,96951,26840
-All species,2019,105732,28338
-Amphibians,2000,231,146
-Amphibians,2002,263,157
-Amphibians,2003,401,157
-Amphibians,2004,5743,1770
-Amphibians,2006,5918,1811
-Amphibians,2007,5915,1808
-Amphibians,2008,6260,1905
-Amphibians,2009,6285,1895
-Amphibians,2010,6296,1898
-Amphibians,2011,6338,1917
-Amphibians,2012,6374,1933
-Amphibians,2013,6409,1950
-Amphibians,2014,6414,1957
-Amphibians,2015,6460,1994
-Amphibians,2016,6534,2068
-Amphibians,2017,6609,2100
-Amphibians,2018,6722,2092
-Amphibians,2019,6771,2157
-Arachnids,2000,18,10
-Arachnids,2002,18,10
-Arachnids,2003,18,10
-Arachnids,2004,18,10
-Arachnids,2006,18,10
-Arachnids,2007,18,10
-Arachnids,2008,32,18
-Arachnids,2009,32,18
-Arachnids,2010,33,19
-Arachnids,2011,33,19
-Arachnids,2012,34,20
-Arachnids,2013,35,21
-Arachnids,2014,209,163
-Arachnids,2015,210,164
-Arachnids,2016,212,166
-Arachnids,2017,249,170
-Arachnids,2018,324,182
-Arachnids,2019,325,183
-Birds,2000,2123,1183
-Birds,2002,2138,1192
-Birds,2003,2139,1194
-Birds,2004,9917,1213
-Birds,2006,9934,1206
-Birds,2007,9956,1217
-Birds,2008,9990,1222
-Birds,2009,9998,1223
-Birds,2010,10027,1240
-Birds,2011,10052,1253
-Birds,2012,10064,1313
-Birds,2013,10065,1308
-Birds,2014,10425,1373
-Birds,2015,10424,1375
-Birds,2016,11121,1460
-Birds,2017,11122,1469
-Birds,2018,11126,1492
-Birds,2019,11126,1492
-Brown algae,2000,0,0
-Brown algae,2002,0,0
-Brown algae,2003,0,0
-Brown algae,2004,0,0
-Brown algae,2006,0,0
-Brown algae,2007,15,6
-Brown algae,2008,15,6
-Brown algae,2009,15,6
-Brown algae,2010,15,6
-Brown algae,2011,15,6
-Brown algae,2012,15,6
-Brown algae,2013,15,6
-Brown algae,2014,15,6
-Brown algae,2015,15,6
-Brown algae,2016,15,6
-Brown algae,2017,15,6
-Brown algae,2018,15,6
-Brown algae,2019,15,6
-Corals,2000,2,1
-Corals,2002,2,1
-Corals,2003,2,1
-Corals,2004,2,1
-Corals,2006,2,1
-Corals,2007,13,5
-Corals,2008,856,235
-Corals,2009,856,235
-Corals,2010,856,235
-Corals,2011,856,235
-Corals,2012,858,236
-Corals,2013,856,235
-Corals,2014,856,235
-Corals,2015,862,237
-Corals,2016,862,237
-Corals,2017,864,237
-Corals,2018,864,237
-Corals,2019,864,237
-Crustaceans,2000,459,408
-Crustaceans,2002,459,409
-Crustaceans,2003,461,409
-Crustaceans,2004,498,429
-Crustaceans,2006,537,459
-Crustaceans,2007,553,460
-Crustaceans,2008,1735,606
-Crustaceans,2009,1735,606
-Crustaceans,2010,2152,596
-Crustaceans,2011,2399,596
-Crustaceans,2012,2399,596
-Crustaceans,2013,3163,723
-Crustaceans,2014,3164,725
-Crustaceans,2015,3168,728
-Crustaceans,2016,3177,732
-Crustaceans,2017,3177,732
-Crustaceans,2018,3180,733
-Crustaceans,2019,3181,733
-Ferns & allies,2000,0,0
-Ferns & allies,2002,0,0
-Ferns & allies,2003,180,111
-Ferns & allies,2004,210,140
-Ferns & allies,2006,212,139
-Ferns & allies,2007,211,139
-Ferns & allies,2008,211,139
-Ferns & allies,2009,211,139
-Ferns & allies,2010,243,148
-Ferns & allies,2011,310,163
-Ferns & allies,2012,311,167
-Ferns & allies,2013,342,187
-Ferns & allies,2014,360,194
-Ferns & allies,2015,365,197
-Ferns & allies,2016,417,217
-Ferns & allies,2017,479,246
-Ferns & allies,2018,558,249
-Ferns & allies,2019,593,252
-Fishes,2000,742,752
-Fishes,2002,750,1265
-Fishes,2003,800,1532
-Fishes,2004,1171,1721
-Fishes,2006,1201,2912
-Fishes,2007,1275,3119
-Fishes,2008,3481,1275
-Fishes,2009,4443,1414
-Fishes,2010,8848,1851
-Fishes,2011,9554,2028
-Fishes,2012,10590,2058
-Fishes,2013,11172,2110
-Fishes,2014,12457,2222
-Fishes,2015,14462,2271
-Fishes,2016,16134,2359
-Fishes,2017,16409,2386
-Fishes,2018,16803,2332
-Fishes,2019,18449,2494
-Flowering plants,2000,6688,5390
-Flowering plants,2002,6816,5492
-Flowering plants,2003,8526,6279
-Flowering plants,2004,10614,7796
-Flowering plants,2006,10688,7865
-Flowering plants,2007,10771,7899
-Flowering plants,2008,10779,7904
-Flowering plants,2009,10876,7948
-Flowering plants,2010,11584,8116
-Flowering plants,2011,12994,8527
-Flowering plants,2012,14178,8764
-Flowering plants,2013,16766,9394
-Flowering plants,2014,18195,9905
-Flowering plants,2015,19206,10551
-Flowering plants,2016,20652,10941
-Flowering plants,2017,22566,11773
-Flowering plants,2018,25771,12564
-Flowering plants,2019,31618,13536
-Fungi and protists,2000,0,0
-Fungi and protists,2002,0,0
-Fungi and protists,2003,2,2
-Fungi and protists,2004,2,2
-Fungi and protists,2006,3,3
-Fungi and protists,2007,18,9
-Fungi and protists,2008,18,9
-Fungi and protists,2009,18,9
-Fungi and protists,2010,18,9
-Fungi and protists,2011,18,9
-Fungi and protists,2012,18,9
-Fungi and protists,2013,18,9
-Fungi and protists,2014,20,11
-Fungi and protists,2015,49,35
-Fungi and protists,2016,48,34
-Fungi and protists,2017,71,49
-Fungi and protists,2018,81,59
-Fungi and protists,2019,160,110
-Green algae,2000,0,0
-Green algae,2002,0,0
-Green algae,2003,0,0
-Green algae,2004,0,0
-Green algae,2006,0,0
-Green algae,2007,2,0
-Green algae,2008,2,0
-Green algae,2009,2,0
-Green algae,2010,2,0
-Green algae,2011,13,0
-Green algae,2012,13,0
-Green algae,2013,13,0
-Green algae,2014,13,0
-Green algae,2015,13,0
-Green algae,2016,13,0
-Green algae,2017,13,0
-Green algae,2018,13,0
-Green algae,2019,13,0
-Gymnosperms,2000,251,141
-Gymnosperms,2002,251,142
-Gymnosperms,2003,907,304
-Gymnosperms,2004,907,305
-Gymnosperms,2006,908,306
-Gymnosperms,2007,909,321
-Gymnosperms,2008,910,323
-Gymnosperms,2009,909,322
-Gymnosperms,2010,926,371
-Gymnosperms,2011,1020,377
-Gymnosperms,2012,1012,374
-Gymnosperms,2013,1010,399
-Gymnosperms,2014,1010,400
-Gymnosperms,2015,1011,400
-Gymnosperms,2016,1011,400
-Gymnosperms,2017,1012,401
-Gymnosperms,2018,1012,401
-Gymnosperms,2019,1012,401
-Horseshoe crabs,2000,4,0
-Horseshoe crabs,2002,4,0
-Horseshoe crabs,2003,4,0
-Horseshoe crabs,2004,4,0
-Horseshoe crabs,2006,4,0
-Horseshoe crabs,2007,4,0
-Horseshoe crabs,2008,4,0
-Horseshoe crabs,2009,4,0
-Horseshoe crabs,2010,4,0
-Horseshoe crabs,2011,4,0
-Horseshoe crabs,2012,4,0
-Horseshoe crabs,2013,4,0
-Horseshoe crabs,2014,4,0
-Horseshoe crabs,2015,4,0
-Horseshoe crabs,2016,4,1
-Horseshoe crabs,2017,4,1
-Horseshoe crabs,2018,4,1
-Horseshoe crabs,2019,4,2
-Insects,2000,747,555
-Insects,2002,747,557
-Insects,2003,768,553
-Insects,2004,771,559
-Insects,2006,1192,623
-Insects,2007,1255,623
-Insects,2008,1259,626
-Insects,2009,2619,711
-Insects,2010,3269,733
-Insects,2011,3844,741
-Insects,2012,4003,829
-Insects,2013,4610,896
-Insects,2014,5304,993
-Insects,2015,5573,1046
-Insects,2016,6587,1268
-Insects,2017,7639,1414
-Insects,2018,8037,1537
-Insects,2019,8359,1597
-Invertebrates,2000,3277,1928
-Invertebrates,2002,3278,1932
-Invertebrates,2003,3382,1959
-Invertebrates,2004,3487,1992
-Invertebrates,2006,3978,2101
-Invertebrates,2007,4116,2108
-Invertebrates,2008,6161,2496
-Invertebrates,2009,7615,2639
-Invertebrates,2010,9526,2904
-Invertebrates,2011,12621,3297
-Invertebrates,2012,13542,3570
-Invertebrates,2013,15911,3822
-Invertebrates,2014,17218,4140
-Invertebrates,2015,17516,4201
-Invertebrates,2016,18609,4470
-Invertebrates,2017,21130,4893
-Invertebrates,2018,21886,5040
-Invertebrates,2019,22311,5138
-Lichens,2000,0,0
-Lichens,2002,0,0
-Lichens,2003,2,2
-Lichens,2004,2,2
-Lichens,2006,2,2
-Lichens,2007,2,2
-Lichens,2008,2,2
-Lichens,2009,2,2
-Lichens,2010,2,2
-Lichens,2011,2,2
-Lichens,2012,2,2
-Lichens,2013,2,2
-Lichens,2014,4,4
-Lichens,2015,9,7
-Lichens,2016,8,7
-Lichens,2017,13,10
-Lichens,2018,23,20
-Lichens,2019,23,20
-Mammals,2000,2133,1130
-Mammals,2002,2150,1137
-Mammals,2003,4789,1130
-Mammals,2004,4853,1101
-Mammals,2006,4864,1093
-Mammals,2007,4863,1094
-Mammals,2008,5488,1141
-Mammals,2009,5490,1142
-Mammals,2010,5491,1131
-Mammals,2011,5499,1138
-Mammals,2012,5501,1139
-Mammals,2013,5506,1143
-Mammals,2014,5513,1199
-Mammals,2015,5502,1197
-Mammals,2016,5567,1194
-Mammals,2017,5674,1204
-Mammals,2018,5692,1219
-Mammals,2019,5801,1220
-Molluscs,2000,2017,938
-Molluscs,2002,2018,939
-Molluscs,2003,2098,967
-Molluscs,2004,2163,974
-Molluscs,2006,2163,975
-Molluscs,2007,2212,978
-Molluscs,2008,2212,978
-Molluscs,2009,2306,1036
-Molluscs,2010,3149,1288
-Molluscs,2011,5422,1673
-Molluscs,2012,6183,1857
-Molluscs,2013,6809,1898
-Molluscs,2014,7217,1950
-Molluscs,2015,7216,1950
-Molluscs,2016,7276,1984
-Molluscs,2017,8413,2187
-Molluscs,2018,8627,2195
-Molluscs,2019,8728,2231
-Mosses,2000,83,80
-Mosses,2002,83,80
-Mosses,2003,93,80
-Mosses,2004,93,80
-Mosses,2006,93,80
-Mosses,2007,92,79
-Mosses,2008,95,82
-Mosses,2009,95,82
-Mosses,2010,101,80
-Mosses,2011,101,80
-Mosses,2012,102,76
-Mosses,2013,102,76
-Mosses,2014,102,76
-Mosses,2015,102,76
-Mosses,2016,102,76
-Mosses,2017,102,76
-Mosses,2018,102,76
-Mosses,2019,279,162
-Mushrooms,2000,0,0
-Mushrooms,2002,0,0
-Mushrooms,2003,0,0
-Mushrooms,2004,0,0
-Mushrooms,2006,1,1
-Mushrooms,2007,1,1
-Mushrooms,2008,1,1
-Mushrooms,2009,1,1
-Mushrooms,2010,1,1
-Mushrooms,2011,1,1
-Mushrooms,2012,1,1
-Mushrooms,2013,1,1
-Mushrooms,2014,1,1
-Mushrooms,2015,25,22
-Mushrooms,2016,25,21
-Mushrooms,2017,43,33
-Mushrooms,2018,43,33
-Mushrooms,2019,122,84
-Other inverebrates,2000,19,10
-Other inverebrates,2002,19,10
-Other inverebrates,2003,20,10
-Other inverebrates,2004,20,10
-Other inverebrates,2006,51,24
-Other inverebrates,2007,50,23
-Other inverebrates,2008,52,24
-Other inverebrates,2009,52,24
-Other inverebrates,2010,52,24
-Other inverebrates,2011,52,24
-Other inverebrates,2012,50,23
-Other inverebrates,2013,423,40
-Other inverebrates,2014,453,65
-Other inverebrates,2015,472,67
-Other inverebrates,2016,480,73
-Other inverebrates,2017,773,143
-Other inverebrates,2018,839,146
-Other inverebrates,2019,839,146
-Plants,2000,7022,5611
-Plants,2002,7150,5714
-Plants,2003,9706,6774
-Plants,2004,11824,8321
-Plants,2006,11901,8390
-Plants,2007,12043,8447
-Plants,2008,12055,8457
-Plants,2009,12151,8500
-Plants,2010,12914,8724
-Plants,2011,14496,9156
-Plants,2012,15674,9390
-Plants,2013,18291,10065
-Plants,2014,19738,10584
-Plants,2015,20755,11233
-Plants,2016,22253,11643
-Plants,2017,24230,12505
-Plants,2018,27514,13299
-Plants,2019,33573,14360
-Red algae,2000,0,0
-Red algae,2002,0,0
-Red algae,2003,0,0
-Red algae,2004,0,0
-Red algae,2006,0,0
-Red algae,2007,58,9
-Red algae,2008,58,9
-Red algae,2009,58,9
-Red algae,2010,58,9
-Red algae,2011,58,9
-Red algae,2012,58,9
-Red algae,2013,58,9
-Red algae,2014,58,9
-Red algae,2015,58,9
-Red algae,2016,58,9
-Red algae,2017,58,9
-Red algae,2018,58,9
-Red algae,2019,58,9
-Reptiles,2000,454,296
-Reptiles,2002,453,293
-Reptiles,2003,473,293
-Reptiles,2004,499,304
-Reptiles,2006,664,341
-Reptiles,2007,1385,422
-Reptiles,2008,1385,423
-Reptiles,2009,1677,469
-Reptiles,2010,2806,594
-Reptiles,2011,3336,772
-Reptiles,2012,3755,807
-Reptiles,2013,4204,879
-Reptiles,2014,4414,927
-Reptiles,2015,4669,944
-Reptiles,2016,5338,1079
-Reptiles,2017,6278,1215
-Reptiles,2018,7127,1307
-Reptiles,2019,7541,1367
-Velvet worms,2000,11,6
-Velvet worms,2002,11,6
-Velvet worms,2003,11,9
-Velvet worms,2004,11,9
-Velvet worms,2006,11,9
-Velvet worms,2007,11,9
-Velvet worms,2008,11,9
-Velvet worms,2009,11,9
-Velvet worms,2010,11,9
-Velvet worms,2011,11,9
-Velvet worms,2012,11,9
-Velvet worms,2013,11,9
-Velvet worms,2014,11,9
-Velvet worms,2015,11,9
-Velvet worms,2016,11,9
-Velvet worms,2017,11,9
-Velvet worms,2018,11,9
-Velvet worms,2019,11,9
-Vertebrates,2000,6208,3507
-Vertebrates,2002,6269,3521
-Vertebrates,2003,9334,3524
-Vertebrates,2004,22733,5188
-Vertebrates,2006,24292,5622
-Vertebrates,2007,25238,5742
-Vertebrates,2008,26604,5966
-Vertebrates,2009,27893,6143
-Vertebrates,2010,33468,6714
-Vertebrates,2011,34779,7108
-Vertebrates,2012,36284,7250
-Vertebrates,2013,37356,7390
-Vertebrates,2014,39223,7678
-Vertebrates,2015,41517,7781
-Vertebrates,2016,44694,8160
-Vertebrates,2017,46092,8374
-Vertebrates,2018,47470,8442
-Vertebrates,2019,49688,8730
+Entity,Year,Total assessed species,Total threatened species,Total described species,Estimated % threatened species
+All species,2000,16507,11046,,
+All species,2002,16697,11167,,
+All species,2003,22424,12259,,
+All species,2004,38046,15503,,
+All species,2006,40174,16116,,
+All species,2007,41415,16306,,
+All species,2008,44838,16928,,
+All species,2009,47677,17291,,
+All species,2010,55926,18351,,
+All species,2011,61914,19570,,
+All species,2012,65518,20219,,
+All species,2013,71576,21286,,
+All species,2014,76199,22413,,
+All species,2015,79837,23250,,
+All species,2016,85604,24307,,
+All species,2017,91523,25821,,
+All species,2018,96951,26840,,
+All species,2019,105732,28338,1733321,
+Amphibians,2000,231,146,,
+Amphibians,2002,263,157,,
+Amphibians,2003,401,157,,
+Amphibians,2004,5743,1770,,
+Amphibians,2006,5918,1811,,
+Amphibians,2007,5915,1808,,
+Amphibians,2008,6260,1905,,
+Amphibians,2009,6285,1895,,
+Amphibians,2010,6296,1898,,
+Amphibians,2011,6338,1917,,
+Amphibians,2012,6374,1933,,
+Amphibians,2013,6409,1950,,
+Amphibians,2014,6414,1957,,
+Amphibians,2015,6460,1994,,
+Amphibians,2016,6534,2068,,
+Amphibians,2017,6609,2100,,
+Amphibians,2018,6722,2092,,
+Amphibians,2019,6771,2157,8043,40
+Arachnids,2000,18,10,,
+Arachnids,2002,18,10,,
+Arachnids,2003,18,10,,
+Arachnids,2004,18,10,,
+Arachnids,2006,18,10,,
+Arachnids,2007,18,10,,
+Arachnids,2008,32,18,,
+Arachnids,2009,32,18,,
+Arachnids,2010,33,19,,
+Arachnids,2011,33,19,,
+Arachnids,2012,34,20,,
+Arachnids,2013,35,21,,
+Arachnids,2014,209,163,,
+Arachnids,2015,210,164,,
+Arachnids,2016,212,166,,
+Arachnids,2017,249,170,,
+Arachnids,2018,324,182,,
+Arachnids,2019,325,183,102248,
+Birds,2000,2123,1183,,
+Birds,2002,2138,1192,,
+Birds,2003,2139,1194,,
+Birds,2004,9917,1213,,
+Birds,2006,9934,1206,,
+Birds,2007,9956,1217,,
+Birds,2008,9990,1222,,
+Birds,2009,9998,1223,,
+Birds,2010,10027,1240,,
+Birds,2011,10052,1253,,
+Birds,2012,10064,1313,,
+Birds,2013,10065,1308,,
+Birds,2014,10425,1373,,
+Birds,2015,10424,1375,,
+Birds,2016,11121,1460,,
+Birds,2017,11122,1469,,
+Birds,2018,11126,1492,,
+Birds,2019,11126,1492,11126,14
+Brown algae,2000,0,0,,
+Brown algae,2002,0,0,,
+Brown algae,2003,0,0,,
+Brown algae,2004,0,0,,
+Brown algae,2006,0,0,,
+Brown algae,2007,15,6,,
+Brown algae,2008,15,6,,
+Brown algae,2009,15,6,,
+Brown algae,2010,15,6,,
+Brown algae,2011,15,6,,
+Brown algae,2012,15,6,,
+Brown algae,2013,15,6,,
+Brown algae,2014,15,6,,
+Brown algae,2015,15,6,,
+Brown algae,2016,15,6,,
+Brown algae,2017,15,6,,
+Brown algae,2018,15,6,,
+Brown algae,2019,15,6,3784,
+Corals,2000,2,1,,
+Corals,2002,2,1,,
+Corals,2003,2,1,,
+Corals,2004,2,1,,
+Corals,2006,2,1,,
+Corals,2007,13,5,,
+Corals,2008,856,235,,
+Corals,2009,856,235,,
+Corals,2010,856,235,,
+Corals,2011,856,235,,
+Corals,2012,858,236,,
+Corals,2013,856,235,,
+Corals,2014,856,235,,
+Corals,2015,862,237,,
+Corals,2016,862,237,,
+Corals,2017,864,237,,
+Corals,2018,864,237,,
+Corals,2019,864,237,2175,
+Crustaceans,2000,459,408,,
+Crustaceans,2002,459,409,,
+Crustaceans,2003,461,409,,
+Crustaceans,2004,498,429,,
+Crustaceans,2006,537,459,,
+Crustaceans,2007,553,460,,
+Crustaceans,2008,1735,606,,
+Crustaceans,2009,1735,606,,
+Crustaceans,2010,2152,596,,
+Crustaceans,2011,2399,596,,
+Crustaceans,2012,2399,596,,
+Crustaceans,2013,3163,723,,
+Crustaceans,2014,3164,725,,
+Crustaceans,2015,3168,728,,
+Crustaceans,2016,3177,732,,
+Crustaceans,2017,3177,732,,
+Crustaceans,2018,3180,733,,
+Crustaceans,2019,3181,733,47000,
+Ferns & allies,2000,0,0,,
+Ferns & allies,2002,0,0,,
+Ferns & allies,2003,180,111,,
+Ferns & allies,2004,210,140,,
+Ferns & allies,2006,212,139,,
+Ferns & allies,2007,211,139,,
+Ferns & allies,2008,211,139,,
+Ferns & allies,2009,211,139,,
+Ferns & allies,2010,243,148,,
+Ferns & allies,2011,310,163,,
+Ferns & allies,2012,311,167,,
+Ferns & allies,2013,342,187,,
+Ferns & allies,2014,360,194,,
+Ferns & allies,2015,365,197,,
+Ferns & allies,2016,417,217,,
+Ferns & allies,2017,479,246,,
+Ferns & allies,2018,558,249,,
+Ferns & allies,2019,593,252,12000,
+Fishes,2000,742,752,,
+Fishes,2002,750,1265,,
+Fishes,2003,800,1532,,
+Fishes,2004,1171,1721,,
+Fishes,2006,1201,2912,,
+Fishes,2007,1275,3119,,
+Fishes,2008,3481,1275,,
+Fishes,2009,4443,1414,,
+Fishes,2010,8848,1851,,
+Fishes,2011,9554,2028,,
+Fishes,2012,10590,2058,,
+Fishes,2013,11172,2110,,
+Fishes,2014,12457,2222,,
+Fishes,2015,14462,2271,,
+Fishes,2016,16134,2359,,
+Fishes,2017,16409,2386,,
+Fishes,2018,16803,2332,,
+Fishes,2019,18449,2494,34200,
+Flowering plants,2000,6688,5390,,
+Flowering plants,2002,6816,5492,,
+Flowering plants,2003,8526,6279,,
+Flowering plants,2004,10614,7796,,
+Flowering plants,2006,10688,7865,,
+Flowering plants,2007,10771,7899,,
+Flowering plants,2008,10779,7904,,
+Flowering plants,2009,10876,7948,,
+Flowering plants,2010,11584,8116,,
+Flowering plants,2011,12994,8527,,
+Flowering plants,2012,14178,8764,,
+Flowering plants,2013,16766,9394,,
+Flowering plants,2014,18195,9905,,
+Flowering plants,2015,19206,10551,,
+Flowering plants,2016,20652,10941,,
+Flowering plants,2017,22566,11773,,
+Flowering plants,2018,25771,12564,,
+Flowering plants,2019,31618,13536,268000,
+Fungi and protists,2000,0,0,,
+Fungi and protists,2002,0,0,,
+Fungi and protists,2003,2,2,,
+Fungi and protists,2004,2,2,,
+Fungi and protists,2006,3,3,,
+Fungi and protists,2007,18,9,,
+Fungi and protists,2008,18,9,,
+Fungi and protists,2009,18,9,,
+Fungi and protists,2010,18,9,,
+Fungi and protists,2011,18,9,,
+Fungi and protists,2012,18,9,,
+Fungi and protists,2013,18,9,,
+Fungi and protists,2014,20,11,,
+Fungi and protists,2015,49,35,,
+Fungi and protists,2016,48,34,,
+Fungi and protists,2017,71,49,,
+Fungi and protists,2018,81,59,,
+Fungi and protists,2019,160,110,52280,
+Green algae,2000,0,0,,
+Green algae,2002,0,0,,
+Green algae,2003,0,0,,
+Green algae,2004,0,0,,
+Green algae,2006,0,0,,
+Green algae,2007,2,0,,
+Green algae,2008,2,0,,
+Green algae,2009,2,0,,
+Green algae,2010,2,0,,
+Green algae,2011,13,0,,
+Green algae,2012,13,0,,
+Green algae,2013,13,0,,
+Green algae,2014,13,0,,
+Green algae,2015,13,0,,
+Green algae,2016,13,0,,
+Green algae,2017,13,0,,
+Green algae,2018,13,0,,
+Green algae,2019,13,0,6050,
+Gymnosperms,2000,251,141,,
+Gymnosperms,2002,251,142,,
+Gymnosperms,2003,907,304,,
+Gymnosperms,2004,907,305,,
+Gymnosperms,2006,908,306,,
+Gymnosperms,2007,909,321,,
+Gymnosperms,2008,910,323,,
+Gymnosperms,2009,909,322,,
+Gymnosperms,2010,926,371,,
+Gymnosperms,2011,1020,377,,
+Gymnosperms,2012,1012,374,,
+Gymnosperms,2013,1010,399,,
+Gymnosperms,2014,1010,400,,
+Gymnosperms,2015,1011,400,,
+Gymnosperms,2016,1011,400,,
+Gymnosperms,2017,1012,401,,
+Gymnosperms,2018,1012,401,,
+Gymnosperms,2019,1012,401,1113,40
+Horseshoe crabs,2000,4,0,,
+Horseshoe crabs,2002,4,0,,
+Horseshoe crabs,2003,4,0,,
+Horseshoe crabs,2004,4,0,,
+Horseshoe crabs,2006,4,0,,
+Horseshoe crabs,2007,4,0,,
+Horseshoe crabs,2008,4,0,,
+Horseshoe crabs,2009,4,0,,
+Horseshoe crabs,2010,4,0,,
+Horseshoe crabs,2011,4,0,,
+Horseshoe crabs,2012,4,0,,
+Horseshoe crabs,2013,4,0,,
+Horseshoe crabs,2014,4,0,,
+Horseshoe crabs,2015,4,0,,
+Horseshoe crabs,2016,4,1,,
+Horseshoe crabs,2017,4,1,,
+Horseshoe crabs,2018,4,1,,
+Horseshoe crabs,2019,4,2,4,100
+Insects,2000,747,555,,
+Insects,2002,747,557,,
+Insects,2003,768,553,,
+Insects,2004,771,559,,
+Insects,2006,1192,623,,
+Insects,2007,1255,623,,
+Insects,2008,1259,626,,
+Insects,2009,2619,711,,
+Insects,2010,3269,733,,
+Insects,2011,3844,741,,
+Insects,2012,4003,829,,
+Insects,2013,4610,896,,
+Insects,2014,5304,993,,
+Insects,2015,5573,1046,,
+Insects,2016,6587,1268,,
+Insects,2017,7639,1414,,
+Insects,2018,8037,1537,,
+Insects,2019,8359,1597,1000000,
+Invertebrates,2000,3277,1928,,
+Invertebrates,2002,3278,1932,,
+Invertebrates,2003,3382,1959,,
+Invertebrates,2004,3487,1992,,
+Invertebrates,2006,3978,2101,,
+Invertebrates,2007,4116,2108,,
+Invertebrates,2008,6161,2496,,
+Invertebrates,2009,7615,2639,,
+Invertebrates,2010,9526,2904,,
+Invertebrates,2011,12621,3297,,
+Invertebrates,2012,13542,3570,,
+Invertebrates,2013,15911,3822,,
+Invertebrates,2014,17218,4140,,
+Invertebrates,2015,17516,4201,,
+Invertebrates,2016,18609,4470,,
+Invertebrates,2017,21130,4893,,
+Invertebrates,2018,21886,5040,,
+Invertebrates,2019,22311,5138,1300575,
+Lichens,2000,0,0,,
+Lichens,2002,0,0,,
+Lichens,2003,2,2,,
+Lichens,2004,2,2,,
+Lichens,2006,2,2,,
+Lichens,2007,2,2,,
+Lichens,2008,2,2,,
+Lichens,2009,2,2,,
+Lichens,2010,2,2,,
+Lichens,2011,2,2,,
+Lichens,2012,2,2,,
+Lichens,2013,2,2,,
+Lichens,2014,4,4,,
+Lichens,2015,9,7,,
+Lichens,2016,8,7,,
+Lichens,2017,13,10,,
+Lichens,2018,23,20,,
+Lichens,2019,23,20,17000,
+Mammals,2000,2133,1130,,
+Mammals,2002,2150,1137,,
+Mammals,2003,4789,1130,,
+Mammals,2004,4853,1101,,
+Mammals,2006,4864,1093,,
+Mammals,2007,4863,1094,,
+Mammals,2008,5488,1141,,
+Mammals,2009,5490,1142,,
+Mammals,2010,5491,1131,,
+Mammals,2011,5499,1138,,
+Mammals,2012,5501,1139,,
+Mammals,2013,5506,1143,,
+Mammals,2014,5513,1199,,
+Mammals,2015,5502,1197,,
+Mammals,2016,5567,1194,,
+Mammals,2017,5674,1204,,
+Mammals,2018,5692,1219,,
+Mammals,2019,5801,1220,5801,25
+Molluscs,2000,2017,938,,
+Molluscs,2002,2018,939,,
+Molluscs,2003,2098,967,,
+Molluscs,2004,2163,974,,
+Molluscs,2006,2163,975,,
+Molluscs,2007,2212,978,,
+Molluscs,2008,2212,978,,
+Molluscs,2009,2306,1036,,
+Molluscs,2010,3149,1288,,
+Molluscs,2011,5422,1673,,
+Molluscs,2012,6183,1857,,
+Molluscs,2013,6809,1898,,
+Molluscs,2014,7217,1950,,
+Molluscs,2015,7216,1950,,
+Molluscs,2016,7276,1984,,
+Molluscs,2017,8413,2187,,
+Molluscs,2018,8627,2195,,
+Molluscs,2019,8728,2231,80325,
+Mosses,2000,83,80,,
+Mosses,2002,83,80,,
+Mosses,2003,93,80,,
+Mosses,2004,93,80,,
+Mosses,2006,93,80,,
+Mosses,2007,92,79,,
+Mosses,2008,95,82,,
+Mosses,2009,95,82,,
+Mosses,2010,101,80,,
+Mosses,2011,101,80,,
+Mosses,2012,102,76,,
+Mosses,2013,102,76,,
+Mosses,2014,102,76,,
+Mosses,2015,102,76,,
+Mosses,2016,102,76,,
+Mosses,2017,102,76,,
+Mosses,2018,102,76,,
+Mosses,2019,279,162,16236,
+Mushrooms,2000,0,0,,
+Mushrooms,2002,0,0,,
+Mushrooms,2003,0,0,,
+Mushrooms,2004,0,0,,
+Mushrooms,2006,1,1,,
+Mushrooms,2007,1,1,,
+Mushrooms,2008,1,1,,
+Mushrooms,2009,1,1,,
+Mushrooms,2010,1,1,,
+Mushrooms,2011,1,1,,
+Mushrooms,2012,1,1,,
+Mushrooms,2013,1,1,,
+Mushrooms,2014,1,1,,
+Mushrooms,2015,25,22,,
+Mushrooms,2016,25,21,,
+Mushrooms,2017,43,33,,
+Mushrooms,2018,43,33,,
+Mushrooms,2019,122,84,31496,
+Other inverebrates,2000,19,10,,
+Other inverebrates,2002,19,10,,
+Other inverebrates,2003,20,10,,
+Other inverebrates,2004,20,10,,
+Other inverebrates,2006,51,24,,
+Other inverebrates,2007,50,23,,
+Other inverebrates,2008,52,24,,
+Other inverebrates,2009,52,24,,
+Other inverebrates,2010,52,24,,
+Other inverebrates,2011,52,24,,
+Other inverebrates,2012,50,23,,
+Other inverebrates,2013,423,40,,
+Other inverebrates,2014,453,65,,
+Other inverebrates,2015,472,67,,
+Other inverebrates,2016,480,73,,
+Other inverebrates,2017,773,143,,
+Other inverebrates,2018,839,146,,
+Other inverebrates,2019,839,146,68658,
+Plants,2000,7022,5611,,
+Plants,2002,7150,5714,,
+Plants,2003,9706,6774,,
+Plants,2004,11824,8321,,
+Plants,2006,11901,8390,,
+Plants,2007,12043,8447,,
+Plants,2008,12055,8457,,
+Plants,2009,12151,8500,,
+Plants,2010,12914,8724,,
+Plants,2011,14496,9156,,
+Plants,2012,15674,9390,,
+Plants,2013,18291,10065,,
+Plants,2014,19738,10584,,
+Plants,2015,20755,11233,,
+Plants,2016,22253,11643,,
+Plants,2017,24230,12505,,
+Plants,2018,27514,13299,,
+Plants,2019,33573,14360,310503,
+Red algae,2000,0,0,,
+Red algae,2002,0,0,,
+Red algae,2003,0,0,,
+Red algae,2004,0,0,,
+Red algae,2006,0,0,,
+Red algae,2007,58,9,,
+Red algae,2008,58,9,,
+Red algae,2009,58,9,,
+Red algae,2010,58,9,,
+Red algae,2011,58,9,,
+Red algae,2012,58,9,,
+Red algae,2013,58,9,,
+Red algae,2014,58,9,,
+Red algae,2015,58,9,,
+Red algae,2016,58,9,,
+Red algae,2017,58,9,,
+Red algae,2018,58,9,,
+Red algae,2019,58,9,7104,
+Reptiles,2000,454,296,,
+Reptiles,2002,453,293,,
+Reptiles,2003,473,293,,
+Reptiles,2004,499,304,,
+Reptiles,2006,664,341,,
+Reptiles,2007,1385,422,,
+Reptiles,2008,1385,423,,
+Reptiles,2009,1677,469,,
+Reptiles,2010,2806,594,,
+Reptiles,2011,3336,772,,
+Reptiles,2012,3755,807,,
+Reptiles,2013,4204,879,,
+Reptiles,2014,4414,927,,
+Reptiles,2015,4669,944,,
+Reptiles,2016,5338,1079,,
+Reptiles,2017,6278,1215,,
+Reptiles,2018,7127,1307,,
+Reptiles,2019,7541,1367,10793,
+Velvet worms,2000,11,6,,
+Velvet worms,2002,11,6,,
+Velvet worms,2003,11,9,,
+Velvet worms,2004,11,9,,
+Velvet worms,2006,11,9,,
+Velvet worms,2007,11,9,,
+Velvet worms,2008,11,9,,
+Velvet worms,2009,11,9,,
+Velvet worms,2010,11,9,,
+Velvet worms,2011,11,9,,
+Velvet worms,2012,11,9,,
+Velvet worms,2013,11,9,,
+Velvet worms,2014,11,9,,
+Velvet worms,2015,11,9,,
+Velvet worms,2016,11,9,,
+Velvet worms,2017,11,9,,
+Velvet worms,2018,11,9,,
+Velvet worms,2019,11,9,165,
+Vertebrates,2000,6208,3507,,
+Vertebrates,2002,6269,3521,,
+Vertebrates,2003,9334,3524,,
+Vertebrates,2004,22733,5188,,
+Vertebrates,2006,24292,5622,,
+Vertebrates,2007,25238,5742,,
+Vertebrates,2008,26604,5966,,
+Vertebrates,2009,27893,6143,,
+Vertebrates,2010,33468,6714,,
+Vertebrates,2011,34779,7108,,
+Vertebrates,2012,36284,7250,,
+Vertebrates,2013,37356,7390,,
+Vertebrates,2014,39223,7678,,
+Vertebrates,2015,41517,7781,,
+Vertebrates,2016,44694,8160,,
+Vertebrates,2017,46092,8374,,
+Vertebrates,2018,47470,8442,,
+Vertebrates,2019,49688,8730,69963,
