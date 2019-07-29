@@ -1,6 +1,6 @@
 # Endangered Species - IUCN (2019)
 
-This dataset presents figures on the numbers of described species, assessed species, and threatened species, and the best estimated percentage of threatened species, by major groups of organisms (2000–2019), according to the IUCN Red List.
+This dataset presents figures on the numbers of described species, assessed species, and threatened species, and the best estimate of the percentage of threatened species, by major groups of organisms (2000–2019), according to the IUCN Red List.
 
 Total described species is the number of distinct species identified by various scientific sources, which are shown here: https://nc.iucnredlist.org/redlist/content/attachment_files/2019_2_RL_Table_1a_v2.pdf. These figures should be used with extreme care as these are not the currently accepted totals for all taxonomic groups.
 
