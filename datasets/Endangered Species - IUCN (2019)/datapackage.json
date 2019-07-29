@@ -2,12 +2,14 @@
   "name": "Endangered Species - IUCN (2019)",
   "title": "Endangered Species - IUCN (2019)",
   "id": 4175,
-  "description": "",
+  "description": "Numbers of described species, assessed species, and threatened species by major groups of organisms (2000–2019), according to the IUCN Red List.\n\n",
   "sources": [
     {
-      "name": "Endangered Species - IUCN (2019)",
+      "name": "IUCN, Red List (2019)",
       "link": "https://www.iucnredlist.org/resources/summary-statistics",
-      "retrievedDate": "29/07/2019"
+      "retrievedDate": "29/07/2019",
+      "dataPublishedBy": "International Union for Conservation of Nature's Red List of Threatened Species (IUCN)",
+      "additionalInfo": "Numbers of described species, assessed species, and threatened species by major groups of organisms (2000–2019), according to the IUCN Red List.\n\n"
     }
   ],
   "owidTags": [
