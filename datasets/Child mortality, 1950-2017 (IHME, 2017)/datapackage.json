@@ -1,0 +1,41 @@
+{
+  "name": "Child mortality, 1950-2017 (IHME, 2017)",
+  "title": "Child mortality, 1950-2017 (IHME, 2017)",
+  "id": 4123,
+  "description": "Child mortality is the share of newborns who die before reaching the age of five.\n\nThis data is available from 1950 to 2017 in 5-year intervals from the Institute of Health Metrics and Evaluation (IHME) Global Burden of Disease study, available at: http://ghdx.healthdata.org/record/ihme-data/gbd-2017-all-cause-mortality-and-life-expectancy-1950-2017",
+  "sources": [
+    {
+      "name": "Child mortality 1950-2017 (IHME, 2017)",
+      "dataPublishedBy": " Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2017 (GBD 2017) All-cause Mortality and Life Expectancy 1950-2017. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.",
+      "link": "http://ghdx.healthdata.org/record/ihme-data/gbd-2017-all-cause-mortality-and-life-expectancy-1950-2017",
+      "retrievedDate": "14th June 2019",
+      "additionalInfo": "Child mortality is the share of newborns who die before reaching the age of five.\n\nThis data is available from 1950 to 2017 in 5-year intervals from the Institute of Health Metrics and Evaluation (IHME) Global Burden of Disease study, available at: http://ghdx.healthdata.org/record/ihme-data/gbd-2017-all-cause-mortality-and-life-expectancy-1950-2017"
+    }
+  ],
+  "owidTags": [
+    "Child Mortality"
+  ],
+  "resources": [
+    {
+      "path": "Child mortality, 1950-2017 (IHME, 2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Child mortality 1950-2017 (IHME, 2018)",
+            "type": "any",
+            "description": "Child mortality is the share of newborns who die before reaching the age of five. ",
+            "owidDisplaySettings": "{\"name\": \"Child mortality\", \"unit\": \"%\", \"shortUnit\": \"%\", \"conversionFactor\": 0.1}"
+          }
+        ]
+      }
+    }
+  ]
+}
