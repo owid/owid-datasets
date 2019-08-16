@@ -31,44 +31,44 @@
           {
             "name": "Sumatran Rhino population (AfRSG & other sources, 2019)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Number of Sumatran Rhinos.",
+            "owidDisplaySettings": "{\"name\": \"Sumatran Rhino\", \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Indian Rhino population (AfRSG & other sources, 2019)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Number of Indian (Greater One-Horned) Rhinos.",
+            "owidDisplaySettings": "{\"name\": \"Indian Rhino\", \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Javan Rhino population (AfRSG & other sources, 2019)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Number of Javan Rhinos.",
+            "owidDisplaySettings": "{\"name\": \"Javan Rhino\", \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Southern White Rhino population (AfRSG & other sources, 2019)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Number of Southern White Rhinos.",
+            "owidDisplaySettings": "{\"name\": \"Southern White Rhino\", \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Northern White Rhino population (AfRSG & other sources, 2019)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Number of Northern White Rhinos.",
+            "owidDisplaySettings": "{\"name\": \"Northern White Rhino\", \"numDecimalPlaces\": 0}"
           },
           {
             "name": "White Rhino population (AfRSG & other sources, 2019)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Number of White (Northern plus Southern) Rhinos.",
+            "owidDisplaySettings": "{\"name\": \"White Rhino\", \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Black Rhino population (AfRSG & other sources, 2019)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Number of Black Rhinos.",
+            "owidDisplaySettings": "{\"name\": \"Black Rhino\", \"numDecimalPlaces\": 0}"
           }
         ]
       }
