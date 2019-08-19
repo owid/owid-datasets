@@ -31,20 +31,20 @@
           {
             "name": "African Elephant population (AfESG, 2019)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Estimated population of African Elephants.",
+            "owidDisplaySettings": "{\"name\": \"Number of African elephants\", \"unit\": \"elephants\", \"numDecimalPlaces\": 0}"
           },
           {
             "name": "African elephant carcass ratio (AfESG, 2019)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Carcass ratio is the number of dead elephants observed during survey counts as a percentage of the total number. A carcass ratio greater than 8% provides a strong indication that populations are declining.",
+            "owidDisplaySettings": "{\"name\": \"African elephant carcass ratio\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "Asian elephant population (AsESG, 2019)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Estimated population of Asian Elephants.",
+            "owidDisplaySettings": "{\"name\": \"Number of Asian elephants\", \"unit\": \"elephants\"}"
           }
         ]
       }
