@@ -1,0 +1,42 @@
+{
+  "name": "Whale populations (Pershing et al. 2010)",
+  "title": "Whale populations (Pershing et al. 2010)",
+  "id": 4194,
+  "description": "Estimates of whale populations pre-whaling and in 2001 were published by Pershing et al. (2010), and originally sourced from Christensen (2006). See full references below.\n\nThe dates of pre-whaling differs depending on the whale species and oceanic region. This ranges from as far back as 1530 for Right whales. The most common 'pre-whaling' date in the original source was in the late 19th and early 20th century. Here we have coded all pre-whaling dates as 1890 for consistency, but it should be noted that this date varies by species. The latest date – 2001 – is consistent across species.\n\nAll estimates are of the global total.",
+  "sources": [
+    {
+      "name": "Whale populations (Pershing et al. 2010)",
+      "dataPublishedBy": "Pershing, A. J., Christensen, L. B., Record, N. R., Sherwood, G. D., & Stetson, P. B. (2010). The impact of whaling on the ocean carbon cycle: why bigger was better. PloS One, 5(8), e12444.",
+      "dataPublisherSource": "Christensen, L. B. (2006). Marine mammal populations: reconstructing historical abundances at the global scale.",
+      "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0012444",
+      "retrievedDate": "28th August 2019",
+      "additionalInfo": "Estimates of whale populations pre-whaling and in 2001 were published by Pershing et al. (2010), and originally sourced from Christensen (2006). See full references below.\n\nThe dates of pre-whaling differs depending on the whale species and oceanic region. This ranges from as far back as 1530 for Right whales. The most common 'pre-whaling' date in the original source was in the late 19th and early 20th century. Here we have coded all pre-whaling dates as 1890 for consistency, but it should be noted that this date varies by species. The latest date – 2001 – is consistent across species.\n\nAll estimates are of the global total."
+    }
+  ],
+  "owidTags": [
+    "Biodiversity"
+  ],
+  "resources": [
+    {
+      "path": "Whale populations (Pershing et al. 2010).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Whale populations (Pershing et al. 2010)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
