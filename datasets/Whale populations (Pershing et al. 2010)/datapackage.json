@@ -32,8 +32,8 @@
           {
             "name": "Whale populations (Pershing et al. 2010)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Estimated whale population in the pre-whaling period, and in 2001.",
+            "owidDisplaySettings": "{\"name\": \"Whale population\", \"unit\": \"whales\", \"numDecimalPlaces\": 0}"
           }
         ]
       }
