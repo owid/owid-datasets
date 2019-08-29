@@ -1,0 +1,48 @@
+{
+  "name": "Use of different social media sites by demographic groups",
+  "title": "Use of different social media sites by demographic groups",
+  "id": 4195,
+  "description": "",
+  "sources": [
+    {
+      "name": "Pew Research Center (2019)",
+      "dataPublishedBy": "Pew Research Center",
+      "dataPublisherSource": "Survey conducted Jan. 8 - Feb. 7, 2019",
+      "link": "https://www.pewresearch.org/fact-tank/2018/12/10/social-media-outpaces-print-newspapers-in-the-u-s-as-a-news-source/",
+      "retrievedDate": "29 August 2019"
+    }
+  ],
+  "owidTags": [
+    "Internet",
+    "Social Media"
+  ],
+  "resources": [
+    {
+      "path": "Use of different social media sites by demographic groups.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Social media use among men in the US (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
+          },
+          {
+            "name": "Social media use among women in the US (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"numDecimalPlaces\": 1}"
+          }
+        ]
+      }
+    }
+  ]
+}
