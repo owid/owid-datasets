@@ -1,4 +1,4 @@
-# Children that survived past their 5 years of age per woman - Gapminder (2017)
+# Children that survived past 5 years of age per woman - Gapminder (2017)
 
 The number of children that survived past 5 years of age per women is calculated by multiplying the child survival rate by the fertility rate of a country for a given year.
 
