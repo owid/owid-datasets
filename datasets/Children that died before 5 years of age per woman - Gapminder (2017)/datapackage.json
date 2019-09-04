@@ -33,7 +33,7 @@
             "name": "Children that died before 5 years of age per woman (based on Gapminder (2017))",
             "type": "any",
             "description": "The number of children that died before 5 years of age per women is calculated by multiplying the child mortality by the fertility rate of a country for a given year.",
-            "owidDisplaySettings": "{\"unit\": \"people\"}"
+            "owidDisplaySettings": "{\"name\": \"Children that died before 5 years of age per woman\", \"unit\": \"people\"}"
           }
         ]
       }
