@@ -1,0 +1,41 @@
+{
+  "name": "Children that died before 5 years of age per woman - based on Gapminder (2017)",
+  "title": "Children that died before 5 years of age per woman - based on Gapminder (2017)",
+  "id": 4200,
+  "description": "Child mortality is the probability that a child born in a specific year will die before reaching the age of five, if subject to current age-specific mortality rates.\n\nChild mortality was multiplied by fertility to obtain the data on how many children died on average per woman.",
+  "sources": [
+    {
+      "name": "Children that died before 5 years of age per woman - based on Gapminder (2017)",
+      "additionalInfo": "Child mortality is the probability that a child born in a specific year will die before reaching the age of five, if subject to current age-specific mortality rates.\n\nChild mortality was multiplied by fertility to obtain the data on how many children died on average per woman.",
+      "retrievedDate": "4/9/2019",
+      "dataPublishedBy": "OWID",
+      "dataPublisherSource": "Child Mortality (Select Gapminder, v10) (2017), Fertility Rate (Select Gapminder, v12) (2017)"
+    }
+  ],
+  "owidTags": [
+    "Child Mortality"
+  ],
+  "resources": [
+    {
+      "path": "Children that died before 5 years of age per woman - based on Gapminder (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Children that died before 5 years of age per woman (based on Gapminder (2017))",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
