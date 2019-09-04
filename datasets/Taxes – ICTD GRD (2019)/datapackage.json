@@ -1,6 +1,6 @@
 {
-  "name": "Taxes – ICTD GRD (2018)",
-  "title": "Taxes – ICTD GRD (2018)",
+  "name": "Taxes – ICTD GRD (2019)",
+  "title": "Taxes – ICTD GRD (2019)",
   "id": 301,
   "description": "This data comes from the 'merged' dataset provided by ICTD, after excluding observations flagged as unreliable. Specifically, we excluded the observations where the ICTD indicated concerns about their quality, accuracy or comparability. Details regarding these flags, as well as the dataset more generally, are available Prichard, W. (2016). Reassessing Tax and Development Research: A New Dataset, New Findings, and Lessons for Research. World Development, 80, 48-60.\n\nThe September 2018 release differs from the previous release with added VAT, inclusion of new data, and extensive revisions throughout the dataset. For more details on the Government Revenue Dataset see its <a href=\"https://www.wider.unu.edu/about-grd\">update history</a>. ",
   "sources": [
@@ -18,7 +18,7 @@
   ],
   "resources": [
     {
-      "path": "Taxes – ICTD GRD (2018).csv",
+      "path": "Taxes – ICTD GRD (2019).csv",
       "schema": {
         "fields": [
           {
@@ -30,37 +30,37 @@
             "type": "year"
           },
           {
-            "name": "Total tax revenue (% of GDP) (ICTD (2017))",
+            "name": "Total tax revenue (% of GDP) (ICTD (2018))",
             "type": "any",
             "description": "Total tax revenue, including social contributions as a share of national GDP.",
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "Total taxes on goods and services (% of GDP) (ICTD (2017))",
+            "name": "Total taxes on goods and services (% of GDP) (ICTD (2018))",
             "type": "any",
             "description": "Total taxes on goods and services, which includes (but is not necessarily always equal to) sales taxes and excise taxes as a share of national GDP.",
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "Total taxes on income, profits, and capital gains (% of GDP) (ICTD (2017))",
+            "name": "Total taxes on income, profits, and capital gains (% of GDP) (ICTD (2018))",
             "type": "any",
             "description": "Total taxes on income, profits, and capital gains, including taxes on natural resource firms as a share of national GDP. This figure is always exclusive of social contributions.",
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "Total taxes on payroll and workforce (% of GDP) (ICTD (2017))",
+            "name": "Total taxes on payroll and workforce (% of GDP) (ICTD (2018))",
             "type": "any",
             "description": "Total taxes on payroll and workforce as a share of national GDP. This variable is entirely distinct from social contributions, though in underlying sources social contributions are very occasionally reported as payroll taxes.",
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "Other taxes (% of GDP) (ICTD (2017))",
+            "name": "Other taxes (% of GDP) (ICTD (2018))",
             "type": "any",
             "description": "Total other taxes, not recorded in other tax categories, as a share of national GDP.",
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "Social contributions (% of GDP) (ICTD (2017))",
+            "name": "Social contributions (% of GDP) (ICTD (2018))",
             "type": "any",
             "description": "Total social contributions as a share of national GDP.",
             "owidDisplaySettings": "{}"
