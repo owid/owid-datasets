@@ -2,12 +2,12 @@
   "name": "Conflict deaths – UCDP Georeferenced Event Data (2019)",
   "title": "Conflict deaths – UCDP Georeferenced Event Data (2019)",
   "id": 4176,
-  "description": "UCDP (GED) v19.1 provides estimates for direct conflict deaths (i.e. excluding indirect deaths from disease, malnutrition, exposure etc.) of both civilians and military personnel occurring in individual geo-referenced events. Taking the 'best' deaths estimates, we have aggregated these to country-year observations.\n\nUCDP documentation makes it clear that the dataset is intended to have global coverage since 1989, except for the case of Syria since 2011. As such, any country-year in which no events are recorded in the data were attributed zero deaths, except for Syria in this period.\n\nDeath rates are calculated using UN population figures.",
+  "description": "UCDP (GED) v19.1 provides estimates for direct conflict deaths (i.e. excluding indirect deaths from disease, malnutrition, exposure etc.) of both civilians and military personnel occurring in individual geo-referenced events. Taking the 'best' deaths estimates, we have aggregated these to country-year observations.\n\nUCDP documentation makes it clear that the dataset is intended to have global coverage since 1989, except for the case of Syria. As such, any country-year (as defined by the Gleditsch and Ward system of states) in which no events are recorded in the data were attributed zero deaths, except for Syria in this period.\n\nThe World total figures are not an aggregation of the GED dataset (given the lack of coverage just mentioned). Instead it combines the three non-georeferenced datasets UCDP provides, covering three kinds of violence: One-sided violence, Non-state conflicts and State-based conflicts.\n\nDeath rates are calculated using UN population figures.",
   "sources": [
     {
-      "name": "UCDP Georeferenced Event Data v19.1",
+      "name": "Our World in Data based on UCDP GED, One-sided, Non-state and Battle-related datasets (v19.1)",
       "dataPublishedBy": "Sundberg, Ralph, and Erik Melander, 2013, “Introducing the UCDP Georeferenced Event Dataset”, Journal of Peace Research, vol.50, no.4, 523-532",
-      "additionalInfo": "UCDP (GED) v19.1 provides estimates for direct conflict deaths (i.e. excluding indirect deaths from disease, malnutrition, exposure etc.) of both civilians and military personnel occurring in individual geo-referenced events. Taking the 'best' deaths estimates, we have aggregated these to country-year observations.\n\nUCDP documentation makes it clear that the dataset is intended to have global coverage since 1989, except for the case of Syria since 2011. As such, any country-year in which no events are recorded in the data were attributed zero deaths, except for Syria in this period.\n\nDeath rates are calculated using UN population figures.",
+      "additionalInfo": "UCDP (GED) v19.1 provides estimates for direct conflict deaths (i.e. excluding indirect deaths from disease, malnutrition, exposure etc.) of both civilians and military personnel occurring in individual geo-referenced events. Taking the 'best' deaths estimates, we have aggregated these to country-year observations.\n\nUCDP documentation makes it clear that the dataset is intended to have global coverage since 1989, except for the case of Syria. As such, any country-year (as defined by the Gleditsch and Ward system of states) in which no events are recorded in the data were attributed zero deaths, except for Syria in this period.\n\nThe World total figures are not an aggregation of the GED dataset (given the lack of coverage just mentioned). Instead it combines the three non-georeferenced datasets UCDP provides, covering three kinds of violence: One-sided violence, Non-state conflicts and State-based conflicts.\n\nDeath rates are calculated using UN population figures.",
       "link": "https://ucdp.uu.se/downloads/",
       "retrievedDate": "02/06/2019"
     }
@@ -30,16 +30,16 @@
             "type": "year"
           },
           {
-            "name": "Conflict Deaths",
+            "name": "Direct conflict deaths",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Direct conflict deaths (i.e. excluding indirect deaths from disease, malnutrition, exposure etc.) of both civilians and military personnel occurring within the territory of the country.",
+            "owidDisplaySettings": "{\"name\": \"Direct conflict deaths\"}"
           },
           {
-            "name": "Conflict Deaths per 100,000",
+            "name": "Direct conflict death rate",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Direct conflict deaths (i.e. excluding indirect deaths from disease, malnutrition, exposure etc.) of both civilians and military personnel occurring within the territory of the country, per 100,000 of population.",
+            "owidDisplaySettings": "{\"name\": \"Direct conflict death date\", \"unit\": \"Deaths per 100,000\"}"
           }
         ]
       }
