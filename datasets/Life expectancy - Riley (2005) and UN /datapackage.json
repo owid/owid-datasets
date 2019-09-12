@@ -1,0 +1,41 @@
+{
+  "name": "Life expectancy - Riley (2005) and UN ",
+  "title": "Life expectancy - Riley (2005) and UN ",
+  "id": 4210,
+  "description": "Data was compiled by Our World in Data based on estimates by James C. Riley (pre-1950) and the United Nations Population Division (post-1950).\n\nFrom 1770-1949, we use data from a study by James C. Riley, in which he estimated the average regional and global life expectancy from 1800 to 2001, by drawing from over 700 sources (which are listed here: https://www.lifetable.de/RileyBib.pdf).\n\nRiley also estimated life expectancy before 1800, which he calls \"the pre-health transition period\".\n\"Health transitions began in different countries in different periods, as early as the 1770s in Denmark and as late as the 1970s in some countries of sub-Saharan Africa\". As such, for the sake of consistency, we have assigned the period before the health transition to the year 1770. \"The life expectancy values employed are averages of estimates for the period before the beginning of the transitions for countries within that region. ... This period has presumably the weakest basis, the largest margin of error, and the simplest method of deriving an estimate.\"\n\nFor 1950-2015, we use data published by the United Nations Population Division, since they are updated every year. This is possible because Riley writes that \"for 1950-2001, I have drawn life expectancy estimates chiefly from various sources provided by the United Nations, the World Bank’s World Development Indicators, and the Human Mortality Database\". \n\nFor the Americas from 1950-2015, we took the population-weighted average of North America and Latin America and the Caribbean, using UN Population Division estimates of population size.",
+  "sources": [
+    {
+      "name": "Riley (2005) and UN, Population Division (2019)",
+      "dataPublishedBy": "James C. Riley (2005) – Estimates of Regional and Global Life Expectancy, 1800–2001. Issue Population and Development Review. Population and Development Review. Volume 31, Issue 3, pages 537–543, September 2005. and UN Population Division (2019)",
+      "link": "http://onlinelibrary.wiley.com/doi/10.1111/j.1728-4457.2005.00083.x/epdf, https://www.lifetable.de/RileyBib.pdf, https://population.un.org/wpp/Download/Standard/Population/",
+      "additionalInfo": "Data was compiled by Our World in Data based on estimates by James C. Riley (pre-1950) and the United Nations Population Division (post-1950).\n\nFrom 1770-1949, we use data from a study by James C. Riley, in which he estimated the average regional and global life expectancy from 1800 to 2001, by drawing from over 700 sources (which are listed here: https://www.lifetable.de/RileyBib.pdf).\n\nRiley also estimated life expectancy before 1800, which he calls \"the pre-health transition period\".\n\"Health transitions began in different countries in different periods, as early as the 1770s in Denmark and as late as the 1970s in some countries of sub-Saharan Africa\". As such, for the sake of consistency, we have assigned the period before the health transition to the year 1770. \"The life expectancy values employed are averages of estimates for the period before the beginning of the transitions for countries within that region. ... This period has presumably the weakest basis, the largest margin of error, and the simplest method of deriving an estimate.\"\n\nFor 1950-2015, we use data published by the United Nations Population Division, since they are updated every year. This is possible because Riley writes that \"for 1950-2001, I have drawn life expectancy estimates chiefly from various sources provided by the United Nations, the World Bank’s World Development Indicators, and the Human Mortality Database\". \n\nFor the Americas from 1950-2015, we took the population-weighted average of North America and Latin America and the Caribbean, using UN Population Division estimates of population size.",
+      "retrievedDate": "9/9/19"
+    }
+  ],
+  "owidTags": [
+    "Life Expectancy"
+  ],
+  "resources": [
+    {
+      "path": "Life expectancy - Riley (2005) and UN .csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Life expectancy",
+            "type": "any",
+            "description": "Life expectancy at birth is defined as the average number of years that a newborn could expect to live if he or she were to pass through life subject to the age-specific mortality rates of a given period.",
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
