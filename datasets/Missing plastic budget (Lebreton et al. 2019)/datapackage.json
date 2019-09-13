@@ -1,0 +1,47 @@
+{
+  "name": "Missing plastic budget (Lebreton et al. 2019)",
+  "title": "Missing plastic budget (Lebreton et al. 2019)",
+  "id": 4205,
+  "description": "Data describes modelled and projected ocean plastic under three 'plastic emissions' scenarios.\n\nGiven is the modelled global accumulation of buoyant macroplastics (>0.5 cm) in the ocean. And the accumulation of microplastics (<0.5 cm), which is degraded plastic material from the ocean surface layer.\n\nThis is given under three scenarios:\n(1) Emissions of plastic to the world's oceans stopped by 2020;\n(2) Emissions stagnated at 2020 levels;\n(3) Increasing emissions of plastic until 2050 in line with the average growth rate of global plastic production from 2005-2015.",
+  "sources": [
+    {
+      "name": "Missing plastic budget (Lebreton et al. 2019)",
+      "dataPublishedBy": "Lebreton et al. (2019). A global mass budget for positively buoyant macroplastic debris in the ocean. Nature Scientific Reports.",
+      "retrievedDate": "13th September 2019",
+      "additionalInfo": "Data describes modelled and projected ocean plastic under three 'plastic emissions' scenarios.\n\nGiven is the modelled global accumulation of buoyant macroplastics (>0.5 cm) in the ocean. And the accumulation of microplastics (<0.5 cm), which is degraded plastic material from the ocean surface layer.\n\nThis is given under three scenarios:\n(1) Emissions of plastic to the world's oceans stopped by 2020;\n(2) Emissions stagnated at 2020 levels;\n(3) Increasing emissions of plastic until 2050 in line with the average growth rate of global plastic production from 2005-2015.",
+      "link": "https://www.nature.com/articles/s41598-019-49413-5"
+    }
+  ],
+  "owidTags": [
+    "Plastic Pollution"
+  ],
+  "resources": [
+    {
+      "path": "Missing plastic budget (Lebreton et al. 2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Accumulated ocean plastic: Macroplastics (>0.5cm)",
+            "type": "any",
+            "description": "Mass of accumulated buoyant macroplastics (>0.5cm) in the world's oceans under three projected emissions scenarios.",
+            "owidDisplaySettings": "{\"name\": \"Macroplastics (>0.5cm)\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Accumulated ocean plastic: Microplastics (<0.5cm)",
+            "type": "any",
+            "description": "Mass of accumulated degraded microplastics (<0.5cm) in the world's oceans under three projected emissions scenarios.",
+            "owidDisplaySettings": "{\"name\": \"Microplastics (<0.5cm)\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"numDecimalPlaces\": 0}"
+          }
+        ]
+      }
+    }
+  ]
+}
