@@ -1,0 +1,48 @@
+{
+  "name": "Long run population by country and region (Gapminder, HYDE (2016) & UN (2019))",
+  "title": "Long run population by country and region (Gapminder, HYDE (2016) & UN (2019))",
+  "id": 70,
+  "description": "Gapminder dataset. Available online at http://www.gapminder.org/.\n\nPopulation data by country is taken from Version 5 of Gapminder. This provides data by country from 1800 through to 2100.\n\nFrom 1950 to 2019, estimates come from the UN Population Revision (2019), and projections to 2100 from the UN Population Revision (2019) medium variant scenario.\n\nThe regional long-run population series was constructed by Our World in Data based on two key sources: the HYDE database (2016) and UN World Population Prospects (2019). \n\n- HYDE (2016) data is used from the year -10,000 to 1940\n- UN World Population Population Prospects (2019) from 1950 to 2019; \n- Projections to 2100 from the UN World Population Population Prospects (2019)\n\nHYDE regions have been aggregated to match with UN regional groupings:\n- 'Europe' and 'CIS' in HYDE data have been combined and labelled here simply as 'Europe'\n- 'Asia' and 'Middle East' in HYDE data have been combined and labelled here simply as 'Asia'\n\nHYDE Database, available at: https://themasites.pbl.nl/tridion/en/themasites/hyde/basicdrivingfactors/population/index-2.html\n\nFull documentation of Gapminder's sources and process are available here: https://www.gapminder.org/data/documentation/gd003/.\n\nUN population revision citation:\nUnited Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects: The 2019 Revision, DVD Edition. Available at: https://esa.un.org/unpd/wpp/Download/Standard/Population/.",
+  "sources": [
+    {
+      "name": "Population by country and region, 1800 to 2100 (Gapminder, HYDE(2016) & UN (2019))",
+      "dataPublishedBy": "Gapminder and United Nations Population Division (2019)",
+      "dataPublisherSource": null,
+      "link": "http://www.gapminder.org/ and https://www.gapminder.org/data/documentation/gd003/",
+      "retrievedDate": "13/09/2019",
+      "additionalInfo": "Gapminder dataset. Available online at http://www.gapminder.org/.\n\nPopulation data by country is taken from Version 5 of Gapminder. This provides data by country from 1800 through to 2100.\n\nFrom 1950 to 2019, estimates come from the UN Population Revision (2019), and projections to 2100 from the UN Population Revision (2019) medium variant scenario.\n\nThe regional long-run population series was constructed by Our World in Data based on two key sources: the HYDE database (2016) and UN World Population Prospects (2019). \n\n- HYDE (2016) data is used from the year -10,000 to 1940\n- UN World Population Population Prospects (2019) from 1950 to 2019; \n- Projections to 2100 from the UN World Population Population Prospects (2019)\n\nHYDE regions have been aggregated to match with UN regional groupings:\n- 'Europe' and 'CIS' in HYDE data have been combined and labelled here simply as 'Europe'\n- 'Asia' and 'Middle East' in HYDE data have been combined and labelled here simply as 'Asia'\n\nHYDE Database, available at: https://themasites.pbl.nl/tridion/en/themasites/hyde/basicdrivingfactors/population/index-2.html\n\nFull documentation of Gapminder's sources and process are available here: https://www.gapminder.org/data/documentation/gd003/.\n\nUN population revision citation:\nUnited Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects: The 2019 Revision, DVD Edition. Available at: https://esa.un.org/unpd/wpp/Download/Standard/Population/."
+    }
+  ],
+  "owidTags": [
+    "Population Growth"
+  ],
+  "resources": [
+    {
+      "path": "Long run population by country and region (Gapminder, HYDE (2016) & UN (2019)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total population (Gapminder & UN)",
+            "type": "any",
+            "description": "Population by country, available from 1800 to 2019 based on Gapminder data and UN Population Division (2017) estimates.",
+            "owidDisplaySettings": "{\"name\": \"Population by country\"}"
+          },
+          {
+            "name": "Population by country, historic and projections (Gapminder & UN)",
+            "type": "any",
+            "description": "Population by country, available from 1800 to 2100 based on Gapminder data and UN Population Division (2017) medium scenario projections.",
+            "owidDisplaySettings": "{\"name\": \"Population by country\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
