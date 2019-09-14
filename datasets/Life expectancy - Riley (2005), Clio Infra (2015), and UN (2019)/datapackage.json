@@ -30,9 +30,9 @@
             "type": "year"
           },
           {
-            "name": "Life expectancy (Clio-Infra up to 1949; UN Population Division for 1950 to 2015)",
+            "name": "Life expectancy",
             "type": "any",
-            "description": "Clio-Infra data measures life expectancy at birth for the total population per country and year. UN Population Division figures estimate life expectancy at birth for both sexes combined.",
+            "description": "Life expectancy at birth is defined as the average number of years that a newborn could expect to live if he or she were to pass through life subject to the age-specific mortality rates of a given period.",
             "owidDisplaySettings": "{}"
           }
         ]
