@@ -69,7 +69,6 @@ Afghanistan,2016,63.763
 Afghanistan,2017,64.13
 Afghanistan,2018,64.486
 Afghanistan,2019,64.833
-Afghanistan,2020,65.173
 Africa,1770,26.4
 Africa,1950,36.45
 Africa,1951,36.712
@@ -141,7 +140,6 @@ Africa,2016,62.064
 Africa,2017,62.472
 Africa,2018,62.839
 Africa,2019,63.17
-Africa,2020,63.472
 Albania,1950,54.191
 Albania,1951,54.399
 Albania,1952,54.875
@@ -212,7 +210,6 @@ Albania,2016,78.194
 Albania,2017,78.333
 Albania,2018,78.458
 Albania,2019,78.573
-Albania,2020,78.686
 Algeria,1923,28.822399
 Algeria,1933,31.219999
 Algeria,1943,33.720001
@@ -286,7 +283,6 @@ Algeria,2016,76.298
 Algeria,2017,76.499
 Algeria,2018,76.693
 Algeria,2019,76.88
-Algeria,2020,77.063
 American Samoa,1950,63.775
 American Samoa,1951,63.901
 American Samoa,1952,64.159
@@ -357,7 +353,6 @@ American Samoa,2016,73.609
 American Samoa,2017,73.636
 American Samoa,2018,73.679
 American Samoa,2019,73.745
-American Samoa,2020,73.834
 Americas,1770,34.8
 Americas,1850,35.1
 Americas,1870,35.1
@@ -433,7 +428,6 @@ Americas,2016,76.53703933
 Americas,2017,76.62993096
 Americas,2018,76.72842701
 Americas,2019,76.83538896
-Americas,2020,76.95450095
 Andorra,1950,62.151
 Andorra,1951,62.639
 Andorra,1952,63.588
@@ -504,7 +498,6 @@ Andorra,2016,83.274
 Andorra,2017,83.443
 Andorra,2018,83.594
 Andorra,2019,83.732
-Andorra,2020,83.861
 Angola,1940,26.98
 Angola,1950,35.524
 Angola,1951,35.599
@@ -576,7 +569,6 @@ Angola,2016,59.925
 Angola,2017,60.379
 Angola,2018,60.782
 Angola,2019,61.147
-Angola,2020,61.487
 Anguilla,1950,54.842
 Anguilla,1951,55.132
 Anguilla,1952,55.714
@@ -647,7 +639,6 @@ Anguilla,2016,81.441
 Anguilla,2017,81.568
 Anguilla,2018,81.714
 Anguilla,2019,81.877
-Anguilla,2020,82.056
 Antigua and Barbuda,1950,56.1
 Antigua and Barbuda,1951,56.419
 Antigua and Barbuda,1952,57.056
@@ -718,7 +709,6 @@ Antigua and Barbuda,2016,76.617
 Antigua and Barbuda,2017,76.752
 Antigua and Barbuda,2018,76.885
 Antigua and Barbuda,2019,77.016
-Antigua and Barbuda,2020,77.146
 Argentina,1875,33.200001
 Argentina,1880,33.099998
 Argentina,1885,32.599998
@@ -804,7 +794,6 @@ Argentina,2016,76.221
 Argentina,2017,76.372
 Argentina,2018,76.52
 Argentina,2019,76.667
-Argentina,2020,76.813
 Armenia,1950,61.966
 Armenia,1951,62.178
 Armenia,1952,62.602
@@ -875,7 +864,6 @@ Armenia,2016,74.64
 Armenia,2017,74.797
 Armenia,2018,74.945
 Armenia,2019,75.087
-Armenia,2020,75.224
 Aruba,1950,58.419
 Aruba,1951,58.962
 Aruba,1952,60.01
@@ -946,7 +934,6 @@ Aruba,2016,75.868
 Aruba,2017,76.01
 Aruba,2018,76.152
 Aruba,2019,76.293
-Aruba,2020,76.434
 Asia,1770,27.5
 Asia,1900,28
 Asia,1913,28.1
@@ -1020,7 +1007,6 @@ Asia,2016,72.897
 Asia,2017,73.15
 Asia,2018,73.381
 Asia,2019,73.593
-Asia,2020,73.787
 Australia,1885,49.049999
 Australia,1895,52.950001
 Australia,1905,57
@@ -1123,7 +1109,6 @@ Australia,2016,82.959
 Australia,2017,83.122
 Australia,2018,83.281
 Australia,2019,83.436
-Australia,2020,83.586
 Austria,1870,34.400002
 Austria,1881,35
 Austria,1891,37.299999
@@ -1204,7 +1189,6 @@ Austria,2016,81.258
 Austria,2017,81.34
 Austria,2018,81.434
 Austria,2019,81.544
-Austria,2020,81.671
 Azerbaijan,1950,57.409
 Azerbaijan,1951,57.682
 Azerbaijan,1952,58.209
@@ -1275,7 +1259,6 @@ Azerbaijan,2016,72.493
 Azerbaijan,2017,72.693
 Azerbaijan,2018,72.864
 Azerbaijan,2019,73.005
-Azerbaijan,2020,73.123
 Bahamas,1950,62.54
 Bahamas,1951,62.687
 Bahamas,1952,62.974
@@ -1346,7 +1329,6 @@ Bahamas,2016,73.329
 Bahamas,2017,73.554
 Bahamas,2018,73.752
 Bahamas,2019,73.918
-Bahamas,2020,74.053
 Bahrain,1950,41.162
 Bahrain,1951,41.582
 Bahrain,1952,42.458
@@ -1417,7 +1399,6 @@ Bahrain,2016,76.899
 Bahrain,2017,77.032
 Bahrain,2018,77.163
 Bahrain,2019,77.292
-Bahrain,2020,77.419
 Bangladesh,1876,25.5
 Bangladesh,1886,23.200001
 Bangladesh,1896,22
@@ -1493,7 +1474,6 @@ Bangladesh,2016,71.785
 Bangladesh,2017,72.052
 Bangladesh,2018,72.32
 Bangladesh,2019,72.591
-Bangladesh,2020,72.868
 Barbados,1950,52.334
 Barbados,1951,53.205
 Barbados,1952,54.891
@@ -1564,7 +1544,6 @@ Barbados,2016,78.888
 Barbados,2017,78.981
 Barbados,2018,79.081
 Barbados,2019,79.19
-Barbados,2020,79.308
 Belarus,1900,36.200001
 Belarus,1950,57.736
 Belarus,1951,58.537
@@ -1636,7 +1615,6 @@ Belarus,2016,74.031
 Belarus,2017,74.34
 Belarus,2018,74.59
 Belarus,2019,74.791
-Belarus,2020,74.951
 Belgium,1841,40.310001
 Belgium,1842,38.639999
 Belgium,1843,40.349998
@@ -1811,7 +1789,6 @@ Belgium,2016,81.139
 Belgium,2017,81.305
 Belgium,2018,81.468
 Belgium,2019,81.628
-Belgium,2020,81.786
 Belize,1950,54.806
 Belize,1951,55.086
 Belize,1952,55.644
@@ -1882,7 +1859,6 @@ Belize,2016,74.219
 Belize,2017,74.365
 Belize,2018,74.496
 Belize,2019,74.623
-Belize,2020,74.754
 Benin,1950,32.698
 Benin,1951,32.956
 Benin,1952,33.467
@@ -1953,7 +1929,6 @@ Benin,2016,60.885
 Benin,2017,61.174
 Benin,2018,61.47
 Benin,2019,61.771
-Benin,2020,62.077
 Bermuda,1950,64.238
 Bermuda,1951,64.557
 Bermuda,1952,65.179
@@ -2024,7 +1999,6 @@ Bermuda,2016,82.163
 Bermuda,2017,82.316
 Bermuda,2018,82.459
 Bermuda,2019,82.593
-Bermuda,2020,82.718
 Bhutan,1950,31.669
 Bhutan,1951,31.819
 Bhutan,1952,32.118
@@ -2095,7 +2069,6 @@ Bhutan,2016,70.781
 Bhutan,2017,71.129
 Bhutan,2018,71.46
 Bhutan,2019,71.777
-Bhutan,2020,72.08
 Bolivia,1900,26
 Bolivia,1910,28
 Bolivia,1920,31
@@ -2172,7 +2145,6 @@ Bolivia,2016,70.626
 Bolivia,2017,70.945
 Bolivia,2018,71.239
 Bolivia,2019,71.513
-Bolivia,2020,71.771
 Bonaire Sint Eustatius and Saba,1950,59.021
 Bonaire Sint Eustatius and Saba,1951,59.513
 Bonaire Sint Eustatius and Saba,1952,60.462
@@ -2243,7 +2215,6 @@ Bonaire Sint Eustatius and Saba,2016,77.225
 Bonaire Sint Eustatius and Saba,2017,77.42
 Bonaire Sint Eustatius and Saba,2018,77.608
 Bonaire Sint Eustatius and Saba,2019,77.788
-Bonaire Sint Eustatius and Saba,2020,77.958
 Bosnia and Herzegovina,1950,51.421
 Bosnia and Herzegovina,1951,52.012
 Bosnia and Herzegovina,1952,53.164
@@ -2314,7 +2285,6 @@ Bosnia and Herzegovina,2016,76.998
 Bosnia and Herzegovina,2017,77.128
 Bosnia and Herzegovina,2018,77.262
 Bosnia and Herzegovina,2019,77.401
-Bosnia and Herzegovina,2020,77.545
 Botswana,1950,43.646
 Botswana,1951,43.964
 Botswana,1952,44.595
@@ -2385,7 +2355,6 @@ Botswana,2016,68.178
 Botswana,2017,68.812
 Botswana,2018,69.275
 Botswana,2019,69.592
-Botswana,2020,69.793
 Brazil,1900,29
 Brazil,1910,31
 Brazil,1920,32
@@ -2462,7 +2431,6 @@ Brazil,2016,75.23
 Brazil,2017,75.456
 Brazil,2018,75.672
 Brazil,2019,75.881
-Brazil,2020,76.084
 British Virgin Islands,1950,56.639
 British Virgin Islands,1951,57.141
 British Virgin Islands,1952,58.104
@@ -2533,7 +2501,6 @@ British Virgin Islands,2016,78.576
 British Virgin Islands,2017,78.742
 British Virgin Islands,2018,78.907
 British Virgin Islands,2019,79.069
-British Virgin Islands,2020,79.228
 Brunei,1950,51.261
 Brunei,1951,51.087
 Brunei,1952,50.831
@@ -2604,7 +2571,6 @@ Brunei,2016,75.45
 Brunei,2017,75.585
 Brunei,2018,75.722
 Brunei,2019,75.86
-Brunei,2020,75.998
 Bulgaria,1900,40.200001
 Bulgaria,1902,42.5
 Bulgaria,1905,43.299999
@@ -2685,7 +2651,6 @@ Bulgaria,2016,74.703
 Bulgaria,2017,74.815
 Bulgaria,2018,74.928
 Bulgaria,2019,75.046
-Bulgaria,2020,75.168
 Burkina Faso,1950,29.982
 Burkina Faso,1951,30.224
 Burkina Faso,1952,30.707
@@ -2756,7 +2721,6 @@ Burkina Faso,2016,60.354
 Burkina Faso,2017,60.768
 Burkina Faso,2018,61.174
 Burkina Faso,2019,61.577
-Burkina Faso,2020,61.981
 Burundi,1950,38.422
 Burundi,1951,38.574
 Burundi,1952,38.877
@@ -2827,7 +2791,6 @@ Burundi,2016,60.528
 Burundi,2017,60.898
 Burundi,2018,61.247
 Burundi,2019,61.584
-Burundi,2020,61.916
 Cambodia,1945,35
 Cambodia,1950,39.869
 Cambodia,1951,39.999
@@ -2899,7 +2862,6 @@ Cambodia,2016,68.977
 Cambodia,2017,69.289
 Cambodia,2018,69.57
 Cambodia,2019,69.823
-Cambodia,2020,70.054
 Cameroon,1931,28.75
 Cameroon,1950,37.785
 Cameroon,1951,37.965
@@ -2971,7 +2933,6 @@ Cameroon,2016,58.063
 Cameroon,2017,58.511
 Cameroon,2018,58.921
 Cameroon,2019,59.292
-Cameroon,2020,59.626
 Canada,1831,39.046398
 Canada,1841,40.3172
 Canada,1851,41.059681
@@ -3080,7 +3041,6 @@ Canada,2016,82.117
 Canada,2017,82.21
 Canada,2018,82.315
 Canada,2019,82.434
-Canada,2020,82.569
 Cape Verde,1950,47.195
 Cape Verde,1951,47.302
 Cape Verde,1952,47.504
@@ -3151,7 +3111,6 @@ Cape Verde,2016,72.347
 Cape Verde,2017,72.57
 Cape Verde,2018,72.782
 Cape Verde,2019,72.981
-Cape Verde,2020,73.166
 Cayman Islands,1950,55.941
 Cayman Islands,1951,56.227
 Cayman Islands,1952,56.794
@@ -3222,7 +3181,6 @@ Cayman Islands,2016,83.48
 Cayman Islands,2017,83.633
 Cayman Islands,2018,83.781
 Cayman Islands,2019,83.924
-Cayman Islands,2020,84.062
 Central African Republic,1950,31.761
 Central African Republic,1951,32.008
 Central African Republic,1952,32.499
@@ -3293,7 +3251,6 @@ Central African Republic,2016,51.593
 Central African Republic,2017,52.24
 Central African Republic,2018,52.805
 Central African Republic,2019,53.283
-Central African Republic,2020,53.679
 Chad,1950,35.55
 Chad,1951,35.675
 Chad,1952,35.926
@@ -3364,7 +3321,6 @@ Chad,2016,53.438
 Chad,2017,53.712
 Chad,2018,53.977
 Chad,2019,54.239
-Chad,2020,54.505
 Channel Islands,1950,68.516
 Channel Islands,1951,68.714
 Channel Islands,1952,69.09
@@ -3435,7 +3391,6 @@ Channel Islands,2016,82.6
 Channel Islands,2017,82.766
 Channel Islands,2018,82.928
 Channel Islands,2019,83.086
-Channel Islands,2020,83.24
 Chile,1900,29
 Chile,1902,32
 Chile,1907,30.5
@@ -3521,7 +3476,6 @@ Chile,2016,79.779
 Chile,2017,79.909
 Chile,2018,80.042
 Chile,2019,80.181
-Chile,2020,80.329
 China,1930,32
 China,1934,34
 China,1936,35
@@ -3597,7 +3551,6 @@ China,2016,76.21
 China,2017,76.47
 China,2018,76.704
 China,2019,76.912
-China,2020,77.097
 Colombia,1900,29
 Colombia,1910,31
 Colombia,1918,31.99
@@ -3676,7 +3629,6 @@ Colombia,2016,76.732
 Colombia,2017,76.925
 Colombia,2018,77.109
 Colombia,2019,77.287
-Colombia,2020,77.46
 Comoros,1950,38.098
 Comoros,1951,38.247
 Comoros,1952,38.551
@@ -3747,7 +3699,6 @@ Comoros,2016,63.7
 Comoros,2017,63.912
 Comoros,2018,64.118
 Comoros,2019,64.321
-Comoros,2020,64.525
 Congo,1950,38.889
 Congo,1951,39.281
 Congo,1952,40.057
@@ -3818,7 +3769,6 @@ Congo,2016,63.556
 Congo,2017,63.954
 Congo,2018,64.29
 Congo,2019,64.57
-Congo,2020,64.804
 Cook Islands,1950,45.076
 Cook Islands,1951,46
 Cook Islands,1952,47.758
@@ -3889,7 +3839,6 @@ Cook Islands,2016,75.631
 Cook Islands,2017,75.845
 Cook Islands,2018,76.05
 Cook Islands,2019,76.246
-Cook Islands,2020,76.434
 Costa Rica,1875,30.214701
 Costa Rica,1900,32
 Costa Rica,1910,33
@@ -3966,7 +3915,6 @@ Costa Rica,2016,79.738
 Costa Rica,2017,79.914
 Costa Rica,2018,80.095
 Costa Rica,2019,80.279
-Costa Rica,2020,80.465
 Cote d'Ivoire,1950,28.869
 Cote d'Ivoire,1951,29.175
 Cote d'Ivoire,1952,29.806
@@ -4037,7 +3985,6 @@ Cote d'Ivoire,2016,56.567
 Cote d'Ivoire,2017,57.017
 Cote d'Ivoire,2018,57.422
 Cote d'Ivoire,2019,57.783
-Cote d'Ivoire,2020,58.104
 Croatia,1950,60.252
 Croatia,1951,60.511
 Croatia,1952,61.024
@@ -4108,7 +4055,6 @@ Croatia,2016,78.049
 Croatia,2017,78.197
 Croatia,2018,78.342
 Croatia,2019,78.488
-Croatia,2020,78.638
 Cuba,1899,18.9
 Cuba,1900,32
 Cuba,1905,34.158241
@@ -4190,7 +4136,6 @@ Cuba,2016,78.607
 Cuba,2017,78.662
 Cuba,2018,78.726
 Cuba,2019,78.802
-Cuba,2020,78.892
 Curacao,1950,58.78
 Curacao,1951,59.283
 Curacao,1952,60.255
@@ -4261,7 +4206,6 @@ Curacao,2016,78.435
 Curacao,2017,78.587
 Curacao,2018,78.733
 Curacao,2019,78.88
-Curacao,2020,79.029
 Cyprus,1895,38.512001
 Cyprus,1905,45
 Cyprus,1915,47.464001
@@ -4338,7 +4282,6 @@ Cyprus,2016,80.513
 Cyprus,2017,80.672
 Cyprus,2018,80.828
 Cyprus,2019,80.982
-Cyprus,2020,81.135
 Czech Republic,1875,34.954399
 Czech Republic,1900,40.266159
 Czech Republic,1910,44.312801
@@ -4414,7 +4357,6 @@ Czech Republic,2016,78.881
 Czech Republic,2017,79.058
 Czech Republic,2018,79.222
 Czech Republic,2019,79.376
-Czech Republic,2020,79.521
 Democratic Republic of Congo,1950,38.342
 Democratic Republic of Congo,1951,38.531
 Democratic Republic of Congo,1952,38.899
@@ -4485,7 +4427,6 @@ Democratic Republic of Congo,2016,59.655
 Democratic Republic of Congo,2017,60.026
 Democratic Republic of Congo,2018,60.368
 Democratic Republic of Congo,2019,60.681
-Democratic Republic of Congo,2020,60.971
 Denmark,1775,33
 Denmark,1835,38.369999
 Denmark,1836,39.98
@@ -4672,7 +4613,6 @@ Denmark,2016,80.583
 Denmark,2017,80.681
 Denmark,2018,80.784
 Denmark,2019,80.898
-Denmark,2020,81.027
 Djibouti,1950,40.375
 Djibouti,1951,40.531
 Djibouti,1952,40.853
@@ -4743,7 +4683,6 @@ Djibouti,2016,65.064
 Djibouti,2017,65.893
 Djibouti,2018,66.582
 Djibouti,2019,67.112
-Djibouti,2020,67.49
 Dominica,1950,54.119
 Dominica,1951,54.398
 Dominica,1952,54.958
@@ -4814,7 +4753,6 @@ Dominica,2016,74.384
 Dominica,2017,74.597
 Dominica,2018,74.806
 Dominica,2019,75
-Dominica,2020,75.172
 Dominican Republic,1930,26
 Dominican Republic,1935,29.9
 Dominican Republic,1940,34
@@ -4888,7 +4826,6 @@ Dominican Republic,2016,73.471
 Dominican Republic,2017,73.689
 Dominican Republic,2018,73.892
 Dominican Republic,2019,74.081
-Dominican Republic,2020,74.257
 Ecuador,1950,47.425
 Ecuador,1951,47.716
 Ecuador,1952,48.299
@@ -4959,7 +4896,6 @@ Ecuador,2016,76.365
 Ecuador,2017,76.584
 Ecuador,2018,76.8
 Ecuador,2019,77.01
-Ecuador,2020,77.216
 Egypt,1927,33
 Egypt,1928,30.700001
 Egypt,1929,30.6
@@ -5053,7 +4989,6 @@ Egypt,2016,71.482
 Egypt,2017,71.656
 Egypt,2018,71.825
 Egypt,2019,71.99
-Egypt,2020,72.15
 El Salvador,1920,28
 El Salvador,1930,29
 El Salvador,1940,36
@@ -5127,7 +5062,6 @@ El Salvador,2016,72.644
 El Salvador,2017,72.872
 El Salvador,2018,73.096
 El Salvador,2019,73.317
-El Salvador,2020,73.533
 Equatorial Guinea,1950,33.264
 Equatorial Guinea,1951,33.439
 Equatorial Guinea,1952,33.787
@@ -5198,7 +5132,6 @@ Equatorial Guinea,2016,57.713
 Equatorial Guinea,2017,58.061
 Equatorial Guinea,2018,58.402
 Equatorial Guinea,2019,58.735
-Equatorial Guinea,2020,59.057
 Eritrea,1950,33.299
 Eritrea,1951,33.466
 Eritrea,1952,33.828
@@ -5269,7 +5202,6 @@ Eritrea,2016,65.111
 Eritrea,2017,65.538
 Eritrea,2018,65.941
 Eritrea,2019,66.321
-Eritrea,2020,66.679
 Estonia,1897,43
 Estonia,1900,43.099998
 Estonia,1922,51.700001
@@ -5344,7 +5276,6 @@ Estonia,2016,78.097
 Estonia,2017,78.354
 Estonia,2018,78.567
 Estonia,2019,78.745
-Estonia,2020,78.897
 Ethiopia,1950,33.3
 Ethiopia,1951,33.468
 Ethiopia,1952,33.833
@@ -5415,7 +5346,6 @@ Ethiopia,2016,65.482
 Ethiopia,2017,65.872
 Ethiopia,2018,66.24
 Ethiopia,2019,66.597
-Ethiopia,2020,66.953
 Europe,1770,34.3
 Europe,1800,33.3
 Europe,1820,35.6
@@ -5493,7 +5423,6 @@ Europe,2016,78.057
 Europe,2017,78.25
 Europe,2018,78.425
 Europe,2019,78.587
-Europe,2020,78.74
 Faeroe Islands,1950,67.297
 Faeroe Islands,1951,67.596
 Faeroe Islands,1952,68.168
@@ -5564,7 +5493,6 @@ Faeroe Islands,2016,80.255
 Faeroe Islands,2017,80.383
 Faeroe Islands,2018,80.52
 Faeroe Islands,2019,80.666
-Faeroe Islands,2020,80.82
 Falkland Islands,1950,68.377
 Falkland Islands,1951,68.586
 Falkland Islands,1952,68.983
@@ -5635,7 +5563,6 @@ Falkland Islands,2016,81.021
 Falkland Islands,2017,81.163
 Falkland Islands,2018,81.304
 Falkland Islands,2019,81.442
-Falkland Islands,2020,81.58
 Fiji,1950,53.279
 Fiji,1951,53.874
 Fiji,1952,55.017
@@ -5706,7 +5633,6 @@ Fiji,2016,67.175
 Fiji,2017,67.252
 Fiji,2018,67.341
 Fiji,2019,67.444
-Fiji,2020,67.561
 Finland,1755,37.25
 Finland,1765,34.849998
 Finland,1775,39.349998
@@ -5862,7 +5788,6 @@ Finland,2016,81.382
 Finland,2017,81.561
 Finland,2018,81.736
 Finland,2019,81.908
-Finland,2020,82.077
 France,1816,40.049999
 France,1817,39.18
 France,1818,38.549999
@@ -6067,7 +5992,6 @@ France,2016,82.328
 France,2017,82.432
 France,2018,82.541
 France,2019,82.659
-France,2020,82.784
 French Guiana,1950,52.251
 French Guiana,1951,52.516
 French Guiana,1952,53.048
@@ -6138,7 +6062,6 @@ French Guiana,2016,79.642
 French Guiana,2017,79.731
 French Guiana,2018,79.832
 French Guiana,2019,79.952
-French Guiana,2020,80.093
 French Polynesia,1950,45.598
 French Polynesia,1951,46.522
 French Polynesia,1952,48.281
@@ -6209,7 +6132,6 @@ French Polynesia,2016,77.024
 French Polynesia,2017,77.251
 French Polynesia,2018,77.462
 French Polynesia,2019,77.657
-French Polynesia,2020,77.836
 Gabon,1950,35.672
 Gabon,1951,35.989
 Gabon,1952,36.594
@@ -6280,7 +6202,6 @@ Gabon,2016,65.418
 Gabon,2017,65.839
 Gabon,2018,66.187
 Gabon,2019,66.467
-Gabon,2020,66.69
 Gambia,1950,29.674
 Gambia,1951,29.826
 Gambia,1952,30.123
@@ -6351,7 +6272,6 @@ Gambia,2016,61.166
 Gambia,2017,61.44
 Gambia,2018,61.735
 Gambia,2019,62.05
-Gambia,2020,62.383
 Georgia,1950,59.847
 Georgia,1951,60.048
 Georgia,1952,60.449
@@ -6422,7 +6342,6 @@ Georgia,2016,73.207
 Georgia,2017,73.414
 Georgia,2018,73.6
 Georgia,2019,73.767
-Georgia,2020,73.919
 Germany,1875,38.369999
 Germany,1885,39.439999
 Germany,1895,42.380001
@@ -6502,7 +6421,6 @@ Germany,2016,80.902
 Germany,2017,81.039
 Germany,2018,81.18
 Germany,2019,81.326
-Germany,2020,81.478
 Ghana,1921,28
 Ghana,1950,41.121
 Ghana,1951,41.388
@@ -6574,7 +6492,6 @@ Ghana,2016,63.124
 Ghana,2017,63.463
 Ghana,2018,63.78
 Ghana,2019,64.074
-Ghana,2020,64.347
 Gibraltar,1950,68.901
 Gibraltar,1951,69.1
 Gibraltar,1952,69.477
@@ -6645,7 +6562,6 @@ Gibraltar,2016,79.485
 Gibraltar,2017,79.63
 Gibraltar,2018,79.778
 Gibraltar,2019,79.927
-Gibraltar,2020,80.075
 Greece,1877,36.599998
 Greece,1882,37.099998
 Greece,1887,37.700001
@@ -6731,7 +6647,6 @@ Greece,2016,81.727
 Greece,2017,81.901
 Greece,2018,82.072
 Greece,2019,82.239
-Greece,2020,82.405
 Greenland,1950,50.827
 Greenland,1951,51.023
 Greenland,1952,51.465
@@ -6802,7 +6717,6 @@ Greenland,2016,71.493
 Greenland,2017,71.565
 Greenland,2018,71.632
 Greenland,2019,71.704
-Greenland,2020,71.784
 Grenada,1950,57.502
 Grenada,1951,57.774
 Grenada,1952,58.314
@@ -6873,7 +6787,6 @@ Grenada,2016,72.408
 Grenada,2017,72.388
 Grenada,2018,72.384
 Grenada,2019,72.397
-Grenada,2020,72.426
 Guadeloupe,1950,51.655
 Guadeloupe,1951,52.087
 Guadeloupe,1952,52.94
@@ -6944,7 +6857,6 @@ Guadeloupe,2016,81.469
 Guadeloupe,2017,81.708
 Guadeloupe,2018,81.931
 Guadeloupe,2019,82.138
-Guadeloupe,2020,82.328
 Guam,1950,56.129
 Guam,1951,56.378
 Guam,1952,56.878
@@ -7015,7 +6927,6 @@ Guam,2016,79.391
 Guam,2017,79.631
 Guam,2018,79.859
 Guam,2019,80.074
-Guam,2020,80.277
 Guatemala,1900,24
 Guatemala,1910,24
 Guatemala,1920,25
@@ -7092,7 +7003,6 @@ Guatemala,2016,73.541
 Guatemala,2017,73.81
 Guatemala,2018,74.063
 Guatemala,2019,74.302
-Guatemala,2020,74.529
 Guinea,1950,32.536
 Guinea,1951,32.673
 Guinea,1952,32.946
@@ -7163,7 +7073,6 @@ Guinea,2016,60.17
 Guinea,2017,60.706
 Guinea,2018,61.185
 Guinea,2019,61.602
-Guinea,2020,61.962
 Guinea-Bissau,1950,35.074
 Guinea-Bissau,1951,35.204
 Guinea-Bissau,1952,35.462
@@ -7234,7 +7143,6 @@ Guinea-Bissau,2016,57.328
 Guinea-Bissau,2017,57.673
 Guinea-Bissau,2018,58.003
 Guinea-Bissau,2019,58.322
-Guinea-Bissau,2020,58.634
 Guyana,1911,31.120001
 Guyana,1921,34.622398
 Guyana,1930,41.422401
@@ -7308,7 +7216,6 @@ Guyana,2016,69.454
 Guyana,2017,69.624
 Guyana,2018,69.774
 Guyana,2019,69.906
-Guyana,2020,70.023
 Haiti,1950,35.957
 Haiti,1951,36.362
 Haiti,1952,37.149
@@ -7379,7 +7286,6 @@ Haiti,2016,62.896
 Haiti,2017,63.29
 Haiti,2018,63.66
 Haiti,2019,64.001
-Haiti,2020,64.315
 Honduras,1920,29
 Honduras,1930,34
 Honduras,1940,36
@@ -7453,7 +7359,6 @@ Honduras,2016,74.701
 Honduras,2017,74.898
 Honduras,2018,75.088
 Honduras,2019,75.27
-Honduras,2020,75.448
 Hong Kong,1950,62.136
 Hong Kong,1951,62.38
 Hong Kong,1952,62.878
@@ -7524,7 +7429,6 @@ Hong Kong,2016,84.277
 Hong Kong,2017,84.493
 Hong Kong,2018,84.687
 Hong Kong,2019,84.857
-Hong Kong,2020,85.003
 Hungary,1900,37.335918
 Hungary,1910,39.75808
 Hungary,1920,42.055038
@@ -7601,7 +7505,6 @@ Hungary,2016,76.266
 Hungary,2017,76.498
 Hungary,2018,76.701
 Hungary,2019,76.875
-Hungary,2020,77.026
 Iceland,1838,32.400002
 Iceland,1839,27.950001
 Iceland,1840,31.940001
@@ -7784,7 +7687,6 @@ Iceland,2016,82.601
 Iceland,2017,82.725
 Iceland,2018,82.855
 Iceland,2019,82.993
-Iceland,2020,83.138
 India,1881,25.4424
 India,1891,24.266399
 India,1901,23.4856
@@ -7866,7 +7768,6 @@ India,2016,68.897
 India,2017,69.165
 India,2018,69.416
 India,2019,69.656
-India,2020,69.887
 Indonesia,1927,30
 Indonesia,1932,32.5
 Indonesia,1937,35
@@ -7942,7 +7843,6 @@ Indonesia,2016,71.035
 Indonesia,2017,71.282
 Indonesia,2018,71.509
 Indonesia,2019,71.716
-Indonesia,2020,71.908
 Iran,1950,39.424
 Iran,1951,39.715
 Iran,1952,40.297
@@ -8013,7 +7913,6 @@ Iran,2016,76.047
 Iran,2017,76.271
 Iran,2018,76.479
 Iran,2019,76.677
-Iran,2020,76.87
 Iraq,1950,34.865
 Iraq,1951,35.658
 Iraq,1952,37.217
@@ -8084,7 +7983,6 @@ Iraq,2016,70.122
 Iraq,2017,70.294
 Iraq,2018,70.454
 Iraq,2019,70.604
-Iraq,2020,70.748
 Ireland,1901,49.400002
 Ireland,1911,53.799999
 Ireland,1926,57.599998
@@ -8161,7 +8059,6 @@ Ireland,2016,81.615
 Ireland,2017,81.872
 Ireland,2018,82.103
 Ireland,2019,82.305
-Ireland,2020,82.479
 Isle of Man,1950,68.576
 Isle of Man,1951,68.786
 Isle of Man,1952,69.183
@@ -8232,7 +8129,6 @@ Isle of Man,2016,80.966
 Isle of Man,2017,81.112
 Isle of Man,2018,81.255
 Isle of Man,2019,81.396
-Isle of Man,2020,81.537
 Israel,1950,68.343
 Israel,1951,68.48
 Israel,1952,68.748
@@ -8303,7 +8199,6 @@ Israel,2016,82.503
 Israel,2017,82.663
 Israel,2018,82.819
 Israel,2019,82.972
-Israel,2020,83.123
 Italy,1872,29.700001
 Italy,1873,31.610001
 Italy,1874,31.76
@@ -8452,7 +8347,6 @@ Italy,2016,83.008
 Italy,2017,83.184
 Italy,2018,83.352
 Italy,2019,83.512
-Italy,2020,83.663
 Jamaica,1881,34.200001
 Jamaica,1882,40.099998
 Jamaica,1883,38.099998
@@ -8592,7 +8486,6 @@ Jamaica,2016,74.175
 Jamaica,2017,74.267
 Jamaica,2018,74.368
 Jamaica,2019,74.475
-Jamaica,2020,74.586
 Japan,1865,36.425838
 Japan,1870,36.59264
 Japan,1875,36.799438
@@ -8682,7 +8575,6 @@ Japan,2016,84.09
 Japan,2017,84.29
 Japan,2018,84.47
 Japan,2019,84.629
-Japan,2020,84.766
 Jordan,1950,44.763
 Jordan,1951,45.198
 Jordan,1952,46.064
@@ -8753,7 +8645,6 @@ Jordan,2016,74.184
 Jordan,2017,74.292
 Jordan,2018,74.405
 Jordan,2019,74.526
-Jordan,2020,74.655
 Kazakhstan,1868,23.58
 Kazakhstan,1873,23.799999
 Kazakhstan,1897,28.6
@@ -8831,7 +8722,6 @@ Kazakhstan,2016,72.081
 Kazakhstan,2017,72.728
 Kazakhstan,2018,73.236
 Kazakhstan,2019,73.597
-Kazakhstan,2020,73.824
 Kenya,1927,23.924801
 Kenya,1937,26.3736
 Kenya,1945,28.822399
@@ -8905,7 +8795,6 @@ Kenya,2016,65.393
 Kenya,2017,65.909
 Kenya,2018,66.342
 Kenya,2019,66.699
-Kenya,2020,66.991
 Kiribati,1950,42.743
 Kiribati,1951,42.964
 Kiribati,1952,43.407
@@ -8976,7 +8865,6 @@ Kiribati,2016,67.577
 Kiribati,2017,67.851
 Kiribati,2018,68.116
 Kiribati,2019,68.369
-Kiribati,2020,68.611
 Kuwait,1908,26
 Kuwait,1950,52.013
 Kuwait,1951,52.398
@@ -9048,7 +8936,6 @@ Kuwait,2016,75.224
 Kuwait,2017,75.311
 Kuwait,2018,75.398
 Kuwait,2019,75.489
-Kuwait,2020,75.586
 Kyrgyzstan,1950,51.913
 Kyrgyzstan,1951,52.142
 Kyrgyzstan,1952,52.598
@@ -9119,7 +9006,6 @@ Kyrgyzstan,2016,71.054
 Kyrgyzstan,2017,71.193
 Kyrgyzstan,2018,71.321
 Kyrgyzstan,2019,71.45
-Kyrgyzstan,2020,71.587
 Laos,1950,40.34
 Laos,1951,40.487
 Laos,1952,40.781
@@ -9190,7 +9076,6 @@ Laos,2016,66.924
 Laos,2017,67.277
 Laos,2018,67.61
 Laos,2019,67.923
-Laos,2020,68.219
 Latin America and the Caribbean,1950,50.205
 Latin America and the Caribbean,1951,50.509
 Latin America and the Caribbean,1952,51.113
@@ -9261,7 +9146,6 @@ Latin America and the Caribbean,2016,75.012
 Latin America and the Caribbean,2017,75.169
 Latin America and the Caribbean,2018,75.327
 Latin America and the Caribbean,2019,75.486
-Latin America and the Caribbean,2020,75.649
 Latvia,1896,44.954399
 Latvia,1924,53.700001
 Latvia,1935,58.084
@@ -9335,7 +9219,6 @@ Latvia,2016,74.91
 Latvia,2017,75.048
 Latvia,2018,75.172
 Latvia,2019,75.292
-Latvia,2020,75.415
 Lebanon,1950,59.586
 Lebanon,1951,59.814
 Lebanon,1952,60.261
@@ -9406,7 +9289,6 @@ Lebanon,2016,78.8
 Lebanon,2017,78.833
 Lebanon,2018,78.875
 Lebanon,2019,78.93
-Lebanon,2020,79.004
 Lesotho,1950,43.919
 Lesotho,1951,44.208
 Lesotho,1952,44.767
@@ -9477,7 +9359,6 @@ Lesotho,2016,52.059
 Lesotho,2017,52.947
 Lesotho,2018,53.705
 Lesotho,2019,54.331
-Lesotho,2020,54.836
 Liberia,1950,32.172
 Liberia,1951,32.288
 Liberia,1952,32.517
@@ -9548,7 +9429,6 @@ Liberia,2016,62.802
 Liberia,2017,63.295
 Liberia,2018,63.73
 Liberia,2019,64.104
-Liberia,2020,64.423
 Libya,1950,37.271
 Libya,1951,36.98
 Libya,1952,36.538
@@ -9619,7 +9499,6 @@ Libya,2016,72.311
 Libya,2017,72.52
 Libya,2018,72.724
 Libya,2019,72.913
-Libya,2020,73.082
 Liechtenstein,1950,66.46
 Liechtenstein,1951,66.743
 Liechtenstein,1952,67.29
@@ -9690,7 +9569,6 @@ Liechtenstein,2016,82.124
 Liechtenstein,2017,82.228
 Liechtenstein,2018,82.351
 Liechtenstein,2019,82.494
-Liechtenstein,2020,82.652
 Lithuania,1900,41.700001
 Lithuania,1925,50.5
 Lithuania,1950,57.65
@@ -9763,7 +9641,6 @@ Lithuania,2016,75.238
 Lithuania,2017,75.507
 Lithuania,2018,75.737
 Lithuania,2019,75.933
-Lithuania,2020,76.1
 Luxembourg,1901,47.976002
 Luxembourg,1902,48.056801
 Luxembourg,1903,46.9104
@@ -9883,7 +9760,6 @@ Luxembourg,2016,81.803
 Luxembourg,2017,81.955
 Luxembourg,2018,82.102
 Luxembourg,2019,82.25
-Luxembourg,2020,82.401
 Macao,1950,59.914
 Macao,1951,60.182
 Macao,1952,60.716
@@ -9954,7 +9830,6 @@ Macao,2016,83.854
 Macao,2017,83.989
 Macao,2018,84.118
 Macao,2019,84.244
-Macao,2020,84.37
 Macedonia,1950,53.042
 Macedonia,1951,53.527
 Macedonia,1952,54.477
@@ -10025,7 +9900,6 @@ Macedonia,2016,75.498
 Macedonia,2017,75.589
 Macedonia,2018,75.688
 Macedonia,2019,75.797
-Macedonia,2020,75.918
 Madagascar,1950,35.349
 Madagascar,1951,35.591
 Madagascar,1952,36.076
@@ -10096,7 +9970,6 @@ Madagascar,2016,65.931
 Madagascar,2017,66.311
 Madagascar,2018,66.681
 Madagascar,2019,67.041
-Madagascar,2020,67.39
 Malawi,1950,34.483
 Malawi,1951,34.566
 Malawi,1952,34.741
@@ -10167,7 +10040,6 @@ Malawi,2016,62.681
 Malawi,2017,63.279
 Malawi,2018,63.798
 Malawi,2019,64.263
-Malawi,2020,64.694
 Malaysia,1950,53.302
 Malaysia,1951,53.732
 Malaysia,1952,54.572
@@ -10238,7 +10110,6 @@ Malaysia,2016,75.649
 Malaysia,2017,75.828
 Malaysia,2018,75.997
 Malaysia,2019,76.156
-Malaysia,2020,76.306
 Maldives,1950,34.12
 Maldives,1951,34.173
 Maldives,1952,34.309
@@ -10309,7 +10180,6 @@ Maldives,2016,78.013
 Maldives,2017,78.325
 Maldives,2018,78.627
 Maldives,2019,78.921
-Maldives,2020,79.208
 Mali,1950,26.408
 Mali,1951,26.563
 Mali,1952,26.856
@@ -10380,7 +10250,6 @@ Mali,2016,57.987
 Mali,2017,58.452
 Mali,2018,58.893
 Mali,2019,59.306
-Mali,2020,59.692
 Malta,1950,64.125
 Malta,1951,64.594
 Malta,1952,65.486
@@ -10451,7 +10320,6 @@ Malta,2016,82.063
 Malta,2017,82.221
 Malta,2018,82.376
 Malta,2019,82.53
-Malta,2020,82.682
 Marshall Islands,1950,54.393
 Marshall Islands,1951,54.433
 Marshall Islands,1952,54.514
@@ -10522,7 +10390,6 @@ Marshall Islands,2016,73.042
 Marshall Islands,2017,73.278
 Marshall Islands,2018,73.496
 Marshall Islands,2019,73.696
-Marshall Islands,2020,73.88
 Martinique,1950,54.155
 Martinique,1951,54.515
 Martinique,1952,55.229
@@ -10593,7 +10460,6 @@ Martinique,2016,81.962
 Martinique,2017,82.164
 Martinique,2018,82.359
 Martinique,2019,82.545
-Martinique,2020,82.723
 Mauritania,1950,38.391
 Mauritania,1951,38.679
 Mauritania,1952,39.262
@@ -10664,7 +10530,6 @@ Mauritania,2016,64.208
 Mauritania,2017,64.464
 Mauritania,2018,64.704
 Mauritania,2019,64.925
-Mauritania,2020,65.129
 Mauritius,1924,31.219999
 Mauritius,1934,33.8736
 Mauritius,1941,36.1688
@@ -10740,7 +10605,6 @@ Mauritius,2016,74.626
 Mauritius,2017,74.743
 Mauritius,2018,74.863
 Mauritius,2019,74.991
-Mauritius,2020,75.13
 Mayotte,1950,44.709
 Mayotte,1951,45.375
 Mayotte,1952,46.677
@@ -10811,7 +10675,6 @@ Mayotte,2016,79.409
 Mayotte,2017,79.405
 Mayotte,2018,79.417
 Mayotte,2019,79.455
-Mayotte,2020,79.526
 Mexico,1893,23.290001
 Mexico,1894,26.620001
 Mexico,1895,29.52
@@ -10929,7 +10792,6 @@ Mexico,2016,74.917
 Mexico,2017,74.947
 Mexico,2018,74.992
 Mexico,2019,75.054
-Mexico,2020,75.131
 Micronesia (country),1950,50.476
 Micronesia (country),1951,50.68
 Micronesia (country),1952,51.092
@@ -11000,7 +10862,6 @@ Micronesia (country),2016,67.471
 Micronesia (country),2017,67.618
 Micronesia (country),2018,67.755
 Micronesia (country),2019,67.883
-Micronesia (country),2020,68.002
 Moldova,1950,58.145
 Moldova,1951,58.375
 Moldova,1952,58.827
@@ -11071,7 +10932,6 @@ Moldova,2016,71.617
 Moldova,2017,71.717
 Moldova,2018,71.808
 Moldova,2019,71.901
-Moldova,2020,72.006
 Monaco,1950,62.197
 Monaco,1951,62.692
 Monaco,1952,63.654
@@ -11142,7 +11002,6 @@ Monaco,2016,86.049
 Monaco,2017,86.325
 Monaco,2018,86.56
 Monaco,2019,86.751
-Monaco,2020,86.901
 Mongolia,1950,42.524
 Mongolia,1951,42.639
 Mongolia,1952,42.918
@@ -11213,7 +11072,6 @@ Mongolia,2016,69.321
 Mongolia,2017,69.509
 Mongolia,2018,69.689
 Mongolia,2019,69.87
-Mongolia,2020,70.056
 Montenegro,1950,59.173
 Montenegro,1951,59.289
 Montenegro,1952,59.555
@@ -11284,7 +11142,6 @@ Montenegro,2016,76.568
 Montenegro,2017,76.667
 Montenegro,2018,76.77
 Montenegro,2019,76.884
-Montenegro,2020,77.014
 Montserrat,1950,55.923
 Montserrat,1951,56.419
 Montserrat,1952,57.371
@@ -11355,7 +11212,6 @@ Montserrat,2016,74.483
 Montserrat,2017,74.501
 Montserrat,2018,74.388
 Montserrat,2019,74.158
-Montserrat,2020,73.85
 Morocco,1950,45.037
 Morocco,1951,45.188
 Morocco,1952,45.498
@@ -11426,7 +11282,6 @@ Morocco,2016,75.974
 Morocco,2017,76.218
 Morocco,2018,76.453
 Morocco,2019,76.68
-Morocco,2020,76.901
 Mozambique,1950,33.756
 Mozambique,1951,34.066
 Mozambique,1952,34.688
@@ -11497,7 +11352,6 @@ Mozambique,2016,58.309
 Mozambique,2017,59.309
 Mozambique,2018,60.163
 Mozambique,2019,60.854
-Mozambique,2020,61.387
 Myanmar,1926,30.799999
 Myanmar,1950,34.018
 Myanmar,1951,34.658
@@ -11569,7 +11423,6 @@ Myanmar,2016,66.205
 Myanmar,2017,66.558
 Myanmar,2018,66.867
 Myanmar,2019,67.134
-Myanmar,2020,67.363
 Namibia,1950,39.176
 Namibia,1951,39.554
 Namibia,1952,40.314
@@ -11640,7 +11493,6 @@ Namibia,2016,62.625
 Namibia,2017,63.021
 Namibia,2018,63.373
 Namibia,2019,63.708
-Namibia,2020,64.045
 Nauru,1950,43.709
 Nauru,1951,44.096
 Nauru,1952,44.839
@@ -11711,7 +11563,6 @@ Nauru,2016,59.781
 Nauru,2017,59.805
 Nauru,2018,59.863
 Nauru,2019,59.962
-Nauru,2020,60.104
 Nepal,1950,34.612
 Nepal,1951,34.571
 Nepal,1952,34.509
@@ -11782,7 +11633,6 @@ Nepal,2016,69.848
 Nepal,2017,70.169
 Nepal,2018,70.478
 Nepal,2019,70.778
-Nepal,2020,71.067
 Netherlands,1850,39.84
 Netherlands,1851,39.990002
 Netherlands,1852,38.639999
@@ -11953,7 +11803,6 @@ Netherlands,2016,81.862
 Netherlands,2017,82.004
 Netherlands,2018,82.143
 Netherlands,2019,82.283
-Netherlands,2020,82.424
 New Caledonia,1950,49.087
 New Caledonia,1951,49.508
 New Caledonia,1952,50.343
@@ -12024,7 +11873,6 @@ New Caledonia,2016,77.014
 New Caledonia,2017,77.196
 New Caledonia,2018,77.374
 New Caledonia,2019,77.55
-New Caledonia,2020,77.726
 New Zealand,1948,68.82
 New Zealand,1949,68.949997
 New Zealand,1950,69.302
@@ -12097,7 +11945,6 @@ New Zealand,2016,81.859
 New Zealand,2017,82.002
 New Zealand,2018,82.145
 New Zealand,2019,82.288
-New Zealand,2020,82.434
 Nicaragua,1920,24
 Nicaragua,1930,28
 Nicaragua,1940,34
@@ -12171,7 +12018,6 @@ Nicaragua,2016,73.86
 Nicaragua,2017,74.068
 Nicaragua,2018,74.275
 Nicaragua,2019,74.485
-Nicaragua,2020,74.697
 Niger,1921,24.35
 Niger,1940,34.470482
 Niger,1950,34.415
@@ -12244,7 +12090,6 @@ Niger,2016,61.137
 Niger,2017,61.599
 Niger,2018,62.024
 Niger,2019,62.42
-Niger,2020,62.792
 Nigeria,1950,33.129
 Nigeria,1951,33.288
 Nigeria,1952,33.618
@@ -12315,7 +12160,6 @@ Nigeria,2016,53.541
 Nigeria,2017,53.95
 Nigeria,2018,54.332
 Nigeria,2019,54.687
-Nigeria,2020,55.018
 Niue,1950,56.96
 Niue,1951,57.477
 Niue,1952,58.463
@@ -12386,7 +12230,6 @@ Niue,2016,73.279
 Niue,2017,73.424
 Niue,2018,73.567
 Niue,2019,73.708
-Niue,2020,73.847
 North Korea,1908,23.50816
 North Korea,1913,24.981119
 North Korea,1918,26.976801
@@ -12465,7 +12308,6 @@ North Korea,2016,71.711
 North Korea,2017,71.91
 North Korea,2018,72.095
 North Korea,2019,72.274
-North Korea,2020,72.453
 Northern America,1950,68.205
 Northern America,1951,68.342
 Northern America,1952,68.606
@@ -12536,7 +12378,6 @@ Northern America,2016,79.21
 Northern America,2017,79.198
 Northern America,2018,79.199
 Northern America,2019,79.221
-Northern America,2020,79.269
 Northern Mariana Islands,1950,53.525
 Northern Mariana Islands,1951,53.771
 Northern Mariana Islands,1952,54.262
@@ -12607,7 +12448,6 @@ Northern Mariana Islands,2016,75.694
 Northern Mariana Islands,2017,76.089
 Northern Mariana Islands,2018,76.44
 Northern Mariana Islands,2019,76.735
-Northern Mariana Islands,2020,76.973
 Norway,1846,48.029999
 Norway,1847,44.75
 Norway,1848,44.990002
@@ -12782,7 +12622,6 @@ Norway,2016,82.029
 Norway,2017,82.146
 Norway,2018,82.271
 Norway,2019,82.404
-Norway,2020,82.546
 Oceania,1770,22.5
 Oceania,1870,34.7
 Oceania,1900,47.6
@@ -12857,7 +12696,6 @@ Oceania,2016,78.132
 Oceania,2017,78.336
 Oceania,2018,78.529
 Oceania,2019,78.71
-Oceania,2020,78.88
 Oman,1950,34.192
 Oman,1951,34.663
 Oman,1952,35.6
@@ -12928,7 +12766,6 @@ Oman,2016,77.142
 Oman,2017,77.393
 Oman,2018,77.633
 Oman,2019,77.861
-Oman,2020,78.078
 Pakistan,1921,20.132
 Pakistan,1931,26.753599
 Pakistan,1941,31.7584
@@ -13002,7 +12839,6 @@ Pakistan,2016,66.77
 Pakistan,2017,66.947
 Pakistan,2018,67.114
 Pakistan,2019,67.273
-Pakistan,2020,67.428
 Palau,1950,57.051
 Palau,1951,57.093
 Palau,1952,57.181
@@ -13073,7 +12909,6 @@ Palau,2016,73.089
 Palau,2017,73.32
 Palau,2018,73.524
 Palau,2019,73.701
-Palau,2020,73.854
 Palestine,1950,46.161
 Palestine,1951,46.253
 Palestine,1952,46.455
@@ -13144,7 +12979,6 @@ Palestine,2016,73.589
 Palestine,2017,73.74
 Palestine,2018,73.895
 Palestine,2019,74.053
-Palestine,2020,74.213
 Panama,1930,36
 Panama,1940,42
 Panama,1950,55.735
@@ -13217,7 +13051,6 @@ Panama,2016,77.964
 Panama,2017,78.149
 Panama,2018,78.329
 Panama,2019,78.506
-Panama,2020,78.68
 Papua New Guinea,1946,31.5
 Papua New Guinea,1950,32.542
 Papua New Guinea,1951,32.932
@@ -13289,7 +13122,6 @@ Papua New Guinea,2016,63.744
 Papua New Guinea,2017,64.01
 Papua New Guinea,2018,64.263
 Papua New Guinea,2019,64.501
-Papua New Guinea,2020,64.725
 Paraguay,1900,25
 Paraguay,1910,29
 Paraguay,1920,33
@@ -13366,7 +13198,6 @@ Paraguay,2016,73.836
 Paraguay,2017,73.992
 Paraguay,2018,74.131
 Paraguay,2019,74.254
-Paraguay,2020,74.363
 Peru,1940,37
 Peru,1950,43.452
 Peru,1951,43.59
@@ -13438,7 +13269,6 @@ Peru,2016,76.044
 Peru,2017,76.286
 Peru,2018,76.516
 Peru,2019,76.736
-Peru,2020,76.947
 Philippines,1938,40
 Philippines,1950,54.881
 Philippines,1951,55.305
@@ -13510,7 +13340,6 @@ Philippines,2016,70.802
 Philippines,2017,70.952
 Philippines,2018,71.095
 Philippines,2019,71.231
-Philippines,2020,71.36
 Poland,1931,49.799999
 Poland,1950,59.14
 Poland,1951,59.761
@@ -13582,7 +13411,6 @@ Poland,2016,78.11
 Poland,2017,78.338
 Poland,2018,78.544
 Poland,2019,78.73
-Poland,2020,78.901
 Portugal,1940,51.389999
 Portugal,1941,47.91
 Portugal,1942,49.830002
@@ -13663,7 +13491,6 @@ Portugal,2016,81.444
 Portugal,2017,81.655
 Portugal,2018,81.857
 Portugal,2019,82.049
-Portugal,2020,82.233
 Puerto Rico,1950,60.918
 Puerto Rico,1951,61.649
 Puerto Rico,1952,63.034
@@ -13734,7 +13561,6 @@ Puerto Rico,2016,79.664
 Puerto Rico,2017,79.806
 Puerto Rico,2018,79.952
 Puerto Rico,2019,80.104
-Puerto Rico,2020,80.265
 Qatar,1950,53.631
 Qatar,1951,54.043
 Qatar,1952,54.863
@@ -13805,7 +13631,6 @@ Qatar,2016,79.868
 Qatar,2017,79.981
 Qatar,2018,80.1
 Qatar,2019,80.227
-Qatar,2020,80.363
 Reunion,1950,45.311
 Reunion,1951,45.978
 Reunion,1952,47.282
@@ -13876,7 +13701,6 @@ Reunion,2016,79.899
 Reunion,2017,80.052
 Reunion,2018,80.247
 Reunion,2019,80.484
-Reunion,2020,80.758
 Romania,1932,42.009998
 Romania,1950,61.108
 Romania,1951,61.031
@@ -13948,7 +13772,6 @@ Romania,2016,75.644
 Romania,2017,75.79
 Romania,2018,75.924
 Romania,2019,76.054
-Romania,2020,76.183
 Russia,1896,31.9
 Russia,1900,30.5
 Russia,1920,20.5
@@ -14045,7 +13868,6 @@ Russia,2016,71.835
 Russia,2017,72.139
 Russia,2018,72.386
 Russia,2019,72.584
-Russia,2020,72.742
 Rwanda,1950,39.535
 Rwanda,1951,39.684
 Rwanda,1952,39.985
@@ -14116,7 +13938,6 @@ Rwanda,2016,67.93
 Rwanda,2017,68.341
 Rwanda,2018,68.7
 Rwanda,2019,69.024
-Rwanda,2020,69.329
 Saint Barthlemy,1950,51.555
 Saint Barthlemy,1951,51.982
 Saint Barthlemy,1952,52.828
@@ -14187,7 +14008,6 @@ Saint Barthlemy,2016,81.362
 Saint Barthlemy,2017,81.599
 Saint Barthlemy,2018,81.82
 Saint Barthlemy,2019,82.023
-Saint Barthlemy,2020,82.208
 Saint Helena,1950,57.215
 Saint Helena,1951,57.722
 Saint Helena,1952,58.693
@@ -14258,7 +14078,6 @@ Saint Helena,2016,80.251
 Saint Helena,2017,80.321
 Saint Helena,2018,80.422
 Saint Helena,2019,80.558
-Saint Helena,2020,80.726
 Saint Kitts and Nevis,1950,50.99
 Saint Kitts and Nevis,1951,51.412
 Saint Kitts and Nevis,1952,52.242
@@ -14329,7 +14148,6 @@ Saint Kitts and Nevis,2016,75.73
 Saint Kitts and Nevis,2017,75.91
 Saint Kitts and Nevis,2018,76.075
 Saint Kitts and Nevis,2019,76.226
-Saint Kitts and Nevis,2020,76.367
 Saint Lucia,1950,48.812
 Saint Lucia,1951,49.213
 Saint Lucia,1952,50.019
@@ -14400,7 +14218,6 @@ Saint Lucia,2016,75.752
 Saint Lucia,2017,75.907
 Saint Lucia,2018,76.057
 Saint Lucia,2019,76.203
-Saint Lucia,2020,76.343
 Saint Martin (French part),1950,51.66
 Saint Martin (French part),1951,52.089
 Saint Martin (French part),1952,52.936
@@ -14471,7 +14288,6 @@ Saint Martin (French part),2016,81.364
 Saint Martin (French part),2017,81.622
 Saint Martin (French part),2018,81.86
 Saint Martin (French part),2019,82.076
-Saint Martin (French part),2020,82.27
 Saint Pierre and Miquelon,1950,59.386
 Saint Pierre and Miquelon,1951,59.913
 Saint Pierre and Miquelon,1952,60.925
@@ -14542,7 +14358,6 @@ Saint Pierre and Miquelon,2016,80.654
 Saint Pierre and Miquelon,2017,80.783
 Saint Pierre and Miquelon,2018,80.921
 Saint Pierre and Miquelon,2019,81.068
-Saint Pierre and Miquelon,2020,81.223
 Saint Vincent and the Grenadines,1950,51.743
 Saint Vincent and the Grenadines,1951,52.185
 Saint Vincent and the Grenadines,1952,53.06
@@ -14613,7 +14428,6 @@ Saint Vincent and the Grenadines,2016,72.193
 Saint Vincent and the Grenadines,2017,72.3
 Saint Vincent and the Grenadines,2018,72.415
 Saint Vincent and the Grenadines,2019,72.534
-Saint Vincent and the Grenadines,2020,72.658
 Samoa,1950,53.726
 Samoa,1951,53.919
 Samoa,1952,54.298
@@ -14684,7 +14498,6 @@ Samoa,2016,72.895
 Samoa,2017,73.046
 Samoa,2018,73.187
 Samoa,2019,73.321
-Samoa,2020,73.45
 San Marino,1950,62.587
 San Marino,1951,63.082
 San Marino,1952,64.046
@@ -14755,7 +14568,6 @@ San Marino,2016,84.545
 San Marino,2017,84.699
 San Marino,2018,84.841
 San Marino,2019,84.972
-San Marino,2020,85.096
 Sao Tome and Principe,1950,45.939
 Sao Tome and Principe,1951,46.124
 Sao Tome and Principe,1952,46.507
@@ -14826,7 +14638,6 @@ Sao Tome and Principe,2016,69.67
 Sao Tome and Principe,2017,69.933
 Sao Tome and Principe,2018,70.17
 Sao Tome and Principe,2019,70.385
-Sao Tome and Principe,2020,70.583
 Saudi Arabia,1950,40.972
 Saudi Arabia,1951,41.214
 Saudi Arabia,1952,41.699
@@ -14897,7 +14708,6 @@ Saudi Arabia,2016,74.761
 Saudi Arabia,2017,74.874
 Saudi Arabia,2018,74.998
 Saudi Arabia,2019,75.133
-Saudi Arabia,2020,75.28
 Senegal,1927,23.9
 Senegal,1937,26.4
 Senegal,1945,28.799999
@@ -14971,7 +14781,6 @@ Senegal,2016,67.078
 Senegal,2017,67.38
 Senegal,2018,67.665
 Senegal,2019,67.941
-Senegal,2020,68.213
 Serbia,1950,58.175
 Serbia,1951,58.406
 Serbia,1952,58.873
@@ -15042,7 +14851,6 @@ Serbia,2016,75.505
 Serbia,2017,75.684
 Serbia,2018,75.849
 Serbia,2019,76.001
-Serbia,2020,76.144
 Seychelles,1950,61.459
 Seychelles,1951,61.572
 Seychelles,1952,61.796
@@ -15113,7 +14921,6 @@ Seychelles,2016,73.226
 Seychelles,2017,73.276
 Seychelles,2018,73.333
 Seychelles,2019,73.402
-Seychelles,2020,73.483
 Sierra Leone,1931,24.5
 Sierra Leone,1950,27.927
 Sierra Leone,1951,28.15
@@ -15185,7 +14992,6 @@ Sierra Leone,2016,53.444
 Sierra Leone,2017,53.895
 Sierra Leone,2018,54.309
 Sierra Leone,2019,54.696
-Sierra Leone,2020,55.066
 Singapore,1950,58.39
 Singapore,1951,58.874
 Singapore,1952,59.818
@@ -15256,7 +15062,6 @@ Singapore,2016,83.083
 Singapore,2017,83.279
 Singapore,2018,83.458
 Singapore,2019,83.62
-Singapore,2020,83.767
 Sint Maarten (Dutch part),1950,59.046
 Sint Maarten (Dutch part),1951,59.534
 Sint Maarten (Dutch part),1952,60.477
@@ -15327,7 +15132,6 @@ Sint Maarten (Dutch part),2016,78.5
 Sint Maarten (Dutch part),2017,78.644
 Sint Maarten (Dutch part),2018,78.794
 Sint Maarten (Dutch part),2019,78.951
-Sint Maarten (Dutch part),2020,79.114
 Slovakia,1921,44.200001
 Slovakia,1930,49.900002
 Slovakia,1937,53.200001
@@ -15401,7 +15205,6 @@ Slovakia,2016,77.034
 Slovakia,2017,77.219
 Slovakia,2018,77.388
 Slovakia,2019,77.542
-Slovakia,2020,77.685
 Slovenia,1950,64.476
 Slovenia,1951,64.776
 Slovenia,1952,65.359
@@ -15472,7 +15275,6 @@ Slovenia,2016,80.852
 Slovenia,2017,81.016
 Slovenia,2018,81.172
 Slovenia,2019,81.324
-Slovenia,2020,81.475
 Solomon Islands,1950,40.285
 Solomon Islands,1951,40.699
 Solomon Islands,1952,41.527
@@ -15543,7 +15345,6 @@ Solomon Islands,2016,72.424
 Solomon Islands,2017,72.645
 Solomon Islands,2018,72.835
 Solomon Islands,2019,72.996
-Solomon Islands,2020,73.132
 Somalia,1950,33.18
 Somalia,1951,33.383
 Somalia,1952,33.789
@@ -15614,7 +15415,6 @@ Somalia,2016,56.324
 Somalia,2017,56.709
 Somalia,2018,57.068
 Somalia,2019,57.397
-Somalia,2020,57.697
 South Africa,1950,43.604
 South Africa,1951,43.926
 South Africa,1952,44.555
@@ -15685,7 +15485,6 @@ South Africa,2016,63.153
 South Africa,2017,63.538
 South Africa,2018,63.857
 South Africa,2019,64.131
-South Africa,2020,64.379
 South Korea,1908,23.50816
 South Korea,1913,24.981119
 South Korea,1918,26.976801
@@ -15764,7 +15563,6 @@ South Korea,2016,82.379
 South Korea,2017,82.628
 South Korea,2018,82.846
 South Korea,2019,83.033
-South Korea,2020,83.193
 South Sudan,1950,26.718
 South Sudan,1951,27.033
 South Sudan,1952,27.65
@@ -15835,7 +15633,6 @@ South Sudan,2016,57.12
 South Sudan,2017,57.365
 South Sudan,2018,57.604
 South Sudan,2019,57.846
-South Sudan,2020,58.095
 Spain,1882,29.5
 Spain,1892,32.099998
 Spain,1900,34.799999
@@ -15951,7 +15748,6 @@ Spain,2016,83.145
 Spain,2017,83.294
 Spain,2018,83.433
 Spain,2019,83.565
-Spain,2020,83.693
 Sri Lanka,1901,32.599998
 Sri Lanka,1911,29.9
 Sri Lanka,1921,32
@@ -16030,7 +15826,6 @@ Sri Lanka,2016,76.482
 Sri Lanka,2017,76.648
 Sri Lanka,2018,76.812
 Sri Lanka,2019,76.978
-Sri Lanka,2020,77.144
 Sudan,1950,43.418
 Sudan,1951,43.708
 Sudan,1952,44.277
@@ -16101,7 +15896,6 @@ Sudan,2016,64.663
 Sudan,2017,64.881
 Sudan,2018,65.095
 Sudan,2019,65.311
-Sudan,2020,65.53
 Suriname,1950,54.677
 Suriname,1951,55.023
 Suriname,1952,55.694
@@ -16172,7 +15966,6 @@ Suriname,2016,71.358
 Suriname,2017,71.463
 Suriname,2018,71.57
 Suriname,2019,71.682
-Suriname,2020,71.802
 Swaziland,1950,39.403
 Swaziland,1951,39.648
 Swaziland,1952,40.131
@@ -16243,7 +16036,6 @@ Swaziland,2016,56.962
 Swaziland,2017,58.319
 Swaziland,2018,59.401
 Swaziland,2019,60.194
-Swaziland,2020,60.721
 Sweden,1751,38.369999
 Sweden,1752,35.34
 Sweden,1753,39.689999
@@ -16513,7 +16305,6 @@ Sweden,2016,82.382
 Sweden,2017,82.516
 Sweden,2018,82.654
 Sweden,2019,82.797
-Sweden,2020,82.946
 Switzerland,1876,40.049999
 Switzerland,1877,39.98
 Switzerland,1878,40.450001
@@ -16658,7 +16449,6 @@ Switzerland,2016,83.31
 Switzerland,2017,83.473
 Switzerland,2018,83.63
 Switzerland,2019,83.779
-Switzerland,2020,83.921
 Syria,1950,46.436
 Syria,1951,46.727
 Syria,1952,47.308
@@ -16729,7 +16519,6 @@ Syria,2016,70.315
 Syria,2017,70.967
 Syria,2018,71.779
 Syria,2019,72.697
-Syria,2020,73.651
 Taiwan,1950,55.557
 Taiwan,1951,56.27
 Taiwan,1952,57.634
@@ -16800,7 +16589,6 @@ Taiwan,2016,79.927
 Taiwan,2017,80.107
 Taiwan,2018,80.283
 Taiwan,2019,80.456
-Taiwan,2020,80.626
 Tajikistan,1950,47.553
 Tajikistan,1951,47.713
 Tajikistan,1952,48.035
@@ -16871,7 +16659,6 @@ Tajikistan,2016,70.397
 Tajikistan,2017,70.647
 Tajikistan,2018,70.879
 Tajikistan,2019,71.097
-Tajikistan,2020,71.301
 Tanzania,1950,40.063
 Tanzania,1951,40.316
 Tanzania,1952,40.805
@@ -16942,7 +16729,6 @@ Tanzania,2016,63.844
 Tanzania,2017,64.479
 Tanzania,2018,65.015
 Tanzania,2019,65.456
-Tanzania,2020,65.815
 Thailand,1937,40.299999
 Thailand,1941,38.299999
 Thailand,1947,41.799999
@@ -17017,7 +16803,6 @@ Thailand,2016,76.403
 Thailand,2017,76.683
 Thailand,2018,76.931
 Thailand,2019,77.15
-Thailand,2020,77.344
 Timor,1950,28.955
 Timor,1951,29.208
 Timor,1952,29.714
@@ -17088,7 +16873,6 @@ Timor,2016,68.735
 Timor,2017,69.007
 Timor,2018,69.26
 Timor,2019,69.495
-Timor,2020,69.712
 Togo,1950,33.927
 Togo,1951,34.273
 Togo,1952,34.963
@@ -17159,7 +16943,6 @@ Togo,2016,60.22
 Togo,2017,60.489
 Togo,2018,60.76
 Togo,2019,61.042
-Togo,2020,61.34
 Tokelau,1950,57.381
 Tokelau,1951,57.905
 Tokelau,1952,58.909
@@ -17230,7 +17013,6 @@ Tokelau,2016,81.275
 Tokelau,2017,81.476
 Tokelau,2018,81.67
 Tokelau,2019,81.86
-Tokelau,2020,82.046
 Tonga,1950,56.142
 Tonga,1951,56.348
 Tonga,1952,56.758
@@ -17301,7 +17083,6 @@ Tonga,2016,70.607
 Tonga,2017,70.701
 Tonga,2018,70.801
 Tonga,2019,70.907
-Tonga,2020,71.018
 Trinidad and Tobago,1921,38.799999
 Trinidad and Tobago,1931,45.700001
 Trinidad and Tobago,1946,54.5
@@ -17375,7 +17156,6 @@ Trinidad and Tobago,2016,73.1
 Trinidad and Tobago,2017,73.245
 Trinidad and Tobago,2018,73.38
 Trinidad and Tobago,2019,73.507
-Trinidad and Tobago,2020,73.628
 Tunisia,1923,28.799999
 Tunisia,1933,31.219999
 Tunisia,1943,33.720001
@@ -17449,7 +17229,6 @@ Tunisia,2016,76.115
 Tunisia,2017,76.31
 Tunisia,2018,76.505
 Tunisia,2019,76.699
-Tunisia,2020,76.891
 Turkey,1937,35.43
 Turkey,1942,31.34
 Turkey,1947,38.099998
@@ -17523,7 +17302,6 @@ Turkey,2016,76.86
 Turkey,2017,77.161
 Turkey,2018,77.437
 Turkey,2019,77.691
-Turkey,2020,77.928
 Turkmenistan,1950,50.422
 Turkmenistan,1951,50.639
 Turkmenistan,1952,51.072
@@ -17594,7 +17372,6 @@ Turkmenistan,2016,67.835
 Turkmenistan,2017,67.956
 Turkmenistan,2018,68.073
 Turkmenistan,2019,68.191
-Turkmenistan,2020,68.313
 Turks and Caicos Islands,1950,53.749
 Turks and Caicos Islands,1951,54.113
 Turks and Caicos Islands,1952,54.837
@@ -17665,7 +17442,6 @@ Turks and Caicos Islands,2016,79.732
 Turks and Caicos Islands,2017,79.884
 Turks and Caicos Islands,2018,80.048
 Turks and Caicos Islands,2019,80.222
-Turks and Caicos Islands,2020,80.404
 Tuvalu,1950,44.615
 Tuvalu,1951,44.852
 Tuvalu,1952,45.326
@@ -17736,7 +17512,6 @@ Tuvalu,2016,66.791
 Tuvalu,2017,67.089
 Tuvalu,2018,67.348
 Tuvalu,2019,67.567
-Tuvalu,2020,67.751
 Uganda,1927,23.9
 Uganda,1937,26.4
 Uganda,1945,28.799999
@@ -17810,7 +17585,6 @@ Uganda,2016,61.986
 Uganda,2017,62.516
 Uganda,2018,62.973
 Uganda,2019,63.368
-Uganda,2020,63.713
 Ukraine,1900,36.599998
 Ukraine,1926,46.950001
 Ukraine,1939,50
@@ -17894,7 +17668,6 @@ Ukraine,2016,71.711
 Ukraine,2017,71.84
 Ukraine,2018,71.953
 Ukraine,2019,72.065
-Ukraine,2020,72.184
 United Arab Emirates,1950,41.859
 United Arab Emirates,1951,42.357
 United Arab Emirates,1952,43.356
@@ -17965,7 +17738,6 @@ United Arab Emirates,2016,77.47
 United Arab Emirates,2017,77.647
 United Arab Emirates,2018,77.814
 United Arab Emirates,2019,77.972
-United Arab Emirates,2020,78.12
 United Kingdom,1543,33.939999
 United Kingdom,1548,38.82
 United Kingdom,1553,39.59
@@ -18204,7 +17976,6 @@ United Kingdom,2016,81.111
 United Kingdom,2017,81.168
 United Kingdom,2018,81.236
 United Kingdom,2019,81.321
-United Kingdom,2020,81.426
 United States,1880,39.41
 United States,1890,45.209999
 United States,1901,49.299999
@@ -18326,7 +18097,6 @@ United States,2016,78.885
 United States,2017,78.861
 United States,2018,78.851
 United States,2019,78.862
-United States,2020,78.9
 United States Virgin Islands,1950,61.509
 United States Virgin Islands,1951,61.888
 United States Virgin Islands,1952,62.614
@@ -18397,7 +18167,6 @@ United States Virgin Islands,2016,80.094
 United States Virgin Islands,2017,80.26
 United States Virgin Islands,2018,80.421
 United States Virgin Islands,2019,80.583
-United States Virgin Islands,2020,80.747
 Uruguay,1900,49
 Uruguay,1910,52
 Uruguay,1920,52
@@ -18473,7 +18242,6 @@ Uruguay,2016,77.498
 Uruguay,2017,77.632
 Uruguay,2018,77.77
 Uruguay,2019,77.911
-Uruguay,2020,78.056
 Uzbekistan,1950,55.323
 Uzbekistan,1951,55.509
 Uzbekistan,1952,55.88
@@ -18544,7 +18312,6 @@ Uzbekistan,2016,71.171
 Uzbekistan,2017,71.388
 Uzbekistan,2018,71.573
 Uzbekistan,2019,71.725
-Uzbekistan,2020,71.848
 Vanuatu,1950,43.941
 Vanuatu,1951,44.22
 Vanuatu,1952,44.774
@@ -18615,7 +18382,6 @@ Vanuatu,2016,70.021
 Vanuatu,2017,70.172
 Vanuatu,2018,70.323
 Vanuatu,2019,70.474
-Vanuatu,2020,70.623
 Vatican,1950,50.046
 Vatican,1951,50.288
 Vatican,1952,50.773
@@ -18686,7 +18452,6 @@ Vatican,2016,74.551
 Vatican,2017,74.749
 Vatican,2018,74.94
 Vatican,2019,75.125
-Vatican,2020,75.308
 Venezuela,1900,28
 Venezuela,1910,29
 Venezuela,1920,31
@@ -18762,7 +18527,6 @@ Venezuela,2016,72.405
 Venezuela,2017,72.246
 Venezuela,2018,72.128
 Venezuela,2019,72.064
-Venezuela,2020,72.066
 Vietnam,1950,51.831
 Vietnam,1951,52.262
 Vietnam,1952,53.111
@@ -18833,7 +18597,6 @@ Vietnam,2016,75.172
 Vietnam,2017,75.241
 Vietnam,2018,75.317
 Vietnam,2019,75.4
-Vietnam,2020,75.493
 Wallis and Futuna,1950,51.092
 Wallis and Futuna,1951,51.378
 Wallis and Futuna,1952,51.948
@@ -18904,7 +18667,6 @@ Wallis and Futuna,2016,79.454
 Wallis and Futuna,2017,79.605
 Wallis and Futuna,2018,79.767
 Wallis and Futuna,2019,79.944
-Wallis and Futuna,2020,80.139
 Western Sahara,1950,34.753
 Western Sahara,1951,34.946
 Western Sahara,1952,35.331
@@ -18975,7 +18737,6 @@ Western Sahara,2016,69.496
 Western Sahara,2017,69.762
 Western Sahara,2018,70.017
 Western Sahara,2019,70.263
-Western Sahara,2020,70.505
 World,1800,28.5
 World,1820,29
 World,1850,29.3
@@ -19052,7 +18813,6 @@ World,2016,71.928
 World,2017,72.169
 World,2018,72.386
 World,2019,72.584
-World,2020,72.766
 Yemen,1950,29.097
 Yemen,1951,29.132
 Yemen,1952,29.201
@@ -19123,7 +18883,6 @@ Yemen,2016,66.087
 Yemen,2017,66.086
 Yemen,2018,66.096
 Yemen,2019,66.125
-Yemen,2020,66.181
 Zambia,1950,42.306
 Zambia,1951,42.537
 Zambia,1952,43.001
@@ -19194,7 +18953,6 @@ Zambia,2016,62.464
 Zambia,2017,63.043
 Zambia,2018,63.51
 Zambia,2019,63.886
-Zambia,2020,64.194
 Zimbabwe,1950,48.831
 Zimbabwe,1951,49.04
 Zimbabwe,1952,49.46
@@ -19265,4 +19023,3 @@ Zimbabwe,2016,60.294
 Zimbabwe,2017,60.812
 Zimbabwe,2018,61.195
 Zimbabwe,2019,61.49
-Zimbabwe,2020,61.738
