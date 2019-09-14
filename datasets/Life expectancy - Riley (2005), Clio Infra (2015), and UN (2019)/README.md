@@ -8,6 +8,6 @@ Riley estimated life expectancy before 1800, which he calls "the pre-health tran
 
 For country-level data pre-1950, we use Clio Infra's dataset, compiled by Zijdeman and Ribeira da Silva (2015).
 
-For country-level data post-1950, we use data published by the United Nations Population Division, since they are updated every year. This is possible because Riley writes that "for 1950-2001, I have drawn life expectancy estimates chiefly from various sources provided by the United Nations, the World Bank’s World Development Indicators, and the Human Mortality Database". 
+For country-, regional- and global-level data post-1950, we use data published by the United Nations Population Division, since they are updated every year. This is possible because Riley writes that "for 1950-2001, I have drawn life expectancy estimates chiefly from various sources provided by the United Nations, the World Bank’s World Development Indicators, and the Human Mortality Database". 
 
 For the Americas from 1950-2015, we took the population-weighted average of Northern America and Latin America and the Caribbean, using UN Population Division estimates of population size.
