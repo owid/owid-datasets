@@ -30,19 +30,19 @@
           {
             "name": "Prevalence of obesity (both sexes)",
             "type": "any",
-            "description": null,
+            "description": "Prevalence of obesity in adults aged 18 and above.",
             "owidDisplaySettings": "{\"unit\": \"%\"}"
           },
           {
             "name": "Prevalence of obesity (male)",
             "type": "any",
-            "description": null,
+            "description": "Prevalence of obesity in males aged 18 and above.",
             "owidDisplaySettings": "{\"unit\": \"%\"}"
           },
           {
             "name": "Prevalence of obesity (female)",
             "type": "any",
-            "description": null,
+            "description": "Prevalence of obesity in females aged 18 and above.",
             "owidDisplaySettings": "{\"unit\": \"%\"}"
           }
         ]
