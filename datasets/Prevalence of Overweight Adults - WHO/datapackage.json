@@ -1,0 +1,52 @@
+{
+  "name": "Prevalence of Overweight Adults - WHO",
+  "title": "Prevalence of Overweight Adults - WHO",
+  "id": 4208,
+  "description": "This dataset presents the prevalence of overweight adults per region by gender for people aged 18 and above.\n\nA person is defined as overweight if they have a body-mass index (BMI) equal to or greater than 25. BMI is a person's weight in kilograms divided by his or her height in metres squared.",
+  "sources": [
+    {
+      "name": "World Health Organization, Global Health Observatory (2019)",
+      "additionalInfo": "This dataset presents the prevalence of overweight adults per region by gender for people aged 18 and above.\n\nA person is defined as overweight if they have a body-mass index (BMI) equal to or greater than 25. BMI is a person's weight in kilograms divided by his or her height in metres squared.",
+      "link": "http://apps.who.int/gho/data/view.main.GLOBAL2461A?lang=en",
+      "retrievedDate": "17/09/19"
+    }
+  ],
+  "owidTags": [
+    "Obesity & BMI"
+  ],
+  "resources": [
+    {
+      "path": "Prevalence of Overweight Adults - WHO.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Prevalence of overweight adults (both sexes)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Prevalence of overweight adults (males)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Prevalence of overweight adults (females)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
