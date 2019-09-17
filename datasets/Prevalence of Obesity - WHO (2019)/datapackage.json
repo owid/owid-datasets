@@ -2,11 +2,11 @@
   "name": "Prevalence of Obesity - WHO (2019)",
   "title": "Prevalence of Obesity - WHO (2019)",
   "id": 4207,
-  "description": "This dataset presents the prevalence of obesity per region by gender for people aged 18 and above.\n\nObesity is defined as having a body-mass index (BMI) equal to or greater than 30. BMI is a person's weight in kilograms divided by his or her height in metres squared.\n\nEstimates are based on data from a random sample of the general population, with clearly indicated survey methods.",
+  "description": "This dataset presents the prevalence of obesity per region by gender for people aged 18 and above.\n\nObesity is defined as having a body-mass index (BMI) equal to or greater than 30. BMI is a person's weight in kilograms divided by his or her height in metres squared.\n\nEstimates are based on data from a random sample of the general population.",
   "sources": [
     {
       "name": "World Health Organization, Global Health Observatory (2019)",
-      "additionalInfo": "This dataset presents the prevalence of obesity per region by gender for people aged 18 and above.\n\nObesity is defined as having a body-mass index (BMI) equal to or greater than 30. BMI is a person's weight in kilograms divided by his or her height in metres squared.\n\nEstimates are based on data from a random sample of the general population, with clearly indicated survey methods.",
+      "additionalInfo": "This dataset presents the prevalence of obesity per region by gender for people aged 18 and above.\n\nObesity is defined as having a body-mass index (BMI) equal to or greater than 30. BMI is a person's weight in kilograms divided by his or her height in metres squared.\n\nEstimates are based on data from a random sample of the general population.",
       "link": "http://apps.who.int/gho/data/view.main.REGION2480A?lang=en",
       "retrievedDate": "17/09/19",
       "dataPublisherSource": "Surveys"
