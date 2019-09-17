@@ -31,19 +31,19 @@
             "name": "Prevalence of obesity (both sexes)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\"}"
           },
           {
             "name": "Prevalence of obesity (male)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\"}"
           },
           {
             "name": "Prevalence of obesity (female)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\"}"
           }
         ]
       }
