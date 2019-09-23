@@ -30,22 +30,22 @@
             "type": "year"
           },
           {
-            "name": "Prevalence of overweight adults (both sexes)",
+            "name": "Prevalence of overweight adults (both sexes) - WHO (2019)",
             "type": "any",
-            "description": "Prevalence of overweight adults aged 18 and above.",
-            "owidDisplaySettings": "{\"unit\": \"%\"}"
+            "description": "Prevalence of overweight adults aged 18 and above. A person is defined as overweight if they have a body-mass index (BMI) equal to or greater than 25. BMI is a person's weight in kilograms divided by his or her height in metres squared.",
+            "owidDisplaySettings": "{\"name\": \"Share of adults that are overweight\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
-            "name": "Prevalence of overweight adults (males)",
+            "name": "Prevalence of overweight adults (males) - WHO (2019)",
             "type": "any",
-            "description": "Prevalence of overweight males aged 18 and above.",
-            "owidDisplaySettings": "{\"unit\": \"%\"}"
+            "description": "Prevalence of overweight males aged 18 and above. A person is defined as overweight if they have a body-mass index (BMI) equal to or greater than 25. BMI is a person's weight in kilograms divided by his or her height in metres squared.",
+            "owidDisplaySettings": "{\"name\": \"Share of men that are overweight\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
-            "name": "Prevalence of overweight adults (females)",
+            "name": "Prevalence of overweight adults (females) - WHO (2019)",
             "type": "any",
-            "description": "Prevalence of overweight females aged 18 and above.",
-            "owidDisplaySettings": "{\"unit\": \"%\"}"
+            "description": "Prevalence of overweight females aged 18 and above. A person is defined as overweight if they have a body-mass index (BMI) equal to or greater than 25. BMI is a person's weight in kilograms divided by his or her height in metres squared.",
+            "owidDisplaySettings": "{\"name\": \"Share of women that are overweight\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
           }
         ]
       }
