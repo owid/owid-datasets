@@ -30,19 +30,19 @@
             "type": "year"
           },
           {
-            "name": "Prevalence of obesity (both sexes)",
+            "name": "Prevalence of obesity (both sexes) - WHO (2019)",
             "type": "any",
             "description": "Prevalence of obesity in adults aged 18 and above. Obesity is defined as having a body-mass index (BMI) equal to or greater than 30. BMI is a person's weight in kilograms divided by his or her height in metres squared.",
             "owidDisplaySettings": "{\"name\": \"Share of adults who are obese\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
-            "name": "Prevalence of obesity (male)",
+            "name": "Prevalence of obesity (male) - WHO (2019)",
             "type": "any",
             "description": "Prevalence of obesity in males aged 18 and above. Obesity is defined as having a body-mass index (BMI) equal to or greater than 30. BMI is a person's weight in kilograms divided by his or her height in metres squared.",
             "owidDisplaySettings": "{\"name\": \"Share of men who are obese\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
-            "name": "Prevalence of obesity (female)",
+            "name": "Prevalence of obesity (female) - WHO (2019)",
             "type": "any",
             "description": "Prevalence of obesity in females aged 18 and above. Obesity is defined as having a body-mass index (BMI) equal to or greater than 30. BMI is a person's weight in kilograms divided by his or her height in metres squared.",
             "owidDisplaySettings": "{\"name\": \"Share of women who are obese\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
