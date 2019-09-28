@@ -1,0 +1,60 @@
+{
+  "name": "Government spending – OECD (2017)",
+  "title": "Government spending – OECD (2017)",
+  "id": 309,
+  "description": "",
+  "sources": [
+    {
+      "name": "Government at a Glance – OECD (2017)",
+      "dataPublishedBy": "OECD",
+      "dataPublisherSource": "Government at a Glance, 2017 edition, public finance and economics indicators",
+      "link": "https://www.oecd-ilibrary.org/governance/government-at-a-glance-2017_gov_glance-2017-en",
+      "retrievedDate": "28/09/2019",
+      "additionalInfo": null
+    }
+  ],
+  "owidTags": [
+    "Government Spending"
+  ],
+  "resources": [
+    {
+      "path": "Government spending – OECD (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total government spending per capita",
+            "type": "any",
+            "description": "Total government expenditure per person measured in current USD PPP.",
+            "owidDisplaySettings": "{\"unit\": \"current USD PPP\"}"
+          },
+          {
+            "name": "Expenditures on general government outsourcing (% of GDP)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{\"unit\": \"%\"}"
+          },
+          {
+            "name": "General government procurement expenditure (% of GDP)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"%\"}"
+          },
+          {
+            "name": "General government procurement expenditure (% government expenditures)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"%\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
