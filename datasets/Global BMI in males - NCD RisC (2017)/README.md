@@ -1,4 +1,4 @@
-# Global BMI in males - NCDRisC (2017)
+# Global BMI in males - NCD RisC (2017)
 
 This dataset presents the mean male Body Mass Index (BMI) by country, region, and globally.
 
