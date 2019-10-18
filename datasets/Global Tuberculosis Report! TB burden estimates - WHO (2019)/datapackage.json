@@ -1,0 +1,300 @@
+{
+  "name": "Global Tuberculosis Report: TB burden estimates - WHO (2019)",
+  "title": "Global Tuberculosis Report: TB burden estimates - WHO (2019)",
+  "id": 4233,
+  "description": "WHO has published a global TB report every year since 1997. The main aim of the report is to provide a comprehensive and up-to-date assessment of the TB epidemic, and of progress in prevention, diagnosis and treatment of the disease, at global, regional and country levels. This is done in the context of recommended global TB strategies and targets endorsed by WHO’s Member States, broader development goals set by the United Nations (UN) and targets set in the political declaration at the first UN high-level meeting on TB (held in September 2018) .\n\nThe 2019 edition of the global TB report was released on 17 October 2019. \nThe report can be found at https://www.who.int/tb/publications/global_report/en/",
+  "sources": [
+    {
+      "name": "WHO (2019)",
+      "link": "https://www.who.int/tb/country/data/download/en/",
+      "retrievedDate": "18-10-2019",
+      "additionalInfo": "WHO has published a global TB report every year since 1997. The main aim of the report is to provide a comprehensive and up-to-date assessment of the TB epidemic, and of progress in prevention, diagnosis and treatment of the disease, at global, regional and country levels. This is done in the context of recommended global TB strategies and targets endorsed by WHO’s Member States, broader development goals set by the United Nations (UN) and targets set in the political declaration at the first UN high-level meeting on TB (held in September 2018) .\n\nThe 2019 edition of the global TB report was released on 17 October 2019. \nThe report can be found at https://www.who.int/tb/publications/global_report/en/",
+      "dataPublisherSource": "Reporting countries",
+      "dataPublishedBy": "World Health Organization"
+    }
+  ],
+  "owidTags": [
+    "Tuberculosis"
+  ],
+  "resources": [
+    {
+      "path": "Global Tuberculosis Report: TB burden estimates - WHO (2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Case detection rate (all forms) [also known as TB treatment coverage], percent (c_cdr)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Case detection rate (all forms) [also known as TB treatment coverage], percent, high bound (c_cdr_hi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Case detection rate (all forms) [also known as TB treatment coverage], percent, low bound (c_cdr_lo)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Case notification rate, which is the total of new and relapse cases and cases with unknown previous TB treatment history per 100 000 population (calculated) (c_newinc_100k)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated TB case fatality ratio (cfr)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated TB case fatality ratio: high bound (cfr_hi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated TB case fatality ratio: low bound (cfr_lo)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated TB case fatality ratio expressed as a percentage (cfr_pct)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated TB case fatality ratio: high bound expressed as a percentage (cfr_pct_hi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated TB case fatality ratio: low bound expressed as a percentage (cfr_pct_lo)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated incidence (all forms) per 100 000 population (e_inc_100k)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated incidence (all forms) per 100 000 population, high bound (e_inc_100k_hi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated incidence (all forms) per 100 000 population, low bound (e_inc_100k_lo)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated number of incident cases (all forms) (e_inc_num)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated number of incident cases (all forms), high bound (e_inc_num_hi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated number of incident cases (all forms) (e_inc_num_lo)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated incidence of TB cases who are HIV-positive per 100 000 population (e_inc_tbhiv_100k)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated incidence of TB cases who are HIV-positive per 100 000 population, high bound (e_inc_tbhiv_100k_hi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated incidence of TB cases who are HIV-positive per 100 000 population, low bound (e_inc_tbhiv_100k_lo)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated incidence of TB cases who are HIV-positive (e_inc_tbhiv_num)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated incidence of TB cases who are HIV-positive, high bound (e_inc_tbhiv_num_hi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated incidence of TB cases who are HIV-positive, low bound (e_inc_tbhiv_num_lo)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated mortality of TB cases (all forms) per 100 000 population (e_mort_100k)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated mortality of TB cases (all forms) per 100 000 population, high bound (e_mort_100k_hi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated mortality of TB cases (all forms) per 100 000 population, low bound (e_mort_100k_lo)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated mortality of TB cases (all forms, excluding HIV) per 100 000 population (e_mort_exc_tbhiv_100k)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated mortality of TB cases (all forms, excluding HIV), per 100 000 population, high bound (e_mort_exc_tbhiv_100k_hi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated mortality of TB cases (all forms, excluding HIV), per 100 000 population, low bound (e_mort_exc_tbhiv_100k_lo)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated number of deaths from TB (all forms, excluding HIV) (e_mort_exc_tbhiv_num)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated number of deaths from TB (all forms, excluding HIV), high bound (e_mort_exc_tbhiv_num_hi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated number of deaths from TB (all forms, excluding HIV), low bound (e_mort_exc_tbhiv_num_lo)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated number of deaths from TB (all forms) (e_mort_num)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated number of deaths from TB (all forms), high bound (e_mort_num_hi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated number of deaths from TB (all forms), low bound (e_mort_num_lo)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated mortality of TB cases who are HIV-positive, per 100 000 population (e_mort_tbhiv_100k)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated mortality of TB cases who are HIV-positive, per 100 000 population, high bound (e_mort_tbhiv_100k_hi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated mortality of TB cases who are HIV-positive, per 100 000 population, low bound (e_mort_tbhiv_100k_lo)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated number of deaths from TB in people who are HIV-positive (e_mort_tbhiv_num)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated number of deaths from TB in people who are HIV-positive, high bound (e_mort_tbhiv_num_hi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated number of deaths from TB in people who are HIV-positive, low bound (e_mort_tbhiv_num_lo)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated total population number (e_pop_num)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated HIV in incident TB (percent) (e_tbhiv_prct)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated HIV in incident TB (percent), high bound (e_tbhiv_prct_hi)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Estimated HIV in incident TB (percent), low bound (e_tbhiv_prct_lo)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
