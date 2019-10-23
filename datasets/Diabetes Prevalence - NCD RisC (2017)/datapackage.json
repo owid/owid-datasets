@@ -2,14 +2,15 @@
   "name": "Diabetes Prevalence - NCD RisC (2017)",
   "title": "Diabetes Prevalence - NCD RisC (2017)",
   "id": 4236,
-  "description": "This dataset presents crude and age-standardised estimates of the prevalence of diabetes by country, region, and globally for men and women.\n\nDiabetes is defined as fasting plasma glucose ≥7.0 mmol/L, or history of diagnosis with diabetes, or use of insulin or oral hypoglycaemic drugs.",
+  "description": "This dataset presents crude and age-standardised estimates of the prevalence of diabetes by country, region, and globally for men and women.\n\nDiabetes is defined as fasting plasma glucose ≥7.0 mmol/L, or history of diagnosis with diabetes, or use of insulin or oral hypoglycaemic drugs.\n\nThe data is taken from 751 population-based measurement surveys and studies, which included over 4 million participants aged 18 years or older. The studies covered 146 (73%) of the 200 countries and territories for which estimates were made. These 146 countries contained 90% of the world's adult population in 2014.",
   "sources": [
     {
       "name": "Diabetes",
-      "additionalInfo": "This dataset presents crude and age-standardised estimates of the prevalence of diabetes by country, region, and globally for men and women.\n\nDiabetes is defined as fasting plasma glucose ≥7.0 mmol/L, or history of diagnosis with diabetes, or use of insulin or oral hypoglycaemic drugs.",
+      "additionalInfo": "This dataset presents crude and age-standardised estimates of the prevalence of diabetes by country, region, and globally for men and women.\n\nDiabetes is defined as fasting plasma glucose ≥7.0 mmol/L, or history of diagnosis with diabetes, or use of insulin or oral hypoglycaemic drugs.\n\nThe data is taken from 751 population-based measurement surveys and studies, which included over 4 million participants aged 18 years or older. The studies covered 146 (73%) of the 200 countries and territories for which estimates were made. These 146 countries contained 90% of the world's adult population in 2014.",
       "dataPublishedBy": "NCD Risk Factor Collaboration (NCD-RisC) Database",
-      "link": "http://ncdrisc.org/data-downloads-diabetes.html",
-      "retrievedDate": "23/10/19"
+      "link": "http://ncdrisc.org/data-downloads-diabetes.html, https://www.ncbi.nlm.nih.gov/pubmed/27061677",
+      "retrievedDate": "23/10/19",
+      "dataPublisherSource": "Surveys and studies"
     }
   ],
   "owidTags": [
