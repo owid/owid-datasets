@@ -1,0 +1,59 @@
+{
+  "name": "Diabetes Prevalence - NCD RisC (2017)",
+  "title": "Diabetes Prevalence - NCD RisC (2017)",
+  "id": 4236,
+  "description": "This dataset presents crude and age-standardised estimates of the prevalence of Type 1 and Type 2 diabetes by country, region, and globally for men and women.\n\nDiabetes is defined as fasting plasma glucose ≥7.0 mmol/L, or history of diagnosis with diabetes, or use of insulin or oral hypoglycaemic drugs.",
+  "sources": [
+    {
+      "name": "Diabetes",
+      "additionalInfo": "This dataset presents crude and age-standardised estimates of the prevalence of Type 1 and Type 2 diabetes by country, region, and globally for men and women.\n\nDiabetes is defined as fasting plasma glucose ≥7.0 mmol/L, or history of diagnosis with diabetes, or use of insulin or oral hypoglycaemic drugs.",
+      "dataPublishedBy": "NCD Risk Factor Collaboration (NCD-RisC) Database",
+      "link": "http://ncdrisc.org/data-downloads-diabetes.html",
+      "retrievedDate": "23/10/19"
+    }
+  ],
+  "owidTags": [
+    "Obesity & BMI"
+  ],
+  "resources": [
+    {
+      "path": "Diabetes Prevalence - NCD RisC (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Age-standardised diabetes prevalence (male)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Age-standardised diabetes prevalence (female)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Crude diabetes prevalence (male)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Crude diabetes prevalence (female)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
