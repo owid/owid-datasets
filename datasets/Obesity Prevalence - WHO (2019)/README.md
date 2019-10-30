@@ -1,4 +1,4 @@
-# Prevalence of Obesity - WHO (2019)
+# Obesity Prevalence - WHO (2019)
 
 This dataset presents estimates of the prevalence of obesity by country, region, and globally for men and women aged 18 and above.
 

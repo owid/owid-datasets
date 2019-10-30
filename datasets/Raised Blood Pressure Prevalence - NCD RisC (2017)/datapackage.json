@@ -1,0 +1,60 @@
+{
+  "name": "Raised Blood Pressure Prevalence - NCD RisC (2017)",
+  "title": "Raised Blood Pressure Prevalence - NCD RisC (2017)",
+  "id": 4241,
+  "description": "This dataset presents crude and age-standardised estimates of the prevalence of raised blood pressure by country, region, and globally for men and women.\n\nRaised blood pressure (BP) is defined as systolic BP ≥140 mmHg, or diastolic BP ≥90 mmHg.\n\nThe data was pooled from 1,479 studies that had measured the blood pressures of 19.1 million adults.",
+  "sources": [
+    {
+      "name": "NCD RisC (2017)",
+      "additionalInfo": "This dataset presents crude and age-standardised estimates of the prevalence of raised blood pressure by country, region, and globally for men and women.\n\nRaised blood pressure (BP) is defined as systolic BP ≥140 mmHg, or diastolic BP ≥90 mmHg.\n\nThe data was pooled from 1,479 studies that had measured the blood pressures of 19.1 million adults.",
+      "link": "http://ncdrisc.org/data-downloads-blood-pressure.html, https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)31919-5/fulltext",
+      "dataPublishedBy": "Zhou, B., Bentham, J., Di Cesare, M., Bixby, H., Danaei, G., Cowan, M. J., ... & Taddei, C. (2017). Worldwide trends in blood pressure from 1975 to 2015: a pooled analysis of 1479 population-based measurement studies with 19.1 million participants. The Lancet, 389(10064), 37-55.",
+      "dataPublisherSource": "Studies",
+      "retrievedDate": "30/10/19"
+    }
+  ],
+  "owidTags": [
+    "Obesity & BMI"
+  ],
+  "resources": [
+    {
+      "path": "Raised Blood Pressure Prevalence - NCD RisC (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Age-standardised raised blood pressure prevalence (male)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Age-standardised raised blood pressure prevalence (female)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Crude raised blood pressure prevalence (male)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Crude raised blood pressure prevalence (female)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
