@@ -34,7 +34,7 @@
             "name": "Deaths - No access to handwashing facility - Sex:both - Age:70+ (Number)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"No access to handwashing facility\", \"unit\": \"Deaths\", \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Deaths - Unsafe sanitation - Sex:both - Age:70+ (Number)",
@@ -44,6 +44,24 @@
           },
           {
             "name": "Deaths - Unsafe water source - Sex:both - Age:70+ (Number)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Unsafe water source\", \"unit\": \"Wold\", \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Deaths - No access to handwashing facility - Sex:both - Age:70+ (RAte)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths - Unsafe sanitation - Sex:both - Age:70+ (Rate)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths - Unsafe water source - Sex:both - Age:70+ (Rate)",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
