@@ -1,0 +1,55 @@
+{
+  "name": "Diarrheal disease deaths in 70+ age group by attributable to risk factors (IHME 2018)",
+  "title": "Diarrheal disease deaths in 70+ age group by attributable to risk factors (IHME 2018)",
+  "id": 4244,
+  "description": "Deaths attributable to the named risk factors in people aged 70 years and older. The total numbers add up to more than the total number of deaths from diarrheal diseases because the risk factors can overlap. \n",
+  "sources": [
+    {
+      "name": "GBD, IHME (2018)",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2017 (GBD 2017) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.",
+      "additionalInfo": "Deaths attributable to the named risk factors in people aged 70 years and older. The total numbers add up to more than the total number of deaths from diarrheal diseases because the risk factors can overlap. \n",
+      "link": "http://ghdx.healthdata.org/gbd-results-tool",
+      "dataPublisherSource": "Modelled survey data",
+      "retrievedDate": "04-11-2019"
+    }
+  ],
+  "owidTags": [
+    "Burden of Disease",
+    "Diarrheal Diseases"
+  ],
+  "resources": [
+    {
+      "path": "Diarrheal disease deaths in 70+ age group by attributable to risk factors (IHME 2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Deaths - No access to handwashing facility - Sex:both - Age:70+ (Number)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths - Unsafe sanitation - Sex:both - Age:70+ (Number)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths - Unsafe water source - Sex:both - Age:70+ (Number)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
