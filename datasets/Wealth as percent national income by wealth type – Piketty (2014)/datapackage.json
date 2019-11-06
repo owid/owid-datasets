@@ -1,0 +1,59 @@
+{
+  "name": "Wealth as percent national income by wealth type – Piketty (2014)",
+  "title": "Wealth as percent national income by wealth type – Piketty (2014)",
+  "id": 4247,
+  "description": "National wealth held in different forms, expressed as a percentage of national income at the time.\n\nTaken from Thomas Piketty's book, 'Capital in the 21st Century'. All the data used in the book is made available by Piketty on his website here: http://piketty.pse.ens.fr/files/capital21c/en/",
+  "sources": [
+    {
+      "name": "Wealth as percent national income by wealth type – Piketty (2014)",
+      "additionalInfo": "National wealth held in different forms, expressed as a percentage of national income at the time.\n\nTaken from Thomas Piketty's book, 'Capital in the 21st Century'. All the data used in the book is made available by Piketty on his website here: http://piketty.pse.ens.fr/files/capital21c/en/",
+      "dataPublishedBy": "Piketty, T., & Goldhammer, A. (2014). Capital in the twenty-first century. Cambridge Massachusetts: The Belknap Press of Harvard University Press.",
+      "link": "http://piketty.pse.ens.fr/files/capital21c/en/",
+      "retrievedDate": "06/11/19"
+    }
+  ],
+  "owidTags": [
+    "Wealth Inequality"
+  ],
+  "resources": [
+    {
+      "path": "Wealth as percent national income by wealth type – Piketty (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Land wealth (% of national income)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Housing wealth (% of national income)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Other domestic wealth (% of national income)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Net foreign wealth (% of national income)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
