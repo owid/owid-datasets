@@ -57,6 +57,12 @@
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Other domestic wealth plus net foreign wealth (as % of national income)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
           }
         ]
       }
