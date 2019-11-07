@@ -1,0 +1,42 @@
+{
+  "name": "Arable land per crop output (PIN) (FAO, 2019)",
+  "title": "Arable land per crop output (PIN) (FAO, 2019)",
+  "id": 4248,
+  "description": "This metric measures the index of arable land needed to produce a fixed quantity of crops (where values in 1961 are equal to 1.0). \n\nThis is calculated as arable land divided by the crop production index (PIN). The crop production index (PIN) here is the sum of crop commodities produced (after deductions of quantities used as seed and feed). It is weighted by the commodity prices. \n\nValues for arable land use and the crop production index (PIN) is sourced from the UN Food and Agriculture Organization (FAO). ",
+  "sources": [
+    {
+      "name": "Arable land per crop output (PIN) (FAO, 2019)",
+      "dataPublishedBy": "Calculated by Our World in Data based on the UN Food and Agriculture Organization (FAO)",
+      "link": "http://www.fao.org/faostat/en/#data",
+      "retrievedDate": "7th November 2019",
+      "additionalInfo": "This metric measures the index of arable land needed to produce a fixed quantity of crops (where values in 1961 are equal to 1.0). \n\nThis is calculated as arable land divided by the crop production index (PIN). The crop production index (PIN) here is the sum of crop commodities produced (after deductions of quantities used as seed and feed). It is weighted by the commodity prices. \n\nValues for arable land use and the crop production index (PIN) is sourced from the UN Food and Agriculture Organization (FAO). "
+    }
+  ],
+  "owidTags": [
+    "Land Use and Yields in Agriculture",
+    "Land Use"
+  ],
+  "resources": [
+    {
+      "path": "Arable land per crop output (PIN) (FAO, 2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Arable land per crop output (PIN) (FAO, 2019)",
+            "type": "any",
+            "description": "Index of arable land needed to produce a fixed quantity of crops (where values in 1961 are equal to 1.0). This is calculated as arable land divided by the crop production index (PIN). The crop production index (PIN) here is the sum of crop commodities produced (after deductions of quantities used as seed and feed). It is weighted by the commodity prices. ",
+            "owidDisplaySettings": "{\"name\": \"Arable land needed to produce a fixed quantity of crops\", \"unit\": \"(1.0 = 1961)\", \"numDecimalPlaces\": 2}"
+          }
+        ]
+      }
+    }
+  ]
+}
