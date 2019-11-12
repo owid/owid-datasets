@@ -2,14 +2,14 @@
   "name": "Share of deaths attributed to air pollution (IHME, 2019)",
   "title": "Share of deaths attributed to air pollution (IHME, 2019)",
   "id": 4252,
-  "description": "Share of total deaths which are attributed to to air pollution as a risk factor.",
+  "description": "Share of total deaths which are attributed to to air pollution as a risk factor.\n\nFigures for 'Outdoor air pollution' have been calculated by Our World in Data as the sum of figures from the IHME for 'Ambient ozone pollution' and 'Ambient particulate matter pollution'.",
   "sources": [
     {
       "name": "Share of deaths attributed to air pollution (IHME, 2019)",
       "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2017 (GBD 2017) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.",
       "link": "http://ghdx.healthdata.org/gbd-results-tool",
       "retrievedDate": "12th November 2019",
-      "additionalInfo": "Share of total deaths which are attributed to to air pollution as a risk factor."
+      "additionalInfo": "Share of total deaths which are attributed to to air pollution as a risk factor.\n\nFigures for 'Outdoor air pollution' have been calculated by Our World in Data as the sum of figures from the IHME for 'Ambient ozone pollution' and 'Ambient particulate matter pollution'."
     }
   ],
   "owidTags": [
@@ -31,20 +31,20 @@
           {
             "name": "Share of deaths from air pollution (outdoor and indoor) (IHME, 2019)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Share of total deaths which are attributed to to air pollution (both outdoor and indoor) as a risk factor.",
+            "owidDisplaySettings": "{\"name\": \"Share of deaths attributed to air pollution\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "Share of deaths from indoor air pollution (IHME, 2019)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Share of total deaths which are attributed to to indoor air pollution as a risk factor.",
+            "owidDisplaySettings": "{\"name\": \"Share of deaths attributed to indoor air pollution\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "Share of deaths from outdoor air pollution (IHME, 2019)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Share of total deaths which are attributed to to outdoor air pollution as a risk factor.",
+            "owidDisplaySettings": "{\"name\": \"Share of deaths attributed to outdoor air pollution\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
           }
         ]
       }
