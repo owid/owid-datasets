@@ -1,0 +1,53 @@
+{
+  "name": "Share of deaths attributed to air pollution (IHME, 2019)",
+  "title": "Share of deaths attributed to air pollution (IHME, 2019)",
+  "id": 4252,
+  "description": "Share of total deaths which are attributed to to air pollution as a risk factor.",
+  "sources": [
+    {
+      "name": "Share of deaths attributed to air pollution (IHME, 2019)",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2017 (GBD 2017) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.",
+      "link": "http://ghdx.healthdata.org/gbd-results-tool",
+      "retrievedDate": "12th November 2019",
+      "additionalInfo": "Share of total deaths which are attributed to to air pollution as a risk factor."
+    }
+  ],
+  "owidTags": [
+    "Air Pollution"
+  ],
+  "resources": [
+    {
+      "path": "Share of deaths attributed to air pollution (IHME, 2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of deaths from air pollution (outdoor and indoor) (IHME, 2019)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Share of deaths from indoor air pollution (IHME, 2019)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Share of deaths from outdoor air pollution (IHME, 2019)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
