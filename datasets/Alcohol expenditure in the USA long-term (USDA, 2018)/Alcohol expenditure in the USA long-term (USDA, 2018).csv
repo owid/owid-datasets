@@ -1,4 +1,4 @@
-Entity,Year,Liquor stores (at home),Food stores (at home),Other (at home),Total (at home),Restaurants & bars (away from home),Hotels & motels (away from home),All other (away from home),Total (away from home),Total alcohol expenditure
+Entity,Year,"Liquor stores (at home) (USDA, 2018)","Food stores (at home) (USDA, 2018)","Other (at home) (USDA, 2018)","Total (at home) (USDA, 2018)","Restaurants & bars (away from home) (USDA, 2018)","Hotels & motels (away from home) (USDA, 2018)","All other (away from home) (USDA, 2018)",Total (away from home),"Total alcohol expenditure (USDA, 2018)"
 United States,1935,305000000,65000000,199000000,569000000,964000000,81000000,20000000,1065000000,1634000000
 United States,1936,435000000,95000000,220000000,750000000,1195000000,97000000,24000000,1316000000,2066000000
 United States,1937,504000000,113000000,235000000,852000000,1299000000,109000000,28000000,1436000000,2288000000
