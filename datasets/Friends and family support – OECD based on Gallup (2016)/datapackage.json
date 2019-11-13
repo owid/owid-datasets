@@ -1,0 +1,38 @@
+{
+  "name": "Friends and family support – OECD based on Gallup (2016)",
+  "title": "Friends and family support – OECD based on Gallup (2016)",
+  "id": 4253,
+  "description": "",
+  "sources": [
+    {
+      "name": "Friends and family support – OECD based on Gallup (2016)",
+      "retrievedDate": "13 November 2019",
+      "dataPublishedBy": "OECD (2017). How's Life? 2017 Measuring Well-being. Online data annex, Figure A.30, Social support.",
+      "dataPublisherSource": "OECD calculations based on Gallup World Poll, www.gallup.com/services/170945/world-poll.aspx."
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "Friends and family support – OECD based on Gallup (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "People who report having friends or relatives they can count on",
+            "type": "any",
+            "description": "Percentage of people who report that they have friends or relatives whom they can count on in times of trouble, 2014-16 average or latest available period",
+            "owidDisplaySettings": "{\"name\": \"People who report having friends or relatives they can count on\", \"unit\": \"%\", \"shortUnit\": \"%\", \"numDecimalPlaces\": 1}"
+          }
+        ]
+      }
+    }
+  ]
+}
