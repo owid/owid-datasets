@@ -1,0 +1,76 @@
+{
+  "name": "Job search methods US - Pew Research Center (2015)",
+  "title": "Job search methods US - Pew Research Center (2015)",
+  "id": 4246,
+  "description": "Among Americans who have looked for a new job in the last two years, the percentage who say they used a certain method in their most recent search for a job. \n\nNote: based on the 34% of Americans who have looked for a job in the last two years. \n\nThe survey was conducted June 10 - July 12, 2015. Sample size = 2,001.",
+  "sources": [
+    {
+      "name": "Pew Research Center (2015)",
+      "retrievedDate": "04/11/2019",
+      "link": "https://www.pewresearch.org/internet/2015/11/19/searching-for-work-in-the-digital-era/pi_2015-11-19_internet-and-job-seeking_0-01/",
+      "dataPublisherSource": "Pew Research Center",
+      "dataPublishedBy": "Pew Research Center",
+      "additionalInfo": "Among Americans who have looked for a new job in the last two years, the percentage who say they used a certain method in their most recent search for a job. \n\nNote: based on the 34% of Americans who have looked for a job in the last two years. \n\nThe survey was conducted June 10 - July 12, 2015. Sample size = 2,001."
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "Job search methods US - Pew Research Center (2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Percentage who used online resources and information",
+            "type": "any",
+            "description": "The percentage of Americans, who have looked for a job in the last two years, and used online resources and information in their most recent job search. ",
+            "owidDisplaySettings": "{\"unit\": \"%\"}"
+          },
+          {
+            "name": "Percentage who used connections with close friends or family",
+            "type": "any",
+            "description": "The percentage of Americans, who have looked for a job in the last two years, and used connections with close friends or family in their most recent job search. ",
+            "owidDisplaySettings": "{\"unit\": \"%\"}"
+          },
+          {
+            "name": "Percentage who used professional or work connections",
+            "type": "any",
+            "description": "The percentage of Americans, who have looked for a job in the last two years, and used professional or work connections in their most recent job search. ",
+            "owidDisplaySettings": "{\"unit\": \"%\"}"
+          },
+          {
+            "name": "Percentage who used acquaintances or friends-of-friends",
+            "type": "any",
+            "description": "The percentage of Americans, who have looked for a job in the last two years, and used acquaintances or friends-of-friends in their most recent job search. ",
+            "owidDisplaySettings": "{\"unit\": \"%\"}"
+          },
+          {
+            "name": "Percentage who used employment agencies (government or private)",
+            "type": "any",
+            "description": "The percentage of Americans, who have looked for a job in the last two years, and used employment agencies (government or private) in their most recent job search. ",
+            "owidDisplaySettings": "{\"unit\": \"%\"}"
+          },
+          {
+            "name": "Percentage who used ads in print publications",
+            "type": "any",
+            "description": "The percentage of Americans, who have looked for a job in the last two years, and used ads in print publications in their most recent job search. ",
+            "owidDisplaySettings": "{\"unit\": \"%\"}"
+          },
+          {
+            "name": "Percentage who used job fairs, conferences, and other events",
+            "type": "any",
+            "description": "The percentage of Americans, who have looked for a job in the last two years, and used job fairs, conferences, and other events in their most recent job search. ",
+            "owidDisplaySettings": "{\"unit\": \"%\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
