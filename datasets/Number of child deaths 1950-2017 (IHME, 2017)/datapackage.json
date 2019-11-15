@@ -12,7 +12,9 @@
       "retrievedDate": "15/11/2019"
     }
   ],
-  "owidTags": [],
+  "owidTags": [
+    "Child Mortality"
+  ],
   "resources": [
     {
       "path": "Number of child deaths 1950-2017 (IHME, 2017).csv",
