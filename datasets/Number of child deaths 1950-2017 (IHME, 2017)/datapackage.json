@@ -1,0 +1,39 @@
+{
+  "name": "Number of child deaths 1950-2017 (IHME, 2017)",
+  "title": "Number of child deaths 1950-2017 (IHME, 2017)",
+  "id": 4254,
+  "description": "The number of deaths of children under five years old.\n\nThis data is available from 1950 to 2017 in 5-year intervals from the Institute of Health Metrics and Evaluation (IHME) Global Burden of Disease study, available at: http://ghdx.healthdata.org/record/ihme-data/gbd-2017-all-cause-mortality-and-life-expectancy-1950-2017",
+  "sources": [
+    {
+      "name": "IHME (2017)",
+      "additionalInfo": "The number of deaths of children under five years old.\n\nThis data is available from 1950 to 2017 in 5-year intervals from the Institute of Health Metrics and Evaluation (IHME) Global Burden of Disease study, available at: http://ghdx.healthdata.org/record/ihme-data/gbd-2017-all-cause-mortality-and-life-expectancy-1950-2017",
+      "dataPublishedBy": " Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2017 (GBD 2017) All-cause Mortality and Life Expectancy 1950-2017. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.",
+      "link": "http://ghdx.healthdata.org/record/ihme-data/gbd-2017-all-cause-mortality-and-life-expectancy-1950-2017",
+      "retrievedDate": "15/11/2019"
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "Number of child deaths 1950-2017 (IHME, 2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of child deaths 1950-2017 (IHME, 2017)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
