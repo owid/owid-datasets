@@ -19,4 +19,4 @@ Further notes:
 </br>
 - For Paraguay in 1982, the OxLAD data source was favoured over the World Bank (WDI) as the latter estimates literacy rates at 78.46%, a much lower estimate compared to neighbouring years for which there was data available.
 </br>
-- Sources for each country-year observation can be found in <a href="https://owid.cloud/wp-content/uploads/2018/06/cross-country-literacy-sources-final.csv" rel="noopener" target="_blank">this table.</a>  
+- Sources for each country-year observation can be found in <a href="http://ourworldindata.org/wp-content/uploads/2018/06/cross-country-literacy-sources-final.csv" rel="noopener" target="_blank">this table.</a>  

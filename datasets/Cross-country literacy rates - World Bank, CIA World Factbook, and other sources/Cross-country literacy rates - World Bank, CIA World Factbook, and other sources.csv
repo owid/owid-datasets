@@ -353,12 +353,12 @@ Early-demographic dividend,2010,76.508362
 East Asia & Pacific,1990,82.054344
 East Asia & Pacific,2000,91.61869
 East Asia & Pacific,2010,95.108223
-East Asia & Pacific (excluding high income),1990,79.744202
-East Asia & Pacific (excluding high income),2000,90.773033
-East Asia & Pacific (excluding high income),2010,94.751671
 East Asia & Pacific (IDA & IBRD),1990,79.458626
 East Asia & Pacific (IDA & IBRD),2000,90.649956
 East Asia & Pacific (IDA & IBRD),2010,94.689247
+East Asia & Pacific (excluding high income),1990,79.744202
+East Asia & Pacific (excluding high income),2000,90.773033
+East Asia & Pacific (excluding high income),2010,94.751671
 Ecuador,1900,33
 Ecuador,1910,38
 Ecuador,1920,42
@@ -439,12 +439,12 @@ Ethiopia,2015,49.031521
 Europe & Central Asia,1990,97.260788
 Europe & Central Asia,2000,98.145844
 Europe & Central Asia,2010,98.997589
-Europe & Central Asia (excluding high income),1990,95.567757
-Europe & Central Asia (excluding high income),2000,97.218407
-Europe & Central Asia (excluding high income),2010,98.799637
 Europe & Central Asia (IDA & IBRD),1990,95.9422
 Europe & Central Asia (IDA & IBRD),2000,97.452644
 Europe & Central Asia (IDA & IBRD),2010,98.890953
+Europe & Central Asia (excluding high income),1990,95.567757
+Europe & Central Asia (excluding high income),2000,97.218407
+Europe & Central Asia (excluding high income),2010,98.799637
 Fiji,2003,93.699997
 Finland,2000,100
 Fragile and conflict affected situations,2000,63.947193
@@ -590,7 +590,6 @@ Hungary,2015,99.380882
 IBRD only,1990,73.642052
 IBRD only,2000,82.563576
 IBRD only,2010,87.329063
-Iceland,2003,99
 IDA & IBRD total,1990,69.861198
 IDA & IBRD total,2000,77.905838
 IDA & IBRD total,2010,82.390694
@@ -602,6 +601,7 @@ IDA only,2010,61.650894
 IDA total,1990,54.144699
 IDA total,2000,59.467594
 IDA total,2010,64.433121
+Iceland,2003,99
 India,1981,40.763592
 India,1991,48.222069
 India,2001,61.014561
@@ -693,12 +693,12 @@ Late-demographic dividend,2010,94.784943
 Latin America & Caribbean,1990,87.463829
 Latin America & Caribbean,2000,89.736443
 Latin America & Caribbean,2010,92.624313
-Latin America & Caribbean (excluding high income),1990,87.101639
-Latin America & Caribbean (excluding high income),2000,89.450394
-Latin America & Caribbean (excluding high income),2010,92.44799
 Latin America & Caribbean (IDA & IBRD),1990,87.065071
 Latin America & Caribbean (IDA & IBRD),2000,89.473671
 Latin America & Caribbean (IDA & IBRD),2010,92.4664
+Latin America & Caribbean (excluding high income),1990,87.101639
+Latin America & Caribbean (excluding high income),2000,89.450394
+Latin America & Caribbean (excluding high income),2010,92.44799
 Latvia,1989,99.452301
 Latvia,2000,99.746567
 Latvia,2011,99.895897
@@ -814,12 +814,12 @@ Micronesia,1980,89
 Middle East & North Africa,1990,58.496243
 Middle East & North Africa,2000,70.403152
 Middle East & North Africa,2010,80.750015
-Middle East & North Africa (excluding high income),1990,56.039429
-Middle East & North Africa (excluding high income),2000,68.023575
-Middle East & North Africa (excluding high income),2010,78.438812
 Middle East & North Africa (IDA & IBRD),1990,55.750252
 Middle East & North Africa (IDA & IBRD),2000,67.76973
 Middle East & North Africa (IDA & IBRD),2010,78.232857
+Middle East & North Africa (excluding high income),1990,56.039429
+Middle East & North Africa (excluding high income),2000,68.023575
+Middle East & North Africa (excluding high income),2010,78.438812
 Middle income,1990,71.371117
 Middle income,2000,79.700737
 Middle income,2010,84.38868
@@ -1194,11 +1194,11 @@ Sri Lanka,2010,91.181358
 Sri Lanka,2015,92.614166
 Sub-Saharan Africa,2000,56.981934
 Sub-Saharan Africa,2010,60.880547
-Sub-Saharan Africa (excluding high income),2000,56.976406
-Sub-Saharan Africa (excluding high income),2010,60.875755
 Sub-Saharan Africa (IDA & IBRD),1990,52.531582
 Sub-Saharan Africa (IDA & IBRD),2000,56.981934
 Sub-Saharan Africa (IDA & IBRD),2010,60.880547
+Sub-Saharan Africa (excluding high income),2000,56.976406
+Sub-Saharan Africa (excluding high income),2010,60.875755
 Sudan,2000,61.345871
 Sudan,2008,53.51738
 Sudan,2015,58.601318
