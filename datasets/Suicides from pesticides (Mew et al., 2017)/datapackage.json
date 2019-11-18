@@ -1,0 +1,48 @@
+{
+  "name": "Suicides from pesticides (Mew et al., 2017)",
+  "title": "Suicides from pesticides (Mew et al., 2017)",
+  "id": 4868,
+  "description": "Mew et al. (2017) estimated the share and number of suicide deaths globally and regionally which resulted from pesticide poisoning.\n\nThe authors did so using:\n\"WHO method-specific suicide data were supplemented by a systematic review of the literature between 2006 and 2015, including searches of thirteen electronic databases and Google, citation searching and a review of reference lists and personal collections. Our primary outcome was the proportion of total suicides due to pesticide poisoning. Weighted estimates were calculated for seven WHO regional and income strata.\"",
+  "sources": [
+    {
+      "name": "Suicides from pesticides (Mew et al., 2017)",
+      "dataPublishedBy": "Mew, E. J., Padmanathan, P., Konradsen, F., Eddleston, M., Chang, S. S., Phillips, M. R., & Gunnell, D. (2017). The global burden of fatal self-poisoning with pesticides 2006-15: systematic review. Journal of affective disorders, 219, 93-104.",
+      "link": "https://www.sciencedirect.com/science/article/pii/S016503271730280X",
+      "retrievedDate": "18th November 2019",
+      "additionalInfo": "Mew et al. (2017) estimated the share and number of suicide deaths globally and regionally which resulted from pesticide poisoning.\n\nThe authors did so using:\n\"WHO method-specific suicide data were supplemented by a systematic review of the literature between 2006 and 2015, including searches of thirteen electronic databases and Google, citation searching and a review of reference lists and personal collections. Our primary outcome was the proportion of total suicides due to pesticide poisoning. Weighted estimates were calculated for seven WHO regional and income strata.\""
+    }
+  ],
+  "owidTags": [
+    "Suicide",
+    "Pesticides"
+  ],
+  "resources": [
+    {
+      "path": "Suicides from pesticides (Mew et al., 2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of suicide deaths from pesticides (Mew et al. 2017)",
+            "type": "any",
+            "description": "Share of deaths from suicide which result from pesticide poisoning",
+            "owidDisplaySettings": "{\"name\": \"Share of deaths from pesticide poisoning\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
+          },
+          {
+            "name": "Annual suicide deaths from pesticides (Mew et al. 2017)",
+            "type": "any",
+            "description": "Estimated number of deaths from suicide by method of pesticide poisoning.",
+            "owidDisplaySettings": "{\"name\": \"Estimated annual suicide deaths from pesticide poisoning\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
