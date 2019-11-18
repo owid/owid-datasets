@@ -1,0 +1,215 @@
+{
+  "name": "Suicide rates by sex and age (IHME, 2019)",
+  "title": "Suicide rates by sex and age (IHME, 2019)",
+  "id": 4867,
+  "description": "Death rates from suicide are measured as the number of suicide deaths measured per 100,000 individuals in a given demographic group.\n\nThe male-female suicide ratio is calculated by Our World in Data by dividing the male age-standardized suicide rate by the female age-standardized rate.",
+  "sources": [
+    {
+      "name": "Suicide rates by sex and age (IHME, 2019)",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2017 (GBD 2017) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.",
+      "link": "http://ghdx.healthdata.org/gbd-results-tool",
+      "retrievedDate": "18th November 2019",
+      "additionalInfo": "Death rates from suicide are measured as the number of suicide deaths measured per 100,000 individuals in a given demographic group.\n\nThe male-female suicide ratio is calculated by Our World in Data by dividing the male age-standardized suicide rate by the female age-standardized rate."
+    }
+  ],
+  "owidTags": [
+    "Suicide"
+  ],
+  "resources": [
+    {
+      "path": "Suicide rates by sex and age (IHME, 2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Male suicide rate (age-standardized)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Female suicide rate (age-standardized)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Male:female suicide ratio",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 15-19 years (Male)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 15-19 years (Female)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 15-19 years (Both sexes)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 20-24 years (Male)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 20-24 years (Female)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 20-24 years (Both sexes)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 25-29 years (Male)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 25-29 years (Female)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 25-29 years (Both sexes)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 30-34 years (Male)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 30-34 years (Female)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 30-34 years (Both sexes)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 35-39 years (Male)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 35-39 years (Female)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 35-39 years (Both sexes)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 40-44 years (Male)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 40-44 years (Female)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 40-44 years (Both sexes)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 45-49 years (Male)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 45-49 years (Female)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 45-49 years (Both sexes)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 50-69 years (Male)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 50-69 years (Female)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 50-69 years (Both sexes)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 70+ years (Male)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 70+ years (Female)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Suicide rate - 70+ years (Both sexes)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
