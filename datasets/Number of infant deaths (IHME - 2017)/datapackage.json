@@ -1,0 +1,41 @@
+{
+  "name": "Number of infant deaths (IHME - 2017)",
+  "title": "Number of infant deaths (IHME - 2017)",
+  "id": 4871,
+  "description": "Number of infants dying before reaching one year of age.",
+  "sources": [
+    {
+      "name": "IHME (2017)",
+      "additionalInfo": "Number of infants dying before reaching one year of age.",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2017 (GBD 2017) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.",
+      "link": "http://ghdx.healthdata.org/gbd-results-tool",
+      "retrievedDate": "19/11/19"
+    }
+  ],
+  "owidTags": [
+    "Infant Mortality"
+  ],
+  "resources": [
+    {
+      "path": "Number of infant deaths (IHME - 2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of infant deaths (IHME - 2017)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
