@@ -7,10 +7,14 @@
     {
       "name": "IHME (2017)",
       "additionalInfo": "Number of infants (less than one year old) dying per 100,000.",
-      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2017 (GBD 2017) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018."
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2017 (GBD 2017) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.",
+      "link": "http://ghdx.healthdata.org/gbd-results-tool",
+      "retrievedDate": "19/11/19"
     }
   ],
-  "owidTags": [],
+  "owidTags": [
+    "Infant Mortality"
+  ],
   "resources": [
     {
       "path": "Infant mortality rate (IHME - 2017).csv",
@@ -27,8 +31,8 @@
           {
             "name": "Infant mortality rate",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The share of newborns who die before reaching one year of age.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"conversionFactor\": 0.001}"
           }
         ]
       }
