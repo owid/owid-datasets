@@ -2,7 +2,7 @@
   "name": "Percentage of adults living alone in the US and Canada- US Census Bureau & Statistics Canada",
   "title": "Percentage of adults living alone in the US and Canada- US Census Bureau & Statistics Canada",
   "id": 4865,
-  "description": "Data for the United States is for the share of adults aged 18 and over, while for Canada estimates are for the proportion of the population aged 15 and over who live alone. ",
+  "description": "Data for the United States corresponds to population aged 18 and over. Data for Canada corresponds to population aged 15 and over. ",
   "sources": [
     {
       "name": "US Census Bureau & Statistics Canada",
@@ -10,7 +10,7 @@
       "retrievedDate": "15/11/2019",
       "dataPublishedBy": "US Census Bureau & Tan, Galbraith, and Truong (2019), Statistics Canada",
       "dataPublisherSource": "Census data",
-      "additionalInfo": "Data for the United States is for the share of adults aged 18 and over, while for Canada estimates are for the proportion of the population aged 15 and over who live alone. "
+      "additionalInfo": "Data for the United States corresponds to population aged 18 and over. Data for Canada corresponds to population aged 15 and over. "
     }
   ],
   "owidTags": [],
