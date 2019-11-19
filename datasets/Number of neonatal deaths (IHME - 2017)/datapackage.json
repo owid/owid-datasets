@@ -1,0 +1,42 @@
+{
+  "name": "Number of neonatal deaths (IHME - 2017)",
+  "title": "Number of neonatal deaths (IHME - 2017)",
+  "id": 4869,
+  "description": "Number of newborns dying before reaching 28 days of age.",
+  "sources": [
+    {
+      "name": "IHME (2017)",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2017 (GBD 2017) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.",
+      "link": "http://ghdx.healthdata.org/gbd-results-tool",
+      "retrievedDate": "18/11/2019",
+      "additionalInfo": "Number of newborns dying before reaching 28 days of age."
+    }
+  ],
+  "owidTags": [
+    "Child Mortality",
+    "Infant Mortality"
+  ],
+  "resources": [
+    {
+      "path": "Number of neonatal deaths (IHME - 2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of neonatal deaths",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}

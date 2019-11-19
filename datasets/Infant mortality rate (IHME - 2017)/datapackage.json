@@ -1,0 +1,37 @@
+{
+  "name": "Infant mortality rate (IHME - 2017)",
+  "title": "Infant mortality rate (IHME - 2017)",
+  "id": 4870,
+  "description": "Number of infants (less than one year old) dying per 100,000.",
+  "sources": [
+    {
+      "name": "IHME (2017)",
+      "additionalInfo": "Number of infants (less than one year old) dying per 100,000.",
+      "dataPublishedBy": "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2017 (GBD 2017) Results. Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018."
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "Infant mortality rate (IHME - 2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Infant mortality rate",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
