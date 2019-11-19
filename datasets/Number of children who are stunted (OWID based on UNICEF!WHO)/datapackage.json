@@ -1,0 +1,40 @@
+{
+  "name": "Number of children who are stunted (OWID based on UNICEF/WHO)",
+  "title": "Number of children who are stunted (OWID based on UNICEF/WHO)",
+  "id": 4872,
+  "description": "This dataset multiplies the stunting prevalence figures from UNICEF/WHO by the under 5 population (UN Population Division 2017)",
+  "sources": [
+    {
+      "name": "OWID based on UNICEF/WHO",
+      "additionalInfo": "This dataset multiplies the stunting prevalence figures from UNICEF/WHO by the under 5 population (UN Population Division 2017)",
+      "dataPublishedBy": "World Bank – World Development Indicators",
+      "dataPublisherSource": "UNICEF, WHO, World Bank: Joint child malnutrition estimates (JME). Aggregation is based on UNICEF, WHO, and the World Bank harmonized dataset (adjusted, comparable data) and methodology."
+    }
+  ],
+  "owidTags": [
+    "Hunger & Undernourishment"
+  ],
+  "resources": [
+    {
+      "path": "Number of children who are stunted (OWID based on UNICEF/WHO).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of children who are stunted",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
