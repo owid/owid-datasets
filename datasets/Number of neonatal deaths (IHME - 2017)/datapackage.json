@@ -30,9 +30,9 @@
             "type": "year"
           },
           {
-            "name": "Number of neonatal deaths",
+            "name": "Number of neonatal deaths (IHME - 2017)",
             "type": "any",
-            "description": null,
+            "description": "Number of newborns dying before reaching 28 days of age",
             "owidDisplaySettings": "{}"
           }
         ]

@@ -1,4 +1,4 @@
-Entity,Year,Number of neonatal deaths
+Entity,Year,Number of neonatal deaths (IHME - 2017)
 Afghanistan,1990,29834
 Afghanistan,1991,30515
 Afghanistan,1992,33320
@@ -6103,6 +6103,34 @@ Western Sub-Saharan Africa,2014,513650
 Western Sub-Saharan Africa,2015,507143
 Western Sub-Saharan Africa,2016,500460
 Western Sub-Saharan Africa,2017,495130
+World,1990,4300142
+World,1991,4243388
+World,1992,4188255
+World,1993,4126942
+World,1994,4044616
+World,1995,3974806
+World,1996,3893782
+World,1997,3844037
+World,1998,3793344
+World,1999,3728299
+World,2000,3661809
+World,2001,3590155
+World,2002,3520370
+World,2003,3467702
+World,2004,3399555
+World,2005,3330058
+World,2006,3256450
+World,2007,3179787
+World,2008,3110231
+World,2009,3039349
+World,2010,2970909
+World,2011,2899344
+World,2012,2823357
+World,2013,2736869
+World,2014,2650553
+World,2015,2562881
+World,2016,2458353
+World,2017,2367227
 Yemen,1990,28726
 Yemen,1991,28835
 Yemen,1992,28993
