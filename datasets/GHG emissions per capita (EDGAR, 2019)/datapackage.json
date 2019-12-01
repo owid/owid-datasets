@@ -1,0 +1,48 @@
+{
+  "name": "GHG emissions per capita (EDGAR, 2019)",
+  "title": "GHG emissions per capita (EDGAR, 2019)",
+  "id": 4878,
+  "description": "Total greenhouse gas emissions in CO2 equivalent are composed of CO2 totals excluding short-cycle biomass burning (such as agricultural waste burning and Savannah burning) but including other biomass burning (such as forest fires, post-burn decay, peat fires and decay of drained peatlands), all anthropogenic CH4 sources, N2O sources and F-gases (HFCs, PFCs and SF6).\n\nFigures on per capita greenhouse gas (GHG) emissions were calculated by Our World in Data based on total GHG emissions, and population data published in the World Bank, World Development Indicators. \n\nThe World Bank (WDI) publishes figures on annual GHG emissions by country, sourced from the European Commission, Joint Research Centre (JRC)/Netherlands Environmental Assessment Agency (PBL). And population data sourced from the UN World Population Prospects.\n\nPer capita GHG emissions per year was calculated by dividing total annual emissions by country by its population in the given year.\n\nPer capita GHG emissions per day was calculated by diving annual per capita figures by 365 (and converting from tonnes to kilograms by multiplying by 1000).\n\nThe World Bank, World Development Indicators can be sourced at: http://data.worldbank.org/data-catalog/world-development-indicators\n\nThe original data from EDGAR can be sourced at: http://edgar.jrc.ec.europa.eu/",
+  "sources": [
+    {
+      "name": "GHG emissions per capita (EDGAR)",
+      "dataPublishedBy": "Calculated by Our World in Data based on data from the World Bank – World Development Indicators",
+      "dataPublisherSource": "European Commission, Joint Research Centre (JRC)/Netherlands Environmental Assessment Agency (PBL). Emission Database for Global Atmospheric Research (EDGAR), EDGARv4.2 FT2012: http://edgar.jrc.ec.europa.eu/",
+      "link": "http://data.worldbank.org/data-catalog/world-development-indicators",
+      "retrievedDate": "1st December 2019",
+      "additionalInfo": "Total greenhouse gas emissions in CO2 equivalent are composed of CO2 totals excluding short-cycle biomass burning (such as agricultural waste burning and Savannah burning) but including other biomass burning (such as forest fires, post-burn decay, peat fires and decay of drained peatlands), all anthropogenic CH4 sources, N2O sources and F-gases (HFCs, PFCs and SF6).\n\nFigures on per capita greenhouse gas (GHG) emissions were calculated by Our World in Data based on total GHG emissions, and population data published in the World Bank, World Development Indicators. \n\nThe World Bank (WDI) publishes figures on annual GHG emissions by country, sourced from the European Commission, Joint Research Centre (JRC)/Netherlands Environmental Assessment Agency (PBL). And population data sourced from the UN World Population Prospects.\n\nPer capita GHG emissions per year was calculated by dividing total annual emissions by country by its population in the given year.\n\nPer capita GHG emissions per day was calculated by diving annual per capita figures by 365 (and converting from tonnes to kilograms by multiplying by 1000).\n\nThe World Bank, World Development Indicators can be sourced at: http://data.worldbank.org/data-catalog/world-development-indicators\n\nThe original data from EDGAR can be sourced at: http://edgar.jrc.ec.europa.eu/"
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "GHG emissions per capita (EDGAR, 2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "GHG emissions per capita (tonnes CO2e) (EDGAR, 2019)",
+            "type": "any",
+            "description": "Greenhouse gas (GHG) emissions per capita is measured in tonnes of carbon dioxide equivalents (CO₂e), on the basis of production (meaning they do not account for emissions embedded in trade).\n\nTotal greenhouse gas emissions in CO2 equivalent are composed of CO2 totals excluding short-cycle biomass burning (such as agricultural waste burning and Savannah burning) but including other biomass burning (such as forest fires, post-burn decay, peat fires and decay of drained peatlands), all anthropogenic CH4 sources, N2O sources and F-gases (HFCs, PFCs and SF6).",
+            "owidDisplaySettings": "{\"name\": \"GHG emissions per capita\", \"unit\": \"tonnes carbon dioxide equivalents (CO₂e)\", \"shortUnit\": \"t\", \"numDecimalPlaces\": 2}"
+          },
+          {
+            "name": "GHG emissions per capita per day (kgCO2e) (EDGAR, 2019)",
+            "type": "any",
+            "description": "Greenhouse gas (GHG) emissions per capita per day is measured kilograms of carbon dioxide equivalents (CO₂e), on the basis of production (meaning they do not account for emissions embedded in trade).\n\nTotal greenhouse gas emissions in CO2 equivalent are composed of CO2 totals excluding short-cycle biomass burning (such as agricultural waste burning and Savannah burning) but including other biomass burning (such as forest fires, post-burn decay, peat fires and decay of drained peatlands), all anthropogenic CH4 sources, N2O sources and F-gases (HFCs, PFCs and SF6).",
+            "owidDisplaySettings": "{\"name\": \"GHG emissions per capita per day\", \"unit\": \"kilograms carbon dioxide equivalents (CO₂e)\", \"shortUnit\": \"kg\", \"numDecimalPlaces\": 2}"
+          }
+        ]
+      }
+    }
+  ]
+}
