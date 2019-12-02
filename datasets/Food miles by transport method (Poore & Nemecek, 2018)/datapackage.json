@@ -1,0 +1,47 @@
+{
+  "name": "Food miles by transport method (Poore & Nemecek, 2018)",
+  "title": "Food miles by transport method (Poore & Nemecek, 2018)",
+  "id": 4879,
+  "description": "Data is based on an the largest meta-analysis of food system impact studies to date, from Poore & Nemecek's 2018 study.\n\nThe authors note the following about the scope of the studies included in this meta-analysis:\n\"We derived data from a comprehensive meta-analysis, identifying 1530 studies for potential inclusion, which were supplemented with additional data received from 139 authors. Studies were assessed against 11 criteria designed to standardize methodology, resulting in 570 suitable studies with a median reference year of 2010. The data set covers ~38,700 commercially viable farms in 119 countries and 40 products representing ~90% of global protein and calorie consumption'.\n\nA tonne-kilometre, abbreviated as tkm, is a unit of measure of freight transport which represents the transport of one tonne of goods (including packaging and tare weights of intermodal transport units) by a given transport mode (road, rail, air, sea, inland waterways, pipeline etc.) over a distance of one kilometre.\n",
+  "sources": [
+    {
+      "name": "Food miles by transport method (Poore & Nemecek, 2018)",
+      "dataPublishedBy": "Poore, J., & Nemecek, T. (2018). Reducing food’s environmental impacts through producers and consumers. Science, 360(6392), 987-992.",
+      "link": "https://science.sciencemag.org/content/360/6392/987",
+      "retrievedDate": "2nd December 2019",
+      "additionalInfo": "Data is based on an the largest meta-analysis of food system impact studies to date, from Poore & Nemecek's 2018 study.\n\nThe authors note the following about the scope of the studies included in this meta-analysis:\n\"We derived data from a comprehensive meta-analysis, identifying 1530 studies for potential inclusion, which were supplemented with additional data received from 139 authors. Studies were assessed against 11 criteria designed to standardize methodology, resulting in 570 suitable studies with a median reference year of 2010. The data set covers ~38,700 commercially viable farms in 119 countries and 40 products representing ~90% of global protein and calorie consumption'.\n\nA tonne-kilometre, abbreviated as tkm, is a unit of measure of freight transport which represents the transport of one tonne of goods (including packaging and tare weights of intermodal transport units) by a given transport mode (road, rail, air, sea, inland waterways, pipeline etc.) over a distance of one kilometre.\n"
+    }
+  ],
+  "owidTags": [
+    "Food Trade"
+  ],
+  "resources": [
+    {
+      "path": "Food miles by transport method (Poore & Nemecek, 2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Food miles (million tonne kilometers) (Poore & Nemecek, 2018)",
+            "type": "any",
+            "description": "Food miles by transport method are measured in tonne kilometers.",
+            "owidDisplaySettings": "{\"name\": \"Food miles by transport method\", \"unit\": \"tonne kilometers\", \"shortUnit\": \"tkm\", \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Share of food miles (Poore & Nemecek, 2018)",
+            "type": "any",
+            "description": "Each transport method's share of total food miles (as measured in tonne kilometers). ",
+            "owidDisplaySettings": "{\"name\": \"Share of food miles by transport method\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
