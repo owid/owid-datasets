@@ -1,6 +1,6 @@
 # CO2 mitigation curves for 1.5C (Andrews & GCP, 2019)
 
-Data marks the range of CO2 mitigation curves for a range of 'peak scenarios': scenarios are based on the necessary annual emission curves necessary if emissions mitigation was to start (soon peaking then falling) in a given year. 
+Data denotes the range of CO2 mitigation curves for a range of 'peak scenarios': scenarios are based on the necessary annual emission curves necessary if emissions mitigation was to start (soon peaking then falling) in a given year. 
 
 For example, 'Start in 2010' marks the necessary future emissions pathway to have a >66% chance of keeping global average temperatures below 1.5C warming if global CO2 emissions mitigation had started in 2010, very quickly peaking then falling. 
 
