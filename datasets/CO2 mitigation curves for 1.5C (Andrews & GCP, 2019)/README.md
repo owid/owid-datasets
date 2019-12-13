@@ -1,6 +1,6 @@
 # CO2 mitigation curves for 1.5C (Andrews & GCP, 2019)
 
-Data denotes the range of CO2 mitigation curves for a range of 'peak scenarios': scenarios are based on the necessary annual emission curves necessary if emissions mitigation was to start (soon peaking then falling) in a given year. 
+Data denotes the range of CO2 mitigation curves for a range of 'start year scenarios': scenarios are based on the annual emission reductions necessary to keep global temperature rise below 1.5C if emissions mitigation was to start in a given year. 
 
 For example, 'Start in 2010' marks the necessary future emissions pathway to have a >66% chance of keeping global average temperatures below 1.5C warming if global CO2 emissions mitigation had started in 2010, very quickly peaking then falling. 
 
@@ -8,4 +8,4 @@ Data is sourced from Robbie Andrew, and available for download here: http://folk
 
 Historical emissions to 2017 are sourced from CDIAC/Global Carbon Project, projection to 2018 from Global Carbon Project (Le Quéré et al. 2018).
 
-Global cumulative CO2 emissions budgets are from the IPCC Special Report on 1.5°C (Rogelj et al 2018): 420 GtCO2 for a 66% of 1.5°C and 1170 GtCO2 for a 66% of 2°C. Mitigation curves describe approximately exponential decay pathways such that the quota is never exceeded (see Raupach et al., 2014). 
+Global cumulative CO2 emissions budgets are from the IPCC Special Report on 1.5°C (Rogelj et al 2018): 420 GtCO2 for a 66% of 1.5°C and 1170 GtCO2 for a 66% of 2°C. Mitigation curves describe approximately exponential decay pathways such that the quota is never exceeded (see Raupach et al., 2014).
