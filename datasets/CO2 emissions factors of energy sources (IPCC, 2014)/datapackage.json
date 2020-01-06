@@ -1,0 +1,42 @@
+{
+  "name": "CO2 emissions factors of energy sources (IPCC, 2014)",
+  "title": "CO2 emissions factors of energy sources (IPCC, 2014)",
+  "id": 4886,
+  "description": "Lifecycle greenhouse gas emission factors for different fuel sources, as reported in the IPCC's latest 5th Assessment Report (AR5). These emissions factors include all greenhouse gases (normalised to carbon dioxide-equivalents) and stages of the supply chain, including direct combustion, infrastructure and supply chains, and albedo effect.\n\nAll figures, with the exception of oil are sourced from the IPCC's AR5 Working Group III Annex: https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf\n\nEmissions factors are given for select electricity sources in gCO₂/kWh – which does not include crude oil. To derive a comparable emissions factor for oil, we have taken the emissions factor for coal in gCO₂/kWh and multiplied it by the ratio of coal-to-oil default emissions factors in the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, available here: https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_1_Ch1_Introduction.pdf\n\nSo, the emissions factor for oil is derived as 833gCO₂eq/kWh * [73 300 / 98 300] = 611 gCO₂eq/kWh.",
+  "sources": [
+    {
+      "name": "CO2 emissions factors of energy sources (IPCC, 2014)",
+      "dataPublishedBy": "Schlömer S., T. Bruckner, L. Fulton, E. Hertwich, A. McKinnon, D. Perczyk, J. Roy, R. Schaeffer, R. Sims, P. Smith, and R. Wiser, 2014: Annex III: Technology-specific cost and performance parameters. In: Climate Change 2014: Mitigation of Climate Change. Contribution of Working Group III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Edenhofer, O., R. Pichs-Madruga, Y. Sokona, E. Farahani, S. Kadner, K. Seyboth, A. Adler, I. Baum, S. Brunner, P. Eickemeier, B. Kriemann, J. Savolainen, S. Schlömer, C. von Stechow, T. Zwickel and J.C. Minx (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.",
+      "link": "https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf",
+      "retrievedDate": "6th January 2020",
+      "additionalInfo": "Lifecycle greenhouse gas emission factors for different fuel sources, as reported in the IPCC's latest 5th Assessment Report (AR5). These emissions factors include all greenhouse gases (normalised to carbon dioxide-equivalents) and stages of the supply chain, including direct combustion, infrastructure and supply chains, and albedo effect.\n\nAll figures, with the exception of oil are sourced from the IPCC's AR5 Working Group III Annex: https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf\n\nEmissions factors are given for select electricity sources in gCO₂/kWh – which does not include crude oil. To derive a comparable emissions factor for oil, we have taken the emissions factor for coal in gCO₂/kWh and multiplied it by the ratio of coal-to-oil default emissions factors in the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, available here: https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_1_Ch1_Introduction.pdf\n\nSo, the emissions factor for oil is derived as 833gCO₂eq/kWh * [73 300 / 98 300] = 611 gCO₂eq/kWh."
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions",
+    "Energy Production & Changing Energy Sources"
+  ],
+  "resources": [
+    {
+      "path": "CO2 emissions factors of energy sources (IPCC, 2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Lifecycle emissions (gCOeq/kWh) (IPCC, 2014)",
+            "type": "any",
+            "description": "Lifecycle greenhouse gas emissions of different fuel sources, measured in grams of carbon dioxide-equivalents per kilowatt-hour (gCO₂eq/kWh).",
+            "owidDisplaySettings": "{\"name\": \"Greenhouse gas emissions per unit energy\", \"unit\": \"grams carbon dioxide-equivalents per kilowatt-hour\", \"shortUnit\": \"gCO₂eq/kWh\"}"
+          }
+        ]
+      }
+    }
+  ]
+}

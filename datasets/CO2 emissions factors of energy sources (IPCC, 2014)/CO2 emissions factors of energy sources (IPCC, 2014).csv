@@ -1,0 +1,12 @@
+Entity,Year,"Lifecycle emissions (gCOeq/kWh) (IPCC, 2014)"
+Biomass,2014,230
+Coal,2014,820
+Geothermal,2014,38
+Hydropower,2014,24
+Natural Gas,2014,490
+Nuclear,2014,12
+Offshore wind,2014,12
+Oil,2014,611
+Onshore wind,2014,11
+Solar,2014,48
+Wind,2014,12
