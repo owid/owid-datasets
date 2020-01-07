@@ -30,8 +30,8 @@
           {
             "name": "Deaths per TWh energy production (Markandya & Wilkinson; Sovacool et al.)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Death rates from energy sources is measured as the number of deaths from air pollution and accidents per terawatt-hour (TWh) of energy production.",
+            "owidDisplaySettings": "{\"name\": \"Death rates from energy production\", \"unit\": \"deaths per terawatt-hour\"}"
           }
         ]
       }
