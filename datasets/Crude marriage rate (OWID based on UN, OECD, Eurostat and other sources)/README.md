@@ -1,8 +1,8 @@
 # Crude marriage rate (OWID based on UN, OECD, Eurostat and other sources)
 
-Estimates come from multiple sources:
+Estimates rely on data from multiple sources:
 - For European countries, the data comes from the <a href="https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Marriage_and_divorce_statistics#Fewer_marriages.2C_more_divorces">Eurostat dataset</a>.
-- For the US the series is composed of data taken from three sources, covering different periods: <a href="https://hsus.cambridge.org/HSUSWeb/HSUSEntryServlet">Carter et al. (2006)</a> for the period 1920 - 1995; the <a href="https://www.census.gov/library/publications/2006/compendia/statab/126ed/vital-statistics.html">US Census Bureau (2007)</a> for the period 1996 - 2004; and the <a href="https://www.cdc.gov/nchs/nvss/marriage-divorce.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fnchs%2Fmardiv.htm">CDC</a> for the period 2005 to present.
+- For the US the series is composed of data taken from three sources: <a href="https://hsus.cambridge.org/HSUSWeb/HSUSEntryServlet">Carter et al. (2006)</a> for the period 1920 - 1995; the <a href="https://www.census.gov/library/publications/2006/compendia/statab/126ed/vital-statistics.html">US Census Bureau (2007)</a> for the period 1996 - 2004; and the <a href="https://www.cdc.gov/nchs/nvss/marriage-divorce.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fnchs%2Fmardiv.htm">CDC</a> for the period 2005 to present.
 - For other non-European countries that are OECD members, the data comes from the <a href="http://www.oecd.org/els/family/database.htm">OECD Family Database</a>.
 - For all other countries the data comes from the <a href="https://www.un.org/en/development/desa/population/publications/dataset/marriage/data.asp">UN World Marriage Database</a> ,
 
