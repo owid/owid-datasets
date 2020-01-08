@@ -12,13 +12,10 @@ For all other countries the data comes from the <a href="https://www.un.org/en/d
 The source for each observation can be found in the metadata spreadsheet <a href="https://owid.cloud/app/uploads/2020/01/marriage-rates-stan-metadata.csv">here</a>. 
 
 
-Notes:
-The US Census Bureau (2007) figures include estimates for some States through 1965 and also for 1976 and 1977 and marriage licenses for some states for all years except 1973 and 1975. From 1978, estimates include nonlicensed marriages in California. Prior to 1960, figures exclude Alaska and Hawaii. 
-
-The CDC has revised the rate of marriages for 2016 due to revised figures for Illinois.  Rates for 2001-2009 have also been revised and are based on intercensal population estimates from the 2000 and 2010 censuses. Populations for 2010 rates are based on the 2010 census.
-
-For Canada, data include the legal union of two persons of the same sex in some provinces and territories from 2003 onwards, and in all of Canada from 2005 onwards. 
-
-Data for New Zealand include civil unions.
-
-Germany includes the German Democratic Republic. This series was favoured instead of 'Germany (until 1990 former territory of the FRG)' as when compared with the OECD series matched more closely. 
+Notes regarding comparability:
+1. The US Census Bureau (2007) figures include estimates for some States through 1965 and also for 1976 and 1977 and marriage licenses for some states for all years except 1973 and 1975. From 1978, estimates include nonlicensed marriages in California. Prior to 1960, figures exclude Alaska and Hawaii. 
+2. The CDC has revised the rate of marriages for 2016 due to revised figures for Illinois.  Rates for 2001-2009 have also been revised and are based on intercensal population estimates from the 2000 and 2010 censuses. Populations for 2010 rates are based on the 2010 census.
+3. For Canada, data include the legal union of two persons of the same sex in some provinces and territories from 2003 onwards, and in all of Canada from 2005 onwards. 
+4. Data for New Zealand include civil unions.
+5. Germany includes the German Democratic Republic. This series was favoured instead of 'Germany (until 1990 former territory of the FRG)' as when compared with the OECD series matched more closely.
+5. Estimates from the UN World Marriage Database have a 10-year reference period. This means that estimates labeled as "1985", for example, correspond to data collected over the period 1980-1989.
