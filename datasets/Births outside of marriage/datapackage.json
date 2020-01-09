@@ -1,0 +1,42 @@
+{
+  "name": "Births outside of marriage",
+  "title": "Births outside of marriage",
+  "id": 4890,
+  "description": "Proportion (%) of all births where the mother's marital status at the time of birth is other than married.",
+  "sources": [
+    {
+      "name": "OECD Family Database",
+      "additionalInfo": "Proportion (%) of all births where the mother's marital status at the time of birth is other than married.",
+      "dataPublishedBy": "OECD Family Database",
+      "link": "http://www.oecd.org/els/family/database.htm",
+      "retrievedDate": "9/1/2020",
+      "dataPublisherSource": "For European countries, Eurostat Demographic Statistics; for Australia, Australian Bureau of Statistics; for Canada, Statistics Canada; for Chile, INE; for Costa Rica, INEC; for Israel, Central Bureau of Statistics; for Japan, Ministry of Health, Labour and Welfare; for Korea, Korean Statistical Information Service; for Mexico, INEGI; for New Zealand, Statistics New Zealand; for the United States, Centres for Disease Control and Prevention."
+    }
+  ],
+  "owidTags": [
+    "Marriage & Relationships"
+  ],
+  "resources": [
+    {
+      "path": "Births outside of marriage.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Births outside of marriage (% of all births)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
