@@ -1,3 +1,8 @@
 # Births outside of marriage
 
-Proportion (%) of all births where the mother's marital status at the time of birth is other than married.
+Data for Australia, Japan, Korea and New Zealand refer to ex-nuptial/out-of-wedlock births, that is, where the child's parents are not registered as married to
+each other (or, for New Zealand only, in a civil union with each other) at the time of the birth. For all other countries, data refer to births to mothers where the
+mother's marital status at the time of birth was other than married. For Canada, births to mothers whose marital status is other than married as a proportion of
+births where the mother's marital status is recorded. In 2017, the mother's marital status was not recorded on 8% of births. For Mexico, births to mothers whose
+civil status is other than married as a proportion of births where the mother's civil status is recorded. In 2017, the mother's civil status was not recorded on 8% of
+births. For Israel, data refer to births to unmarried Jewish women as a proportion of all births to Jewish women, only.

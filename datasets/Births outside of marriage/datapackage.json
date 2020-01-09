@@ -2,11 +2,11 @@
   "name": "Births outside of marriage",
   "title": "Births outside of marriage",
   "id": 4890,
-  "description": "Proportion (%) of all births where the mother's marital status at the time of birth is other than married.",
+  "description": "Data for Australia, Japan, Korea and New Zealand refer to ex-nuptial/out-of-wedlock births, that is, where the child's parents are not registered as married to\neach other (or, for New Zealand only, in a civil union with each other) at the time of the birth. For all other countries, data refer to births to mothers where the\nmother's marital status at the time of birth was other than married. For Canada, births to mothers whose marital status is other than married as a proportion of\nbirths where the mother's marital status is recorded. In 2017, the mother's marital status was not recorded on 8% of births. For Mexico, births to mothers whose\ncivil status is other than married as a proportion of births where the mother's civil status is recorded. In 2017, the mother's civil status was not recorded on 8% of\nbirths. For Israel, data refer to births to unmarried Jewish women as a proportion of all births to Jewish women, only.",
   "sources": [
     {
       "name": "OECD Family Database",
-      "additionalInfo": "Proportion (%) of all births where the mother's marital status at the time of birth is other than married.",
+      "additionalInfo": "Data for Australia, Japan, Korea and New Zealand refer to ex-nuptial/out-of-wedlock births, that is, where the child's parents are not registered as married to\neach other (or, for New Zealand only, in a civil union with each other) at the time of the birth. For all other countries, data refer to births to mothers where the\nmother's marital status at the time of birth was other than married. For Canada, births to mothers whose marital status is other than married as a proportion of\nbirths where the mother's marital status is recorded. In 2017, the mother's marital status was not recorded on 8% of births. For Mexico, births to mothers whose\ncivil status is other than married as a proportion of births where the mother's civil status is recorded. In 2017, the mother's civil status was not recorded on 8% of\nbirths. For Israel, data refer to births to unmarried Jewish women as a proportion of all births to Jewish women, only.",
       "dataPublishedBy": "OECD Family Database",
       "link": "http://www.oecd.org/els/family/database.htm",
       "retrievedDate": "9/1/2020",
@@ -32,8 +32,8 @@
           {
             "name": "Births outside of marriage (% of all births)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Proportion (%) of all births where the mother's marital status at the time of birth is other than married.",
+            "owidDisplaySettings": "{\"name\": \"Share of births outside marriage\", \"unit\": \"%\", \"shortUnit\": \"%\", \"numDecimalPlaces\": 1}"
           }
         ]
       }
