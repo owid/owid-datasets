@@ -6,7 +6,7 @@ For modern state societies, homicide rates are routinely published by statistica
 
 For non-state societies, we generally have two different sources of information: for the more recent past (since the late 19th century), abundant ethnographic evidence is available; for the more distant past, we have evidence from archaeological sites and skeletal remains. 
 
-The main sources are the following:
+The main sources for this dataset are the following:
 - Bowles (2009) – Did Warfare Among Ancestral Hunter-Gatherers Affect the Evolution of Human Social Behaviors?. In Science, 324, 5932, 1293–1298.
 - Gat (2006) – War in Human Civilization. Oxford University Press, USA.
 - Knauft, Bruce M. et al (1987) – Reconsidering Violence in Simple Human Societies: Homicide among the Gebusi of New Guinea. In Current Anthropology, 28, 4, 457-500.
