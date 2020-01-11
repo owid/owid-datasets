@@ -30,25 +30,25 @@
           {
             "name": "Share of violent deaths (prehistoric archeological sites)",
             "type": "any",
-            "description": null,
+            "description": "Percentage of deaths per year due to murder or war in prehistoric societies.",
             "owidDisplaySettings": "{}"
           },
           {
             "name": "Share of violent deaths (non-state societies)",
             "type": "any",
-            "description": null,
+            "description": "Percentage of deaths per year due to murder or war in non-state societies.",
             "owidDisplaySettings": "{}"
           },
           {
             "name": "Share of violent deaths (state societies)",
             "type": "any",
-            "description": null,
+            "description": "Percentage of deaths per year due to murder or war in state societies.",
             "owidDisplaySettings": "{}"
           },
           {
             "name": "Rate of violent deaths (state societies)",
             "type": "any",
-            "description": null,
+            "description": "Violent deaths per 100,000 people per year in state societies.",
             "owidDisplaySettings": "{}"
           },
           {
