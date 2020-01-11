@@ -1,4 +1,4 @@
-# Violent deaths
+# Ethnographic and Archaeological Evidence on Violent Deaths
 
 This dataset contains estimates of the frequency of violent deaths, due to murder or war, in modern and prehistoric state and non-state societies, based on archaeological and ethnographic evidence.
 
