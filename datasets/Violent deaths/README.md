@@ -1,11 +1,10 @@
 # Violent deaths
 
-This dataset presents estimates of the levels of violence in modern and prehistoric state and non-state societies, based on archaeological and ethnographic evidence.
+This dataset contains estimates of the frequency of lethal violence in modern and prehistoric state and non-state societies, based on archaeological and ethnographic evidence.
 
-For modern state societies, homicide rates are routinely published by statistical offices or other state agencies, and research institutes publish reliable data on war deaths.
+For modern state societies, homicide rates are routinely published by statistical offices or other state agencies, and reliable data on war deaths are published by research institutes.
 
-For the study of lethal violence in non-state societies, we have generally two different sources of information: for the more recent past (since the late 19th century), abundant ethnographic evidence is available; for the more distant past, we have information on the prevalence of violence from archaeologists who have studied violence in past societies by studying archaeological sites and skeletal remains. 
-They present data on the share of people that died in violent conflict with other humans in scientific studies. 
+For non-state societies, we generally have two different sources of information: for the more recent past (since the late 19th century), abundant ethnographic evidence is available; for the more distant past, we have evidence from archaeological sites and skeletal remains. 
 
 The main sources are the following:
 - Bowles (2009) – Did Warfare Among Ancestral Hunter-Gatherers Affect the Evolution of Human Social Behaviors?. In Science, 324, 5932, 1293–1298.
