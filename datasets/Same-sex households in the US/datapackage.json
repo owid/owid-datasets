@@ -5,9 +5,9 @@
   "description": "Estimates of same-sex couple households",
   "sources": [
     {
-      "name": "Same-sex households in the US",
+      "name": "U.S. Census Bureau",
       "additionalInfo": "Estimates of same-sex couple households",
-      "dataPublisherSource": "American Community Survey",
+      "dataPublisherSource": "U.S. Census Bureau, 2005 through 2018 American Community Survey 1-year data files",
       "dataPublishedBy": "U.S. Census Bureau",
       "link": "https://www.census.gov/data/tables/time-series/demo/same-sex-couples/ssc-house-characteristics.html?#",
       "retrievedDate": "14 January 2020"
@@ -30,15 +30,15 @@
             "type": "year"
           },
           {
-            "name": "Two-men married couples",
+            "name": "Male-Male married couples",
             "type": "any",
-            "description": null,
+            "description": "Number of same-sex couples formed by two men (estimate based on survey data)",
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "Two-women married couples",
+            "name": "Female-Female married couples",
             "type": "any",
-            "description": null,
+            "description": "Number of same-sex couples formed by two women (estimate based on survey data)",
             "owidDisplaySettings": "{}"
           }
         ]
