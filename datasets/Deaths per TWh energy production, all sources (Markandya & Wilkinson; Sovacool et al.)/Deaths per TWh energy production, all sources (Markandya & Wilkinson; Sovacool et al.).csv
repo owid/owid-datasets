@@ -6,8 +6,8 @@ Brown coal,2014,32.72
 Coal,2014,24.62
 Gas,2014,2.821
 Hydropower,2014,0.0235
-Nuclear (excl. mining & occupational incidents),2014,0.0097
-Nuclear (incl. mining & occupational incidents),2014,0.074
+Nuclear (Markandya & Wilkinson (2007)),2014,0.074
+Nuclear (Sovacool et al. (2016)),2014,0.0097
 Oil,2014,18.43
 Solar,2014,0.019
 Wind,2014,0.035
