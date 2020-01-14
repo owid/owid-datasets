@@ -2,11 +2,11 @@
   "name": "Same-sex married households in the US",
   "title": "Same-sex married households in the US",
   "id": 4900,
-  "description": "Estimates of same-sex couple households. The series includes data for the period 2005-2008, but these estimates are not comparable to those for the period 2008-2018. This is because of changes in the survey questionnaires. The source notes: \"Changes in the questionnaire format and data capture procedures between 2007 and 2008 resulted in significant declines in the estimated number of same-sex partner households in 2008. For more explanation, see the following working paper: https://www.census.gov/library/working-papers/2010/demo/oconnell-01.html\"",
+  "description": "The series includes data for the period 2005-2008, but these estimates are not comparable to those for the period 2008-2018. This is because of changes in the survey questionnaires. The source notes: \"Changes in the questionnaire format and data capture procedures between 2007 and 2008 resulted in significant declines in the estimated number of same-sex partner households in 2008. For more explanation, see the following working paper: https://www.census.gov/library/working-papers/2010/demo/oconnell-01.html\"",
   "sources": [
     {
       "name": "U.S. Census Bureau",
-      "additionalInfo": "Estimates of same-sex couple households. The series includes data for the period 2005-2008, but these estimates are not comparable to those for the period 2008-2018. This is because of changes in the survey questionnaires. The source notes: \"Changes in the questionnaire format and data capture procedures between 2007 and 2008 resulted in significant declines in the estimated number of same-sex partner households in 2008. For more explanation, see the following working paper: https://www.census.gov/library/working-papers/2010/demo/oconnell-01.html\"",
+      "additionalInfo": "The series includes data for the period 2005-2008, but these estimates are not comparable to those for the period 2008-2018. This is because of changes in the survey questionnaires. The source notes: \"Changes in the questionnaire format and data capture procedures between 2007 and 2008 resulted in significant declines in the estimated number of same-sex partner households in 2008. For more explanation, see the following working paper: https://www.census.gov/library/working-papers/2010/demo/oconnell-01.html\"",
       "dataPublisherSource": "U.S. Census Bureau, 2005 through 2018 American Community Survey 1-year data files",
       "dataPublishedBy": "U.S. Census Bureau",
       "link": "https://www.census.gov/data/tables/time-series/demo/same-sex-couples/ssc-house-characteristics.html?#",
@@ -32,13 +32,13 @@
           {
             "name": "Male-Male married couples",
             "type": "any",
-            "description": "Number of same-sex couples formed by two men (estimate based on survey data)",
+            "description": "Number of same-sex married couples, formed by two men (estimate based on survey data)",
             "owidDisplaySettings": "{\"numDecimalPlaces\": 0}"
           },
           {
             "name": "Female-Female married couples",
             "type": "any",
-            "description": "Number of same-sex couples formed by two women (estimate based on survey data)",
+            "description": "Number of same-sex married couples, formed by two women (estimate based on survey data)",
             "owidDisplaySettings": "{\"numDecimalPlaces\": 0}"
           }
         ]
