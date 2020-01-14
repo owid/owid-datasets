@@ -1,0 +1,48 @@
+{
+  "name": "Same-sex households in the US",
+  "title": "Same-sex households in the US",
+  "id": 4900,
+  "description": "Estimates of same-sex couple households",
+  "sources": [
+    {
+      "name": "Same-sex households in the US",
+      "additionalInfo": "Estimates of same-sex couple households",
+      "dataPublisherSource": "American Community Survey",
+      "dataPublishedBy": "U.S. Census Bureau",
+      "link": "https://www.census.gov/data/tables/time-series/demo/same-sex-couples/ssc-house-characteristics.html?#",
+      "retrievedDate": "14 January 2020"
+    }
+  ],
+  "owidTags": [
+    "LGBTQ Rights"
+  ],
+  "resources": [
+    {
+      "path": "Same-sex households in the US.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Two-men married couples",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Two-women married couples",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
