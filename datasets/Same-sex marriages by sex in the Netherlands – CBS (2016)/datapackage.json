@@ -1,0 +1,48 @@
+{
+  "name": "Same-sex marriages by sex in the Netherlands – CBS (2016)",
+  "title": "Same-sex marriages by sex in the Netherlands – CBS (2016)",
+  "id": 4899,
+  "description": "Annual number of same-sex marriages",
+  "sources": [
+    {
+      "name": "Same-sex marriages by sex in the Netherlands – CBS (2016)",
+      "additionalInfo": "Annual number of same-sex marriages",
+      "dataPublishedBy": "Centraal Bureau voor de Statistiek",
+      "dataPublisherSource": "Administrative records",
+      "link": "https://www.cbs.nl/en-gb/news/2016/13/lesbian-couples-likelier-to-break-up-than-male-couples",
+      "retrievedDate": "14 January 2020"
+    }
+  ],
+  "owidTags": [
+    "LGBTQ Rights"
+  ],
+  "resources": [
+    {
+      "path": "Same-sex marriages by sex in the Netherlands – CBS (2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Two-men marriages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Two-women marriages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
