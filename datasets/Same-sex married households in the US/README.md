@@ -1,3 +1,3 @@
-# Same-sex households in the US
+# Same-sex married households in the US
 
 Estimates of same-sex couple households. The series includes data for the period 2005-2008, but these estimates are not comparable to those for the period 2008-2018. This is because of changes in the survey questionnaires. The source notes: "Changes in the questionnaire format and data capture procedures between 2007 and 2008 resulted in significant declines in the estimated number of same-sex partner households in 2008. For more explanation, see the following working paper: https://www.census.gov/library/working-papers/2010/demo/oconnell-01.html"
