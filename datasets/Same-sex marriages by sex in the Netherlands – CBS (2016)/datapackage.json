@@ -30,16 +30,16 @@
             "type": "year"
           },
           {
-            "name": "Two-men marriages",
+            "name": "Annual number of two-men marriages",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Annual number of new marriages between two men",
+            "owidDisplaySettings": "{\"name\": \"Two-men marriages\"}"
           },
           {
-            "name": "Two-women marriages",
+            "name": "Annual number of two-women marriages",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Annual number of new marriages between two women",
+            "owidDisplaySettings": "{\"name\": \"Two-women marriages\"}"
           }
         ]
       }
