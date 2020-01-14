@@ -1,5 +1,6 @@
 # Estimated average age at marriage, by gender (UN)
 
+
 <strong>Definition and sources by country.</strong></br>
 The estimates of average age at marriage in this dataset correspond to what is known as "singulate mean age at marriage". This is an estimate of the average number of years lived by a cohort of women or men before their first marriage. It is an indirect estimate, obtained from survey data on marital status by age.
 
