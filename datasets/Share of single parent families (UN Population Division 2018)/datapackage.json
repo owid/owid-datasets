@@ -1,0 +1,42 @@
+{
+  "name": "Share of single parent families (UN Population Division 2018)",
+  "title": "Share of single parent families (UN Population Division 2018)",
+  "id": 4896,
+  "description": "The variable for the share of single parent families is taken from the <a href=\"https://population.un.org/Household/index.html#/countries/840\">United Nations Database on Household Size and Composition (2018)</a>. \n\nThe UN database pulls from 4 different sources: \n1) Demographic and Health Surveys (DHS); \n2) the Demographic Yearbook (DYB) of the United Nations; \n3) IPUMS-International;\n4) Labor Force Surveys (LFS) of the European Union, Eurostat. \n\nWhere a country time series was composed of multiple sources, we favoured the source covering the most years. In cases where there was a tie between sources, we favoured the DYB, then IPUMS, DHS, and lastly LFS estimates. The DYB covered the largest number of countries and the LFS the least.  \n\nWhere multiple country-year observations came from the same source, we favoured the observation with the reference date occurring later in the year. This is true for Senegal in 2013 and Tanzania in 2004.\n\nThe source for each observation can be found in the metadata spreadsheet <a href=\"https://owid.cloud/app/uploads/2020/01/un-single-parent-final-metadata-stan.csv\">here</a>. \n",
+  "sources": [
+    {
+      "name": "UN Population Division (2018)",
+      "dataPublishedBy": "United Nations, Department of Economic and Social Affairs, Population Division (2018). Household Size and Composition 2018. (POP/DB/PD/HSCD/2018).",
+      "link": "https://population.un.org/Household/index.html#/countries/840",
+      "retrievedDate": "13/01/2020",
+      "additionalInfo": "The variable for the share of single parent families is taken from the <a href=\"https://population.un.org/Household/index.html#/countries/840\">United Nations Database on Household Size and Composition (2018)</a>. \n\nThe UN database pulls from 4 different sources: \n1) Demographic and Health Surveys (DHS); \n2) the Demographic Yearbook (DYB) of the United Nations; \n3) IPUMS-International;\n4) Labor Force Surveys (LFS) of the European Union, Eurostat. \n\nWhere a country time series was composed of multiple sources, we favoured the source covering the most years. In cases where there was a tie between sources, we favoured the DYB, then IPUMS, DHS, and lastly LFS estimates. The DYB covered the largest number of countries and the LFS the least.  \n\nWhere multiple country-year observations came from the same source, we favoured the observation with the reference date occurring later in the year. This is true for Senegal in 2013 and Tanzania in 2004.\n\nThe source for each observation can be found in the metadata spreadsheet <a href=\"https://owid.cloud/app/uploads/2020/01/un-single-parent-final-metadata-stan.csv\">here</a>. \n",
+      "dataPublisherSource": "Census data, survey data"
+    }
+  ],
+  "owidTags": [
+    "Marriage & Relationships"
+  ],
+  "resources": [
+    {
+      "path": "Share of single parent families (UN Population Division 2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of single parent families",
+            "type": "any",
+            "description": "The percentage of households comprised of a single parent and his or her children (biological, step, and adopted/foster children), irrespective of children’s ages, and no one else.",
+            "owidDisplaySettings": "{\"unit\": \"%\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
