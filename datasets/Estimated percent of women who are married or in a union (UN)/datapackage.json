@@ -1,0 +1,42 @@
+{
+  "name": "Estimated percent of women who are married or in a union (UN)",
+  "title": "Estimated percent of women who are married or in a union (UN)",
+  "id": 4902,
+  "description": "The estimates and projections of the number of women of reproductive age (15 to 49 years) who are married or in a union were prepared based on data from individual countries on an age-specific basis (for five-year age groups 15-19 to 45-49).\n\nFor the purpose of this data, women who are currently married or in a union are either (i) women who have been married and are not divorced, widowed or separated; or (ii) women who are living in a cohabiting union.\n\nThe question usually asked in censuses and surveys is on the marital status or union\nstatus of an individual.\n\nThe definitions of marital status and union status of individuals differ by the source of data, country and time period. For example, in the United Nations principles and recommendations for census taking, only registered partnerships and consensual unions that are legal and binding under law should be reported. However, there is considerable variation among the definitions and terminology used in surveys. The Demographic and Health Surveys, one of the major sources of data on marital and union status, ask individuals whether they are married or ‘living together’ with a partner; however, in countries with low prevalence of cohabiting unions, the survey question is normally limited only to marriage.\n\nFor a breakdown of countries by region see the UN Methodology page <a href=\"https://unstats.un.org/unsd/methodology/m49/overview/\">here</a>.\n\n<strong>Data is estimated until 2010, and projected for 2020 and 2030. </strong>",
+  "sources": [
+    {
+      "name": "UN Population Division (2013)",
+      "additionalInfo": "The estimates and projections of the number of women of reproductive age (15 to 49 years) who are married or in a union were prepared based on data from individual countries on an age-specific basis (for five-year age groups 15-19 to 45-49).\n\nFor the purpose of this data, women who are currently married or in a union are either (i) women who have been married and are not divorced, widowed or separated; or (ii) women who are living in a cohabiting union.\n\nThe question usually asked in censuses and surveys is on the marital status or union\nstatus of an individual.\n\nThe definitions of marital status and union status of individuals differ by the source of data, country and time period. For example, in the United Nations principles and recommendations for census taking, only registered partnerships and consensual unions that are legal and binding under law should be reported. However, there is considerable variation among the definitions and terminology used in surveys. The Demographic and Health Surveys, one of the major sources of data on marital and union status, ask individuals whether they are married or ‘living together’ with a partner; however, in countries with low prevalence of cohabiting unions, the survey question is normally limited only to marriage.\n\nFor a breakdown of countries by region see the UN Methodology page <a href=\"https://unstats.un.org/unsd/methodology/m49/overview/\">here</a>.\n\n<strong>Data is estimated until 2010, and projected for 2020 and 2030. </strong>",
+      "link": "Table A.2: https://www.un.org/en/development/desa/population/publications/pdf/technical/TP2013-2.pdf",
+      "retrievedDate": "16/01/20",
+      "dataPublishedBy": "Vladimíra Kantorová, UN Population Division (2013). National, Regional and Global Estimates and Projections of the Number of Women Aged 15 to 49 Who Are Married or in a Union, 1970-2030. Technical Paper No. 2013/2. ",
+      "dataPublisherSource": "Census, surveys"
+    }
+  ],
+  "owidTags": [
+    "Marriage & Relationships"
+  ],
+  "resources": [
+    {
+      "path": "Estimated percent of women who are married or in a union (UN).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Estimated percent of women who are married or in a union",
+            "type": "any",
+            "description": "The estimated proportion of women, aged 15-49, who are married or in a union. \n\nData is estimated until 2010, and projected for 2020 and 2030. ",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
