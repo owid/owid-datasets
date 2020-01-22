@@ -2,14 +2,15 @@
   "name": "Homosexuality public opinion – Pew Research (2013)",
   "title": "Homosexuality public opinion – Pew Research (2013)",
   "id": 4907,
-  "description": "",
+  "description": "Percentage of survey respondents reporting homosexuality should not be accepted by society.\n\nThe full question asked: <em>Which one of these comes closest to your opinion, number 1 or number 2?...</br> #1 - Homosexuality should be accepted by society; or</br> #2 - Homosexuality should not be accepted by society </em>",
   "sources": [
     {
       "name": "Pew Research (2013)",
       "dataPublishedBy": "Pew Global Attitudes & Trends Question Database",
       "dataPublisherSource": "Pew Research Center’s Global Attitudes Project surveys",
       "link": "https://www.pewresearch.org/global/",
-      "retrievedDate": "22 Feb 2020"
+      "retrievedDate": "22 Feb 2020",
+      "additionalInfo": "Percentage of survey respondents reporting homosexuality should not be accepted by society.\n\nThe full question asked: <em>Which one of these comes closest to your opinion, number 1 or number 2?...</br> #1 - Homosexuality should be accepted by society; or</br> #2 - Homosexuality should not be accepted by society </em>"
     }
   ],
   "owidTags": [
