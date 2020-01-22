@@ -1,0 +1,82 @@
+{
+  "name": "LGBT Marital Status in the US (Gallup 2017)",
+  "title": "LGBT Marital Status in the US (Gallup 2017)",
+  "id": 4906,
+  "description": "",
+  "sources": [
+    {
+      "name": "Gallup (2017)",
+      "dataPublishedBy": " Jeffrey Jones (2017), Social and Policy Issues, Gallup.",
+      "dataPublisherSource": "Gallup U.S. Daily survey"
+    }
+  ],
+  "owidTags": [
+    "LGBTQ Rights",
+    "Marriage & Relationships"
+  ],
+  "resources": [
+    {
+      "path": "LGBT Marital Status in the US (Gallup 2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "% LGBT Married to same-sex spouse",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "% LGBT Living with same-sex partner",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "% LGBT Single/Never married",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "% LGBT  Living with opposite-sex partner",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "% LGBT Married to opposite-sex spouse",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "% LGBT Divorced",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "% LGBT Separated",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "% LGBT Widowed",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
