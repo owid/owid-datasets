@@ -34,49 +34,49 @@
             "name": "% LGBT Married to same-sex spouse",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "% LGBT Living with same-sex partner",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "% LGBT Single/Never married",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "% LGBT  Living with opposite-sex partner",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "% LGBT Married to opposite-sex spouse",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "% LGBT Divorced",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "% LGBT Separated",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
             "name": "% LGBT Widowed",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
           }
         ]
       }
