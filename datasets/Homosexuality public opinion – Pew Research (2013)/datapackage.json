@@ -30,10 +30,10 @@
             "type": "year"
           },
           {
-            "name": "Homosexuality should not be accepted by society",
+            "name": "Share who think homosexuality should not be accepted by society",
             "type": "any",
             "description": "Percentage of survey respondents reporting homosexuality should not be accepted by society.",
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"numDecimalPlaces\": 1}"
           }
         ]
       }
