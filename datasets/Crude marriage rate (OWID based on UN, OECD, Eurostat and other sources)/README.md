@@ -6,7 +6,7 @@ Estimates rely on data from multiple sources:
 - For other non-European countries that are OECD members, the data comes from the <a href="http://www.oecd.org/els/family/database.htm">OECD Family Database</a>.
 - For all other countries the data comes from the <a href="https://www.un.org/en/development/desa/population/publications/dataset/marriage/data.asp">UN World Marriage Database</a> ,
 
-(<em>NB. The source for each observation can be found in the metadata spreadsheet <a href="https://owid.cloud/app/uploads/2020/01/marriage-rates-final-metadata-stan.xlsx">here</a></em>)
+(<em>NB. The source for each observation can be found in the metadata spreadsheet <a href="https://owid.cloud/app/uploads/2020/01/marriage-rates-final-metadata-standard.xlsx">here</a></em>)
 
 
 Notes regarding comparability:

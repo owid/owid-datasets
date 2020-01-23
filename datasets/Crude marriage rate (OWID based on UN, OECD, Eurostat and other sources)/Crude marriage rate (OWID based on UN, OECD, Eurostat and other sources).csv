@@ -62,6 +62,9 @@ American Samoa,1985,10.19999981
 American Samoa,1993,6.199999809
 American Samoa,2005,3.099999905
 American Samoa,2006,2.599999905
+Andorra,1976,5.099999905
+Andorra,1985,2.599999905
+Andorra,1996,1.899999976
 Andorra,2004,2.9
 Andorra,2005,2.9
 Andorra,2006,3.7
@@ -77,6 +80,11 @@ Anguilla,2006,5.5
 Antigua and Barbuda,1971,4.599999905
 Antigua and Barbuda,1985,4.099999905
 Antigua and Barbuda,1995,21
+Argentina,1970,7.5
+Argentina,1983,6.300000191
+Argentina,1995,4.300000191
+Argentina,2005,3.400000095
+Argentina,2006,3.400000095
 Argentina,2010,3
 Argentina,2011,3.1
 Argentina,2012,3.2
@@ -84,6 +92,9 @@ Argentina,2013,2.9
 Argentina,2014,2.8
 Argentina,2015,2.8
 Argentina,2016,2.7
+Armenia,1970,7.300000191
+Armenia,1985,9.899999619
+Armenia,1995,4.199999809
 Armenia,2004,5.3
 Armenia,2005,5.2
 Armenia,2006,5.2
@@ -197,6 +208,9 @@ Austria,2014,4.4
 Austria,2015,5.1
 Austria,2016,5.1
 Austria,2017,5.1
+Azerbaijan,1970,6.800000191
+Azerbaijan,1985,10.5
+Azerbaijan,1995,5.599999905
 Azerbaijan,2004,7.5
 Azerbaijan,2005,8.5
 Azerbaijan,2006,9.4
@@ -230,6 +244,9 @@ Barbados,1970,4.599999905
 Barbados,1985,4.699999809
 Barbados,1995,13.5
 Barbados,2000,14.10000038
+Belarus,1970,9.300000191
+Belarus,1985,9.899999619
+Belarus,1995,7.599999905
 Belarus,2004,6.1
 Belarus,2005,7.5
 Belarus,2006,8.1
@@ -349,6 +366,7 @@ Bosnia and Herzegovina,1988,7.8
 Bosnia and Herzegovina,1989,7.7
 Bosnia and Herzegovina,1990,6.7
 Bosnia and Herzegovina,1991,6.3
+Bosnia and Herzegovina,1996,5.800000191
 Bosnia and Herzegovina,1997,6.4
 Bosnia and Herzegovina,1998,6.2
 Bosnia and Herzegovina,1999,6
@@ -364,6 +382,11 @@ Bosnia and Herzegovina,2009,5.4
 Bosnia and Herzegovina,2010,5.1
 Bosnia and Herzegovina,2012,4.8
 Botswana,1984,3.099999905
+Brazil,1970,1.200000048
+Brazil,1985,7
+Brazil,2004,4.400000095
+Brazil,2005,4.5
+Brazil,2006,4.699999809
 British Virgin Islands,1970,7.699999809
 British Virgin Islands,1985,13
 British Virgin Islands,1997,18
@@ -522,9 +545,16 @@ Chile,2013,3.5
 Chile,2014,3.6
 Chile,2015,3.4
 Chile,2016,3.4
+China,1978,6.099999905
+China,1985,7.800000191
+China,1995,7.699999809
+China,2005,6.300000191
+China,2006,7.199999809
 China,2010,9.3
 China,2011,9.3
 China,2012,9.6
+Colombia,1970,2.400000095
+Colombia,1986,2.200000048
 Comoros,1964,8.399999619
 Cook Islands,1971,6
 Cook Islands,1985,6.400000095
@@ -1026,6 +1056,8 @@ Finland,2014,4.5
 Finland,2015,4.5
 Finland,2016,4.5
 Finland,2017,4.8
+France,1970,7.800000191
+France,1985,4.900000095
 France,1994,4.4
 France,1995,4.4
 France,1996,4.8
@@ -1113,6 +1145,9 @@ French Polynesia,1985,7.400000095
 French Polynesia,1995,5.699999809
 French Polynesia,2005,4.199999809
 French Polynesia,2006,4.400000095
+Georgia,1970,7.800000191
+Georgia,1985,8.399999619
+Georgia,1995,4
 Georgia,2004,3.4
 Georgia,2005,4.1
 Georgia,2006,5
@@ -1394,6 +1429,11 @@ Iceland,2008,5.2
 Iceland,2009,4.6
 Iceland,2010,4.9
 Iceland,2011,4.6
+Indonesia,1976,6.800000191
+Indonesia,1985,6.599999905
+Indonesia,1995,8.100000381
+Indonesia,2002,8.300000191
+Indonesia,2003,7.599999905
 Iran,1970,5.900000095
 Iran,1986,6.900000095
 Iran,1995,7.400000095
@@ -2068,12 +2108,19 @@ Moldova,2011,7.3
 Moldova,2012,6.8
 Moldova,2013,6.9
 Moldova,2014,7.2
+Monaco,1970,6.900000095
+Monaco,1983,7.199999809
+Monaco,1995,6
 Monaco,2004,5.2
+Monaco,2005,5
 Mongolia,1970,3.200000048
 Mongolia,1985,9.300000191
 Mongolia,1995,6.800000191
 Mongolia,2005,5.900000095
 Mongolia,2007,15.69999981
+Montenegro,1970,7.800000191
+Montenegro,1985,7.199999809
+Montenegro,1995,6
 Montenegro,2005,5.4
 Montenegro,2006,5.6
 Montenegro,2007,6.5
@@ -2542,6 +2589,9 @@ Samoa,1983,4.5
 Samoa,1996,6.199999809
 Samoa,2000,6.800000191
 Samoa,2001,4.599999905
+San Marino,1970,10.5
+San Marino,1985,9
+San Marino,1995,8.699999809
 San Marino,2004,7
 San Marino,2005,7.5
 San Marino,2007,6.9
@@ -2551,6 +2601,12 @@ San Marino,2012,6.1
 Sao Tome and Principe,1970,1.799999952
 Sao Tome and Principe,1985,0.699999988
 Sao Tome and Principe,1988,0.400000006
+Saudi Arabia,1995,3.400000095
+Saudi Arabia,2004,4.599999905
+Saudi Arabia,2005,5.199999809
+Serbia,1970,9.300000191
+Serbia,1985,6.900000095
+Serbia,1996,5.300000191
 Serbia,2000,5.7
 Serbia,2001,5.5
 Serbia,2002,5.6
@@ -2695,6 +2751,9 @@ Slovenia,2014,3.2
 Slovenia,2015,3.1
 Slovenia,2016,3.2
 Slovenia,2017,3.1
+South Africa,1995,3.599999905
+South Africa,2004,3.700000048
+South Africa,2005,3.799999952
 South Korea,1970,9.2
 South Korea,1971,7.3
 South Korea,1972,7.3
@@ -2850,6 +2909,7 @@ Sweden,1991,4.3
 Sweden,1992,4.3
 Sweden,1993,3.9
 Sweden,1994,3.9
+Sweden,1995,3.799999952
 Sweden,1996,3.8
 Sweden,1997,3.7
 Sweden,1998,3.6
@@ -2963,7 +3023,10 @@ Tunisia,1985,6.699999809
 Tunisia,1995,6
 Tunisia,2005,7.300000191
 Tunisia,2006,8
+Turkey,1970,3.299999952
 Turkey,1980,8.2
+Turkey,1985,7.199999809
+Turkey,1996,7.599999905
 Turkey,2003,7.1
 Turkey,2004,9.2
 Turkey,2005,9.5
@@ -2988,6 +3051,9 @@ Turks and Caicos Islands,1985,5.300000191
 Turks and Caicos Islands,1995,9.899999619
 Turks and Caicos Islands,2004,21.20000076
 Turks and Caicos Islands,2005,20
+Ukraine,1970,9.899999619
+Ukraine,1985,9.600000381
+Ukraine,1995,8.399999619
 Ukraine,2004,5.9
 Ukraine,2005,7.1
 Ukraine,2006,7.6
@@ -3049,6 +3115,8 @@ United Kingdom,2000,5.2
 United Kingdom,2001,4.8
 United Kingdom,2002,4.9
 United Kingdom,2003,5.2
+United Kingdom,2005,4.699999809
+United Kingdom,2006,4.5
 United Kingdom,2007,4.5
 United Kingdom,2008,4.4
 United Kingdom,2009,4.3
