@@ -1,0 +1,47 @@
+{
+  "name": "Homosexuality opinions – WVS (1981-2016)",
+  "title": "Homosexuality opinions – WVS (1981-2016)",
+  "id": 4909,
+  "description": "",
+  "sources": [
+    {
+      "name": "World Value Survey",
+      "dataPublishedBy": "World Value Survey",
+      "link": "http://www.worldvaluessurvey.org/",
+      "retrievedDate": "24 January 2020",
+      "dataPublisherSource": "Nationally representative surveys"
+    }
+  ],
+  "owidTags": [
+    "LGBTQ Rights"
+  ],
+  "resources": [
+    {
+      "path": "Homosexuality opinions – WVS (1981-2016).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Percentage reporting homosexuality is never justified ",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Percentage reporting that they do not want  homosexual neighbors",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
