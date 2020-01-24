@@ -1,0 +1,42 @@
+{
+  "name": "Homosexuality Laws – OWID based on Kenny & Patel (2017)",
+  "title": "Homosexuality Laws – OWID based on Kenny & Patel (2017)",
+  "id": 4910,
+  "description": "Estimates are based on the data from Figure 2 in Kenny, C., & Patel, D. (2017). Norms and Reform: Legalizing Homosexuality Improves Attitudes. Center for Global Development Working Paper, (465).\n\nWe updated the classification for those countries where same-sex sexual activity was decriminalized after 2017, namely Angola (2019), Botswana (2019), Micronesia (2018), India (2018) and Trinidad & Tobago (2018).",
+  "sources": [
+    {
+      "name": "OWID based on Kenny & Patel (2017)",
+      "dataPublishedBy": "Kenny, C., & Patel, D. (2017). Norms and Reform: Legalizing Homosexuality Improves Attitudes. Center for Global Development Working Paper, (465).",
+      "link": "https://pdfs.semanticscholar.org/be60/6ecaf2d8b0e68f0263f415bc835a91d4b453.pdf",
+      "retrievedDate": "24 January 2020",
+      "additionalInfo": "Estimates are based on the data from Figure 2 in Kenny, C., & Patel, D. (2017). Norms and Reform: Legalizing Homosexuality Improves Attitudes. Center for Global Development Working Paper, (465).\n\nWe updated the classification for those countries where same-sex sexual activity was decriminalized after 2017, namely Angola (2019), Botswana (2019), Micronesia (2018), India (2018) and Trinidad & Tobago (2018).",
+      "dataPublisherSource": "Carroll, A. and Mendos, L. R. (2017). State-sponsored homophobia: A world survey of sexual orientation laws criminalisation, protection and recognition. International Lesbian, Gay, Bisexual, Trans and Intersex Association, 12."
+    }
+  ],
+  "owidTags": [
+    "LGBTQ Rights"
+  ],
+  "resources": [
+    {
+      "path": "Homosexuality Laws – OWID based on Kenny & Patel (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Year when homosexuality became legal",
+            "type": "any",
+            "description": "Year when same-sex sexual activity was decriminalized in each country",
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
