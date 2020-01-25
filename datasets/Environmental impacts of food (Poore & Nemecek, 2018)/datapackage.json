@@ -2,14 +2,14 @@
   "name": "Environmental impacts of food (Poore & Nemecek, 2018)",
   "title": "Environmental impacts of food (Poore & Nemecek, 2018)",
   "id": 4223,
-  "description": "Data is based on an the largest meta-analysis of food system impact studies to date, from Poore & Nemecek's 2018 study.\n\nThe authors note the following about the scope of the studies included in this meta-analysis:\n\"We derived data from a comprehensive meta-analysis, identifying 1530 studies for potential inclusion, which were supplemented with additional data received from 139 authors. Studies were assessed against 11 criteria designed to standardize methodology, resulting in 570 suitable studies with a median reference year of 2010. The data set covers ~38,700 commercially viable farms in 119 countries and 40 products representing ~90% of global protein and calorie consumption'.\n\nEnvironmental impacts are compared across several metrics: land use (m2), greenhouse gas emissions (tonnes of CO2-equivalents), eutrophying emissions (grams of PO4-equivalents), freshwater withdrawals (liters), and scarcity-weighted water (liters) which are freshwater withdrawals weighted for local water scarcity.\n\nAll comparisons here are based on the global mean value per food product across all studies.\n\nComparisons can be made in functional units: here all comparisons are made as impacts per kilogram of product.\n\nComparisons are also made on the basis of nutritional units in two categories:\n(1) protein products, which are compared per 100 grams of protein. Protein products include all meats, seafood, dairy, nuts, tofu and pulses. Grains are also compared here – despite being a low-quality source of protein – since a large share of global protein is derived from cereals.\n\n(2) grains and staples, which are compared per 1000 kilocalories.",
+  "description": "Data is based on an the largest meta-analysis of food system impact studies to date, from Poore & Nemecek's 2018 study.\n\nThe authors note the following about the scope of the studies included in this meta-analysis:\n\"We derived data from a comprehensive meta-analysis, identifying 1530 studies for potential inclusion, which were supplemented with additional data received from 139 authors. Studies were assessed against 11 criteria designed to standardize methodology, resulting in 570 suitable studies with a median reference year of 2010. The data set covers ~38,700 commercially viable farms in 119 countries and 40 products representing ~90% of global protein and calorie consumption'.\n\nEnvironmental impacts are compared across several metrics: land use (m2), greenhouse gas emissions (tonnes of CO2-equivalents), eutrophying emissions (grams of PO4-equivalents), freshwater withdrawals (liters), and scarcity-weighted water (liters) which are freshwater withdrawals weighted for local water scarcity.\n\nAll comparisons here are based on the global mean value per food product across all studies.\n\nComparisons can be made in functional units: here all comparisons are made as impacts per kilogram of product.\n\nComparisons are also made on the basis of nutritional units in two categories: per 100 grams of protein and per 1000 kilocalories.\n\nPoore & Nemecek (2018) quantified a range of footprints in nutritional units:\n(1) protein products, which are compared per 100 grams of protein. Protein products include all meats, seafood, dairy, nuts, tofu and pulses. Grains are also compared here – despite being a low-quality source of protein – since a large share of global protein is derived from cereals.\n\n(2) grains and staples, which are compared per 1000 kilocalories.\n\nPoore & Nemecek (2018) do not provide data per 100g protein for food products which are not protein-rich, or kilocalorie measures for non-stale crops. To provide footprints for all products Our World in Data have filled these gaps by calculating footprints per nutritional unit using food composition factors from the FAO INFOODS International Database and Food Balance Sheets:\nhttp://www.fao.org/3/X9892E/X9892e05.htm#P8217_125315\nhttp://www.fao.org/infoods/infoods/tables-and-databases/international-databases/en/\n\nFootprints expressed per kilogram of food product can be converted to per unit protein or kilocalorie using data on the nutrient density of food products.\n\nWhere nutritional footprints are available from Poore & Nemecek (2018), this data has been used. Where there were gaps, this data has been calculated by Our World in Data.",
   "sources": [
     {
       "name": "Environmental impacts of food (Poore & Nemecek, 2018)",
       "dataPublishedBy": "Poore, J., & Nemecek, T. (2018). Reducing food’s environmental impacts through producers and consumers. Science, 360(6392), 987-992.",
       "link": "https://science.sciencemag.org/content/360/6392/987",
       "retrievedDate": "8th October 2019",
-      "additionalInfo": "Data is based on an the largest meta-analysis of food system impact studies to date, from Poore & Nemecek's 2018 study.\n\nThe authors note the following about the scope of the studies included in this meta-analysis:\n\"We derived data from a comprehensive meta-analysis, identifying 1530 studies for potential inclusion, which were supplemented with additional data received from 139 authors. Studies were assessed against 11 criteria designed to standardize methodology, resulting in 570 suitable studies with a median reference year of 2010. The data set covers ~38,700 commercially viable farms in 119 countries and 40 products representing ~90% of global protein and calorie consumption'.\n\nEnvironmental impacts are compared across several metrics: land use (m2), greenhouse gas emissions (tonnes of CO2-equivalents), eutrophying emissions (grams of PO4-equivalents), freshwater withdrawals (liters), and scarcity-weighted water (liters) which are freshwater withdrawals weighted for local water scarcity.\n\nAll comparisons here are based on the global mean value per food product across all studies.\n\nComparisons can be made in functional units: here all comparisons are made as impacts per kilogram of product.\n\nComparisons are also made on the basis of nutritional units in two categories:\n(1) protein products, which are compared per 100 grams of protein. Protein products include all meats, seafood, dairy, nuts, tofu and pulses. Grains are also compared here – despite being a low-quality source of protein – since a large share of global protein is derived from cereals.\n\n(2) grains and staples, which are compared per 1000 kilocalories."
+      "additionalInfo": "Data is based on an the largest meta-analysis of food system impact studies to date, from Poore & Nemecek's 2018 study.\n\nThe authors note the following about the scope of the studies included in this meta-analysis:\n\"We derived data from a comprehensive meta-analysis, identifying 1530 studies for potential inclusion, which were supplemented with additional data received from 139 authors. Studies were assessed against 11 criteria designed to standardize methodology, resulting in 570 suitable studies with a median reference year of 2010. The data set covers ~38,700 commercially viable farms in 119 countries and 40 products representing ~90% of global protein and calorie consumption'.\n\nEnvironmental impacts are compared across several metrics: land use (m2), greenhouse gas emissions (tonnes of CO2-equivalents), eutrophying emissions (grams of PO4-equivalents), freshwater withdrawals (liters), and scarcity-weighted water (liters) which are freshwater withdrawals weighted for local water scarcity.\n\nAll comparisons here are based on the global mean value per food product across all studies.\n\nComparisons can be made in functional units: here all comparisons are made as impacts per kilogram of product.\n\nComparisons are also made on the basis of nutritional units in two categories: per 100 grams of protein and per 1000 kilocalories.\n\nPoore & Nemecek (2018) quantified a range of footprints in nutritional units:\n(1) protein products, which are compared per 100 grams of protein. Protein products include all meats, seafood, dairy, nuts, tofu and pulses. Grains are also compared here – despite being a low-quality source of protein – since a large share of global protein is derived from cereals.\n\n(2) grains and staples, which are compared per 1000 kilocalories.\n\nPoore & Nemecek (2018) do not provide data per 100g protein for food products which are not protein-rich, or kilocalorie measures for non-stale crops. To provide footprints for all products Our World in Data have filled these gaps by calculating footprints per nutritional unit using food composition factors from the FAO INFOODS International Database and Food Balance Sheets:\nhttp://www.fao.org/3/X9892E/X9892e05.htm#P8217_125315\nhttp://www.fao.org/infoods/infoods/tables-and-databases/international-databases/en/\n\nFootprints expressed per kilogram of food product can be converted to per unit protein or kilocalorie using data on the nutrient density of food products.\n\nWhere nutritional footprints are available from Poore & Nemecek (2018), this data has been used. Where there were gaps, this data has been calculated by Our World in Data."
     }
   ],
   "owidTags": [
@@ -34,92 +34,92 @@
           {
             "name": "Land Use per kilogram (Poore & Nemecek, 2018)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Global mean land used to produce one kilogram of different food products. This is measured in meters squared per kilogram (m² per kg).",
+            "owidDisplaySettings": "{\"name\": \"Land use per kilogram\", \"unit\": \"m² per kilogram\", \"shortUnit\": \"m²\", \"numDecimalPlaces\": 2}"
           },
           {
             "name": "GHG per kilogram (Poore & Nemecek, 2018)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Global average greenhouse gas emissions (GHG) per kilogram of food product. This is measured in kilograms of CO₂-equivalents per kilogram of product (kgCO₂eq per kg).",
+            "owidDisplaySettings": "{\"name\": \"Greenhouse gas emissions per kilogram\", \"unit\": \"kgCO₂eq per kilogram\", \"shortUnit\": \"kg\", \"numDecimalPlaces\": 2}"
           },
           {
             "name": "Eutrophying emissions per kilogram (Poore & Nemecek, 2018)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Global average eutrophying emissions per kilogram of food product. Eutrophying emissions represent runoff of excess nutrients into the surrounding environment and waterways, which affect and pollute ecosystems with nutrient imbalances. They are measured in kilograms of phosphate equivalents. ",
+            "owidDisplaySettings": "{\"name\": \"Eutrophying emissions per kilogram\", \"unit\": \"kgPO₄eq per kilogram\", \"shortUnit\": \"kg\", \"numDecimalPlaces\": 2}"
           },
           {
             "name": "Freshwater withdrawals per kilogram (Poore & Nemecek, 2018)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Global average freshwater withdrawals per kilogram of food product. This is measured in liters of freshwater per kilogram of food product.",
+            "owidDisplaySettings": "{\"name\": \"Freshwater withdrawals per kilogram\", \"unit\": \"liters per kilogram\", \"shortUnit\": \"L\", \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Scarcity-weighted water withdrawals per kilogram (Poore & Nemecek, 2018)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Global average scarcity-weighted water withdrawals represent freshwater withdrawals weighted by local water scarcity. Therefore, these figures place greater weight on food production in areas with high water stress than conventional measures of freshwater withdrawal. This is measured in liters per kilogram of food product.",
+            "owidDisplaySettings": "{\"name\": \"Scarcity-weighted water withdrawals per kilogram\", \"unit\": \"liters per kilogram\", \"shortUnit\": \"L\", \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Land Use per 100g protein (Poore & Nemecek, 2018)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Global mean land used to produce 100 grams of protein across different food products. This is measured in meters squared per 100g protein (m² per 100g protein).",
+            "owidDisplaySettings": "{\"name\": \"Land use per 100g protein\", \"unit\": \"m² per 100g protein\", \"shortUnit\": \"m²\", \"numDecimalPlaces\": 2}"
           },
           {
             "name": "GHG per 100g protein (Poore & Nemecek, 2018)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Global average greenhouse gas emissions (GHG) per 100 grams of protein across different food products. This is measured in kilograms of CO₂-equivalents per 100 grams of protein (kgCO₂eq per 100g protein).",
+            "owidDisplaySettings": "{\"name\": \"Greenhouse gas emissions per 100g protein\", \"unit\": \"kgCO₂eq per 100g protein\", \"shortUnit\": \"kg\", \"numDecimalPlaces\": 2}"
           },
           {
             "name": "Eutrophying emissions per 100g protein (Poore & Nemecek, 2018)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Global average eutrophying emissions per 100 grams of protein across food products. Eutrophying emissions represent runoff of excess nutrients into the surrounding environment and waterways, which affect and pollute ecosystems with nutrient imbalances. They are measured in kilograms of phosphate equivalents. ",
+            "owidDisplaySettings": "{\"name\": \"Eutrophying emissions per 100g protein\", \"unit\": \"kgPO₄eq per 100 grams protein\", \"shortUnit\": \"kg\", \"numDecimalPlaces\": 2}"
           },
           {
             "name": "Freshwater withdrawals per 100g protein (Poore & Nemecek, 2018)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Global average freshwater withdrawals per 100 grams of protein across food products. This is measured in liters of freshwater per 100 grams of protein.",
+            "owidDisplaySettings": "{\"name\": \"Freshwater withdrawals per 100g protein\", \"unit\": \"liters per 100g protein\", \"shortUnit\": \"L\", \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Scarcity-weighted water withdrawals per 100g protein (Poore & Nemecek, 2018)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Global average scarcity-weighted water withdrawals represent freshwater withdrawals weighted by local water scarcity. Therefore, these figures place greater weight on food production in areas with high water stress than conventional measures of freshwater withdrawal. This is measured in liters per 100 grams of protein across food products.",
+            "owidDisplaySettings": "{\"name\": \"Scarcity-weighted water withdrawals per 100g protein\", \"unit\": \"liters per 100g protein\", \"shortUnit\": \"L\", \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Land Use per 1000kcal (Poore & Nemecek, 2018)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Global mean land used to produce 1000 kilocalories of different food products. This is measured in meters squared per 1000kcal (m² per 1000kcal).",
+            "owidDisplaySettings": "{\"name\": \"Land use per 1000kcal\", \"unit\": \"m² per 1000kcal\", \"shortUnit\": \"m²\", \"numDecimalPlaces\": 2}"
           },
           {
             "name": "GHG per per 1000kcal (Poore & Nemecek, 2018)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Global average greenhouse gas emissions (GHG) per 1000 kilocalories across different food products. This is measured in kilograms of CO₂-equivalents per 1000kcal (kgCO₂eq per 1000kcal).",
+            "owidDisplaySettings": "{\"name\": \"Greenhouse gas emissions per 1000kcal\", \"unit\": \"kgCO₂eq per 1000kcal\", \"shortUnit\": \"kg\", \"numDecimalPlaces\": 2}"
           },
           {
             "name": "Eutrophying emissions per per 1000kcal (Poore & Nemecek, 2018)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Global average eutrophying emissions per 1000 kilocalories across food products. Eutrophying emissions represent runoff of excess nutrients into the surrounding environment and waterways, which affect and pollute ecosystems with nutrient imbalances. They are measured in kilograms of phosphate equivalents. ",
+            "owidDisplaySettings": "{\"name\": \"Eutrophying emissions per per 1000kcal\", \"unit\": \"kgPO₄eq per 1000kcal\", \"shortUnit\": \"kg\", \"numDecimalPlaces\": 2}"
           },
           {
             "name": "Freshwater withdrawals per per 1000kcal (Poore & Nemecek, 2018)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Global average freshwater withdrawals per 1000 kilocalories across food products. This is measured in liters of freshwater per 1000 kilocalories.",
+            "owidDisplaySettings": "{\"name\": \"Freshwater withdrawals per per 1000kcal\", \"unit\": \"liters per 1000kcal\", \"shortUnit\": \"L\", \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Scarcity-weighted water withdrawals per 1000kcal (Poore & Nemecek, 2018)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Global average scarcity-weighted water withdrawals represent freshwater withdrawals weighted by local water scarcity. Therefore, these figures place greater weight on food production in areas with high water stress than conventional measures of freshwater withdrawal. This is measured in liters per 1000 kilocalories across food products.",
+            "owidDisplaySettings": "{\"name\": \"Scarcity-weighted water withdrawals per 1000kcal\", \"unit\": \"liters per 1000 kilocalories\", \"shortUnit\": \"L\", \"numDecimalPlaces\": 0}"
           }
         ]
       }
