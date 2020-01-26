@@ -32,13 +32,13 @@
             "type": "year"
           },
           {
-            "name": "Land Use per kilogram (Poore & Nemecek, 2018)",
+            "name": "Land use per kilogram (Poore & Nemecek, 2018)",
             "type": "any",
             "description": "Global mean land used to produce one kilogram of different food products. This is measured in meters squared per kilogram (m² per kg).",
             "owidDisplaySettings": "{\"name\": \"Land use per kilogram\", \"unit\": \"m² per kilogram\", \"shortUnit\": \"m²\", \"numDecimalPlaces\": 2}"
           },
           {
-            "name": "GHG per kilogram (Poore & Nemecek, 2018)",
+            "name": "GHG emissions per kilogram (Poore & Nemecek, 2018)",
             "type": "any",
             "description": "Global average greenhouse gas emissions (GHG) per kilogram of food product. This is measured in kilograms of CO₂-equivalents per kilogram of product (kgCO₂eq per kg).",
             "owidDisplaySettings": "{\"name\": \"Greenhouse gas emissions per kilogram\", \"unit\": \"kgCO₂eq per kilogram\", \"shortUnit\": \"kg\", \"numDecimalPlaces\": 2}"
@@ -56,19 +56,19 @@
             "owidDisplaySettings": "{\"name\": \"Freshwater withdrawals per kilogram\", \"unit\": \"liters per kilogram\", \"shortUnit\": \"L\", \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Scarcity-weighted water withdrawals per kilogram (Poore & Nemecek, 2018)",
+            "name": "Scarcity-weighted water use per kilogram (Poore & Nemecek, 2018)",
             "type": "any",
-            "description": "Global average scarcity-weighted water withdrawals represent freshwater withdrawals weighted by local water scarcity. Therefore, these figures place greater weight on food production in areas with high water stress than conventional measures of freshwater withdrawal. This is measured in liters per kilogram of food product.",
-            "owidDisplaySettings": "{\"name\": \"Scarcity-weighted water withdrawals per kilogram\", \"unit\": \"liters per kilogram\", \"shortUnit\": \"L\", \"numDecimalPlaces\": 0}"
+            "description": "Global average scarcity-weighted water use represent freshwater use weighted by local water scarcity. Therefore, these figures place greater weight on food production in areas with high water stress than conventional measures of freshwater use. This is measured in liters per kilogram of food product.",
+            "owidDisplaySettings": "{\"name\": \"Scarcity-weighted water use per kilogram\", \"unit\": \"liters per kilogram\", \"shortUnit\": \"L\", \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Land Use per 100g protein (Poore & Nemecek, 2018)",
+            "name": "Land use per 100g protein (Poore & Nemecek, 2018)",
             "type": "any",
             "description": "Global mean land used to produce 100 grams of protein across different food products. This is measured in meters squared per 100g protein (m² per 100g protein).",
             "owidDisplaySettings": "{\"name\": \"Land use per 100g protein\", \"unit\": \"m² per 100g protein\", \"shortUnit\": \"m²\", \"numDecimalPlaces\": 2}"
           },
           {
-            "name": "GHG per 100g protein (Poore & Nemecek, 2018)",
+            "name": "GHG emissions per 100g protein (Poore & Nemecek, 2018)",
             "type": "any",
             "description": "Global average greenhouse gas emissions (GHG) per 100 grams of protein across different food products. This is measured in kilograms of CO₂-equivalents per 100 grams of protein (kgCO₂eq per 100g protein).",
             "owidDisplaySettings": "{\"name\": \"Greenhouse gas emissions per 100g protein\", \"unit\": \"kgCO₂eq per 100g protein\", \"shortUnit\": \"kg\", \"numDecimalPlaces\": 2}"
@@ -86,40 +86,40 @@
             "owidDisplaySettings": "{\"name\": \"Freshwater withdrawals per 100g protein\", \"unit\": \"liters per 100g protein\", \"shortUnit\": \"L\", \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Scarcity-weighted water withdrawals per 100g protein (Poore & Nemecek, 2018)",
+            "name": "Scarcity-weighted water use per 100g protein (Poore & Nemecek, 2018)",
             "type": "any",
-            "description": "Global average scarcity-weighted water withdrawals represent freshwater withdrawals weighted by local water scarcity. Therefore, these figures place greater weight on food production in areas with high water stress than conventional measures of freshwater withdrawal. This is measured in liters per 100 grams of protein across food products.",
-            "owidDisplaySettings": "{\"name\": \"Scarcity-weighted water withdrawals per 100g protein\", \"unit\": \"liters per 100g protein\", \"shortUnit\": \"L\", \"numDecimalPlaces\": 0}"
+            "description": "Global average scarcity-weighted water use represent freshwater use weighted by local water scarcity. Therefore, these figures place greater weight on food production in areas with high water stress than conventional measures of freshwater withdrawal. This is measured in liters per 100 grams of protein across food products.",
+            "owidDisplaySettings": "{\"name\": \"Scarcity-weighted water use per 100g protein\", \"unit\": \"liters per 100g protein\", \"shortUnit\": \"L\", \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Land Use per 1000kcal (Poore & Nemecek, 2018)",
+            "name": "Land use per 1000kcal (Poore & Nemecek, 2018)",
             "type": "any",
             "description": "Global mean land used to produce 1000 kilocalories of different food products. This is measured in meters squared per 1000kcal (m² per 1000kcal).",
             "owidDisplaySettings": "{\"name\": \"Land use per 1000kcal\", \"unit\": \"m² per 1000kcal\", \"shortUnit\": \"m²\", \"numDecimalPlaces\": 2}"
           },
           {
-            "name": "GHG per per 1000kcal (Poore & Nemecek, 2018)",
+            "name": "GHG emissions per 1000kcal (Poore & Nemecek, 2018)",
             "type": "any",
             "description": "Global average greenhouse gas emissions (GHG) per 1000 kilocalories across different food products. This is measured in kilograms of CO₂-equivalents per 1000kcal (kgCO₂eq per 1000kcal).",
             "owidDisplaySettings": "{\"name\": \"Greenhouse gas emissions per 1000kcal\", \"unit\": \"kgCO₂eq per 1000kcal\", \"shortUnit\": \"kg\", \"numDecimalPlaces\": 2}"
           },
           {
-            "name": "Eutrophying emissions per per 1000kcal (Poore & Nemecek, 2018)",
+            "name": "Eutrophying emissions per 1000kcal (Poore & Nemecek, 2018)",
             "type": "any",
             "description": "Global average eutrophying emissions per 1000 kilocalories across food products. Eutrophying emissions represent runoff of excess nutrients into the surrounding environment and waterways, which affect and pollute ecosystems with nutrient imbalances. They are measured in kilograms of phosphate equivalents. ",
-            "owidDisplaySettings": "{\"name\": \"Eutrophying emissions per per 1000kcal\", \"unit\": \"kgPO₄eq per 1000kcal\", \"shortUnit\": \"kg\", \"numDecimalPlaces\": 2}"
+            "owidDisplaySettings": "{\"name\": \"Eutrophying emissions per 1000kcal\", \"unit\": \"kgPO₄eq per 1000kcal\", \"shortUnit\": \"kg\", \"numDecimalPlaces\": 2}"
           },
           {
-            "name": "Freshwater withdrawals per per 1000kcal (Poore & Nemecek, 2018)",
+            "name": "Freshwater withdrawals per 1000kcal (Poore & Nemecek, 2018)",
             "type": "any",
             "description": "Global average freshwater withdrawals per 1000 kilocalories across food products. This is measured in liters of freshwater per 1000 kilocalories.",
-            "owidDisplaySettings": "{\"name\": \"Freshwater withdrawals per per 1000kcal\", \"unit\": \"liters per 1000kcal\", \"shortUnit\": \"L\", \"numDecimalPlaces\": 0}"
+            "owidDisplaySettings": "{\"name\": \"Freshwater withdrawals per 1000kcal\", \"unit\": \"liters per 1000kcal\", \"shortUnit\": \"L\", \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Scarcity-weighted water withdrawals per 1000kcal (Poore & Nemecek, 2018)",
+            "name": "Scarcity-weighted water use per 1000kcal (Poore & Nemecek, 2018)",
             "type": "any",
-            "description": "Global average scarcity-weighted water withdrawals represent freshwater withdrawals weighted by local water scarcity. Therefore, these figures place greater weight on food production in areas with high water stress than conventional measures of freshwater withdrawal. This is measured in liters per 1000 kilocalories across food products.",
-            "owidDisplaySettings": "{\"name\": \"Scarcity-weighted water withdrawals per 1000kcal\", \"unit\": \"liters per 1000 kilocalories\", \"shortUnit\": \"L\", \"numDecimalPlaces\": 0}"
+            "description": "Global average scarcity-weighted water use represents freshwater use weighted by local water scarcity. Therefore, these figures place greater weight on food production in areas with high water stress than conventional measures of freshwater withdrawal. This is measured in liters per 1000 kilocalories across food products.",
+            "owidDisplaySettings": "{\"name\": \"Scarcity-weighted water use per 1000kcal\", \"unit\": \"liters per 1000 kilocalories\", \"shortUnit\": \"L\", \"numDecimalPlaces\": 0}"
           }
         ]
       }
