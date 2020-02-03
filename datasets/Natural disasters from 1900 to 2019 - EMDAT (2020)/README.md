@@ -1,4 +1,4 @@
-# Natural disasters from 1900 to 2018 - EMDAT (2019)
+# Natural disasters from 1900 to 2019 - EMDAT (2020)
 
 The data presented here includes all categories classified as "natural disasters" (distinguished from technological disasters, such as oil spills and industrial accidents). This includes those from drought, floods, extreme weather, extreme temperature, landslides, dry mass movements, wildfires, volcanic activity and earthquakes.
 
