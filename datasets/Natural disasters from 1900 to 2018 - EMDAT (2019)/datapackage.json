@@ -5,11 +5,10 @@
   "description": "The data presented here includes all categories classified as \"natural disasters\" (distinguished from technological disasters, such as oil spills and industrial accidents). This includes those from drought, floods, extreme weather, extreme temperature, landslides, dry mass movements, wildfires, volcanic activity and earthquakes.\n\nemdat defines the following variables as:\n\nAffected: \"People requiring immediate assistance during a period of emergency, i.e. requiring basic survival needs such as food, water, shelter, sanitation and immediate medical assistance.\"\n\nInjured: \"People suffering from physical injuries, trauma or an illness requiring immediate medical assistance as a direct result of a disaster.\"\n\nHomeless: \"Number of people whose house is destroyed or heavily damaged and therefore need shelter after an event.\"\n\nTotal affected: \"In EM-DAT, it is the sum of the injured, affected and left homeless after a disaster.\"\n\nEstimated economic damage: \"The amount of damage to property, crops, and livestock. In EM-DAT estimated damage are given in US$ (‘000). For each disaster, the registered figure corresponds to the damage value at the moment of the event, i.e. the figures are shown true to the year of the event.\"\n\nTotal deaths: \"In EM-DAT, it is the sum of deaths and missing.\"",
   "sources": [
     {
-      "name": "Natural disasters - EMDAT (2019)",
-      "dataPublishedBy": "EMDAT (2019): OFDA/CRED International Disaster Database, Université catholique de Louvain – Brussels – Belgium",
-      "dataPublisherSource": "Census data",
+      "name": "Natural disasters - EMDAT (2020)",
+      "dataPublishedBy": "EMDAT (2020): OFDA/CRED International Disaster Database, Université catholique de Louvain – Brussels – Belgium",
       "link": "http://www.emdat.be/",
-      "retrievedDate": "31st January 2019",
+      "retrievedDate": "3rd February 2020",
       "additionalInfo": "The data presented here includes all categories classified as \"natural disasters\" (distinguished from technological disasters, such as oil spills and industrial accidents). This includes those from drought, floods, extreme weather, extreme temperature, landslides, dry mass movements, wildfires, volcanic activity and earthquakes.\n\nemdat defines the following variables as:\n\nAffected: \"People requiring immediate assistance during a period of emergency, i.e. requiring basic survival needs such as food, water, shelter, sanitation and immediate medical assistance.\"\n\nInjured: \"People suffering from physical injuries, trauma or an illness requiring immediate medical assistance as a direct result of a disaster.\"\n\nHomeless: \"Number of people whose house is destroyed or heavily damaged and therefore need shelter after an event.\"\n\nTotal affected: \"In EM-DAT, it is the sum of the injured, affected and left homeless after a disaster.\"\n\nEstimated economic damage: \"The amount of damage to property, crops, and livestock. In EM-DAT estimated damage are given in US$ (‘000). For each disaster, the registered figure corresponds to the damage value at the moment of the event, i.e. the figures are shown true to the year of the event.\"\n\nTotal deaths: \"In EM-DAT, it is the sum of deaths and missing.\""
     }
   ],
@@ -33,60 +32,43 @@
             "name": "Number of disasters (EMDAT (2019))",
             "type": "any",
             "description": "Number of reported natural disasters.",
-            "owidDisplaySettings": {
-              "name": "Number of reported natural disasters"
-            }
+            "owidDisplaySettings": "{\"name\": \"Number of reported natural disasters\"}"
           },
           {
             "name": "Total deaths (EMDAT (2019))",
             "type": "any",
             "description": "Total number of deaths as a result of natural disasters. \"In EM-DAT, it is the sum of deaths and missing.\"",
-            "owidDisplaySettings": {
-              "name": "Global deaths from natural disasters"
-            }
+            "owidDisplaySettings": "{\"name\": \"Global deaths from natural disasters\"}"
           },
           {
             "name": "Injured (EMDAT (2019))",
             "type": "any",
             "description": "People suffering from physical injuries, trauma or an illness requiring immediate medical assistance as a direct result of a disaster.",
-            "owidDisplaySettings": {
-              "name": "Global injuries from natural disasters"
-            }
+            "owidDisplaySettings": "{\"name\": \"Global injuries from natural disasters\"}"
           },
           {
             "name": "Affected (EMDAT (2019))",
             "type": "any",
             "description": "People requiring immediate assistance during a period of emergency, i.e. requiring basic survival needs such as food, water, shelter, sanitation and immediate medical assistance.",
-            "owidDisplaySettings": {
-              "name": "Global numbers affected by natural disasters"
-            }
+            "owidDisplaySettings": "{\"name\": \"Global numbers affected by natural disasters\"}"
           },
           {
             "name": "Homeless (EMDAT (2019))",
             "type": "any",
             "description": "Number of people whose house is destroyed or heavily damaged and therefore need shelter after an event.",
-            "owidDisplaySettings": {
-              "name": "Number left homeless from natural disasters"
-            }
+            "owidDisplaySettings": "{\"name\": \"Number left homeless from natural disasters\"}"
           },
           {
             "name": "Total affected (EMDAT (2019))",
             "type": "any",
             "description": "Total number of people affected by natural disasters. \"In EM-DAT, it is the sum of the injured, affected and left homeless after a disaster.\"",
-            "owidDisplaySettings": {
-              "name": "Total number of people affected by natural disasters"
-            }
+            "owidDisplaySettings": "{\"name\": \"Total number of people affected by natural disasters\"}"
           },
           {
             "name": "Total economic damage (EMDAT (2019))",
             "type": "any",
             "description": "The amount of damage to property, crops, and livestock. In EM-DAT estimated damage are given in US$. For each disaster, the registered figure corresponds to the damage value at the moment of the event, i.e. the figures are shown true to the year of the event.",
-            "owidDisplaySettings": {
-              "name": "Total economic damage from natural disasters",
-              "unit": "US$",
-              "shortUnit": "$",
-              "tolerance": 5
-            }
+            "owidDisplaySettings": "{\"name\": \"Total economic damage from natural disasters\", \"unit\": \"US$\", \"shortUnit\": \"$\", \"tolerance\": 5}"
           }
         ]
       }
