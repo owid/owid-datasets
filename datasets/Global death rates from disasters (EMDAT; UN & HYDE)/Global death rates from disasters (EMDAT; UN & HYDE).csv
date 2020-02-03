@@ -1,4 +1,4 @@
-Entity,Year,"Death rate per 100,000"
+Entity,Year,Global death rates from natural disasters
 All natural disasters,1900,76.8079
 All natural disasters,1901,0.0011
 All natural disasters,1902,2.7567
@@ -48,75 +48,76 @@ All natural disasters,1946,1.4881
 All natural disasters,1947,0.3061
 All natural disasters,1948,4.9291
 All natural disasters,1949,4.8655
-All natural disasters,1950,0.2664
-All natural disasters,1951,0.5849
-All natural disasters,1952,0.3424
-All natural disasters,1953,0.4683
-All natural disasters,1954,1.5447
-All natural disasters,1955,0.2185
-All natural disasters,1956,0.2756
-All natural disasters,1957,0.3710
-All natural disasters,1958,0.1358
-All natural disasters,1959,67.9411
-All natural disasters,1960,1.2983
-All natural disasters,1961,0.5639
-All natural disasters,1962,0.5543
-All natural disasters,1963,1.1504
-All natural disasters,1964,0.3769
-All natural disasters,1965,47.0942
-All natural disasters,1966,0.5008
-All natural disasters,1967,0.2013
-All natural disasters,1968,0.6023
-All natural disasters,1969,0.2264
-All natural disasters,1970,10.4975
-All natural disasters,1971,0.4197
-All natural disasters,1972,0.5220
-All natural disasters,1973,2.8277
-All natural disasters,1974,2.1578
-All natural disasters,1975,0.3658
-All natural disasters,1976,6.7707
-All natural disasters,1977,0.5039
-All natural disasters,1978,0.8174
-All natural disasters,1979,0.1571
-All natural disasters,1980,0.4821
-All natural disasters,1981,2.5937
-All natural disasters,1982,0.2405
-All natural disasters,1983,9.8338
-All natural disasters,1984,0.1942
-All natural disasters,1985,1.1206
-All natural disasters,1986,0.1478
-All natural disasters,1987,0.3763
-All natural disasters,1988,0.8241
-All natural disasters,1989,0.2058
-All natural disasters,1990,0.9593
-All natural disasters,1991,2.9458
-All natural disasters,1992,0.2231
-All natural disasters,1993,0.3801
-All natural disasters,1994,0.2315
-All natural disasters,1995,0.3965
-All natural disasters,1996,0.2529
-All natural disasters,1997,0.3300
-All natural disasters,1998,0.8329
-All natural disasters,1999,1.1670
-All natural disasters,2000,0.1581
-All natural disasters,2001,0.4993
-All natural disasters,2002,0.2002
-All natural disasters,2003,1.7299
-All natural disasters,2004,3.7505
-All natural disasters,2005,1.3752
-All natural disasters,2006,0.3559
-All natural disasters,2007,0.2535
-All natural disasters,2008,3.4793
-All natural disasters,2009,0.1627
-All natural disasters,2010,4.5854
-All natural disasters,2011,0.4416
-All natural disasters,2012,0.1371
-All natural disasters,2013,0.3021
-All natural disasters,2014,0.1095
-All natural disasters,2015,0.3096
+All natural disasters,1950,0.2653
+All natural disasters,1951,0.5821
+All natural disasters,1952,0.3408
+All natural disasters,1953,0.4659
+All natural disasters,1954,1.5367
+All natural disasters,1955,0.2173
+All natural disasters,1956,0.2741
+All natural disasters,1957,0.3690
+All natural disasters,1958,0.1350
+All natural disasters,1959,67.5681
+All natural disasters,1960,1.2912
+All natural disasters,1961,0.5609
+All natural disasters,1962,0.5514
+All natural disasters,1963,1.1444
+All natural disasters,1964,0.3749
+All natural disasters,1965,46.8532
+All natural disasters,1966,0.4983
+All natural disasters,1967,0.2002
+All natural disasters,1968,0.5993
+All natural disasters,1969,0.2253
+All natural disasters,1970,10.4465
+All natural disasters,1971,0.4177
+All natural disasters,1972,0.5195
+All natural disasters,1973,2.8147
+All natural disasters,1974,2.1481
+All natural disasters,1975,0.3642
+All natural disasters,1976,6.7412
+All natural disasters,1977,0.5018
+All natural disasters,1978,0.8139
+All natural disasters,1979,0.1565
+All natural disasters,1980,0.4801
+All natural disasters,1981,2.5832
+All natural disasters,1982,0.2396
+All natural disasters,1983,9.7954
+All natural disasters,1984,0.1935
+All natural disasters,1985,1.1164
+All natural disasters,1986,0.1472
+All natural disasters,1987,0.3749
+All natural disasters,1988,0.8211
+All natural disasters,1989,0.2051
+All natural disasters,1990,0.9561
+All natural disasters,1991,2.9371
+All natural disasters,1992,0.2225
+All natural disasters,1993,0.3793
+All natural disasters,1994,0.2311
+All natural disasters,1995,0.3958
+All natural disasters,1996,0.2525
+All natural disasters,1997,0.3294
+All natural disasters,1998,0.8311
+All natural disasters,1999,1.1641
+All natural disasters,2000,0.1577
+All natural disasters,2001,0.4978
+All natural disasters,2002,0.1996
+All natural disasters,2003,1.7244
+All natural disasters,2004,3.7381
+All natural disasters,2005,1.3705
+All natural disasters,2006,0.3547
+All natural disasters,2007,0.2526
+All natural disasters,2008,3.4663
+All natural disasters,2009,0.1621
+All natural disasters,2010,4.5676
+All natural disasters,2011,0.4398
+All natural disasters,2012,0.1366
+All natural disasters,2013,0.3009
+All natural disasters,2014,0.1091
+All natural disasters,2015,0.3098
 All natural disasters,2016,0.1163
-All natural disasters,2017,0.0972
+All natural disasters,2017,0.0973
 All natural disasters,2018,0.1416
+All natural disasters,2019,0.1519
 Drought,1900,76.4242
 Drought,1910,4.8571
 Drought,1920,28.1720
@@ -127,37 +128,38 @@ Drought,1942,64.4734
 Drought,1943,81.2437
 Drought,1946,1.2579
 Drought,1964,0.0015
-Drought,1965,45.2070
-Drought,1966,0.2359
-Drought,1967,0.0173
-Drought,1973,2.5577
-Drought,1974,0.4767
+Drought,1965,44.9757
+Drought,1966,0.2347
+Drought,1967,0.0172
+Drought,1973,2.5460
+Drought,1974,0.4745
 Drought,1978,0.0015
 Drought,1979,0.0004
-Drought,1981,2.2795
+Drought,1981,2.2702
 Drought,1982,0.0061
-Drought,1983,9.6240
+Drought,1983,9.5864
 Drought,1984,0.0048
 Drought,1986,0.0017
-Drought,1987,0.0262
-Drought,1988,0.0312
+Drought,1987,0.0261
+Drought,1988,0.0311
 Drought,1989,0.0045
-Drought,1991,0.0370
+Drought,1991,0.0369
 Drought,1997,0.0124
 Drought,1998,0.0003
 Drought,1999,0.0060
 Drought,2000,0.0013
 Drought,2001,0.0016
-Drought,2002,0.0094
+Drought,2002,0.0093
 Drought,2003,0.0001
 Drought,2004,0.0012
 Drought,2005,0.0023
 Drought,2006,0.0020
 Drought,2008,0.0001
-Drought,2010,0.2886
+Drought,2010,0.2875
 Drought,2015,0.0005
 Drought,2017,0.0000
 Drought,2018,0.0000
+Drought,2019,0.0010
 Earthquake,1901,0.0011
 Earthquake,1902,0.4040
 Earthquake,1903,0.3571
@@ -201,83 +203,84 @@ Earthquake,1946,0.2161
 Earthquake,1947,0.0263
 Earthquake,1948,4.7439
 Earthquake,1949,0.2622
-Earthquake,1950,0.0726
-Earthquake,1951,0.0604
-Earthquake,1952,0.0929
-Earthquake,1953,0.1020
-Earthquake,1954,0.1234
-Earthquake,1955,0.0348
-Earthquake,1956,0.0272
-Earthquake,1957,0.2447
+Earthquake,1950,0.0723
+Earthquake,1951,0.0601
+Earthquake,1952,0.0924
+Earthquake,1953,0.1015
+Earthquake,1954,0.1227
+Earthquake,1955,0.0346
+Earthquake,1956,0.0270
+Earthquake,1957,0.2434
 Earthquake,1958,0.0078
 Earthquake,1959,0.0035
-Earthquake,1960,0.6426
-Earthquake,1961,0.0020
-Earthquake,1962,0.3896
-Earthquake,1963,0.0532
-Earthquake,1964,0.0103
-Earthquake,1965,0.0206
-Earthquake,1966,0.0812
-Earthquake,1967,0.0293
-Earthquake,1968,0.3072
-Earthquake,1969,0.0929
-Earthquake,1970,2.1344
-Earthquake,1971,0.0295
-Earthquake,1972,0.3957
+Earthquake,1960,0.6391
+Earthquake,1961,0.0019
+Earthquake,1962,0.3875
+Earthquake,1963,0.0529
+Earthquake,1964,0.0102
+Earthquake,1965,0.0205
+Earthquake,1966,0.0808
+Earthquake,1967,0.0291
+Earthquake,1968,0.3057
+Earthquake,1969,0.0925
+Earthquake,1970,2.1240
+Earthquake,1971,0.0293
+Earthquake,1972,0.3939
 Earthquake,1973,0.0141
-Earthquake,1974,0.6224
-Earthquake,1975,0.3110
-Earthquake,1976,6.6963
-Earthquake,1977,0.0736
-Earthquake,1978,0.5870
-Earthquake,1979,0.0481
-Earthquake,1980,0.1741
-Earthquake,1981,0.0931
-Earthquake,1982,0.0461
-Earthquake,1983,0.0459
+Earthquake,1974,0.6196
+Earthquake,1975,0.3096
+Earthquake,1976,6.6671
+Earthquake,1977,0.0732
+Earthquake,1978,0.5845
+Earthquake,1979,0.0479
+Earthquake,1980,0.1734
+Earthquake,1981,0.0927
+Earthquake,1982,0.0459
+Earthquake,1983,0.0457
 Earthquake,1984,0.0012
-Earthquake,1985,0.2030
-Earthquake,1986,0.0239
-Earthquake,1987,0.1025
-Earthquake,1988,0.5276
-Earthquake,1989,0.0125
-Earthquake,1990,0.8071
-Earthquake,1991,0.0455
-Earthquake,1992,0.0735
-Earthquake,1993,0.1811
-Earthquake,1994,0.0220
-Earthquake,1995,0.1349
+Earthquake,1985,0.2023
+Earthquake,1986,0.0238
+Earthquake,1987,0.1021
+Earthquake,1988,0.5257
+Earthquake,1989,0.0124
+Earthquake,1990,0.8044
+Earthquake,1991,0.0453
+Earthquake,1992,0.0733
+Earthquake,1993,0.1807
+Earthquake,1994,0.0219
+Earthquake,1995,0.1347
 Earthquake,1996,0.0099
-Earthquake,1997,0.0536
-Earthquake,1998,0.1603
-Earthquake,1999,0.3615
+Earthquake,1997,0.0535
+Earthquake,1998,0.1600
+Earthquake,1999,0.3606
 Earthquake,2000,0.0035
-Earthquake,2001,0.3441
-Earthquake,2002,0.0261
-Earthquake,2003,0.4656
-Earthquake,2004,3.5294
-Earthquake,2005,1.1694
-Earthquake,2006,0.1014
-Earthquake,2007,0.0117
-Earthquake,2008,1.2998
-Earthquake,2009,0.0276
-Earthquake,2010,3.2719
-Earthquake,2011,0.2987
+Earthquake,2001,0.3431
+Earthquake,2002,0.0260
+Earthquake,2003,0.4641
+Earthquake,2004,3.5178
+Earthquake,2005,1.1654
+Earthquake,2006,0.1010
+Earthquake,2007,0.0116
+Earthquake,2008,1.2950
+Earthquake,2009,0.0275
+Earthquake,2010,3.2591
+Earthquake,2011,0.2975
 Earthquake,2012,0.0100
-Earthquake,2013,0.0156
-Earthquake,2014,0.0107
+Earthquake,2013,0.0155
+Earthquake,2014,0.0106
 Earthquake,2015,0.1294
 Earthquake,2016,0.0176
 Earthquake,2017,0.0114
 Earthquake,2018,0.0566
+Earthquake,2019,0.0034
 Extreme temperature,1936,0.0762
 Extreme temperature,1951,0.0027
-Extreme temperature,1953,0.0251
+Extreme temperature,1953,0.0250
 Extreme temperature,1955,0.0039
-Extreme temperature,1958,0.0224
-Extreme temperature,1961,0.0130
+Extreme temperature,1958,0.0223
+Extreme temperature,1961,0.0129
 Extreme temperature,1962,0.0016
-Extreme temperature,1963,0.0051
+Extreme temperature,1963,0.0050
 Extreme temperature,1965,0.0030
 Extreme temperature,1966,0.0077
 Extreme temperature,1968,0.0043
@@ -286,46 +289,47 @@ Extreme temperature,1972,0.0029
 Extreme temperature,1973,0.0072
 Extreme temperature,1975,0.0034
 Extreme temperature,1978,0.0035
-Extreme temperature,1979,0.0108
-Extreme temperature,1980,0.0313
+Extreme temperature,1979,0.0107
+Extreme temperature,1980,0.0312
 Extreme temperature,1981,0.0066
 Extreme temperature,1982,0.0087
 Extreme temperature,1983,0.0044
 Extreme temperature,1984,0.0061
 Extreme temperature,1985,0.0094
 Extreme temperature,1986,0.0010
-Extreme temperature,1987,0.0242
-Extreme temperature,1988,0.0126
+Extreme temperature,1987,0.0241
+Extreme temperature,1988,0.0125
 Extreme temperature,1989,0.0073
 Extreme temperature,1990,0.0184
-Extreme temperature,1991,0.0155
+Extreme temperature,1991,0.0154
 Extreme temperature,1992,0.0071
 Extreme temperature,1993,0.0019
 Extreme temperature,1994,0.0060
-Extreme temperature,1995,0.0302
+Extreme temperature,1995,0.0301
 Extreme temperature,1996,0.0052
 Extreme temperature,1997,0.0102
-Extreme temperature,1998,0.0547
+Extreme temperature,1998,0.0546
 Extreme temperature,1999,0.0127
-Extreme temperature,2000,0.0154
-Extreme temperature,2001,0.0288
-Extreme temperature,2002,0.0536
-Extreme temperature,2003,1.1744
-Extreme temperature,2004,0.0040
-Extreme temperature,2005,0.0238
-Extreme temperature,2006,0.0731
-Extreme temperature,2007,0.0163
-Extreme temperature,2008,0.0250
+Extreme temperature,2000,0.0153
+Extreme temperature,2001,0.0287
+Extreme temperature,2002,0.0535
+Extreme temperature,2003,1.1706
+Extreme temperature,2004,0.0039
+Extreme temperature,2005,0.0237
+Extreme temperature,2006,0.0729
+Extreme temperature,2007,0.0162
+Extreme temperature,2008,0.0249
 Extreme temperature,2009,0.0202
-Extreme temperature,2010,0.8253
+Extreme temperature,2010,0.8220
 Extreme temperature,2011,0.0062
-Extreme temperature,2012,0.0258
-Extreme temperature,2013,0.0254
-Extreme temperature,2014,0.0161
+Extreme temperature,2012,0.0257
+Extreme temperature,2013,0.0253
+Extreme temperature,2014,0.0160
 Extreme temperature,2015,0.1006
 Extreme temperature,2016,0.0066
 Extreme temperature,2017,0.0018
 Extreme temperature,2018,0.0070
+Extreme temperature,2019,0.0377
 Extreme weather,1900,0.3636
 Extreme weather,1902,0.0359
 Extreme weather,1903,0.0097
@@ -369,71 +373,71 @@ Extreme weather,1946,0.0141
 Extreme weather,1947,0.1968
 Extreme weather,1948,0.1219
 Extreme weather,1949,0.1133
-Extreme weather,1950,0.0346
-Extreme weather,1951,0.1112
-Extreme weather,1952,0.2398
-Extreme weather,1953,0.0681
-Extreme weather,1954,0.1095
-Extreme weather,1955,0.1412
-Extreme weather,1956,0.1109
-Extreme weather,1957,0.0399
-Extreme weather,1958,0.0900
-Extreme weather,1959,0.3272
-Extreme weather,1960,0.3036
-Extreme weather,1961,0.4179
-Extreme weather,1962,0.0594
-Extreme weather,1963,0.9381
-Extreme weather,1964,0.3271
-Extreme weather,1965,1.8038
-Extreme weather,1966,0.0686
-Extreme weather,1967,0.0651
-Extreme weather,1968,0.0472
-Extreme weather,1969,0.0901
-Extreme weather,1970,8.2687
-Extreme weather,1971,0.2877
-Extreme weather,1972,0.0372
-Extreme weather,1973,0.1111
-Extreme weather,1974,0.2976
-Extreme weather,1975,0.0256
-Extreme weather,1976,0.0426
-Extreme weather,1977,0.3633
-Extreme weather,1978,0.0858
-Extreme weather,1979,0.0601
-Extreme weather,1980,0.0311
-Extreme weather,1981,0.0839
-Extreme weather,1982,0.0605
-Extreme weather,1983,0.0781
-Extreme weather,1984,0.1147
-Extreme weather,1985,0.3537
-Extreme weather,1986,0.0392
-Extreme weather,1987,0.0576
-Extreme weather,1988,0.0651
-Extreme weather,1989,0.0815
-Extreme weather,1990,0.0867
-Extreme weather,1991,2.7100
-Extreme weather,1992,0.0245
-Extreme weather,1993,0.0532
-Extreme weather,1994,0.0750
-Extreme weather,1995,0.0656
-Extreme weather,1996,0.0788
-Extreme weather,1997,0.1043
-Extreme weather,1998,0.4175
-Extreme weather,1999,0.2028
-Extreme weather,2000,0.0221
-Extreme weather,2001,0.0308
-Extreme weather,2002,0.0220
-Extreme weather,2003,0.0165
-Extreme weather,2004,0.1017
-Extreme weather,2005,0.0805
-Extreme weather,2006,0.0656
-Extreme weather,2007,0.0903
-Extreme weather,2008,2.0844
-Extreme weather,2009,0.0480
-Extreme weather,2010,0.0226
-Extreme weather,2011,0.0442
-Extreme weather,2012,0.0437
-Extreme weather,2013,0.1198
-Extreme weather,2014,0.0196
+Extreme weather,1950,0.0344
+Extreme weather,1951,0.1107
+Extreme weather,1952,0.2386
+Extreme weather,1953,0.0677
+Extreme weather,1954,0.1090
+Extreme weather,1955,0.1405
+Extreme weather,1956,0.1103
+Extreme weather,1957,0.0396
+Extreme weather,1958,0.0896
+Extreme weather,1959,0.3254
+Extreme weather,1960,0.3019
+Extreme weather,1961,0.4157
+Extreme weather,1962,0.0590
+Extreme weather,1963,0.9332
+Extreme weather,1964,0.3254
+Extreme weather,1965,1.7946
+Extreme weather,1966,0.0683
+Extreme weather,1967,0.0648
+Extreme weather,1968,0.0470
+Extreme weather,1969,0.0897
+Extreme weather,1970,8.2286
+Extreme weather,1971,0.2863
+Extreme weather,1972,0.0370
+Extreme weather,1973,0.1106
+Extreme weather,1974,0.2962
+Extreme weather,1975,0.0255
+Extreme weather,1976,0.0424
+Extreme weather,1977,0.3617
+Extreme weather,1978,0.0854
+Extreme weather,1979,0.0599
+Extreme weather,1980,0.0309
+Extreme weather,1981,0.0835
+Extreme weather,1982,0.0603
+Extreme weather,1983,0.0778
+Extreme weather,1984,0.1143
+Extreme weather,1985,0.3524
+Extreme weather,1986,0.0391
+Extreme weather,1987,0.0574
+Extreme weather,1988,0.0648
+Extreme weather,1989,0.0813
+Extreme weather,1990,0.0864
+Extreme weather,1991,2.7021
+Extreme weather,1992,0.0244
+Extreme weather,1993,0.0531
+Extreme weather,1994,0.0749
+Extreme weather,1995,0.0655
+Extreme weather,1996,0.0786
+Extreme weather,1997,0.1041
+Extreme weather,1998,0.4166
+Extreme weather,1999,0.2023
+Extreme weather,2000,0.0220
+Extreme weather,2001,0.0307
+Extreme weather,2002,0.0219
+Extreme weather,2003,0.0164
+Extreme weather,2004,0.1013
+Extreme weather,2005,0.0803
+Extreme weather,2006,0.0654
+Extreme weather,2007,0.0900
+Extreme weather,2008,2.0766
+Extreme weather,2009,0.0478
+Extreme weather,2010,0.0225
+Extreme weather,2011,0.0441
+Extreme weather,2012,0.0436
+Extreme weather,2013,0.1193
+Extreme weather,2014,0.0195
 Extreme weather,2015,0.0172
 Extreme weather,2016,0.0236
 Extreme weather,2017,0.0134
@@ -459,75 +463,76 @@ Flood,1943,0.0423
 Flood,1947,0.0831
 Flood,1948,0.0376
 Flood,1949,3.9208
-Flood,1950,0.1508
-Flood,1951,0.2203
+Flood,1950,0.1501
+Flood,1951,0.2193
 Flood,1952,0.0076
-Flood,1953,0.2675
-Flood,1954,1.2704
-Flood,1955,0.0212
-Flood,1956,0.1287
-Flood,1957,0.0865
+Flood,1953,0.2661
+Flood,1954,1.2638
+Flood,1955,0.0211
+Flood,1956,0.1280
+Flood,1957,0.0860
 Flood,1958,0.0137
-Flood,1959,67.6088
-Flood,1960,0.3504
-Flood,1961,0.1256
-Flood,1962,0.0377
-Flood,1963,0.0323
-Flood,1964,0.0345
-Flood,1965,0.0422
-Flood,1966,0.0567
-Flood,1967,0.0707
-Flood,1968,0.2067
-Flood,1969,0.0428
-Flood,1970,0.0881
-Flood,1971,0.0640
-Flood,1972,0.0665
-Flood,1973,0.0469
-Flood,1974,0.7384
-Flood,1975,0.0209
-Flood,1976,0.0232
-Flood,1977,0.0610
-Flood,1978,0.1376
-Flood,1979,0.0238
-Flood,1980,0.2357
-Flood,1981,0.1169
-Flood,1982,0.1011
-Flood,1983,0.0445
-Flood,1984,0.0615
-Flood,1985,0.0902
-Flood,1986,0.0361
-Flood,1987,0.1344
-Flood,1988,0.1659
-Flood,1989,0.0904
-Flood,1990,0.0424
-Flood,1991,0.1084
-Flood,1992,0.0969
-Flood,1993,0.1104
-Flood,1994,0.1198
-Flood,1995,0.1387
-Flood,1996,0.1384
-Flood,1997,0.1304
-Flood,1998,0.1784
-Flood,1999,0.5754
-Flood,2000,0.0983
-Flood,2001,0.0808
-Flood,2002,0.0674
-Flood,2003,0.0615
-Flood,2004,0.1084
-Flood,2005,0.0883
-Flood,2006,0.0885
-Flood,2007,0.1288
-Flood,2008,0.0592
-Flood,2009,0.0530
-Flood,2010,0.1206
-Flood,2011,0.0879
-Flood,2012,0.0499
-Flood,2013,0.1370
-Flood,2014,0.0486
-Flood,2015,0.0473
+Flood,1959,67.2376
+Flood,1960,0.3485
+Flood,1961,0.1249
+Flood,1962,0.0375
+Flood,1963,0.0321
+Flood,1964,0.0343
+Flood,1965,0.0420
+Flood,1966,0.0564
+Flood,1967,0.0703
+Flood,1968,0.2057
+Flood,1969,0.0426
+Flood,1970,0.0877
+Flood,1971,0.0637
+Flood,1972,0.0662
+Flood,1973,0.0467
+Flood,1974,0.7351
+Flood,1975,0.0208
+Flood,1976,0.0231
+Flood,1977,0.0607
+Flood,1978,0.1370
+Flood,1979,0.0237
+Flood,1980,0.2348
+Flood,1981,0.1164
+Flood,1982,0.1007
+Flood,1983,0.0443
+Flood,1984,0.0612
+Flood,1985,0.0898
+Flood,1986,0.0359
+Flood,1987,0.1339
+Flood,1988,0.1653
+Flood,1989,0.0900
+Flood,1990,0.0423
+Flood,1991,0.1081
+Flood,1992,0.0967
+Flood,1993,0.1102
+Flood,1994,0.1196
+Flood,1995,0.1385
+Flood,1996,0.1381
+Flood,1997,0.1301
+Flood,1998,0.1780
+Flood,1999,0.5740
+Flood,2000,0.0981
+Flood,2001,0.0806
+Flood,2002,0.0672
+Flood,2003,0.0613
+Flood,2004,0.1081
+Flood,2005,0.0880
+Flood,2006,0.0882
+Flood,2007,0.1283
+Flood,2008,0.0590
+Flood,2009,0.0528
+Flood,2010,0.1201
+Flood,2011,0.0875
+Flood,2012,0.0497
+Flood,2013,0.1364
+Flood,2014,0.0484
+Flood,2015,0.0474
 Flood,2016,0.0632
 Flood,2017,0.0409
 Flood,2018,0.0376
+Flood,2019,0.0661
 Landslide,1909,0.0030
 Landslide,1922,0.0053
 Landslide,1923,0.0105
@@ -544,70 +549,71 @@ Landslide,1949,0.4851
 Landslide,1950,0.0051
 Landslide,1951,0.0036
 Landslide,1952,0.0011
-Landslide,1954,0.0401
-Landslide,1955,0.0173
+Landslide,1954,0.0399
+Landslide,1955,0.0172
 Landslide,1956,0.0084
 Landslide,1958,0.0018
 Landslide,1959,0.0016
 Landslide,1960,0.0017
 Landslide,1961,0.0054
 Landslide,1962,0.0023
-Landslide,1963,0.0636
+Landslide,1963,0.0633
 Landslide,1964,0.0033
 Landslide,1965,0.0061
-Landslide,1966,0.0178
+Landslide,1966,0.0177
 Landslide,1967,0.0170
-Landslide,1968,0.0338
+Landslide,1968,0.0337
 Landslide,1969,0.0005
-Landslide,1970,0.0051
-Landslide,1971,0.0271
-Landslide,1972,0.0197
-Landslide,1973,0.0906
-Landslide,1974,0.0227
+Landslide,1970,0.0050
+Landslide,1971,0.0270
+Landslide,1972,0.0196
+Landslide,1973,0.0902
+Landslide,1974,0.0226
 Landslide,1975,0.0048
 Landslide,1976,0.0076
 Landslide,1977,0.0009
 Landslide,1978,0.0020
 Landslide,1979,0.0077
-Landslide,1980,0.0068
+Landslide,1980,0.0067
 Landslide,1981,0.0093
 Landslide,1982,0.0139
-Landslide,1983,0.0248
+Landslide,1983,0.0247
 Landslide,1984,0.0048
-Landslide,1985,0.0078
+Landslide,1985,0.0077
 Landslide,1986,0.0101
-Landslide,1987,0.0239
-Landslide,1988,0.0186
+Landslide,1987,0.0238
+Landslide,1988,0.0185
 Landslide,1989,0.0085
 Landslide,1990,0.0018
-Landslide,1991,0.0135
-Landslide,1992,0.0130
-Landslide,1993,0.0255
+Landslide,1991,0.0134
+Landslide,1992,0.0129
+Landslide,1993,0.0254
 Landslide,1994,0.0054
 Landslide,1995,0.0265
-Landslide,1996,0.0199
+Landslide,1996,0.0198
 Landslide,1997,0.0136
 Landslide,1998,0.0191
-Landslide,1999,0.0074
+Landslide,1999,0.0073
 Landslide,2000,0.0165
-Landslide,2001,0.0127
+Landslide,2001,0.0126
 Landslide,2002,0.0175
 Landslide,2003,0.0111
-Landslide,2004,0.0049
-Landslide,2005,0.0102
-Landslide,2006,0.0248
-Landslide,2007,0.0041
-Landslide,2008,0.0075
-Landslide,2009,0.0106
-Landslide,2010,0.0495
+Landslide,2004,0.0048
+Landslide,2005,0.0101
+Landslide,2006,0.0247
+Landslide,2007,0.0040
+Landslide,2008,0.0074
+Landslide,2009,0.0105
+Landslide,2010,0.0493
 Landslide,2011,0.0044
-Landslide,2012,0.0071
+Landslide,2012,0.0070
 Landslide,2013,0.0033
-Landslide,2014,0.0130
+Landslide,2014,0.0129
 Landslide,2015,0.0136
 Landslide,2016,0.0048
-Landslide,2017,0.0275
+Landslide,2017,0.0276
 Landslide,2018,0.0036
+Landslide,2019,0.0093
 Mass movement (dry),1903,0.0045
 Mass movement (dry),1905,0.0011
 Mass movement (dry),1908,0.0019
@@ -615,14 +621,14 @@ Mass movement (dry),1910,0.0035
 Mass movement (dry),1915,0.0031
 Mass movement (dry),1937,0.0018
 Mass movement (dry),1955,0.0001
-Mass movement (dry),1962,0.0638
+Mass movement (dry),1962,0.0635
 Mass movement (dry),1963,0.0047
 Mass movement (dry),1965,0.0008
 Mass movement (dry),1970,0.0011
 Mass movement (dry),1971,0.0008
 Mass movement (dry),1980,0.0011
 Mass movement (dry),1982,0.0013
-Mass movement (dry),1983,0.0100
+Mass movement (dry),1983,0.0099
 Mass movement (dry),1985,0.0062
 Mass movement (dry),1987,0.0036
 Mass movement (dry),1988,0.0031
@@ -641,6 +647,7 @@ Mass movement (dry),2012,0.0002
 Mass movement (dry),2013,0.0006
 Mass movement (dry),2015,0.0002
 Mass movement (dry),2018,0.0002
+Storm,2019,0.0327
 Volcanic activity,1900,0.0018
 Volcanic activity,1902,2.3168
 Volcanic activity,1903,0.0010
@@ -658,14 +665,14 @@ Volcanic activity,1944,0.0011
 Volcanic activity,1948,0.0041
 Volcanic activity,1949,0.0808
 Volcanic activity,1950,0.0033
-Volcanic activity,1951,0.1866
+Volcanic activity,1951,0.1858
 Volcanic activity,1952,0.0011
 Volcanic activity,1953,0.0056
 Volcanic activity,1954,0.0014
-Volcanic activity,1963,0.0534
+Volcanic activity,1963,0.0531
 Volcanic activity,1964,0.0001
-Volcanic activity,1965,0.0107
-Volcanic activity,1966,0.0321
+Volcanic activity,1965,0.0106
+Volcanic activity,1966,0.0319
 Volcanic activity,1968,0.0025
 Volcanic activity,1975,0.0000
 Volcanic activity,1976,0.0010
@@ -675,11 +682,11 @@ Volcanic activity,1980,0.0020
 Volcanic activity,1981,0.0042
 Volcanic activity,1982,0.0028
 Volcanic activity,1984,0.0008
-Volcanic activity,1985,0.4492
-Volcanic activity,1986,0.0353
+Volcanic activity,1985,0.4476
+Volcanic activity,1986,0.0352
 Volcanic activity,1988,0.0001
 Volcanic activity,1990,0.0006
-Volcanic activity,1991,0.0127
+Volcanic activity,1991,0.0126
 Volcanic activity,1992,0.0000
 Volcanic activity,1993,0.0018
 Volcanic activity,1994,0.0018
@@ -691,11 +698,12 @@ Volcanic activity,2005,0.0000
 Volcanic activity,2006,0.0001
 Volcanic activity,2007,0.0002
 Volcanic activity,2008,0.0002
-Volcanic activity,2010,0.0047
+Volcanic activity,2010,0.0046
 Volcanic activity,2011,0.0000
 Volcanic activity,2014,0.0014
 Volcanic activity,2017,0.0000
 Volcanic activity,2018,0.0115
+Volcanic activity,2019,0.0003
 Wildfire,1911,0.0041
 Wildfire,1918,0.0546
 Wildfire,1922,0.0023
@@ -713,7 +721,7 @@ Wildfire,1981,0.0002
 Wildfire,1982,0.0000
 Wildfire,1983,0.0023
 Wildfire,1984,0.0004
-Wildfire,1985,0.0011
+Wildfire,1985,0.0010
 Wildfire,1986,0.0004
 Wildfire,1987,0.0038
 Wildfire,1989,0.0000
@@ -745,3 +753,4 @@ Wildfire,2015,0.0009
 Wildfire,2016,0.0005
 Wildfire,2017,0.0022
 Wildfire,2018,0.0032
+Wildfire,2019,0.0015
