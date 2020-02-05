@@ -1,0 +1,90 @@
+{
+  "name": "Global Primary Energy Consumption - Vaclav Smil (2017) & BP Statistics (2019)",
+  "title": "Global Primary Energy Consumption - Vaclav Smil (2017) & BP Statistics (2019)",
+  "id": 502,
+  "description": "This data comprises of a combination of data from Appendix A of Vaclav Smil's Updated and Revised Edition of his book, 'Energy Transitions: Global and National Perspectives' (2017). & BP Statistical Review of World Energy.\n\nAll data prior to the year 1965 is sourced from Smil (2017). All data from 1965 onwards, with the exception of traditional biomass is sourced from BP Statistical Review. Smil's estimates of traditional biomass are only available until 2015. For the years 2016 onwards, we have assumed a similar level of traditional biomass consumption. This is approximately in line with recent trends in traditional biomass from Smil's data.\n\nOur World in Data has normalised all BP data to terawatt-hours (TWh) using a conversion factor of 11.63 to convert from million tonnes of oil equivalent (Mtoe) to TWh.\n\nData represents primary energy (rather than final energy) consumption. 'Other renewables' represents all renewable sources minus solar, wind, and hydropower (e.g. geothermal, wave and tidal, and modern biofuels).\n\n\n",
+  "sources": [
+    {
+      "name": "Global Energy Production by Source - Vaclav Smil (2017) & BP Statistics",
+      "dataPublishedBy": "Vaclav Smil (2017). Energy Transitions: Global and National Perspectives. & BP Statistical Review of World Energy.",
+      "dataPublisherSource": null,
+      "link": "http://vaclavsmil.com/2016/12/14/energy-transitions-global-and-national-perspectives-second-expanded-and-updated-edition/ ; https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html",
+      "retrievedDate": "3rd February 2020",
+      "additionalInfo": "This data comprises of a combination of data from Appendix A of Vaclav Smil's Updated and Revised Edition of his book, 'Energy Transitions: Global and National Perspectives' (2017). & BP Statistical Review of World Energy.\n\nAll data prior to the year 1965 is sourced from Smil (2017). All data from 1965 onwards, with the exception of traditional biomass is sourced from BP Statistical Review. Smil's estimates of traditional biomass are only available until 2015. For the years 2016 onwards, we have assumed a similar level of traditional biomass consumption. This is approximately in line with recent trends in traditional biomass from Smil's data.\n\nOur World in Data has normalised all BP data to terawatt-hours (TWh) using a conversion factor of 11.63 to convert from million tonnes of oil equivalent (Mtoe) to TWh.\n\nData represents primary energy (rather than final energy) consumption. 'Other renewables' represents all renewable sources minus solar, wind, and hydropower (e.g. geothermal, wave and tidal, and modern biofuels).\n\n\n"
+    }
+  ],
+  "owidTags": [
+    "Energy Production & Changing Energy Sources"
+  ],
+  "resources": [
+    {
+      "path": "Global Primary Energy Consumption - Vaclav Smil (2017) & BP Statistics (2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Coal (Smil & BP, 2018)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{\"name\": \"Coal\", \"unit\": \"TWh\", \"shortUnit\": \"TWh\"}"
+          },
+          {
+            "name": "Crude oil (Smil & BP, 2018)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{\"name\": \"Crude oil\", \"unit\": \"TWh\", \"shortUnit\": \"TWh\"}"
+          },
+          {
+            "name": "Natural gas (Smil & BP, 2018)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{\"name\": \"Natural gas\", \"unit\": \"TWh\", \"shortUnit\": \"TWh\"}"
+          },
+          {
+            "name": "Hydropower (Smil & BP, 2018)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{\"name\": \"Hydropower\", \"unit\": \"TWh\", \"shortUnit\": \"TWh\", \"tolerance\": 5, \"conversionFactor\": 1}"
+          },
+          {
+            "name": "Nuclear (Smil & BP, 2018)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{\"name\": \"Nuclear\", \"unit\": \"TWh\", \"shortUnit\": \"TWh\", \"tolerance\": 5}"
+          },
+          {
+            "name": "Solar (Smil & BP, 2018)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{\"name\": \"Solar\", \"unit\": \"TWh\", \"shortUnit\": \"TWh\"}"
+          },
+          {
+            "name": "Other renewables (Smil & BP, 2018)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{\"name\": \"Other renewables\", \"unit\": \"TWh\", \"shortUnit\": \"TWh\"}"
+          },
+          {
+            "name": "Traditional biofuels (Vaclav Smil, 2017)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{\"name\": \"Traditional biofuels\", \"unit\": \"TWh\", \"shortUnit\": \"TWh\", \"tolerance\": 5}"
+          },
+          {
+            "name": "Wind (Smil & BP, 2018)",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{\"name\": \"Wind\", \"unit\": \"TWh\", \"shortUnit\": \"TWh\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
