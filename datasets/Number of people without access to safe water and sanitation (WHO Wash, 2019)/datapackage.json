@@ -32,14 +32,14 @@
           {
             "name": "Number of people without access to safe drinking water (WHO Wash, 2019)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Number of people without access to safe drinking water. “Safely managed drinking water” is defined as an “Improved source located on premises, available when needed, and free from microbiological and priority chemical contamination.”",
+            "owidDisplaySettings": "{\"name\": \"Number of people without access to safe drinking water\", \"unit\": \"people\", \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Number of people without access to safe sanitation (WHO Wash, 2019)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Number of people without access to safe sanitation. “Safely managed sanitation” is defined as the use of an improved sanitation facility which is not shared with other households and where:\n• excreta is safely disposed in situ or\n• excreta is transported and treated off-site.",
+            "owidDisplaySettings": "{\"name\": \"Number of people without access to safe sanitation\", \"unit\": \"people\", \"numDecimalPlaces\": 0}"
           }
         ]
       }
