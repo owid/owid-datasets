@@ -1,0 +1,48 @@
+{
+  "name": "Number of people without access to safe water and sanitation (WHO Wash, 2019)",
+  "title": "Number of people without access to safe water and sanitation (WHO Wash, 2019)",
+  "id": 4915,
+  "description": "Absolute numbers of people without access to safely managed drinking water and sanitation was calculated by Our World in Data based on original data sourced from the WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP) and World Bank's World Development Indicators.\n\nOur World in Data calculated absolute numbers based on original data on the number with access to safely managed drinking water and sanitation, and the total population numbers.\n\n– Number of people without access to safely managed drinking water = [population – number of people with access to safe drinking water]\n– Number of people without access to sanitation = [population – number of people with access to sanitation]\n\nSafely managed drinking water: “Safely managed drinking water” is defined as an “Improved source located on premises, available when needed, and free from microbiological and priority chemical contamination.”\n\nSafely managed sanitation facilities: “Safely managed sanitation” is defined as the use of an improved sanitation facility which is not shared with other households and where:\n• excreta is safely disposed in situ or\n• excreta is transported and treated off-site.",
+  "sources": [
+    {
+      "name": "Number of people without access to safe water and sanitation (WHO Wash, 2019)",
+      "dataPublishedBy": "WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP)",
+      "link": "https://washdata.org/data",
+      "retrievedDate": "7th February 2020",
+      "additionalInfo": "Absolute numbers of people without access to safely managed drinking water and sanitation was calculated by Our World in Data based on original data sourced from the WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP) and World Bank's World Development Indicators.\n\nOur World in Data calculated absolute numbers based on original data on the number with access to safely managed drinking water and sanitation, and the total population numbers.\n\n– Number of people without access to safely managed drinking water = [population – number of people with access to safe drinking water]\n– Number of people without access to sanitation = [population – number of people with access to sanitation]\n\nSafely managed drinking water: “Safely managed drinking water” is defined as an “Improved source located on premises, available when needed, and free from microbiological and priority chemical contamination.”\n\nSafely managed sanitation facilities: “Safely managed sanitation” is defined as the use of an improved sanitation facility which is not shared with other households and where:\n• excreta is safely disposed in situ or\n• excreta is transported and treated off-site."
+    }
+  ],
+  "owidTags": [
+    "Water Use",
+    "Sanitation"
+  ],
+  "resources": [
+    {
+      "path": "Number of people without access to safe water and sanitation (WHO Wash, 2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of people without access to safe drinking water (WHO Wash, 2019)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Number of people without access to safe sanitation (WHO Wash, 2019)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
