@@ -1,13 +1,7 @@
-Entity,Year,Deaths from accidents related to energy production (Markandya & Wilkinson (2007)),Deaths from air pollution (Markandya & Wilkinson (2007)),Deaths from air pollution and accidents (Markandya & Wilkinson (2007)),Equivalent CO2 emissions (Markandya & Wilkinson (2007)),Hypothetical number of deaths from energy production (Markandya & Wilkinson (2007))
-Biomass,2005,4.63,,,,
-Biomass,2014,,,4.63,18,736170
-Brown coal,2014,,,32.72,1100,5202480
-Coal,2005,0.12,24.5,,,
-Coal,2014,,,24.62,1000,3914580
-Gas,2005,0.021,2.8,,,
-Gas,2014,,,2.821,469,448539
-Lignite,2005,0.12,32.6,,,
-Nuclear,2005,0.022,0.052,,,
-Nuclear,2014,,,0.074,12,11766
-Oil,2005,0.03,18.4,,,
-Oil,2014,,,18.43,840,2930370
+Entity,Year,Deaths from air pollution and accidents (Markandya & Wilkinson (2007)),Equivalent CO2 emissions (Markandya & Wilkinson (2007)),Hypothetical number of deaths from energy production (Markandya & Wilkinson (2007))
+Biomass,2014,4.63,18,736170
+Brown coal,2014,32.72,1100,5202480
+Coal,2014,24.62,1000,3914580
+Gas,2014,2.821,469,448539
+Nuclear,2014,0.074,12,11766
+Oil,2014,18.43,840,2930370
