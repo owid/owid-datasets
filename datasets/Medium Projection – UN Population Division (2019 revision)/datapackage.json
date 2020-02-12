@@ -8,7 +8,7 @@
       "name": "Medium Projection – UN Population Division (2019 revision)",
       "dataPublishedBy": "UN Population Division (2019 revision) Medium Projection",
       "dataPublisherSource": "The UN Population Division is producing this projection.",
-      "link": "https://esa.un.org/unpd/wpp/Download/Standard/Population/",
+      "link": "https://population.un.org/wpp/Download/Standard/Population/",
       "retrievedDate": "01/07/2019",
       "additionalInfo": "Total Population - Both Sexes. De facto population in a country, area or region as of 1 July of the year indicated. The original dataset was presented in thousands."
     }
@@ -30,9 +30,9 @@
             "type": "year"
           },
           {
-            "name": "Medium Projection (UN Population Division (2015 revision))",
+            "name": "Medium Projection (UN Population Division (2019 revision))",
             "type": "any",
-            "description": "2015-2100",
+            "description": "2020-2100",
             "owidDisplaySettings": "{\"unit\": \"Percent\"}"
           }
         ]
