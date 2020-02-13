@@ -1,4 +1,4 @@
-# Deaths from Chernobyl (Estimates) - WHO (2005), Fairlie & Sumner (2006), Cardis et al. (2006)
+# Deaths from Chernobyl (Range of long-term estimates) - WHO (2005), Fairlie & Sumner (2006), Cardis et al. (2006)
 
 Estimates of the total number of deaths from the Chernobyl nuclear incidents remain contested: we have therefore included a series of published estimates to cover the range of considered values.
 
