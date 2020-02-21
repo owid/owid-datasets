@@ -2,9 +2,9 @@
 
 Death rates from energy production is measured as the number of deaths by energy source per terawatt-hour (TWh) of production. 
 
-This data combines two sources: Markandya, A., & Wilkinson, P. (2007) assessed the death rates from accidents and air pollution major energy sources (fossil fuels, nuclear and biomass). Sovacool et al. (2016) assessed death rates from accidents from low-carbon energy sources (nuclear and renewables) based on historical records spanning the period 1950 to 2014.
+This data combines two sources: Markandya, A., & Wilkinson, P. (2007) assessed the death rates from accidents and air pollution major energy sources (fossil fuels, nuclear and biomass). Sovacool et al. (2016) assessed death rates from accidents from low-carbon energy sources (nuclear and renewables) based on historical records spanning the period 1990 to 2013.
 
-Nuclear and biomass sources therefore have two values. Nuclear data from Markandya & Wilkinson (2007) includes both major nuclear accidents (with exception to Fukushima, since it occurred after publication) plus occupational deaths from mining, transport and other routes of exposure. The authors note that the nuclear deaths occur "largely at the mining, milling, and generation stages". Sovacool et al. (2016) do not consider some of these sources of occupational deaths and only include deaths from accidents – Chernobyl, Fukushima and Kyshtym.
+Nuclear and biomass sources therefore have two values. Nuclear data from Markandya & Wilkinson (2007) includes both major nuclear accidents (with exception to Fukushima, since it occurred after publication) plus occupational deaths from mining, transport and other routes of exposure. The authors note that the nuclear deaths occur "largely at the mining, milling, and generation stages". Sovacool et al. (2016) only include deaths from (all of which were indirect) from the Fukushima disaster since the underlying data spans the period from 1990 to 2013.
 
 Biomass figures from Markandya & Wilkinson (2007) include deaths from air pollution. Sovacool et al. (2016) consider only deaths from accidents in biomass energy production. Death rates here are therefore much lower.
 
