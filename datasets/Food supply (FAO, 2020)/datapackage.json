@@ -1,0 +1,131 @@
+{
+  "name": "Food supply (FAO, 2020)",
+  "title": "Food supply (FAO, 2020)",
+  "id": 5059,
+  "description": "This dataset is sourced from the UN Food and Agriculture Organization (FAO) and combines data from its Food Balance Sheets into a complete series from 1961 to 2017. In the original FAO dataset, food supply data from 1961 to 2013 is stored under its 'old methodology' variable set. Data from 2014 to 2017 was stored under its 'new methodology' for food balance sheets.\n\nOur World in Data has combined this data to give a complete series from 1961 onwards. No transformations have been made to the original data.\n\n\nFood supply is defined as food available for human consumption. At country level, it is calculated as the food remaining for human use after deduction of all non-food utilizations (i.e. food = production + imports + stock withdrawals − exports − industrial use − animal feed – seed – wastage − additions to stock). Wastage includes losses of usable products occurring along distribution chains from farm gate (or port of import) up to the retail level. However, such values do not include consumption-level waste (i.e. retail, restaurant and household waste) and therefore overestimates the average amount of food actually consumed.",
+  "sources": [
+    {
+      "name": "Food supply (FAO, 2020)",
+      "dataPublishedBy": "United Nations Food and Agricultural Organization (FAO)",
+      "link": "http://www.fao.org/faostat/en/#data/FBS",
+      "retrievedDate": "21st February 2020",
+      "additionalInfo": "This dataset is sourced from the UN Food and Agriculture Organization (FAO) and combines data from its Food Balance Sheets into a complete series from 1961 to 2017. In the original FAO dataset, food supply data from 1961 to 2013 is stored under its 'old methodology' variable set. Data from 2014 to 2017 was stored under its 'new methodology' for food balance sheets.\n\nOur World in Data has combined this data to give a complete series from 1961 onwards. No transformations have been made to the original data.\n\n\nFood supply is defined as food available for human consumption. At country level, it is calculated as the food remaining for human use after deduction of all non-food utilizations (i.e. food = production + imports + stock withdrawals − exports − industrial use − animal feed – seed – wastage − additions to stock). Wastage includes losses of usable products occurring along distribution chains from farm gate (or port of import) up to the retail level. However, such values do not include consumption-level waste (i.e. retail, restaurant and household waste) and therefore overestimates the average amount of food actually consumed."
+    }
+  ],
+  "owidTags": [
+    "Food per Person"
+  ],
+  "resources": [
+    {
+      "path": "Food supply (FAO, 2020).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Food supply (kcal/capita/day) - Grand Total",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Fat supply quantity (g/capita/day) - Grand Total",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Protein supply quantity (g/capita/day) - Grand Total",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Meat food supply quantity (kg/capita/yr)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Bovine meat food supply quantity (kg/capita/yr)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Poultry meat food supply quantity (kg/capita/yr)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Pigmeat food supply quantity (kg/capita/yr)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Mutton & Goat meat food supply quantity (kg/capita/yr)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Meat, Other, Food supply quantity (kg/capita/yr)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Eggs - Food supply quantity (kg/capita/yr)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Milk - Excluding Butter - Food supply quantity (kg/capita/yr)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Fish, Seafood- Food supply quantity (kg/capita/yr)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Animal Products - Protein supply quantity (g/capita/day)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Vegetal Products - Protein supply quantity (g/capita/day)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Fruits - Excluding Wine - Food supply quantity (kg/capita/yr)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Vegetables - Food supply quantity (kg/capita/yr)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
