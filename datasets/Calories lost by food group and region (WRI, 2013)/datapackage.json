@@ -1,0 +1,53 @@
+{
+  "name": "Calories lost by food group and region (WRI, 2013)",
+  "title": "Calories lost by food group and region (WRI, 2013)",
+  "id": 5060,
+  "description": "Data on food losses and waste includes all supply chain stages, from (and including) on-farm harvesting through to final food waste.\n\nFigures are based only on food intended for direct human consumption: this means crops diverted for animal feed or industrial uses are not included as losses.\n\nThe original authors of this study – Lipinski et al. (2013) of the World Resources Institute – calculate these figures based on the regional percentage losses expressed in the landmark UN FAO report on food losses: FAO. 2011. Global food losses and food waste – Extent, causes and prevention. Rome.\n\nThis data is expressed for the year 2009 due to poor data availability and updated estimates since then. It is likely that, especially when expressed in relative terms (each region or food group's contribution to food losses) remains similar today.",
+  "sources": [
+    {
+      "name": "Calories lost by food group and region (WRI, 2013)",
+      "link": "http://pdf.wri.org/reducing_food_loss_and_waste.pdf",
+      "retrievedDate": "22nd February 2020",
+      "dataPublishedBy": "Lipinski, B. et al. (2013). “Reducing Food Loss and Waste.” Working Paper, Installment 2 of Creating a Sustainable Food Future. Washington, DC: World Resources Institute.",
+      "additionalInfo": "Data on food losses and waste includes all supply chain stages, from (and including) on-farm harvesting through to final food waste.\n\nFigures are based only on food intended for direct human consumption: this means crops diverted for animal feed or industrial uses are not included as losses.\n\nThe original authors of this study – Lipinski et al. (2013) of the World Resources Institute – calculate these figures based on the regional percentage losses expressed in the landmark UN FAO report on food losses: FAO. 2011. Global food losses and food waste – Extent, causes and prevention. Rome.\n\nThis data is expressed for the year 2009 due to poor data availability and updated estimates since then. It is likely that, especially when expressed in relative terms (each region or food group's contribution to food losses) remains similar today."
+    }
+  ],
+  "owidTags": [
+    "Food Waste"
+  ],
+  "resources": [
+    {
+      "path": "Calories lost by food group and region (WRI, 2013).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of calories lost or wasted by food group (WRI, 2013)",
+            "type": "any",
+            "description": "The share of each food group's calories which are lost in supply chains or wasted by consumers. This includes all supply chain stages, from (and including) on-farm harvesting through to final food waste.\n\nFigures are based only on food intended for direct human consumption: this means crops diverted for animal feed or industrial uses are not included as losses.",
+            "owidDisplaySettings": "{\"name\": \"Share of calories which are lost or wasted\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
+          },
+          {
+            "name": "Share of global food loss and waste by region (WRI, 2013)",
+            "type": "any",
+            "description": "The breakdown of global calories losses and waste by region. This includes all supply chain stages, from (and including) on-farm harvesting through to final food waste.\n\nFigures are based only on food intended for direct human consumption: this means crops diverted for animal feed or industrial uses are not included as losses.",
+            "owidDisplaySettings": "{\"name\": \"Share of global food loss and waste by region\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
+          },
+          {
+            "name": "Per capita food loss or waste (kcal per day)(WRI, 2013)",
+            "type": "any",
+            "description": "Regional food losses and waste expressed in per capita terms of kilocalories per day. This includes all supply chain stages, from (and including) on-farm harvesting through to final food waste.\n\nFigures are based only on food intended for direct human consumption: this means crops diverted for animal feed or industrial uses are not included as losses.",
+            "owidDisplaySettings": "{\"name\": \"Per capita food losses and waste\", \"unit\": \"kilocalories per person\", \"shortUnit\": \"kcal\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
