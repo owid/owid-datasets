@@ -1,0 +1,73 @@
+{
+  "name": "Cereal allocation to food, feed, fuel (OWID based on FAO)",
+  "title": "Cereal allocation to food, feed, fuel (OWID based on FAO)",
+  "id": 5062,
+  "description": "This dataset reports the quantity of cereal crops allocated directly to human food; used as animal feed; and allocated to other uses (predominantly industrial uses such as biofuel production).\n\nThe dataset combines two sets of variables: in the Food Balance Sheets the FAO include data via their ‘old methodology’ from 1961 to 2013, and ‘new methodology’ separately from 2014 to 2017.\n\nThe variables included were ‘Cereals – Food’, ‘Cereals – Feed’ and ‘Cereals – Other Uses’, all measured in 1000 tonnes.\n\nWe have combined these two sets of data to get a complete series from 1961 to 2017 (in tonnes).\n\nThe share of cereals allocated to each use (Food, Feed and Other Uses) have also been calculated by dividing each individual variable by the sum of all three. For example:\nShare of cereals allocated to food = [Food / (Food + Feed + Other Uses) * 100].\n\nThis calculates the share of cereals available domestically (after trade) allocated to each use, excluding supply chain losses and seed resown from the crop.",
+  "sources": [
+    {
+      "name": "Cereal allocation to food, feed, fuel (OWID based on FAO)",
+      "dataPublishedBy": "Food and Agriculture Organization of the United Nations (FAO) (2020)",
+      "link": "http://www.fao.org/faostat/en/?#data/",
+      "retrievedDate": "26th February 2020",
+      "additionalInfo": "This dataset reports the quantity of cereal crops allocated directly to human food; used as animal feed; and allocated to other uses (predominantly industrial uses such as biofuel production).\n\nThe dataset combines two sets of variables: in the Food Balance Sheets the FAO include data via their ‘old methodology’ from 1961 to 2013, and ‘new methodology’ separately from 2014 to 2017.\n\nThe variables included were ‘Cereals – Food’, ‘Cereals – Feed’ and ‘Cereals – Other Uses’, all measured in 1000 tonnes.\n\nWe have combined these two sets of data to get a complete series from 1961 to 2017 (in tonnes).\n\nThe share of cereals allocated to each use (Food, Feed and Other Uses) have also been calculated by dividing each individual variable by the sum of all three. For example:\nShare of cereals allocated to food = [Food / (Food + Feed + Other Uses) * 100].\n\nThis calculates the share of cereals available domestically (after trade) allocated to each use, excluding supply chain losses and seed resown from the crop."
+    }
+  ],
+  "owidTags": [
+    "Agricultural Production",
+    "Meat and Seafood Production & Consumption",
+    "Non-food Crops"
+  ],
+  "resources": [
+    {
+      "path": "Cereal allocation to food, feed, fuel (OWID based on FAO).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Cereals allocated to food (1000 tonnes) (FAO, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Cereals allocated to animal feed (1000 tonnes) (FAO, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Cereals allocated to other uses (1000 tonnes) (FAO, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Cereals allocated to food (%) (FAO, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Cereals allocated to animal feed (%) (FAO, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Cereals allocated to other uses (%) (FAO, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
