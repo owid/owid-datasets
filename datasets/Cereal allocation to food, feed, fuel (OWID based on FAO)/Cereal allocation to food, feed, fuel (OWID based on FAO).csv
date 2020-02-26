@@ -1,4 +1,4 @@
-Entity,Year,"Cereals allocated to food (1000 tonnes) (FAO, 2020)","Cereals allocated to animal feed (1000 tonnes) (FAO, 2020)","Cereals allocated to other uses (1000 tonnes) (FAO, 2020)","Cereals allocated to food (%) (FAO, 2020)","Cereals allocated to animal feed (%) (FAO, 2020)","Cereals allocated to other uses (%) (FAO, 2020)"
+Entity,Year,"Cereals allocated to food (tonnes) (FAO, 2020)","Cereals allocated to animal feed (tonnes) (FAO, 2020)","Cereals allocated to other uses (tonnes) (FAO, 2020)","Share of cereals allocated to food (FAO, 2020)","Share of cereals allocated to animal feed (FAO, 2020)","Share of cereals allocated to other uses (FAO, 2020)"
 Afghanistan,1961,2767,286,,90.63216508,9.367834916,0
 Afghanistan,1962,2744,286,,90.56105611,9.438943894,0
 Afghanistan,1963,2514,290,,89.65763195,10.34236805,0

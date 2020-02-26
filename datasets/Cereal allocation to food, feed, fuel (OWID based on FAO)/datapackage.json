@@ -31,40 +31,40 @@
             "type": "year"
           },
           {
-            "name": "Cereals allocated to food (1000 tonnes) (FAO, 2020)",
+            "name": "Cereals allocated to food (tonnes) (FAO, 2020)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The quantity of domestic cereal supply (after trade) allocated to direct human consumption (i.e. not used for animal feed or industrial uses such as fuel production).",
+            "owidDisplaySettings": "{\"name\": \"Cereal supply allocated to human food\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"conversionFactor\": 1000}"
           },
           {
-            "name": "Cereals allocated to animal feed (1000 tonnes) (FAO, 2020)",
+            "name": "Cereals allocated to animal feed (tonnes) (FAO, 2020)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The quantity of domestic cereal supply (after trade) allocated to animal feed.",
+            "owidDisplaySettings": "{\"name\": \"Cereal supply allocated to animal feed\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"conversionFactor\": 1000}"
           },
           {
-            "name": "Cereals allocated to other uses (1000 tonnes) (FAO, 2020)",
+            "name": "Cereals allocated to other uses (tonnes) (FAO, 2020)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The quantity of domestic cereal supply (after trade) allocated to other uses, excluding human food and animal feed. This is typically industrial uses such as biofuel production.",
+            "owidDisplaySettings": "{\"name\": \"Cereal supply allocated to industrial uses\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"conversionFactor\": 1000}"
           },
           {
-            "name": "Cereals allocated to food (%) (FAO, 2020)",
+            "name": "Share of cereals allocated to food (FAO, 2020)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The share of domestic cereal supply (after trade) allocated to direct human consumption (i.e. not used for animal feed or industrial uses such as fuel production).",
+            "owidDisplaySettings": "{\"name\": \"Share of cereals allocated to human food\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
-            "name": "Cereals allocated to animal feed (%) (FAO, 2020)",
+            "name": "Share of cereals allocated to animal feed (FAO, 2020)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The share of domestic cereal supply (after trade) allocated to animal feed.",
+            "owidDisplaySettings": "{\"name\": \"Share of cereals allocated to animal feed\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
           },
           {
-            "name": "Cereals allocated to other uses (%) (FAO, 2020)",
+            "name": "Share of cereals allocated to other uses (FAO, 2020)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The share of domestic cereal supply (after trade) allocated to other uses, excluding human food and animal feed. This is typically industrial uses such as biofuel production.",
+            "owidDisplaySettings": "{\"name\": \"Share of cereals allocated to industrial uses\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
           }
         ]
       }
