@@ -1,0 +1,38 @@
+{
+  "name": "COVID-19 Tests per million people",
+  "title": "COVID-19 Tests per million people",
+  "id": 5067,
+  "description": "",
+  "sources": [
+    {
+      "name": "Our World in Data based on official country reports",
+      "dataPublishedBy": "Official country reports",
+      "link": "https://ourworldindata.org/coronavirus-testing-source-data",
+      "retrievedDate": "13 March 2020"
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "COVID-19 Tests per million people.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total COVID-19 tests performed per million people",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-02-24\", \"yearIsDay\": true}"
+          }
+        ]
+      }
+    }
+  ]
+}
