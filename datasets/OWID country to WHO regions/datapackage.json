@@ -8,14 +8,12 @@
       "name": "World Health Organization",
       "dataPublishedBy": "World Health Organization (WHO)",
       "dataPublisherSource": null,
-      "link": "http://www.who.int/about/regions/en/",
+      "link": "https://www.who.int/choice/demography/by_country/en/",
       "retrievedDate": "01/08/2017",
       "additionalInfo": null
     }
   ],
-  "owidTags": [
-    "Uncategorized"
-  ],
+  "owidTags": [],
   "resources": [
     {
       "path": "OWID country to WHO regions.csv",
@@ -33,7 +31,7 @@
             "name": "WHO region",
             "type": "any",
             "description": "WHO Member Countries are grouped into six regions, called WHO regions.",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           }
         ]
       }
