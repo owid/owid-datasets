@@ -1,0 +1,262 @@
+{
+  "name": "Healthcare capacity (OECD, 2020)",
+  "title": "Healthcare capacity (OECD, 2020)",
+  "id": 5077,
+  "description": "",
+  "sources": [
+    {
+      "name": "Healthcare capacity (OECD, 2020)",
+      "dataPublishedBy": "OECD (2020), \"Health care resources\", OECD Health Statistics (database), https://doi.org/10.1787/data-00541-en.",
+      "link": "https://www.oecd-ilibrary.org/social-issues-migration-health/data/oecd-health-statistics/oecd-health-data-health-care-resources_data-00541-en",
+      "retrievedDate": "31st March 2020"
+    }
+  ],
+  "owidTags": [
+    "Doctors & Health Workers"
+  ],
+  "resources": [
+    {
+      "path": "Healthcare capacity (OECD, 2020).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Beds in for-profit privately owned hospitals (number) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Beds in for-profit privately owned hospitals (per 1,000 population) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Beds in not-for-profit privately owned hospitals (number) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Beds in not-for-profit privately owned hospitals (per 1,000 population) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Beds in publicly owned hospitals (number) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Beds in publicly owned hospitals (per 1,000 population) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Acute care beds (number) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Acute care beds (per 1,000 population) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Dentists (per 100,000 population) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Dentists (headcount) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "For-profit privately owned hospitals (number) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "For-profit privately owned hospitals (per million population) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "General hospitals (number) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "General hospitals (per million population) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Hospitals (number) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Hospitals (per million population) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Long-term care beds (number) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Long-term care beds (per 1,000 population) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Long-term care beds (per 1,000 population aged 65+) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Midwives (headcount) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Midwives (per 1,000 live births) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Not-for-profit privately owned hospitals (number) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Not-for-profit privately owned hospitals (per million population) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Nurses (per 1,000 population) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Nurses (headcount) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Physicians (per 1,000 population) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Physicians (headcount) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Psychiatric care beds (number) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Psychiatric care beds (per 1,000 population) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Psychiatrists (per 1,000 population) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Psychiatrists (headcount) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Publicly owned hospitals (number) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Publicly owned hospitals (per million population) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Surgical specialists (per 1,000 population) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Surgical specialists (headcount) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Hospital beds (number) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Hospital beds, nurse-to-bed ratio (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Hospital beds (per 1,000 population) (OECD)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
