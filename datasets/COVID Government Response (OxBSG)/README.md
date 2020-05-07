@@ -59,8 +59,8 @@ No data - blank
 
 Restrictions on internal movement:
 0 - No measures
-1 - Recommend closing (or significantly reduce volume/route/means of transport)
-2 - Require closing (or prohibit most people from using it)
+1 - Recommend movement restriction
+2 - Restrict movement
 
 International travel controls:
 0 - No measures
