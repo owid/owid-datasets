@@ -29,7 +29,7 @@
             "name": "Daily new confirmed cases of COVID-19",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Daily confirmed cases\", \"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Spain: Note that on April 19 the methodology has changed\\nLithuania: Note that on April 28 the methodology has changed\\nEcuador: Note that on May 8 the methodology has changed\"}"
+            "owidDisplaySettings": "{\"name\": \"Daily confirmed cases\", \"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Spain: Note that on April 19 the methodology has changed\\nLithuania: Note that on April 28 the methodology has changed\\nEcuador: Note that on May 8 the methodology has changed\\nUnited Kingdom: Note that on May 20 the methodology has changed\"}"
           },
           {
             "name": "Daily new confirmed deaths due to COVID-19",
@@ -41,7 +41,7 @@
             "name": "Total confirmed cases of COVID-19",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Spain: Note that on April 19 the methodology has changed\\nLithuania: Note that on April 28 the methodology has changed\\nEcuador: Note that on May 8 the methodology has changed\"}"
+            "owidDisplaySettings": "{\"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Spain: Note that on April 19 the methodology has changed\\nLithuania: Note that on April 28 the methodology has changed\\nEcuador: Note that on May 8 the methodology has changed\\nUnited Kingdom: Note that on May 20 the methodology has changed\"}"
           },
           {
             "name": "Total confirmed deaths due to COVID-19",
@@ -53,7 +53,7 @@
             "name": "Daily new confirmed cases of COVID-19 per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Spain: Note that on April 19 the methodology has changed\\nLithuania: Note that on April 28 the methodology has changed\\nEcuador: Note that on May 8 the methodology has changed\"}"
+            "owidDisplaySettings": "{\"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Spain: Note that on April 19 the methodology has changed\\nLithuania: Note that on April 28 the methodology has changed\\nEcuador: Note that on May 8 the methodology has changed\\nUnited Kingdom: Note that on May 20 the methodology has changed\"}"
           },
           {
             "name": "Daily new confirmed deaths due to COVID-19 per million people",
