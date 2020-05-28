@@ -1,0 +1,107 @@
+{
+  "name": "CO2 emissions by sector (CAIT, 2020)",
+  "title": "CO2 emissions by sector (CAIT, 2020)",
+  "id": 5084,
+  "description": "Carbon dioxide (CO₂) emissions broken down by sector, measured in tonnes per year.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
+  "sources": [
+    {
+      "name": "CAIT Climate Data Explorer via. Climate Watch",
+      "dataPublishedBy": "CAIT Climate Data Explorer via. Climate Watch",
+      "link": "https://www.climatewatchdata.org/data-explorer/historical-emissions",
+      "retrievedDate": "28th May 2020",
+      "additionalInfo": "Carbon dioxide (CO₂) emissions broken down by sector, measured in tonnes per year.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions"
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "CO2 emissions by sector (CAIT, 2020).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Building (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Buildings\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Int'l aviation & shipping (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Electricity & Heat (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Energy (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Fugitive Emissions (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Industry (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Land-Use Change and Forestry (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Manufacturing & Construction (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Other Fuel Combustion (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Total excluding LUCF (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Total including LUCF (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Transport (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
