@@ -1,0 +1,119 @@
+{
+  "name": "GHG Emissions by Country and Sector (CAIT)",
+  "title": "GHG Emissions by Country and Sector (CAIT)",
+  "id": 5082,
+  "description": "Total greenhouse gas emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
+  "sources": [
+    {
+      "name": "GHG Emissions by Country and Sector (CAIT)",
+      "link": "https://www.climatewatchdata.org/data-explorer/historical-emissions",
+      "dataPublishedBy": "CAIT Climate Data Explorer via. Climate Watch",
+      "retrievedDate": "26th April 2020",
+      "additionalInfo": "Total greenhouse gas emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions"
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "GHG Emissions by Country and Sector (CAIT).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Agriculture (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": "Greenhouse gas emissions from agriculture, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"name\": \"Agriculture\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Bunker Fuels (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": "Greenhouse gas emissions from bunker fuels, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"name\": \"Aviation and shipping\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Energy (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": "Greenhouse gas emissions from energy, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"name\": \"Energy\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Industry (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": "Greenhouse gas emissions from industry, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"name\": \"Industry\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Land-Use Change and Forestry (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": "Greenhouse gas emissions from land use change and forestry, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"name\": \"Land-Use Change and Forestry\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Total GHG emissions including LUCF (CAIT)",
+            "type": "any",
+            "description": "Total greenhouse gas emissions including land use change and forestry, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"name\": \"Total GHG emissions including LUCF\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Waste (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": "Greenhouse gas emissions from waste, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"name\": \"Waste\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Total GHG emissions excluding LUCF (CAIT)",
+            "type": "any",
+            "description": "Total greenhouse gas emissions excluding land use change and forestry, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"name\": \"Total GHG emissions excluding LUCF\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Buildings (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": "Greenhouse gas emissions from buildings, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"name\": \"Buildings\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Electricity & Heat (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": "Greenhouse gas emissions from electricity and heat, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"name\": \"Electricity & Heat\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Fugitive from energy production (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": "Greenhouse gas emissions from fugitive energy production, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"name\": \"Fugitive emissions\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Manufacturing/Construction energy (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": "Greenhouse gas emissions from manufacturing and construction, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"name\": \"Manufacturing/construction\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Other Fuel Combustion (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": "Greenhouse gas emissions from other fuel combustion, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"name\": \"Other fuel combustion\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Transport (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": "Greenhouse gas emissions from transport, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"name\": \"Transport\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000}"
+          }
+        ]
+      }
+    }
+  ]
+}
