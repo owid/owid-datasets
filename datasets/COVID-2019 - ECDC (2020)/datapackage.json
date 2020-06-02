@@ -5,7 +5,7 @@
   "description": "Raw data on confirmed cases and deaths for all countries is sourced from the <a href=\"https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide\">European Centre for Disease Prevention and Control (ECDC)</a>.  \n\nOur complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, and testing.\n\nWe have created a new description of all our data sources. You find it at our GitHub repository <strong><a href=\"https://github.com/owid/covid-19-data/tree/master/public/data/\">here</a></strong>. There you can download all of our data.\n\n",
   "sources": [
     {
-      "name": "European CDC – Situation Update Worldwide – Last updated 1st June, 10:45 (London time)",
+      "name": "European CDC – Situation Update Worldwide – Last updated 2nd June, 11:45 (London time)",
       "dataPublishedBy": "European Centre for Disease Prevention and Control (ECDC)",
       "additionalInfo": "Raw data on confirmed cases and deaths for all countries is sourced from the <a href=\"https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide\">European Centre for Disease Prevention and Control (ECDC)</a>.  \n\nOur complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, and testing.\n\nWe have created a new description of all our data sources. You find it at our GitHub repository <strong><a href=\"https://github.com/owid/covid-19-data/tree/master/public/data/\">here</a></strong>. There you can download all of our data.\n\n",
       "link": "https://github.com/owid/covid-19-data/tree/master/public/data"
@@ -276,6 +276,30 @@
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Biweekly cases",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Biweekly cases\", \"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Biweekly deaths",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Biweekly deaths\", \"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Biweekly case growth (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Biweekly growth in cases\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Biweekly death growth (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Biweekly growth in deaths\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true}"
           }
         ]
       }
