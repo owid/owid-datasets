@@ -1,0 +1,89 @@
+{
+  "name": "Nitrous oxide emissions by sector (CAIT, 2020)",
+  "title": "Nitrous oxide emissions by sector (CAIT, 2020)",
+  "id": 5087,
+  "description": "Nitrous oxide (N2O) emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
+  "sources": [
+    {
+      "name": "CAIT Climate Data Explorer via. Climate Watch",
+      "additionalInfo": "Nitrous oxide (N2O) emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
+      "link": "https://www.climatewatchdata.org/data-explorer/historical-emissions",
+      "retrievedDate": "26th May 2020",
+      "dataPublishedBy": "CAIT Climate Data Explorer via. Climate Watch"
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "Nitrous oxide emissions by sector (CAIT, 2020).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Agriculture (N2O emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Energy (N2O emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Fugitive Emissions (N2O emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Industry (N2O emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Land-Use Change and Forestry (N2O emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Other Fuel Combustion (N2O emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Total excluding LUCF (N2O emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Total including LUCF (N2O emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Waste (N2O emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
