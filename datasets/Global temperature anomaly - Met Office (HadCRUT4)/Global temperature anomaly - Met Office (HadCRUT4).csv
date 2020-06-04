@@ -167,7 +167,8 @@ Global,2014,0.579,0.616,0.545
 Global,2015,0.763,0.802,0.73
 Global,2016,0.797,0.835,0.762
 Global,2017,0.677,0.716,0.636
-Global,2018,0.595,0.634,0.558
+Global,2018,0.597,0.636,0.56
+Global,2019,0.736,0.776,0.7
 Northern Hemisphere,1850,-0.336,-0.284,-0.406
 Northern Hemisphere,1851,-0.159,-0.108,-0.242
 Northern Hemisphere,1852,-0.107,-0.058,-0.18
@@ -336,7 +337,8 @@ Northern Hemisphere,2014,0.779,0.809,0.744
 Northern Hemisphere,2015,1.033,1.061,0.997
 Northern Hemisphere,2016,1.064,1.096,1.027
 Northern Hemisphere,2017,0.922,0.954,0.885
-Northern Hemisphere,2018,0.785,0.752,0.82
+Northern Hemisphere,2018,0.789,0.824,0.757
+Northern Hemisphere,2019,0.972,1.007,0.937
 Southern Hemisphere,1850,-0.408,-0.382,-0.451
 Southern Hemisphere,1851,-0.277,-0.249,-0.322
 Southern Hemisphere,1852,-0.349,-0.323,-0.39
@@ -505,7 +507,8 @@ Southern Hemisphere,2014,0.381,0.432,0.339
 Southern Hemisphere,2015,0.497,0.548,0.455
 Southern Hemisphere,2016,0.531,0.584,0.488
 Southern Hemisphere,2017,0.434,0.486,0.39
-Southern Hemisphere,2018,0.406,0.462,0.36
+Southern Hemisphere,2018,0.405,0.461,0.36
+Southern Hemisphere,2019,0.502,0.555,0.456
 Tropics,1850,-0.308,-0.278,-0.363
 Tropics,1851,-0.229,-0.198,-0.28
 Tropics,1852,-0.133,-0.104,-0.184
@@ -674,4 +677,5 @@ Tropics,2014,0.516,0.562,0.472
 Tropics,2015,0.737,0.781,0.69
 Tropics,2016,0.763,0.806,0.713
 Tropics,2017,0.563,0.607,0.514
-Tropics,2018,0.472,0.517,0.424
+Tropics,2018,0.473,0.517,0.424
+Tropics,2019,0.656,0.703,0.607
