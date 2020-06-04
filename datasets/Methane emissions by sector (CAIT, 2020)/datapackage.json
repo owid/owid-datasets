@@ -32,55 +32,55 @@
             "name": "Agriculture (CH4 emissions, CAIT)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Agriculture\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Energy (CH4 emissions, CAIT)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Energy \", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Fugitive Emissions (CH4 emissions, CAIT)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Fugitive emissions\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Industry (CH4 emissions, CAIT)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Industry\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Land-Use Change and Forestry (CH4 emissions, CAIT)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Land use change and forestry\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Other Fuel Combustion (CH4 emissions, CAIT)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Other fuel combustion\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Total excluding LUCF (CH4 emissions, CAIT)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Total excluding land-use change and forestry\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Total including LUCF (CH4 emissions, CAIT)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Total including land-use change and forestry\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000}"
           },
           {
             "name": "Waste (CH4 emissions, CAIT)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Waste\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           }
         ]
       }
