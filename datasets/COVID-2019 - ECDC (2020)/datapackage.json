@@ -5,7 +5,7 @@
   "description": "Raw data on confirmed cases and deaths for all countries is sourced from the <a href=\"https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide\">European Centre for Disease Prevention and Control (ECDC)</a>.  \n\nOur complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, and testing.\n\nWe have created a new description of all our data sources. You find it at our GitHub repository <strong><a href=\"https://github.com/owid/covid-19-data/tree/master/public/data/\">here</a></strong>. There you can download all of our data.\n\n",
   "sources": [
     {
-      "name": "European CDC – Situation Update Worldwide – Last updated 8th June, 13:00 (London time)",
+      "name": "European CDC – Situation Update Worldwide – Last updated 9th June, 10:45 (London time)",
       "dataPublishedBy": "European Centre for Disease Prevention and Control (ECDC)",
       "additionalInfo": "Raw data on confirmed cases and deaths for all countries is sourced from the <a href=\"https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide\">European Centre for Disease Prevention and Control (ECDC)</a>.  \n\nOur complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, and testing.\n\nWe have created a new description of all our data sources. You find it at our GitHub repository <strong><a href=\"https://github.com/owid/covid-19-data/tree/master/public/data/\">here</a></strong>. There you can download all of our data.\n\n",
       "link": "https://github.com/owid/covid-19-data/tree/master/public/data"
@@ -29,49 +29,49 @@
             "name": "Daily new confirmed cases of COVID-19",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Daily confirmed cases\", \"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Spain: Note that on April 19 & May 25th the methodology has changed\\nLithuania: Note that on April 28 the methodology has changed\\nEcuador: Note that on May 8 the methodology has changed\\nUnited Kingdom: Note that on May 20 the methodology has changed\\nFrance: Note that on June 2 the methodology has changed\"}"
+            "owidDisplaySettings": "{\"name\": \"Daily confirmed cases\", \"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Spain: Note that on April 19 & May 25th the methodology has changed\\nLithuania: Note that on April 28 the methodology has changed\\nEcuador: Note that on May 8 the methodology has changed\\nUnited Kingdom: Note that on May 20 the methodology has changed\\nFrance: Note that on June 2 the methodology has changed\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\"}"
           },
           {
             "name": "Daily new confirmed deaths due to COVID-19",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Daily confirmed deaths\", \"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Benin: Note that on May 19 the methodology has changed\\nSpain: Note that on May 25 the methodology has changed\\nUnited Kingdom: Note that on June 1 the methodology has changed\\nPanama: Note that on June 3 the methodology has changed\"}"
+            "owidDisplaySettings": "{\"name\": \"Daily confirmed deaths\", \"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Benin: Note that on May 19 the methodology has changed\\nSpain: Note that on May 25 the methodology has changed\\nUnited Kingdom: Note that on June 1 the methodology has changed\\nPanama: Note that on June 3 the methodology has changed\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\"}"
           },
           {
             "name": "Total confirmed cases of COVID-19",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Spain: Note that on April 19 & May 25th the methodology has changed\\nLithuania: Note that on April 28 the methodology has changed\\nEcuador: Note that on May 8 the methodology has changed\\nUnited Kingdom: Note that on May 20 the methodology has changed\\nFrance: Note that on June 2 the methodology has changed\"}"
+            "owidDisplaySettings": "{\"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Spain: Note that on April 19 & May 25th the methodology has changed\\nLithuania: Note that on April 28 the methodology has changed\\nEcuador: Note that on May 8 the methodology has changed\\nUnited Kingdom: Note that on May 20 the methodology has changed\\nFrance: Note that on June 2 the methodology has changed\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\"}"
           },
           {
             "name": "Total confirmed deaths due to COVID-19",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Benin: Note that on May 19 the methodology has changed\\nSpain: Note that on May 25 the methodology has changed\\nUnited Kingdom: Note that on June 1 the methodology has changed\\nPanama: Note that on June 3 the methodology has changed\"}"
+            "owidDisplaySettings": "{\"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Benin: Note that on May 19 the methodology has changed\\nSpain: Note that on May 25 the methodology has changed\\nUnited Kingdom: Note that on June 1 the methodology has changed\\nPanama: Note that on June 3 the methodology has changed\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\"}"
           },
           {
             "name": "Daily new confirmed cases of COVID-19 per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Spain: Note that on April 19 & May 25th the methodology has changed\\nLithuania: Note that on April 28 the methodology has changed\\nEcuador: Note that on May 8 the methodology has changed\\nUnited Kingdom: Note that on May 20 the methodology has changed\\nFrance: Note that on June 2 the methodology has changed\"}"
+            "owidDisplaySettings": "{\"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Spain: Note that on April 19 & May 25th the methodology has changed\\nLithuania: Note that on April 28 the methodology has changed\\nEcuador: Note that on May 8 the methodology has changed\\nUnited Kingdom: Note that on May 20 the methodology has changed\\nFrance: Note that on June 2 the methodology has changed\\nEuropean Union: Some EU countries changed methodology. See country-by-country series\"}"
           },
           {
             "name": "Daily new confirmed deaths due to COVID-19 per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"deaths per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Benin: Note that on May 19 the methodology has changed\\nSpain: Note that on May 25 the methodology has changed\\nUnited Kingdom: Note that on June 1 the methodology has changed\\nPanama: Note that on June 3 the methodology has changed\"}"
+            "owidDisplaySettings": "{\"unit\": \"deaths per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Benin: Note that on May 19 the methodology has changed\\nSpain: Note that on May 25 the methodology has changed\\nUnited Kingdom: Note that on June 1 the methodology has changed\\nPanama: Note that on June 3 the methodology has changed\\nEuropean Union: Some EU countries changed methodology. See country-by-country series\"}"
           },
           {
             "name": "Total confirmed cases of COVID-19 per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"cases per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Spain: Note that on April 19 & May 25th the methodology has changed\\nLithuania: Note that on April 28 the methodology has changed\\nEcuador: Note that on May 8 the methodology has changed\\nFrance: Note that on June 2 the methodology has changed\"}"
+            "owidDisplaySettings": "{\"unit\": \"cases per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Spain: Note that on April 19 & May 25th the methodology has changed\\nLithuania: Note that on April 28 the methodology has changed\\nEcuador: Note that on May 8 the methodology has changed\\nFrance: Note that on June 2 the methodology has changed\\nEuropean Union: Some EU countries changed methodology. See country-by-country series\"}"
           },
           {
             "name": "Total confirmed deaths due to COVID-19 per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"deaths per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Spain: Note that on May 25 the methodology has changed\\nUnited Kingdom: Note that on June 1 the methodology has changed\\nPanama: Note that on June 3 the methodology has changed\"}"
+            "owidDisplaySettings": "{\"unit\": \"deaths per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Spain: Note that on May 25 the methodology has changed\\nUnited Kingdom: Note that on June 1 the methodology has changed\\nPanama: Note that on June 3 the methodology has changed\\nEuropean Union: Some EU countries changed methodology. See country-by-country series\"}"
           },
           {
             "name": "Days since the total confirmed cases of COVID-19 reached 100",
@@ -143,13 +143,13 @@
             "name": "Daily new confirmed deaths due to COVID-19 (rolling 7-day average, right-aligned)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Benin: Note that on May 19 the methodology has changed\\nSpain: Note that on May 25 the methodology has changed\\nUnited Kingdom: Note that on June 1 the methodology has changed\\nPanama: Note that on June 3 the methodology has changed\"}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Benin: Note that on May 19 the methodology has changed\\nSpain: Note that on May 25 the methodology has changed\\nUnited Kingdom: Note that on June 1 the methodology has changed\\nPanama: Note that on June 3 the methodology has changed\\nEuropean Union: Some EU countries changed methodology. See country-by-country series\"}"
           },
           {
             "name": "Daily new confirmed cases due to COVID-19 (rolling 7-day average, right-aligned)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Spain: Note that on April 19 & May 25th the methodology has changed\\nLithuania: Note that on April 28 the methodology has changed\\nEcuador: Note that on May 8 the methodology has changed\\nUnited Kingdom: Note that on May 20 the methodology has changed\\nFrance: Note that on June 2 the methodology has changed\"}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Spain: Note that on April 19 & May 25th the methodology has changed\\nLithuania: Note that on April 28 the methodology has changed\\nEcuador: Note that on May 8 the methodology has changed\\nUnited Kingdom: Note that on May 20 the methodology has changed\\nFrance: Note that on June 2 the methodology has changed\\nEuropean Union: Some EU countries changed methodology. See country-by-country series\"}"
           },
           {
             "name": "Days since daily new confirmed cases of COVID-19 per million people (rolling 7-day average, right-aligned) reached 1",
