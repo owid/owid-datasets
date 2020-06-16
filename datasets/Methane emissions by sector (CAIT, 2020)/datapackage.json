@@ -81,6 +81,48 @@
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"Waste\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Agriculture (per capita) (CH4 emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Fugitive Emissions (per capita) (CH4 emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Industry (per capita) (CH4 emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Land-Use Change and Forestry (per capita) (CH4 emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Total excluding LUCF (per capita) (CH4 emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Total including LUCF (per capita) (CH4 emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Waste (per capita) (CH4 emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
           }
         ]
       }
