@@ -35,7 +35,7 @@
             "name": "Daily new confirmed deaths due to COVID-19",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Daily confirmed deaths\", \"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Benin: Note that on May 19 the methodology has changed\\nSpain: Note that on May 25 the methodology has changed\\nUnited Kingdom: Note that on June 1 the methodology has changed\\nPanama: Note that on June 3 the methodology has changed\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\"}"
+            "owidDisplaySettings": "{\"name\": \"Daily confirmed deaths\", \"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Benin: Note that on May 19 the methodology has changed\\nSpain: Note that on May 25 the methodology has changed\\nUnited Kingdom: Note that on June 1 the methodology has changed\\nPanama: Note that on June 3 the methodology has changed\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nIndia: Note that on June 17 earlier deaths were added to the total.\"}"
           },
           {
             "name": "Total confirmed cases of COVID-19",
@@ -47,7 +47,7 @@
             "name": "Total confirmed deaths due to COVID-19",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Benin: Note that on May 19 the methodology has changed\\nSpain: Note that on May 25 the methodology has changed\\nUnited Kingdom: Note that on June 1 the methodology has changed\\nPanama: Note that on June 3 the methodology has changed\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\"}"
+            "owidDisplaySettings": "{\"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Benin: Note that on May 19 the methodology has changed\\nSpain: Note that on May 25 the methodology has changed\\nUnited Kingdom: Note that on June 1 the methodology has changed\\nPanama: Note that on June 3 the methodology has changed\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nIndia: Note that on June 17 earlier deaths were added to the total.\"}"
           },
           {
             "name": "Daily new confirmed cases of COVID-19 per million people",
@@ -59,7 +59,7 @@
             "name": "Daily new confirmed deaths due to COVID-19 per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"deaths per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Benin: Note that on May 19 the methodology has changed\\nSpain: Note that on May 25 the methodology has changed\\nUnited Kingdom: Note that on June 1 the methodology has changed\\nPanama: Note that on June 3 the methodology has changed\\nEuropean Union: Some EU countries changed methodology. See country-by-country series\"}"
+            "owidDisplaySettings": "{\"unit\": \"deaths per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Benin: Note that on May 19 the methodology has changed\\nSpain: Note that on May 25 the methodology has changed\\nUnited Kingdom: Note that on June 1 the methodology has changed\\nPanama: Note that on June 3 the methodology has changed\\nEuropean Union: Some EU countries changed methodology. See country-by-country series\\nIndia: Note that on June 17 earlier deaths were added to the total\"}"
           },
           {
             "name": "Total confirmed cases of COVID-19 per million people",
@@ -71,7 +71,7 @@
             "name": "Total confirmed deaths due to COVID-19 per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"deaths per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Spain: Note that on May 25 the methodology has changed\\nUnited Kingdom: Note that on June 1 the methodology has changed\\nPanama: Note that on June 3 the methodology has changed\\nEuropean Union: Some EU countries changed methodology. See country-by-country series\"}"
+            "owidDisplaySettings": "{\"unit\": \"deaths per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Spain: Note that on May 25 the methodology has changed\\nUnited Kingdom: Note that on June 1 the methodology has changed\\nPanama: Note that on June 3 the methodology has changed\\nEuropean Union: Some EU countries changed methodology. See country-by-country series\\nIndia: Note that on June 17 earlier deaths were added to the total.\"}"
           },
           {
             "name": "Days since the total confirmed cases of COVID-19 reached 100",
@@ -143,7 +143,7 @@
             "name": "Daily new confirmed deaths due to COVID-19 (rolling 7-day average, right-aligned)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Benin: Note that on May 19 the methodology has changed\\nSpain: Note that on May 25 the methodology has changed\\nUnited Kingdom: Note that on June 1 the methodology has changed\\nPanama: Note that on June 3 the methodology has changed\\nEuropean Union: Some EU countries changed methodology. See country-by-country series\"}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Benin: Note that on May 19 the methodology has changed\\nSpain: Note that on May 25 the methodology has changed\\nUnited Kingdom: Note that on June 1 the methodology has changed\\nPanama: Note that on June 3 the methodology has changed\\nEuropean Union: Some EU countries changed methodology. See country-by-country series\\nIndia: Note that on June 17 earlier deaths were added to the total\"}"
           },
           {
             "name": "Daily new confirmed cases due to COVID-19 (rolling 7-day average, right-aligned)",
@@ -185,7 +185,7 @@
             "name": "Daily new confirmed deaths due to COVID-19 per million people (rolling 7-day average, right-aligned)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"India: Note that on June 17 earlier deaths were added to the total.\"}"
           },
           {
             "name": "Days since daily new confirmed cases of COVID-19 (rolling 7-day average, right-aligned) reached 30",
