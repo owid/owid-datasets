@@ -38,67 +38,127 @@
             "name": "Int'l aviation & shipping (CAIT, 2020)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"International aviation and shipping\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Electricity & Heat (CAIT, 2020)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Electricity & Heat\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Energy (CAIT, 2020)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Energy\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Fugitive Emissions (CAIT, 2020)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Fugitive emissions\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Industry (CAIT, 2020)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Industry\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Land-Use Change and Forestry (CAIT, 2020)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Land Use Change & Forestry\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Manufacturing & Construction (CAIT, 2020)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Manufacturing & Construction\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Other Fuel Combustion (CAIT, 2020)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Other fuel combustion\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Total excluding LUCF (CAIT, 2020)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Total excluding LUCF\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Total including LUCF (CAIT, 2020)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Total including LUCF\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Transport (CAIT, 2020)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Transport\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Buildings (per capita) (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Buildings\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Electricity & Heat (per capita) (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Electricity & Heat\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Fugitive Emissions (per capita) (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Fugitive emissions\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Industry (per capita) (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Industry\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "International aviation & shipping (per capita) (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"International aviation & shipping\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Land-Use Change and Forestry (per capita) (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Land use change and forestry\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Manufacturing & Construction (per capita) (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Manufacturing & construction\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Total excluding LUCF (per capita) (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Total excluding land use change\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Total including LUCF (per capita) (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Total including land use change\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Transport (per capita) (CAIT, 2020)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Transport\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
           }
         ]
       }
