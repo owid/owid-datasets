@@ -1,4 +1,4 @@
-# CO2 emissions by fuel type (CDIAC & GCP (2018))
+# CO2 emissions by fuel type (CDIAC & GCP (2020))
 
 Data on emissions by fuel type from the Global Carbon Project is available at the global level only. For the global series, GCP data is used from 1959 onwards; pre-1959 data is sourced from the Carbon Dioxide Information Analysis Centre (CDIAC).
 
