@@ -111,6 +111,78 @@
             "type": "any",
             "description": "Greenhouse gas emissions from transport, measured in tonnes of carbon dioxide-equivalents.",
             "owidDisplaySettings": "{\"name\": \"Transport\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Agriculture (per capita) (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Agriculture\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Buildings (per capita) (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Buildings\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Electricity & Heat (per capita) (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Electricity & Heat\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Fugitive Emissions (per capita) (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Fugitive emissions\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Industry (per capita) (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Industry\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "International aviation & shipping (per capita) (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"International aviation & shipping\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Land-Use Change and Forestry (per capita) (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Land use change and forestry\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Manufacturing & Construction (per capita) (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Manufacturing and construction\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Total excluding LUCF (per capita) (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Total excluding land use change\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Total including LUCF (per capita) (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Total including land use change\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Transport (per capita) (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Transport\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Waste (per capita) (GHG Emissions, CAIT)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Waste\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
           }
         ]
       }
