@@ -57,6 +57,36 @@
             "type": "any",
             "description": "Annual emissions of carbon dioxide (CO₂) from flaring, measured in tonnes.",
             "owidDisplaySettings": "{\"name\": \"CO₂ emissions from flaring\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Coal (per capita) (CDIAC & GCP, 2020)",
+            "type": "any",
+            "description": "Per capita emissions of carbon dioxide (CO₂) from coal, measured in tonnes.",
+            "owidDisplaySettings": "{\"name\": \"Per capita emissions from coal\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Oil (per capita) (CDIAC & GCP, 2020)",
+            "type": "any",
+            "description": "Per capita emissions of carbon dioxide (CO₂) from oil, measured in tonnes.",
+            "owidDisplaySettings": "{\"name\": \"Per capita emissions from oil\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Gas (per capita) (CDIAC & GCP, 2020)",
+            "type": "any",
+            "description": "Per capita emissions of carbon dioxide (CO₂) from gas, measured in tonnes.",
+            "owidDisplaySettings": "{\"name\": \"Per capita emissions from gas\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Cement (per capita) (CDIAC & GCP, 2020)",
+            "type": "any",
+            "description": "Per capita emissions of carbon dioxide (CO₂) from cement production, measured in tonnes.",
+            "owidDisplaySettings": "{\"name\": \"Per capita emissions from cement\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Flaring (per capita) (CDIAC & GCP, 2020)",
+            "type": "any",
+            "description": "Per capita emissions of carbon dioxide (CO₂) from flaring, measured in tonnes.",
+            "owidDisplaySettings": "{\"name\": \"Per capita emissions from flaring\", \"unit\": \"tonnes \", \"shortUnit\": \"t\", \"includeInTable\": true}"
           }
         ]
       }
