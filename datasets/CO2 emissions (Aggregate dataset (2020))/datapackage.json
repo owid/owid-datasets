@@ -1,0 +1,118 @@
+{
+  "name": "CO2 emissions (Aggregate dataset (2020))",
+  "title": "CO2 emissions (Aggregate dataset (2020))",
+  "id": 5099,
+  "description": "This dataset has been compiled by Our World in Data based on several sources.\n\nCO2 emissions data is sourced from the Global Carbon Project and the Carbon Dioxide Information Analysis Centre (CDIAC).\n– Data from pre-1959 is sourced from the archived Carbon Dioxide Information Analysis Centre (CDIAC). Reference: Tom Boden and Bob Andres (Oak Ridge National Laboratory); Gregg Marland (Appalachian State University). Available at: http://cdiac.ornl.gov/\n– Data post-1959 is sourced from the Global Carbon Project. Global Carbon Project. (2019). Supplemental data of Global Carbon Budget 2019 (Version 1.0) [Data set]. Global Carbon Project. https://doi.org/10.18160/gcp-2019.\n\nData has been converted by Our World in Data from tonnes of carbon to tonnes of carbon dioxide (CO₂) using a conversion factor of 3.664.\n\n\"Statistical differences\" are referred to by the Global Carbon Project as the difference between global emissions and the sum of all national emissions plus bunker fuels: this discrepancy is therefore categorized as \"statistical differences\".\n\nOur World in Data have renamed the category \"bunker fuels\" as \"International transport\" which includes emissions from international aviation and shipping. We have renamed this category for clarity.\n\nEach country and region's share of global carbon dioxide (CO₂) has been calculated by Our World in Data based on annual national emissions data published by the Global Carbon Project (GCP). This is calculated as each country's share of the sum of all country emissions plus international aviation and shipping ('bunkers') and 'statistical differences'.\n\nOur World in Data has calculated several additional metrics based on the following metrics:\n– Energy consumption data from BP Statistical Review of World Energy: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html\n– Long-term GDP data from Maddison Project Database: https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018\n– Population data from the UN World Population Prospects and Gapminder.\nhttps://www.gapminder.org/\nhttps://population.un.org/wpp/\n",
+  "sources": [
+    {
+      "name": "Our World in Data based on Global Carbon Project; CDIAC; BP and World Bank",
+      "dataPublishedBy": "Our World in Data based on Global Carbon Project; Carbon Dioxide Information Analysis Centre; BP; Maddison; UNWPP",
+      "retrievedDate": "19th July 2020",
+      "additionalInfo": "This dataset has been compiled by Our World in Data based on several sources.\n\nCO2 emissions data is sourced from the Global Carbon Project and the Carbon Dioxide Information Analysis Centre (CDIAC).\n– Data from pre-1959 is sourced from the archived Carbon Dioxide Information Analysis Centre (CDIAC). Reference: Tom Boden and Bob Andres (Oak Ridge National Laboratory); Gregg Marland (Appalachian State University). Available at: http://cdiac.ornl.gov/\n– Data post-1959 is sourced from the Global Carbon Project. Global Carbon Project. (2019). Supplemental data of Global Carbon Budget 2019 (Version 1.0) [Data set]. Global Carbon Project. https://doi.org/10.18160/gcp-2019.\n\nData has been converted by Our World in Data from tonnes of carbon to tonnes of carbon dioxide (CO₂) using a conversion factor of 3.664.\n\n\"Statistical differences\" are referred to by the Global Carbon Project as the difference between global emissions and the sum of all national emissions plus bunker fuels: this discrepancy is therefore categorized as \"statistical differences\".\n\nOur World in Data have renamed the category \"bunker fuels\" as \"International transport\" which includes emissions from international aviation and shipping. We have renamed this category for clarity.\n\nEach country and region's share of global carbon dioxide (CO₂) has been calculated by Our World in Data based on annual national emissions data published by the Global Carbon Project (GCP). This is calculated as each country's share of the sum of all country emissions plus international aviation and shipping ('bunkers') and 'statistical differences'.\n\nOur World in Data has calculated several additional metrics based on the following metrics:\n– Energy consumption data from BP Statistical Review of World Energy: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html\n– Long-term GDP data from Maddison Project Database: https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018\n– Population data from the UN World Population Prospects and Gapminder.\nhttps://www.gapminder.org/\nhttps://population.un.org/wpp/\n"
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "CO2 emissions (Aggregate dataset (2020)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Annual CO2 emissions",
+            "type": "any",
+            "description": "Annual production-based emissions of carbon dioxide (CO₂), measured in tonnes per year.",
+            "owidDisplaySettings": "{\"name\": \"Annual CO₂ emissions\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Annual CO2 growth (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"%\"}"
+          },
+          {
+            "name": "Consumption-based CO2 emissions",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "CO2 emissions embedded in trade",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"CO₂ emissions embedded in trade\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Share of CO2 emissions embedded in trade",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Share of CO₂ emissions embedded in trade\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Per capita CO2 emissions",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Per capita CO₂ emissions\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Per capita consumption-based CO2 emissions",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Per capita consumption-based CO₂ emissions\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Share of global CO2 emissions",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Share of global CO₂ emissions\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Cumulative CO2 emissions",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Cumulative CO₂ emissions\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Share of global cumulative CO2 emissions",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Share of global cumulative CO₂ emissions\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "CO2 per GDP (kg per $PPP)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Carbon intensity: CO₂ per unit GDP\", \"unit\": \"kilograms per $PPP\", \"shortUnit\": \"kg/$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Consumption-based CO2 per GDP (kg per $PPP)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Consumption-based carbon intensity\", \"unit\": \"kilograms CO₂ per $PPP\", \"shortUnit\": \"kg/$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "CO2 per unit energy (kgCO2 per kilowatt-hour)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Carbon intensity: CO₂ per unit energy\", \"unit\": \"kilograms per kilowatt-hour\", \"shortUnit\": \"kg/kWh\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Annual CO2 growth (abs)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Year-on-year change in CO₂ emissions\", \"unit\": \"tonnes CO₂\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          }
+        ]
+      }
+    }
+  ]
+}
