@@ -14,6 +14,10 @@ Our World in Data have renamed the category "bunker fuels" as "International tra
 
 Each country and region's share of global carbon dioxide (CO₂) has been calculated by Our World in Data based on annual national emissions data published by the Global Carbon Project (GCP). This is calculated as each country's share of the sum of all country emissions plus international aviation and shipping ('bunkers') and 'statistical differences'.
 
+Consumption-based emissions are national or regional emissions which have been adjusted for trade (i.e. territorial/production emissions minus emissions embedded in exports, plus emissions embedded in imports). If a country's consumption-based emissions are higher than its production emissions it is a net importer of carbon dioxide.
+
+The underlying source is an updated version of the paper by "Peters et al. (2011). Growth in emission transfers via international trade from 1990 to 2008." This updated data is available in the latest version of the Global Carbon Budget. 
+
 Our World in Data has calculated several additional metrics based on the following metrics:
 – Energy consumption data from BP Statistical Review of World Energy: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html
 – Long-term GDP data from Maddison Project Database: https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2018
