@@ -32,31 +32,31 @@
             "name": "Gas (CDIAC & GCP (2020))",
             "type": "any",
             "description": "Annual emissions of carbon dioxide (CO₂) from gas, measured in tonnes.",
-            "owidDisplaySettings": "{\"name\": \"CO₂ emissions from gas\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+            "owidDisplaySettings": "{\"name\": \"CO₂ emissions from gas\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Coal (CDIAC & GCP (2020))",
             "type": "any",
             "description": "Annual emissions of carbon dioxide (CO₂) from coal, measured in tonnes.",
-            "owidDisplaySettings": "{\"name\": \"CO₂ emissions from coal\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+            "owidDisplaySettings": "{\"name\": \"CO₂ emissions from coal\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Oil (CDIAC & GCP (2020))",
             "type": "any",
             "description": "Annual emissions of carbon dioxide (CO₂) from oil, measured in tonnes.",
-            "owidDisplaySettings": "{\"name\": \"CO₂ emissions from oil\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+            "owidDisplaySettings": "{\"name\": \"CO₂ emissions from oil\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Cement (CDIAC & GCP (2020))",
             "type": "any",
             "description": "Annual emissions of carbon dioxide (CO₂) from cement, measured in tonnes.",
-            "owidDisplaySettings": "{\"name\": \"CO₂ emissions from cement\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+            "owidDisplaySettings": "{\"name\": \"CO₂ emissions from cement\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Flaring (CDIAC & GCP (2020))",
             "type": "any",
             "description": "Annual emissions of carbon dioxide (CO₂) from flaring, measured in tonnes.",
-            "owidDisplaySettings": "{\"name\": \"CO₂ emissions from flaring\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+            "owidDisplaySettings": "{\"name\": \"CO₂ emissions from flaring\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Coal (per capita) (CDIAC & GCP, 2020)",
