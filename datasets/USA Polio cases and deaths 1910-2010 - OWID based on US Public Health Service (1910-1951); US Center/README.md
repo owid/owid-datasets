@@ -1,4 +1,4 @@
-# USA Polio cases and deaths 1910-2010 - OWID based on US Public Health Service (1910-1951) and US Center for Disease Control (1960-2010)
+# USA Polio cases and deaths 1910-2010 - OWID based on US Public Health Service (1910-1951); US Center for Disease Control (1960-2010); and WHO (2011-)
 
 Polio case counts: 
 1910-1911: Public Health Reports Vol. 27, No. 16 “Poliomyelitis in the United States, 1910 and 1911” 
