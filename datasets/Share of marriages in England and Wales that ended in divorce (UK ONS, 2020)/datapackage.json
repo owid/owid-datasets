@@ -1,0 +1,41 @@
+{
+  "name": "Share of marriages in England and Wales that ended in divorce (UK ONS, 2020)",
+  "title": "Share of marriages in England and Wales that ended in divorce (UK ONS, 2020)",
+  "id": 5124,
+  "description": "Data measures the percentage of marriages in England and Wales ending in divorce by anniversary and year of marriage.\n\nThe UK Office for National Statistics notes the following points:\n– When calculating these percentages, it has been assumed that the couples who married each year have not moved out of England and Wales, couples who divorced each year have not moved into England and Wales since getting married, and couples marry in the country where they usually live.\n\n– The Divorce Reform Act 1969, which came into effect on 1 January 1971, made it easier for couples to divorce upon separation.",
+  "sources": [
+    {
+      "name": "Office for National Statistics – Divorces in England and Wales",
+      "dataPublishedBy": "UK Office for National Statistics",
+      "link": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/bulletins/divorcesinenglandandwales/2018",
+      "retrievedDate": "24th July 2020",
+      "additionalInfo": "Data measures the percentage of marriages in England and Wales ending in divorce by anniversary and year of marriage.\n\nThe UK Office for National Statistics notes the following points:\n– When calculating these percentages, it has been assumed that the couples who married each year have not moved out of England and Wales, couples who divorced each year have not moved into England and Wales since getting married, and couples marry in the country where they usually live.\n\n– The Divorce Reform Act 1969, which came into effect on 1 January 1971, made it easier for couples to divorce upon separation."
+    }
+  ],
+  "owidTags": [
+    "Marriage & Relationships"
+  ],
+  "resources": [
+    {
+      "path": "Share of marriages in England and Wales that ended in divorce (UK ONS, 2020).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Share of married couples that had divorced in England and Wales (UK, ONS)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
