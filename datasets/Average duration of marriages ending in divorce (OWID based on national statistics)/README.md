@@ -10,8 +10,7 @@ For median values, estimates rely on multiple sources:
 - For the United States, the data comes from Table 2-12 in the <a href="https://www.cdc.gov/nchs/data/vsus/mgdv88_3.pdf">Vital Statistics of the United States, 1988 report</a> (1978-1988); Table 1 in <a href="https://www.cdc.gov/nchs/data/series/sr_21/sr21_038.pdf">The Duration of Marriage Before Divorce report</a> (1867 - 1977); Table 6 of the <a href="https://www.census.gov/prod/2005pubs/p70-97.pdf">Current Population Reports, Issued 2005</a> (2001); Table 8 of the <a href="https://www.census.gov/prod/2011pubs/p70-125.pdf">Current Population Reports, Issued 2011</a> (2009).
 - For the UK, data is taken from Figure 5 of the <a href="
 https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/bulletins/divorcesinenglandandwales/2018">ONS Statistical Bulletin</a>.
-- For Ecuador, the data is available from slide 11 of the <a href="
-https://www.ecuadorencifras.gob.ec/documentos/web-inec/Poblacion_y_Demografia/Matrimonios_Divorcios/2018/Principales_resultados_MYD_2018.pdf">Instituto Nacional de Estadisticas y Censos, Registro Estadístico de Divorcios, 2018</a>.
+- For Canada, the data is from <a href="https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3910003801#timeframe">Statistics Canada</a>, under Table 39-10-0038-01, Divorces by mean and median duration of marriage.
 - For Australia, the <a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/Previousproducts/3310.0Main%20Features42017?opendocument&tabname=Summary&prodno=3310.0&issue=2017&num=&view=">Australian Bureau of Statistics</a> under 'Length of Marriage of Divorcing Couples' sub-heading.
 - For New Zealand, <a href="http://archive.stats.govt.nz/infoshare/">NZ.Stat Infoshare</a> under the 'Population' subject category.
 - For Singapore, <a href="
