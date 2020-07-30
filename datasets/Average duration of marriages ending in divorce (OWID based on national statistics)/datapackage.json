@@ -28,10 +28,10 @@
             "type": "year"
           },
           {
-            "name": "Average duration of marriages ending in divorce",
+            "name": "Duration of marriages ending in divorce",
             "type": "any",
             "description": "The median or mean duration of marriages ending in divorce, measured in years. ",
-            "owidDisplaySettings": "{\"name\": \"Average duration of marriages ending in divorce\", \"unit\": \"years\", \"shortUnit\": \"years\", \"includeInTable\": true, \"entityAnnotationsMap\": \"Germany: Mean duration\\nSweden: Mean duration\\nAustralia: Median duration\\nCanada: Median duration\\nUnited Kingdom: Median duration\\nUnited States: Median duration\\nSingapore: Median duration\\nNew Zealand: Median duration\"}"
+            "owidDisplaySettings": "{\"name\": \"Duration of marriages ending in divorce\", \"unit\": \"years\", \"shortUnit\": \"years\", \"includeInTable\": true, \"entityAnnotationsMap\": \"Germany: Mean duration\\nSweden: Mean duration\\nAustralia: Median duration\\nCanada: Median duration\\nUnited Kingdom: Median duration\\nUnited States: Median duration\\nSingapore: Median duration\\nNew Zealand: Median duration\"}"
           }
         ]
       }
