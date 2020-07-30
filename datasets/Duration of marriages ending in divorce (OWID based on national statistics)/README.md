@@ -1,4 +1,4 @@
-# Average duration of marriages ending in divorce (OWID based on national statistics)
+# Duration of marriages ending in divorce (OWID based on national statistics)
 
 This dataset combines national published estimates of marriage length: some countries present this data as the median length of marriage; others the mean length of marriage.
 
