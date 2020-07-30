@@ -15,7 +15,6 @@ For median values, estimates rely on multiple sources:
 - For Singapore, <a href="https://www.singstat.gov.sg/find-data/search-by-theme/population/marital-status-marriages-and-divorces/latest-data">Statistics Singapore</a>. The data can be found under the Divorces and Annulments sub-heading within the 'Key Indicators On Divorces, Annual' link.
 
 For mean values, estimates rely on multiple sources:
-- For Ecuador, the data is available from slide 11 of the <a href="
-https://www.ecuadorencifras.gob.ec/documentos/web-inec/Poblacion_y_Demografia/Matrimonios_Divorcios/2018/Principales_resultados_MYD_2018.pdf">Instituto Nacional de Estadisticas y Censos, Registro Estadístico de Divorcios, 2018</a>.
+- For Ecuador, the data is available from slide 11 of the <a href="https://www.ecuadorencifras.gob.ec/documentos/web-inec/Poblacion_y_Demografia/Matrimonios_Divorcios/2018/Principales_resultados_MYD_2018.pdf">Instituto Nacional de Estadisticas y Censos, Registro Estadístico de Divorcios, 2018</a>.
 - For Germany, the <a href="https://www.destatis.de/EN/Themes/Society-Environment/Population/Marriages-Divorces-Life-Partnerships/Tables/statistical-parameters.html">Statistisches Bundesamt</a>.
 - For Sweden, <a href="http://www.statistikdatabasen.scb.se/pxweb/en/ssd/START__BE__BE0101__BE0101L/AktenskapVaraktighet/">Statistics Sweden</a>.
