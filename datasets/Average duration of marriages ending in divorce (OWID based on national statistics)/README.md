@@ -11,7 +11,7 @@ For median values, estimates rely on multiple sources:
 - For the UK, data is taken from Figure 5 of the <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/bulletins/divorcesinenglandandwales/2018">ONS Statistical Bulletin</a>.
 - For Canada, the data is from <a href="https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3910003801#timeframe">Statistics Canada</a>, under Table 39-10-0038-01, Divorces by mean and median duration of marriage.
 - For Australia, the <a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/Previousproducts/3310.0Main%20Features42017?opendocument&tabname=Summary&prodno=3310.0&issue=2017&num=&view=">Australian Bureau of Statistics</a> under 'Length of Marriage of Divorcing Couples' sub-heading for 1997-2017. See the <a href="https://www.abs.gov.au/AUSSTATS/abs@.nsf/allprimarymainfeatures/893C1288678FD232CA2568A90013939C?opendocument">Australian Bureau of Statistics 2018 Release</a> under the 'Divorces' heading for 2018.
-- For New Zealand, <a href="http://archive.stats.govt.nz/infoshare/">NZ.Stat Infoshare</a> under the 'Population' subject category.
+- For New Zealand, <a href="http://archive.stats.govt.nz/infoshare/">NZ.Stat Infoshare</a> under the 'Population->Marriages Civil Unions and Divorces->Divorces by duration' subject category.
 - For Singapore, <a href="
 https://www.singstat.gov.sg/find-data/search-by-theme/population/marital-status-marriages-and-divorces/latest-data">Statistics Singapore</a>.
 
