@@ -1,0 +1,37 @@
+{
+  "name": "Figure_19.4_updated",
+  "title": "Figure_19.4_updated",
+  "id": 5152,
+  "description": "",
+  "sources": [
+    {
+      "name": "WID (2020)",
+      "dataPublishedBy": "Facundo Alvaredo, Anthony B. Atkinson, Thomas Piketty, Emmanuel Saez, and Gabriel Zucman (2020) ‘The World Wealth and Income Database (WID)’.",
+      "link": "https://wid.world"
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "Figure_19.4_updated.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Income share of the top 1% (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
