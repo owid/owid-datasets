@@ -1,0 +1,64 @@
+{
+  "name": "Primary energy consumption (BP & Shift, 2020)",
+  "title": "Primary energy consumption (BP & Shift, 2020)",
+  "id": 5156,
+  "description": "Primary energy consumption data was compiled by Our World in Data based on two key data sources: \n1. BP Statistical Review of World Energy: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html\n2. Shift Energy Data Portal: https://www.theshiftdataportal.org/energy\n\nBP provides the longest and most up-to-date time-series of primary energy. However, it does provide data for all countries. We have therefore supplemented this dataset with energy data from the Shift Energy Data Portal. Where BP provides data for a given country, this data is adopted; for countries where this data is missing, we rely on Shift Energy figures.\n\nThe Shift Project draws on two sources: \n– Etemad & Luciani for the period 1900-1980 Bouda Etemad and Jean Luciani, World Energy Production 1900 – 1985, ISBN 2-600-56007-6, Data digitalized and published with agreement of B. Etemad\n– US EIA Historical Statistics for 1980-2016. U.S. Energy Information Administration\n\nTo convert from total primary energy to per capita figures we use population figures from the UN World Population Prospects: https://population.un.org/wpp/.\n\nTo calculate energy per unit of GDP, we use total real GDP figures from the Maddison Project Database (2018): http://www.ggdc.net/maddison/oriindex.htm. This is measured in 2011$ which are PPP-adjusted.\n\n",
+  "sources": [
+    {
+      "name": "Our World in Data based on BP; Shift Energy; UN Population & Maddison Database",
+      "retrievedDate": "15th August 2020",
+      "additionalInfo": "Primary energy consumption data was compiled by Our World in Data based on two key data sources: \n1. BP Statistical Review of World Energy: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html\n2. Shift Energy Data Portal: https://www.theshiftdataportal.org/energy\n\nBP provides the longest and most up-to-date time-series of primary energy. However, it does provide data for all countries. We have therefore supplemented this dataset with energy data from the Shift Energy Data Portal. Where BP provides data for a given country, this data is adopted; for countries where this data is missing, we rely on Shift Energy figures.\n\nThe Shift Project draws on two sources: \n– Etemad & Luciani for the period 1900-1980 Bouda Etemad and Jean Luciani, World Energy Production 1900 – 1985, ISBN 2-600-56007-6, Data digitalized and published with agreement of B. Etemad\n– US EIA Historical Statistics for 1980-2016. U.S. Energy Information Administration\n\nTo convert from total primary energy to per capita figures we use population figures from the UN World Population Prospects: https://population.un.org/wpp/.\n\nTo calculate energy per unit of GDP, we use total real GDP figures from the Maddison Project Database (2018): http://www.ggdc.net/maddison/oriindex.htm. This is measured in 2011$ which are PPP-adjusted.\n\n",
+      "dataPublishedBy": "BP Statistical Review of World Energy; Shift Project; Maddison Project Database; UN Population Prospects"
+    }
+  ],
+  "owidTags": [
+    "Energy"
+  ],
+  "resources": [
+    {
+      "path": "Primary energy consumption (BP & Shift, 2020).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Primary energy consumption (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Annual change primary energy consumption (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Annual change primary energy consumption (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Energy consumption per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Energy consumption per GDP (kWh per $)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
