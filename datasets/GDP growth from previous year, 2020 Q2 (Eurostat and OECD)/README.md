@@ -8,3 +8,4 @@ We combined data on year on year GDP growth by quarter from two sources:
 
 In both cases, the data relates to the percentage change in GDP compared with the same quarter of the previous year (Q2 2019). This is calculated using a volume measure of GDP and as such, is adjusted to account for inflation between the years. The data is also seasonally adjusted.
 
+Note that estimates of GDP are often subject to revision as more data becomes available to national statistical agencies. The pandemic has impacted agencies' ability to collect information that inform their GDP estimates. Eurostat note that this is likely to have impacted the quality of the data in some cases (see: https://ec.europa.eu/eurostat/documents/24987/725066/Country_specific_metadata_associated_with_national_estimates_2020Q2)
