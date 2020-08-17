@@ -1,0 +1,126 @@
+{
+  "name": "Coal output and employment in UK - BEIS (2020)",
+  "title": "Coal output and employment in UK - BEIS (2020)",
+  "id": 951,
+  "description": "Data originally published by the UK's Department for Energy and Climate Change (DECC) in 2013. Updated in 2018 by the UK's Department for Business, Energy & Industrial Strategy (BEIS).\n\nEmployment figures in the coal industry include contractors, and are sourced by DECC from The Coal Authority.\n\nCoal production per worker was calculated by dividing total UK coal output by the number employed in any given year.\n\nThe share of the total workforce employed in the coal industry was calculated by dividing by total UK workforce figures available in 'A millennium of macroeconomic data' by the Bank of England. Available at: http://www.bankofengland.co.uk/research/Pages/datasets/default.aspx [accessed 5th October 2017].",
+  "sources": [
+    {
+      "name": "UK DECC & Department for Business, Energy & Industrial Strategy (BEIS).",
+      "link": "https://www.gov.uk/government/statistical-data-sets/historical-coal-data-coal-production-availability-and-consumption",
+      "retrievedDate": "17th August 2020",
+      "additionalInfo": "Data originally published by the UK's Department for Energy and Climate Change (DECC) in 2013. Updated in 2018 by the UK's Department for Business, Energy & Industrial Strategy (BEIS).\n\nEmployment figures in the coal industry include contractors, and are sourced by DECC from The Coal Authority.\n\nCoal production per worker was calculated by dividing total UK coal output by the number employed in any given year.\n\nThe share of the total workforce employed in the coal industry was calculated by dividing by total UK workforce figures available in 'A millennium of macroeconomic data' by the Bank of England. Available at: http://www.bankofengland.co.uk/research/Pages/datasets/default.aspx [accessed 5th October 2017].",
+      "dataPublishedBy": "Department for Business, Energy & Industrial Strategy (BEIS)",
+      "dataPublisherSource": null
+    }
+  ],
+  "owidTags": [
+    "Fossil Fuels"
+  ],
+  "resources": [
+    {
+      "path": "Coal output and employment in UK - BEIS (2020).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Coal Output (DECC (2018))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{\"name\": \"Coal Output\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Employment in coal industry (DECC (2018))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{\"name\": \"Employment in coal industry\", \"unit\": \"employed\", \"conversionFactor\": 1000}"
+          },
+          {
+            "name": "Coal production per worker (DECC (2018))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{\"name\": \"Coal production per worker\", \"unit\": \"tonnes\", \"shortUnit\": \"t\"}"
+          },
+          {
+            "name": "Percentage of workforce in coal industry (DECC (2018))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{\"name\": \"Percentage of workforce in coal industry\", \"unit\": \"%\", \"shortUnit\": \"%\"}"
+          },
+          {
+            "name": "Coal imports (DECC (2018))",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Coal imports\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Deepmined coal output (DECC (2018))",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Deepmined coal output\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Opencast coal output (DECC (2018))",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Opencast coal output\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Coal by end use (Collieries)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Coal by end use (Electricity)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Coal by end use (Gas)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Coal by end use (Coke ovens & solid fuels)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Coal by end use (Railways)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Coal by end use (Domestic)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Coal by end use (Industry)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Coal by end use (Miscellaneous)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}

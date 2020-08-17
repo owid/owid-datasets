@@ -1,4 +1,4 @@
-# Coal output and employment in UK - DECC (2018)
+# Coal output and employment in UK - BEIS (2020)
 
 Data originally published by the UK's Department for Energy and Climate Change (DECC) in 2013. Updated in 2018 by the UK's Department for Business, Energy & Industrial Strategy (BEIS).
 
