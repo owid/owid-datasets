@@ -19,3 +19,5 @@ Mobility trends are measured across six broad categories:
 (6) Retail & Recreation: places like restaurants, cafes, shopping centers, theme parks, museums, libraries, and movie theaters.
 
 The 'Residential' category shows a change in duration—the other categories measure a change in total visitors.
+
+This index is smoothed to the rolling 7-day average.
