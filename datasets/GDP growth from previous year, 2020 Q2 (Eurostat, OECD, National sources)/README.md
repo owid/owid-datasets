@@ -1,4 +1,4 @@
-# GDP growth from previous year, 2020 Q2 (Eurostat and OECD)
+# GDP growth from previous year, 2020 Q2 (Eurostat, OECD, National sources)
 
 We combined data on year on year GDP growth by quarter from different sources:
 
