@@ -5,7 +5,7 @@
   "description": "Data on revenue passenger kilometres (RPKs) and carbon dioxide emissions from aviation are sourced from the International Council on Clean Transportation (ICCT).\n\nIn its 2018 review of commercial aviation it provides data on RPKs and CO₂ emissions for domestic flights, international flights and total emissions for each country. Under this framework, 'international' RPKs and emissions are allocated to the <b>country of departure</b>.\n\nOur World in Data has calculated per capita RPKs and aviation emissions by dividing these values by population figures in 2018 for each country, sourced from the UN World Population Prospects: https://population.un.org/wpp/\n\nThese per capita footprints do not necessarily reflect the amount of travel by locals in a given location. This is especially true if a country has high tourist volumes: much of the departures will result from travellers rather than local residents. We have therefore also calculated 'adjusted' aviation footprints by multiplying per capita international RPKs and CO2 emissions by an adjustment factor.\n\nThis adjustment factor is taken as the ratio between inbound and outbound arrivals, sourced from the World Bank: https://datacatalog.worldbank.org/dataset/world-development-indicators.\n\nThis adjustment methodology was also featured in analysis by the ICCT here: https://theicct.org/blog/staff/not-every-tonne-of-aviation-CO2",
   "sources": [
     {
-      "name": "Aviation passenger kilometres and CO2 emissions (ICCT)",
+      "name": "Graver, Zhang & Rutherford (2019). International Council of Clean Transportation (ICCT).",
       "link": "https://theicct.org/publications/co2-emissions-commercial-aviation-2018",
       "retrievedDate": "1st September 2020",
       "additionalInfo": "Data on revenue passenger kilometres (RPKs) and carbon dioxide emissions from aviation are sourced from the International Council on Clean Transportation (ICCT).\n\nIn its 2018 review of commercial aviation it provides data on RPKs and CO₂ emissions for domestic flights, international flights and total emissions for each country. Under this framework, 'international' RPKs and emissions are allocated to the <b>country of departure</b>.\n\nOur World in Data has calculated per capita RPKs and aviation emissions by dividing these values by population figures in 2018 for each country, sourced from the UN World Population Prospects: https://population.un.org/wpp/\n\nThese per capita footprints do not necessarily reflect the amount of travel by locals in a given location. This is especially true if a country has high tourist volumes: much of the departures will result from travellers rather than local residents. We have therefore also calculated 'adjusted' aviation footprints by multiplying per capita international RPKs and CO2 emissions by an adjustment factor.\n\nThis adjustment factor is taken as the ratio between inbound and outbound arrivals, sourced from the World Bank: https://datacatalog.worldbank.org/dataset/world-development-indicators.\n\nThis adjustment methodology was also featured in analysis by the ICCT here: https://theicct.org/blog/staff/not-every-tonne-of-aviation-CO2",
@@ -123,8 +123,8 @@
           {
             "name": "Per capita aviation CO2",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Average per capita emissions of CO₂ from domestic and international passenger flights. International aviation emissions are allocated to the country of departure.",
+            "owidDisplaySettings": "{\"name\": \"Per capita CO₂ emissions from aviation\", \"unit\": \"kilograms\", \"shortUnit\": \"kg\", \"includeInTable\": true, \"conversionFactor\": 1000}"
           },
           {
             "name": "Per capita domestic aviation CO2",
@@ -166,7 +166,7 @@
             "name": "Per capita aviation CO2 - adjusted",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Per capita CO₂ emissions from aviation, tourism-adjusted\", \"unit\": \"kilograms\", \"shortUnit\": \"kg\", \"includeInTable\": true, \"conversionFactor\": 1000}"
           }
         ]
       }
