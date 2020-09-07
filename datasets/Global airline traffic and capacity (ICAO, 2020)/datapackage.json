@@ -5,7 +5,7 @@
   "description": "Global airline traffic and capacity data is sourced from 'Airlines for America': https://www.airlines.org/dataset/world-airlines-traffic-and-capacity/#\n\nThe source notes that:\n\"Traffic and operations data below reflects the systemwide scheduled activity of passenger and cargo airlines operating worldwide, as recorded by ICAO; domestic operations within the former USSR are excluded prior to 1970.\"\n",
   "sources": [
     {
-      "name": "Global airline traffic and capacity (ICAO, 2020)",
+      "name": "International Civil Aviation Organization (ICAO) via Airlines for America",
       "link": "https://www.airlines.org/dataset/world-airlines-traffic-and-capacity/#",
       "retrievedDate": "7th September 2020",
       "additionalInfo": "Global airline traffic and capacity data is sourced from 'Airlines for America': https://www.airlines.org/dataset/world-airlines-traffic-and-capacity/#\n\nThe source notes that:\n\"Traffic and operations data below reflects the systemwide scheduled activity of passenger and cargo airlines operating worldwide, as recorded by ICAO; domestic operations within the former USSR are excluded prior to 1970.\"\n",
@@ -44,31 +44,31 @@
           {
             "name": "Available seat kilometers; ASKs",
             "type": "any",
-            "description": null,
+            "description": "In the airline industry available kilometers is a measure of passenger carrying capacity. It is equal to the number of seats available multiplied by the number of kilometers flown. An available seat km is the fundamental unit of production for a passenger-carrying airline.",
             "owidDisplaySettings": "{\"name\": \"Available seat kilometers\", \"unit\": \"available seat kilometers\", \"shortUnit\": \"km\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Cargo revenue tonne kilometres; RTKs",
             "type": "any",
-            "description": null,
+            "description": "The number of revenue tonnes of cargo (freight and mail) carried multiplied by the\ndistance flown.",
             "owidDisplaySettings": "{\"name\": \"Cargo revenue tonne kilometers\", \"unit\": \"tonne kilometers\", \"shortUnit\": \"t-km\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Freight revenue tonne kilometres; RTKs",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"name\": \"Freight revenue. tonne kilometers\", \"unit\": \"tonnes kilometers\", \"shortUnit\": \"t-km\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+            "description": "The number of revenue tonnes of freight carried multiplied by the distance flown.",
+            "owidDisplaySettings": "{\"name\": \"Freight revenue tonne kilometers\", \"unit\": \"tonnes kilometers\", \"shortUnit\": \"t-km\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Freight tonnes",
             "type": "any",
-            "description": null,
+            "description": "The number of revenue tonnes of freight transported by air.",
             "owidDisplaySettings": "{\"name\": \"Freight tonnes\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Mail revenue tonne kilometers; RTKs",
             "type": "any",
-            "description": null,
+            "description": "The number of revenue tonnes of mail carried multiplied by the distance flown.",
             "owidDisplaySettings": "{\"name\": \"Mail revenue tonne kilometers\", \"unit\": \"tonnes kilometers\", \"shortUnit\": \"t-km\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
@@ -80,13 +80,13 @@
           {
             "name": "Passenger load factor (passengers / available seats)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"name\": \"Global airline passenger load factor\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+            "description": "The passenger load factor (PLF) measures the ratio of actual passengers to the available seats. It effectively measures the percentage of available seats that are taken by actual passengers.",
+            "owidDisplaySettings": "{\"name\": \"Global airline passenger load factor\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true, \"conversionFactor\": 100, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Revenue passenger kilometers",
             "type": "any",
-            "description": null,
+            "description": "The number of revenue passengers carried multiplied by the distance flown.",
             "owidDisplaySettings": "{\"name\": \"Airline revenue passenger kilometers\", \"unit\": \"kilometers\", \"shortUnit\": \"km\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           }
         ]
