@@ -2,13 +2,13 @@
   "name": "Global airline traffic and capacity (ICAO, 2020)",
   "title": "Global airline traffic and capacity (ICAO, 2020)",
   "id": 5164,
-  "description": "Global airline traffic and capacity data is sourced from 'Airlines for America': https://www.airlines.org/dataset/world-airlines-traffic-and-capacity/#\n\nThe source notes that:\n\"Traffic and operations data below reflects the systemwide scheduled activity of passenger and cargo airlines operating worldwide, as recorded by ICAO; domestic operations within the former USSR are excluded prior to 1970.\"\n",
+  "description": "Global airline traffic and capacity data is sourced from 'Airlines for America': https://www.airlines.org/dataset/world-airlines-traffic-and-capacity\n\nThe source notes that:\n\"Traffic and operations data below reflects the systemwide scheduled activity of passenger and cargo airlines operating worldwide, as recorded by ICAO; domestic operations within the former USSR are excluded prior to 1970.\"\n",
   "sources": [
     {
       "name": "International Civil Aviation Organization (ICAO) via Airlines for America",
-      "link": "https://www.airlines.org/dataset/world-airlines-traffic-and-capacity/#",
+      "link": "https://www.airlines.org/dataset/world-airlines-traffic-and-capacity",
       "retrievedDate": "7th September 2020",
-      "additionalInfo": "Global airline traffic and capacity data is sourced from 'Airlines for America': https://www.airlines.org/dataset/world-airlines-traffic-and-capacity/#\n\nThe source notes that:\n\"Traffic and operations data below reflects the systemwide scheduled activity of passenger and cargo airlines operating worldwide, as recorded by ICAO; domestic operations within the former USSR are excluded prior to 1970.\"\n",
+      "additionalInfo": "Global airline traffic and capacity data is sourced from 'Airlines for America': https://www.airlines.org/dataset/world-airlines-traffic-and-capacity\n\nThe source notes that:\n\"Traffic and operations data below reflects the systemwide scheduled activity of passenger and cargo airlines operating worldwide, as recorded by ICAO; domestic operations within the former USSR are excluded prior to 1970.\"\n",
       "dataPublishedBy": "Airlines for America",
       "dataPublisherSource": "International Civil Aviation Organization (ICAO)"
     }
