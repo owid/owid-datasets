@@ -2,12 +2,13 @@
   "name": "Global airline traffic and capacity (ICAO, 2020)",
   "title": "Global airline traffic and capacity (ICAO, 2020)",
   "id": 5164,
-  "description": "",
+  "description": "Global airline traffic and capacity data is sourced from 'Airlines for America': https://www.airlines.org/dataset/world-airlines-traffic-and-capacity/#\n\nThe source notes that:\n\"Traffic and operations data below reflects the systemwide scheduled activity of passenger and cargo airlines operating worldwide, as recorded by ICAO; domestic operations within the former USSR are excluded prior to 1970.\"\n",
   "sources": [
     {
       "name": "Global airline traffic and capacity (ICAO, 2020)",
       "link": "https://www.airlines.org/dataset/world-airlines-traffic-and-capacity/#",
       "retrievedDate": "7th September 2020",
+      "additionalInfo": "Global airline traffic and capacity data is sourced from 'Airlines for America': https://www.airlines.org/dataset/world-airlines-traffic-and-capacity/#\n\nThe source notes that:\n\"Traffic and operations data below reflects the systemwide scheduled activity of passenger and cargo airlines operating worldwide, as recorded by ICAO; domestic operations within the former USSR are excluded prior to 1970.\"\n",
       "dataPublishedBy": "Airlines for America",
       "dataPublisherSource": "International Civil Aviation Organization (ICAO)"
     }
@@ -29,64 +30,64 @@
             "type": "year"
           },
           {
-            "name": "Aircraft Departures (000s)",
+            "name": "Aircraft Departures",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Global aircraft departures\", \"unit\": \"departures\", \"includeInTable\": true, \"conversionFactor\": 1000, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Aircraft travel distance (million kilometers)",
+            "name": "Aircraft travel distance",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Aircraft travel distance\", \"unit\": \"kilometers\", \"shortUnit\": \"km\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Available seat kilometers; ASKs (millions)",
+            "name": "Available seat kilometers; ASKs",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Available seat kilometers\", \"unit\": \"available seat kilometers\", \"shortUnit\": \"km\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Cargo revenue tonne kilometres; RTKs (millions)",
+            "name": "Cargo revenue tonne kilometres; RTKs",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Cargo revenue tonne kilometers\", \"unit\": \"tonne kilometers\", \"shortUnit\": \"t-km\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Freight revenue tonne kilometres; RTKs (millions)",
+            "name": "Freight revenue tonne kilometres; RTKs",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Freight revenue. tonne kilometers\", \"unit\": \"tonnes kilometers\", \"shortUnit\": \"t-km\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Freight tonnes (millions)",
+            "name": "Freight tonnes",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Freight tonnes\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Mail revenue tonne kilometers; RTKs (millions)",
+            "name": "Mail revenue tonne kilometers; RTKs",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Mail revenue tonne kilometers\", \"unit\": \"tonnes kilometers\", \"shortUnit\": \"t-km\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Number of passengers (millions)",
+            "name": "Number of passengers",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Global number of airline passengers\", \"unit\": \"passengers\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Passenger load factor (passengers / available seats)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Global airline passenger load factor\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Revenue passenger kilometers (millions)",
+            "name": "Revenue passenger kilometers",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Airline revenue passenger kilometers\", \"unit\": \"kilometers\", \"shortUnit\": \"km\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           }
         ]
       }

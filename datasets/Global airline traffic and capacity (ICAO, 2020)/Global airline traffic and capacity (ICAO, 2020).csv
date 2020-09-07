@@ -1,4 +1,4 @@
-Entity,Year,Aircraft Departures (000s),Aircraft travel distance (million kilometers),Available seat kilometers; ASKs (millions),Cargo revenue tonne kilometres; RTKs (millions),Freight revenue tonne kilometres; RTKs (millions),Freight tonnes (millions),Mail revenue tonne kilometers; RTKs (millions),Number of passengers (millions),Passenger load factor (passengers / available seats),Revenue passenger kilometers (millions)
+Entity,Year,Aircraft Departures,Aircraft travel distance,Available seat kilometers; ASKs,Cargo revenue tonne kilometres; RTKs,Freight revenue tonne kilometres; RTKs,Freight tonnes,Mail revenue tonne kilometers; RTKs,Number of passengers,Passenger load factor (passengers / available seats),Revenue passenger kilometers
 World,1929,,90,,,,,,,,170
 World,1930,,120,,,,,,,,270
 World,1931,,135,,,,,,,,330
