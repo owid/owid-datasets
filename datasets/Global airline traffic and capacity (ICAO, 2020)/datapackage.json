@@ -1,0 +1,95 @@
+{
+  "name": "Global airline traffic and capacity (ICAO, 2020)",
+  "title": "Global airline traffic and capacity (ICAO, 2020)",
+  "id": 5164,
+  "description": "",
+  "sources": [
+    {
+      "name": "Global airline traffic and capacity (ICAO, 2020)",
+      "link": "https://www.airlines.org/dataset/world-airlines-traffic-and-capacity/#",
+      "retrievedDate": "7th September 2020",
+      "dataPublishedBy": "Airlines for America",
+      "dataPublisherSource": "International Civil Aviation Organization (ICAO)"
+    }
+  ],
+  "owidTags": [
+    "Transport"
+  ],
+  "resources": [
+    {
+      "path": "Global airline traffic and capacity (ICAO, 2020).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Aircraft Departures (000s)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Aircraft travel distance (million kilometers)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Available seat kilometers; ASKs (millions)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Cargo revenue tonne kilometres; RTKs (millions)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Freight revenue tonne kilometres; RTKs (millions)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Freight tonnes (millions)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Mail revenue tonne kilometers; RTKs (millions)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Number of passengers (millions)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Passenger load factor (passengers / available seats)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Revenue passenger kilometers (millions)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
