@@ -131,6 +131,39 @@ International flight,2015,0.591538039
 International flight,2016,0.575775976
 International flight,2017,0.573665941
 International flight,2018,0.566126585
+Large road vehicles,1970,1.240196478
+Large road vehicles,1975,1.196546443
+Large road vehicles,1980,1.039683832
+Large road vehicles,1985,0.905337116
+Large road vehicles,1990,0.810623562
+Large road vehicles,1991,0.778822469
+Large road vehicles,1992,0.775107108
+Large road vehicles,1993,0.778475491
+Large road vehicles,1994,0.791279984
+Large road vehicles,1995,0.826423527
+Large road vehicles,1996,0.826997706
+Large road vehicles,1997,0.831113689
+Large road vehicles,1998,0.832045826
+Large road vehicles,1999,0.838394764
+Large road vehicles,2000,0.821074576
+Large road vehicles,2001,0.725693199
+Large road vehicles,2002,0.750535874
+Large road vehicles,2003,0.810650495
+Large road vehicles,2004,0.810650495
+Large road vehicles,2005,0.742474811
+Large road vehicles,2006,0.736081129
+Large road vehicles,2007,0.826149617
+Large road vehicles,2008,0.757397563
+Large road vehicles,2009,0.81995464
+Large road vehicles,2010,0.823991966
+Large road vehicles,2011,0.827176797
+Large road vehicles,2012,0.823470918
+Large road vehicles,2013,0.818768908
+Large road vehicles,2014,0.819617638
+Large road vehicles,2015,0.806235201
+Large road vehicles,2016,0.800644076
+Large road vehicles,2017,0.770915543
+Large road vehicles,2018,0.756090269
 Motorcycle,1970,0.455265823
 Motorcycle,1975,0.42870865
 Motorcycle,1980,0.38697595
@@ -164,41 +197,41 @@ Motorcycle,2015,0.448110151
 Motorcycle,2016,0.446918523
 Motorcycle,2017,0.446305398
 Motorcycle,2018,0.44620029
-Passenger car,1960,0.818504332
-Passenger car,1965,0.811368549
-Passenger car,1970,0.881658277
-Passenger car,1975,0.863700311
-Passenger car,1980,0.791759763
-Passenger car,1985,0.777452272
-Passenger car,1990,0.693951201
-Passenger car,1991,0.665484817
-Passenger car,1992,0.674609928
-Passenger car,1993,0.689667034
-Passenger car,1994,0.6866825
-Passenger car,1995,0.677581649
-Passenger car,1996,0.671518984
-Passenger car,1997,0.66594265
-Passenger car,1998,0.662392112
-Passenger car,1999,0.667446513
-Passenger car,2000,0.653657882
-Passenger car,2001,0.654978463
-Passenger car,2002,0.65561803
-Passenger car,2003,0.650140324
-Passenger car,2004,0.639056584
-Passenger car,2005,0.652871459
-Passenger car,2006,0.639244589
-Passenger car,2007,0.613256795
-Passenger car,2008,0.609009794
-Passenger car,2009,0.571153826
-Passenger car,2010,0.575975164
-Passenger car,2011,0.580571229
-Passenger car,2012,0.577816384
-Passenger car,2013,0.575039187
-Passenger car,2014,0.580462448
-Passenger car,2015,0.564827431
-Passenger car,2016,0.562886316
-Passenger car,2017,0.562726734
-Passenger car,2018,0.558981637
+Small passenger vehicles,1960,0.818504332
+Small passenger vehicles,1965,0.811368549
+Small passenger vehicles,1970,0.881658277
+Small passenger vehicles,1975,0.863700311
+Small passenger vehicles,1980,0.791759763
+Small passenger vehicles,1985,0.777452272
+Small passenger vehicles,1990,0.693951201
+Small passenger vehicles,1991,0.665484817
+Small passenger vehicles,1992,0.674609928
+Small passenger vehicles,1993,0.689667034
+Small passenger vehicles,1994,0.6866825
+Small passenger vehicles,1995,0.677581649
+Small passenger vehicles,1996,0.671518984
+Small passenger vehicles,1997,0.66594265
+Small passenger vehicles,1998,0.662392112
+Small passenger vehicles,1999,0.667446513
+Small passenger vehicles,2000,0.653657882
+Small passenger vehicles,2001,0.654978463
+Small passenger vehicles,2002,0.65561803
+Small passenger vehicles,2003,0.650140324
+Small passenger vehicles,2004,0.639056584
+Small passenger vehicles,2005,0.652871459
+Small passenger vehicles,2006,0.639244589
+Small passenger vehicles,2007,0.613256795
+Small passenger vehicles,2008,0.609009794
+Small passenger vehicles,2009,0.571153826
+Small passenger vehicles,2010,0.575975164
+Small passenger vehicles,2011,0.580571229
+Small passenger vehicles,2012,0.577816384
+Small passenger vehicles,2013,0.575039187
+Small passenger vehicles,2014,0.580462448
+Small passenger vehicles,2015,0.564827431
+Small passenger vehicles,2016,0.562886316
+Small passenger vehicles,2017,0.562726734
+Small passenger vehicles,2018,0.558981637
 Transit motor bus,1996,0.759396507
 Transit motor bus,1997,0.684840375
 Transit motor bus,1998,0.675902741
@@ -246,36 +279,3 @@ Truck (with trailer),2015,3.862278035
 Truck (with trailer),2016,3.854104878
 Truck (with trailer),2017,3.808330395
 Truck (with trailer),2018,3.748256846
-Van,1970,1.240196478
-Van,1975,1.196546443
-Van,1980,1.039683832
-Van,1985,0.905337116
-Van,1990,0.810623562
-Van,1991,0.778822469
-Van,1992,0.775107108
-Van,1993,0.778475491
-Van,1994,0.791279984
-Van,1995,0.826423527
-Van,1996,0.826997706
-Van,1997,0.831113689
-Van,1998,0.832045826
-Van,1999,0.838394764
-Van,2000,0.821074576
-Van,2001,0.725693199
-Van,2002,0.750535874
-Van,2003,0.810650495
-Van,2004,0.810650495
-Van,2005,0.742474811
-Van,2006,0.736081129
-Van,2007,0.826149617
-Van,2008,0.757397563
-Van,2009,0.81995464
-Van,2010,0.823991966
-Van,2011,0.827176797
-Van,2012,0.823470918
-Van,2013,0.818768908
-Van,2014,0.819617638
-Van,2015,0.806235201
-Van,2016,0.800644076
-Van,2017,0.770915543
-Van,2018,0.756090269
