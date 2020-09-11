@@ -1,0 +1,41 @@
+{
+  "name": "Energy efficiency by passenger mode in USA (BTS)",
+  "title": "Energy efficiency by passenger mode in USA (BTS)",
+  "id": 5167,
+  "description": "",
+  "sources": [
+    {
+      "name": "United States Department of Transportation. Bureau of Transportation Statistics (BTS)",
+      "link": "https://www.bts.gov/content/energy-intensity-passenger-modes",
+      "retrievedDate": "11th September 2020",
+      "dataPublishedBy": "United States Department of Transportation. Bureau of Transportation Statistics (BTS)."
+    }
+  ],
+  "owidTags": [
+    "Energy Efficiency",
+    "Transport"
+  ],
+  "resources": [
+    {
+      "path": "Energy efficiency by passenger mode in USA (BTS).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Energy intensity (kWh per passenger-km)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}

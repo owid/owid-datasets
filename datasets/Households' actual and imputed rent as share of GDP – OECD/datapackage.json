@@ -1,0 +1,52 @@
+{
+  "name": "Households' actual and imputed rent as share of GDP – OECD",
+  "title": "Households' actual and imputed rent as share of GDP – OECD",
+  "id": 5166,
+  "description": "The OECD collects National Accounts data from member states and a limited number of non-member states. Within the 'Final consumption expenditure of households' tables, it provides a breakdown of household final expenditure by purpose, according to the COICOP classification (Classification of Individual Consumption According to Purpose). This includes actual and imputed rent. Imputed rent is an estimate of the rent foregone by home owners in living in their own property, rather than renting it out.",
+  "sources": [
+    {
+      "name": "Actual and imputed rent as share of GDP – OECD",
+      "link": "https://stats.oecd.org/Index.aspx?DataSetCode=SNA_TABLE6A#",
+      "retrievedDate": "11/09/2020",
+      "additionalInfo": "The OECD collects National Accounts data from member states and a limited number of non-member states. Within the 'Final consumption expenditure of households' tables, it provides a breakdown of household final expenditure by purpose, according to the COICOP classification (Classification of Individual Consumption According to Purpose). This includes actual and imputed rent. Imputed rent is an estimate of the rent foregone by home owners in living in their own property, rather than renting it out.",
+      "dataPublishedBy": "OECD",
+      "dataPublisherSource": "National Accounts of individual countries"
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "Households' actual and imputed rent as share of GDP – OECD.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Actual rents as share of GDP",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Imputed rents as share of GDP",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Actual and imputed rents as share of GDP",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# Households' actual and imputed rent as share of GDP – OECD
+
+The OECD collects National Accounts data from member states and a limited number of non-member states. Within the 'Final consumption expenditure of households' tables, it provides a breakdown of household final expenditure by purpose, according to the COICOP classification (Classification of Individual Consumption According to Purpose). This includes actual and imputed rent. Imputed rent is an estimate of the rent foregone by home owners in living in their own property, rather than renting it out.
