@@ -1,0 +1,3 @@
+# Household expenditure on Housing, water, electricity, gas and other fuels as a share of GDP - UN
+
+The UN collects National Accounts data from individual countries. Within the 'Individual consumption expenditure of households, NPISHs, and general government at current prices' tables, it provides a breakdown of household final expenditure by purpose, according to the COICOP classification (Classification of Individual Consumption According to Purpose). Category 4 relates to Housing, water, electricity, gas and other fuels, which includes actual and imputed rent, as well expenditure on the utilities indicated.

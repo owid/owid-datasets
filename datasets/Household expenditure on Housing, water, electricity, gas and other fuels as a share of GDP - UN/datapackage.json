@@ -1,0 +1,40 @@
+{
+  "name": "Household expenditure on Housing, water, electricity, gas and other fuels as a share of GDP - UN",
+  "title": "Household expenditure on Housing, water, electricity, gas and other fuels as a share of GDP - UN",
+  "id": 5168,
+  "description": "The UN collects National Accounts data from individual countries. Within the 'Individual consumption expenditure of households, NPISHs, and general government at current prices' tables, it provides a breakdown of household final expenditure by purpose, according to the COICOP classification (Classification of Individual Consumption According to Purpose). Category 4 relates to Housing, water, electricity, gas and other fuels, which includes actual and imputed rent, as well expenditure on the utilities indicated.",
+  "sources": [
+    {
+      "name": "Household expenditure on Housing, water, electricity, gas and other fuels as a share of GDP - UN",
+      "link": "http://data.un.org/Data.aspx?d=SNA&f=group_code%3a302%3bitem_code%3a4",
+      "retrievedDate": "11/09/2020",
+      "additionalInfo": "The UN collects National Accounts data from individual countries. Within the 'Individual consumption expenditure of households, NPISHs, and general government at current prices' tables, it provides a breakdown of household final expenditure by purpose, according to the COICOP classification (Classification of Individual Consumption According to Purpose). Category 4 relates to Housing, water, electricity, gas and other fuels, which includes actual and imputed rent, as well expenditure on the utilities indicated.",
+      "dataPublishedBy": "UN",
+      "dataPublisherSource": "National Accounts"
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "Household expenditure on Housing, water, electricity, gas and other fuels as a share of GDP - UN.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Household expenditure on Housing, water, electricity, gas and other fuels as a share of GDP",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
