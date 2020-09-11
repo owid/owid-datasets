@@ -199,14 +199,6 @@ Passenger car,2015,0.564827431
 Passenger car,2016,0.562886316
 Passenger car,2017,0.562726734
 Passenger car,2018,0.558981637
-Transit motor bus,1980,0.499369804
-Transit motor bus,1985,0.61715835
-Transit motor bus,1990,0.677953922
-Transit motor bus,1991,0.686079082
-Transit motor bus,1992,0.735349193
-Transit motor bus,1993,0.718236087
-Transit motor bus,1994,0.757883925
-Transit motor bus,1995,0.75670689
 Transit motor bus,1996,0.759396507
 Transit motor bus,1997,0.684840375
 Transit motor bus,1998,0.675902741
@@ -230,27 +222,6 @@ Transit motor bus,2015,0.577379993
 Transit motor bus,2016,0.583366106
 Transit motor bus,2017,0.604376768
 Transit motor bus,2018,0.600774953
-Truck,1970,3.335354652
-Truck,1975,3.565192108
-Truck,1980,3.95826149
-Truck,1985,3.706467536
-Truck,1990,3.665301714
-Truck,1991,3.516609614
-Truck,1992,3.480365841
-Truck,1993,3.403346991
-Truck,1994,3.354840509
-Truck,1995,3.34561026
-Truck,1996,3.342758682
-Truck,1997,3.258676083
-Truck,1998,3.259825041
-Truck,1999,3.034524081
-Truck,2000,2.166343404
-Truck,2001,2.126788094
-Truck,2002,2.189135673
-Truck,2003,1.793326286
-Truck,2004,1.833260695
-Truck,2005,1.970873851
-Truck,2006,1.818658277
 Truck,2007,3.095296969
 Truck,2008,3.076291544
 Truck,2009,3.077713938
@@ -263,28 +234,6 @@ Truck,2015,3.084441091
 Truck,2016,3.080647595
 Truck,2017,3.058541831
 Truck,2018,3.032639149
-Truck (with trailer),1965,4.786293781
-Truck (with trailer),1970,4.760763462
-Truck (with trailer),1975,4.470908377
-Truck (with trailer),1980,4.321107587
-Truck (with trailer),1985,4.083879594
-Truck (with trailer),1990,3.892689036
-Truck (with trailer),1991,3.959109743
-Truck (with trailer),1992,3.938225512
-Truck (with trailer),1993,3.917945727
-Truck (with trailer),1994,3.897878218
-Truck (with trailer),1995,3.899399826
-Truck (with trailer),1996,3.865869795
-Truck (with trailer),1997,3.709411713
-Truck (with trailer),1998,4.46153555
-Truck (with trailer),1999,4.219166663
-Truck (with trailer),2000,3.623444663
-Truck (with trailer),2001,3.43691556
-Truck (with trailer),2002,3.583254861
-Truck (with trailer),2003,3.123897008
-Truck (with trailer),2004,3.18376601
-Truck (with trailer),2005,3.599043784
-Truck (with trailer),2006,3.60813131
 Truck (with trailer),2007,3.819161617
 Truck (with trailer),2008,3.784373516
 Truck (with trailer),2009,3.798393939
