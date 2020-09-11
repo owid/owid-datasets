@@ -5,7 +5,7 @@
   "description": "",
   "sources": [
     {
-      "name": "United States Department of Transportation. Bureau of Transportation Statistics (BTS)",
+      "name": "United States Department of Transportation, Bureau of Transportation Statistics (BTS)",
       "link": "https://www.bts.gov/content/energy-intensity-passenger-modes",
       "retrievedDate": "11th September 2020",
       "dataPublishedBy": "United States Department of Transportation. Bureau of Transportation Statistics (BTS)."
@@ -31,8 +31,8 @@
           {
             "name": "Energy intensity (kWh per passenger-km)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Energy intensity of travel is measured in kilowatt-hours per passenger-kilometer (kWh/km)",
+            "owidDisplaySettings": "{\"name\": \"Energy intensity per passenger kilometer\", \"unit\": \"kilowatt-hours per passenger kilometer\", \"shortUnit\": \"kWh\", \"includeInTable\": true}"
           }
         ]
       }
