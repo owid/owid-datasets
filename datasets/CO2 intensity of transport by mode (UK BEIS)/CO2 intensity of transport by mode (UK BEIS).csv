@@ -1,0 +1,37 @@
+Entity,Year,GHG emissions (gCO2e/km),CO2 emissions (gCO2/km),Non-CO2 emissions (gCO2e/km)
+Black cab (taxi),2018,0.21176,0.21053,0.00123
+Bus,2018,0.10471,0.10391,0.0008
+Coach,2018,0.02779,0.02728,0.00051
+"Diesel car, 2 passengers",2018,0.085305,0.084385,0.00092
+"Diesel car, 4 passengers",2018,0.0426525,0.0421925,0.00046
+Domestic flight,2018,0.13483,0.13345,0.00138
+Eurostar (international rail),2018,0.00597,0.00592,5E-05
+Ferry (car passenger),2018,0.129518,0.127739,0.001779
+Ferry (foot passenger),2018,0.018738,0.01848,0.000258
+Large car (diesel),2018,0.20947,0.20763,0.00184
+Large car (hybrid),2018,0.13177,0.13022,0.00155
+Large car (petrol),2018,0.28295,0.28225,0.0007
+Large car (plug-in hybrid electric),2018,0.07731,0.07685,0.00046
+Light rail and tram,2018,0.03508,0.0348,0.00028
+London Underground,2018,0.03084,0.03059,0.00025
+Long-haul flight (business class),2018,0.22969,0.22752,0.00217
+Long-haul flight (economy),2018,0.0792,0.07845,0.00075
+Long-haul flight (economy+),2018,0.12673,0.12553,0.0012
+Long-haul flight (first class),2018,0.31681,0.31382,0.00299
+Medium car (diesel),2018,0.17061,0.16877,0.00184
+Medium car (hybrid),2018,0.10895,0.10764,0.00131
+Medium car (petrol),2018,0.19228,0.19158,0.0007
+Medium car (plug-in hybrid electric),2018,0.07083,0.0704,0.00043
+Motorcycle (large),2018,0.13501,0.13308,0.00193
+Motorcycle (medium),2018,0.10289,0.10004,0.00285
+Motorcycle (small),2018,0.08445,0.08241,0.00204
+National rail,2018,0.04115,0.04077,0.00038
+"Petrol car, 2 passengers",2018,0.09614,0.09579,0.00035
+"Petrol car, 4 passengers",2018,0.04807,0.047895,0.000175
+Short-haul flight (business class),2018,0.1235,0.12233,0.00117
+Short-haul flight (economy),2018,0.08233,0.08155,0.00078
+Small car (diesel),2018,0.14208,0.14024,0.00184
+Small car (hybrid),2018,0.1052,0.10409,0.00111
+Small car (petrol),2018,0.15371,0.15301,0.0007
+Small car (plug-in hybrid electric),2018,0.02935,0.02918,0.00017
+Taxi,2018,0.15018,0.14886,0.00132

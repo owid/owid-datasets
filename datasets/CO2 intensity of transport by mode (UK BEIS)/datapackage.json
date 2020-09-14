@@ -1,0 +1,53 @@
+{
+  "name": "CO2 intensity of transport by mode (UK BEIS)",
+  "title": "CO2 intensity of transport by mode (UK BEIS)",
+  "id": 5169,
+  "description": "",
+  "sources": [
+    {
+      "name": "UK Department for Business, Energy & Industrial Strategy. Greenhouse gas reporting: conversion factors 2019.",
+      "link": "https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2019",
+      "retrievedDate": "12th September 2020",
+      "dataPublishedBy": "UK Department for Business, Energy & Industrial Strategy (BEIS)"
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions",
+    "Transport"
+  ],
+  "resources": [
+    {
+      "path": "CO2 intensity of transport by mode (UK BEIS).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "GHG emissions (gCO2e/km)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "CO2 emissions (gCO2/km)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Non-CO2 emissions (gCO2e/km)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
