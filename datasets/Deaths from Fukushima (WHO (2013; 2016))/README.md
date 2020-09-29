@@ -14,7 +14,7 @@ Sources:
 
 World Health Organisation (2013). Health risk assessment from the nuclear accident after the 2011 Great East Japan Earthquake and Tsunami based on a preliminary dose estimation. Available at: http://apps.who.int/iris/bitstream/10665/78218/1/9789241505130_eng.pdf
 
-The Yomiuri Shimbun, 573 deaths ‘related to nuclear crisis’, The Yomiuri Shimbun, 5 February 2012, http://www.yomiuri.co.jp/dy/national/T120204003191.htm.
+The Yomiuri Shimbun, 573 deaths ‘related to nuclear crisis’, The Yomiuri Shimbun, 5 February 2012, https://wayback.archive-it.org/all/20120204190315/http://www.yomiuri.co.jp/dy/national/T120204003191.htm.
 
 World Health Organization (2016). FAQs: Fukushima Five Years On. Available online at: https://www.who.int/ionizing_radiation/a_e/fukushima/faqs-fukushima/en/.
 
