@@ -1,0 +1,53 @@
+{
+  "name": "Global Carbon Budget (GCP, 2020)",
+  "title": "Global Carbon Budget (GCP, 2020)",
+  "id": 5174,
+  "description": "The Global Carbon Budget provides global CO2 emissions data separated into two categories:\n– emissions from fossil fuels and industry (which includes coal, oil, gas, flaring, and cement production)\n– land use change emissions.\n\nData has been converted by Our World in Data from tonnes of carbon to tonnes of carbon dioxide (CO₂) using a conversion factor of 3.664.\n\nCitations for the underlying datasets are as follows.\n\nFossil fuel and industrial emissions:\nGilfillan, D., Marland, G., Boden, T. and Andres, R.: Global, Regional, and National Fossil-Fuel CO2 Emissions, available at: https://energy.appstate.edu/CDIAC, last access: 27 September 2019.\n\nLand use change emissions (Average of two bookkeeping models):\nHoughton, R. A. and Nassikas, A. A.: Global and regional fluxes of carbon from land use and land cover change 1850-2015, Global Biogeochemical Cycles, 31, 456-472, 2017;  \nHansis, E., Davis, S. J., and Pongratz, J.: Relevance of methodological choices for accounting of land use change carbon fluxes, Global Biogeochemical Cycles, 29, 1230-1246, 2015.",
+  "sources": [
+    {
+      "name": "Global Carbon Project (GCP)",
+      "link": "https://doi.org/10.18160/gcp-2019",
+      "retrievedDate": "29th September 2020",
+      "additionalInfo": "The Global Carbon Budget provides global CO2 emissions data separated into two categories:\n– emissions from fossil fuels and industry (which includes coal, oil, gas, flaring, and cement production)\n– land use change emissions.\n\nData has been converted by Our World in Data from tonnes of carbon to tonnes of carbon dioxide (CO₂) using a conversion factor of 3.664.\n\nCitations for the underlying datasets are as follows.\n\nFossil fuel and industrial emissions:\nGilfillan, D., Marland, G., Boden, T. and Andres, R.: Global, Regional, and National Fossil-Fuel CO2 Emissions, available at: https://energy.appstate.edu/CDIAC, last access: 27 September 2019.\n\nLand use change emissions (Average of two bookkeeping models):\nHoughton, R. A. and Nassikas, A. A.: Global and regional fluxes of carbon from land use and land cover change 1850-2015, Global Biogeochemical Cycles, 31, 456-472, 2017;  \nHansis, E., Davis, S. J., and Pongratz, J.: Relevance of methodological choices for accounting of land use change carbon fluxes, Global Biogeochemical Cycles, 29, 1230-1246, 2015.",
+      "dataPublishedBy": " Global Carbon Project. (2019). Supplemental data of Global Carbon Budget 2019 (Version 1.0) [Data set]. Global Carbon Project."
+    }
+  ],
+  "owidTags": [
+    "CO2 and Greenhouse Gas Emissions"
+  ],
+  "resources": [
+    {
+      "path": "Global Carbon Budget (GCP, 2020).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Fossil fuel and industry emissions (GtCO2)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Land use emissions (GtCO2)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Global CO2 emissions (GtCO2)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
