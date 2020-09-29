@@ -1,4 +1,4 @@
-# Solar PV Costs & Capacity - Lafond et al. (2017) & IRENA
+# Solar PV Module Costs & Capacity - Lafond et al. (2017) & IRENA
 
 Solar photovoltaic (PV) data for the years 1976-2009 are sourced from Lafond et al. (2017). The authors sourced this data from the Navigant Research series (https://www.navigantresearch.com/).
 
