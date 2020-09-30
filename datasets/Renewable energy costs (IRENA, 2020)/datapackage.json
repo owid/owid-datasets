@@ -1,0 +1,227 @@
+{
+  "name": "Renewable energy costs (IRENA, 2020)",
+  "title": "Renewable energy costs (IRENA, 2020)",
+  "id": 5176,
+  "description": "",
+  "sources": [
+    {
+      "name": "International Renewable Energy Agency (IRENA)",
+      "link": "https://www.irena.org/publications/2020/Jun/Renewable-Power-Costs-in-2019",
+      "retrievedDate": "29th September 2020",
+      "dataPublishedBy": ": IRENA (2020), Renewable Power Generation Costs in 2019, International Renewable Energy Agency, Abu Dhabi."
+    }
+  ],
+  "owidTags": [
+    "Energy",
+    "Renewable Energy"
+  ],
+  "resources": [
+    {
+      "path": "Renewable energy costs (IRENA, 2020).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Onshore wind turbine nameplate capacity (MW)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Onshore turbine rotor diameter (m)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Total installed cost onshore wind (2019 USD/kW)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Onshore wind capacity factor",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Onshore wind LCOE (2019 USD/kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Total installed solar cost (2019 USD/kW)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Solar LCOE (2019 USD/kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Total installed solar cost, residential",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Total installed solar cost, commercial",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Solar capacity factor",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Solar LCOE, residential (USD/kW)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Solar LCOE, commercial (USD/kW)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Solar PV module price (2019 USD/W)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Offshore wind average turbine rating (MW)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Offshore wind average project capacity (MW)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Offshore wind total installed costs (2019 USD/kW)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Offshore wind capacity factor",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Offshore wind LCOE (2019 USD/kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Hydro total installed costs (2018 USD/kW)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Hydro total installed costs, large ",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Hydro total installed costs, small",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Hydro capacity factor",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Hydro LCOE (219 USD/kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Geothermal total installed costs (2018 USD/kW)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Geothermal capacity factor",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Geothermal LCOE (219 USD/kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Bioenergy total installed costs (2018 USD/kW)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Bioenergy capacity factor",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Bioenergy LCOE (2019 USD/kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "CSP total installed costs (2019 USD/kW)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "CSP capacity factor",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "CSP LCOE (2019 USD/kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
