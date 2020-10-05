@@ -1,0 +1,40 @@
+{
+  "name": "Air travel trips per capita (Airbus, 2019)",
+  "title": "Air travel trips per capita (Airbus, 2019)",
+  "id": 5193,
+  "description": "",
+  "sources": [
+    {
+      "name": "Airbus (2019)",
+      "link": "https://www.airbus.com/aircraft/market/global-market-forecast.html",
+      "retrievedDate": "5th October 2020",
+      "dataPublishedBy": "Airbus (2019). Global Market Forecast, 2019-2018."
+    }
+  ],
+  "owidTags": [
+    "Transport"
+  ],
+  "resources": [
+    {
+      "path": "Air travel trips per capita (Airbus, 2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Air travel trips per capita",
+            "type": "any",
+            "description": "The allocation of air travel trips to each country is based on the number of passengers originating from that respective country.",
+            "owidDisplaySettings": "{\"name\": \"Air travel trips per capita\", \"unit\": \"trips per capita\", \"includeInTable\": true}"
+          }
+        ]
+      }
+    }
+  ]
+}

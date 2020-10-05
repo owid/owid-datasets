@@ -1,0 +1,403 @@
+Entity,Year,Air travel trips per capita
+Afghanistan,2018,0.04
+Afghanistan,2019,0.04
+Albania,2018,0.65
+Albania,2019,0.69
+Algeria,2018,0.18
+Algeria,2019,0.19
+American Samoa,2018,0.91
+American Samoa,2019,0.93
+Angola,2018,0.04
+Angola,2019,0.04
+Anguilla,2018,0.73
+Anguilla,2019,0.75
+Antigua and Barbuda,2018,2.86
+Antigua and Barbuda,2019,2.96
+Argentina,2018,0.41
+Argentina,2019,0.41
+Armenia,2018,0.56
+Armenia,2019,0.59
+Aruba,2018,10.39
+Aruba,2019,10.69
+Australia,2018,3.03
+Australia,2019,3.09
+Austria,2018,1.45
+Austria,2019,1.51
+Azerbaijan,2018,0.22
+Azerbaijan,2019,0.22
+Bahamas,2018,4.48
+Bahamas,2019,4.6
+Bahrain,2018,1.24
+Bahrain,2019,1.27
+Bangladesh,2018,0.05
+Bangladesh,2019,0.05
+Barbados,2018,2.8
+Barbados,2019,2.89
+Belarus,2018,0.15
+Belarus,2019,0.16
+Belgium,2018,1.27
+Belgium,2019,1.32
+Belize,2018,3.66
+Belize,2019,3.73
+Benin,2018,0.02
+Benin,2019,0.02
+Bermuda,2018,6.86
+Bermuda,2019,7.1
+Bhutan,2018,0.38
+Bhutan,2019,0.41
+Bolivia,2018,0.4
+Bolivia,2019,0.41
+Bosnia and Herzegovina,2018,0.25
+Bosnia and Herzegovina,2019,0.26
+Botswana,2018,0.16
+Botswana,2019,0.17
+Brazil,2018,0.45
+Brazil,2019,0.46
+Brunei,2018,1.05
+Brunei,2019,1.11
+Bulgaria,2018,0.98
+Bulgaria,2019,1.05
+Burkina Faso,2018,0.01
+Burkina Faso,2019,0.01
+Burundi,2018,0.01
+Burundi,2019,0.01
+Cambodia,2018,0.33
+Cambodia,2019,0.37
+Cameroon,2018,0.03
+Cameroon,2019,0.03
+Canada,2018,1.95
+Canada,2019,1.96
+Cape Verde,2018,1.35
+Cape Verde,2019,1.4
+Cayman Islands,2018,9
+Cayman Islands,2019,9.24
+Central African Republic,2018,0.02
+Central African Republic,2019,0.02
+Chad,2018,0.01
+Chad,2019,0.01
+Chile,2018,0.89
+Chile,2019,0.93
+China,2018,0.43
+China,2019,0.46
+Colombia,2018,0.56
+Colombia,2019,0.58
+Comoros,2018,0.17
+Comoros,2019,0.17
+Congo,2018,0.1
+Congo,2019,0.1
+Costa Rica,2018,0.46
+Costa Rica,2019,0.48
+Cote d'Ivoire,2018,0.04
+Cote d'Ivoire,2019,0.04
+Croatia,2018,1.8
+Croatia,2019,1.91
+Cuba,2018,0.31
+Cuba,2019,0.32
+Curacao,2018,3.6
+Curacao,2019,3.69
+Cyprus,2018,6.79
+Cyprus,2019,7.11
+Czech Republic,2018,0.96
+Czech Republic,2019,1.01
+Democratic Republic of Congo,2018,0.01
+Democratic Republic of Congo,2019,0.01
+Denmark,2018,2.87
+Denmark,2019,2.96
+Djibouti,2018,0.22
+Djibouti,2019,0.23
+Dominica,2018,1.06
+Dominica,2019,1.15
+Dominican Republic,2018,0.5
+Dominican Republic,2019,0.52
+Ecuador,2018,0.35
+Ecuador,2019,0.35
+Egypt,2018,0.15
+Egypt,2019,0.16
+El Salvador,2018,0.17
+El Salvador,2019,0.18
+Equatorial Guinea,2018,0.16
+Equatorial Guinea,2019,0.16
+Eritrea,2018,0.04
+Eritrea,2019,0.04
+Estonia,2018,1.09
+Estonia,2019,1.16
+Ethiopia,2018,0.03
+Ethiopia,2019,0.03
+Fiji,2018,1.45
+Fiji,2019,1.48
+Finland,2018,1.61
+Finland,2019,1.66
+France,2018,1.31
+France,2019,1.35
+French Guiana,2018,0.69
+French Guiana,2019,0.7
+Gabon,2018,0.31
+Gabon,2019,0.32
+Gambia,2018,0.06
+Gambia,2019,0.06
+Georgia,2018,0.71
+Georgia,2019,0.76
+Germany,2018,1.3
+Germany,2019,1.35
+Ghana,2018,0.04
+Ghana,2019,0.05
+Greece,2018,3.36
+Greece,2019,3.5
+Grenada,2018,2.14
+Grenada,2019,2.23
+Guam,2018,9.75
+Guam,2019,9.95
+Guatemala,2018,0.09
+Guatemala,2019,0.09
+Guinea,2018,0.02
+Guinea,2019,0.02
+Guinea-Bissau,2018,0.04
+Guinea-Bissau,2019,0.04
+Guyana,2018,0.43
+Guyana,2019,0.46
+Haiti,2018,0.07
+Haiti,2019,0.07
+Honduras,2018,0.12
+Honduras,2019,0.12
+Hong Kong,2018,3.51
+Hong Kong,2019,3.69
+Hungary,2018,0.84
+Hungary,2019,0.89
+Iceland,2018,13.9
+Iceland,2019,14.35
+India,2018,0.12
+India,2019,0.14
+Indonesia,2018,0.5
+Indonesia,2019,0.54
+Iran,2018,0.21
+Iran,2019,0.21
+Iraq,2018,0.12
+Iraq,2019,0.13
+Ireland,2018,4.02
+Ireland,2019,4.17
+Israel,2018,1.41
+Israel,2019,1.47
+Italy,2018,1.67
+Italy,2019,1.72
+Jamaica,2018,0.81
+Jamaica,2019,0.83
+Japan,2018,1.22
+Japan,2019,1.25
+Jordan,2018,0.39
+Jordan,2019,0.41
+Kazakhstan,2018,0.35
+Kazakhstan,2019,0.37
+Kenya,2018,0.1
+Kenya,2019,0.11
+Kiribati,2018,0.19
+Kiribati,2019,0.19
+Kosovo,2018,0.38
+Kosovo,2019,0.39
+Kuwait,2018,1.37
+Kuwait,2019,1.44
+Kyrgyzstan,2018,0.24
+Kyrgyzstan,2019,0.25
+Laos,2018,0.24
+Laos,2019,0.26
+Latvia,2018,1.35
+Latvia,2019,1.45
+Lebanon,2018,0.82
+Lebanon,2019,0.88
+Lesotho,2018,0.02
+Lesotho,2019,0.02
+Liberia,2018,0.02
+Liberia,2019,0.02
+Libya,2018,0.15
+Libya,2019,0.17
+Lithuania,2018,1.01
+Lithuania,2019,1.08
+Luxembourg,2018,3.61
+Luxembourg,2019,3.7
+Macedonia,2018,0.6
+Macedonia,2019,0.64
+Madagascar,2018,0.06
+Madagascar,2019,0.06
+Malawi,2018,0.01
+Malawi,2019,0.01
+Malaysia,2018,1.49
+Malaysia,2019,1.58
+Maldives,2018,5.64
+Maldives,2019,6.12
+Mali,2018,0.02
+Mali,2019,0.02
+Malta,2018,8.9
+Malta,2019,9.29
+Martinique,2018,1.2
+Martinique,2019,1.25
+Mauritania,2018,0.04
+Mauritania,2019,0.04
+Mauritius,2018,1.28
+Mauritius,2019,1.36
+Mexico,2018,0.46
+Mexico,2019,0.48
+Micronesia,2018,0.64
+Micronesia,2019,0.65
+Moldova,2018,0.43
+Moldova,2019,0.46
+Mongolia,2018,0.23
+Mongolia,2019,0.24
+Montenegro,2018,2.12
+Montenegro,2019,2.25
+Morocco,2018,0.28
+Morocco,2019,0.29
+Mozambique,2018,0.03
+Mozambique,2019,0.03
+Myanmar,2018,0.09
+Myanmar,2019,0.1
+Nepal,2018,0.15
+Nepal,2019,0.16
+Netherlands,2018,1.63
+Netherlands,2019,1.7
+New Zealand,2018,3.69
+New Zealand,2019,3.76
+Nicaragua,2018,0.05
+Nicaragua,2019,0.05
+Niger,2018,0.01
+Niger,2019,0.01
+Nigeria,2018,0.03
+Nigeria,2019,0.03
+North Korea,2018,0
+North Korea,2019,0
+Norway,2018,4.79
+Norway,2019,4.9
+Oman,2018,0.91
+Oman,2019,0.94
+Pakistan,2018,0.06
+Pakistan,2019,0.06
+Panama,2018,0.53
+Panama,2019,0.55
+Papua New Guinea,2018,0.25
+Papua New Guinea,2019,0.25
+Paraguay,2018,0.1
+Paraguay,2019,0.1
+Peru,2018,0.41
+Peru,2019,0.42
+Philippines,2018,0.38
+Philippines,2019,0.4
+Poland,2018,0.5
+Poland,2019,0.53
+Portugal,2018,2.68
+Portugal,2019,2.78
+Puerto Rico,2018,0.87
+Puerto Rico,2019,0.9
+Qatar,2018,1.25
+Qatar,2019,1.3
+Reunion,2018,0.96
+Reunion,2019,0.99
+Romania,2018,0.58
+Romania,2019,0.61
+Russia,2018,0.61
+Russia,2019,0.65
+Rwanda,2018,0.03
+Rwanda,2019,0.04
+Saint Kitts and Nevis,2018,2.36
+Saint Kitts and Nevis,2019,2.45
+Saint Lucia,2018,1.7
+Saint Lucia,2019,1.76
+Saint Vincent and the Grenadines,2018,1.36
+Saint Vincent and the Grenadines,2019,1.41
+Samoa,2018,0.99
+Samoa,2019,1
+Sao Tome and Principe,2018,0.38
+Sao Tome and Principe,2019,0.39
+Saudi Arabia,2018,1.25
+Saudi Arabia,2019,1.36
+Senegal,2018,0
+Senegal,2019,0
+Serbia,2018,0.37
+Serbia,2019,0.39
+Seychelles,2018,6.82
+Seychelles,2019,7.2
+Sierra Leone,2018,0.01
+Sierra Leone,2019,0.02
+Singapore,2018,4.02
+Singapore,2019,4.21
+Sint Maarten (Dutch part),2018,6.23
+Sint Maarten (Dutch part),2019,6.4
+Slovakia,2018,0.27
+Slovakia,2019,0.29
+Slovenia,2018,0.43
+Slovenia,2019,0.45
+Solomon Islands,2018,0.34
+Solomon Islands,2019,0.34
+Somalia,2018,0.02
+Somalia,2019,0.02
+South Africa,2018,0.35
+South Africa,2019,0.37
+South Korea,2018,1.27
+South Korea,2019,1.32
+South Sudan,2018,0.01
+South Sudan,2019,0.01
+Spain,2018,3.02
+Spain,2019,3.11
+Sri Lanka,2018,0.19
+Sri Lanka,2019,0.2
+Sudan,2018,0.07
+Sudan,2019,0.07
+Suriname,2018,0.46
+Suriname,2019,0.48
+Swaziland,2018,0.03
+Swaziland,2019,0.03
+Sweden,2018,2.21
+Sweden,2019,2.27
+Switzerland,2018,2.91
+Switzerland,2019,3
+Syria,2018,0.02
+Syria,2019,0.03
+Taiwan,2018,1.25
+Taiwan,2019,1.31
+Tajikistan,2018,0.1
+Tajikistan,2019,0.1
+Tanzania,2018,0.05
+Tanzania,2019,0.05
+Thailand,2018,0.94
+Thailand,2019,1.01
+Timor,2018,0.15
+Timor,2019,0.16
+Togo,2018,0.03
+Togo,2019,0.03
+Tonga,2018,0.98
+Tonga,2019,1
+Trinidad and Tobago,2018,1.21
+Trinidad and Tobago,2019,1.26
+Tunisia,2018,0.48
+Tunisia,2019,0.5
+Turkey,2018,1.04
+Turkey,2019,1.09
+Turkmenistan,2018,0.28
+Turkmenistan,2019,0.29
+Tuvalu,2018,0.6
+Tuvalu,2019,0.61
+U.S. Virgin Islands,2018,4.78
+U.S. Virgin Islands,2019,4.96
+Uganda,2018,0.02
+Uganda,2019,0.02
+Ukraine,2018,0.25
+Ukraine,2019,0.27
+United Arab Emirates,2018,2.86
+United Arab Emirates,2019,3
+United Kingdom,2018,2.19
+United Kingdom,2019,2.25
+United States,2018,2.03
+United States,2019,2.06
+Uruguay,2018,0.3
+Uruguay,2019,0.32
+Uzbekistan,2018,0.09
+Uzbekistan,2019,0.09
+Vanuatu,2018,1.26
+Vanuatu,2019,1.26
+Venezuela,2018,0.07
+Venezuela,2019,0.06
+Vietnam,2018,0.43
+Vietnam,2019,0.46
+Yemen,2018,0
+Yemen,2019,0
+Zambia,2018,0.04
+Zambia,2019,0.05
+Zimbabwe,2018,0.07
+Zimbabwe,2019,0.07
