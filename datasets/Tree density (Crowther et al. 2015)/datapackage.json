@@ -1,0 +1,53 @@
+{
+  "name": "Tree density (Crowther et al. 2015)",
+  "title": "Tree density (Crowther et al. 2015)",
+  "id": 5196,
+  "description": "The authors used 429,775 ground-sourced measurements of tree density from every continent on Earth except Antarctica to generate a global map of forest trees.\n\nThey define a tree as a plant with woody stems larger than 10 cm diameter at breast height (DBH).\n\nTree density (per square kilometer and per capita) were calculated by the authors based on population and land area data sourced from the World Bank for 2014.",
+  "sources": [
+    {
+      "name": "Crowther et al. (2015). Mapping tree density at scale. Nature.",
+      "link": "https://www.nature.com/articles/nature14967",
+      "retrievedDate": "13th October 2020",
+      "additionalInfo": "The authors used 429,775 ground-sourced measurements of tree density from every continent on Earth except Antarctica to generate a global map of forest trees.\n\nThey define a tree as a plant with woody stems larger than 10 cm diameter at breast height (DBH).\n\nTree density (per square kilometer and per capita) were calculated by the authors based on population and land area data sourced from the World Bank for 2014.",
+      "dataPublishedBy": "Crowther, T. W., Glick, H. B., Covey, K. R., Bettigole, C., Maynard, D. S., Thomas, S. M., ... & Tuanmu, M. N. (2015). Mapping tree density at a global scale. Nature, 525(7568), 201-205."
+    }
+  ],
+  "owidTags": [
+    "Forests"
+  ],
+  "resources": [
+    {
+      "path": "Tree density (Crowther et al. 2015).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of trees",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Tree density (trees per km2)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Tree density (trees per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
