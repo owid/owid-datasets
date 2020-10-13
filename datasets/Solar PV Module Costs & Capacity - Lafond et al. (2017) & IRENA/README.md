@@ -7,4 +7,4 @@ https://www.irena.org/publications/2020/Jun/Renewable-Power-Costs-in-2019
 
 IRENA presents solar PV module price series for a number of different module technologies. Here we have adopted the series for Thin film a-Si/u-Si, which it adopts as the Global Index.
 
-Prices from LaFond et al. (2017) have been converted to 2019 US$ using a conversion factor of 1.07. 
+Prices from LaFond et al. (2017) have been converted to 2019 US$ using a conversion factor of 1.065 based on the US GDP deflator: https://www.multpl.com/gdp-deflator/table/by-year
