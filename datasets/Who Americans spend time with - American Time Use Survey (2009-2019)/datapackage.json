@@ -1,0 +1,85 @@
+{
+  "name": "Who Americans spend time with - American Time Use Survey (2009-2019)",
+  "title": "Who Americans spend time with - American Time Use Survey (2009-2019)",
+  "id": 5199,
+  "description": "These estimates are based on a classification of time spent on various activities while being in company of others. \n\nThe time-use data comes from the American Time Use Survey (ATUS), and the classification of activities and relationships relies on the code from Henrik Lindberg, available from <a href=\"https://gist.github.com/halhen/d969234077c9b70df4c4b8dd902bea38\">Lindberg's GitHub Repo</a>. All estimates correspond to pooled data for the period 2009-2019, using population weights.\n\nFollowing Lindberg, our estimates rely on the ATUS \"Who File\". This is a file that indicates who was present during each activity recorded. People can be counted twice, which means that attending a party with friends and your spouse, for example, would count for both categories. Sleeping is excluded.\n\n<b> Further notes </b>\n\n- Some of the original \"Who Codes\" have be re-coded and grouped (e.g. 'roommate' has been coded as 'friend')\n- In the ATUS \"Who File\" there is one record for each person reported present. Therefore, there will be one record for activities done alone and multiple records for activities with multiple people present. For some activities, no “who” codes are collected (such as sleeping and grooming).",
+  "sources": [
+    {
+      "name": "Multi-Year American Time Use Survey (2009-2019)",
+      "link": "https://www.bls.gov/tus/datafiles-0319.htm",
+      "retrievedDate": "16/10/2020",
+      "additionalInfo": "These estimates are based on a classification of time spent on various activities while being in company of others. \n\nThe time-use data comes from the American Time Use Survey (ATUS), and the classification of activities and relationships relies on the code from Henrik Lindberg, available from <a href=\"https://gist.github.com/halhen/d969234077c9b70df4c4b8dd902bea38\">Lindberg's GitHub Repo</a>. All estimates correspond to pooled data for the period 2009-2019, using population weights.\n\nFollowing Lindberg, our estimates rely on the ATUS \"Who File\". This is a file that indicates who was present during each activity recorded. People can be counted twice, which means that attending a party with friends and your spouse, for example, would count for both categories. Sleeping is excluded.\n\n<b> Further notes </b>\n\n- Some of the original \"Who Codes\" have be re-coded and grouped (e.g. 'roommate' has been coded as 'friend')\n- In the ATUS \"Who File\" there is one record for each person reported present. Therefore, there will be one record for activities done alone and multiple records for activities with multiple people present. For some activities, no “who” codes are collected (such as sleeping and grooming).",
+      "dataPublishedBy": "US Bureau of Labor Statistics",
+      "dataPublisherSource": "Survey data"
+    }
+  ],
+  "owidTags": [
+    "Happiness and Life Satisfaction",
+    "Quality of Life"
+  ],
+  "resources": [
+    {
+      "path": "Who Americans spend time with - American Time Use Survey (2009-2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Time spent alone, by age of respondent (United States)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"minutes\", \"shortUnit\": \"mins\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Time spent with children, by age of respondent (United States)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"minutes\", \"shortUnit\": \"mins\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Time spent with coworkers, by age of respondent (United States)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"minutes\", \"shortUnit\": \"mins\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Time spent with family, by age of respondent (United States)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"minutes\", \"shortUnit\": \"mins\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Time spent with friends, by age of respondent (United States)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"minutes\", \"shortUnit\": \"mins\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Time spent with other people, by age of respondent (United States)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"minutes\", \"shortUnit\": \"mins\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Time spent with partner, by age of respondent (United States)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"minutes\", \"shortUnit\": \"mins\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Time spent with other unclassified people, by age of respondent (United States)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"minutes\", \"shortUnit\": \"mins\", \"includeInTable\": true}"
+          }
+        ]
+      }
+    }
+  ]
+}
