@@ -2,13 +2,13 @@
   "name": "Forest land and change (FAO, 2020)",
   "title": "Forest land and change (FAO, 2020)",
   "id": 5201,
-  "description": "Raw data for forest area, deforestation, afforestation and expansion is sourced from the UN FAO Forest Resources Assessment.\n\nOur World in Data have calculated several metrics based on this raw data including:\n– Net change in forest area (afforestation minus deforestation)\n– Net conversion rate (net change as a percentage of forest area)\n– Each country's share of global forest area, deforestation, afforestation, and net change in forests\n– Each country's share of regional forest area, deforestation, afforestation, and net change in forests",
+  "description": "Raw data for forest area, deforestation, afforestation and expansion is sourced from the UN FAO Forest Resources Assessment.\n\nOur World in Data have calculated several metrics based on this raw data including:\n– Net change in forest area (afforestation minus deforestation)\n– Net conversion rate (net change as a percentage of forest area)\n– Each country's share of global forest area, deforestation, afforestation, and net change in forests\n– Each country's share of regional forest area, deforestation, afforestation, and net change in forests\n\nThe UN FAO publish forest area and forest change data as the annual average on 10- or 5-year timescales. Therefore the following year allocation applies:\n– 1990: the annual average over the period from 1990 to 2000.\n– 2000: the annual average over the period from 2000 to 2010.\n– 2010: the annual average over the period from 2010 to 2015.\n– 2015: the annual average over the period from 2015 to 2020.",
   "sources": [
     {
       "name": "UN Food and Agriculture Organization (FAO). Forest Resources Assessment.",
       "link": "https://fra-data.fao.org/WO/assessment/fra2020",
       "retrievedDate": "20th October 2020",
-      "additionalInfo": "Raw data for forest area, deforestation, afforestation and expansion is sourced from the UN FAO Forest Resources Assessment.\n\nOur World in Data have calculated several metrics based on this raw data including:\n– Net change in forest area (afforestation minus deforestation)\n– Net conversion rate (net change as a percentage of forest area)\n– Each country's share of global forest area, deforestation, afforestation, and net change in forests\n– Each country's share of regional forest area, deforestation, afforestation, and net change in forests",
+      "additionalInfo": "Raw data for forest area, deforestation, afforestation and expansion is sourced from the UN FAO Forest Resources Assessment.\n\nOur World in Data have calculated several metrics based on this raw data including:\n– Net change in forest area (afforestation minus deforestation)\n– Net conversion rate (net change as a percentage of forest area)\n– Each country's share of global forest area, deforestation, afforestation, and net change in forests\n– Each country's share of regional forest area, deforestation, afforestation, and net change in forests\n\nThe UN FAO publish forest area and forest change data as the annual average on 10- or 5-year timescales. Therefore the following year allocation applies:\n– 1990: the annual average over the period from 1990 to 2000.\n– 2000: the annual average over the period from 2000 to 2010.\n– 2010: the annual average over the period from 2010 to 2015.\n– 2015: the annual average over the period from 2015 to 2020.",
       "dataPublishedBy": "UN Food and Agriculture Organization (FAO). Forest Resources Assessment 2020."
     }
   ],
@@ -29,118 +29,118 @@
             "type": "year"
           },
           {
-            "name": "Afforestation (1000ha/yr)",
+            "name": "Afforestation",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Afforestation is the establishment of forest through planting and/or deliberate seeding on land that, until then, was not\nclassified as forest. It implies a transformation of land use from non-forest to forest.",
+            "owidDisplaySettings": "{\"name\": \"Annual afforestation rate\", \"unit\": \"hectares per year\", \"shortUnit\": \"ha\", \"includeInTable\": true, \"conversionFactor\": 1000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Conversion as share of forest area",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Annual forest change measures the net change in forests, given as afforestation minus deforestation.",
+            "owidDisplaySettings": "{\"name\": \"Annual forest change as a share of forest area\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "Deforestation (1000ha/yr)",
+            "name": "Deforestation",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The conversion of forest to other land use or the long-term reduction of the tree canopy cover below the\nminimum 10 percent threshold. Deforestation implies the long-term or permanent loss of forest cover and implies transformation into another land use. Such a loss can only be caused and maintained by a continued human-induced or natural perturbation.",
+            "owidDisplaySettings": "{\"name\": \"Annual deforestation rate\", \"unit\": \"hectares per year\", \"shortUnit\": \"ha\", \"includeInTable\": true, \"conversionFactor\": 1000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Deforestation as share of forest area",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Annual deforestation as a share of forest area\", \"unit\": \"% of forest area\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Expansion as share of forest area",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Annual forest expansion as a share of forest area\", \"unit\": \"% of forest area\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "Forest area (1000ha)",
+            "name": "Forest area",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "A forest is defined as Land spanning more than 0.5 hectares with trees higher than 5 meters and a canopy cover of more than 10 percent, or trees able to reach these thresholds in situ. It does not include land that is predominantly\nunder agricultural or urban land use. \n\nForest is determined both by the presence of trees and the absence of other predominant land uses. The trees\nshould be able to reach a minimum height of 5 meters in situ. ",
+            "owidDisplaySettings": "{\"name\": \"Forest area\", \"unit\": \"hectares\", \"shortUnit\": \"ha\", \"includeInTable\": true, \"conversionFactor\": 1000, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Forest expansion (1000ha/yr)",
+            "name": "Forest expansion",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Forest expansion is the sum of afforestation (the establishment of forest through planting and/or deliberate seeding) and natural forest expansion (expansion of forests through natural succession on land that, until then, was under another land use).",
+            "owidDisplaySettings": "{\"name\": \"Annual forest expansion\", \"unit\": \"hectares per year\", \"shortUnit\": \"ha\", \"includeInTable\": true, \"conversionFactor\": 1000}"
           },
           {
-            "name": "Natural forest expansion (1000ha/yr)",
+            "name": "Natural forest expansion",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Natural forest expansion is the expansion of forests through natural succession on land that, until then, was under another land use (e.g. forest succession on land previously used for agriculture).",
+            "owidDisplaySettings": "{\"name\": \"Annual natural forest expansion\", \"unit\": \"hectares per year\", \"shortUnit\": \"ha\", \"includeInTable\": true, \"conversionFactor\": 1000}"
           },
           {
-            "name": "Net forest conversion (1000ha/yr)",
+            "name": "Net forest conversion",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Net change in forest area measures forest expansion (either through afforestation or natural expansion) minus deforestation. ",
+            "owidDisplaySettings": "{\"name\": \"Annual change in forest area\", \"unit\": \"hectares per year\", \"shortUnit\": \"ha\", \"includeInTable\": true, \"conversionFactor\": 1000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Share of global afforestation",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Share of global afforestation\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Share of global deforestation",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Share of global deforestation\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Share of global forest area",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Share of global forest area\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Share of global forest expansion",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Share of annual global forest expansion\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Share of global net forest conversion",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Share of annual global change in forest area\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Share of regional afforestation",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Share of regional afforestation\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Share of regional deforestation",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Share of regional deforestation\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Share of regional forest area",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Share of regional forest area\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Share of regional forest expansion",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Share of regional forest expansion\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Share of regional net forest conversion",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Share of annual regional change in forest area\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           }
         ]
       }
