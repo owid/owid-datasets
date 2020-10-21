@@ -83,12 +83,6 @@
             "owidDisplaySettings": "{\"name\": \"Annual change in forest area\", \"unit\": \"hectares per year\", \"shortUnit\": \"ha\", \"includeInTable\": true, \"conversionFactor\": 1000, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Share of global afforestation",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"name\": \"Share of global afforestation\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
-          },
-          {
             "name": "Share of global deforestation",
             "type": "any",
             "description": null,
@@ -107,18 +101,6 @@
             "owidDisplaySettings": "{\"name\": \"Share of annual global forest expansion\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "Share of global net forest conversion",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"name\": \"Share of annual global change in forest area\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
-          },
-          {
-            "name": "Share of regional afforestation",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"name\": \"Share of regional afforestation\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
-          },
-          {
             "name": "Share of regional deforestation",
             "type": "any",
             "description": null,
@@ -129,18 +111,6 @@
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"Share of regional forest area\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
-          },
-          {
-            "name": "Share of regional forest expansion",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"name\": \"Share of regional forest expansion\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
-          },
-          {
-            "name": "Share of regional net forest conversion",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"name\": \"Share of annual regional change in forest area\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           }
         ]
       }
