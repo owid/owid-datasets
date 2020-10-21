@@ -1,6 +1,6 @@
 # Who Americans spend time with - American Time Use Survey (2009-2019)
 
-These estimates are based on a classification of time spent on various activities while being in company of others. 
+These estimates are based on a classification of time spent on various activities while being in company of others, and the presentation of the data was inspired by earlier work from Henrik Lindberg.
 
 The time-use data comes from the American Time Use Survey (ATUS), and the classification of activities and relationships relies on the code from Henrik Lindberg, available from <a href="https://gist.github.com/halhen/d969234077c9b70df4c4b8dd902bea38">Lindberg's GitHub Repo</a>. All estimates correspond to pooled data for the period 2009-2019, using population weights.
 
