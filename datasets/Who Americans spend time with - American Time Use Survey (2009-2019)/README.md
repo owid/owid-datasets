@@ -4,7 +4,7 @@ These estimates are based on a classification of time spent on various activitie
 
 The time-use data comes from the American Time Use Survey (ATUS), and the classification of activities and relationships relies on the code from Henrik Lindberg, available from <a href="https://gist.github.com/halhen/d969234077c9b70df4c4b8dd902bea38">Lindberg's GitHub Repo</a>. All estimates correspond to pooled data for the period 2009-2019, using population weights.
 
-Following Lindberg, our estimates rely on the ATUS "Who File". This is a file that indicates who was present during each activity recorded. People can be counted twice, which means that attending a party with friends and your spouse, for example, would count for both categories. Sleeping is excluded.
+Estimates rely on the ATUS "Who File". This is a file that indicates who was present during each activity recorded. People can be counted twice, which means that attending a party with friends and your spouse, for example, would count for both categories. Sleeping is excluded.
 
 <b> Further notes </b>
 
