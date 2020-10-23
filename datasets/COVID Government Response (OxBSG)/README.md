@@ -84,3 +84,10 @@ Contract tracing
 1 - Limited contact tracing - not done for all cases
 2 - Comprehensive contact tracing - done for all cases
 No data
+
+Face coverings
+0- No policy
+1- Recommended
+2- Required in some specified shared/public spaces outside the home with other people present, or some situations when social distancing not possible
+3- Required in all shared/public spaces outside the home with other people present or all situations when social distancing not possible
+4- Required outside the home at all times regardless of location or presence of other people
