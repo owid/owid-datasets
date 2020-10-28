@@ -2,13 +2,13 @@
   "name": "COVID-2019 - ECDC (2020)",
   "title": "COVID-2019 - ECDC (2020)",
   "id": 5071,
-  "description": "Raw data on confirmed cases and deaths for all countries is sourced from the <a href=\"https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide\">European Centre for Disease Prevention and Control (ECDC)</a>.  \n\nOur complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, and testing.\n\nWe have created a new description of all our data sources. You find it at our GitHub repository <strong><a href=\"https://github.com/owid/covid-19-data/tree/master/public/data/\">here</a></strong>. There you can download all of our data.\n\n",
+  "description": "Raw data on confirmed cases and deaths for all countries is sourced from the <a href=\"https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide\">European Center for Disease Prevention and Control (ECDC)</a>.  \n\nOur complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, and testing.\n\nWe have created a new description of all our data sources. You find it at our GitHub repository <strong><a href=\"https://github.com/owid/covid-19-data/tree/master/public/data/\">here</a></strong>. There you can download all of our data.\n\n",
   "sources": [
     {
-      "name": "European CDC – Situation Update Worldwide – Last updated 9th July, 11:00 (London time)",
-      "dataPublishedBy": "European Centre for Disease Prevention and Control (ECDC)",
-      "additionalInfo": "Raw data on confirmed cases and deaths for all countries is sourced from the <a href=\"https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide\">European Centre for Disease Prevention and Control (ECDC)</a>.  \n\nOur complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, and testing.\n\nWe have created a new description of all our data sources. You find it at our GitHub repository <strong><a href=\"https://github.com/owid/covid-19-data/tree/master/public/data/\">here</a></strong>. There you can download all of our data.\n\n",
-      "link": "https://github.com/owid/covid-19-data/tree/master/public/data"
+      "name": "European CDC – Situation Update Worldwide – Last updated 28 October, 11:35 (London time)",
+      "link": "https://github.com/owid/covid-19-data/tree/master/public/data",
+      "additionalInfo": "Raw data on confirmed cases and deaths for all countries is sourced from the <a href=\"https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide\">European Center for Disease Prevention and Control (ECDC)</a>.  \n\nOur complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, and testing.\n\nWe have created a new description of all our data sources. You find it at our GitHub repository <strong><a href=\"https://github.com/owid/covid-19-data/tree/master/public/data/\">here</a></strong>. There you can download all of our data.\n\n",
+      "dataPublishedBy": "European Centre for Disease Prevention and Control (ECDC)"
     }
   ],
   "owidTags": [],
@@ -29,49 +29,49 @@
             "name": "Daily new confirmed cases of COVID-19",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Daily confirmed cases\", \"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Spain: April 19 & May 25: methodology change\\nEcuador: May 8: methodology change\\nUnited Kingdom: May 20, July 3: methodology change\\nFrance: June 2: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nChile: June 18: earlier cases added\"}"
+            "owidDisplaySettings": "{\"name\": \"Daily confirmed cases\", \"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Mexico: Oct 9: probable/earlier cases added\\n\"}"
           },
           {
             "name": "Daily new confirmed deaths due to COVID-19",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Daily confirmed deaths\", \"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Spain: May 25: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nIndia: June 17: earlier deaths added\\nItaly: June 25: methodology change\\nUnited States: June 26, July 1: probable/earlier deaths added\\nCzech Republic: July 5: methodology change\"}"
+            "owidDisplaySettings": "{\"name\": \"Daily confirmed deaths\", \"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Ecuador: Oct 9: probable/earlier deaths added\\nMexico: Oct 9: probable/earlier deaths added\"}"
           },
           {
             "name": "Total confirmed cases of COVID-19",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Ecuador: May 8: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series\\nChile: June 18: earlier cases added\\nUnited Kingdom: July 3: methodology change\"}"
+            "owidDisplaySettings": "{\"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Mexico: Oct 9: probable/earlier cases added\\n\"}"
           },
           {
             "name": "Total confirmed deaths due to COVID-19",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Spain: May 25: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nIndia: June 17: earlier deaths added\\nItaly: June 25: methodology change\\nUnited States: June 26, July 1: probable/earlier deaths added\\nCzech Republic: July 5: methodology change\"}"
+            "owidDisplaySettings": "{\"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Ecuador: Oct 9: probable/earlier deaths added\\nMexico: Oct 9: probable/earlier deaths added\"}"
           },
           {
             "name": "Daily new confirmed cases of COVID-19 per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Spain: April 19 & May 25: methodology change\\nEcuador: May 8: methodology change\\nUnited Kingdom: May 20, July 3: methodology change\\nFrance: June 2: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nChile: June 18: earlier cases added\"}"
+            "owidDisplaySettings": "{\"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Mexico: Oct 9: probable/earlier cases added\\n\"}"
           },
           {
             "name": "Daily new confirmed deaths due to COVID-19 per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"deaths per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Spain: May 25: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nIndia: June 17: earlier deaths added\\nItaly: June 25: methodology change\\nUnited States: June 26, July 1: probable/earlier deaths added\\nCzech Republic: July 5: methodology change\"}"
+            "owidDisplaySettings": "{\"unit\": \"deaths per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Ecuador: Oct 9: probable/earlier deaths added\\nMexico: Oct 9: probable/earlier deaths added\"}"
           },
           {
             "name": "Total confirmed cases of COVID-19 per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"cases per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Spain: April 19 & May 25: methodology change\\nEcuador: May 8: methodology change\\nUnited Kingdom: May 20, July 3: methodology change\\nFrance: June 2: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nChile: June 18: earlier cases added\"}"
+            "owidDisplaySettings": "{\"unit\": \"cases per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Mexico: Oct 9: probable/earlier cases added\\n\"}"
           },
           {
             "name": "Total confirmed deaths due to COVID-19 per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"deaths per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Spain: May 25: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nIndia: June 17: earlier deaths added\\nItaly: June 25: methodology change\\nUnited States: June 26, July 1: probable/earlier deaths added\\nCzech Republic: July 5: methodology change\"}"
+            "owidDisplaySettings": "{\"unit\": \"deaths per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Ecuador: Oct 9: probable/earlier deaths added\\nMexico: Oct 9: probable/earlier deaths added\"}"
           },
           {
             "name": "Days since the total confirmed cases of COVID-19 reached 100",
@@ -89,7 +89,7 @@
             "name": "Days since the total confirmed cases of COVID-19 per million people reached 1",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Days since the total confirmed cases per million people reached 1\", \"unit\": \"days\", \"includeInTable\": false}"
+            "owidDisplaySettings": "{\"name\": \"Days since the total confirmed cases per million people reached 1\", \"unit\": \"days\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false}"
           },
           {
             "name": "Days since the total confirmed deaths of COVID-19 per million people reached 0.1",
@@ -101,13 +101,13 @@
             "name": "Case fatality rate of COVID-19 (%)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Case fatality rate\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"tolerance\": 2, \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Spain: April 19 & May 25: methodology change\\nEcuador: May 8: methodology change\\nUnited Kingdom: May 20, July 3: methodology change\\nFrance: June 2: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nChile: June 18: earlier cases added\\nIndia: June 17: earlier deaths added\\nItaly: June 25: methodology change\\nUnited States: June 26, July 1: probable/earlier deaths added\\nCzech Republic: July 5: methodology change\"}"
+            "owidDisplaySettings": "{\"name\": \"Case fatality rate\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"tolerance\": 2, \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Mexico: Oct 9: probable/earlier cases added & Oct 9: probable/earlier deaths added\\nEcuador: Oct 9: probable/earlier deaths added\"}"
           },
           {
             "name": "Case fatality rate of COVID-19 (%) (Only observations with ≥100 cases)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Spain: April 19 & May 25: methodology change\\nEcuador: May 8: methodology change\\nUnited Kingdom: May 20, July 3: methodology change\\nFrance: June 2: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nChile: June 18: earlier cases added\\nIndia: June 17: earlier deaths added\\nItaly: June 25: methodology change\\nUnited States: June 26, July 1: probable/earlier deaths added\\nCzech Republic: July 5: methodology change\"}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Mexico: Oct 9: probable/earlier cases added & Oct 9: probable/earlier deaths added\\nEcuador: Oct 9: probable/earlier deaths added\"}"
           },
           {
             "name": "Days since 30 daily new confirmed cases recorded",
@@ -143,13 +143,13 @@
             "name": "Daily new confirmed deaths due to COVID-19 (rolling 7-day average, right-aligned)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Spain: May 25: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nIndia: June 17: earlier deaths added\\nItaly: June 25: methodology change\\nUnited States: June 26, July 1: probable/earlier deaths added\"}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Ecuador: Oct 9: probable/earlier deaths added\\nMexico: Oct 9: probable/earlier deaths added\"}"
           },
           {
             "name": "Daily new confirmed cases due to COVID-19 (rolling 7-day average, right-aligned)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Spain: April 19 & May 25: methodology change\\nEcuador: May 8: methodology change\\nUnited Kingdom: May 20, July 3: methodology change\\nFrance: June 2: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nChile: June 18: earlier cases added\"}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Mexico: Oct 9: probable/earlier cases added\\n\"}"
           },
           {
             "name": "Days since daily new confirmed cases of COVID-19 per million people (rolling 7-day average, right-aligned) reached 1",
@@ -167,25 +167,25 @@
             "name": "Daily new confirmed cases of COVID-19 (rolling 3-day average, right-aligned)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Spain: April 19 & May 25: methodology change\\nEcuador: May 8: methodology change\\nUnited Kingdom: May 20, July 3: methodology change\\nFrance: June 2: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nChile: June 18: earlier cases added\"}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Mexico: Oct 9: probable/earlier cases added\\n\"}"
           },
           {
             "name": "Daily new confirmed deaths due to COVID-19 (rolling 3-day average, right-aligned)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Ecuador: Oct 9: probable/earlier deaths added\\nMexico: Oct 9: probable/earlier deaths added\"}"
           },
           {
             "name": "Daily new confirmed cases of COVID-19 per million people (rolling 7-day average, right-aligned)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Spain: April 19 & May 25: methodology change\\nEcuador: May 8: methodology change\\nUnited Kingdom: May 20, July 3: methodology change\\nFrance: June 2: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nChile: June 18: earlier cases added\"}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Mexico: Oct 9: probable/earlier cases added\\n\"}"
           },
           {
             "name": "Daily new confirmed deaths due to COVID-19 per million people (rolling 7-day average, right-aligned)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Spain: May 25: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nIndia: June 17: earlier deaths added\\nItaly: June 25: methodology change\\nUnited States: June 26, July 1: probable/earlier deaths added\"}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Ecuador: Oct 9: probable/earlier deaths added\\nMexico: Oct 9: probable/earlier deaths added\"}"
           },
           {
             "name": "Days since daily new confirmed cases of COVID-19 (rolling 7-day average, right-aligned) reached 30",
@@ -209,13 +209,13 @@
             "name": "Daily new confirmed cases of COVID-19 per million people (rolling 3-day average, right-aligned)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Spain: April 19 & May 25: methodology change\\nEcuador: May 8: methodology change\\nUnited Kingdom: May 20, July 3: methodology change\\nFrance: June 2: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nChile: June 18: earlier cases added\"}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Mexico: Oct 9: probable/earlier cases added\\n\"}"
           },
           {
             "name": "Daily new confirmed deaths due to COVID-19 per million people (rolling 3-day average, right-aligned)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Italy: Note that on June 25 the methodology has changed\"}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Ecuador: Oct 9: probable/earlier deaths added\\nMexico: Oct 9: probable/earlier deaths added\"}"
           },
           {
             "name": "Days since the total confirmed cases of COVID-19 reached 100 (with population ≥ 5M)",
@@ -233,97 +233,103 @@
             "name": "Doubling days of total confirmed cases (3 day period)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Mexico: Oct 9: probable/earlier cases added\\n\"}"
           },
           {
             "name": "Doubling days of total confirmed cases (7 day period)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Mexico: Oct 9: probable/earlier cases added\\n\"}"
           },
           {
             "name": "Doubling days of total confirmed deaths (3 day period)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Ecuador: Oct 9: probable/earlier deaths added\\nMexico: Oct 9: probable/earlier deaths added\"}"
           },
           {
             "name": "Doubling days of total confirmed deaths (7 day period)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Ecuador: Oct 9: probable/earlier deaths added\\nMexico: Oct 9: probable/earlier deaths added\"}"
           },
           {
             "name": "Weekly cases",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Spain: April 19 & May 25: methodology change\\nEcuador: May 8: methodology change\\nUnited Kingdom: May 20, July 3: methodology change\\nFrance: June 2: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nChile: June 18: earlier cases added\"}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Mexico: Oct 9: probable/earlier cases added\\n\"}"
           },
           {
             "name": "Weekly deaths",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Spain: May 25: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nIndia: June 17: earlier deaths added\\nItaly: June 25: methodology change\\nUnited States: June 26, July 1: probable/earlier deaths added\"}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Ecuador: Oct 9: probable/earlier deaths added\\nMexico: Oct 9: probable/earlier deaths added\"}"
           },
           {
             "name": "Weekly case growth (%)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Spain: April 19 & May 25: methodology change\\nEcuador: May 8: methodology change\\nUnited Kingdom: May 20, July 3: methodology change\\nFrance: June 2: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nChile: June 18: earlier cases added\"}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Mexico: Oct 9: probable/earlier cases added\\n\"}"
           },
           {
             "name": "Weekly death growth (%)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Spain: May 25: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nIndia: June 17: earlier deaths added\\nItaly: June 25: methodology change\\nUnited States: June 26, July 1: probable/earlier deaths added\"}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Ecuador: Oct 9: probable/earlier deaths added\\nMexico: Oct 9: probable/earlier deaths added\"}"
           },
           {
             "name": "Biweekly cases",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Biweekly cases\", \"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Spain: April 19 & May 25: methodology change\\nEcuador: May 8: methodology change\\nUnited Kingdom: May 20, July 3: methodology change\\nFrance: June 2: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nChile: June 18: earlier cases added\"}"
+            "owidDisplaySettings": "{\"name\": \"Biweekly cases\", \"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Mexico: Oct 9: probable/earlier cases added\\n\"}"
           },
           {
             "name": "Biweekly deaths",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Biweekly deaths\", \"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Spain: May 25: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nIndia: June 17: earlier deaths added\\nItaly: June 25: methodology change\\nUnited States: June 26, July 1: probable/earlier deaths added\"}"
+            "owidDisplaySettings": "{\"name\": \"Biweekly deaths\", \"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Ecuador: Oct 9: probable/earlier deaths added\\nMexico: Oct 9: probable/earlier deaths added\"}"
           },
           {
             "name": "Biweekly case growth (%)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Biweekly growth in cases\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Spain: April 19 & May 25: methodology change\\nEcuador: May 8: methodology change\\nUnited Kingdom: May 20, July 3: methodology change\\nFrance: June 2: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nChile: June 18: earlier cases added\"}"
+            "owidDisplaySettings": "{\"name\": \"Biweekly growth in cases\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Mexico: Oct 9: probable/earlier cases added\\n\"}"
           },
           {
             "name": "Biweekly death growth (%)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Biweekly growth in deaths\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Spain: May 25: methodology change\\nEuropean Union: Some EU countries changed methodology. See country-by-country series.\\nIndia: June 17: earlier deaths added\\nItaly: June 25: methodology change\\nUnited States: June 26, July 1: probable/earlier deaths added\"}"
+            "owidDisplaySettings": "{\"name\": \"Biweekly growth in deaths\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Ecuador: Oct 9: probable/earlier deaths added\\nMexico: Oct 9: probable/earlier deaths added\"}"
           },
           {
             "name": "Weekly cases per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Mexico: Oct 9: probable/earlier cases added\\n\"}"
           },
           {
             "name": "Weekly deaths per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Ecuador: Oct 9: probable/earlier deaths added\\nMexico: Oct 9: probable/earlier deaths added\"}"
           },
           {
             "name": "Biweekly cases per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Mexico: Oct 9: probable/earlier cases added\\n\"}"
           },
           {
             "name": "Biweekly deaths per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Ecuador: Oct 9: probable/earlier deaths added\\nMexico: Oct 9: probable/earlier deaths added\"}"
+          },
+          {
+            "name": "Case fatality rate of COVID-19 (%) (Short-term)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Mexico: Oct 9: probable/earlier cases added & Oct 9: probable/earlier deaths added\\nEcuador: Oct 9: probable/earlier deaths added\"}"
           }
         ]
       }
