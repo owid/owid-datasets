@@ -32,7 +32,7 @@
             "name": "Forest Transition Phase",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Forest Transition Phase\", \"includeInTable\": true}"
           }
         ]
       }
