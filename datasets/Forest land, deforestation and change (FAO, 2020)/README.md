@@ -1,4 +1,4 @@
-# Forest land and change (FAO, 2020)
+# Forest land, deforestation and change (FAO, 2020)
 
 Raw data for forest area, deforestation, afforestation and expansion is sourced from the UN FAO Forest Resources Assessment.
 

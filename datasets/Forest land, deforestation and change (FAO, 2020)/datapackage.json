@@ -1,6 +1,6 @@
 {
-  "name": "Forest land and change (FAO, 2020)",
-  "title": "Forest land and change (FAO, 2020)",
+  "name": "Forest land, deforestation and change (FAO, 2020)",
+  "title": "Forest land, deforestation and change (FAO, 2020)",
   "id": 5201,
   "description": "Raw data for forest area, deforestation, afforestation and expansion is sourced from the UN FAO Forest Resources Assessment.\n\nOur World in Data have calculated several metrics based on this raw data including:\n– Net change in forest area (afforestation minus deforestation)\n– Net conversion rate (net change as a percentage of forest area)\n– Each country's share of global forest area, deforestation, afforestation, and net change in forests\n– Each country's share of regional forest area, deforestation, afforestation, and net change in forests\n\nThe UN FAO publish forest area and forest change data as the annual average on 10- or 5-year timescales. Therefore the following year allocation applies:\n– 1990: the annual average over the period from 1990 to 2000.\n– 2000: the annual average over the period from 2000 to 2010.\n– 2010: the annual average over the period from 2010 to 2015.\n– 2015: the annual average over the period from 2015 to 2020.",
   "sources": [
@@ -17,7 +17,7 @@
   ],
   "resources": [
     {
-      "path": "Forest land and change (FAO, 2020).csv",
+      "path": "Forest land, deforestation and change (FAO, 2020).csv",
       "schema": {
         "fields": [
           {
@@ -111,6 +111,12 @@
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"Share of regional forest area\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Forest cover",
+            "type": "any",
+            "description": "Share of land area that is covered by forest.",
+            "owidDisplaySettings": "{\"name\": \"Share of land area covered by forest\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true, \"numDecimalPlaces\": 1}"
           }
         ]
       }
