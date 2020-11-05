@@ -30,13 +30,13 @@
             "name": "Daily ICU occupancy",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Current number of COVID-19 patients in ICU\", \"unit\": \"patients in ICU\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Daily ICU occupancy per million",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Number of COVID-19 patients in ICU per million\", \"unit\": \"per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 2}"
           },
           {
             "name": "Daily hospital occupancy",
@@ -47,32 +47,32 @@
           {
             "name": "Daily hospital occupancy per million",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Daily hospital occupancy is the number of COVID-19 patients in hospital on a given day.",
+            "owidDisplaySettings": "{\"name\": \"Number of COVID-19 patients in hospital per million\", \"unit\": \"per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 2}"
           },
           {
-            "name": "Daily new ICU admissions",
+            "name": "Weekly new ICU admissions",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Weekly new ICU admissions for COVID-19\", \"unit\": \"ICU patients\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Daily new ICU admissions per million",
+            "name": "Weekly new ICU admissions per million",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Weekly new ICU admissions for COVID-19 per million\", \"unit\": \"per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 2}"
           },
           {
-            "name": "Daily new hospital admissions",
+            "name": "Weekly new hospital admissions",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Daily new hospital admissions for COVID-19\", \"unit\": \"patients\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+            "owidDisplaySettings": "{\"name\": \"Weekly new hospital admissions for COVID-19\", \"unit\": \"patients\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Daily new hospital admissions per million",
+            "name": "Weekly new hospital admissions per million",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Weekly new hospital admissions for COVID-19 per million\", \"unit\": \"per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 2}"
           }
         ]
       }
