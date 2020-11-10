@@ -5,11 +5,11 @@
   "description": "Pendrill et al. (2019) developed a land-balance model which attributed detected forest loss across the world to the expansion of croplands, pasture and tree plantations. This is then linked to particular agricultural commodities based on national land use, crop and forest product statistics published in the UN Food and Agricultural Organization balance sheets.\n\nThis study also maps deforestation and related CO2 emissions embedded in the international trade of these products using both a physical trade model, and a MRIO (multi-regional input-output) model. This allows for the quantification of deforestation and related emissions embedded in imported food and forestry products.\n\n",
   "sources": [
     {
-      "name": "Deforestation by commodity (Pendrill et al. (2019))",
+      "name": "Pendrill et al. (2019). Agricultural and forestry trade drives large share of tropical deforestation emissions.",
       "link": "https://www.sciencedirect.com/science/article/pii/S0959378018314365",
       "retrievedDate": "10th November 2020",
       "additionalInfo": "Pendrill et al. (2019) developed a land-balance model which attributed detected forest loss across the world to the expansion of croplands, pasture and tree plantations. This is then linked to particular agricultural commodities based on national land use, crop and forest product statistics published in the UN Food and Agricultural Organization balance sheets.\n\nThis study also maps deforestation and related CO2 emissions embedded in the international trade of these products using both a physical trade model, and a MRIO (multi-regional input-output) model. This allows for the quantification of deforestation and related emissions embedded in imported food and forestry products.\n\n",
-      "dataPublishedBy": "Pendrill, F., Persson, U. M., Godar, J., Kastner, T., Moran, D., Schmidt, S., & Wood, R. (2019). Agricultural and forestry trade drives large share of tropical deforestation emissions. Global environmental change, 56, 1-10."
+      "dataPublishedBy": "Pendrill, F., Persson, U. M., Godar, J., Kastner, T., Moran, D., Schmidt, S., & Wood, R. (2019). Agricultural and forestry trade drives large share of tropical deforestation emissions. Global Environmental Change, 56, 1-10."
     }
   ],
   "owidTags": [
@@ -44,7 +44,7 @@
             "name": "Deforestation emissions",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Annual CO₂ emissions driven by deforestation\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000}"
+            "owidDisplaySettings": "{\"name\": \"Annual CO₂ emissions driven by deforestation\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Share of deforestation emissions",
@@ -56,7 +56,7 @@
             "name": "Peat emissions",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Annual CO₂ emissions from peatlands\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000}"
+            "owidDisplaySettings": "{\"name\": \"Annual CO₂ emissions from peatlands\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Share of peat emissions",
