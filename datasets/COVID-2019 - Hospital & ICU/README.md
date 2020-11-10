@@ -1,6 +1,6 @@
 # COVID-2019 - Hospital & ICU
 
-Raw data on hospitalization and Intensive Care Unit (ICU) admission rates and current occupancy for COVID-19 is sourced from the <a href="https://www.ecdc.europa.eu/en/publications-data/download-data-hospital-and-icu-admission-rates-and-current-occupancy-covid-19">European Centre for Disease Prevention and Control (ECDC)</a>.  
+Raw data on hospitalization and Intensive Care Unit (ICU) admission rates and current occupancy for COVID-19 is sourced from the <a href="https://www.ecdc.europa.eu/en/publications-data/download-data-hospital-and-icu-admission-rates-and-current-occupancy-covid-19">European Centre for Disease Prevention and Control (ECDC)</a> and the <a href="https://covidtracking.com">COVID Tracking Project</a>.  
 
 Our complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, and testing.
 
