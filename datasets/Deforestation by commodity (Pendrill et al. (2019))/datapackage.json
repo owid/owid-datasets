@@ -32,49 +32,49 @@
             "name": "Forest loss (ha)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Annual deforestation by agricultural product\", \"unit\": \"hectares\", \"shortUnit\": \"ha\", \"includeInTable\": true}"
           },
           {
             "name": "Share of commodity-driven deforestation",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Share of global deforestation from agricultural products\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "Forest emissions (MtCO2)",
+            "name": "Deforestation emissions",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Annual CO₂ emissions driven by deforestation\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000}"
           },
           {
             "name": "Share of deforestation emissions",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Share of global CO₂ emissions driven by deforestation\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Peat emissions",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Annual CO₂ emissions from peatlands\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000}"
           },
           {
             "name": "Share of peat emissions",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Share of global CO₂ emissions from peatlands\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Total deforestation and peat emissions",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Annual CO₂ emissions from deforestation and peatlands\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000}"
           },
           {
             "name": "Share of deforestation and peat emissions",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Share of global CO₂ emissions from deforestation and peatlands\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           }
         ]
       }
