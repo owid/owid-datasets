@@ -2,12 +2,13 @@
   "name": "Drivers of forest loss in Brazil Legal Amazon (Tyukavina et al. 2017)",
   "title": "Drivers of forest loss in Brazil Legal Amazon (Tyukavina et al. 2017)",
   "id": 5218,
-  "description": "",
+  "description": "The study quantifies types of forest disturbance and loss in the Brazilian Legal Amazon (BLA) using a sample-based approach from remotely sensed data.\n\nThis quantifies not only complete deforestation drivers, but also temporary forest loss from natural disturbances, wildfires, flooding etc.",
   "sources": [
     {
       "name": "Tyukavina et al. (2017). Types and rates of forest disturbance in Brazilian Legal Amazon, 2000–2013. Science.",
       "link": "https://advances.sciencemag.org/content/3/4/e1601047",
       "retrievedDate": "15th November 2020",
+      "additionalInfo": "The study quantifies types of forest disturbance and loss in the Brazilian Legal Amazon (BLA) using a sample-based approach from remotely sensed data.\n\nThis quantifies not only complete deforestation drivers, but also temporary forest loss from natural disturbances, wildfires, flooding etc.",
       "dataPublishedBy": "Tyukavina, A., Hansen, M. C., Potapov, P. V., Stehman, S. V., Smith-Rodriguez, K., Okpa, C., & Aguilar, R. (2017). Types and rates of forest disturbance in Brazilian Legal Amazon, 2000–2013. Science Advances, 3, e1601047."
     }
   ],
