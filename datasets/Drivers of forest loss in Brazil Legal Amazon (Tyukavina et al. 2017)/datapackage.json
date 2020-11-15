@@ -1,0 +1,106 @@
+{
+  "name": "Drivers of forest loss in Brazil Legal Amazon (Tyukavina et al. 2017)",
+  "title": "Drivers of forest loss in Brazil Legal Amazon (Tyukavina et al. 2017)",
+  "id": 5218,
+  "description": "",
+  "sources": [
+    {
+      "name": "Tyukavina et al. (2017). Types and rates of forest disturbance in Brazilian Legal Amazon, 2000–2013. Science.",
+      "link": "https://advances.sciencemag.org/content/3/4/e1601047",
+      "retrievedDate": "15th November 2020",
+      "dataPublishedBy": "Tyukavina, A., Hansen, M. C., Potapov, P. V., Stehman, S. V., Smith-Rodriguez, K., Okpa, C., & Aguilar, R. (2017). Types and rates of forest disturbance in Brazilian Legal Amazon, 2000–2013. Science Advances, 3, e1601047."
+    }
+  ],
+  "owidTags": [
+    "Forests"
+  ],
+  "resources": [
+    {
+      "path": "Drivers of forest loss in Brazil Legal Amazon (Tyukavina et al. 2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "commercial_crops",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "tree_plantations_including_palm",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "pasture",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "small-scale_clearing",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "roads",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "other_infrastructure",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "flooding_due_to_dams",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "mining",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "selective_logging",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "fire",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "natural_disturbances",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_forest_loss",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
