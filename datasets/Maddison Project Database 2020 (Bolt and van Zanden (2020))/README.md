@@ -3,7 +3,7 @@
 Full citation: 
 Maddison Project Database, version 2020. Bolt, Jutta and Jan Luiten van Zanden (2020), “Maddison style estimates of the evolution of the world economy. A new 2020 update”.
 
--------------------
+The database draws on the following work for individual countries:
 
 Argentina
 1800 - 1870 	Prados de la Escosura, L. (2009). “Lost Decades? Economic Performance in Post-Independence Latin America,” Journal of Latin America Studies 41: 279–307 (updated data)
