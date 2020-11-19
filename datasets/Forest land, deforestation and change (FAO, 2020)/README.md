@@ -13,3 +13,5 @@ The UN FAO publish forest area and forest change data as the annual average on 1
 – 2000: the annual average over the period from 2000 to 2010.
 – 2010: the annual average over the period from 2010 to 2015.
 – 2015: the annual average over the period from 2015 to 2020.
+
+Data on forest cover by country pre-1990 is sourced from a variety sources which are documented here: https://docs.google.com/spreadsheets/d/1nYpao4e8Ai-P86jIUZ3r7X6-5MjZ7ZbG7TJQSO729Bg/edit?usp=sharing
