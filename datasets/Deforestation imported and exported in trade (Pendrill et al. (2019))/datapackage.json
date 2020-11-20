@@ -1,0 +1,53 @@
+{
+  "name": "Deforestation imported and exported in trade (Pendrill et al. (2019))",
+  "title": "Deforestation imported and exported in trade (Pendrill et al. (2019))",
+  "id": 5225,
+  "description": "Pendrill et al. (2019) developed a land-balance model which attributed detected forest loss across the world to the expansion of croplands, pasture and tree plantations. This is then linked to particular agricultural commodities based on national land use, crop and forest product statistics published in the UN Food and Agricultural Organization balance sheets.\n\nThis study maps deforestation embedded in the international trade of these products using both a physical trade model, and a MRIO (multi-regional input-output) model. This allows for the quantification of deforestation embedded in imported food and forestry products.\n\nPendrill et al. (2019) provide data on exported and imported deforestation. Our World in Data have additionally calculated the net deforestation embedded in trade for each country by subtracting exports from imports.",
+  "sources": [
+    {
+      "name": "Pendrill, F., Persson, U. M., Godar, J., & Kastner, T. (2019). Deforestation displaced: trade in forest-risk commodities and the prospects for a global forest transition.",
+      "link": "https://iopscience.iop.org/article/10.1088/1748-9326/ab0d41",
+      "retrievedDate": "20th November 2020",
+      "additionalInfo": "Pendrill et al. (2019) developed a land-balance model which attributed detected forest loss across the world to the expansion of croplands, pasture and tree plantations. This is then linked to particular agricultural commodities based on national land use, crop and forest product statistics published in the UN Food and Agricultural Organization balance sheets.\n\nThis study maps deforestation embedded in the international trade of these products using both a physical trade model, and a MRIO (multi-regional input-output) model. This allows for the quantification of deforestation embedded in imported food and forestry products.\n\nPendrill et al. (2019) provide data on exported and imported deforestation. Our World in Data have additionally calculated the net deforestation embedded in trade for each country by subtracting exports from imports.",
+      "dataPublishedBy": "Pendrill, F., Persson, U. M., Godar, J., & Kastner, T. (2019). Deforestation displaced: trade in forest-risk commodities and the prospects for a global forest transition. Environmental Research Letters, 14(5), 055003."
+    }
+  ],
+  "owidTags": [
+    "Forests"
+  ],
+  "resources": [
+    {
+      "path": "Deforestation imported and exported in trade (Pendrill et al. (2019)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Imported deforestation (hectares)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Exported deforestation (hectares)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Net deforestation in trade (hectares)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
