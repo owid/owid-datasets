@@ -1,11 +1,11 @@
-Entity,Year,Oil production (tonnes),Share of total vegetable oil production,Area harvested (ha),Share of total oilcrop area,Oil yield (t/ha),Area needed to produce 1 tonne of oil (ha),Area needed to meet global vegetable oil demand (ha)
-Coconut Oil,2017,2561000,1.2,12273114,3.95,0.21,4.79,12273114
-Cottonseed Oil,2017,4388000,2.1,34517635,11.12,0.13,7.87,34517635
-Groundnut Oil,2017,5126000,2.4,28210684,9.09,0.18,5.50,28210684
-Olive Oil,2017,3039000,1.4,9704951,3.13,0.31,3.19,9704951
+Entity,Year,Vegetable oil production (tonnes),Share of total vegetable oil production,Area harvested (ha),Share of total oilcrop area,Oil yield (t/ha),Area needed to produce 1 tonne of oil (ha),Area needed to meet global vegetable oil demand (ha)
+Coconut Oil,2017,2561000,1.2,12273114,3.95,0.21,4.79,1007138157
+Cottonseed Oil,2017,4388000,2.1,34517635,11.12,0.13,7.87,1653172885
+Groundnut Oil,2017,5126000,2.4,28210684,9.09,0.18,5.5,1156588513
+Olive Oil,2017,3039000,1.4,9704951,3.13,0.31,3.19,671129775.4
 Other oilcrops,2017,21518000,10.2,9817139,3.16,2.19,0.46,
-Palm Oil,2017,75274000,35.8,18744464,6.04,4.02,0.25,18744464
-Rape and Mustard Oil,2017,24902000,11.8,36225992,11.67,0.69,1.45,36225992
-Sesameseed Oil,2017,937000,0.4,10498412,3.38,0.09,11.20,10498412
-Soybean Oil,2017,54010000,25.7,123893950,39.91,0.44,2.29,123893950
-Sunflowerseed Oil,2017,18400000,8.8,26525557,8.55,0.69,1.44,26525557
+Palm Oil,2017,75274000,35.8,18744464,6.04,4.02,0.25,52332549
+Rape and Mustard Oil,2017,24902000,11.8,36225992,11.67,0.69,1.45,305724271.2
+Sesameseed Oil,2017,937000,0.4,10498412,3.38,0.09,11.2,2354658240
+Soybean Oil,2017,54010000,25.7,123893950,39.91,0.44,2.29,482080741.5
+Sunflowerseed Oil,2017,18400000,8.8,26525557,8.55,0.69,1.44,302963667.5

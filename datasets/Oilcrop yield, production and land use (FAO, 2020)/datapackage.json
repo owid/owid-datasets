@@ -31,46 +31,46 @@
             "type": "year"
           },
           {
-            "name": "Oil production (tonnes)",
+            "name": "Vegetable oil production (tonnes)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Vegetable oil production\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Share of total vegetable oil production",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Data represents each crop's share of total vegetable oil production from all oilcrops.",
+            "owidDisplaySettings": "{\"name\": \"Share of total vegetable oil production\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true, \"numDecimalPlaces\": 1}"
           },
           {
             "name": "Area harvested (ha)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Land use of oilcrops\", \"unit\": \"hectares\", \"shortUnit\": \"ha\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Share of total oilcrop area",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Data represents each crop's share of total vegetable oil production from all oilcrops.",
+            "owidDisplaySettings": "{\"name\": \"Share of total land use from all oilcrops\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true, \"numDecimalPlaces\": 1}"
           },
           {
             "name": "Oil yield (t/ha)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Oil yields are measured as the amount of vegetable oil produced per hectare of land.",
+            "owidDisplaySettings": "{\"name\": \"Oil yield by crop type\", \"unit\": \"tonnes per hectare\", \"shortUnit\": \"t\", \"includeInTable\": true, \"numDecimalPlaces\": 2}"
           },
           {
             "name": "Area needed to produce 1 tonne of oil (ha)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "This metric is the inverse of oil yields. It represents the amount of landed that would need to be devoted to grow a given crop to produce one tonne of vegetable oil.",
+            "owidDisplaySettings": "{\"name\": \"Area of land needed to produce one tonne of vegetable oil\", \"unit\": \"hectares\", \"shortUnit\": \"ha\", \"includeInTable\": true, \"numDecimalPlaces\": 1}"
           },
           {
             "name": "Area needed to meet global vegetable oil demand (ha)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "This metric represents the amount of land that would need to be devoted to grow a given crop if it was to meet global vegetable oil demand alone. It is calculated as global vegetable oil demand divided by the oil yield of a given crop.",
+            "owidDisplaySettings": "{\"name\": \"Area of land that would be needed to meet global vegetable oil demand\", \"unit\": \"hectares\", \"shortUnit\": \"ha\", \"includeInTable\": true}"
           }
         ]
       }
