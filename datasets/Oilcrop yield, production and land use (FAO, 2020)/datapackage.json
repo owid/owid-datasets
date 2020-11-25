@@ -1,0 +1,79 @@
+{
+  "name": "Oilcrop yield, production and land use (FAO, 2020)",
+  "title": "Oilcrop yield, production and land use (FAO, 2020)",
+  "id": 5228,
+  "description": "Data on vegetable oil production and land use by crop type is sourced directly from the UN Food and Agriculture Organization (FAO) database.\n\nOur World in Data have calculated each crop's share of total vegetable oil production and land use based on this data.\n\nOur World in Data has also calculated oil yields per crop by dividing oil production by land area used to grow the crop. This is measured in tonnes per hectare. Note that this calculates the oil yield per hectare, which is different from the yield of the total crop: this is because not all of the crop can be used for oil.",
+  "sources": [
+    {
+      "name": "Calculated by Our World in Data based on data from the UN Food and Agriculture Organization (FAO)",
+      "link": "http://www.fao.org/faostat/en/#data/QC",
+      "retrievedDate": "25th November 2020",
+      "additionalInfo": "Data on vegetable oil production and land use by crop type is sourced directly from the UN Food and Agriculture Organization (FAO) database.\n\nOur World in Data have calculated each crop's share of total vegetable oil production and land use based on this data.\n\nOur World in Data has also calculated oil yields per crop by dividing oil production by land area used to grow the crop. This is measured in tonnes per hectare. Note that this calculates the oil yield per hectare, which is different from the yield of the total crop: this is because not all of the crop can be used for oil.",
+      "dataPublishedBy": "UN Food and Agriculture Organization (FAO)"
+    }
+  ],
+  "owidTags": [
+    "Forests",
+    "Land Use",
+    "Crop Yields"
+  ],
+  "resources": [
+    {
+      "path": "Oilcrop yield, production and land use (FAO, 2020).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Oil production (tonnes)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Share of total vegetable oil production",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Area harvested (ha)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Share of total oilcrop area",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Oil yield (t/ha)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Area needed to produce 1 tonne of oil (ha)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Area needed to meet global vegetable oil demand (ha)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
