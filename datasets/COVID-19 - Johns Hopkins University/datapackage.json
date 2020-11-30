@@ -1,0 +1,338 @@
+{
+  "name": "COVID-19 - Johns Hopkins University",
+  "title": "COVID-19 - Johns Hopkins University",
+  "id": 5220,
+  "description": "Raw data on confirmed cases and deaths for all countries is sourced from the <a href=\"https://github.com/CSSEGISandData/COVID-19\">COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University</a>.  \n\nOur complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, hospitalizations, and testing.\n\nWe have created a new description of all our data sources. You find it at our GitHub repository <strong><a href=\"https://github.com/owid/covid-19-data/tree/master/public/data/\">here</a></strong>. There you can download all of our data.",
+  "sources": [
+    {
+      "name": "Johns Hopkins University CSSE COVID-19 Data – Last updated 30 November, 06:01 (London time)",
+      "link": "https://github.com/CSSEGISandData/COVID-19",
+      "additionalInfo": "Raw data on confirmed cases and deaths for all countries is sourced from the <a href=\"https://github.com/CSSEGISandData/COVID-19\">COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University</a>.  \n\nOur complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, hospitalizations, and testing.\n\nWe have created a new description of all our data sources. You find it at our GitHub repository <strong><a href=\"https://github.com/owid/covid-19-data/tree/master/public/data/\">here</a></strong>. There you can download all of our data.",
+      "dataPublishedBy": "COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University"
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "COVID-19 - Johns Hopkins University.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Daily new confirmed cases of COVID-19",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Daily new confirmed deaths due to COVID-19",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Total confirmed cases of COVID-19",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Total confirmed deaths due to COVID-19",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Daily new confirmed cases of COVID-19 per million people",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Daily new confirmed deaths due to COVID-19 per million people",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Total confirmed cases of COVID-19 per million people",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Total confirmed deaths due to COVID-19 per million people",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Days since the total confirmed cases of COVID-19 reached 100",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Days since the total confirmed deaths of COVID-19 reached 5",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Days since the total confirmed cases of COVID-19 per million people reached 1",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Days since the total confirmed deaths of COVID-19 per million people reached 0.1",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Days since 30 daily new confirmed cases recorded",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Days since 50 daily new confirmed cases recorded",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Days since 10 daily new confirmed deaths recorded",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Days since 5 daily new confirmed deaths recorded",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Days since 3 daily new confirmed deaths recorded",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Days since daily new confirmed cases of COVID-19 (rolling 7-day average, right-aligned) reached 30",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Days since daily new confirmed deaths due to COVID-19 (rolling 7-day average, right-aligned) reached 5",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Days since daily new confirmed cases of COVID-19 per million people (rolling 7-day average, right-aligned) reached 1",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Days since daily new confirmed deaths due to COVID-19 per million people (rolling 7-day average, right-aligned) reached 0.1",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Days since daily new confirmed deaths due to COVID-19 per million people (rolling 7-day average, right-aligned) reached 0.01",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Daily new confirmed cases of COVID-19 (rolling 3-day average, right-aligned)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Daily new confirmed cases due to COVID-19 (rolling 7-day average, right-aligned)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Daily new confirmed deaths due to COVID-19 (rolling 3-day average, right-aligned)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Daily new confirmed deaths due to COVID-19 (rolling 7-day average, right-aligned)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Daily new confirmed cases of COVID-19 per million people (rolling 3-day average, right-aligned)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Daily new confirmed deaths due to COVID-19 per million people (rolling 3-day average, right-aligned)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Daily new confirmed cases of COVID-19 per million people (rolling 7-day average, right-aligned)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Daily new confirmed deaths due to COVID-19 per million people (rolling 7-day average, right-aligned)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Case fatality rate of COVID-19 (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Case fatality rate of COVID-19 (%) (Only observations with ≥100 cases)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Case fatality rate of COVID-19 (%) (Short-term)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Days since the total confirmed cases of COVID-19 reached 100 (with population ≥ 5M)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Has population ≥ 5M AND had ≥100 cases ≥21 days ago AND has testing data",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Doubling days of total confirmed cases (3 day period)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Doubling days of total confirmed cases (7 day period)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Doubling days of total confirmed deaths (3 day period)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Doubling days of total confirmed deaths (7 day period)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Weekly cases",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Weekly deaths",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Weekly case growth (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Weekly death growth (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Biweekly cases",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Biweekly deaths",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Biweekly case growth (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Biweekly death growth (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Weekly cases per million people",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Weekly deaths per million people",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Biweekly cases per million people",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Biweekly deaths per million people",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          }
+        ]
+      }
+    }
+  ]
+}
