@@ -7,7 +7,7 @@
     {
       "name": "European Centre for Disease Prevention and Control (ECDC) and COVID Tracking Project",
       "link": "https://www.ecdc.europa.eu/en/publications-data/download-data-hospital-and-icu-admission-rates-and-current-occupancy-covid-19; https://covidtracking.com/data/download",
-      "retrievedDate": "November 26, 2020",
+      "retrievedDate": "December 3, 2020",
       "additionalInfo": "Raw data on hospitalization and Intensive Care Unit (ICU) admission rates and current occupancy for COVID-19 is sourced from the <a href=\"https://www.ecdc.europa.eu/en/publications-data/download-data-hospital-and-icu-admission-rates-and-current-occupancy-covid-19\">European Centre for Disease Prevention and Control (ECDC)</a> and the <a href=\"https://covidtracking.com\">COVID Tracking Project</a>.  \n\nOur complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, and testing.\n\nWe have created a new description of all our data sources. You find it at our GitHub repository <strong><a href=\"https://github.com/owid/covid-19-data/tree/master/public/data/\">here</a></strong>. There you can download all of our data.",
       "dataPublishedBy": "European Centre for Disease Prevention and Control (ECDC) and COVID Tracking Project"
     }
@@ -30,13 +30,13 @@
             "name": "Daily ICU occupancy",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Current number of COVID-19 patients in ICU\", \"unit\": \"patients in ICU\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+            "owidDisplaySettings": "{\"name\": \"Current number of COVID-19 patients in ICU\", \"unit\": \"patients in ICU\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Hungary: patients on ventilator\"}"
           },
           {
             "name": "Daily ICU occupancy per million",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Number of COVID-19 patients in ICU per million\", \"unit\": \"per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 2}"
+            "owidDisplaySettings": "{\"name\": \"Number of COVID-19 patients in ICU per million\", \"unit\": \"per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 2, \"entityAnnotationsMap\": \"Hungary: patients on ventilator\"}"
           },
           {
             "name": "Daily hospital occupancy",
@@ -54,7 +54,7 @@
             "name": "Weekly new ICU admissions",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Weekly new ICU admissions for COVID-19\", \"unit\": \"ICU patients\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+            "owidDisplaySettings": "{\"name\": \"Weekly new ICU admissions for COVID-19\", \"unit\": \"ICU patients\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Hungary: patients on ventilator\"}"
           },
           {
             "name": "Weekly new ICU admissions per million",
