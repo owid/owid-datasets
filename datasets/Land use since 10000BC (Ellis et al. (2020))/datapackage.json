@@ -1,0 +1,47 @@
+{
+  "name": "Land use since 10000BC (Ellis et al. (2020))",
+  "title": "Land use since 10000BC (Ellis et al. (2020))",
+  "id": 5230,
+  "description": "The authors produce a global reconstruction and mapping of anthropogenic land use from 10,000 BCE to 2015 CE; the Anthromes 12K dataset. Anthromes were mapped using gridded global estimates of human population density and land use from the History of the Global Environment database (HYDE version 3.2) by a classification procedure similar to that used for prior anthrome maps.\n\nOur World in Data has also provided aggregated land use categories based on the Ellis et al. (2020) results, where categories were grouped in the following way:\n– Urban: \"Urban\" + \"Mixed settlements\"\n– Villages: \"Rice villages\" + \"Irrigated villages\" + \"Rainfed villages\" + \"Pastoral villages\"\n– Croplands: \"Residential irrigated croplands\" + \"Residential rainfed croplands\" + \"Populated rainfed croplands\" + \"Remote croplands\"\n– Pasture : \"Residential rangelands\" + \"Populated rangelands\" + \"Remote rangelands\"\n– Semi-natural land: \"Residential woodlands\" + \"Populated woodlands\" + \"Remote woodlands\"",
+  "sources": [
+    {
+      "name": "Ellis, E. C., Beusen, A. H., & Goldewijk, K. K. (2020). Anthropogenic Biomes: 10,000 BCE to 2015 CE.",
+      "link": "https://www.mdpi.com/2073-445X/9/5/129",
+      "retrievedDate": "3rd December 2020",
+      "additionalInfo": "The authors produce a global reconstruction and mapping of anthropogenic land use from 10,000 BCE to 2015 CE; the Anthromes 12K dataset. Anthromes were mapped using gridded global estimates of human population density and land use from the History of the Global Environment database (HYDE version 3.2) by a classification procedure similar to that used for prior anthrome maps.\n\nOur World in Data has also provided aggregated land use categories based on the Ellis et al. (2020) results, where categories were grouped in the following way:\n– Urban: \"Urban\" + \"Mixed settlements\"\n– Villages: \"Rice villages\" + \"Irrigated villages\" + \"Rainfed villages\" + \"Pastoral villages\"\n– Croplands: \"Residential irrigated croplands\" + \"Residential rainfed croplands\" + \"Populated rainfed croplands\" + \"Remote croplands\"\n– Pasture : \"Residential rangelands\" + \"Populated rangelands\" + \"Remote rangelands\"\n– Semi-natural land: \"Residential woodlands\" + \"Populated woodlands\" + \"Remote woodlands\"",
+      "dataPublishedBy": "Ellis, E. C., Beusen, A. H., & Goldewijk, K. K. (2020). Anthropogenic Biomes: 10,000 BCE to 2015 CE. Land, 9 (5), 129."
+    }
+  ],
+  "owidTags": [
+    "Land Use"
+  ],
+  "resources": [
+    {
+      "path": "Land use since 10000BC (Ellis et al. (2020)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "area_disaggregated_categories",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "area_aggregated_categories",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
