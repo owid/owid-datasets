@@ -2,14 +2,14 @@
   "name": "CO2 emissions by sector (CAIT, 2020)",
   "title": "CO2 emissions by sector (CAIT, 2020)",
   "id": 5084,
-  "description": "Carbon dioxide (CO₂) emissions broken down by sector, measured in tonnes per year.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
+  "description": "Carbon dioxide (CO₂) emissions broken down by sector, measured in tonnes per year. Further information on sector definitions is available here: https://ourworldindata.org/ghg-emissions-by-sector\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
   "sources": [
     {
       "name": "CAIT Climate Data Explorer via. Climate Watch",
-      "dataPublishedBy": "CAIT Climate Data Explorer via. Climate Watch",
       "link": "https://www.climatewatchdata.org/data-explorer/historical-emissions",
       "retrievedDate": "28th May 2020",
-      "additionalInfo": "Carbon dioxide (CO₂) emissions broken down by sector, measured in tonnes per year.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions"
+      "additionalInfo": "Carbon dioxide (CO₂) emissions broken down by sector, measured in tonnes per year. Further information on sector definitions is available here: https://ourworldindata.org/ghg-emissions-by-sector\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
+      "dataPublishedBy": "CAIT Climate Data Explorer via. Climate Watch"
     }
   ],
   "owidTags": [
