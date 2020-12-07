@@ -1,4 +1,4 @@
-# Supercomputer power (FLOPS)- TOP500 Database
+# Supercomputer power (FLOPS) – TOP500 Database
 
 Data on supercomputer power is sourced from the TOP500 database which tracks and reports the 500 largest supercomputers on a bi-annual basis. 
 
