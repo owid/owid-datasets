@@ -91,3 +91,11 @@ Face coverings
 2- Required in some specified shared/public spaces outside the home with other people present, or some situations when social distancing not possible
 3- Required in all shared/public spaces outside the home with other people present or all situations when social distancing not possible
 4- Required outside the home at all times regardless of location or presence of other people
+
+Vaccination policy
+0 - No availability
+1 - Availability for ONE of following: key workers/ clinically vulnerable groups / elderly groups
+2 - Availability for TWO of following: key workers/ clinically vulnerable groups / elderly groups
+3 - Availability for ALL of following: key workers/ clinically vulnerable groups / elderly groups
+4 - Availability for all three plus partial additional availability (select broad groups/ages)
+5 - Universal availability

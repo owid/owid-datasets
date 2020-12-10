@@ -2,12 +2,12 @@
   "name": "COVID Government Response (OxBSG)",
   "title": "COVID Government Response (OxBSG)",
   "id": 5078,
-  "description": "OxCGRT collects publicly available information on indicators of government response. These indicators take policies such as school closures, travel bans, etc. and record them on an ordinal scale; the remainder are financial indicators such as fiscal or monetary measures.\n\nOxCGRT measures the variation in governments’ responses using its 'COVID-19 Government Response Stringency Index (Stringency Index)'. This composite measure is a simple additive score of nine indicators measured on an ordinal scale, rescaled to vary from 0 to 100. Please note that this measure is for comparative purposes only, and should not necessarily be interpreted as a rating of the appropriateness or effectiveness of a country's response.\n\nIt also includes a measure of 'COVID-19 Containment and Health Response' index which is based on the metrics used in the 'Stringency Index' plus testing policy and contact tracing.\n\nNote: \nThis is an ongoing collation project of live data. If you see any inaccuracies in the underlying data please contact us on the feedback form below. The underlying index is evolving as the situation and data evolves from country to country, and will change over time as the data gets more accurate.\n\nThe specific policy and response categories are coded as follows:\n\nSchool closures:\n0 - No measures\n1 - recommend closing\n2 - Require closing (only some levels or categories,\neg just high school, or just public schools)\n3 - Require closing all levels\nNo data - blank\n\nWorkplace closures:\n0 - No measures\n1 - recommend closing (or work from home)\n2 - require closing (or work from home) for some\nsectors or categories of workers\n3 - require closing (or work from home) all but essential workplaces (eg grocery stores, doctors)\nNo data - blank\n\nCancel public events:\n0- No measures\n1 - Recommend cancelling\n2 - Require cancelling\nNo data - blank\n\nRestrictions on gatherings:\n0 - No restrictions\n1 - Restrictions on very large gatherings (the limit is above 1000 people)\n2 - Restrictions on gatherings between 100-1000 people\n3 - Restrictions on gatherings between 10-100 people\n4 - Restrictions on gatherings of less than 10 people\nNo data - blank\n\nClose public transport:\n0 - No measures\n1 - Recommend closing (or significantly reduce volume/route/means of transport available)\n2 - Require closing (or prohibit most citizens from using it)\n\nPublic information campaigns:\n0 -No COVID-19 public information campaign\n1 - public officials urging caution about COVID-19\n2 - coordinated public information campaign (e.g. across traditional and social media)\nNo data - blank\n\nStay at home:\n0 - No measures\n1 - recommend not leaving house\n2 - require not leaving house with exceptions for daily exercise, grocery shopping, and ‘essential’ trips\n3 - Require not leaving house with minimal exceptions (e.g. allowed to leave only once every few days, or only one person can leave at a time, etc.)\nNo data - blank\n\nRestrictions on internal movement:\n0 - No measures\n1 - Recommend movement restriction\n2 - Restrict movement\n\nInternational travel controls:\n0 - No measures\n1 - Screening\n2 - Quarantine arrivals from high-risk regions\n3 - Ban on high-risk regions\n4 - Total border closure\nNo data - blank\n\nTesting policy\n0 – No testing policy\n1 – Only those who both (a) have symptoms AND (b) meet specific criteria (eg key workers, admitted to hospital, came into contact with a known case, returned from overseas)\n2 – testing of anyone showing COVID-19 symptoms\n3 – open public testing (eg “drive through” testing available to asymptomatic people)\nNo data\n\nContract tracing\n0 - No contact tracing\n1 - Limited contact tracing - not done for all cases\n2 - Comprehensive contact tracing - done for all cases\nNo data\n\nFace coverings\n0- No policy\n1- Recommended\n2- Required in some specified shared/public spaces outside the home with other people present, or some situations when social distancing not possible\n3- Required in all shared/public spaces outside the home with other people present or all situations when social distancing not possible\n4- Required outside the home at all times regardless of location or presence of other people",
+  "description": "OxCGRT collects publicly available information on indicators of government response. These indicators take policies such as school closures, travel bans, etc. and record them on an ordinal scale; the remainder are financial indicators such as fiscal or monetary measures.\n\nOxCGRT measures the variation in governments’ responses using its 'COVID-19 Government Response Stringency Index (Stringency Index)'. This composite measure is a simple additive score of nine indicators measured on an ordinal scale, rescaled to vary from 0 to 100. Please note that this measure is for comparative purposes only, and should not necessarily be interpreted as a rating of the appropriateness or effectiveness of a country's response.\n\nIt also includes a measure of 'COVID-19 Containment and Health Response' index which is based on the metrics used in the 'Stringency Index' plus testing policy and contact tracing.\n\nNote: \nThis is an ongoing collation project of live data. If you see any inaccuracies in the underlying data please contact us on the feedback form below. The underlying index is evolving as the situation and data evolves from country to country, and will change over time as the data gets more accurate.\n\nThe specific policy and response categories are coded as follows:\n\nSchool closures:\n0 - No measures\n1 - recommend closing\n2 - Require closing (only some levels or categories,\neg just high school, or just public schools)\n3 - Require closing all levels\nNo data - blank\n\nWorkplace closures:\n0 - No measures\n1 - recommend closing (or work from home)\n2 - require closing (or work from home) for some\nsectors or categories of workers\n3 - require closing (or work from home) all but essential workplaces (eg grocery stores, doctors)\nNo data - blank\n\nCancel public events:\n0- No measures\n1 - Recommend cancelling\n2 - Require cancelling\nNo data - blank\n\nRestrictions on gatherings:\n0 - No restrictions\n1 - Restrictions on very large gatherings (the limit is above 1000 people)\n2 - Restrictions on gatherings between 100-1000 people\n3 - Restrictions on gatherings between 10-100 people\n4 - Restrictions on gatherings of less than 10 people\nNo data - blank\n\nClose public transport:\n0 - No measures\n1 - Recommend closing (or significantly reduce volume/route/means of transport available)\n2 - Require closing (or prohibit most citizens from using it)\n\nPublic information campaigns:\n0 -No COVID-19 public information campaign\n1 - public officials urging caution about COVID-19\n2 - coordinated public information campaign (e.g. across traditional and social media)\nNo data - blank\n\nStay at home:\n0 - No measures\n1 - recommend not leaving house\n2 - require not leaving house with exceptions for daily exercise, grocery shopping, and ‘essential’ trips\n3 - Require not leaving house with minimal exceptions (e.g. allowed to leave only once every few days, or only one person can leave at a time, etc.)\nNo data - blank\n\nRestrictions on internal movement:\n0 - No measures\n1 - Recommend movement restriction\n2 - Restrict movement\n\nInternational travel controls:\n0 - No measures\n1 - Screening\n2 - Quarantine arrivals from high-risk regions\n3 - Ban on high-risk regions\n4 - Total border closure\nNo data - blank\n\nTesting policy\n0 – No testing policy\n1 – Only those who both (a) have symptoms AND (b) meet specific criteria (eg key workers, admitted to hospital, came into contact with a known case, returned from overseas)\n2 – testing of anyone showing COVID-19 symptoms\n3 – open public testing (eg “drive through” testing available to asymptomatic people)\nNo data\n\nContract tracing\n0 - No contact tracing\n1 - Limited contact tracing - not done for all cases\n2 - Comprehensive contact tracing - done for all cases\nNo data\n\nFace coverings\n0- No policy\n1- Recommended\n2- Required in some specified shared/public spaces outside the home with other people present, or some situations when social distancing not possible\n3- Required in all shared/public spaces outside the home with other people present or all situations when social distancing not possible\n4- Required outside the home at all times regardless of location or presence of other people\n\nVaccination policy\n0 - No availability\n1 - Availability for ONE of following: key workers/ clinically vulnerable groups / elderly groups\n2 - Availability for TWO of following: key workers/ clinically vulnerable groups / elderly groups\n3 - Availability for ALL of following: key workers/ clinically vulnerable groups / elderly groups\n4 - Availability for all three plus partial additional availability (select broad groups/ages)\n5 - Universal availability",
   "sources": [
     {
-      "name": "Hale, Webster, Petherick, Phillips, and Kira (2020). Oxford COVID-19 Government Response Tracker – Last updated 23 October, 09:30 (London time)",
+      "name": "Hale, Webster, Petherick, Phillips, and Kira (2020). Oxford COVID-19 Government Response Tracker – Last updated 9 December, 15:11 (London time)",
       "link": "https://www.bsg.ox.ac.uk/research/research-projects/oxford-covid-19-government-response-tracker",
-      "additionalInfo": "OxCGRT collects publicly available information on indicators of government response. These indicators take policies such as school closures, travel bans, etc. and record them on an ordinal scale; the remainder are financial indicators such as fiscal or monetary measures.\n\nOxCGRT measures the variation in governments’ responses using its 'COVID-19 Government Response Stringency Index (Stringency Index)'. This composite measure is a simple additive score of nine indicators measured on an ordinal scale, rescaled to vary from 0 to 100. Please note that this measure is for comparative purposes only, and should not necessarily be interpreted as a rating of the appropriateness or effectiveness of a country's response.\n\nIt also includes a measure of 'COVID-19 Containment and Health Response' index which is based on the metrics used in the 'Stringency Index' plus testing policy and contact tracing.\n\nNote: \nThis is an ongoing collation project of live data. If you see any inaccuracies in the underlying data please contact us on the feedback form below. The underlying index is evolving as the situation and data evolves from country to country, and will change over time as the data gets more accurate.\n\nThe specific policy and response categories are coded as follows:\n\nSchool closures:\n0 - No measures\n1 - recommend closing\n2 - Require closing (only some levels or categories,\neg just high school, or just public schools)\n3 - Require closing all levels\nNo data - blank\n\nWorkplace closures:\n0 - No measures\n1 - recommend closing (or work from home)\n2 - require closing (or work from home) for some\nsectors or categories of workers\n3 - require closing (or work from home) all but essential workplaces (eg grocery stores, doctors)\nNo data - blank\n\nCancel public events:\n0- No measures\n1 - Recommend cancelling\n2 - Require cancelling\nNo data - blank\n\nRestrictions on gatherings:\n0 - No restrictions\n1 - Restrictions on very large gatherings (the limit is above 1000 people)\n2 - Restrictions on gatherings between 100-1000 people\n3 - Restrictions on gatherings between 10-100 people\n4 - Restrictions on gatherings of less than 10 people\nNo data - blank\n\nClose public transport:\n0 - No measures\n1 - Recommend closing (or significantly reduce volume/route/means of transport available)\n2 - Require closing (or prohibit most citizens from using it)\n\nPublic information campaigns:\n0 -No COVID-19 public information campaign\n1 - public officials urging caution about COVID-19\n2 - coordinated public information campaign (e.g. across traditional and social media)\nNo data - blank\n\nStay at home:\n0 - No measures\n1 - recommend not leaving house\n2 - require not leaving house with exceptions for daily exercise, grocery shopping, and ‘essential’ trips\n3 - Require not leaving house with minimal exceptions (e.g. allowed to leave only once every few days, or only one person can leave at a time, etc.)\nNo data - blank\n\nRestrictions on internal movement:\n0 - No measures\n1 - Recommend movement restriction\n2 - Restrict movement\n\nInternational travel controls:\n0 - No measures\n1 - Screening\n2 - Quarantine arrivals from high-risk regions\n3 - Ban on high-risk regions\n4 - Total border closure\nNo data - blank\n\nTesting policy\n0 – No testing policy\n1 – Only those who both (a) have symptoms AND (b) meet specific criteria (eg key workers, admitted to hospital, came into contact with a known case, returned from overseas)\n2 – testing of anyone showing COVID-19 symptoms\n3 – open public testing (eg “drive through” testing available to asymptomatic people)\nNo data\n\nContract tracing\n0 - No contact tracing\n1 - Limited contact tracing - not done for all cases\n2 - Comprehensive contact tracing - done for all cases\nNo data\n\nFace coverings\n0- No policy\n1- Recommended\n2- Required in some specified shared/public spaces outside the home with other people present, or some situations when social distancing not possible\n3- Required in all shared/public spaces outside the home with other people present or all situations when social distancing not possible\n4- Required outside the home at all times regardless of location or presence of other people",
+      "additionalInfo": "OxCGRT collects publicly available information on indicators of government response. These indicators take policies such as school closures, travel bans, etc. and record them on an ordinal scale; the remainder are financial indicators such as fiscal or monetary measures.\n\nOxCGRT measures the variation in governments’ responses using its 'COVID-19 Government Response Stringency Index (Stringency Index)'. This composite measure is a simple additive score of nine indicators measured on an ordinal scale, rescaled to vary from 0 to 100. Please note that this measure is for comparative purposes only, and should not necessarily be interpreted as a rating of the appropriateness or effectiveness of a country's response.\n\nIt also includes a measure of 'COVID-19 Containment and Health Response' index which is based on the metrics used in the 'Stringency Index' plus testing policy and contact tracing.\n\nNote: \nThis is an ongoing collation project of live data. If you see any inaccuracies in the underlying data please contact us on the feedback form below. The underlying index is evolving as the situation and data evolves from country to country, and will change over time as the data gets more accurate.\n\nThe specific policy and response categories are coded as follows:\n\nSchool closures:\n0 - No measures\n1 - recommend closing\n2 - Require closing (only some levels or categories,\neg just high school, or just public schools)\n3 - Require closing all levels\nNo data - blank\n\nWorkplace closures:\n0 - No measures\n1 - recommend closing (or work from home)\n2 - require closing (or work from home) for some\nsectors or categories of workers\n3 - require closing (or work from home) all but essential workplaces (eg grocery stores, doctors)\nNo data - blank\n\nCancel public events:\n0- No measures\n1 - Recommend cancelling\n2 - Require cancelling\nNo data - blank\n\nRestrictions on gatherings:\n0 - No restrictions\n1 - Restrictions on very large gatherings (the limit is above 1000 people)\n2 - Restrictions on gatherings between 100-1000 people\n3 - Restrictions on gatherings between 10-100 people\n4 - Restrictions on gatherings of less than 10 people\nNo data - blank\n\nClose public transport:\n0 - No measures\n1 - Recommend closing (or significantly reduce volume/route/means of transport available)\n2 - Require closing (or prohibit most citizens from using it)\n\nPublic information campaigns:\n0 -No COVID-19 public information campaign\n1 - public officials urging caution about COVID-19\n2 - coordinated public information campaign (e.g. across traditional and social media)\nNo data - blank\n\nStay at home:\n0 - No measures\n1 - recommend not leaving house\n2 - require not leaving house with exceptions for daily exercise, grocery shopping, and ‘essential’ trips\n3 - Require not leaving house with minimal exceptions (e.g. allowed to leave only once every few days, or only one person can leave at a time, etc.)\nNo data - blank\n\nRestrictions on internal movement:\n0 - No measures\n1 - Recommend movement restriction\n2 - Restrict movement\n\nInternational travel controls:\n0 - No measures\n1 - Screening\n2 - Quarantine arrivals from high-risk regions\n3 - Ban on high-risk regions\n4 - Total border closure\nNo data - blank\n\nTesting policy\n0 – No testing policy\n1 – Only those who both (a) have symptoms AND (b) meet specific criteria (eg key workers, admitted to hospital, came into contact with a known case, returned from overseas)\n2 – testing of anyone showing COVID-19 symptoms\n3 – open public testing (eg “drive through” testing available to asymptomatic people)\nNo data\n\nContract tracing\n0 - No contact tracing\n1 - Limited contact tracing - not done for all cases\n2 - Comprehensive contact tracing - done for all cases\nNo data\n\nFace coverings\n0- No policy\n1- Recommended\n2- Required in some specified shared/public spaces outside the home with other people present, or some situations when social distancing not possible\n3- Required in all shared/public spaces outside the home with other people present or all situations when social distancing not possible\n4- Required outside the home at all times regardless of location or presence of other people\n\nVaccination policy\n0 - No availability\n1 - Availability for ONE of following: key workers/ clinically vulnerable groups / elderly groups\n2 - Availability for TWO of following: key workers/ clinically vulnerable groups / elderly groups\n3 - Availability for ALL of following: key workers/ clinically vulnerable groups / elderly groups\n4 - Availability for all three plus partial additional availability (select broad groups/ages)\n5 - Universal availability",
       "dataPublishedBy": "Thomas Hale, Sam Webster, Anna Petherick, Toby Phillips, and Beatriz Kira (2020). Oxford COVID-19 Government Response Tracker, Blavatnik School of Government."
     }
   ],
@@ -28,124 +28,130 @@
             "type": "year"
           },
           {
-            "name": "School closures (OxBSG)",
+            "name": "school_closures",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"School closures\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"name\": \"School closures\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
-            "name": "Workplace Closures (OxBSG)",
+            "name": "workplace_closures",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"name\": \"Workplace Closures (OxBSG)\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
-            "name": "Cancel public events (OxBSG)",
+            "name": "cancel_public_events",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"name\": \"Cancel public events (OxBSG)\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
-            "name": "Close public transport (OxBSG)",
+            "name": "close_public_transport",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"name\": \"Close public transport (OxBSG)\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
-            "name": "Public information campaigns (OxBSG)",
+            "name": "public_information_campaigns",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"name\": \"Public information campaigns (OxBSG)\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
-            "name": "Restrictions on internal movement (OxBSG)",
+            "name": "restrictions_internal_movements",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"name\": \"Restrictions on internal movement (OxBSG)\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
-            "name": "International travel controls (OxBSG)",
+            "name": "international_travel_controls",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"name\": \"International travel controls (OxBSG)\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
-            "name": "Fiscal measures (OxBSG)",
+            "name": "fiscal_measures",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"name\": \"Fiscal measures (OxBSG)\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
-            "name": "Emergency investment in health care (OxBSG)",
+            "name": "emergency_investment_healthcare",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"name\": \"Emergency investment in health care (OxBSG)\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
-            "name": "Investment in Vaccines (OxBSG)",
+            "name": "investment_vaccines",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Investment in COVID-19 vaccines\", \"unit\": \"$\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"$\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"name\": \"Investment in COVID-19 vaccines\", \"unit\": \"$\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"$\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
-            "name": "Contact tracing (OxBSG)",
+            "name": "contact_tracing",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"name\": \"Contact tracing (OxBSG)\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
-            "name": "Stringency Index (OxBSG)",
+            "name": "stringency_index",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Government Response Stringency Index\", \"unit\": \"(0 to 100, 100 = strictest)\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"name\": \"Government Response Stringency Index\", \"unit\": \"(0 to 100, 100 = strictest)\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
-            "name": "Restrictions on gatherings (OxBSG)",
+            "name": "restriction_gatherings",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"name\": \"Restrictions on gatherings (OxBSG)\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
-            "name": "Stay at home requirements (OxBSG)",
+            "name": "stay_home_requirements",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"name\": \"Stay at home requirements (OxBSG)\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
-            "name": "Income support (OxBSG)",
+            "name": "income_support",
             "type": "any",
             "description": "This metric captures if the government is covering the salaries or providing direct cash payments, universal basic income, or similar, of people who lose their jobs or cannot work. (Includes payments to firms if explicitly linked to payroll/ salaries).\n\n0 - no income support\n1 - government is replacing less than 50% of lost salary (or if a flat sum, it is less than 50% median salary)\n2 - government is replacing 50% or more of lost salary (or if a flat sum, it is greater than 50% median salary)",
-            "owidDisplaySettings": "{\"name\": \"Income support\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"name\": \"Income support\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
-            "name": "Debt/contract relief (OxBSG)",
+            "name": "debt_relief",
             "type": "any",
             "description": "This metric records if the Government is freezing financial obligations (e.g. stopping loan repayments, preventing services like water from stopping, or banning evictions).\n\n0 - No debt relief\n1 - Narrow relief, specific to one kind of contract\n2 - broad debt/contract relief",
-            "owidDisplaySettings": "{\"name\": \"Debt or contract relief\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"name\": \"Debt or contract relief\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
-            "name": "International support (OxBSG)",
+            "name": "international_support",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"name\": \"International support (OxBSG)\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
-            "name": "Testing policy (OxBSG)",
+            "name": "testing_policy",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"name\": \"Testing policy (OxBSG)\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
-            "name": "Containment and Health Index (OxBSG)",
+            "name": "containment_index",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"COVID-19 Containment and Health Index\", \"unit\": \"(0 to 100, 100 = strictest)\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
-            "name": "Facial coverings (OxBSG)",
+            "name": "facial_coverings",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"name\": \"Facial coverings (OxBSG)\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "vaccination_policy",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           }
         ]
       }
