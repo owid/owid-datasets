@@ -1,0 +1,136 @@
+{
+  "name": "Archaeological land use (Stephens et al. 2019)",
+  "title": "Archaeological land use (Stephens et al. 2019)",
+  "id": 5231,
+  "description": "",
+  "sources": [
+    {
+      "name": "Stephens et al. (2019). Archaeological assessment reveals Earth’s early transformation through land use. Science.",
+      "link": "https://science.sciencemag.org/content/365/6456/897",
+      "retrievedDate": "11th December 2020",
+      "dataPublishedBy": "Stephens, L., Fuller, D., Boivin, N., Rick, T., Gauthier, N., Kay, A., ... & Denham, T. (2019). Archaeological assessment reveals Earth’s early transformation through land use. Science, 365(6456), 897-902."
+    }
+  ],
+  "owidTags": [
+    "Land Use"
+  ],
+  "resources": [
+    {
+      "path": "Archaeological land use (Stephens et al. 2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "cum_sum_regions",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "global_share_land_use_extent",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "foraging",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "extensive_agriculture",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "intensive_agriculture",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "pastoralism",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "urban",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "foraging_onset_date",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "foraging_decline_date",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "extensive_agriculture_onset",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "extensive_agriculture_decline",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "pastoralism_onset",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "pastoralism_decline",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "intensive_agriculture_onset",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "intensive_agriculture_decline",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "urban_onset",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "urban_decline",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
