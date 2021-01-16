@@ -136,42 +136,6 @@
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "Cumulative excess deaths, all ages",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
-          },
-          {
-            "name": "Excess mortality cumulative P-scores, ages 15–64",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
-          },
-          {
-            "name": "Excess mortality cumulative P-scores, ages 65–74",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
-          },
-          {
-            "name": "Excess mortality cumulative P-scores, ages 75–84",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
-          },
-          {
-            "name": "Excess mortality cumulative P-scores, ages 85+",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
-          },
-          {
-            "name": "Excess mortality cumulative P-scores, all ages",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           }
         ]
       }
