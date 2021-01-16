@@ -1,4 +1,4 @@
-# Excess Mortality Data – HMD (2020)
+# Excess Mortality Data – HMD (2021)
 
 Data is from the Human Mortality Database (HMD) Short-term Mortality Fluctuations project for all countries except the UK (HMD has data for England & Wales, Scotland, and N. Ireland but not the UK as a whole). UK data sourced from the UK Office for National Statistics (ONS).
 
