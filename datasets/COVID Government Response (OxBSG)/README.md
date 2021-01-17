@@ -4,7 +4,7 @@ OxCGRT collects publicly available information on indicators of government respo
 
 OxCGRT measures the variation in governments’ responses using its 'COVID-19 Government Response Stringency Index (Stringency Index)'. This composite measure is a simple additive score of nine indicators measured on an ordinal scale, rescaled to vary from 0 to 100. Please note that this measure is for comparative purposes only, and should not necessarily be interpreted as a rating of the appropriateness or effectiveness of a country's response.
 
-It also includes a measure of 'COVID-19 Containment and Health Response' index which is based on the metrics used in the 'Stringency Index' plus testing policy and contact tracing.
+It also includes a measure of 'COVID-19 Containment and Health Response' index which is based on the metrics used in the 'Stringency Index' plus testing policy, contact tracing, face coverings and vaccine policy.
 
 Note: 
 This is an ongoing collation project of live data. If you see any inaccuracies in the underlying data please contact us on the feedback form below. The underlying index is evolving as the situation and data evolves from country to country, and will change over time as the data gets more accurate.
