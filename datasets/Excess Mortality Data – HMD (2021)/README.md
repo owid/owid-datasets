@@ -6,7 +6,7 @@ We used the raw weekly death data from HMD to calculate P-scores. The P-score is
 
 We do not show the most recent weeks of countries’ data series. The decision about how many weeks to exclude is made individually for each country based on when the reported number of deaths in a given week changes by less than ~3% relative to the number previously reported for that week, implying that the reports have reached a high level of completeness. The exclusion of data based on this threshold varies from zero weeks (for countries that quickly reach a high level of reporting completeness) to four weeks. For a detailed list of the data we exclude for each country see this spreadsheet: https://docs.google.com/spreadsheets/d/1Z_mnVOvI9GVLiJRG1_3ond-Vs1GTseHVv1w-pF2o6Bs/edit?usp=sharing.
 
-Week dates each year are defined by international standard ISO 8601, although not all countries follow this standard.
+The death data is reported by countries on a weekly basis and numbered from Week 1 to Week 52 (or 53) over the course of a year. But countries define the start and end day of each week differently. Most countries use international standard ISO 8601, which starts on Mondays and ends on Sundays, but not all countries follow this standard. For instance, for England & Wales the week starts on Saturdays and ends on Fridays. This means the dates of any particular reporting week might differ slightly between countries.
 
 For a more detailed description of the HMD data, including week date definitions, the coverage (of individuals, locations, and time), whether dates are for death occurrence or registration, the original national source information, and important caveats, see the HMD metadata file at https://www.mortality.org/Public/STMF_DOC/STMFmetadata.pdf.
 
