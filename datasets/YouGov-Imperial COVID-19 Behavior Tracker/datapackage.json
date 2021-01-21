@@ -1,0 +1,636 @@
+{
+  "name": "YouGov-Imperial COVID-19 Behavior Tracker",
+  "title": "YouGov-Imperial COVID-19 Behavior Tracker",
+  "id": 5202,
+  "description": "YouGov has partnered with the Institute of Global Health Innovation (IGHI) at Imperial College London to gather global insights on people’s behaviors in response to COVID-19. The research will cover 29 countries, interviewing around 21,000 people each week.\n\nIt is designed to provide behavioral analysis on how different populations are responding to the pandemic, helping public health bodies in their efforts to limit the impact of the disease. Anonymized respondent level data will be available for all public health and academic institutions globally.\n\nThe questions in the survey, led by IGHI, cover data on testing, symptoms, self-isolating in response to symptoms and the ability and willingness to self-isolate if needed. It also looks at behaviors, including going outdoors, working outside the home, contact with others, handwashing and the extent of compliance with 20 common preventative measures.",
+  "sources": [
+    {
+      "name": "Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub – Last updated 18 January 2021, 09:52 (London time)",
+      "link": "https://github.com/YouGov-Data/covid-19-tracker",
+      "retrievedDate": "January 14, 2021",
+      "additionalInfo": "YouGov has partnered with the Institute of Global Health Innovation (IGHI) at Imperial College London to gather global insights on people’s behaviors in response to COVID-19. The research will cover 29 countries, interviewing around 21,000 people each week.\n\nIt is designed to provide behavioral analysis on how different populations are responding to the pandemic, helping public health bodies in their efforts to limit the impact of the disease. Anonymized respondent level data will be available for all public health and academic institutions globally.\n\nThe questions in the survey, led by IGHI, cover data on testing, symptoms, self-isolating in response to symptoms and the ability and willingness to self-isolate if needed. It also looks at behaviors, including going outdoors, working outside the home, contact with others, handwashing and the extent of compliance with 20 common preventative measures.",
+      "dataPublishedBy": "Imperial College London, YouGov",
+      "dataPublisherSource": "Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub"
+    }
+  ],
+  "owidTags": [
+    "Coronavirus disease [COVID-19]"
+  ],
+  "resources": [
+    {
+      "path": "YouGov-Imperial COVID-19 Behavior Tracker.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "household_members_contact",
+            "type": "any",
+            "description": "Months containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Number of people from own household that respondents came into physical contact with (within 2m/6ft)\", \"zeroDay\": \"2020-01-21\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "people_contact_outside_household",
+            "type": "any",
+            "description": "Months containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Number of people from outside own household that respondents came into physical contact with (within 2m/6ft)\", \"zeroDay\": \"2020-01-21\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "times_left_home_yesterday",
+            "type": "any",
+            "description": "Months containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Number of times respondents left home yesterday\", \"zeroDay\": \"2020-01-21\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "handwashing_yesterday",
+            "type": "any",
+            "description": "Months containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Number of times respondents washed their hands or used hand sanitiser yesterday\", \"zeroDay\": \"2020-01-21\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "willingness_isolate_if_symptoms",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Yes\" to the question: \"Thinking about the next 7 days, would you isolate yourself after feeling unwell or having any of the following new symptoms: a dry cough, fever, loss of sense of smell, loss of sense of taste, shortness of breath or difficulty breathing?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who are willing to isolate if they develop COVID-19 symptoms\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "difficult_to_isolate",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Very difficult\" or \"Somewhat difficult\" to the question: \"If you were advised to do so by a healthcare professional or public health authority, how easy or difficult would it be for you to self-isolate for 7 days?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents would have difficulty self-isolating for 7 days\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "willingness_isolate_if_advised",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Very willing\" or \"Somewhat willing\" to the question: \"If you were advised to do so by a healthcare professional or public health authority, to what extent are you willing or not to self-isolate for 7 days?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who are willing to isolate if advised by a healthcare professional or authority\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "mask_outside_home",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you worn a face mask outside your home (e.g. when on public transport, going to a supermarket, going to a main road) in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who wear a face mask\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "washed_hands",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you washed your hands with soap and water in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who frequently wash their hands with soap and water\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "hand_sanitiser",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you used hand sanitiser in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who frequently use hand sanitiser\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "covered_mouth_sneeze",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you covered your nose and mouth when sneezing or coughing in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who frequently cover their nose and mouth when sneezing or coughing\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "avoided_people_with_symptoms",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you avoided contact with people who have symptoms or you think may have been exposed to COVID-19 in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who avoid contact with symptomatic people\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "avoided_going_out",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you avoided going out in general in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who avoid going out\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "avoided_healthcare_settings",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you avoided going to hospital or other healthcare settings in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who avoid healthcare settings\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "avoided_public_transport",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you avoided taking public transport in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who avoid public transport\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "avoided_working_outside_home",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you avoided working outside your home in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who avoid working outside their home\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "children_avoided_school",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you avoided letting your children go to school/university in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who avoid sending their children to school or university\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "avoided_guests_at_home",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you avoided having guests to your home in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who avoid having guests at home\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "avoided_small_gatherings",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you avoided small social gatherings (not more than 2 people) in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who avoid small gatherings\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "avoided_medium_gatherings",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you avoided medium-sized social gatherings (between 3 and 10 people) in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who avoid medium gatherings\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "avoided_large_gatherings",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you avoided large-sized social gatherings (more than 10 people) in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who avoid large gatherings\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "avoided_crowded_areas",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you avoided crowded areas in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who avoid crowded areas\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "avoided_shops",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you avoided going to shops in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who avoid going to shops\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "slept_separate_bedrooms",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you slept in separate bedrooms at home, when normally you would share a bedroom in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who sleep in separate bedrooms at home\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "eaten_separately",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you eaten separately at home, when normally you would eat a meal with others in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who eat separately at home\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "cleaned_surfaces_home",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you cleaned frequently touched surfaces in the home (e.g. doorknobs, toilets, taps) in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who clean frequently touched surfaces at home\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "avoided_objects_public",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you avoided touching objects in public (e.g. elevator buttons or doors) in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who avoid touching objects in public\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "scared_contracting_covid",
+            "type": "any",
+            "description": "Monthly share of survey respondents who said that they are \"Very scared\" or \"Fairly scared\" that they will contract COVID-19 in response to the question: \"Which, if any, of the following statements best describes your feelings towards contracting COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who are scared of contracting COVID-19\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "happier_two_weeks_ago",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Much more happy now\" or \"Somewhat more happy now\" to the question: \"Compared with two weeks ago, would you say you are more happy now?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who are happier now than two weeks ago\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "government_responded_well",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Very well\" or \"Somewhat well\" to the question: \"How well or badly do you think the Government is handling the issue of COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who think their government has responded well to COVID-19\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "mask_at_home",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you worn a face mask inside your home in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who wear a mask at home\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "mask_grocery_store",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you worn a face mask inside a grocery store / supermarket in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who wear a mask in grocery stores\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "mask_clothing_store",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you worn a face mask inside a clothing / footwear shop in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who wear a mask in clothing shops\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "mask_at_work",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you worn a face mask at your place of work in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who wear a mask at work\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "mask_public_transport",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you worn a face mask on public transportation in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who wear a mask on public transport\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "covid_dangerous_to_me",
+            "type": "any",
+            "description": "Monthly share of survey respondents who agree with the statement: \"COVID-19 is very dangerous for me.\" Respondents were presented with a 1 to 7 scale, ranging from \"Disagree\" (1) to \"Agree\" (7). We consider responses of 5 or above to be in agreement with the statement.\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who believe COVID-19 is dangerous to them\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "likely_get_covid_future",
+            "type": "any",
+            "description": "Monthly share of survey respondents who agree with the statement: \"It is likely that I will get COVID-19 in the future.\" Respondents were presented with a 1 to 7 scale, ranging from \"Disagree\" (1) to \"Agree\" (7). We consider responses of 5 or above to be in agreement with the statement.\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who believe it is likely they will get COVID-19\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "mask_protect_me",
+            "type": "any",
+            "description": "Monthly share of survey respondents who agree with the statement: \"Wearing a mask will protect me against COVID-19.\" Respondents were presented with a 1 to 7 scale, ranging from \"Disagree\" (1) to \"Agree\" (7). We consider responses of 5 or above to be in agreement with the statement.\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who believe wearing a face mask will protect them from COVID-19\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "mask_protect_others",
+            "type": "any",
+            "description": "Monthly share of survey respondents who agree with the statement: \"Wearing a mask will protect others against COVID-19.\" Respondents were presented with a 1 to 7 scale, ranging from \"Disagree\" (1) to \"Agree\" (7). We consider responses of 5 or above to be in agreement with the statement.\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who believe wearing a face mask will protect others from COVID-19\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "mask_not_possible",
+            "type": "any",
+            "description": "Monthly share of survey respondents who agree with the statement: \"Wearing a mask to protect me against COVID-19 is not possible for me.\" Respondents were presented with a 1 to 7 scale, ranging from \"Disagree\" (1) to \"Agree\" (7). We consider responses of 5 or above to be in agreement with the statement.\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who believe wearing a face mask is not possible for them\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "activities_improve_health",
+            "type": "any",
+            "description": "Monthly share of survey respondents who agree with the statement: \"I feel it is important to carry out activities which will improve my health.\" Respondents were presented with a 1 to 7 scale, ranging from \"Disagree\" (1) to \"Agree\" (7). We consider responses of 5 or above to be in agreement with the statement.\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who believe it is important to carry out activities which will improve their health\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "life_greatly_affected",
+            "type": "any",
+            "description": "Monthly share of survey respondents who agree with the statement: \"My life has been greatly affected by COVID-19.\" Respondents were presented with a 1 to 7 scale, ranging from \"Disagree\" (1) to \"Agree\" (7). We consider responses of 5 or above to be in agreement with the statement.\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who believe their life has been greatly affected by COVID-19\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "avoided_public_events",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Always\" or \"Frequently\" to the question: \"Thinking about the last 7 days, how often have you avoided attending public events (e.g. sports matches, festivals, theatres, clubs, religious services) in order to protect yourself or others from COVID-19?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who avoid public events\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"tolerance\": 30, \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "activities_improve_health__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who believe it is important to carry out activities which will improve their health\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "avoided_crowded_areas__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who avoid crowded areas\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "avoided_going_out__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who avoid going out\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "avoided_guests_at_home__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who avoid having guests at home\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "avoided_healthcare_settings__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who avoid healthcare settings\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "avoided_large_gatherings__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who avoid large gatherings\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "avoided_medium_gatherings__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who avoid medium gatherings\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "avoided_objects_public__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who avoid touching objects in public\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "avoided_people_with_symptoms__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who avoid contact with symptomatic people\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "avoided_public_events__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who avoid public events\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "avoided_public_transport__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who avoid public transport\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "avoided_shops__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who avoid going to shops\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "avoided_small_gatherings__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who avoid small gatherings\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "avoided_working_outside_home__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who avoid working outside their home\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "children_avoided_school__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who avoid sending their children to school or university\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "cleaned_surfaces_home__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who clean frequently touched surfaces at home\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "covered_mouth_sneeze__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who frequently cover their nose and mouth when sneezing or coughing\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "covid_dangerous_to_me__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who believe COVID-19 is dangerous to them\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "covid_vaccine_important_health",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Very important\" or \"Moderately important\" to the question: \"How important do you think getting a COVID-19 vaccine is for your health?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who believe that getting a COVID-19 vaccine is important for their health\", \"unit\": \"%\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "covid_vaccine_important_health__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who believe that getting a COVID-19 vaccine is important for their health\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "covid_vaccine_will_prevent_transmission",
+            "type": "any",
+            "description": "Monthly share of survey respondents who agree with the statement: \"A vaccine will completely prevent those who receive it from transmitting COVID-19 to others.\" Respondents were presented with a 1 to 5 scale, ranging from \"Strongly agree\" (1) to \"Strongly disagree\" (5). We consider responses of 1 or 2 to be in agreement with the statement.\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who believe a vaccine will completely prevent recipients from transmitting COVID-19 to others\", \"unit\": \"%\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "covid_vaccine_will_prevent_transmission__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who believe a vaccine will completely prevent recipients from transmitting COVID-19 to others\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "covid_vaccine_will_protect_health",
+            "type": "any",
+            "description": "Monthly share of survey respondents who agree with the statement: \"A vaccine will completely protect those who receive it from possible health effects of COVID-19.\" Respondents were presented with a 1 to 5 scale, ranging from \"Strongly agree\" (1) to \"Strongly disagree\" (5). We consider responses of 1 or 2 to be in agreement with the statement.\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who believe a vaccine will completely protect recipients from the possible health effects of COVID-19\", \"unit\": \"%\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "covid_vaccine_will_protect_health__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who believe a vaccine will completely protect recipients from the possible health effects of COVID-19\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "difficult_to_isolate__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents would have difficulty self-isolating for 7 days\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "eaten_separately__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who eat separately at home\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "government_responded_well__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who think their government has responded well to COVID-19\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "govt_will_provide_effective_covid_vaccine",
+            "type": "any",
+            "description": "Monthly share of survey respondents who agree with the statement: \"I believe government health authorities in my country will provide me with an effective COVID-19 vaccine.\" Respondents were presented with a 1 to 5 scale, ranging from \"Strongly agree\" (1) to \"Strongly disagree\" (5). We consider responses of 1 or 2 to be in agreement with the statement.\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who believe government health authorities will provide them with an effective COVID-19 vaccine\", \"unit\": \"%\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "govt_will_provide_effective_covid_vaccine__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who believe government health authorities will provide them with an effective COVID-19 vaccine\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "hand_sanitiser__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who frequently use hand sanitiser\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "handwashing_yesterday__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Number of times respondents washed their hands or used hand sanitiser yesterday\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "happier_two_weeks_ago__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who are happier now than two weeks ago\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "household_members_contact__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Number of people from own household that respondents came into physical contact with (within 2m/6ft)\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "life_greatly_affected__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who believe their life has been greatly affected by COVID-19\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "likely_get_covid_future__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who believe it is likely they will get COVID-19\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "mask_at_home__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who wear a mask at home\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "mask_at_work__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who wear a mask at work\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "mask_clothing_store__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who wear a mask in clothing shops\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "mask_grocery_store__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who wear a mask in grocery stores\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "mask_not_possible__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who believe wearing a face mask is not possible for them\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "mask_outside_home__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who wear a face mask\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "mask_protect_me__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who believe wearing a face mask will protect them from COVID-19\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "mask_protect_others__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who believe wearing a face mask will protect others from COVID-19\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "mask_public_transport__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who wear a mask on public transport\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "people_contact_outside_household__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Number of people from outside own household that respondents came into physical contact with (within 2m/6ft)\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "scared_contracting_covid__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who are scared of contracting COVID-19\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "slept_separate_bedrooms__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who sleep in separate bedrooms at home\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "times_left_home_yesterday__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Number of times respondents left home yesterday\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "trust_covid_vaccines",
+            "type": "any",
+            "description": "Monthly share of survey respondents who answered \"Very much\" or \"Moderately\" to the question: \"How much do you trust COVID-19 vaccines?\"\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who trust COVID-19 vaccines\", \"unit\": \"%\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "trust_covid_vaccines__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who trust COVID-19 vaccines\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "washed_hands__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who frequently wash their hands with soap and water\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "willingness_covid_vaccinate_this_week",
+            "type": "any",
+            "description": "Monthly share of survey respondents who agree with the statement: \"If a COVID-19 vaccine were made available to me this week, I would definitely get it.\" Respondents were presented with a 1 to 5 scale, ranging from \"Strongly agree\" (1) to \"Strongly disagree\" (5). We consider responses of 1 or 2 to be in agreement with the statement.\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who would get a COVID-19 vaccine if it was available to them this week\", \"unit\": \"%\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "willingness_covid_vaccinate_this_week__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who would get a COVID-19 vaccine if it was available to them this week\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "willingness_isolate_if_advised__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who are willing to isolate if advised by a healthcare professional or authority\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "willingness_isolate_if_symptoms__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who are willing to isolate if they develop COVID-19 symptoms\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "worried_covid_vaccine_side_effects",
+            "type": "any",
+            "description": "Monthly share of survey respondents who agree with the statement: \"I am worried about potential side effects of a COVID-19 vaccine.\" Respondents were presented with a 1 to 5 scale, ranging from \"Strongly agree\" (1) to \"Strongly disagree\" (5). We consider responses of 1 or 2 to be in agreement with the statement.\n\nMonths containing fewer than 500 survey respondents are excluded.",
+            "owidDisplaySettings": "{\"name\": \"Share of respondents who are worried about potential side effects of a COVID-19 vaccine\", \"unit\": \"%\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 1}"
+          },
+          {
+            "name": "worried_covid_vaccine_side_effects__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Monthly number of survey respondents for \\\"Share of respondents who are worried about potential side effects of a COVID-19 vaccine\\\"\", \"yearIsDay\": true, \"includeInTable\": true}"
+          }
+        ]
+      }
+    }
+  ]
+}
