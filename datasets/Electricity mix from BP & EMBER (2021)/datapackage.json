@@ -1,0 +1,258 @@
+{
+  "name": "Electricity mix from BP & EMBER (2021)",
+  "title": "Electricity mix from BP & EMBER (2021)",
+  "id": 5117,
+  "description": "Data is compiled by Our World in Data based on two sources: \n– BP Statistical Review of World Energy: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html\n– Ember: https://ember-climate.org/data/\n\nWe rely on electricity mix data from BP as our primary source for two key reasons: BP also provides total energy (not just electricity) consumption data, meaning energy and electricity data is consistent from the same source; and it provides a longer time-series (dating back to 1965) versus only 2000 from Ember.\n\nHowever, BP does not provide data for all countries. So, where data from BP is available for a given country or year, we rely on it as the primary source. But we supplement this with data from Ember where it's not available.\n\n2020 electricity data is currently only available for EU countries and the UK based on the latest release of European data from Ember: https://ember-climate.org/data/european-electricity/\n\nOur World in Data has converted absolute electricity production by source to the share in the mix by dividing each by the total electricity production.",
+  "sources": [
+    {
+      "name": "Our World in Data based on BP Statistical Review of World Energy & Ember (2021)",
+      "link": "https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html; https://ember-climate.org/data/",
+      "retrievedDate": "27th January 2021",
+      "additionalInfo": "Data is compiled by Our World in Data based on two sources: \n– BP Statistical Review of World Energy: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html\n– Ember: https://ember-climate.org/data/\n\nWe rely on electricity mix data from BP as our primary source for two key reasons: BP also provides total energy (not just electricity) consumption data, meaning energy and electricity data is consistent from the same source; and it provides a longer time-series (dating back to 1965) versus only 2000 from Ember.\n\nHowever, BP does not provide data for all countries. So, where data from BP is available for a given country or year, we rely on it as the primary source. But we supplement this with data from Ember where it's not available.\n\n2020 electricity data is currently only available for EU countries and the UK based on the latest release of European data from Ember: https://ember-climate.org/data/european-electricity/\n\nOur World in Data has converted absolute electricity production by source to the share in the mix by dividing each by the total electricity production.",
+      "dataPublishedBy": "BP Statistical Review of World Energy & Ember"
+    }
+  ],
+  "owidTags": [
+    "Energy",
+    "Electricity"
+  ],
+  "resources": [
+    {
+      "path": "Electricity mix from BP & EMBER (2021).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Electricity from coal (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Coal\", \"unit\": \"terawatt-hours\", \"shortUnit\": \"TWh\"}"
+          },
+          {
+            "name": "Electricity Generation (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Electricity Generation\", \"unit\": \"terawatt-hours\", \"shortUnit\": \"TWh\"}"
+          },
+          {
+            "name": "Electricity from fossil fuels (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Fossil fuels\", \"unit\": \"terawatt-hours\", \"shortUnit\": \"TWh\"}"
+          },
+          {
+            "name": "Electricity from gas (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Gas\", \"unit\": \"terawatt-hours\", \"shortUnit\": \"TWh\"}"
+          },
+          {
+            "name": "Electricity from hydro (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Hydropower\", \"unit\": \"terawatt-hours\", \"shortUnit\": \"TWh\"}"
+          },
+          {
+            "name": "Low-carbon electricity (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Low-carbon electricity\", \"unit\": \"terawatt-hours\", \"shortUnit\": \"TWh\", \"tableDisplay\": {\"hideAbsoluteChange\": false, \"hideRelativeChange\": false}, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Electricity from nuclear (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Nuclear\", \"unit\": \"terawatt-hours\", \"shortUnit\": \"TWh\"}"
+          },
+          {
+            "name": "Electricity from oil (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Oil\", \"unit\": \"terawatt-hours\", \"shortUnit\": \"TWh\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Electricity from other renewables (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Other renewables\", \"unit\": \"terawatt-hours\", \"shortUnit\": \"TWh\"}"
+          },
+          {
+            "name": "Electricity from renewables (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Renewables\", \"unit\": \"terawatt-hours\", \"shortUnit\": \"TWh\"}"
+          },
+          {
+            "name": "Electricity from solar (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Solar\", \"unit\": \"terawatt-hours\", \"shortUnit\": \"TWh\"}"
+          },
+          {
+            "name": "Electricity from wind (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Wind\", \"unit\": \"terawatt-hours\", \"shortUnit\": \"TWh\"}"
+          },
+          {
+            "name": "Per capita electricity (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Per capita electricity use\", \"unit\": \"kilowatt-hours\", \"shortUnit\": \"kWh\", \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Electricity as share of primary energy",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Coal (% electricity)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Coal\", \"unit\": \"%\", \"tableDisplay\": {\"hideAbsoluteChange\": false, \"hideRelativeChange\": false}, \"includeInTable\": true}"
+          },
+          {
+            "name": "Oil (% electricity)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Oil\", \"unit\": \"%\", \"tableDisplay\": {\"hideAbsoluteChange\": false, \"hideRelativeChange\": false}}"
+          },
+          {
+            "name": "Gas (% electricity)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Gas\", \"unit\": \"%\"}"
+          },
+          {
+            "name": "Nuclear (% electricity)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Nuclear\", \"unit\": \"%\"}"
+          },
+          {
+            "name": "Solar (% electricity)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Solar\", \"unit\": \"%\"}"
+          },
+          {
+            "name": "Wind (% electricity)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Wind\", \"unit\": \"%\"}"
+          },
+          {
+            "name": "Hydro (% electricity)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Hydropower\", \"unit\": \"%\"}"
+          },
+          {
+            "name": "Other renewables (% electricity)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Other renewables\", \"unit\": \"%\", \"tableDisplay\": {\"hideAbsoluteChange\": false, \"hideRelativeChange\": false}}"
+          },
+          {
+            "name": "Renewables (% electricity)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Renewables\", \"unit\": \"%\"}"
+          },
+          {
+            "name": "Fossil fuels (% electricity)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Fossil fuels\", \"unit\": \"%\"}"
+          },
+          {
+            "name": "Low-carbon electricity (% electricity)",
+            "type": "any",
+            "description": "Low-carbon electricity is the sum of electricity from nuclear and renewable sources (including solar, wind, hydropower, biomass and waste, geothermal and wave and tidal).",
+            "owidDisplaySettings": "{\"name\": \"Share of electricity from low-carbon sources\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Coal electricity per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Oil electricity per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Gas electricity per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Gas electricity per capita\", \"unit\": \"kilowatt-hours\", \"shortUnit\": \"kWh\", \"tableDisplay\": {\"hideAbsoluteChange\": false, \"hideRelativeChange\": false}, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Fossil fuel electricity per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Renewble electricity per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Renewble electricity per capita\", \"unit\": \"kilowatt-hours\", \"shortUnit\": \"kWh\", \"tableDisplay\": {\"hideAbsoluteChange\": false, \"hideRelativeChange\": false}, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Low-carbon electricity per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Low-carbon electricity per capita\", \"unit\": \"kilowatt-hours\", \"shortUnit\": \"kWh\", \"tableDisplay\": {\"hideAbsoluteChange\": false, \"hideRelativeChange\": false}, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Nuclear electricity per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Nuclear electricity per capita\", \"unit\": \"kilowatt-hours\", \"shortUnit\": \"kWh\", \"tableDisplay\": {\"hideAbsoluteChange\": false, \"hideRelativeChange\": false}, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Solar electricity per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Solar electricity per capita\", \"unit\": \"kilowatt-hours\", \"shortUnit\": \"kWh\", \"tableDisplay\": {\"hideAbsoluteChange\": false, \"hideRelativeChange\": false}, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Wind electricity per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Wind electricity per capita\", \"unit\": \"kilowatt-hours\", \"shortUnit\": \"kWh\", \"tableDisplay\": {\"hideAbsoluteChange\": false, \"hideRelativeChange\": false}, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Hydro electricity per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Hydro electricity per capita\", \"unit\": \"kilowatt-hours\", \"shortUnit\": \"kWh\", \"tableDisplay\": {\"hideAbsoluteChange\": false, \"hideRelativeChange\": false}, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Other renewable electricity per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Carbon intensity of electricity (gCO2/kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
