@@ -2,6 +2,8 @@
 
 Raw data on confirmed cases and deaths for all countries is sourced from the <a href="https://github.com/CSSEGISandData/COVID-19">COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University</a>.  
 
+Johns Hopkins University updates its figures for Sweden based on the date of report. But in the particular case of Sweden, we replace this data because the <a href="https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/bekraftade-fall-i-sverige/">Swedish Public Health Agency</a> doesn't report cases and deaths every day of the week, leading to time series that are very irregular and hard to interpret when plotted by date of report.
+
 Our complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, hospitalizations, and testing.
 
 We have created a new description of all our data sources. You find it at our GitHub repository <strong><a href="https://github.com/owid/covid-19-data/tree/master/public/data/">here</a></strong>. There you can download all of our data.
