@@ -2,12 +2,12 @@
   "name": "COVID-19 - Johns Hopkins University",
   "title": "COVID-19 - Johns Hopkins University",
   "id": 5220,
-  "description": "Raw data on confirmed cases and deaths for all countries is sourced from the <a href=\"https://github.com/CSSEGISandData/COVID-19\">COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University</a>.  \n\nJohns Hopkins University updates its figures for Sweden based on the date of report. But in the particular case of Sweden, we replace this data because the <a href=\"https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/bekraftade-fall-i-sverige/\">Swedish Public Health Agency</a> doesn't report cases and deaths every day of the week, leading to time series that are very irregular and hard to interpret when plotted by date of report.\n\nOur complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, hospitalizations, and testing.\n\nWe have created a new description of all our data sources. You find it at our GitHub repository <strong><a href=\"https://github.com/owid/covid-19-data/tree/master/public/data/\">here</a></strong>. There you can download all of our data.",
+  "description": "Raw data on confirmed cases and deaths for all countries is sourced from the <a href=\"https://github.com/CSSEGISandData/COVID-19\">COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University</a>. \n\nOur complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, hospitalizations, and testing.\n\nWe have created a new description of all our data sources. You find it at our GitHub repository <strong><a href=\"https://github.com/owid/covid-19-data/tree/master/public/data/\">here</a></strong>. There you can download all of our data.",
   "sources": [
     {
-      "name": "Johns Hopkins University CSSE COVID-19 Data – Last updated 27 January, 09:02 (London time)",
+      "name": "Johns Hopkins University CSSE COVID-19 Data – Last updated 4 February, 10:02 (London time)",
       "link": "https://github.com/CSSEGISandData/COVID-19",
-      "additionalInfo": "Raw data on confirmed cases and deaths for all countries is sourced from the <a href=\"https://github.com/CSSEGISandData/COVID-19\">COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University</a>.  \n\nJohns Hopkins University updates its figures for Sweden based on the date of report. But in the particular case of Sweden, we replace this data because the <a href=\"https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/bekraftade-fall-i-sverige/\">Swedish Public Health Agency</a> doesn't report cases and deaths every day of the week, leading to time series that are very irregular and hard to interpret when plotted by date of report.\n\nOur complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, hospitalizations, and testing.\n\nWe have created a new description of all our data sources. You find it at our GitHub repository <strong><a href=\"https://github.com/owid/covid-19-data/tree/master/public/data/\">here</a></strong>. There you can download all of our data.",
+      "additionalInfo": "Raw data on confirmed cases and deaths for all countries is sourced from the <a href=\"https://github.com/CSSEGISandData/COVID-19\">COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University</a>. \n\nOur complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, hospitalizations, and testing.\n\nWe have created a new description of all our data sources. You find it at our GitHub repository <strong><a href=\"https://github.com/owid/covid-19-data/tree/master/public/data/\">here</a></strong>. There you can download all of our data.",
       "dataPublishedBy": "COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University"
     }
   ],
@@ -29,307 +29,307 @@
             "name": "Daily new confirmed cases of COVID-19",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Daily confirmed cases\", \"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"\\n\"}"
+            "owidDisplaySettings": "{\"name\": \"Daily confirmed cases\", \"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Daily new confirmed deaths due to COVID-19",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Daily confirmed deaths\", \"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+            "owidDisplaySettings": "{\"name\": \"Daily confirmed deaths\", \"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Total confirmed cases of COVID-19",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Total confirmed deaths due to COVID-19",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Daily new confirmed cases of COVID-19 per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"\\n\"}"
+            "owidDisplaySettings": "{\"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Daily new confirmed deaths due to COVID-19 per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"deaths per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"deaths per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Total confirmed cases of COVID-19 per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"cases per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"\\n\"}"
+            "owidDisplaySettings": "{\"unit\": \"cases per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Total confirmed deaths due to COVID-19 per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"deaths per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"deaths per million\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Days since the total confirmed cases of COVID-19 reached 100",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Days since the total confirmed deaths of COVID-19 reached 5",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Days since the total confirmed cases of COVID-19 per million people reached 1",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Days since the total confirmed cases per million people reached 1\", \"unit\": \"days\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false}"
+            "owidDisplaySettings": "{\"name\": \"Days since the total confirmed cases per million people reached 1\", \"unit\": \"days\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Days since the total confirmed deaths of COVID-19 per million people reached 0.1",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Days since 30 daily new confirmed cases recorded",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Days since 50 daily new confirmed cases recorded",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Days since 10 daily new confirmed deaths recorded",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Days since 5 daily new confirmed deaths recorded",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Days since 3 daily new confirmed deaths recorded",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Days since daily new confirmed cases of COVID-19 (rolling 7-day average, right-aligned) reached 30",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Days since daily new confirmed deaths due to COVID-19 (rolling 7-day average, right-aligned) reached 5",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Days since daily new confirmed cases of COVID-19 per million people (rolling 7-day average, right-aligned) reached 1",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Days since daily new confirmed deaths due to COVID-19 per million people (rolling 7-day average, right-aligned) reached 0.1",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Days since daily new confirmed deaths due to COVID-19 per million people (rolling 7-day average, right-aligned) reached 0.01",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Daily new confirmed cases of COVID-19 (rolling 3-day average, right-aligned)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Daily new confirmed cases due to COVID-19 (rolling 7-day average, right-aligned)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Daily new confirmed deaths due to COVID-19 (rolling 3-day average, right-aligned)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Daily new confirmed deaths due to COVID-19 (rolling 7-day average, right-aligned)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Daily new confirmed cases of COVID-19 per million people (rolling 3-day average, right-aligned)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"\\n\"}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Daily new confirmed deaths due to COVID-19 per million people (rolling 3-day average, right-aligned)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Daily new confirmed cases of COVID-19 per million people (rolling 7-day average, right-aligned)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Daily new confirmed deaths due to COVID-19 per million people (rolling 7-day average, right-aligned)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Case fatality rate of COVID-19 (%)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Case fatality rate\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"tolerance\": 2, \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Case fatality rate\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"tolerance\": 2, \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Case fatality rate of COVID-19 (%) (Only observations with ≥100 cases)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Case fatality rate of COVID-19 (%) (Short-term)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Days since the total confirmed cases of COVID-19 reached 100 (with population ≥ 5M)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": false, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Has population ≥ 5M AND had ≥100 cases ≥21 days ago AND has testing data",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Doubling days of total confirmed cases (3 day period)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Doubling days of total confirmed cases (7 day period)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Doubling days of total confirmed deaths (3 day period)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Doubling days of total confirmed deaths (7 day period)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Weekly cases",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Weekly deaths",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Weekly case growth (%)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Weekly death growth (%)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: recent days may undercount deaths\\nSpain: Nov 4: earlier deaths added\"}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Biweekly cases",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Biweekly cases\", \"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+            "owidDisplaySettings": "{\"name\": \"Biweekly cases\", \"unit\": \"cases\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Biweekly deaths",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Biweekly deaths\", \"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+            "owidDisplaySettings": "{\"name\": \"Biweekly deaths\", \"unit\": \"deaths\", \"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Biweekly case growth (%)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Biweekly growth in cases\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Biweekly growth in cases\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Biweekly death growth (%)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Biweekly growth in deaths\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Biweekly growth in deaths\", \"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Weekly cases per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Weekly deaths per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           },
           {
             "name": "Biweekly cases per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 5 days\"}"
           },
           {
             "name": "Biweekly deaths per million people",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Incomplete for last 2 weeks\"}"
           }
         ]
       }
