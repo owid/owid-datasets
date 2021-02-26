@@ -2,7 +2,7 @@
 
 All-cause mortality data is from the Human Mortality Database (HMD) Short-term Mortality Fluctuations project and the World Mortality Dataset (WMD). Both sources are updated weekly.
 
-We do not use the data from 14 countries in WMD because they fail to meet all three of the following data quality criteria: 1) estimated coverage of at least 85% of deaths; 2) at least four years of historical data; and 3) data published either weekly or monthly. These countries are: Albania, Bolivia, Bosnia & Herzegovina, Colombia, Ecuador, Iran, Ireland, Kazakhstan, Kosovo, Malaysia, Mexico, Peru, South Africa, and Uruguay.
+We do not use the data from some countries in WMD because they fail to meet all three of the following data quality criteria: 1) estimated coverage of at least 85% of deaths; 2) at least four years of historical data; and 3) data published either weekly or monthly. The full list of excluded countries and reasons for exclusion can be found in this spreadsheet: https://docs.google.com/spreadsheets/d/1JPMtzsx-smO3_K4ReK_HMeuVLEzVZ71qHghSuAfG788/edit?usp=sharing.
 
 HMD has deaths data for all ages and broken down by broad age groups, while WMD has data for all ages only.
 
