@@ -1,4 +1,4 @@
-# Deforestation imported and exported in trade (Pendrill et al. (2019))
+# Deforestation in trade (Pendrill)
 
 Pendrill et al. (2019) developed a land-balance model which attributed detected forest loss across the world to the expansion of croplands, pasture and tree plantations. This is then linked to particular agricultural commodities based on national land use, crop and forest product statistics published in the UN Food and Agricultural Organization balance sheets.
 

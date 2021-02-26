@@ -1,0 +1,107 @@
+{
+  "name": "Deforestation in trade (Pendrill)",
+  "title": "Deforestation in trade (Pendrill)",
+  "id": 5225,
+  "description": "Pendrill et al. (2019) developed a land-balance model which attributed detected forest loss across the world to the expansion of croplands, pasture and tree plantations. This is then linked to particular agricultural commodities based on national land use, crop and forest product statistics published in the UN Food and Agricultural Organization balance sheets.\n\nThis study maps deforestation embedded in the international trade of these products using both a physical trade model, and a MRIO (multi-regional input-output) model. This allows for the quantification of deforestation embedded in imported food and forestry products.\n\nPendrill et al. (2019) provide data on exported and imported deforestation. Our World in Data have additionally calculated the net deforestation embedded in trade for each country by subtracting exports from imports.",
+  "sources": [
+    {
+      "name": "Pendrill, F., Persson, U. M., Godar, J., & Kastner, T. (2019). Deforestation displaced: trade in forest-risk commodities and the prospects for a global forest transition.",
+      "link": "https://iopscience.iop.org/article/10.1088/1748-9326/ab0d41",
+      "retrievedDate": "20th November 2020",
+      "additionalInfo": "Pendrill et al. (2019) developed a land-balance model which attributed detected forest loss across the world to the expansion of croplands, pasture and tree plantations. This is then linked to particular agricultural commodities based on national land use, crop and forest product statistics published in the UN Food and Agricultural Organization balance sheets.\n\nThis study maps deforestation embedded in the international trade of these products using both a physical trade model, and a MRIO (multi-regional input-output) model. This allows for the quantification of deforestation embedded in imported food and forestry products.\n\nPendrill et al. (2019) provide data on exported and imported deforestation. Our World in Data have additionally calculated the net deforestation embedded in trade for each country by subtracting exports from imports.",
+      "dataPublishedBy": "Pendrill, F., Persson, U. M., Godar, J., & Kastner, T. (2019). Deforestation displaced: trade in forest-risk commodities and the prospects for a global forest transition. Environmental Research Letters, 14(5), 055003."
+    }
+  ],
+  "owidTags": [
+    "Forests"
+  ],
+  "resources": [
+    {
+      "path": "Deforestation in trade (Pendrill).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Imported deforestation (hectares)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Deforestation embedded in imported goods\", \"unit\": \"hectares\", \"shortUnit\": \"ha\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Exported deforestation (hectares)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Deforestation embedded in exported goods\", \"unit\": \"hectares\", \"shortUnit\": \"ha\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Net deforestation in trade (hectares)",
+            "type": "any",
+            "description": "Net deforestation embedded in trade is measured as deforestation caused by imported goods, minus deforestation from exported goods. Net importers of deforestation are given as positive values; net exports as negative values.",
+            "owidDisplaySettings": "{\"name\": \"Net deforestation embedded in trade\", \"unit\": \"hectares\", \"shortUnit\": \"ha\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "embodied_deforestation",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "deforestation_domestic_consumption",
+            "type": "any",
+            "description": "Deforestation embedded in goods consumed domestically is the amount of deforestation that is driven by demand in domestic markets (i.e. deforestation that is not exported).",
+            "owidDisplaySettings": "{\"name\": \"Deforestation embedded in goods consumed domestically\", \"unit\": \"hectares\", \"shortUnit\": \"ha\", \"includeInTable\": true}"
+          },
+          {
+            "name": "share_deforestation_exported",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Share of deforestation that is exported\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "share_deforestation_domestic_consumption",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Share of deforestation driven by domestic consumption\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "imported_deforestation_per_capita",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Imported deforestation per capita\", \"includeInTable\": true}"
+          },
+          {
+            "name": "exported_deforestation_per_capita",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Exported deforestation per capita\", \"unit\": \"hectares\", \"shortUnit\": \"ha\", \"includeInTable\": true}"
+          },
+          {
+            "name": "domestic_consumption_deforestation_per_capita",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "net_traded_deforestation_per_capita",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "domestic_and_imported_deforestation",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
