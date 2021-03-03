@@ -6,11 +6,11 @@
   "sources": [
     {
       "name": "Ozone-depleting emissions index - EEA",
-      "dataPublishedBy": "European Environment Agency",
-      "dataPublisherSource": "UNEP (Ozone Secretariat)",
       "link": "https://www.eea.europa.eu/data-and-maps/daviz/consumption-of-controlled-ozone-depleting-substances",
-      "retrievedDate": "26th April 2018",
-      "additionalInfo": "Data represents the consumption of ozone-depleting substances (in ozone-depleting potential tonnes), measured as an index relative to emissions in the year 1986 (1986 = 100)."
+      "retrievedDate": "3rd March 2021",
+      "additionalInfo": "Data represents the consumption of ozone-depleting substances (in ozone-depleting potential tonnes), measured as an index relative to emissions in the year 1986 (1986 = 100).",
+      "dataPublishedBy": "European Environment Agency",
+      "dataPublisherSource": "UNEP (Ozone Secretariat)"
     }
   ],
   "owidTags": [
@@ -33,7 +33,7 @@
             "name": "Ozone depleting emissions (Index 1986 = 100)",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           }
         ]
       }
