@@ -6,11 +6,11 @@
   "sources": [
     {
       "name": "Ozone hole area and concentration - NASA",
-      "dataPublishedBy": "NASA Ozone Hole Watch",
-      "dataPublisherSource": null,
       "link": "http://ozonewatch.gsfc.nasa.gov/meteorology/annual_data.html",
-      "retrievedDate": "5th April 2018",
-      "additionalInfo": "Annual maximum and Antarctic stratospheric ozone hole area, resultant from the emission of ozone-depleting substances.\n\nMinimum and mean Southern Hemisphere daily ozone concentrations, measured in Dobson Units (DU)."
+      "retrievedDate": "3rd March 2021",
+      "additionalInfo": "Annual maximum and Antarctic stratospheric ozone hole area, resultant from the emission of ozone-depleting substances.\n\nMinimum and mean Southern Hemisphere daily ozone concentrations, measured in Dobson Units (DU).",
+      "dataPublishedBy": "NASA Ozone Hole Watch",
+      "dataPublisherSource": null
     }
   ],
   "owidTags": [
@@ -33,25 +33,25 @@
             "name": "Maximum ozone hole area (NASA)",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "Mean ozone hole area",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "Minimum daily concentration (NASA)",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "Mean daily concentration (NASA)",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           }
         ]
       }
