@@ -1,4 +1,4 @@
-# Endemic and threatened invertebrate species by country (IUCN, 2019)
+# Endemic and threatened invertebrate species by country (IUCN, 2020)
 
 Data denotes the number of endemic invertebrate species within a given organism group by country. Endemic species are those which are known to naturally occur in only one country. 
 
