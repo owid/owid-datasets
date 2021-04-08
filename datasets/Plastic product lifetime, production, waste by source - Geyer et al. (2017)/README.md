@@ -10,6 +10,6 @@ Data is also given for primary production and plastic waste by polymer type. Pol
 - PVC: Polyvinyl chloride
 - PET: Polyethylene terephthalate
 - PUT: Polyurethanes
-- PP&A fibres: Polyphthalamide fibres
+- PP&A fibres: polyester, polyamide, and acrylic fibres
 - Other polymers
 - Additives
