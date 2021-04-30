@@ -1,0 +1,52 @@
+{
+  "name": "Plastic pollution by top 50 rivers (Meijer et al. 2021)",
+  "title": "Plastic pollution by top 50 rivers (Meijer et al. 2021)",
+  "id": 5292,
+  "description": "",
+  "sources": [
+    {
+      "name": "Meijer et al. (2021). More than 1000 rivers account for 80% of global riverine plastic emissions into the ocean. Science Advances.",
+      "link": "https://advances.sciencemag.org/content/7/18/eaaz5803",
+      "retrievedDate": "30th April 2021",
+      "dataPublishedBy": "Meijer et al. (2021). More than 1000 rivers account for 80% of global riverine plastic emissions into the ocean. Science Advances."
+    }
+  ],
+  "owidTags": [
+    "Plastic Pollution"
+  ],
+  "resources": [
+    {
+      "path": "Plastic pollution by top 50 rivers (Meijer et al. 2021).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Mismanaged waste emitted to the ocean (metric tons year-1)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Plastic waste emitted to the ocean\", \"unit\": \"tonnes per year\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Mismanaged waste emitted to the ocean (grams per second)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Plastic waste emitted to the ocean per second\", \"unit\": \"grams per second\", \"shortUnit\": \"g\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Share of global plastics emitted to ocean",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Share of global plastics emitted to the ocean\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          }
+        ]
+      }
+    }
+  ]
+}
