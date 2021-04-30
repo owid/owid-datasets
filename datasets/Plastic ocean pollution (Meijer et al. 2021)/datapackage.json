@@ -1,6 +1,6 @@
 {
-  "name": "Plastic ocean pollution (Meijer et al. 2020)",
-  "title": "Plastic ocean pollution (Meijer et al. 2020)",
+  "name": "Plastic ocean pollution (Meijer et al. 2021)",
+  "title": "Plastic ocean pollution (Meijer et al. 2021)",
   "id": 5291,
   "description": "",
   "sources": [
@@ -16,7 +16,7 @@
   ],
   "resources": [
     {
-      "path": "Plastic ocean pollution (Meijer et al. 2020).csv",
+      "path": "Plastic ocean pollution (Meijer et al. 2021).csv",
       "schema": {
         "fields": [
           {
