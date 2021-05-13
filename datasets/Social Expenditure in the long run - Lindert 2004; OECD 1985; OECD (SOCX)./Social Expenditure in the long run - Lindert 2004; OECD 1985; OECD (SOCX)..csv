@@ -154,15 +154,15 @@ Chile,2010,10.466
 Chile,2013,10.002
 Chile,2014,10.52
 Chile,2015,11.18
-Czech Republic,1990,14.169
-Czech Republic,1995,16.129
-Czech Republic,2000,17.962
-Czech Republic,2005,18.112
-Czech Republic,2010,19.766
-Czech Republic,2013,20.261
-Czech Republic,2014,19.897
-Czech Republic,2015,19.475
-Czech Republic,2016,19.437
+Czechia,1990,14.169
+Czechia,1995,16.129
+Czechia,2000,17.962
+Czechia,2005,18.112
+Czechia,2010,19.766
+Czechia,2013,20.261
+Czechia,2014,19.897
+Czechia,2015,19.475
+Czechia,2016,19.437
 Denmark,1880,0.96
 Denmark,1890,1.11
 Denmark,1900,1.41
@@ -477,7 +477,6 @@ Luxembourg,2013,23.233
 Luxembourg,2014,23.004
 Luxembourg,2015,22.184
 Luxembourg,2016,21.8
-Mexico,1980,..
 Mexico,1985,1.703
 Mexico,1990,3.17
 Mexico,1995,4.124
@@ -740,8 +739,6 @@ Turkey,2005,10.269
 Turkey,2010,12.838
 Turkey,2013,13.359
 Turkey,2014,13.507
-Turkey,2015,..
-Turkey,2016,..
 United Kingdom,1880,0.86
 United Kingdom,1890,0.83
 United Kingdom,1900,1
