@@ -1,0 +1,123 @@
+{
+  "name": "Affordability of diets (SOFI, 2020)",
+  "title": "Affordability of diets (SOFI, 2020)",
+  "id": 5312,
+  "description": "",
+  "sources": [
+    {
+      "name": "Herforth, Bai, Venkat, Mahrt, Ebel & Masters (2020). Cost and affordability of healthy diets across and within countries.",
+      "link": "http://www.fao.org/3/cb2431en/cb2431en.pdf",
+      "dataPublishedBy": "Herforth, A., Y. Bai, A. Venkat, K. Mahrt, A. Ebel & W.A. Masters (2020). Cost and affordability of healthy diets across and within countries. Background paper for the State of Food Security and Nutrition in the World 2020. FAO Agricultural Development Economics Technical Study No. 9. Rome: FAO (108 pages)."
+    }
+  ],
+  "owidTags": [
+    "Food Prices & Expenditure"
+  ],
+  "resources": [
+    {
+      "path": "Affordability of diets (SOFI, 2020).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Cost of calorie sufficient diet (2017 USD per day)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Cost of nutrient adequate diet (2017 USD per day)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Cost of healthy diet (2017 USD per day)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Calorie sufficient diet cost (% of $1.20 poverty line)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Nutrient adequate diet cost (% of $1.20 poverty line)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Healthy diet cost (% of $1.20 poverty line)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Calorie sufficient diet cost (% of average food expenditure)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Nutrient adequate diet cost (% of average food expenditure)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Healthy diet cost (% of average food expenditure)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Calorie sufficient diet cost (% cannot afford)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Nutrient adequate diet cost  (% cannot afford)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Healthy diet cost  (% cannot afford)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Calorie sufficient diet cost (number cannot afford)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Nutrient adequate diet cost  (number cannot afford)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Healthy diet cost  (number cannot afford)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}

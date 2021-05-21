@@ -1,0 +1,202 @@
+{
+  "name": "Biodiversity habitat loss (Williams et al. 2021)",
+  "title": "Biodiversity habitat loss (Williams et al. 2021)",
+  "id": 5311,
+  "description": "",
+  "sources": [
+    {
+      "name": "Williams, Clark, Buchanan, Ficetola, Rondinini, & Tilman (2021). Proactive conservation to prevent habitat losses to agricultural expansion. Nature Sustainability.",
+      "link": "https://www.nature.com/articles/s41893-020-00656-5",
+      "dataPublishedBy": "Williams, D. R., Clark, M., Buchanan, G. M., Ficetola, G. F., Rondinini, C., & Tilman, D. (2021). Proactive conservation to prevent habitat losses to agricultural expansion. Nature Sustainability, 4(4), 314-322."
+    }
+  ],
+  "owidTags": [
+    "Land Use",
+    "Biodiversity"
+  ],
+  "resources": [
+    {
+      "path": "Biodiversity habitat loss (Williams et al. 2021).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "all_species_number",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "bau_habitat_loss_all",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "combined_habitat_loss_all",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "diets_habitat_loss_all",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "waste_habitat_loss_all",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "trade_habitat_loss_all",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "yields_habitat_loss_all",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "amphibian_species_number",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "bau_habitat_loss_amphibians",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "combined_habitat_loss_amphibians",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "diets_habitat_loss_amphibians",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "waste_habitat_loss_amphibians",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "trade_habitat_loss_amphibians",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "yields_habitat_loss_amphibians",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "bird_species_number",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "bau_habitat_loss_birds",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "combined_habitat_loss_birds",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "diets_habitat_loss_birds",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "waste_habitat_loss_birds",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "trade_habitat_loss_birds",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "yields_habitat_loss_birds",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "mammal_species_number",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "bau_habitat_loss_mammals",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "combined_habitat_loss_mammals",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "diets_habitat_loss_mammals",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "waste_habitat_loss_mammals",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "trade_habitat_loss_mammals",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "yields_habitat_loss_mammals",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
