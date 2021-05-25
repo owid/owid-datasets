@@ -2,12 +2,12 @@
   "name": "Attainable yields (Mueller et al. 2012)",
   "title": "Attainable yields (Mueller et al. 2012)",
   "id": 5307,
-  "description": "Attainable yields are defined here as feasible crop yields based on outputs from high-yielding areas of similar climate. They are more conservative than absolute biophysical ‘potential yields’, but are achievable using current technologies and management (e.g. fertilizers and irrigation).",
+  "description": "Attainable yields are defined as feasible crop yields based on high-yielding areas of similar climate. They are more conservative than biophysical ‘potential yields’, but are achievable using current technologies and management (e.g. fertilizers and irrigation).",
   "sources": [
     {
       "name": "Mueller, N. et al. (2012). Closing yield gaps through nutrient and water management. Nature.",
       "link": "https://www.nature.com/articles/nature11420",
-      "additionalInfo": "Attainable yields are defined here as feasible crop yields based on outputs from high-yielding areas of similar climate. They are more conservative than absolute biophysical ‘potential yields’, but are achievable using current technologies and management (e.g. fertilizers and irrigation).",
+      "additionalInfo": "Attainable yields are defined as feasible crop yields based on high-yielding areas of similar climate. They are more conservative than biophysical ‘potential yields’, but are achievable using current technologies and management (e.g. fertilizers and irrigation).",
       "dataPublishedBy": "Mueller, N. D., Gerber, J. S., Johnston, M., Ray, D. K., Ramankutty, N., & Foley, J. A. (2012). Closing yield gaps through nutrient and water management. Nature, 490(7419), 254-257."
     }
   ],
