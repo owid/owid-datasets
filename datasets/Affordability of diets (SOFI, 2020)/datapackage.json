@@ -2,12 +2,12 @@
   "name": "Affordability of diets (SOFI, 2020)",
   "title": "Affordability of diets (SOFI, 2020)",
   "id": 5312,
-  "description": "The nutritional requirements used in this study are in line with the WHO's recommendations for the median woman of reproductive age. Thie authors note two key two reasons for this:\n\n(1) Requirements fall roughly at the median of the entire population distribution, in the sense that least-cost diets to meet energy and nutrient requirements for people in this reference group are approximately the\nmedian level of least costs for all sex-age groups over the entire life cycle. This reference group is therefore a good representation of the population as a whole.\n\n(2) Women of reproductive age are typically a nutritionally vulnerable population group, as seen in their increased risk of dietary inadequacies (due to social practices and norms that often disadvantage them in terms of access to food), which have important consequences for themselves and their children. Previous studies have also based their analyses on this reference group.",
+  "description": "The nutritional requirements used in this study are in line with the WHO's recommendations for the median woman of reproductive age. Thie authors note two key two reasons for this:\n\n(1) Requirements fall roughly at the median of the entire population distribution, in the sense that least-cost diets to meet energy and nutrient requirements for people in this reference group approximate the median level of least costs for all sex-age groups over the entire life cycle. This reference group is therefore a good representation of the population as a whole.\n\n(2) Women of reproductive age are typically a nutritionally vulnerable population group, as seen in their increased risk of dietary inadequacies (due to social practices and norms that often disadvantage them in terms of access to food), which have important consequences for themselves and their children. Previous studies have also based their analyses on this reference group.",
   "sources": [
     {
       "name": "Herforth, Bai, Venkat, Mahrt, Ebel & Masters (2020). Cost and affordability of healthy diets across and within countries.",
-      "link": "http://www.fao.org/3/cb2431en/cb2431en.pdf",
-      "additionalInfo": "The nutritional requirements used in this study are in line with the WHO's recommendations for the median woman of reproductive age. Thie authors note two key two reasons for this:\n\n(1) Requirements fall roughly at the median of the entire population distribution, in the sense that least-cost diets to meet energy and nutrient requirements for people in this reference group are approximately the\nmedian level of least costs for all sex-age groups over the entire life cycle. This reference group is therefore a good representation of the population as a whole.\n\n(2) Women of reproductive age are typically a nutritionally vulnerable population group, as seen in their increased risk of dietary inadequacies (due to social practices and norms that often disadvantage them in terms of access to food), which have important consequences for themselves and their children. Previous studies have also based their analyses on this reference group.",
+      "link": "https://sites.tufts.edu/foodpricesfornutrition",
+      "additionalInfo": "The nutritional requirements used in this study are in line with the WHO's recommendations for the median woman of reproductive age. Thie authors note two key two reasons for this:\n\n(1) Requirements fall roughly at the median of the entire population distribution, in the sense that least-cost diets to meet energy and nutrient requirements for people in this reference group approximate the median level of least costs for all sex-age groups over the entire life cycle. This reference group is therefore a good representation of the population as a whole.\n\n(2) Women of reproductive age are typically a nutritionally vulnerable population group, as seen in their increased risk of dietary inadequacies (due to social practices and norms that often disadvantage them in terms of access to food), which have important consequences for themselves and their children. Previous studies have also based their analyses on this reference group.",
       "dataPublishedBy": "Herforth, A., Y. Bai, A. Venkat, K. Mahrt, A. Ebel & W.A. Masters (2020). Cost and affordability of healthy diets across and within countries. Background paper for the State of Food Security and Nutrition in the World 2020. FAO Agricultural Development Economics Technical Study No. 9. Rome: FAO (108 pages)."
     }
   ],
@@ -30,92 +30,92 @@
           {
             "name": "Cost of calorie sufficient diet (2017 USD per day)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"name\": \"Cost of a calorie sufficient diet\", \"unit\": \"$\", \"shortUnit\": \"2017 USD per day\", \"includeInTable\": true}"
+            "description": "The cost of an energy sufficient diet (CoCA) is defined as the minimum cost to meet energy\nrequirements using the least-cost available starchy staple food in each country.",
+            "owidDisplaySettings": "{\"name\": \"Cost of a calorie sufficient diet\", \"unit\": \"2017 USD per day\", \"shortUnit\": \"$\", \"includeInTable\": true}"
           },
           {
             "name": "Cost of nutrient adequate diet (2017 USD per day)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The cost of a nutrient adequate diet (CoNA) is defined as the lowest-cost set of items available\nat each time and place that would stay within the lower and upper bounds for dietary energy\nand all essential nutrients. Operationally, the CoNA is measured as the minimum cost to\nmeet EER and relevant daily nutrient reference values of 23 macro- and micronutrients for\na representative person in a reference population.",
+            "owidDisplaySettings": "{\"name\": \"Cost of a nutritionally adequate diet\", \"unit\": \"2017 USD per day\", \"shortUnit\": \"$\", \"includeInTable\": true}"
           },
           {
             "name": "Cost of healthy diet (2017 USD per day)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The cost of a healthy diet (CoRD) is defined as the lowest-cost set of items available at each time and place that would meet requirements for each food group specified in food-based dietary guidelines (FBDGs). Food-based dietary guidelines come from national governments or public health agencies, and are defined based on regionally representative guidelines.",
+            "owidDisplaySettings": "{\"name\": \"Cost of a healthy diet\", \"unit\": \"2017 USD per day\", \"shortUnit\": \"$\", \"includeInTable\": true}"
           },
           {
             "name": "Calorie sufficient diet cost (% of $1.20 poverty line)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The cost of an energy sufficient diet (CoCA) is defined as the minimum cost to meet energy\nrequirements using the least-cost available starchy staple food in each country.\n\nThis is given as a percentage of a $1.20 expenditure, which would be the maximum allowable food expenditure for an individual living at the international poverty line of $1.90 per day.",
+            "owidDisplaySettings": "{\"name\": \"Cost of a calorie sufficient diet as a percentage of the global poverty line\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Nutrient adequate diet cost (% of $1.20 poverty line)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The lowest-cost nutritionally adequate diet given as a share of $1.20. This is deemed to be the allowable amount of expenditure on food for someone living at the international poverty line of $1.90 per day.\n\nThe cost of a nutrient adequate diet (CoNA) is defined as the lowest-cost set of items available\nat each time and place that would stay within the lower and upper bounds for dietary energy\nand all essential nutrients. Operationally, the CoNA is measured as the minimum cost to\nmeet EER and relevant daily nutrient reference values of 23 macro- and micronutrients for\na representative person in a reference population.",
+            "owidDisplaySettings": "{\"name\": \"Cost of a nutritionally adequate diet as a percentage of the global poverty line\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Healthy diet cost (% of $1.20 poverty line)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The cost of a healthy diet (CoRD) is defined as the lowest-cost set of items available at each time and place that would meet requirements for each food group specified in food-based dietary guidelines (FBDGs). Food-based dietary guidelines come from national governments or public health agencies, and are defined based on regionally representative guidelines.\n\nThis is given as a percentage of a $1.20 expenditure, which would be the maximum allowable food expenditure for an individual living at the international poverty line of $1.90 per day.",
+            "owidDisplaySettings": "{\"name\": \"Cost of a healthy diet as a percentage of the global poverty line\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Calorie sufficient diet cost (% of average food expenditure)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The cost of an energy sufficient diet (CoCA) is defined as the minimum cost to meet energy\nrequirements using the least-cost available starchy staple food in each country.\n\nThis is given as a percentage of the average national expenditure on food.",
+            "owidDisplaySettings": "{\"name\": \"Cost of a calorie sufficient diet as a share of average food expenditure\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Nutrient adequate diet cost (% of average food expenditure)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The lowest-cost nutritionally adequate diet as a share of average national food expenditure.\n\nThe cost of a nutrient adequate diet (CoNA) is defined as the lowest-cost set of items available\nat each time and place that would stay within the lower and upper bounds for dietary energy\nand all essential nutrients. Operationally, the CoNA is measured as the minimum cost to\nmeet EER and relevant daily nutrient reference values of 23 macro- and micronutrients for\na representative person in a reference population.",
+            "owidDisplaySettings": "{\"name\": \"Cost of nutritionally adequate diet as a share of average food expenditure\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Healthy diet cost (% of average food expenditure)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The cost of a healthy diet (CoRD) is defined as the lowest-cost set of items available at each time and place that would meet requirements for each food group specified in food-based dietary guidelines (FBDGs). Food-based dietary guidelines come from national governments or public health agencies, and are defined based on regionally representative guidelines.\n\nThis cost is given as a percentage of the national average food expenditure.",
+            "owidDisplaySettings": "{\"name\": \"Cost of a healthy diet as a share of average expenditure on food\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Calorie sufficient diet cost (% cannot afford)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "A diet is deemed unaffordable if it costs more than 63% of a household's income.\n\nThe cost of an energy sufficient diet (CoCA) is defined as the minimum cost to meet energy\nrequirements using the least-cost available starchy staple food in each country.",
+            "owidDisplaySettings": "{\"name\": \"Share of population that cannot afford a calorie sufficient diet\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Nutrient adequate diet cost  (% cannot afford)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "A diet is deemed unaffordable if it costs more than 63% of a household's income.\n\nThe cost of a nutrient adequate diet (CoNA) is defined as the lowest-cost set of items available\nat each time and place that would stay within the lower and upper bounds for dietary energy\nand all essential nutrients. Operationally, the CoNA is measured as the minimum cost to\nmeet EER and relevant daily nutrient reference values of 23 macro- and micronutrients for\na representative person in a reference population.",
+            "owidDisplaySettings": "{\"name\": \"Share of population that cannot afford a nutritionally adequate diet\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Healthy diet cost  (% cannot afford)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "A diet is deemed unaffordable if it costs more than 63% of a household's income.\n\nThe cost of a healthy diet (CoRD) is defined as the lowest-cost set of items available at each time and place that would meet requirements for each food group specified in food-based dietary guidelines (FBDGs). Food-based dietary guidelines come from national governments or public health agencies, and are defined based on regionally representative guidelines.",
+            "owidDisplaySettings": "{\"name\": \"Share of population that cannot afford a healthy diet\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Calorie sufficient diet cost (number cannot afford)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "A diet is deemed unaffordable if it costs more than 63% of a household's income.\n\nThe cost of an energy sufficient diet (CoCA) is defined as the minimum cost to meet energy\nrequirements using the least-cost available starchy staple food in each country.",
+            "owidDisplaySettings": "{\"name\": \"Number of people that cannot afford a calorie sufficient diet\", \"unit\": \"people\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Nutrient adequate diet cost  (number cannot afford)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "A diet is deemed unaffordable if it costs more than 63% of a household's income.\n\nThe cost of a nutrient adequate diet (CoNA) is defined as the lowest-cost set of items available at each time and place that would stay within the lower and upper bounds for dietary energy and all essential nutrients. Operationally, the CoNA is measured as the minimum cost to\nmeet EER and relevant daily nutrient reference values of 23 macro- and micronutrients for\na representative person in a reference population.",
+            "owidDisplaySettings": "{\"name\": \"Number that cannot afford a nutritionally adequate diet\", \"unit\": \"people\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Healthy diet cost  (number cannot afford)",
+            "name": "Healthy diet cost (number cannot afford)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The cost of a healthy diet (CoRD) is defined as the lowest-cost set of items available at each time and place that would meet requirements for each food group specified in food-based dietary guidelines (FBDGs). Food-based dietary guidelines come from national governments or public health agencies, and are defined based on regionally representative guidelines.\n\nA diet is deemed unaffordable if it costs more than 63% of a household's income.",
+            "owidDisplaySettings": "{\"name\": \"Number of people that cannot afford a healthy diet\", \"unit\": \"people\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           }
         ]
       }
