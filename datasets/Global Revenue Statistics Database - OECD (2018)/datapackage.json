@@ -6,11 +6,11 @@
   "sources": [
     {
       "name": "OECD (2018)",
-      "dataPublishedBy": "OECD",
-      "dataPublisherSource": "Revenue Statistics publications, national statistics",
       "link": "Data: https://stats.oecd.org/Index.aspx?DataSetCode=RS_GBL; Technical Paper: http://www.oecd.org/tax/tax-policy/constructing-the-global-revenue-statistics-database.pdf",
       "retrievedDate": "04/09/2019",
-      "additionalInfo": "In 69 countries, the reporting year of tax revenue coincides with the calendar year, whereas 11 have different reporting years.  Where the GDP reporting year differs from the calendar year, annual GDP estimates are calculated by aggregating quarterly GDP estimates corresponding to each country’s fiscal (tax) year.\n\nFor further information on the OECD classification of taxes, see the OECD's Revenue Statistics Interpretative Guide (2017) available at: https://www.oecd.org/tax/tax-policy/oecd-classification-taxes-interpretative-guide.pdf\n\nFor a more extensive discussion of revenue statistics, see the full <a href=\"http://www.oecd.org/tax/tax-policy/revenue-statistics-2522770x.htm\">OECD Revenue Statistics 2018</a> report. "
+      "additionalInfo": "In 69 countries, the reporting year of tax revenue coincides with the calendar year, whereas 11 have different reporting years.  Where the GDP reporting year differs from the calendar year, annual GDP estimates are calculated by aggregating quarterly GDP estimates corresponding to each country’s fiscal (tax) year.\n\nFor further information on the OECD classification of taxes, see the OECD's Revenue Statistics Interpretative Guide (2017) available at: https://www.oecd.org/tax/tax-policy/oecd-classification-taxes-interpretative-guide.pdf\n\nFor a more extensive discussion of revenue statistics, see the full <a href=\"http://www.oecd.org/tax/tax-policy/revenue-statistics-2522770x.htm\">OECD Revenue Statistics 2018</a> report. ",
+      "dataPublishedBy": "OECD",
+      "dataPublisherSource": "Revenue Statistics publications, national statistics"
     }
   ],
   "owidTags": [
