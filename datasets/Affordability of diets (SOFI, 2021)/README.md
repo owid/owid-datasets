@@ -1,4 +1,4 @@
-# Affordability of diets (SOFI, 2020)
+# Affordability of diets (SOFI, 2021)
 
 The nutritional requirements used in this study are in line with the WHO's recommendations for the median woman of reproductive age. Thie authors note two key two reasons for this:
 
