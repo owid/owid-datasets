@@ -1,0 +1,82 @@
+{
+  "name": "UK Butterfly Populations (UK ONS)",
+  "title": "UK Butterfly Populations (UK ONS)",
+  "id": 5327,
+  "description": "Butterfly population indices are compiled by Butterfly Conservation (BC) and the UK Centre for Ecology & Hydrology (UKCEH) from data collated through the UK Butterfly Monitoring Scheme (UKBMS) including from the Wider Countryside Butterfly Survey (WCBS).\n\nData is collected for 26 habitat specialist butterflies (low mobility species restricted to semi-natural habitats) and 25 more widespread butterflies (which use both semi-natural and general countryside habitats) using data collected at 5,737 sample locations.\n\nThe year-to-year fluctuations in butterfly numbers are often linked to natural environmental variation, especially weather conditions. Therefore, in order to identify underlying patterns in population trends, the assessment of change is based on smoothed indices.",
+  "sources": [
+    {
+      "name": "UK Office for National Statistics; Department for Environment, Food & Rural Affairs",
+      "link": "https://www.gov.uk/government/statistics/butterflies-in-the-wider-countryside-uk",
+      "additionalInfo": "Butterfly population indices are compiled by Butterfly Conservation (BC) and the UK Centre for Ecology & Hydrology (UKCEH) from data collated through the UK Butterfly Monitoring Scheme (UKBMS) including from the Wider Countryside Butterfly Survey (WCBS).\n\nData is collected for 26 habitat specialist butterflies (low mobility species restricted to semi-natural habitats) and 25 more widespread butterflies (which use both semi-natural and general countryside habitats) using data collected at 5,737 sample locations.\n\nThe year-to-year fluctuations in butterfly numbers are often linked to natural environmental variation, especially weather conditions. Therefore, in order to identify underlying patterns in population trends, the assessment of change is based on smoothed indices.",
+      "dataPublishedBy": "UK Office for National Statistics; Department for Environment, Food & Rural Affairs"
+    }
+  ],
+  "owidTags": [
+    "Biodiversity"
+  ],
+  "resources": [
+    {
+      "path": "UK Butterfly Populations (UK ONS).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "butterfly_population_unsmoothed_index",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "butterfly_population_smoothed_index",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "no_species_longterm_increase",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "no_species_longterm_decrease",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "no_species_longterm_nochange",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "no_species_shortterm_increase",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "no_species_shortterm_decrease",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "no_species_shortterm_nochange",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
