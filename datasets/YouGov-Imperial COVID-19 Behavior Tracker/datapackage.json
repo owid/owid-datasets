@@ -5,7 +5,7 @@
   "description": "YouGov has partnered with the Institute of Global Health Innovation (IGHI) at Imperial College London to gather global insights on people’s behaviors in response to COVID-19. The research will cover 29 countries, interviewing around 21,000 people each week.\n\nIt is designed to provide behavioral analysis on how different populations are responding to the pandemic, helping public health bodies in their efforts to limit the impact of the disease. Anonymized respondent level data will be available for all public health and academic institutions globally.\n\nThe questions in the survey, led by IGHI, cover data on testing, symptoms, self-isolating in response to symptoms and the ability and willingness to self-isolate if needed. It also looks at behaviors, including going outdoors, working outside the home, contact with others, handwashing and the extent of compliance with 20 common preventative measures.",
   "sources": [
     {
-      "name": "Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub – Last updated 20 April 2021, 17:00 (London time)",
+      "name": "Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub – Last updated 22 June 2021, 08:20 (London time)",
       "link": "https://github.com/YouGov-Data/covid-19-tracker",
       "retrievedDate": "January 14, 2021",
       "additionalInfo": "YouGov has partnered with the Institute of Global Health Innovation (IGHI) at Imperial College London to gather global insights on people’s behaviors in response to COVID-19. The research will cover 29 countries, interviewing around 21,000 people each week.\n\nIt is designed to provide behavioral analysis on how different populations are responding to the pandemic, helping public health bodies in their efforts to limit the impact of the disease. Anonymized respondent level data will be available for all public health and academic institutions globally.\n\nThe questions in the survey, led by IGHI, cover data on testing, symptoms, self-isolating in response to symptoms and the ability and willingness to self-isolate if needed. It also looks at behaviors, including going outdoors, working outside the home, contact with others, handwashing and the extent of compliance with 20 common preventative measures.",
@@ -652,6 +652,30 @@
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "unwillingness_covid_vaccinate_this_week",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "uncertain_covid_vaccinate_this_week",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "unwillingness_covid_vaccinate_this_week__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "uncertain_covid_vaccinate_this_week__num_responses",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
           }
         ]
       }
