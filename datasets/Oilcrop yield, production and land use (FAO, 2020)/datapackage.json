@@ -2,13 +2,13 @@
   "name": "Oilcrop yield, production and land use (FAO, 2020)",
   "title": "Oilcrop yield, production and land use (FAO, 2020)",
   "id": 5228,
-  "description": "Data on vegetable oil production and land use by crop type is sourced directly from the UN Food and Agriculture Organization (FAO) database.\n\nOur World in Data have calculated each crop's share of total vegetable oil production and land use based on this data.\n\nOur World in Data has also calculated oil yields per crop by dividing oil production by land area used to grow the crop. This is measured in tonnes per hectare. Note that this calculates the oil yield per hectare, which is different from the yield of the total crop: this is because not all of the crop can be used for oil.",
+  "description": "Data on vegetable oil production and land use by crop type is sourced directly from the UN Food and Agriculture Organization (FAO) database.\n\nOur World in Data have calculated each crop's share of total vegetable oil production and land use based on this data.\n\nLand use data is sourced as the 'Area harvested' variable from its crops database: http://www.fao.org/faostat/en/#data/QC\n\nOil production data is sourced from its Food Balances Sheets as the variable 'Production Quantity':http://www.fao.org/faostat/en/#data/FBS\n\nOur World in Data has also calculated oil yields per crop by dividing oil production by land area used to grow the crop. This is measured in tonnes per hectare. Note that this calculates the oil yield per hectare, which is different from the yield of the total crop: this is because not all of the crop can be used for oil.",
   "sources": [
     {
       "name": "Calculated by Our World in Data based on data from the UN Food and Agriculture Organization (FAO)",
-      "link": "http://www.fao.org/faostat/en/#data/QC",
-      "retrievedDate": "25th November 2020",
-      "additionalInfo": "Data on vegetable oil production and land use by crop type is sourced directly from the UN Food and Agriculture Organization (FAO) database.\n\nOur World in Data have calculated each crop's share of total vegetable oil production and land use based on this data.\n\nOur World in Data has also calculated oil yields per crop by dividing oil production by land area used to grow the crop. This is measured in tonnes per hectare. Note that this calculates the oil yield per hectare, which is different from the yield of the total crop: this is because not all of the crop can be used for oil.",
+      "link": "http://www.fao.org/faostat/en/#data",
+      "retrievedDate": "24th June 2021",
+      "additionalInfo": "Data on vegetable oil production and land use by crop type is sourced directly from the UN Food and Agriculture Organization (FAO) database.\n\nOur World in Data have calculated each crop's share of total vegetable oil production and land use based on this data.\n\nLand use data is sourced as the 'Area harvested' variable from its crops database: http://www.fao.org/faostat/en/#data/QC\n\nOil production data is sourced from its Food Balances Sheets as the variable 'Production Quantity':http://www.fao.org/faostat/en/#data/FBS\n\nOur World in Data has also calculated oil yields per crop by dividing oil production by land area used to grow the crop. This is measured in tonnes per hectare. Note that this calculates the oil yield per hectare, which is different from the yield of the total crop: this is because not all of the crop can be used for oil.",
       "dataPublishedBy": "UN Food and Agriculture Organization (FAO)"
     }
   ],
@@ -71,6 +71,12 @@
             "type": "any",
             "description": "This metric represents the amount of land that would need to be devoted to grow a given crop if it was to meet global vegetable oil demand alone. It is calculated as global vegetable oil demand divided by the oil yield of a given crop.",
             "owidDisplaySettings": "{\"name\": \"Area of land that would be needed to meet global vegetable oil demand\", \"unit\": \"hectares\", \"shortUnit\": \"ha\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Share of total oilcrop area (negative)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
           }
         ]
       }
