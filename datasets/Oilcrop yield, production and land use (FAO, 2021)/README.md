@@ -1,4 +1,4 @@
-# Oilcrop yield, production and land use (FAO, 2020)
+# Oilcrop yield, production and land use (FAO, 2021)
 
 Data on vegetable oil production and land use by crop type is sourced directly from the UN Food and Agriculture Organization (FAO) database.
 
