@@ -58,36 +58,6 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "wat_pip",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_npip",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_premises",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_available",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_quality",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "wat_sm",
             "type": "any",
             "description": null,
@@ -119,42 +89,6 @@
           },
           {
             "name": "san_od",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_lat",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sep",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sew",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sdo_sm",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_fst_sm",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sew_sm",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
@@ -214,36 +148,6 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "wat_pip_number",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_npip_number",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_premises_number",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_available_number",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_quality_number",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "wat_sm_number",
             "type": "any",
             "description": null,
@@ -280,43 +184,7 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "san_lat_number",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sep_number",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sew_number",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sdo_sm_number",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_fst_sm_number",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "san_sm_number",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sew_sm_number",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
@@ -370,36 +238,6 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "wat_pip_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_npip_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_premises_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_available_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_quality_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "wat_sm_rural",
             "type": "any",
             "description": null,
@@ -431,42 +269,6 @@
           },
           {
             "name": "san_od_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_lat_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sep_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sew_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sdo_sm_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_fst_sm_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sew_sm_rural",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
@@ -526,36 +328,6 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "wat_pip_number_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_npip_number_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_premises_number_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_available_number_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_quality_number_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "wat_sm_number_rural",
             "type": "any",
             "description": null,
@@ -592,43 +364,7 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "san_lat_number_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sep_number_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sew_number_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sdo_sm_number_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_fst_sm_number_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "san_sm_number_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sew_sm_number_rural",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
@@ -682,121 +418,7 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "wat_pip_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_npip_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_premises_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_available_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_quality_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "wat_sm_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_imp_sew",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_imp_sep",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_imp_lat",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_bas_sew",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_bas_sep",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_bas_lat",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_onsite_sm",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_imp_sew_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_imp_sep_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_imp_lat_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_bas_sew_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_bas_sep_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_bas_lat_rural",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_onsite_sm_rural",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
@@ -832,67 +454,7 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "san_imp_sew_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_imp_sep_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_imp_lat_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_bas_sew_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_bas_sep_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_bas_lat_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sdo_sm_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_fst_sm_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sew_sm_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "san_sm_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_onsite_sm_urban",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
@@ -911,24 +473,6 @@
           },
           {
             "name": "hyg_nfac_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_lat_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sep_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sew_urban",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
@@ -959,36 +503,6 @@
           },
           {
             "name": "wat_sur_number_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_pip_number_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_npip_number_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_premises_number_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_available_number_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "wat_quality_number_urban",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
@@ -1030,43 +544,7 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "san_lat_number_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sep_number_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sew_number_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sdo_sm_number_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_fst_sm_number_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "san_sm_number_urban",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "san_sew_sm_number_urban",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
