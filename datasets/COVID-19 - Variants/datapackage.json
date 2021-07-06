@@ -2,10 +2,11 @@
   "name": "COVID-19 - Variants",
   "title": "COVID-19 - Variants",
   "id": 5338,
-  "description": "",
+  "description": "The share of analyzed sequences in the last two weeks that correspond to each variant group. Only a fraction of all cases are sequenced.",
   "sources": [
     {
-      "name": "CoVariants.org and GISAID – Last updated 2 July 2021, 02:10 (London time)"
+      "name": "CoVariants.org and GISAID – Last updated 5 July 2021, 21:00 (London time)",
+      "additionalInfo": "The share of analyzed sequences in the last two weeks that correspond to each variant group. Only a fraction of all cases are sequenced."
     }
   ],
   "owidTags": [
@@ -27,116 +28,116 @@
           {
             "name": "Alpha",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "description": "The share of analyzed sequences that correspond to the Alpha COVID-19 variant. Only a fraction of all cases are sequenced.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "B.1.1.277",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "B.1.1.302",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "B.1.160",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "B.1.177",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "B.1.221",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "B.1.258",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "B.1.367",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "Beta",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "description": "The share of analyzed sequences that correspond to the Beta COVID-19 variant. Only a fraction of all cases are sequenced.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "Delta",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "description": "The share of analyzed sequences that correspond to the Delta COVID-19 variant. Only a fraction of all cases are sequenced.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "Epsilon",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "description": "The share of analyzed sequences that correspond to the Epsilon COVID-19 variant. Only a fraction of all cases are sequenced.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "Eta",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "description": "The share of analyzed sequences that correspond to the Eta COVID-19 variant. Only a fraction of all cases are sequenced.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "Gamma",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "description": "The share of analyzed sequences that correspond to the Gamma COVID-19 variant. Only a fraction of all cases are sequenced.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "Iota",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "description": "The share of analyzed sequences that correspond to the Iota COVID-19 variant. Only a fraction of all cases are sequenced.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "Kappa",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "description": "The share of analyzed sequences that correspond to the Kappa variant. Only a fraction of all cases are sequenced.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "S:677H.Robin1",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "S:677P.Pelican",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "others",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "description": "The share of analyzed sequences that correspond to each variant group. Only a fraction of all cases are sequenced.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "non_who",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"zeroDay\": \"2020-01-21\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
           }
         ]
       }
