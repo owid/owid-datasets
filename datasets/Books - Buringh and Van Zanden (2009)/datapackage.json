@@ -1,0 +1,49 @@
+{
+  "name": "Books - Buringh and Van Zanden (2009)",
+  "title": "Books - Buringh and Van Zanden (2009)",
+  "id": 5350,
+  "description": "Eltjo Buringh and Jan Luiten Van Zanden (2009) – Charting the “Rise of the West”: Manuscripts and Printed Books in Europe, a Long-Term Perspective from the Sixth through Eighteenth Centuries. In The Journal of Economic History The Journal of Economic History Vol. 69, No. 2 (Jun., 2009), pp. 409-445.",
+  "sources": [
+    {
+      "name": "Buringh and Van Zanden (2009)",
+      "link": "https://www.jstor.org/stable/40263962",
+      "additionalInfo": "Eltjo Buringh and Jan Luiten Van Zanden (2009) – Charting the “Rise of the West”: Manuscripts and Printed Books in Europe, a Long-Term Perspective from the Sixth through Eighteenth Centuries. In The Journal of Economic History The Journal of Economic History Vol. 69, No. 2 (Jun., 2009), pp. 409-445."
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "Books - Buringh and Van Zanden (2009).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Manuscript production per century",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "Production of printed books per half century",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Annual per capita consumption of books",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
