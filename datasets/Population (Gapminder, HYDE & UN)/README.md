@@ -7,9 +7,9 @@ Population data by country, region, and for the world, was constructed by Our Wo
 - UN World Population Prospects (2019) estimates from 1950 to 2021; 
 - UN World Population Prospects (2019) projections (medium variant scenario) from 2022 to 2100.
 
-HYDE Database, available at: https://themasites.pbl.nl/tridion/en/themasites/hyde/basicdrivingfactors/population/index-2.html
+HYDE Database, available at: https://www.pbl.nl/en/image/links/hyde
 
-Full documentation of Gapminder's sources and process are available here: https://www.gapminder.org/data/documentation/gd003/.
+Full documentation of Gapminder's sources and process are available here: https://www.gapminder.org/data/documentation/gd003/
 
 UN population revision citation:
-United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects: The 2019 Revision, DVD Edition. Available at: https://population.un.org/wpp/Download/Standard/Population/
+United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019, Online Edition. Rev. 1. Available at: https://population.un.org/wpp/Download/Standard/Population/
