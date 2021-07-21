@@ -1,4 +1,4 @@
-# Population (Gapminder, HYDE (2016) & UN (2019))
+# Population (Gapminder, HYDE & UN)
 
 Population data by country is taken from Version 5 of Gapminder. This provides data by country from 1800 through to 2100. The Gapminder dataset is available online at http://www.gapminder.org/.
 
