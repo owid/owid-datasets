@@ -2,13 +2,19 @@
   "name": "Fish stocks (RAMLegacy)",
   "title": "Fish stocks (RAMLegacy)",
   "id": 5352,
-  "description": "",
+  "description": "This data is sourced from the RAM Legacy Stock Assessment Database, which can be accessed here: https://www.ramlegacy.org/.\n\nThe primary publication describing the RAM Legacy Stock Assessment Database, and suggested citation for general use is:\n\nRicard, D., Minto, C., Jensen, O.P. and Baum, J.K. (2012) Evaluating the knowledge base and status of commercially exploited marine species with the RAM Legacy Stock Assessment Database. Fish and Fisheries 13 (4) 380-398. DOI: 10.1111/j.1467-2979.2011.00435.x",
   "sources": [
     {
-      "name": "Fish stocks (RAMLegacy)"
+      "name": "RAM Legacy Stock Assessment Database.",
+      "link": "https://www.ramlegacy.org/",
+      "additionalInfo": "This data is sourced from the RAM Legacy Stock Assessment Database, which can be accessed here: https://www.ramlegacy.org/.\n\nThe primary publication describing the RAM Legacy Stock Assessment Database, and suggested citation for general use is:\n\nRicard, D., Minto, C., Jensen, O.P. and Baum, J.K. (2012) Evaluating the knowledge base and status of commercially exploited marine species with the RAM Legacy Stock Assessment Database. Fish and Fisheries 13 (4) 380-398. DOI: 10.1111/j.1467-2979.2011.00435.x",
+      "dataPublishedBy": "RAM Legacy Stock Assessment Database. 2018. Version 4.44-assessment-only. Released 2018-12-22. Retrieved from DOI:10.5281/zenodo.2542919."
     }
   ],
-  "owidTags": [],
+  "owidTags": [
+    "Meat and Seafood Production & Consumption",
+    "Biodiversity"
+  ],
   "resources": [
     {
       "path": "Fish stocks (RAMLegacy).csv",
