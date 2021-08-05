@@ -1,0 +1,155 @@
+{
+  "name": "Global fish catch by end use (FishStat via SeaAroundUs)",
+  "title": "Global fish catch by end use (FishStat via SeaAroundUs)",
+  "id": 5355,
+  "description": "This data is sourced from the Sea Around Us database published by Pauly, Zeller and Palomares, available at: http://www.seaaroundus.org/.\n\nThis project relies on multiple sources but primarily the FishStat database published by the Food and Agriculture Organization of the United Nations. This is available here: http://www.fao.org/fishery/statistics/software/fishstatj/en.",
+  "sources": [
+    {
+      "name": "FishStat via Pauly, Zeller, and Palomares from Sea Around Us Concepts, Design and Data.",
+      "link": "http://www.seaaroundus.org/",
+      "additionalInfo": "This data is sourced from the Sea Around Us database published by Pauly, Zeller and Palomares, available at: http://www.seaaroundus.org/.\n\nThis project relies on multiple sources but primarily the FishStat database published by the Food and Agriculture Organization of the United Nations. This is available here: http://www.fao.org/fishery/statistics/software/fishstatj/en.",
+      "dataPublishedBy": " Pauly D., Zeller D., Palomares M.L.D. (Editors), 2020. Sea Around Us Concepts, Design and Data (seaaroundus.org).",
+      "dataPublisherSource": "United Nations FishStat Database"
+    }
+  ],
+  "owidTags": [
+    "Meat and Seafood Production & Consumption"
+  ],
+  "resources": [
+    {
+      "path": "Global fish catch by end use (FishStat via SeaAroundUs).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "fish_catch_direct_consumption",
+            "type": "any",
+            "description": "Wild fish catch which is used for direct human consumption.",
+            "owidDisplaySettings": "{\"name\": \"Direct human consumption\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "fishmeal_and_fish_oil",
+            "type": "any",
+            "description": "This is the quantity of wild fish catch that is used as fishmeal and fish oil for animal feed. This feed is used in land-based livestock farming (e.g. pigs, cows, chickens) and aquaculture (fish farming).",
+            "owidDisplaySettings": "{\"name\": \"Fishmeal and oil (animal feed)\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "fish_other_uses",
+            "type": "any",
+            "description": "Wild fish catch allocated to uses beyond direct human consumption and animal feed. This can include uses of oils in industry applications, for example.",
+            "owidDisplaySettings": "{\"name\": \"Other uses\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "total_fish_catch",
+            "type": "any",
+            "description": "Total wild fish catch, measured in tonnes.",
+            "owidDisplaySettings": "{\"name\": \"Total wild fish catch\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "bottom_trawl",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "gillnet",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "longline",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "other_gear",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "pelagic trawl",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "purse_seine",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "small_scale",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "unknown_gear",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Artisanal",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "industrial",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "recreational",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "subsistence",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "discards",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "landings",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "reported_landings",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "unreported_landings",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
