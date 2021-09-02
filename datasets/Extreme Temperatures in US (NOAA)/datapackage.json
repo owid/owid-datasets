@@ -6,15 +6,14 @@
   "sources": [
     {
       "name": "Extreme Temperatures in US (NOAA)",
-      "dataPublishedBy": "United States Environmental Protection Agency (EPA)",
-      "dataPublisherSource": "National Oceanic & Atmospheric Administration (NOAA)",
       "link": "https://www.epa.gov/climate-indicators/climate-change-indicators-high-and-low-temperatures",
-      "retrievedDate": "19th September 2018",
-      "additionalInfo": "The U.S. Annual Heat Wave Index tracks the occurrence of heat wave conditions across the United States. While there is no universal definition of a heat wave, this index defines a heat wave as a period lasting at least four days with an average temperature that would only be expected to occur once every 10 years, based on the historical record. The index value for a given year depends on how often heat waves occur and how widespread they are.\n\nUnusually high and low temperatures measure the percentage of the country’s area experiencing unusually hot temperatures in the summer and unusually cold temperatures in the winter. These graphs are based on daily maximum temperatures, which usually occur during the day, and daily minimum temperatures, which usually occur at night. At each station, the recorded highs and lows are compared with the full set of historical records. After averaging over a particular month or season of interest, the coldest 10 percent of years are considered “unusually cold” and the warmest 10 percent are “unusually hot.” For example, if last year’s summer highs were the 10th warmest on record for a particular location with more than 100 years of data, that year’s summer highs would be considered unusually warm. Data are available from 1910 to 2015 for summer (June through August) and from 1911 to 2016 for winter (December of the previous year through February)."
+      "additionalInfo": "The U.S. Annual Heat Wave Index tracks the occurrence of heat wave conditions across the United States. While there is no universal definition of a heat wave, this index defines a heat wave as a period lasting at least four days with an average temperature that would only be expected to occur once every 10 years, based on the historical record. The index value for a given year depends on how often heat waves occur and how widespread they are.\n\nUnusually high and low temperatures measure the percentage of the country’s area experiencing unusually hot temperatures in the summer and unusually cold temperatures in the winter. These graphs are based on daily maximum temperatures, which usually occur during the day, and daily minimum temperatures, which usually occur at night. At each station, the recorded highs and lows are compared with the full set of historical records. After averaging over a particular month or season of interest, the coldest 10 percent of years are considered “unusually cold” and the warmest 10 percent are “unusually hot.” For example, if last year’s summer highs were the 10th warmest on record for a particular location with more than 100 years of data, that year’s summer highs would be considered unusually warm. Data are available from 1910 to 2015 for summer (June through August) and from 1911 to 2016 for winter (December of the previous year through February).",
+      "dataPublishedBy": "United States Environmental Protection Agency (EPA)",
+      "dataPublisherSource": "National Oceanic & Atmospheric Administration (NOAA)"
     }
   ],
   "owidTags": [
-    "Natural Catastrophes"
+    "Natural Disasters"
   ],
   "resources": [
     {
@@ -33,55 +32,55 @@
             "name": "Heat Wave Index (NOAA)",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "Cold Daily Highs (NOAA)",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "9-year average (Cold Daily Highs)",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "Cold Daily Lows (NOAA)",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "9-year average (Cold Daily Lows)",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "Hot Daily Highs (NOAA)",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "9-year average (Hot Daily Highs)",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "Hot Daily Lows (NOAA)",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "9-year average (Hot Daily Lows)",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           }
         ]
       }
