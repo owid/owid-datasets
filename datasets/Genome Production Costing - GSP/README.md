@@ -8,5 +8,5 @@ The NHGRI program describe genome sequencing costs relative to two metrics, quot
 
 (2) "Cost per Genome" - the cost of sequencing a human-sized genome."
 
-Cost data from the NHGRI is presented either biannually or seasonally for each year. Here we have summarized this data on an annual basis by calculating the yearly average cost.
+Cost data from the NHGRI is presented either biannually or seasonally for each year. Here, we have summarized this data on an annual basis by calculating the yearly average cost.
 The number of DNA base pairs sequenced per US$ was calculated by dividing 1 by the metric, "Cost per Megabase of DNA Sequence", and multiplying by 1 million.
