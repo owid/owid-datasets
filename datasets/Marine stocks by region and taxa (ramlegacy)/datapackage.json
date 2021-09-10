@@ -1,0 +1,144 @@
+{
+  "name": "Marine stocks by region and taxa (ramlegacy)",
+  "title": "Marine stocks by region and taxa (ramlegacy)",
+  "id": 5367,
+  "description": "This dataset provides aggregated data on fish biomass, fishing pressure and catch by region and taxa, based on the results of the RAM Legacy Stock Assessment Database: https://www.ramlegacy.org/\n\nThis aggregated data was provided by Michael Melnychuk, researcher on the RAM Legacy Database.\n\nThese results were published in PNAS here:\nHilborn, R., Amoroso, R. O., Anderson, C. M., Baum, J. K., Branch, T. A., Costello, C., ... & Ye, Y. (2020). Effective fisheries management instrumental in improving fish stock status. Proceedings of the National Academy of Sciences, 117(4), 2218-2224. Available at: https://www.pnas.org/content/117/4/2218\n\nDefinitions are as follows:\n– 'Biomass' is a measure of biomass of fish divided by the biomass of fish at the maximum sustainable yield (B / Bmsy)\n– 'Fishing pressure' is a measure of fishing pressure divided by the pressure at the maximum sustainable yield (U / Umsy)\n– 'Catch' is a measure of the annual catch divided by the mean catch across the stock's time series",
+  "sources": [
+    {
+      "name": "Marine stocks by region and taxa (ramlegacy)",
+      "link": "https://www.ramlegacy.org/",
+      "retrievedDate": "10th September 2021",
+      "additionalInfo": "This dataset provides aggregated data on fish biomass, fishing pressure and catch by region and taxa, based on the results of the RAM Legacy Stock Assessment Database: https://www.ramlegacy.org/\n\nThis aggregated data was provided by Michael Melnychuk, researcher on the RAM Legacy Database.\n\nThese results were published in PNAS here:\nHilborn, R., Amoroso, R. O., Anderson, C. M., Baum, J. K., Branch, T. A., Costello, C., ... & Ye, Y. (2020). Effective fisheries management instrumental in improving fish stock status. Proceedings of the National Academy of Sciences, 117(4), 2218-2224. Available at: https://www.pnas.org/content/117/4/2218\n\nDefinitions are as follows:\n– 'Biomass' is a measure of biomass of fish divided by the biomass of fish at the maximum sustainable yield (B / Bmsy)\n– 'Fishing pressure' is a measure of fishing pressure divided by the pressure at the maximum sustainable yield (U / Umsy)\n– 'Catch' is a measure of the annual catch divided by the mean catch across the stock's time series",
+      "dataPublishedBy": "RAM Legacy Stock Assessment Database. 2021. Version 4.495-assessment-only. Retrieved from DOI:10.5281/zenodo.4824192."
+    }
+  ],
+  "owidTags": [
+    "Meat and Seafood Production & Consumption",
+    "Biodiversity"
+  ],
+  "resources": [
+    {
+      "path": "Marine stocks by region and taxa (ramlegacy).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "biomass_mean_region",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "catch_mean_region",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "fishing_pressure_mean_region",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "biomass_q25_region",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "catch_q25_region",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "fishing_pressure_q25_region",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "biomass_q75_region",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "catch_q75_region",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "fishing_pressure_q75_region",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "biomass_mean_taxa",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "catch_mean_taxa",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "fishing_pressure_mean_taxa",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "biomass_q25_taxa",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "catch_q25_taxa",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "fishing_pressure_q25_taxa",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "biomass_q75_taxa",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "catch_q75_taxa",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "fishing_pressure_q75_taxa",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
