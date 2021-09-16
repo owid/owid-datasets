@@ -33,13 +33,19 @@
             "name": "GDP per capita",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"2011 int-$\", \"shortUnit\": \"$\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+            "owidDisplaySettings": "{\"unit\": \"2011 int-$\", \"shortUnit\": \"$\", \"includeInTable\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Western Offshoots: United States, Canada, Australia and New Zealand\"}"
           },
           {
             "name": "Population",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"entityAnnotationsMap\": \"Western Offshoots: United States, Canada, Australia and New Zealand\"}"
+          },
+          {
+            "name": "GDP",
+            "type": "any",
+            "description": "Calculated by multiplying GDP per capita with population.",
+            "owidDisplaySettings": "{\"unit\": \"2011 int-$\", \"shortUnit\": \"$\", \"includeInTable\": true, \"entityAnnotationsMap\": \"Western Offshoots: United States, Canada, Australia and New Zealand\"}"
           }
         ]
       }
