@@ -6,9 +6,7 @@ We do not use the data from some countries in WMD because they fail to meet the 
 
 For a full list of source information (i.e., HMD or WMD) country by country, see: https://ourworldindata.org/excess-mortality-covid#source-information-country-by-country.
 
-HMD has deaths data for all ages and broken down by broad age groups, while WMD has data for all ages only.
-
-We use the reported weekly or monthly deaths data from HMD and WMD, and the projected deaths for 2020 from WMD, to calculate P-scores. The P-score is the percentage difference between the reported number of weekly or monthly deaths in 2020–2021 and the projected number of deaths for the same period based on previous years.
+We calculate P-scores using the reported deaths data from HMD and WMD and the projected deaths for 2020 from WMD (which we use for all countries and regions, including for deaths broken down by age group). The P-score is the percentage difference between the reported number of weekly or monthly deaths in 2020–2021 and the projected number of deaths for the same period based on previous years.
 
 We calculate the number of weekly deaths for the United Kingdom by summing the weekly deaths from England & Wales, Scotland, and Northern Ireland.
 
