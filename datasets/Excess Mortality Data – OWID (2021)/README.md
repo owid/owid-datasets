@@ -8,7 +8,7 @@ For a full list of source information (i.e., HMD or WMD) country by country, see
 
 HMD has deaths data for all ages and broken down by broad age groups, while WMD has data for all ages only.
 
-We used the raw weekly or monthly deaths data from HMD and WMD to calculate P-scores. The P-score is the percentage difference between the number of weekly or monthly deaths in 2020–2021 and the average number of deaths in the same period over the years 2015–2019 (for a small minority of countries only 2016–2019 are available). For Week 53 2020, which ended on 3 January 2021, we compare the number of deaths to the average deaths in Week 52 over the years 2015–2019, because only one previous year (2015) had a Week 53.
+We use the reported weekly or monthly deaths data from HMD and WMD, and the projected deaths for 2020 from WMD, to calculate P-scores. The P-score is the percentage difference between the reported number of weekly or monthly deaths in 2020–2021 and the projected number of deaths for the same period based on previous years.
 
 We calculate the number of weekly deaths for the United Kingdom by summing the weekly deaths from England & Wales, Scotland, and Northern Ireland.
 
