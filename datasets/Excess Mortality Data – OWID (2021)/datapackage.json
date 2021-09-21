@@ -183,7 +183,7 @@
             "name": "cum_p_proj_all_ages",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Excess mortality cumulative P-scores, projected baseline, all ages\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Excess mortality cumulative P-scores, projected baseline, all ages\", \"unit\": \"%\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "p_proj_all_ages",
