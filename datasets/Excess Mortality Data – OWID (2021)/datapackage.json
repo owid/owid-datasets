@@ -32,193 +32,193 @@
           {
             "name": "p_avg_all_ages",
             "type": "any",
-            "description": null,
+            "description": "P-scores using 5-year average baseline for all ages",
             "owidDisplaySettings": "{\"name\": \"Excess mortality P-scores, 5-year average baseline, all ages\", \"unit\": \"%\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "p_avg_15_64",
             "type": "any",
-            "description": null,
+            "description": "P-scores using projected baseline for ages 15–64",
             "owidDisplaySettings": "{\"name\": \"Ages 15–64\", \"unit\": \"%\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "p_avg_65_74",
             "type": "any",
-            "description": null,
+            "description": "P-scores using projected baseline for ages 65–74",
             "owidDisplaySettings": "{\"name\": \"Ages 65–74\", \"unit\": \"%\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "p_avg_75_84",
             "type": "any",
-            "description": null,
+            "description": "P-scores using projected baseline for ages 75–84",
             "owidDisplaySettings": "{\"name\": \"Ages 75–84\", \"unit\": \"%\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "p_avg_85p",
             "type": "any",
-            "description": null,
+            "description": "P-scores using projected baseline for ages 85 and above",
             "owidDisplaySettings": "{\"name\": \"Ages 85+\", \"unit\": \"%\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "deaths_2020_all_ages",
             "type": "any",
-            "description": null,
+            "description": "The reported number of weekly or monthly deaths from all causes for all ages in 2020.",
             "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "average_deaths_2015_2019_all_ages",
             "type": "any",
-            "description": null,
+            "description": "The average number of weekly or monthly deaths from all causes for all ages over the years 2015–2019.",
             "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "deaths_2015_all_ages",
             "type": "any",
-            "description": null,
+            "description": "The reported number of weekly or monthly deaths from all causes for all ages in 2015.",
             "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "deaths_2016_all_ages",
             "type": "any",
-            "description": null,
+            "description": "The reported number of weekly or monthly deaths from all causes for all ages in 2016.",
             "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "deaths_2017_all_ages",
             "type": "any",
-            "description": null,
+            "description": "The reported number of weekly or monthly deaths from all causes for all ages in 2017.",
             "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "deaths_2018_all_ages",
             "type": "any",
-            "description": null,
+            "description": "The reported number of weekly or monthly deaths from all causes for all ages in 2018.",
             "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "deaths_2019_all_ages",
             "type": "any",
-            "description": null,
+            "description": "The reported number of weekly or monthly deaths from all causes for all ages in 2019.",
             "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "deaths_2010_all_ages",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The reported number of weekly or monthly deaths from all causes for all ages in 2010.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "deaths_2011_all_ages",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The reported number of weekly or monthly deaths from all causes for all ages in 2011.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "deaths_2012_all_ages",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The reported number of weekly or monthly deaths from all causes for all ages in 2012.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "deaths_2013_all_ages",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The reported number of weekly or monthly deaths from all causes for all ages in 2013.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "deaths_2014_all_ages",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The reported number of weekly or monthly deaths from all causes for all ages in 2014.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "deaths_2021_all_ages",
             "type": "any",
-            "description": null,
+            "description": "The reported number of weekly or monthly deaths from all causes for all ages in 2021.",
             "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "time",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The week or month number in the year",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "time_unit",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Denotes whether the “time” column values are weekly or monthly",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "p_avg_0_14",
             "type": "any",
-            "description": null,
+            "description": "P-scores using 5-year average baseline for ages 0–14",
             "owidDisplaySettings": "{\"name\": \"Ages 0–14\", \"unit\": \"%\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "projected_deaths_2020_all_ages",
             "type": "any",
-            "description": null,
+            "description": "Projected number of weekly or monthly deaths from all causes for all ages for 2020",
             "owidDisplaySettings": "{\"name\": \"Projected, 2020\", \"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "excess_proj_all_ages",
             "type": "any",
-            "description": null,
+            "description": "The number of excess deaths; calculated as reported deaths minus projected deaths",
             "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "cum_excess_proj_all_ages",
             "type": "any",
-            "description": null,
+            "description": "The cumulative number of excess deaths; cumulated starting 1 January 2020",
             "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "cum_proj_deaths_all_ages",
             "type": "any",
-            "description": null,
+            "description": "The cumulative number of projected deaths; cumulated starting 1 January 2020",
             "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "cum_p_proj_all_ages",
             "type": "any",
-            "description": null,
+            "description": "Cumulative P-scores using projected baseline for all ages",
             "owidDisplaySettings": "{\"name\": \"Excess mortality cumulative P-scores, projected baseline, all ages\", \"unit\": \"%\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "p_proj_all_ages",
             "type": "any",
-            "description": null,
+            "description": "P-scores using projected baseline for all ages",
             "owidDisplaySettings": "{\"name\": \"Excess mortality P-scores, projected baseline, all ages\", \"unit\": \"%\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "p_proj_0_14",
             "type": "any",
-            "description": null,
+            "description": "P-scores using projected baseline for ages 0–14",
             "owidDisplaySettings": "{\"name\": \"Ages 0–14\", \"unit\": \"%\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "p_proj_15_64",
             "type": "any",
-            "description": null,
+            "description": "P-scores using projected baseline for ages 15–64",
             "owidDisplaySettings": "{\"name\": \"Ages 15–64\", \"unit\": \"%\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "p_proj_65_74",
             "type": "any",
-            "description": null,
+            "description": "P-scores using projected baseline for ages 65–74",
             "owidDisplaySettings": "{\"name\": \"Ages 65–74\", \"unit\": \"%\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "p_proj_75_84",
             "type": "any",
-            "description": null,
+            "description": "P-scores using projected baseline for ages 75–84",
             "owidDisplaySettings": "{\"name\": \"Ages 75–84\", \"unit\": \"%\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "p_proj_85p",
             "type": "any",
-            "description": null,
+            "description": "P-scores using projected baseline for ages 85 and above",
             "owidDisplaySettings": "{\"name\": \"Ages 85+\", \"unit\": \"%\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           }
         ]
