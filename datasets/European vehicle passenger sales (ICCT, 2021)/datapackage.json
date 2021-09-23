@@ -1,0 +1,183 @@
+{
+  "name": "European vehicle passenger sales (ICCT, 2021)",
+  "title": "European vehicle passenger sales (ICCT, 2021)",
+  "id": 5382,
+  "description": "",
+  "sources": [
+    {
+      "name": "International Council on Clean Transport (ICCT). European Vehicle Market Statistics.",
+      "link": "http://eupocketbook.org/",
+      "dataPublishedBy": "International Council on Clean Transport (ICCT). European Vehicle Market Statistics."
+    }
+  ],
+  "owidTags": [
+    "Transport"
+  ],
+  "resources": [
+    {
+      "path": "European vehicle passenger sales (ICCT, 2021).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "total_passenger_vehicle_sales",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "share_european_car_sales",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "vehicle_price_eur",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "diesel_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "gas_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "full_hybrid_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "plugin_hybrid_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "mild_hybrid_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "battery_electric_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "petrol_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "co2_per_km",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Average carbon intensity of new passenger vehicles\", \"unit\": \"grams CO₂ per km\", \"shortUnit\": \"gCO₂\", \"includeInTable\": true}"
+          },
+          {
+            "name": "fuel_efficiency_per_km",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "diesel_number",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "gas_number",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "full_hybrid_number",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "plugin_hybrid_number",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "mild_hybrid_number",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "battery_electric_number",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "petrol_number",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "all_hybrid_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "all_hybrid_number",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "full_mild_hybrid_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "diesel_gas_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "full_mild_hybrid_number",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "diesel_gas_number",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          }
+        ]
+      }
+    }
+  ]
+}
