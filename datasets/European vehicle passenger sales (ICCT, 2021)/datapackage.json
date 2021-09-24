@@ -2,12 +2,12 @@
   "name": "European vehicle passenger sales (ICCT, 2021)",
   "title": "European vehicle passenger sales (ICCT, 2021)",
   "id": 5382,
-  "description": "Vehicle registrations data by type across specific European countries is sourced from the International Council on Clean Transport (ICCT): http://eupocketbook.org/\n\nEU aggregate figures is sourced from the European Environment Agency: https://www.eea.europa.eu/data-and-maps/indicators/proportion-of-vehicle-fleet-meeting-5/assessment",
+  "description": "Vehicle registrations data by type across specific European countries is sourced from the International Council on Clean Transport (ICCT): http://eupocketbook.org/\n\nEuropean aggregate figures is sourced from the European Environment Agency: https://www.eea.europa.eu/data-and-maps/indicators/proportion-of-vehicle-fleet-meeting-5/assessment. Here 'Europe' refers to the sum of the EU-27, Iceland, Norway and United Kingdom.",
   "sources": [
     {
       "name": "International Council on Clean Transport (ICCT) and European Environment Agency",
-      "additionalInfo": "Vehicle registrations data by type across specific European countries is sourced from the International Council on Clean Transport (ICCT): http://eupocketbook.org/\n\nEU aggregate figures is sourced from the European Environment Agency: https://www.eea.europa.eu/data-and-maps/indicators/proportion-of-vehicle-fleet-meeting-5/assessment",
-      "dataPublishedBy": "International Council on Clean Transport (ICCT). European Vehicle Market Statistics. EU aggregated figures from the European Environment Agency."
+      "additionalInfo": "Vehicle registrations data by type across specific European countries is sourced from the International Council on Clean Transport (ICCT): http://eupocketbook.org/\n\nEuropean aggregate figures is sourced from the European Environment Agency: https://www.eea.europa.eu/data-and-maps/indicators/proportion-of-vehicle-fleet-meeting-5/assessment. Here 'Europe' refers to the sum of the EU-27, Iceland, Norway and United Kingdom.",
+      "dataPublishedBy": "International Council on Clean Transport (ICCT). European Vehicle Market Statistics. European aggregated figures from the European Environment Agency."
     }
   ],
   "owidTags": [
@@ -175,6 +175,18 @@
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "battery_plugin_electric_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "battery_plugin_electric_number",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
           }
         ]
       }
