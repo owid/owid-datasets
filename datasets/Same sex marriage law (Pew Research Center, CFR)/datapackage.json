@@ -7,9 +7,9 @@
     {
       "name": "Pew Research Center and the Council on Foreign Relations",
       "link": "Pew Research Center: https://www.pewforum.org/fact-sheet/gay-marriage-around-the-world/ </br> CFR: https://www.cfr.org/backgrounder/same-sex-marriage-global-comparisons",
-      "retrievedDate": "17/01/2020",
-      "dataPublishedBy": "Pew Research Center and the Council on Foreign Relations",
-      "additionalInfo": "The United Kingdom in the dataset refers to England/Wales. In the United Kingdom, England and Wales were first to legalise same-sex marriage in 2013, Scotland followed in 2014, and Northern Ireland introduced its legalisation in 2019. "
+      "retrievedDate": "28/09/2021",
+      "additionalInfo": "The United Kingdom in the dataset refers to England/Wales. In the United Kingdom, England and Wales were first to legalise same-sex marriage in 2013, Scotland followed in 2014, and Northern Ireland introduced its legalisation in 2019. ",
+      "dataPublishedBy": "Pew Research Center and the Council on Foreign Relations"
     }
   ],
   "owidTags": [
@@ -31,14 +31,14 @@
           {
             "name": "Same sex marriage and civil unions legal",
             "type": "any",
-            "description": "Country values equal to 1 indicate same-sex marriage is legal, while values equal to 2 indicate some rights, such as civil partnerships/unions, have been granted to same-sex couples. ",
+            "description": null,
             "owidDisplaySettings": "{}"
           },
           {
             "name": "Number of countries that have legalised same-sex marriage",
             "type": "any",
-            "description": "The total number of countries that have legalised same-sex marriage over time. \n\nNote: The United Kingdom has been included as three separate entities: England/Wales, Northern Ireland, and Scotland as same-sex marriage was legalised in different years.",
-            "owidDisplaySettings": "{}"
+            "description": "The total number of countries that have legalised same-sex marriage over time. \n\nNote: The United Kingdom has been included as three separate entities: England/Wales, Northern Ireland, and Scotland, as same-sex marriage was legalised in different years.",
+            "owidDisplaySettings": "{\"numDecimalPlaces\": 0}"
           }
         ]
       }
