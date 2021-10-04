@@ -2,12 +2,12 @@
   "name": "Natural disasters (EMDAT)",
   "title": "Natural disasters (EMDAT)",
   "id": 5366,
-  "description": "This data has been aggregated by Our World in Data by country and year based on the raw database of disasters published by EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).\n\nOur World in Data has also calculated each metric, adjusted for population, using a long-run population dataset constructed from Gapminder and UN Population Prospects.\nhttps://www.gapminder.org/\nhttps://population.un.org/wpp/\n",
+  "description": "This data has been aggregated by Our World in Data by country and year based on the raw database of disasters published by EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).\n\nOur World in Data has also calculated each metric, adjusted for population, using a long-run population dataset constructed from Gapminder and UN Population Prospects.\nhttps://www.gapminder.org/\nhttps://population.un.org/wpp/\n\nOur World in Data has also calculated economic damage metrics adjusted for gross domestic product (GDP), using GDP data from the World Bank.\nhttp://data.worldbank.org/data-catalog/world-development-indicators\n",
   "sources": [
     {
       "name": "Natural disasters (EMDAT)",
       "link": "www.emdat.be",
-      "additionalInfo": "This data has been aggregated by Our World in Data by country and year based on the raw database of disasters published by EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).\n\nOur World in Data has also calculated each metric, adjusted for population, using a long-run population dataset constructed from Gapminder and UN Population Prospects.\nhttps://www.gapminder.org/\nhttps://population.un.org/wpp/\n",
+      "additionalInfo": "This data has been aggregated by Our World in Data by country and year based on the raw database of disasters published by EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).\n\nOur World in Data has also calculated each metric, adjusted for population, using a long-run population dataset constructed from Gapminder and UN Population Prospects.\nhttps://www.gapminder.org/\nhttps://population.un.org/wpp/\n\nOur World in Data has also calculated economic damage metrics adjusted for gross domestic product (GDP), using GDP data from the World Bank.\nhttp://data.worldbank.org/data-catalog/world-development-indicators\n",
       "dataPublishedBy": "EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir)"
     }
   ],
