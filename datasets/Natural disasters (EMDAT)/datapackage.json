@@ -934,31 +934,61 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "death_rate_per_100k_glacial_lake",
+            "name": "total_damages_pct_gdp_all_disasters",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "injury_rate_per_100k_glacial_lake",
+            "name": "total_damages_pct_gdp_drought",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "affected_rate_per_100k_glacial_lake",
+            "name": "total_damages_pct_gdp_earthquake",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "homeless_rate_per_100k_glacial_lake",
+            "name": "total_damages_pct_gdp_temperature",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "total_affected_per_100k_glacial_lake",
+            "name": "total_damages_pct_gdp_flood",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_damages_pct_gdp_landslide",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_damages_pct_gdp_mass_movement",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_damages_pct_gdp_storm",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_damages_pct_gdp_volcanic",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_damages_pct_gdp_wildfire",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
