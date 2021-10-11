@@ -6,11 +6,11 @@
   "sources": [
     {
       "name": "FAS Nuclear Notebook",
-      "dataPublishedBy": "Federation of American Scientists",
-      "dataPublisherSource": "Hans M. Kristensen and Robert S. Norris",
       "link": "http://thebulletin.org/nuclear-notebook-multimedia",
-      "retrievedDate": "09/08/2015",
-      "additionalInfo": "Nuclear weapons inventory by country"
+      "retrievedDate": "October 11, 2021",
+      "additionalInfo": "Nuclear weapons inventory by country",
+      "dataPublishedBy": "Federation of American Scientists",
+      "dataPublisherSource": "Hans M. Kristensen and Robert S. Norris"
     }
   ],
   "owidTags": [
@@ -33,9 +33,7 @@
             "name": "Nuclear weapons inventory by country (FAS Nuclear Notebook)",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {
-              "unit": "years"
-            }
+            "owidDisplaySettings": "{\"unit\": \"years\"}"
           }
         ]
       }

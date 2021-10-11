@@ -69,6 +69,9 @@ China,2011,240
 China,2012,240
 China,2013,250
 China,2014,250
+China,2015,260
+China,2016,260
+China,2017,270
 France,1945,0
 France,1946,0
 France,1947,0
@@ -139,6 +142,9 @@ France,2011,300
 France,2012,300
 France,2013,300
 France,2014,300
+France,2015,300
+France,2016,300
+France,2017,300
 India,1945,0
 India,1946,0
 India,1947,0
@@ -208,7 +214,10 @@ India,2010,80
 India,2011,90
 India,2012,100
 India,2013,110
-India,2014,110
+India,2014,100
+India,2015,110
+India,2016,120
+India,2017,130
 Israel,1945,0
 Israel,1946,0
 Israel,1947,0
@@ -279,6 +288,82 @@ Israel,2011,80
 Israel,2012,80
 Israel,2013,80
 Israel,2014,80
+Israel,2015,80
+Israel,2016,80
+Israel,2017,80
+North Korea,1945,0
+North Korea,1946,0
+North Korea,1947,0
+North Korea,1948,0
+North Korea,1949,0
+North Korea,1950,0
+North Korea,1951,0
+North Korea,1952,0
+North Korea,1953,0
+North Korea,1954,0
+North Korea,1955,0
+North Korea,1956,0
+North Korea,1957,0
+North Korea,1958,0
+North Korea,1959,0
+North Korea,1960,0
+North Korea,1961,0
+North Korea,1962,0
+North Korea,1963,0
+North Korea,1964,0
+North Korea,1965,0
+North Korea,1966,0
+North Korea,1967,0
+North Korea,1968,0
+North Korea,1969,0
+North Korea,1970,0
+North Korea,1971,0
+North Korea,1972,0
+North Korea,1973,0
+North Korea,1974,0
+North Korea,1975,0
+North Korea,1976,0
+North Korea,1977,0
+North Korea,1978,0
+North Korea,1979,0
+North Korea,1980,0
+North Korea,1981,0
+North Korea,1982,0
+North Korea,1983,0
+North Korea,1984,0
+North Korea,1985,0
+North Korea,1986,0
+North Korea,1987,0
+North Korea,1988,0
+North Korea,1989,0
+North Korea,1990,0
+North Korea,1991,0
+North Korea,1992,0
+North Korea,1993,0
+North Korea,1994,0
+North Korea,1995,0
+North Korea,1996,0
+North Korea,1997,0
+North Korea,1998,0
+North Korea,1999,0
+North Korea,2000,0
+North Korea,2001,0
+North Korea,2002,0
+North Korea,2003,0
+North Korea,2004,0
+North Korea,2005,0
+North Korea,2006,0
+North Korea,2007,0
+North Korea,2008,0
+North Korea,2009,0
+North Korea,2010,0
+North Korea,2011,0
+North Korea,2012,0
+North Korea,2013,0
+North Korea,2014,0
+North Korea,2015,0
+North Korea,2016,0
+North Korea,2017,0
 Pakistan,1945,0
 Pakistan,1946,0
 Pakistan,1947,0
@@ -347,8 +432,11 @@ Pakistan,2009,80
 Pakistan,2010,90
 Pakistan,2011,100
 Pakistan,2012,110
-Pakistan,2013,120
+Pakistan,2013,115
 Pakistan,2014,120
+Pakistan,2015,125
+Pakistan,2016,130
+Pakistan,2017,140
 Russia,1945,0
 Russia,1946,0
 Russia,1947,0
@@ -416,9 +504,12 @@ Russia,2008,5929
 Russia,2009,5527
 Russia,2010,5215
 Russia,2011,4858
-Russia,2012,4500
-Russia,2013,4480
-Russia,2014,4300
+Russia,2012,4750
+Russia,2013,4650
+Russia,2014,4600
+Russia,2015,4500
+Russia,2016,4490
+Russia,2017,4300
 United Kingdom,1945,0
 United Kingdom,1946,0
 United Kingdom,1947,0
@@ -488,7 +579,10 @@ United Kingdom,2010,225
 United Kingdom,2011,225
 United Kingdom,2012,225
 United Kingdom,2013,225
-United Kingdom,2014,225
+United Kingdom,2014,220
+United Kingdom,2015,215
+United Kingdom,2016,215
+United Kingdom,2017,215
 United States,1945,2
 United States,1946,9
 United States,1947,13
@@ -554,8 +648,11 @@ United States,2006,7853
 United States,2007,5709
 United States,2008,5273
 United States,2009,5113
-United States,2010,4950
-United States,2011,4763
-United States,2012,4680
-United States,2013,4650
-United States,2014,4760
+United States,2010,5066
+United States,2011,4897
+United States,2012,4881
+United States,2013,4804
+United States,2014,4717
+United States,2015,4571
+United States,2016,4018
+United States,2017,4000
