@@ -6,11 +6,11 @@
   "sources": [
     {
       "name": "Our World In Data",
-      "dataPublishedBy": null,
-      "dataPublisherSource": null,
       "link": null,
       "retrievedDate": null,
-      "additionalInfo": null
+      "additionalInfo": null,
+      "dataPublishedBy": null,
+      "dataPublisherSource": null
     }
   ],
   "owidTags": [
@@ -33,7 +33,7 @@
             "name": "Countries Continents",
             "type": "any",
             "description": "Countries and their associated continents.",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{\"includeInTable\": false}"
           }
         ]
       }

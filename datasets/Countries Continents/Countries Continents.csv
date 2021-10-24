@@ -2,7 +2,6 @@ Entity,Year,Countries Continents
 Abkhazia,2015,Asia
 Afghanistan,2015,Asia
 Akrotiri and Dhekelia,2015,Asia
-Åland Islands,2015,Europe
 Albania,2015,Europe
 Algeria,2015,Africa
 American Samoa,2015,Oceania
@@ -64,7 +63,7 @@ Croatia,2015,Europe
 Cuba,2015,North America
 Curacao,2015,North America
 Cyprus,2015,Europe
-Czech Republic,2015,Europe
+Czechia,2015,Europe
 Czechoslovakia,2015,Europe
 Democratic Republic of Congo,2015,Africa
 Denmark,2015,Europe
@@ -79,6 +78,7 @@ Equatorial Guinea,2015,Africa
 Eritrea,2015,Africa
 Eritrea and Ethiopia,2015,Africa
 Estonia,2015,Europe
+Eswatini,2015,Africa
 Ethiopia,2015,Africa
 Faeroe Islands,2015,Europe
 Falkland Islands,2015,South America
@@ -141,7 +141,6 @@ Liechtenstein,2015,Europe
 Lithuania,2015,Europe
 Luxembourg,2015,Europe
 Macao,2015,Asia
-Macedonia,2015,Europe
 Madagascar,2015,Africa
 Malawi,2015,Africa
 Malaysia,2015,Asia
@@ -179,6 +178,7 @@ Nigeria,2015,Africa
 Niue,2015,Oceania
 Norfolk Island,2015,Oceania
 North Korea,2015,Asia
+North Macedonia,2015,Europe
 Northern Cyprus,2015,Asia
 Northern Mariana Islands,2015,Oceania
 Norway,2015,Europe
@@ -237,7 +237,6 @@ Sri Lanka,2015,Asia
 Sudan,2015,Africa
 Suriname,2015,South America
 Svalbard and Jan Mayen,2015,Europe
-Swaziland,2015,Africa
 Sweden,2015,Europe
 Switzerland,2015,Europe
 Syria,2015,Asia
@@ -258,6 +257,7 @@ Turks and Caicos Islands,2015,North America
 Tuscany,2015,Europe
 Tuvalu,2015,Oceania
 Two Sicilies,2015,Europe
+USSR,2015,Europe
 Uganda,2015,Africa
 Ukraine,2015,Europe
 United Arab Emirates,2015,Asia
@@ -267,7 +267,6 @@ United States,2015,North America
 United States Minor Outlying Islands,2015,Oceania
 United States Virgin Islands,2015,North America
 Uruguay,2015,South America
-USSR,2015,Europe
 Uzbekistan,2015,Asia
 Vanuatu,2015,Oceania
 Vatican,2015,Europe
@@ -284,3 +283,4 @@ Yugoslavia,2015,Europe
 Zambia,2015,Africa
 Zanzibar,2015,Africa
 Zimbabwe,2015,Africa
+Åland Islands,2015,Europe
