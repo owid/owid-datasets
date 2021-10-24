@@ -119,9 +119,9 @@ Croatia,1830,160
 Croatia,1840,200
 Croatia,1850,240
 Croatia,1860,220
-Czech Republic,1930,145.2
-Czech Republic,1940,127.7
-Czech Republic,1950,67.9
+Czechia,1930,145.2
+Czechia,1940,127.7
+Czechia,1950,67.9
 Democratic Republic of Congo,1950,104
 Democratic Republic of Congo,1960,128.667
 Democratic Republic of Congo,1970,126.667
@@ -168,6 +168,9 @@ Eritrea,2000,77.8
 Estonia,1960,24.5
 Estonia,1970,18.8333
 Estonia,1980,14.825
+Eswatini,1960,135.4
+Eswatini,1970,123.334
+Eswatini,1980,82.047
 Finland,1810,200.1
 Finland,1820,198.3
 Finland,1830,196.9
@@ -318,20 +321,6 @@ Liberia,1960,176.35
 Liberia,1970,153.03
 Liberia,1980,143.556
 Lithuania,1940,121
-Macedonia,1850,217.56
-Macedonia,1860,188.9
-Macedonia,1870,211.41
-Macedonia,1880,190.66
-Macedonia,1890,185.05
-Macedonia,1900,171.1
-Macedonia,1910,154.9
-Macedonia,1920,133.2
-Macedonia,1930,117.6
-Macedonia,1940,92.9
-Macedonia,1950,51.3
-Macedonia,1960,31.9
-Macedonia,1970,19.3
-Macedonia,1980,9.832
 Madagascar,1960,155.47
 Madagascar,1970,125.642
 Madagascar,1980,107.486
@@ -446,6 +435,20 @@ Nigeria,1970,109.989
 Nigeria,1980,93.364
 Nigeria,1990,78.87
 Nigeria,2000,73.1
+North Macedonia,1850,217.56
+North Macedonia,1860,188.9
+North Macedonia,1870,211.41
+North Macedonia,1880,190.66
+North Macedonia,1890,185.05
+North Macedonia,1900,171.1
+North Macedonia,1910,154.9
+North Macedonia,1920,133.2
+North Macedonia,1930,117.6
+North Macedonia,1940,92.9
+North Macedonia,1950,51.3
+North Macedonia,1960,31.9
+North Macedonia,1970,19.3
+North Macedonia,1980,9.832
 Norway,1830,140.5
 Norway,1840,118.8
 Norway,1850,103.5
@@ -569,9 +572,6 @@ Suriname,1960,75.9
 Suriname,1970,91.26
 Suriname,1980,95.5
 Suriname,1990,83.24
-Swaziland,1960,135.4
-Swaziland,1970,123.334
-Swaziland,1980,82.047
 Sweden,1830,173.9
 Sweden,1840,153.5
 Sweden,1850,148.9
