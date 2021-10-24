@@ -1,2 +1,0 @@
-# Number of Universities (KZ)
-
