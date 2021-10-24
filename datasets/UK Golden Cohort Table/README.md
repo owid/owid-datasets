@@ -1,2 +1,0 @@
-# UK Golden Cohort Table
-
