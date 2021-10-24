@@ -1,4 +1,4 @@
-# Bourguignon and Morrisson (2002) and World Bank (PovcalNet) (2015)
+# Bourguignon and Morrison (2002) and World Bank (PovcalNet) (2015)
 
 The share of people of living in poverty and extreme poverty is taken from Bourguignon and Morrison (2002), and ‘the poverty lines were calibrated so that poverty and extreme poverty headcounts in 1992 coincided roughly with estimates from other sources’. And in footnote they say ‘these definitions correspond to poverty lines equal to consumption per capita of $2 and $1 a day, expressed in 1985 PPP.’
 
