@@ -1,2 +1,0 @@
-# Insufficient data (SDGs)
-
