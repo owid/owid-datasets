@@ -1,2 +1,0 @@
-# SEDLAC (for IARC paper)
-
