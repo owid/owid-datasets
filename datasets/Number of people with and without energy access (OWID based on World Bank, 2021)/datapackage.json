@@ -1,0 +1,60 @@
+{
+  "name": "Number of people with and without energy access (OWID based on World Bank, 2021)",
+  "title": "Number of people with and without energy access (OWID based on World Bank, 2021)",
+  "id": 3179,
+  "description": "This was calculated by Our World in Data based on estimates the share of the population with access to electricity and clean fuels for cooking – published by the World Bank – and total population estimates from the UN World Population Prospects (UNWPP). \n\nOriginal metrics of energy access shares and total population can be accessed from the World Bank World Development Indicators (available at: http://data.worldbank.org/data-catalog/world-development-indicators).",
+  "sources": [
+    {
+      "name": "Calculated by Our World in Data based on the World Bank",
+      "link": "http://data.worldbank.org/data-catalog/world-development-indicators",
+      "additionalInfo": "This was calculated by Our World in Data based on estimates the share of the population with access to electricity and clean fuels for cooking – published by the World Bank – and total population estimates from the UN World Population Prospects (UNWPP). \n\nOriginal metrics of energy access shares and total population can be accessed from the World Bank World Development Indicators (available at: http://data.worldbank.org/data-catalog/world-development-indicators).",
+      "dataPublishedBy": "Calculated by Our World in Data based on energy access and population data published in the World Bank World Development Indicators",
+      "dataPublisherSource": "World Bank, Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking Framework led jointly by the World Bank, International Energy Agency, and the Energy Sector Management Assistance Program. Population data from the UN World Population Prospects (UNWPP)"
+    }
+  ],
+  "owidTags": [
+    "Electricity",
+    "Access to Energy"
+  ],
+  "resources": [
+    {
+      "path": "Number of people with and without energy access (OWID based on World Bank, 2021).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Number of people with access to electricity",
+            "type": "any",
+            "description": "The absolute number of people globally, regionally or in a country with access to electricity. This is calculated based on the share of the population with access to electricity and total population estimates.",
+            "owidDisplaySettings": "{\"name\": \"Number of people with access to electricity\", \"unit\": \"people with electricity\", \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Number of people without access to electricity",
+            "type": "any",
+            "description": "The absolute number of people globally, regionally or in a country without access to electricity. This is calculated based on the share of the population with access to electricity and total population estimates.",
+            "owidDisplaySettings": "{\"name\": \"Number of people without access to electricity\", \"unit\": \"people without electricity access\", \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "number_with_clean_fuels_cooking",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "number_without_clean_fuels_cooking",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
