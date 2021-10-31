@@ -29,16 +29,16 @@
             "type": "year"
           },
           {
-            "name": "share in poverty",
+            "name": "Share in extreme poverty",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true, \"numDecimalPlaces\": 1}"
           },
           {
-            "name": "share not in poverty",
+            "name": "Share not in extreme poverty",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           }
         ]
       }
