@@ -1144,34 +1144,34 @@ Cyprus,2014,0.856
 Cyprus,2015,0.86
 Cyprus,2016,0.867
 Cyprus,2017,0.869
-Czech Republic,1990,0.73
-Czech Republic,1991,0.726
-Czech Republic,1992,0.728
-Czech Republic,1993,0.735
-Czech Republic,1994,0.744
-Czech Republic,1995,0.753
-Czech Republic,1996,0.768
-Czech Republic,1997,0.774
-Czech Republic,1998,0.775
-Czech Republic,1999,0.785
-Czech Republic,2000,0.796
-Czech Republic,2001,0.806
-Czech Republic,2002,0.813
-Czech Republic,2003,0.822
-Czech Republic,2004,0.825
-Czech Republic,2005,0.835
-Czech Republic,2006,0.843
-Czech Republic,2007,0.85
-Czech Republic,2008,0.854
-Czech Republic,2009,0.857
-Czech Republic,2010,0.862
-Czech Republic,2011,0.865
-Czech Republic,2012,0.865
-Czech Republic,2013,0.874
-Czech Republic,2014,0.879
-Czech Republic,2015,0.882
-Czech Republic,2016,0.885
-Czech Republic,2017,0.888
+Czechia,1990,0.73
+Czechia,1991,0.726
+Czechia,1992,0.728
+Czechia,1993,0.735
+Czechia,1994,0.744
+Czechia,1995,0.753
+Czechia,1996,0.768
+Czechia,1997,0.774
+Czechia,1998,0.775
+Czechia,1999,0.785
+Czechia,2000,0.796
+Czechia,2001,0.806
+Czechia,2002,0.813
+Czechia,2003,0.822
+Czechia,2004,0.825
+Czechia,2005,0.835
+Czechia,2006,0.843
+Czechia,2007,0.85
+Czechia,2008,0.854
+Czechia,2009,0.857
+Czechia,2010,0.862
+Czechia,2011,0.865
+Czechia,2012,0.865
+Czechia,2013,0.874
+Czechia,2014,0.879
+Czechia,2015,0.882
+Czechia,2016,0.885
+Czechia,2017,0.888
 Democratic Republic of Congo,1980,0.346
 Democratic Republic of Congo,1985,0.355
 Democratic Republic of Congo,1990,0.356
@@ -1449,6 +1449,36 @@ Estonia,2014,0.864
 Estonia,2015,0.866
 Estonia,2016,0.868
 Estonia,2017,0.871
+Eswatini,1980,0.473
+Eswatini,1985,0.504
+Eswatini,1990,0.536
+Eswatini,1991,0.537
+Eswatini,1992,0.536
+Eswatini,1993,0.531
+Eswatini,1994,0.524
+Eswatini,1995,0.52
+Eswatini,1996,0.513
+Eswatini,1997,0.504
+Eswatini,1998,0.492
+Eswatini,1999,0.483
+Eswatini,2000,0.471
+Eswatini,2001,0.464
+Eswatini,2002,0.455
+Eswatini,2003,0.454
+Eswatini,2004,0.465
+Eswatini,2005,0.48
+Eswatini,2006,0.496
+Eswatini,2007,0.507
+Eswatini,2008,0.517
+Eswatini,2009,0.527
+Eswatini,2010,0.538
+Eswatini,2011,0.55
+Eswatini,2012,0.561
+Eswatini,2013,0.572
+Eswatini,2014,0.58
+Eswatini,2015,0.584
+Eswatini,2016,0.586
+Eswatini,2017,0.588
 Ethiopia,2000,0.283
 Ethiopia,2001,0.298
 Ethiopia,2002,0.306
@@ -2671,24 +2701,6 @@ Luxembourg,2014,0.895
 Luxembourg,2015,0.899
 Luxembourg,2016,0.904
 Luxembourg,2017,0.904
-Macedonia,2000,0.669
-Macedonia,2001,0.673
-Macedonia,2002,0.679
-Macedonia,2003,0.686
-Macedonia,2004,0.693
-Macedonia,2005,0.702
-Macedonia,2006,0.708
-Macedonia,2007,0.712
-Macedonia,2008,0.728
-Macedonia,2009,0.731
-Macedonia,2010,0.735
-Macedonia,2011,0.738
-Macedonia,2012,0.74
-Macedonia,2013,0.743
-Macedonia,2014,0.747
-Macedonia,2015,0.754
-Macedonia,2016,0.756
-Macedonia,2017,0.757
 Madagascar,2000,0.456
 Madagascar,2001,0.462
 Madagascar,2002,0.457
@@ -3314,6 +3326,24 @@ Nigeria,2014,0.524
 Nigeria,2015,0.527
 Nigeria,2016,0.53
 Nigeria,2017,0.532
+North Macedonia,2000,0.669
+North Macedonia,2001,0.673
+North Macedonia,2002,0.679
+North Macedonia,2003,0.686
+North Macedonia,2004,0.693
+North Macedonia,2005,0.702
+North Macedonia,2006,0.708
+North Macedonia,2007,0.712
+North Macedonia,2008,0.728
+North Macedonia,2009,0.731
+North Macedonia,2010,0.735
+North Macedonia,2011,0.738
+North Macedonia,2012,0.74
+North Macedonia,2013,0.743
+North Macedonia,2014,0.747
+North Macedonia,2015,0.754
+North Macedonia,2016,0.756
+North Macedonia,2017,0.757
 Norway,1980,0.811
 Norway,1985,0.828
 Norway,1990,0.85
@@ -4125,6 +4155,34 @@ South Africa,2016,0.696
 South Africa,2017,0.699
 South Korea,1980,0.622
 South Korea,1985,0.68
+South Korea,1990,0.728
+South Korea,1991,0.739
+South Korea,1992,0.746
+South Korea,1993,0.756
+South Korea,1994,0.767
+South Korea,1995,0.778
+South Korea,1996,0.789
+South Korea,1997,0.8
+South Korea,1998,0.797
+South Korea,1999,0.808
+South Korea,2000,0.817
+South Korea,2001,0.824
+South Korea,2002,0.832
+South Korea,2003,0.839
+South Korea,2004,0.847
+South Korea,2005,0.855
+South Korea,2006,0.862
+South Korea,2007,0.869
+South Korea,2008,0.874
+South Korea,2009,0.869
+South Korea,2010,0.884
+South Korea,2011,0.888
+South Korea,2012,0.89
+South Korea,2013,0.893
+South Korea,2014,0.896
+South Korea,2015,0.898
+South Korea,2016,0.9
+South Korea,2017,0.903
 South Sudan,2010,0.413
 South Sudan,2011,0.416
 South Sudan,2012,0.388
@@ -4235,36 +4293,6 @@ Suriname,2014,0.718
 Suriname,2015,0.722
 Suriname,2016,0.719
 Suriname,2017,0.72
-Swaziland,1980,0.473
-Swaziland,1985,0.504
-Swaziland,1990,0.536
-Swaziland,1991,0.537
-Swaziland,1992,0.536
-Swaziland,1993,0.531
-Swaziland,1994,0.524
-Swaziland,1995,0.52
-Swaziland,1996,0.513
-Swaziland,1997,0.504
-Swaziland,1998,0.492
-Swaziland,1999,0.483
-Swaziland,2000,0.471
-Swaziland,2001,0.464
-Swaziland,2002,0.455
-Swaziland,2003,0.454
-Swaziland,2004,0.465
-Swaziland,2005,0.48
-Swaziland,2006,0.496
-Swaziland,2007,0.507
-Swaziland,2008,0.517
-Swaziland,2009,0.527
-Swaziland,2010,0.538
-Swaziland,2011,0.55
-Swaziland,2012,0.561
-Swaziland,2013,0.572
-Swaziland,2014,0.58
-Swaziland,2015,0.584
-Swaziland,2016,0.586
-Swaziland,2017,0.588
 Sweden,1980,0.786
 Sweden,1985,0.797
 Sweden,1990,0.816

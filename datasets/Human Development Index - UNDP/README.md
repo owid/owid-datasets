@@ -1,4 +1,4 @@
-# Human Development Index - UNDP (2018)
+# Human Development Index - UNDP
 
 The Human Development Index (HDI) is a summary measure of average achievement in key dimensions of human development: a long and healthy life, being knowledgeable and have a decent standard of living. 
 
