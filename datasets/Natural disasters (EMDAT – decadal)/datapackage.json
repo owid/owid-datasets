@@ -992,6 +992,30 @@
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "deaths_rate_per_100k_glacial_lake",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "injured_rate_per_100k_glacial_lake",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_affected_rate_per_100k_glacial_lake",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_damages_pct_gdp_glacial_lake",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
           }
         ]
       }
