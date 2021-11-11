@@ -76,18 +76,6 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "death_rate_per_100k_drought",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "injury_rate_per_100k_drought",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "affected_rate_per_100k_drought",
             "type": "any",
             "description": null,
@@ -95,12 +83,6 @@
           },
           {
             "name": "homeless_rate_per_100k_drought",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "total_affected_per_100k_drought",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
@@ -154,18 +136,6 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "death_rate_per_100k_earthquake",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "injury_rate_per_100k_earthquake",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "affected_rate_per_100k_earthquake",
             "type": "any",
             "description": null,
@@ -173,12 +143,6 @@
           },
           {
             "name": "homeless_rate_per_100k_earthquake",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "total_affected_per_100k_earthquake",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
@@ -232,18 +196,6 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "death_rate_per_100k_all_disasters",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "injury_rate_per_100k_all_disasters",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "affected_rate_per_100k_all_disasters",
             "type": "any",
             "description": null,
@@ -251,12 +203,6 @@
           },
           {
             "name": "homeless_rate_per_100k_all_disasters",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "total_affected_per_100k_all_disasters",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
@@ -310,18 +256,6 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "death_rate_per_100k_volcanic",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "injury_rate_per_100k_volcanic",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "affected_rate_per_100k_volcanic",
             "type": "any",
             "description": null,
@@ -329,12 +263,6 @@
           },
           {
             "name": "homeless_rate_per_100k_volcanic",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "total_affected_per_100k_volcanic",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
@@ -388,18 +316,6 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "death_rate_per_100k_flood",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "injury_rate_per_100k_flood",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "affected_rate_per_100k_flood",
             "type": "any",
             "description": null,
@@ -407,12 +323,6 @@
           },
           {
             "name": "homeless_rate_per_100k_flood",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "total_affected_per_100k_flood",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
@@ -466,18 +376,6 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "death_rate_per_100k_mass_movement",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "injury_rate_per_100k_mass_movement",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "affected_rate_per_100k_mass_movement",
             "type": "any",
             "description": null,
@@ -485,12 +383,6 @@
           },
           {
             "name": "homeless_rate_per_100k_mass_movement",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "total_affected_per_100k_mass_movement",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
@@ -544,18 +436,6 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "death_rate_per_100k_storm",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "injury_rate_per_100k_storm",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "affected_rate_per_100k_storm",
             "type": "any",
             "description": null,
@@ -563,12 +443,6 @@
           },
           {
             "name": "homeless_rate_per_100k_storm",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "total_affected_per_100k_storm",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
@@ -622,18 +496,6 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "death_rate_per_100k_landslide",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "injury_rate_per_100k_landslide",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "affected_rate_per_100k_landslide",
             "type": "any",
             "description": null,
@@ -641,12 +503,6 @@
           },
           {
             "name": "homeless_rate_per_100k_landslide",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "total_affected_per_100k_landslide",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
@@ -700,18 +556,6 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "death_rate_per_100k_fog",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "injury_rate_per_100k_fog",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "affected_rate_per_100k_fog",
             "type": "any",
             "description": null,
@@ -719,12 +563,6 @@
           },
           {
             "name": "homeless_rate_per_100k_fog",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "total_affected_per_100k_fog",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
@@ -778,18 +616,6 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "death_rate_per_100k_wildfire",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "injury_rate_per_100k_wildfire",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "affected_rate_per_100k_wildfire",
             "type": "any",
             "description": null,
@@ -797,12 +623,6 @@
           },
           {
             "name": "homeless_rate_per_100k_wildfire",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "total_affected_per_100k_wildfire",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
@@ -856,18 +676,6 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "death_rate_per_100k_temperature",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "injury_rate_per_100k_temperature",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "affected_rate_per_100k_temperature",
             "type": "any",
             "description": null,
@@ -875,12 +683,6 @@
           },
           {
             "name": "homeless_rate_per_100k_temperature",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "total_affected_per_100k_temperature",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
@@ -989,6 +791,228 @@
           },
           {
             "name": "total_damages_pct_gdp_wildfire",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "deaths_rate_per_100k_all_disasters",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "deaths_rate_per_100k_drought",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "deaths_rate_per_100k_earthquake",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "deaths_rate_per_100k_temperature",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "deaths_rate_per_100k_flood",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "deaths_rate_per_100k_fog",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "deaths_rate_per_100k_glacial_lake",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "deaths_rate_per_100k_landslide",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "deaths_rate_per_100k_mass_movement",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "deaths_rate_per_100k_storm",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "deaths_rate_per_100k_volcanic",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "deaths_rate_per_100k_wildfire",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "injured_rate_per_100k_all_disasters",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "injured_rate_per_100k_drought",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "injured_rate_per_100k_earthquake",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "injured_rate_per_100k_temperature",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "injured_rate_per_100k_flood",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "injured_rate_per_100k_fog",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "injured_rate_per_100k_glacial_lake",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "injured_rate_per_100k_landslide",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "injured_rate_per_100k_mass_movement",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "injured_rate_per_100k_storm",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "injured_rate_per_100k_volcanic",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "injured_rate_per_100k_wildfire",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_affected_rate_per_100k_all_disasters",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_affected_rate_per_100k_drought",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_affected_rate_per_100k_earthquake",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_affected_rate_per_100k_temperature",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_affected_rate_per_100k_flood",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_affected_rate_per_100k_fog",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_affected_rate_per_100k_glacial_lake",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_affected_rate_per_100k_landslide",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_affected_rate_per_100k_mass_movement",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_affected_rate_per_100k_storm",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_affected_rate_per_100k_volcanic",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_affected_rate_per_100k_wildfire",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "total_damages_pct_gdp_glacial_lake",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
