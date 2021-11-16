@@ -1,0 +1,39 @@
+{
+  "name": "Biodiversity Intactness Index - Historical - NHM (2021)",
+  "title": "Biodiversity Intactness Index - Historical - NHM (2021)",
+  "id": 5407,
+  "description": "Helen Phillips, Adriana De Palma, Ricardo E Gonzalez, Samantha L L Hill, Luca Börger & Andy Purvis (2021): The Biodiversity Intactness Index - country, region and global-level summaries for the year 2000 to 2050 under various scenarios. data.nhm.ac.uk. https://doi.org/10.5519/he1eqmg1\n",
+  "sources": [
+    {
+      "name": "Phillips, De Palma, Gonzalez, Contu et al. (2021)",
+      "link": "https://data.nhm.ac.uk/dataset/bii-bte",
+      "retrievedDate": "2021-11-13",
+      "additionalInfo": "Helen Phillips, Adriana De Palma, Ricardo E Gonzalez, Samantha L L Hill, Luca Börger & Andy Purvis (2021): The Biodiversity Intactness Index - country, region and global-level summaries for the year 2000 to 2050 under various scenarios. data.nhm.ac.uk. https://doi.org/10.5519/he1eqmg1\n",
+      "dataPublishedBy": "Natural History Museum Data Portal (data.nhm.ac.uk)."
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "Biodiversity Intactness Index - Historical - NHM (2021).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "historical",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
