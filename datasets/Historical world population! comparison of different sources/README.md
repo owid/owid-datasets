@@ -1,4 +1,4 @@
-# World population over 12,000 years - various sources (2019)
+# Historical world population: comparison of different sources
 
 Among others these are the original source:
 
