@@ -7,7 +7,7 @@
     {
       "name": "Human Mortality Database (2021), World Mortality Dataset (2021)",
       "link": "https://www.mortality.org/, https://github.com/akarlinsky/world_mortality",
-      "retrievedDate": "15 November 2021",
+      "retrievedDate": "23 November 2021",
       "additionalInfo": "All-cause mortality data is from the Human Mortality Database (HMD) Short-term Mortality Fluctuations project and the World Mortality Dataset (WMD). Both sources are updated weekly.\n\nWe do not use the data from some countries in WMD because they fail to meet the following data quality criteria: 1) at least three years of historical data; and 2) data published either weekly or monthly. The full list of excluded countries and reasons for exclusion can be found in this spreadsheet: https://docs.google.com/spreadsheets/d/1JPMtzsx-smO3_K4ReK_HMeuVLEzVZ71qHghSuAfG788/edit?usp=sharing.\n\nFor a full list of source information (i.e., HMD or WMD) country by country, see: https://ourworldindata.org/excess-mortality-covid#source-information-country-by-country.\n\nWe calculate P-scores using the reported deaths data from HMD and WMD and the projected deaths for 2020 from WMD (which we use for all countries and regions, including for deaths broken down by age group). The P-score is the percentage difference between the reported number of weekly or monthly deaths in 2020–2021 and the projected number of deaths for the same period based on previous years.\n\nWe calculate the number of weekly deaths for the United Kingdom by summing the weekly deaths from England & Wales, Scotland, and Northern Ireland.\n\nFor important issues and caveats to understand when interpreting excess mortality data, see our excess mortality page at https://ourworldindata.org/excess-mortality-covid.\n\nFor a more detailed description of the HMD data, including week date definitions, the coverage (of individuals, locations, and time), whether dates are for death occurrence or registration, the original national source information, and important caveats, see the HMD metadata file at https://www.mortality.org/Public/STMF_DOC/STMFmetadata.pdf.\n\nFor a more detailed description of the WMD data, including original source information, see their GitHub page at https://github.com/akarlinsky/world_mortality.",
       "dataPublishedBy": "The Human Mortality Database, The World Mortality Dataset",
       "dataPublisherSource": "National civil registration and vital statistics offices"
@@ -33,7 +33,7 @@
             "name": "p_avg_all_ages",
             "type": "any",
             "description": "P-scores using 5-year average baseline for all ages",
-            "owidDisplaySettings": "{\"name\": \"Excess mortality P-scores, 5-year average baseline, all ages\", \"unit\": \"%\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Sweden: Updated series includes deaths with unknown date\"}"
+            "owidDisplaySettings": "{\"name\": \"Excess mortality P-scores, 5-year average baseline, all ages\", \"unit\": \"%\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "p_avg_15_64",
@@ -63,7 +63,7 @@
             "name": "deaths_2020_all_ages",
             "type": "any",
             "description": "The reported number of weekly or monthly deaths from all causes for all ages in 2020.",
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Updated series includes deaths with unknown date\"}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "average_deaths_2015_2019_all_ages",
@@ -171,7 +171,7 @@
             "name": "cum_excess_proj_all_ages",
             "type": "any",
             "description": "The cumulative number of excess deaths; cumulated starting 1 January 2020",
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Updated series includes deaths with unknown date\"}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "cum_proj_deaths_all_ages",
@@ -183,13 +183,13 @@
             "name": "cum_p_proj_all_ages",
             "type": "any",
             "description": "Cumulative P-scores using projected baseline for all ages",
-            "owidDisplaySettings": "{\"name\": \"Excess mortality cumulative P-scores, projected baseline, all ages\", \"unit\": \"%\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Sweden: Updated series includes deaths with unknown date\"}"
+            "owidDisplaySettings": "{\"name\": \"Excess mortality cumulative P-scores, projected baseline, all ages\", \"unit\": \"%\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "p_proj_all_ages",
             "type": "any",
             "description": "P-scores using projected baseline for all ages",
-            "owidDisplaySettings": "{\"name\": \"Excess mortality P-scores, projected baseline, all ages\", \"unit\": \"%\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0, \"entityAnnotationsMap\": \"Sweden: Updated series includes deaths with unknown date\"}"
+            "owidDisplaySettings": "{\"name\": \"Excess mortality P-scores, projected baseline, all ages\", \"unit\": \"%\", \"zeroDay\": \"2020-01-01\", \"shortUnit\": \"%\", \"yearIsDay\": true, \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "p_proj_0_14",
@@ -225,7 +225,7 @@
             "name": "cum_excess_per_million_proj_all_ages",
             "type": "any",
             "description": "The cumulative number of excess deaths per million people in the population; cumulated starting 1 January 2020",
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true, \"entityAnnotationsMap\": \"Sweden: Updated series includes deaths with unknown date\"}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "excess_per_million_proj_all_ages",
