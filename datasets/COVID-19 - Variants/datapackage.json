@@ -5,7 +5,7 @@
   "description": "The share of analyzed sequences in the last two weeks that correspond to each variant group. Only a fraction of all cases are sequenced.",
   "sources": [
     {
-      "name": "CoVariants.org and GISAID – Last updated 1 September 2021, 21:00 (London time)",
+      "name": "CoVariants.org and GISAID – Last updated 27 November 2021, 12:00 (London time)",
       "additionalInfo": "The share of analyzed sequences in the last two weeks that correspond to each variant group. Only a fraction of all cases are sequenced."
     }
   ],
@@ -146,12 +146,6 @@
             "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
           },
           {
-            "name": "B.1.621",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
-          },
-          {
             "name": "B.1.620",
             "type": "any",
             "description": null,
@@ -162,6 +156,18 @@
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Mu",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Omicron",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
           }
         ]
       }
