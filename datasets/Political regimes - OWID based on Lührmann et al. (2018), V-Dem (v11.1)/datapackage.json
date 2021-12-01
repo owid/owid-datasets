@@ -1,0 +1,54 @@
+{
+  "name": "Political regimes - OWID based on Lührmann et al. (2018), V-Dem (v11.1)",
+  "title": "Political regimes - OWID based on Lührmann et al. (2018), V-Dem (v11.1)",
+  "id": 5426,
+  "description": "This dataset provides information on political regimes, using the Regimes of the World classification from Lührmann et al. (2018), data from the Varieties of Democracy project (v11.1), and expanding the data and refining the classification ourselves.\n\nThe classification distinguishes between closed autocracies (numeric score of 0), electoral autocracies (score of 1), electoral democracies (score of 2), and liberal democracies (score of 3).\n\nIn closed autocracies, citizens do not have the right to either choose the chief executive of the government or the legislature through multi-party elections.\n\nIn electoral autocracies, citizens have the right to choose the chief executive and the legislature through multi-party elections; but they lack some freedoms, such as the freedoms of association or expression, that make the elections meaningful, free, and fair. \n\nIn electoral democracies, citizens have the right to participate in meaningful, free and fair, and multi-party elections. \n\nIn liberal democracies, citizens have further individual and minority rights, are equal before the law, and the actions of the executive are constrained by the legislative and the courts.\n\nThe data comes from the Varieties of Democracy project, which is based on expert assessments. \n\nWe expand the years and countries covered and refine the coding rules.\n\nYou can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
+  "sources": [
+    {
+      "name": "OWID based on Lührmann et al. (2018) and V-Dem (v11.1)",
+      "link": "https://www.v-dem.net/en/data/data/v-dem-dataset-v111/",
+      "retrievedDate": "March 29, 2021",
+      "additionalInfo": "This dataset provides information on political regimes, using the Regimes of the World classification from Lührmann et al. (2018), data from the Varieties of Democracy project (v11.1), and expanding the data and refining the classification ourselves.\n\nThe classification distinguishes between closed autocracies (numeric score of 0), electoral autocracies (score of 1), electoral democracies (score of 2), and liberal democracies (score of 3).\n\nIn closed autocracies, citizens do not have the right to either choose the chief executive of the government or the legislature through multi-party elections.\n\nIn electoral autocracies, citizens have the right to choose the chief executive and the legislature through multi-party elections; but they lack some freedoms, such as the freedoms of association or expression, that make the elections meaningful, free, and fair. \n\nIn electoral democracies, citizens have the right to participate in meaningful, free and fair, and multi-party elections. \n\nIn liberal democracies, citizens have further individual and minority rights, are equal before the law, and the actions of the executive are constrained by the legislative and the courts.\n\nThe data comes from the Varieties of Democracy project, which is based on expert assessments. \n\nWe expand the years and countries covered and refine the coding rules.\n\nYou can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
+      "dataPublishedBy": "Our World in Data, Bastian Herre",
+      "dataPublisherSource": "Data comes from the Varieties of Democracy project (v11.1), using Lührmann et al's (2018) Regimes of the World classification, and own expansions and refinements."
+    }
+  ],
+  "owidTags": [
+    "Democracy"
+  ],
+  "resources": [
+    {
+      "path": "Political regimes - OWID based on Lührmann et al. (2018), V-Dem (v11.1).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Political regime",
+            "type": "any",
+            "description": "The variable identifies the political regime of a country using the Regimes of the World classification by political scientists Anna Lührmann, Marcus Tannenberg and Staffan Lindberg. It distinguishes between closed autocracies (score 0), electoral autocracies (score 1), electoral democracies (score 2), and liberal democracies (score 3).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "Was the political regime imputed from another country",
+            "type": "any",
+            "description": "The variable \"Country from which the political regime was imputed\" states the name of the country whose political regime was imputed in the variable \"Political Regimes\".",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "Country from which the political regime was imputed",
+            "type": "any",
+            "description": "The variable \"Was the political regime imputed from another country\" states whether the political regime in the variable \"Political Regimes\" was imputed or not.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          }
+        ]
+      }
+    }
+  ]
+}
