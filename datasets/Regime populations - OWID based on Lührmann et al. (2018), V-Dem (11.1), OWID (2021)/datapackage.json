@@ -1,0 +1,66 @@
+{
+  "name": "Regime populations - OWID based on Lührmann et al. (2018), V-Dem (11.1), OWID (2021)",
+  "title": "Regime populations - OWID based on Lührmann et al. (2018), V-Dem (11.1), OWID (2021)",
+  "id": 5427,
+  "description": "This dataset provides information on the populations living in different political regimes.\n\nPopulation data comes from our own calculations based on Gapminder (v6), HYDE (v3.2), and UN (2019).\n\nPolitical regimes are identified using the Regimes of the World classification from Lührmann et al. (2018), data from the Varieties of Democracy Project (v11.1), and expanding the data and refining the classification ourselves.\n\nThe classification distinguishes between closed autocracies, electoral autocracies, electoral democracies, and liberal democracies.",
+  "sources": [
+    {
+      "name": "OWID based on Lührmann et al. (2018), V-Dem (v11.1), Gapminder (v6), HYDE (v3.2), and UN (2019)",
+      "link": "https://www.v-dem.net/en/data/data/v-dem-dataset-v111/; https://ourworldindata.org/grapher/population",
+      "retrievedDate": "March 29, 2021",
+      "additionalInfo": "This dataset provides information on the populations living in different political regimes.\n\nPopulation data comes from our own calculations based on Gapminder (v6), HYDE (v3.2), and UN (2019).\n\nPolitical regimes are identified using the Regimes of the World classification from Lührmann et al. (2018), data from the Varieties of Democracy Project (v11.1), and expanding the data and refining the classification ourselves.\n\nThe classification distinguishes between closed autocracies, electoral autocracies, electoral democracies, and liberal democracies.",
+      "dataPublishedBy": "Our World in Data, Bastian Herre",
+      "dataPublisherSource": "Data on regimes comes from the Varieties of Democracy project (v11.1), using Lührmann et al's (2018) classification, and own expansions and refinements; population data comes from our own calculations based on Gapminder (v6), HYDE (v3.2), and UN (2019)."
+    }
+  ],
+  "owidTags": [
+    "Democracy"
+  ],
+  "resources": [
+    {
+      "path": "Regime populations - OWID based on Lührmann et al. (2018), V-Dem (11.1), OWID (2021).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "People living in closed autocracies",
+            "type": "any",
+            "description": "This variable provides information on the number of people living in closed autocracies.\n\nIn closed autocracies, citizens do not have the right to either choose the chief executive of the government or the legislature through multi-party elections.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "People living in electoral autocracies",
+            "type": "any",
+            "description": "This variable provides information on the number of people living in electoral autocracies.\n\nIn electoral autocracies, citizens have the right to choose the chief executive and the legislature through multi-party elections; but they lack some freedoms, such as the freedoms of association or expression, that make the elections meaningful, free, and fair. ",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "People living in electoral democracies",
+            "type": "any",
+            "description": "This variable provides information on the number of people living in electoral democracies.\n\nIn electoral democracies, citizens have the right to participate in meaningful, free and fair, and multi-party elections.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "People living in liberal democracies",
+            "type": "any",
+            "description": "This variable provides information on the number of people living in liberal democracies.\n\nIn liberal democracies, citizens have further individual and minority rights, are equal before the law, and the actions of the executive are constrained by the legislative and the courts.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "People living in countries with missing regime data",
+            "type": "any",
+            "description": "This variable provides information on the number of people living in countries without regime data.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          }
+        ]
+      }
+    }
+  ]
+}
