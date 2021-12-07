@@ -1,0 +1,91 @@
+{
+  "name": "Life-cycle impacts of energy sources (UNECEA)",
+  "title": "Life-cycle impacts of energy sources (UNECEA)",
+  "id": 5431,
+  "description": "",
+  "sources": [
+    {
+      "name": "Life-cycle impacts of energy sources (UNECEA)"
+    }
+  ],
+  "owidTags": [
+    "Energy"
+  ],
+  "resources": [
+    {
+      "path": "Life-cycle impacts of energy sources (UNECEA).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "ghg_emissions",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "freshwater_eutrophication",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "ionising_radiation",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "water_use",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "metal_mineral_use",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "noncarcinogenic_toxicity",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "carcinogenic_toxicity",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "agricutural_land_use_energy",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "urban_land_use_energy",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_use_energy",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
