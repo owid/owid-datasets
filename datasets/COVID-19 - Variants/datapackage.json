@@ -5,7 +5,7 @@
   "description": "The share of analyzed sequences in the last two weeks that correspond to each variant group. Only a fraction of all cases are sequenced.",
   "sources": [
     {
-      "name": "CoVariants.org and GISAID – Last updated 27 November 2021, 12:00 (London time)",
+      "name": "CoVariants.org and GISAID – Last updated 9 December 2021, 20:34 (London time)",
       "additionalInfo": "The share of analyzed sequences in the last two weeks that correspond to each variant group. Only a fraction of all cases are sequenced."
     }
   ],
@@ -161,13 +161,157 @@
             "name": "Mu",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
           },
           {
             "name": "Omicron",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "Eta_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Iota_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "non_who_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "others_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "B.1.1.277_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Lambda_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "B.1.221_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Mu_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Beta_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "B.1.620_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Delta_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Omicron_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "B.1.1.302_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "B.1.367_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "S:677H.Robin1_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Gamma_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "S:677P.Pelican_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "B.1.177_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Alpha_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Kappa_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "B.1.1.519_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "B.1.258_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "Epsilon_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
+          },
+          {
+            "name": "B.1.160_percentages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"zeroDay\": \"2020-01-21\", \"yearIsDay\": true}"
           }
         ]
       }
