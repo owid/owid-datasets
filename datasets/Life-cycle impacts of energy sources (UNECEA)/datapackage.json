@@ -5,7 +5,9 @@
   "description": "",
   "sources": [
     {
-      "name": "Life-cycle impacts of energy sources (UNECEA)"
+      "name": "UNECE (2021). Life Cycle Assessment of Electricity Generation Options. United Nations Economic Commission for Europe.",
+      "link": "https://unece.org/sed/documents/2021/10/reports/life-cycle-assessment-electricity-generation-options",
+      "dataPublishedBy": "UNECE (2021). Life Cycle Assessment of Electricity Generation Options. United Nations Economic Commission for Europe."
     }
   ],
   "owidTags": [
@@ -33,8 +35,8 @@
           {
             "name": "freshwater_eutrophication",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Freshwater eutrophication is caused by the emissions of phosphorus compounds to freshwater: either rivers or lakes. This is measured in grams of phosphorous emitted per unit of electricity production.",
+            "owidDisplaySettings": "{\"name\": \"Freshwater eutrophication per unit of electricity\", \"unit\": \"g P per MWh\", \"shortUnit\": \"g P\", \"includeInTable\": true}"
           },
           {
             "name": "ionising_radiation",
@@ -45,14 +47,14 @@
           {
             "name": "water_use",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Dissipated water includes all uses that immediately deprive the local environment of using water. This therefore gives some indication of local scarcity of a water resource. For example, water immediately returned to the environment (in river, ocean, or groundwater) is not counted, while water used as an ingredient for a chemical product, or evaporated, is counted.",
+            "owidDisplaySettings": "{\"name\": \"Dissipated water use per unit of electricity\", \"unit\": \"m³ per MWh\", \"shortUnit\": \"m³\", \"includeInTable\": true}"
           },
           {
             "name": "metal_mineral_use",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Metal and mineral requirements per unit of electricity\", \"unit\": \"g Sb-eq per MWh\", \"shortUnit\": \"g Sb-eq\", \"includeInTable\": true}"
           },
           {
             "name": "noncarcinogenic_toxicity",
