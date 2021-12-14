@@ -29,8 +29,8 @@
           {
             "name": "ghg_emissions",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Lifecycle greenhouse gas emissions measure amount of total greenhouse gases – which includes CO₂ as well as other gases include nitrous oxide and methane – emitted over the full supply chain. This includes emissions from the burning of fuels, in addition to those generated through the mining of materials, and production of energy technologies.",
+            "owidDisplaySettings": "{\"name\": \"Greenhouse gas emissions per unit of electricity\", \"unit\": \"kgCO₂e per MWh\", \"shortUnit\": \"kgCO₂e\", \"includeInTable\": true}"
           },
           {
             "name": "freshwater_eutrophication",
@@ -71,17 +71,77 @@
           {
             "name": "agricutural_land_use_energy",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Land use is measured as the total amount of land needed per unit of electricity production. This includes direct land use – the land used by a power plant, or solar farm – plus indirect land use from the mining of fuels and materials. This is measured in per megawatt-hour of electricity production.",
+            "owidDisplaySettings": "{\"name\": \"Agricultural land use per unit of electricity \", \"unit\": \"m² per MWh\", \"shortUnit\": \"m²\", \"includeInTable\": true}"
           },
           {
             "name": "urban_land_use_energy",
+            "type": "any",
+            "description": "Land use is measured as the total amount of land needed per unit of electricity production. This includes direct land use – the land used by a power plant, or solar farm – plus indirect land use from the mining of fuels and materials. This is measured in per megawatt-hour of electricity production.",
+            "owidDisplaySettings": "{\"name\": \"Urban land use per unit of electricity\", \"unit\": \"m² per MWh\", \"shortUnit\": \"m²\", \"includeInTable\": true}"
+          },
+          {
+            "name": "land_use_energy",
+            "type": "any",
+            "description": "Land use is measured as the total amount of land needed per unit of electricity production. This includes direct land use – the land used by a power plant, or solar farm – plus indirect land use from the mining of fuels and materials. This is measured in per megawatt-hour of electricity production.",
+            "owidDisplaySettings": "{\"name\": \"Land use per unit of electricity\", \"unit\": \"m² per MWh\", \"shortUnit\": \"m²\", \"includeInTable\": true}"
+          },
+          {
+            "name": "aluminium_use",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "land_use_energy",
+            "name": "chromium_use",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "cobalt_use",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "copper_use",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "manganese_use",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "molybdenum_use",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "nickel_use",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "silicon_use",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "zinc_use",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "uranium_use",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
