@@ -5,10 +5,10 @@
   "description": "Our hospital & ICU data is collected from official sources and collated by Our World in Data. The complete list of country-by-country sources is available <a href=\"https://github.com/owid/covid-19-data/blob/master/public/data/hospitalizations/locations.csv\">on GitHub</a>.\n\nOur complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, and testing.\n\nWe have created a new description of all our data sources. You find it at our GitHub repository <strong><a href=\"https://github.com/owid/covid-19-data/tree/master/public/data/\">here</a></strong>. There you can download all of our data.",
   "sources": [
     {
-      "name": "European CDC for EU countries, government sources for other countries – Last updated 27 December 2021, 17:54 (London time)",
-      "link": "https://www.ecdc.europa.eu/en/publications-data/download-data-hospital-and-icu-admission-rates-and-current-occupancy-covid-19; https://coronavirus.data.gov.uk/details/healthcare; https://healthdata.gov/dataset/covid-19-reported-patient-impact-and-hospital-capacity-state-timeseries; https://api.covid19tracker.ca; https://datadashboard.health.gov.il/COVID-19/general; https://github.com/yasserkaddour/covid19-icu-data-algeria",
+      "name": "Official data collated by Our World in Data",
+      "link": "https://github.com/owid/covid-19-data/tree/master/public/data/hospitalizations",
       "additionalInfo": "Our hospital & ICU data is collected from official sources and collated by Our World in Data. The complete list of country-by-country sources is available <a href=\"https://github.com/owid/covid-19-data/blob/master/public/data/hospitalizations/locations.csv\">on GitHub</a>.\n\nOur complete COVID-19 dataset is a collection of the COVID-19 data maintained by <em>Our World in Data</em>. <strong>It is updated daily</strong> and includes data on confirmed cases, deaths, and testing.\n\nWe have created a new description of all our data sources. You find it at our GitHub repository <strong><a href=\"https://github.com/owid/covid-19-data/tree/master/public/data/\">here</a></strong>. There you can download all of our data.",
-      "dataPublishedBy": "European CDC for EU countries, government sources for other countries"
+      "dataPublishedBy": "Official data collated by Our World in Data"
     }
   ],
   "owidTags": [],
