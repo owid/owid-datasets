@@ -26,12 +26,6 @@
             "type": "year"
           },
           {
-            "name": "electricity_bioenergy",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "land_all_coal",
             "type": "any",
             "description": null,
@@ -243,6 +237,12 @@
           },
           {
             "name": "land_actual_total_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_energy_intensity",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
