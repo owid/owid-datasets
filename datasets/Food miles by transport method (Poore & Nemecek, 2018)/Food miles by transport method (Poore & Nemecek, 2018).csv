@@ -1,5 +1,5 @@
-Entity,Year,"Food miles (million tonne kilometers) (Poore & Nemecek, 2018)","Share of food miles (Poore & Nemecek, 2018)"
-Air,2010,15,0.16
-Rail,2010,930,9.90
-Road,2010,2910,30.97
-Water,2010,5540,58.97
+Entity,Year,"Food miles (million tonne kilometers) (Poore & Nemecek, 2018)","Share of food miles (Poore & Nemecek, 2018)",Emissions factor for ambient transport (kg CO2eq per tonne-kilometer),Emissions factor for temperature-controlled transport (kg CO2eq per tonne-kilometer)
+Air,2010,15,0.16,1.13,1.13
+Rail,2010,930,9.9,0.05,0.06
+Road,2010,2910,30.97,0.2,0.4
+Water,2010,5540,58.97,0.01,0.02
