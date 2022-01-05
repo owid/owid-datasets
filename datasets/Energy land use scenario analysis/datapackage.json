@@ -5,7 +5,9 @@
   "description": "",
   "sources": [
     {
-      "name": "Energy land use scenario analysis"
+      "name": "UNECE (2021). Lifecycle Assessment of Electricity Generation Options. United Nations Economic Commission for Europe.",
+      "link": "https://unece.org/sed/documents/2021/10/reports/life-cycle-assessment-electricity-generation-options",
+      "dataPublishedBy": "UNECE (2021). Lifecycle Assessment of Electricity Generation Options. United Nations Economic Commission for Europe."
     }
   ],
   "owidTags": [
