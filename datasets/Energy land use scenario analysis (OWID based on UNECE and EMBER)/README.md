@@ -7,3 +7,8 @@ This dataset was calculated by Our World in Data based on:
 2. Electricity consumption data sourced from Ember Climate.
 
 By multiplying annual electricity consumption for each country by the average land use of different energy sources, we have calculated the amount of land that would be needed if a country got all of its electricity from a single source. This is an unrealistic and simplistic scenario, but serves to provide a magnitude estimate of how much would be needed for energy production under different circumstances.
+
+References:
+UNECE (2021). Lifecycle Assessment of Electricity Generation Options. United Nations Economic Commission for Europe. Available at: https://unece.org/sed/documents/2021/10/reports/life-cycle-assessment-electricity-generation-options
+
+Ember Climate. Available at: https://ember-climate.org/
