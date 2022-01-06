@@ -10,4 +10,4 @@ Elbe, S. and Buckland-Merrett, G. (2017) Data, disease and diplomacy: GISAID’s
 
 Shu, Y. and McCauley, J. (2017) GISAID: from vision to reality. EuroSurveillance, 22(13) doi:10.2807/1560-7917.ES.2017.22.13.30494 PMCID: PMC5388101
 
-We download aggregate-level data via <a href="https://www.covariants.org">CoVariants.org</a>.
+We download aggregate-level data via <a href="https://covariants.org">CoVariants.org</a>.
