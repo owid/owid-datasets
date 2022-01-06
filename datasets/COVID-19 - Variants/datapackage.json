@@ -2,11 +2,10 @@
   "name": "COVID-19 - Variants",
   "title": "COVID-19 - Variants",
   "id": 5338,
-  "description": "The share of analyzed sequences in the last two weeks that correspond to each variant group. Only a fraction of all cases are sequenced.",
+  "description": "",
   "sources": [
     {
-      "name": "CoVariants.org and GISAID – Last updated 13 December 2021, 20:00 (London time)",
-      "additionalInfo": "The share of analyzed sequences in the last two weeks that correspond to each variant group. Only a fraction of all cases are sequenced."
+      "name": "CoVariants.org and GISAID – Last updated 5 January 2022, 20:10 (London time)"
     }
   ],
   "owidTags": [
