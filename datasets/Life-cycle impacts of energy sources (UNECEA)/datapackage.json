@@ -145,6 +145,12 @@
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "deaths_per_twh",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
           }
         ]
       }
