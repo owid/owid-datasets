@@ -46,6 +46,18 @@
             "type": "any",
             "description": "The variable \"Was the political regime imputed from another country\" states whether the political regime in the variable \"Political Regimes\" was imputed or not.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "Age of electoral democracy",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "Age of liberal democracy",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           }
         ]
       }
