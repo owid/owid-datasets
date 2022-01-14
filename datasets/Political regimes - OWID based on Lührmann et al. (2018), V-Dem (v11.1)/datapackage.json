@@ -51,13 +51,13 @@
             "name": "Age of electoral democracy",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"shortUnit\": \"years\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"shortUnit\": \"years\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Age of liberal democracy",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"shortUnit\": \"years\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"shortUnit\": \"years\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           }
         ]
       }
