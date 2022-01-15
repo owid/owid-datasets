@@ -232,6 +232,12 @@
             "type": "any",
             "description": "The number of excess deaths per million people in the population; calculated as reported deaths minus projected deaths",
             "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "deaths_2022_all_ages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
           }
         ]
       }
