@@ -238,6 +238,12 @@
             "type": "any",
             "description": "The reported number of weekly or monthly deaths from all causes for all ages in 2022.",
             "owidDisplaySettings": "{\"zeroDay\": \"2020-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
+          },
+          {
+            "name": "deaths_2020_2022_all_ages",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
           }
         ]
       }
