@@ -1,0 +1,75 @@
+{
+  "name": "Long-term yields in the United Kingdom (2022)",
+  "title": "Long-term yields in the United Kingdom (2022)",
+  "id": 670,
+  "description": "This dataset on agricultural yields in the United Kingdom was constructed from yield data from three key sources.\n\n– Data from 1270 - 1870 was taken from Broadberry et al (2015), made available by Bank of England. This comprises crop yield estimates only for England. For this dataset, we have assumed that yields in England are also representative of average UK yields. \n\n– Data from 1870 to 1960 is taken from Brassley (2000. This is provided over 5-year periods. We have assumed these figures for the first year in each 5-year set.\n\n– Data from 1961 onwards is sourced from the Food and Agriculture Organization of the United Nations.\n\nReferences:\nBroadberry, S., Campbell, B. M., Klein, A., Overton, M., & Van Leeuwen, B. (2015). British economic growth, 1270–1870. Cambridge University Press.\n\nBrassley, P. (2000). Output and technical change in twentieth-century British agriculture. The Agricultural History Review, 60-84.\n\nFood and Agriculture Organization of the United Nations. Available at: https://www.fao.org/faostat/en/#data/QCL",
+  "sources": [
+    {
+      "name": "Broadberry et al. (2015); Brassley (2000); and Food and Agriculture Organization of the United Nations",
+      "additionalInfo": "This dataset on agricultural yields in the United Kingdom was constructed from yield data from three key sources.\n\n– Data from 1270 - 1870 was taken from Broadberry et al (2015), made available by Bank of England. This comprises crop yield estimates only for England. For this dataset, we have assumed that yields in England are also representative of average UK yields. \n\n– Data from 1870 to 1960 is taken from Brassley (2000. This is provided over 5-year periods. We have assumed these figures for the first year in each 5-year set.\n\n– Data from 1961 onwards is sourced from the Food and Agriculture Organization of the United Nations.\n\nReferences:\nBroadberry, S., Campbell, B. M., Klein, A., Overton, M., & Van Leeuwen, B. (2015). British economic growth, 1270–1870. Cambridge University Press.\n\nBrassley, P. (2000). Output and technical change in twentieth-century British agriculture. The Agricultural History Review, 60-84.\n\nFood and Agriculture Organization of the United Nations. Available at: https://www.fao.org/faostat/en/#data/QCL",
+      "dataPublishedBy": "Broadberry et al. (2015); Brassley (2000); and Food and Agriculture Organization of the United Nations"
+    }
+  ],
+  "owidTags": [
+    "Land Use and Yields in Agriculture"
+  ],
+  "resources": [
+    {
+      "path": "Long-term yields in the United Kingdom (2022).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Wheat (OWID (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Barley (OWID (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Oats (OWID (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Potatoes (OWID (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Sugar Beet (OWID (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Rye (OWID (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Pulses (OWID (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
