@@ -32,7 +32,7 @@
           {
             "name": "Political regime",
             "type": "any",
-            "description": "The variable identifies the political regime of a country using the Regimes of the World classification by political scientists Anna Lührmann, Marcus Tannenberg and Staffan Lindberg. It distinguishes between closed autocracies (score 0), electoral autocracies (score 1), electoral democracies (score 2), and liberal democracies (score 3).",
+            "description": "The variable identifies the political regime of a country using the Regimes of the World classification by political scientists Anna Lührmann, Marcus Tannenberg and Staffan Lindberg. It distinguishes between closed autocracies (score 0), electoral autocracies (score 1), electoral democracies (score 2), and liberal democracies (score 3).\n\nIn closed autocracies, citizens do not have the right to either choose the chief executive of the government or the legislature through multi-party elections.\n\nIn electoral autocracies, citizens have the right to choose the chief executive and the legislature through multi-party elections; but they lack some freedoms, such as the freedoms of association or expression, that make the elections meaningful, free, and fair.\n\nIn electoral democracies, citizens have the right to participate in meaningful, free and fair, and multi-party elections.\n\nIn liberal democracies, citizens have further individual and minority rights, are equal before the law, and the actions of the executive are constrained by the legislative and the courts.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
@@ -50,110 +50,110 @@
           {
             "name": "Age of electoral democracy",
             "type": "any",
-            "description": null,
+            "description": "The identification of electoral democracies is based on the Regimes of the World classification by Lührmann et al. (2018).\n\nIn electoral democracies, citizens have the right to participate in meaningful, free and fair, and multi-party elections.",
             "owidDisplaySettings": "{\"shortUnit\": \"years\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Age of liberal democracy",
             "type": "any",
-            "description": null,
+            "description": "The identification of liberal democracies is based on the Regimes of the World classification by Lührmann et al. (2018).\n\nIn electoral democracies, citizens have the right to participate in meaningful, free and fair, and multi-party elections.\n\nIn liberal democracies, citizens have further individual and minority rights, are equal before the law, and the actions of the executive are constrained by the legislative and the courts.",
             "owidDisplaySettings": "{\"shortUnit\": \"years\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "electdem_vdem_owid",
+            "name": "Electoral democracy, central estimate",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate to of the extent to which the country is an electoral democracy.\n\nElectoral democracies choose political leaders under comprehensive suffrage in free and fair elections, made\nmeaningful by freedoms of association and expression.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "electdem_vdem_owid_low",
+            "name": "Electoral democracy, lower bound",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate to of the extent to which the country is an electoral democracy.\n\nElectoral democracies choose political leaders under comprehensive suffrage in free and fair elections, made\nmeaningful by freedoms of association and expression.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "electdem_vdem_owid_high",
+            "name": "Electoral democracy, upper bound",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate to of the extent to which the country is an electoral democracy.\n\nElectoral democracies choose political leaders under comprehensive suffrage in free and fair elections, made\nmeaningful by freedoms of association and expression.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "electfreefair_vdem_owid",
+            "name": "Free and fair elections, central estimate",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent to which registration fraud, systematic irregularities, government intimidation of the opposition, vote buying, and election violence are absent, and the election management body is autonomous and has enough staff and resources.\n\nThe variables ranges from 0 to 1 (most free and fair).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "electfreefair_vdem_owid_low",
+            "name": "Free and fair elections, lower bound",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which registration fraud, systematic irregularities, government intimidation of the opposition, vote buying, and election violence are absent, and the election management body is autonomous and has enough staff and resources.\n\nThe variables ranges from 0 to 1 (most free and fair).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "electfreefair_vdem_owid_high",
+            "name": "Free and fair elections, upper bound",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which registration fraud, systematic irregularities, government intimidation of the opposition, vote buying, and election violence are absent, and the election management body is autonomous and has enough staff and resources.\n\nThe variables ranges from 0 to 1 (most free and fair).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "suffr_vdem_owid",
+            "name": "Suffrage",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the share of adult citizens which have the legal right to vote in national elections.\n\nUniversal suffrage is coded as 100%, and universal male suffrage as 50%.\n\nThe variable captures legal restrictions, and not restrictions that may be in place in practice. It considers restrictions based on gender, property, tax payments, income, literacy, region, race, ethnicity, religion, and economic independence; it does not consider restrictions based on age, residence, conviction of a crime, or legal incompetence.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "electoff_vdem_owid",
+            "name": "Elected officials",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable measures the extent to which the legislature is chosen through popular elections, and the chief executive is elected directly or indirectly (appointed by a popularly elected legislature).\n\nA popular election can still mean that suffrage is limited and there is no competition for these offices.\n\nThe variables ranges from 0 to 1 (chief executive and legislature fully elected).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "freeexpr_vdem_owid",
+            "name": "Freedom of expression and alternative sources of information, central estimate",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent to which citizens can discuss political matters at home and in the public sphere, the press and media are free and present different political perspectives, and the freedom of academic and cultural expression.\n\nThe variables ranges from 0 to 1 (most free).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "freeexpr_vdem_owid_low",
+            "name": "Freedom of expression and alternative sources of information, lower bound",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which citizens can discuss political matters at home and in the public sphere, the press and media are free and present different political perspectives, and the freedom of academic and cultural expression.\n\nThe variables ranges from 0 to 1 (most free).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "freeexpr_vdem_owid_high",
+            "name": "Freedom of expression and alternative sources of information, upper bound",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which citizens can discuss political matters at home and in the public sphere, the press and media are free and present different political perspectives, and the freedom of academic and cultural expression.\n\nThe variables ranges from 0 to 1 (most free).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "freeassoc_vdem_owid",
+            "name": "Freedom of association, central estimate",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent to which parties, including opposition parties, are allowed to form and participate in elections, and the extent to which civil society organizations are allowed to form and operate freely.\n\nThe variables ranges from 0 to 1 (most free).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "freeassoc_vdem_owid_low",
+            "name": "Freedom of association, lower bound",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which parties, including opposition parties, are allowed to form and participate in elections, and the extent to which civil society organizations are allowed to form and operate freely.\n\nThe variables ranges from 0 to 1 (most free).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "freeassoc_vdem_owid_high",
+            "name": "Freedom of association, upper bound",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which parties, including opposition parties, are allowed to form and participate in elections, and the extent to which civil society organizations are allowed to form and operate freely.\n\nThe variables ranges from 0 to 1 (most free).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "electdem_age_group_row_owid",
+            "name": "Age group of electoral democracy",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The identification of electoral democracies is based on the Regimes of the World classification by Lührmann et al. (2018).\n\nIn electoral democracies, citizens have the right to participate in meaningful, free and fair, and multi-party elections.\n\nThe variable distinguishes between electoral democracies aged 1-18 years (score of 1), 19-30 years (score of 2), 31-60 years (score of 3), 61-90 years (score of 4), and 91+ years (score of 5).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "libdem_age_group_row_owid",
+            "name": "Age group of liberal democracy",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The identification of liberal democracies is based on the Regimes of the World classification by Lührmann et al. (2018).\n\nIn electoral democracies, citizens have the right to participate in meaningful, free and fair, and multi-party elections.\n\nIn liberal democracies, citizens have further individual and minority rights, are equal before the law, and the actions of the executive are constrained by the legislative and the courts.\n\nThe variable distinguishes between liberal democracies aged 1-18 years (score of 1), 19-30 years (score of 2), 31-60 years (score of 3), 61-90 years (score of 4), and 91+ years (score of 5).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           }
         ]
       }
