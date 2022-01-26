@@ -1,15 +1,15 @@
 {
-  "name": "Methane emissions by sector (CAIT, 2020)",
-  "title": "Methane emissions by sector (CAIT, 2020)",
+  "name": "Methane emissions by sector (CAIT)",
+  "title": "Methane emissions by sector (CAIT)",
   "id": 5086,
   "description": "Methane (CH4) emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
   "sources": [
     {
       "name": "CAIT Climate Data Explorer via. Climate Watch",
-      "dataPublishedBy": "CAIT Climate Data Explorer via. Climate Watch",
       "link": "https://www.climatewatchdata.org/data-explorer/historical-emissions",
       "retrievedDate": "26th May 2020",
-      "additionalInfo": "Methane (CH4) emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions"
+      "additionalInfo": "Methane (CH4) emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
+      "dataPublishedBy": "CAIT Climate Data Explorer via. Climate Watch"
     }
   ],
   "owidTags": [
@@ -17,7 +17,7 @@
   ],
   "resources": [
     {
-      "path": "Methane emissions by sector (CAIT, 2020).csv",
+      "path": "Methane emissions by sector (CAIT).csv",
       "schema": {
         "fields": [
           {
@@ -73,8 +73,8 @@
           {
             "name": "Total including LUCF (CH4 emissions, CAIT)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"name\": \"Total including land-use change and forestry\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000}"
+            "description": "Total methane emissions including land use change and forestry, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"name\": \"Total including land-use change and forestry\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000}"
           },
           {
             "name": "Waste (CH4 emissions, CAIT)",
@@ -115,7 +115,7 @@
           {
             "name": "Total including LUCF (per capita) (CH4 emissions, CAIT)",
             "type": "any",
-            "description": null,
+            "description": "Total methane emissions including land use change and forestry, measured in tonnes of carbon dioxide-equivalents per capita.",
             "owidDisplaySettings": "{\"name\": \"Total including land use change\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
           },
           {
