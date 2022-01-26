@@ -1,0 +1,162 @@
+{
+  "name": "Political regimes - OWID based on V-Dem (v11.1) and Lührmann et al. (2018)",
+  "title": "Political regimes - OWID based on V-Dem (v11.1) and Lührmann et al. (2018)",
+  "id": 5426,
+  "description": "This dataset provides information on political regimes, using data from the Varieties of Democracy project (v11.1) and the Regimes of the World classification from Lührmann et al. (2018).\n\nWe expand the countries and years covered, and refine the coding of the Regimes of the World classification.\n\nYou can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
+  "sources": [
+    {
+      "name": "OWID based on V-Dem (v11.1) and Lührmann et al. (2018)",
+      "link": "https://www.v-dem.net/en/data/data/v-dem-dataset-v111/",
+      "retrievedDate": "March 29, 2021",
+      "additionalInfo": "This dataset provides information on political regimes, using data from the Varieties of Democracy project (v11.1) and the Regimes of the World classification from Lührmann et al. (2018).\n\nWe expand the countries and years covered, and refine the coding of the Regimes of the World classification.\n\nYou can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
+      "dataPublishedBy": "Our World in Data, Bastian Herre",
+      "dataPublisherSource": "Data comes from the Varieties of Democracy project (v11.1), sometimes using Lührmann et al's (2018) Regimes of the World classification, and own expansions and refinements."
+    }
+  ],
+  "owidTags": [
+    "Democracy"
+  ],
+  "resources": [
+    {
+      "path": "Political regimes - OWID based on V-Dem (v11.1) and Lührmann et al. (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Political regime",
+            "type": "any",
+            "description": "The variable identifies the political regime of a country using the Regimes of the World classification by political scientists Anna Lührmann, Marcus Tannenberg and Staffan Lindberg. It distinguishes between closed autocracies (score 0), electoral autocracies (score 1), electoral democracies (score 2), and liberal democracies (score 3).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "Was the political regime imputed from another country",
+            "type": "any",
+            "description": "The variable \"Country from which the political regime was imputed\" states the name of the country whose political regime was imputed in the variable \"Political Regimes\".",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "Country from which the political regime was imputed",
+            "type": "any",
+            "description": "The variable \"Was the political regime imputed from another country\" states whether the political regime in the variable \"Political Regimes\" was imputed or not.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "Age of electoral democracy",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"shortUnit\": \"years\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Age of liberal democracy",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"shortUnit\": \"years\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "electdem_vdem_owid",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "electdem_vdem_owid_low",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "electdem_vdem_owid_high",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "electfreefair_vdem_owid",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "electfreefair_vdem_owid_low",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "electfreefair_vdem_owid_high",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "suffr_vdem_owid",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "electoff_vdem_owid",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "freeexpr_vdem_owid",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "freeexpr_vdem_owid_low",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "freeexpr_vdem_owid_high",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "freeassoc_vdem_owid",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "freeassoc_vdem_owid_low",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "freeassoc_vdem_owid_high",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "electdem_age_group_row_owid",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "libdem_age_group_row_owid",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
