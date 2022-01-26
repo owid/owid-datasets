@@ -1,14 +1,14 @@
 {
-  "name": "Nitrous oxide emissions by sector (CAIT, 2020)",
-  "title": "Nitrous oxide emissions by sector (CAIT, 2020)",
+  "name": "Nitrous oxide emissions by sector (CAIT)",
+  "title": "Nitrous oxide emissions by sector (CAIT)",
   "id": 5087,
   "description": "Nitrous oxide (N2O) emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
   "sources": [
     {
       "name": "CAIT Climate Data Explorer via. Climate Watch",
-      "additionalInfo": "Nitrous oxide (N2O) emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
       "link": "https://www.climatewatchdata.org/data-explorer/historical-emissions",
       "retrievedDate": "26th May 2020",
+      "additionalInfo": "Nitrous oxide (N2O) emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
       "dataPublishedBy": "CAIT Climate Data Explorer via. Climate Watch"
     }
   ],
@@ -17,7 +17,7 @@
   ],
   "resources": [
     {
-      "path": "Nitrous oxide emissions by sector (CAIT, 2020).csv",
+      "path": "Nitrous oxide emissions by sector (CAIT).csv",
       "schema": {
         "fields": [
           {
@@ -73,8 +73,8 @@
           {
             "name": "Total including LUCF (N2O emissions, CAIT)",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"name\": \"Total including land use change and forestry\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+            "description": "Total nitrous oxide emissions including land use change and forestry, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"name\": \"Total including land use change and forestry\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Waste (N2O emissions, CAIT)",
@@ -83,31 +83,31 @@
             "owidDisplaySettings": "{\"name\": \"Waste\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Agriculture (per capita) (CAIT, 2020)",
+            "name": "Agriculture (per capita) (CAIT)",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"Agriculture\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
           },
           {
-            "name": "Fugitive Emissions (per capita) (CAIT, 2020)",
+            "name": "Fugitive Emissions (per capita) (CAIT)",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"Fugitive emissions\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
           },
           {
-            "name": "Industry (per capita) (CAIT, 2020)",
+            "name": "Industry (per capita) (CAIT)",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"Industry\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
           },
           {
-            "name": "Land-Use Change and Forestry (per capita) (CAIT, 2020)",
+            "name": "Land-Use Change and Forestry (per capita) (CAIT)",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"Land use change and forestry\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
           },
           {
-            "name": "Total excluding LUCF (per capita) (CAIT, 2020)",
+            "name": "Total excluding LUCF (per capita) (CAIT)",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"Total excluding land use change\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
@@ -115,11 +115,11 @@
           {
             "name": "Total including LUCF (per capita)",
             "type": "any",
-            "description": null,
+            "description": "Total nitrous oxide emissions including land use change and forestry, measured in tonnes of carbon dioxide-equivalents per capita.",
             "owidDisplaySettings": "{\"name\": \"Total including land use change\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
           },
           {
-            "name": "Waste (per capita) (CAIT, 2020)",
+            "name": "Waste (per capita) (CAIT)",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"Waste\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
