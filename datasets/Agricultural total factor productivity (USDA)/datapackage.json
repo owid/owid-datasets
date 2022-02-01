@@ -5,7 +5,7 @@
   "description": "",
   "sources": [
     {
-      "name": "United States Department for Agriculture (USDA) Economic Research Service.",
+      "name": "United States Department for Agriculture (USDA) Economic Research Service",
       "link": "https://www.ers.usda.gov/data-products/international-agricultural-productivity",
       "dataPublishedBy": "United States Department for Agriculture (USDA) Economic Research Service. International Agricultural Productivity."
     }
@@ -95,62 +95,62 @@
           {
             "name": "ag_land_quantity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Agricultural land is the sum of croplands and pasture used for livestock grazing.",
+            "owidDisplaySettings": "{\"name\": \"Agricultural land\", \"unit\": \"hectares of rainfed-cropland-equivalents\", \"shortUnit\": \"ha\", \"includeInTable\": true, \"conversionFactor\": 1000}"
           },
           {
             "name": "labor_quantity",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Agricultural labor numbers\", \"unit\": \"economically active people\", \"includeInTable\": true, \"conversionFactor\": 1000}"
           },
           {
             "name": "capital_quantity",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Capital stock in agriculture\", \"unit\": \"constant 2015 US$\", \"shortUnit\": \"$\", \"includeInTable\": true, \"conversionFactor\": 1000000}"
           },
           {
             "name": "machinery_quantity",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Agricultural machinery\", \"unit\": \"horsepower\", \"includeInTable\": true, \"conversionFactor\": 1000}"
           },
           {
             "name": "livestock_quantity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Livestock counts are measured in heads of standard livestock units. ",
+            "owidDisplaySettings": "{\"name\": \"Livestock quantity\", \"unit\": \"head of standard livestock units\", \"includeInTable\": true, \"conversionFactor\": 1000}"
           },
           {
             "name": "fertilizer_quantity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Fertilizer consumption is measured as the sum of synthetic inputs of nitrogen, potassium and phosphorous, plus organic nitrogen inputs.",
+            "owidDisplaySettings": "{\"name\": \"Fertilizer consumption\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true}"
           },
           {
             "name": "animal_feed_quantity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Animal feed production is measured in Mcal of metabolizable energy.",
+            "owidDisplaySettings": "{\"name\": \"Animal feed production\", \"unit\": \"Mcal of metabolizable energy\", \"shortUnit\": \"Mcal\", \"includeInTable\": true, \"conversionFactor\": 1000000}"
           },
           {
             "name": "cropland_quantity",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Cropland\", \"unit\": \"hectares\", \"shortUnit\": \"ha\", \"includeInTable\": true, \"conversionFactor\": 1000}"
           },
           {
             "name": "pasture_quantity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Pasture is grassland used for livestock grazing.",
+            "owidDisplaySettings": "{\"name\": \"Pasture\", \"unit\": \"hectares\", \"shortUnit\": \"ha\", \"includeInTable\": true, \"conversionFactor\": 1000}"
           },
           {
             "name": "irrigation_quantity",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Area equipped for irrigation\", \"unit\": \"hectares\", \"shortUnit\": \"ha\", \"includeInTable\": true, \"conversionFactor\": 1000}"
           }
         ]
       }
