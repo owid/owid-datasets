@@ -62,19 +62,19 @@
           {
             "name": "Electoral democracy, central estimate",
             "type": "any",
-            "description": "The variable denotes the best estimate to of the extent to which the country is an electoral democracy.\n\nElectoral democracies choose political leaders under comprehensive suffrage in free and fair elections, made\nmeaningful by freedoms of association and expression.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "description": "The variable denotes the best estimate of the extent to which political leaders are elected under comprehensive suffrage in free and fair elections, and freedoms of association and expression are guaranteed. \n\nThe index reaches from 0 to 1 (most democratic).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "Electoral democracy, lower bound",
             "type": "any",
-            "description": "The variable denotes the lower-bound estimate to of the extent to which the country is an electoral democracy.\n\nElectoral democracies choose political leaders under comprehensive suffrage in free and fair elections, made\nmeaningful by freedoms of association and expression.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "description": "The variable denotes the lower-bound estimate of the extent to which political leaders are elected under comprehensive suffrage in free and fair elections, and freedoms of association and expression are guaranteed. \n\nThe index reaches from 0 to 1 (most democratic).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "Electoral democracy, upper bound",
             "type": "any",
-            "description": "The variable denotes the upper-bound estimate to of the extent to which the country is an electoral democracy.\n\nElectoral democracies choose political leaders under comprehensive suffrage in free and fair elections, made\nmeaningful by freedoms of association and expression.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "description": "The variable denotes the upper-bound estimate of the extent to which political leaders are elected under comprehensive suffrage in free and fair elections, and freedoms of association and expression are guaranteed. \n\nThe index reaches from 0 to 1 (most democratic).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
