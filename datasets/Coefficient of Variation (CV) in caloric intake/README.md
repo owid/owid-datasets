@@ -1,4 +1,4 @@
-# Caloric Coefficient of Variation (CV) - FAO Food Security Indicators (2017)
+# Coefficient of Variation (CV) in caloric intake
 
 The coefficient variation (CV) measures the inequality of caloric intake across a given population. It represents a statistical measure of the data spread around the mean caloric intake. Higher CV values represent larger levels of dietary inequality.
 
