@@ -2,11 +2,11 @@
   "name": "Reported guinea worm cases - WHO (2021)",
   "title": "Reported guinea worm cases - WHO (2021)",
   "id": 5496,
-  "description": "Data sources:\n1986-2017: http://apps.who.int/dracunculiasis/dradata/html/report_Countries_i2.html\n2018: Table 1a https://apps.who.int/iris/rest/bitstreams/1230660/retrieve\n2019: Table 1a https://apps.who.int/iris/rest/bitstreams/1277901/retrieve\n2020: Table 1a https://apps.who.int/iris/rest/bitstreams/1349256/retrieve\n2021*: https://www.cartercenter.org/news/pr/2022/guinea-worm-worldwide-cases-announcement-012622.html\n\n*All annual figures are considered provisional until officially confirmed.",
+  "description": "Data sources:\n\n1986-2017: http://apps.who.int/dracunculiasis/dradata/html/report_Countries_i2.html\n2018: Table 1a https://apps.who.int/iris/rest/bitstreams/1230660/retrieve\n2019: Table 1a https://apps.who.int/iris/rest/bitstreams/1277901/retrieve\n2020: Table 1a https://apps.who.int/iris/rest/bitstreams/1349256/retrieve\n2021*: https://www.cartercenter.org/news/pr/2022/guinea-worm-worldwide-cases-announcement-012622.html\n\n*All annual figures are considered provisional until officially confirmed.",
   "sources": [
     {
       "name": "World Health Organization",
-      "additionalInfo": "Data sources:\n1986-2017: http://apps.who.int/dracunculiasis/dradata/html/report_Countries_i2.html\n2018: Table 1a https://apps.who.int/iris/rest/bitstreams/1230660/retrieve\n2019: Table 1a https://apps.who.int/iris/rest/bitstreams/1277901/retrieve\n2020: Table 1a https://apps.who.int/iris/rest/bitstreams/1349256/retrieve\n2021*: https://www.cartercenter.org/news/pr/2022/guinea-worm-worldwide-cases-announcement-012622.html\n\n*All annual figures are considered provisional until officially confirmed.",
+      "additionalInfo": "Data sources:\n\n1986-2017: http://apps.who.int/dracunculiasis/dradata/html/report_Countries_i2.html\n2018: Table 1a https://apps.who.int/iris/rest/bitstreams/1230660/retrieve\n2019: Table 1a https://apps.who.int/iris/rest/bitstreams/1277901/retrieve\n2020: Table 1a https://apps.who.int/iris/rest/bitstreams/1349256/retrieve\n2021*: https://www.cartercenter.org/news/pr/2022/guinea-worm-worldwide-cases-announcement-012622.html\n\n*All annual figures are considered provisional until officially confirmed.",
       "dataPublishedBy": "World Health Organization",
       "dataPublisherSource": "National government reporting to the WHO"
     }
