@@ -13,5 +13,3 @@ UN population citation:
 United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019, Online Edition. Rev. 1. Available at: https://population.un.org/wpp/Download/Standard/Population/
 
 Full documentation of Gapminder's sources and process are available here: https://www.gapminder.org/data/documentation/gd003/
-
-Gapminder builds its dataset for 1800 to 1949 from Maddison population data improved by CLIO INFRA in April 2015 and Gapminder v3 documented in greater detail by Mattias Lindgren. The main source of v3 was Angus Maddison’s data, which is maintained and improved by CLIO Infra Project. The updated Maddison data by CLIO INFRA were based on the following improvements: i. Whenever estimates by Maddison were available, his figures are being followed in favor of estimates by Gapminder; ii. For Africa, estimates by Frankema and Jerven (2014) for the period 1850-1960 have been added to the existing database; – For Latin America, estimates by Abad & Van Zanden (2014) for the period 1500-1940 have been added.
