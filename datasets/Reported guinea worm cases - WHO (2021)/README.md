@@ -8,4 +8,4 @@ Data sources:
 2020: Table 1a https://apps.who.int/iris/rest/bitstreams/1349256/retrieve
 2021*: https://www.cartercenter.org/news/pr/2022/guinea-worm-worldwide-cases-announcement-012622.html
 
-*All annual figures are considered provisional until officially confirmed.
+*Figures are considered provisional until officially confirmed.
