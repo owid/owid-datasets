@@ -2,13 +2,13 @@
   "name": "Population (Gapminder, HYDE & UN)",
   "title": "Population (Gapminder, HYDE & UN)",
   "id": 70,
-  "description": "Population data by country, region, and for the world, was constructed by Our World in Data based on three key sources:\n\n— HYDE Version 3.2 from the year -10,000 to 1799;\n— Gapminder Version 6 from 1800 to 1949;\n— UN World Population Prospects (2019) estimates from 1950 to 2021; \n— UN World Population Prospects (2019) projections (medium variant scenario) from 2022 to 2100.\n\nHYDE Database, available at: https://www.pbl.nl/en/image/links/hyde\n\nUN population citation:\nUnited Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019, Online Edition. Rev. 1. Available at: https://population.un.org/wpp/Download/Standard/Population/\n\nFull documentation of Gapminder's sources and process are available here: https://www.gapminder.org/data/documentation/gd003/",
+  "description": "Our World in Data builds and maintains a long-run dataset on population by country, region, and for the world, based on three key sources: HYDE, Gapminder, and the UN World Population Prospects. You can find more information on these sources and how our time series is constructed on this page: <a href=\"https://ourworldindata.org/population-sources\">What sources do we rely on for population estimates?</a>",
   "sources": [
     {
       "name": "Gapminder (v6), HYDE (v3.2), UN (2019)",
       "link": "https://www.gapminder.org/data/documentation/gd003/; https://population.un.org/wpp/Download/Standard/Population/; https://dataportaal.pbl.nl/downloads/HYDE/",
       "retrievedDate": "October 8, 2021",
-      "additionalInfo": "Population data by country, region, and for the world, was constructed by Our World in Data based on three key sources:\n\n— HYDE Version 3.2 from the year -10,000 to 1799;\n— Gapminder Version 6 from 1800 to 1949;\n— UN World Population Prospects (2019) estimates from 1950 to 2021; \n— UN World Population Prospects (2019) projections (medium variant scenario) from 2022 to 2100.\n\nHYDE Database, available at: https://www.pbl.nl/en/image/links/hyde\n\nUN population citation:\nUnited Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019, Online Edition. Rev. 1. Available at: https://population.un.org/wpp/Download/Standard/Population/\n\nFull documentation of Gapminder's sources and process are available here: https://www.gapminder.org/data/documentation/gd003/",
+      "additionalInfo": "Our World in Data builds and maintains a long-run dataset on population by country, region, and for the world, based on three key sources: HYDE, Gapminder, and the UN World Population Prospects. You can find more information on these sources and how our time series is constructed on this page: <a href=\"https://ourworldindata.org/population-sources\">What sources do we rely on for population estimates?</a>",
       "dataPublishedBy": "Gapminder (v6), HYDE (v3.2), United Nations Population Division (2019)"
     }
   ],
