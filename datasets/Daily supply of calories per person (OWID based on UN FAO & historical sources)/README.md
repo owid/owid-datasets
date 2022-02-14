@@ -1,4 +1,4 @@
-# Daily caloric supply per capita -  FAO (2017) & Various historical sources
+# Daily supply of calories per person (OWID based on UN FAO & historical sources)
 
 Data for all countries spanning the timeframe from 1961 is based on daily caloric supply (kcal/person/day) as reported by the UN Food and Agricultural Organization (FAO). Daily caloric supply is defined as the average per capita caloric availability. Note that this indicates the caloric availability delivered to households but does not necessarily indicate the number of calories actually consumed (food may be wasted at the consumer level). FAO data can be found at its FAOstats database (food balance sheets): http://www.fao.org/faostat/en/#data/FBS [accessed 2017-07-18]
 
