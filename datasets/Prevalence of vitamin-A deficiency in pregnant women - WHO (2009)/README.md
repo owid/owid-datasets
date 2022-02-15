@@ -2,7 +2,7 @@
 
 Data on vitamin-A deficiency is based on the reported prevalence of risk by the World Health Organization, which has collated national and household level survey data on indicators extending the period 1995-2005. Note that data on vitamin-A deficiency is typically not measured on an annual basis, therefore the year of measurement will vary by country, but lie within the period 1995-2005.
 
-All countries with a 2005 gross domestic product (GDP) ≥US$ 15 000 were assumed to be free from VAD of a public health significance and were therefore excluded. None of these 37 countries had retinol or night blindness data reported for either preschool-age children or pregnant women.
+All countries with a GDP per capita ≥US$15,000 were assumed by the WHO to be free from vitamin-A deficiency of a public health significance and were therefore excluded.. None of these 37 countries had retinol or night blindness data reported for either preschool-age children or pregnant women.
 
 Two sets of indicators of VAD are commonly used for population surveys: clinically assessed eye signs and biochemically determined concentrations of retinol in plasma or serum. The incidence of night blindness in individuals indicates moderate-to-severe systemic VAD. VAD can also be identified when serum retinol concentrations fall below below a cut-off value of 0.70 µmol/l.
 
