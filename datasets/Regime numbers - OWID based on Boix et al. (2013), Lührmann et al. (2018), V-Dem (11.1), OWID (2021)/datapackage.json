@@ -2,13 +2,13 @@
   "name": "Regime numbers - OWID based on Boix et al. (2013), Lührmann et al. (2018), V-Dem (11.1), OWID (2021)",
   "title": "Regime numbers - OWID based on Boix et al. (2013), Lührmann et al. (2018), V-Dem (11.1), OWID (2021)",
   "id": 5461,
-  "description": "This dataset provides information on the number of countries having different political systems.\n\nPolitical regimes are identified using either Boix et al. (2013), or the Regimes of the World classification from Lührmann et al. (2018) using data from the Varieties of Democracy Project (v11.1), and expanding the data and refining the classification ourselves.\n\nThe classification by Boix et al. (2013) distinguishes between democracies and non-democracies.\n\nThe Regimes of the World classification distinguishes between closed autocracies, electoral autocracies, electoral democracies, and liberal democracies.",
+  "description": "This dataset provides information on the number of countries having different political systems.\n\nPolitical regimes are identified using either Boix et al. (2013), or the Regimes of the World classification from Lührmann et al. (2018) using data from the Varieties of Democracy Project (v11.1), and expanding the data and refining the classification ourselves.\n\nThe classification by Boix et al. (2013) distinguishes between democracies and non-democracies.\n\nThe Regimes of the World classification distinguishes between closed autocracies, electoral autocracies, electoral democracies, and liberal democracies. You can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
   "sources": [
     {
       "name": "OWID based on Boix et al. (2013), Lührmann et al. (2018), V-Dem (v11.1)",
       "link": "https://sites.google.com/site/mkmtwo/data?authuser=0; https://www.v-dem.net/en/data/data/v-dem-dataset-v111/",
       "retrievedDate": "February 9, 2022; March 29, 2021",
-      "additionalInfo": "This dataset provides information on the number of countries having different political systems.\n\nPolitical regimes are identified using either Boix et al. (2013), or the Regimes of the World classification from Lührmann et al. (2018) using data from the Varieties of Democracy Project (v11.1), and expanding the data and refining the classification ourselves.\n\nThe classification by Boix et al. (2013) distinguishes between democracies and non-democracies.\n\nThe Regimes of the World classification distinguishes between closed autocracies, electoral autocracies, electoral democracies, and liberal democracies.",
+      "additionalInfo": "This dataset provides information on the number of countries having different political systems.\n\nPolitical regimes are identified using either Boix et al. (2013), or the Regimes of the World classification from Lührmann et al. (2018) using data from the Varieties of Democracy Project (v11.1), and expanding the data and refining the classification ourselves.\n\nThe classification by Boix et al. (2013) distinguishes between democracies and non-democracies.\n\nThe Regimes of the World classification distinguishes between closed autocracies, electoral autocracies, electoral democracies, and liberal democracies. You can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
       "dataPublishedBy": "Our World in Data, Bastian Herre",
       "dataPublisherSource": "Data on regimes comes from Boix et al. (2013), the Varieties of Democracy project (v11.1), using Lührmann et al's (2018) classification, and own expansions and refinements."
     }
@@ -28,79 +28,115 @@
             "type": "year"
           },
           {
-            "name": "Number of electoral democracies aged 1-18 years",
+            "name": "Number of electoral democracies aged 1-18 years (Regimes of the World)",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"1-18 years\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of electoral democracies aged 19-30 years",
+            "name": "Number of electoral democracies aged 19-30 years (Regimes of the World)",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"19-30 years\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of electoral democracies aged 31-60 years",
+            "name": "Number of electoral democracies aged 31-60 years (Regimes of the World)",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"31-60 years\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of electoral democracies aged 61-90 years",
+            "name": "Number of electoral democracies aged 61-90 years (Regimes of the World)",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"61-90 years\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of electoral democracies aged 91 years or older",
+            "name": "Number of electoral democracies aged 91 years or older (Regimes of the World)",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"91 years +\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of liberal democracies aged 1-18 years",
+            "name": "Number of liberal democracies aged 1-18 years (Regimes of the World)",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"1-18 years\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of liberal democracies aged 19-30 years",
+            "name": "Number of liberal democracies aged 19-30 years (Regimes of the World)",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"19-30 years\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of liberal democracies aged 31-60 years",
+            "name": "Number of liberal democracies aged 31-60 years (Regimes of the World)",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"31-60 years\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of liberal democracies aged 61-90 years",
+            "name": "Number of liberal democracies aged 61-90 years (Regimes of the World)",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"61-90 years\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of liberal democracies aged 91 years or older",
+            "name": "Number of liberal democracies aged 91 years or older (Regimes of the World)",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"91 years or older\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of closed autocracies",
+            "name": "Number of closed autocracies (Regimes of the World)",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Number of electoral autocracies",
+            "name": "Number of electoral autocracies (Regimes of the World)",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Number of electoral democracies",
+            "name": "Number of electoral democracies (Regimes of the World)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "Number of non-democracies (Boix et al. 2013)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "Number of electoral democracies aged 1-18 years (Boix et al. 2013)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "Number of electoral democracies aged 19-30 years (Boix et al. 2013)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "Number of electoral democracies aged 31-60 years (Boix et al. 2013)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "Number of electoral democracies aged 61-90 years (Boix et al. 2013)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "Number of electoral democracies aged 91 years and older (Boix et al. 2013)",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"

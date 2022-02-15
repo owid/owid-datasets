@@ -6,4 +6,6 @@ Political regimes are identified using either Boix et al. (2013), or the Regimes
 
 The classification by Boix et al. (2013) distinguishes between democracies and non-democracies.
 
-The Regimes of the World classification distinguishes between closed autocracies, electoral autocracies, electoral democracies, and liberal democracies.
+The Regimes of the World classification distinguishes between closed autocracies, electoral autocracies, electoral democracies, and liberal democracies. You can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data
+
+You can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes
