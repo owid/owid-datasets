@@ -1,4 +1,4 @@
-# Nitrous oxide emissions by sector (CAIT)
+# Nitrous oxide emissions by sector (CAIT, 2020)
 
 Nitrous oxide (N2O) emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.
 
