@@ -1,4 +1,4 @@
-# Methane emissions by sector (CAIT)
+# Methane emissions by sector (CAIT, 2020)
 
 Methane (CH4) emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.
 

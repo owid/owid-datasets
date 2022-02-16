@@ -1,6 +1,6 @@
 {
-  "name": "Methane emissions by sector (CAIT)",
-  "title": "Methane emissions by sector (CAIT)",
+  "name": "Methane emissions by sector (CAIT, 2020)",
+  "title": "Methane emissions by sector (CAIT, 2020)",
   "id": 5086,
   "description": "Methane (CH4) emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
   "sources": [
@@ -17,7 +17,7 @@
   ],
   "resources": [
     {
-      "path": "Methane emissions by sector (CAIT).csv",
+      "path": "Methane emissions by sector (CAIT, 2020).csv",
       "schema": {
         "fields": [
           {
