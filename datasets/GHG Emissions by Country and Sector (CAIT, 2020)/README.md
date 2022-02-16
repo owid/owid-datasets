@@ -1,4 +1,4 @@
-# GHG Emissions by Country and Sector (CAIT)
+# GHG Emissions by Country and Sector (CAIT, 2020)
 
 Total greenhouse gas emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.
 

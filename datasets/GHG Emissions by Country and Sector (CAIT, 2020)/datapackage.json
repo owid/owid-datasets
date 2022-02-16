@@ -1,15 +1,15 @@
 {
-  "name": "GHG Emissions by Country and Sector (CAIT)",
-  "title": "GHG Emissions by Country and Sector (CAIT)",
+  "name": "GHG Emissions by Country and Sector (CAIT, 2020)",
+  "title": "GHG Emissions by Country and Sector (CAIT, 2020)",
   "id": 5082,
   "description": "Total greenhouse gas emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
   "sources": [
     {
       "name": "GHG Emissions by Country and Sector (CAIT)",
       "link": "https://www.climatewatchdata.org/data-explorer/historical-emissions",
-      "dataPublishedBy": "CAIT Climate Data Explorer via. Climate Watch",
       "retrievedDate": "26th April 2020",
-      "additionalInfo": "Total greenhouse gas emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions"
+      "additionalInfo": "Total greenhouse gas emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
+      "dataPublishedBy": "CAIT Climate Data Explorer via. Climate Watch"
     }
   ],
   "owidTags": [
@@ -17,7 +17,7 @@
   ],
   "resources": [
     {
-      "path": "GHG Emissions by Country and Sector (CAIT).csv",
+      "path": "GHG Emissions by Country and Sector (CAIT, 2020).csv",
       "schema": {
         "fields": [
           {
@@ -169,7 +169,7 @@
           {
             "name": "Total including LUCF (per capita) (GHG Emissions, CAIT)",
             "type": "any",
-            "description": null,
+            "description": "Total greenhouse gas emissions including land use change and forestry, measured in tonnes of carbon dioxide-equivalents per capita.",
             "owidDisplaySettings": "{\"name\": \"Total including land use change\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
           },
           {
