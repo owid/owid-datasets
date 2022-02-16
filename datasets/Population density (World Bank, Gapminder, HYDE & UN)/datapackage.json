@@ -1,0 +1,39 @@
+{
+  "name": "Population density (World Bank, Gapminder, HYDE & UN)",
+  "title": "Population density (World Bank, Gapminder, HYDE & UN)",
+  "id": 5517,
+  "description": "Our World in Data builds and maintains a long-run dataset on population by country, region, and for the world, based on three key sources: HYDE, Gapminder, and the UN World Population Prospects. You can find more information on these sources and how our time series is constructed on this page: <a href=\"https://ourworldindata.org/population-sources\">What sources do we rely on for population estimates?</a>\n\nWe combine this population dataset with the <a href=\"https://ourworldindata.org/grapher/land-area-km\">land area estimates published by the World Bank</a>, to produce a long-run dataset of population density estimates.",
+  "sources": [
+    {
+      "name": "Population density (World Bank, Gapminder, HYDE & UN)",
+      "link": "https://www.gapminder.org/data/documentation/gd003/; https://population.un.org/wpp/Download/Standard/Population/; https://dataportaal.pbl.nl/downloads/HYDE/; https://datacatalog.worldbank.org/dataset/world-development-indicators",
+      "retrievedDate": "February 16, 2022",
+      "additionalInfo": "Our World in Data builds and maintains a long-run dataset on population by country, region, and for the world, based on three key sources: HYDE, Gapminder, and the UN World Population Prospects. You can find more information on these sources and how our time series is constructed on this page: <a href=\"https://ourworldindata.org/population-sources\">What sources do we rely on for population estimates?</a>\n\nWe combine this population dataset with the <a href=\"https://ourworldindata.org/grapher/land-area-km\">land area estimates published by the World Bank</a>, to produce a long-run dataset of population density estimates.",
+      "dataPublishedBy": "World Bank (2021), Gapminder (v6), HYDE (v3.2), United Nations Population Division (2019)"
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "Population density (World Bank, Gapminder, HYDE & UN).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "population_density",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
