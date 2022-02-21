@@ -1,0 +1,141 @@
+{
+  "name": "Methane emissions by sector (CAIT, 2021)",
+  "title": "Methane emissions by sector (CAIT, 2021)",
+  "id": 5527,
+  "description": "Methane (CH4) emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
+  "sources": [
+    {
+      "name": "Methane emissions by sector (CAIT)",
+      "link": "https://www.climatewatchdata.org/data-explorer/historical-emissions",
+      "retrievedDate": "16th February 2022",
+      "additionalInfo": "Methane (CH4) emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
+      "dataPublishedBy": "CAIT Climate Data Explorer via Climate Watch"
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "Methane emissions by sector (CAIT, 2021).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Agriculture",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Agriculture (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Agriculture\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Energy",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Energy (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Energy\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Fugitive emissions",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Fugitive emissions (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Fugitive emissions\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Industry",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Industry (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Industry\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Land-use change and forestry",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Land-use change and forestry (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Land-use change and forestry\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Other fuel combustion",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Other fuel combustion (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Other fuel combustion\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Total excluding LUCF",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Total excluding land-use change and forestry\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Total excluding LUCF (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Total excluding land-use change and forestry\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Total including LUCF",
+            "type": "any",
+            "description": "Total methane emissions including land-use change and forestry, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"name\": \"Total including land-use change and forestry\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Total including LUCF (per capita)",
+            "type": "any",
+            "description": "Total methane emissions including land-use change and forestry, measured in tonnes of carbon dioxide-equivalents per capita.",
+            "owidDisplaySettings": "{\"name\": \"Total including land-use change and forestry\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Waste",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Waste (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Waste\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          }
+        ]
+      }
+    }
+  ]
+}
