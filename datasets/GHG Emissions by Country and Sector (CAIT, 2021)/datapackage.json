@@ -1,0 +1,201 @@
+{
+  "name": "GHG Emissions by Country and Sector (CAIT, 2021)",
+  "title": "GHG Emissions by Country and Sector (CAIT, 2021)",
+  "id": 5524,
+  "description": "Total greenhouse gas emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
+  "sources": [
+    {
+      "name": "GHG Emissions by Country and Sector (CAIT)",
+      "link": "https://www.climatewatchdata.org/data-explorer/historical-emissions",
+      "retrievedDate": "16th February 2022",
+      "additionalInfo": "Total greenhouse gas emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
+      "dataPublishedBy": "CAIT Climate Data Explorer via. Climate Watch"
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "GHG Emissions by Country and Sector (CAIT, 2021).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Agriculture",
+            "type": "any",
+            "description": "Greenhouse gas emissions from agriculture, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Agriculture (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Agriculture\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Aviation and shipping",
+            "type": "any",
+            "description": "Greenhouse gas emissions from bunker fuels, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Aviation and shipping (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Aviation and shipping\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Buildings",
+            "type": "any",
+            "description": "Greenhouse gas emissions from buildings, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Buildings (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Buildings\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Electricity and heat",
+            "type": "any",
+            "description": "Greenhouse gas emissions from electricity and heat, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Electricity and heat (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Electricity and heat\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Energy",
+            "type": "any",
+            "description": "Greenhouse gas emissions from energy, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Energy (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Energy\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Fugitive emissions",
+            "type": "any",
+            "description": "Fugitive emissions of greenhouse gases from energy production, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Fugitive emissions (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Fugitive emissions\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Industry",
+            "type": "any",
+            "description": "Greenhouse gas emissions from industry, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Industry (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Industry\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Land-use change and forestry",
+            "type": "any",
+            "description": "Greenhouse gas emissions from land use change and forestry, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Land-use change and forestry (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Land-use change and forestry\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Manufacturing and construction",
+            "type": "any",
+            "description": "Greenhouse gas emissions from manufacturing and construction, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Manufacturing and construction (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Manufacturing and construction\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Other fuel combustion",
+            "type": "any",
+            "description": "Greenhouse gas emissions from other fuel combustion, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Other fuel combustion (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Other fuel combustion\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Total excluding LUCF",
+            "type": "any",
+            "description": "Total greenhouse gas emissions excluding land-use change and forestry, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"name\": \"Total GHG emissions excluding LUCF\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Total excluding LUCF (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Total GHG emissions excluding LUCF\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Total including LUCF",
+            "type": "any",
+            "description": "Total greenhouse gas emissions including land-use change and forestry, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"name\": \"Total GHG emissions including LUCF\", \"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Total including LUCF (per capita)",
+            "type": "any",
+            "description": "Total greenhouse gas emissions including land-use change and forestry, measured in tonnes of carbon dioxide-equivalents per capita.",
+            "owidDisplaySettings": "{\"name\": \"Total GHG emissions including LUCF\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Transport",
+            "type": "any",
+            "description": "Greenhouse gas emissions from transport, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000}"
+          },
+          {
+            "name": "Transport (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Transport\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Waste",
+            "type": "any",
+            "description": "Greenhouse gas emissions from waste, measured in tonnes of carbon dioxide-equivalents.",
+            "owidDisplaySettings": "{\"unit\": \"tonnes CO₂e\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "Waste (per capita)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+          }
+        ]
+      }
+    }
+  ]
+}
