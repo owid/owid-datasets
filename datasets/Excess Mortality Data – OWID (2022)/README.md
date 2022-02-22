@@ -1,4 +1,4 @@
-# Excess Mortality Data – OWID (2021)
+# Excess Mortality Data – OWID (2022)
 
 All-cause mortality data is from the Human Mortality Database (HMD) Short-term Mortality Fluctuations project and the World Mortality Dataset (WMD). Both sources are updated weekly.
 
