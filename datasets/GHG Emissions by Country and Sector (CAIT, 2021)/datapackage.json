@@ -155,7 +155,7 @@
           {
             "name": "Total excluding LUCF (per capita)",
             "type": "any",
-            "description": null,
+            "description": "Total greenhouse gas emissions excluding land-use change and forestry, measured in tonnes of carbon dioxide-equivalents per capita.",
             "owidDisplaySettings": "{\"name\": \"Total GHG emissions excluding LUCF\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
           },
           {
@@ -192,7 +192,7 @@
             "name": "Waste (per capita)",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Waste\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
           }
         ]
       }
