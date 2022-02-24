@@ -6,15 +6,15 @@
   "sources": [
     {
       "name": "Our World In Data based on: IHME (2017); UCDP (2018); Correlates of War (2018); Brecke (1999)",
-      "dataPublishedBy": "IHME: Global Burden of Disease Study 2016 (GBD 2016) Results; UCDP: Pettersson, Therése and Kristine Eck (2018) Organized violence, 1989-2017. Journal of Peace Research 55(4); COW: Sarkees, Meredith Reid and Frank Wayman (2010). Resort to War: 1816 - 2007. Washington DC: CQ Press; Brecke: Violent Conflicts 1400 A.D. to the Present in Different Regions of the World (Paper prepared for the 1999 Meeting of the Peace Science Society)  ",
-      "dataPublisherSource": null,
-      "link": "IHME: http://ghdx.healthdata.org/gbd-results-tool ; UCDP: ucdp.uu.se ; COW: correlatesofwar.org ; Brecke (1999): http://www.cgeh.nl/data",
+      "link": "IHME: http://ghdx.healthdata.org/gbd-results-tool ; UCDP: ucdp.uu.se ; COW: correlatesofwar.org ; Brecke (1999): https://brecke.inta.gatech.edu/research/conflict/",
       "retrievedDate": "5/09/2018",
-      "additionalInfo": "Some sources release data only at the conflict level. In these cases we have assumed an even death toll across the duration of the conflict and aggregated by year across all conflicts."
+      "additionalInfo": "Some sources release data only at the conflict level. In these cases we have assumed an even death toll across the duration of the conflict and aggregated by year across all conflicts.",
+      "dataPublishedBy": "IHME: Global Burden of Disease Study 2016 (GBD 2016) Results; UCDP: Pettersson, Therése and Kristine Eck (2018) Organized violence, 1989-2017. Journal of Peace Research 55(4); COW: Sarkees, Meredith Reid and Frank Wayman (2010). Resort to War: 1816 - 2007. Washington DC: CQ Press; Brecke: Violent Conflicts 1400 A.D. to the Present in Different Regions of the World (Paper prepared for the 1999 Meeting of the Peace Science Society)  ",
+      "dataPublisherSource": null
     }
   ],
   "owidTags": [
-    "War and Peace after 1945"
+    "War and Peace"
   ],
   "resources": [
     {
@@ -33,7 +33,7 @@
             "name": "Conflict deaths per 100,000, World (various sources)",
             "type": "any",
             "description": "The total number of conflict deaths according to various sources per 100,000 world population (UN Population Division figures)",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           }
         ]
       }
