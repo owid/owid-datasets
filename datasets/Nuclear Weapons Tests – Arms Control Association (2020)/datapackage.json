@@ -12,7 +12,9 @@
       "dataPublishedBy": "Arms Control Association"
     }
   ],
-  "owidTags": [],
+  "owidTags": [
+    "Nuclear Weapons"
+  ],
   "resources": [
     {
       "path": "Nuclear Weapons Tests – Arms Control Association (2020).csv",
