@@ -1,0 +1,52 @@
+{
+  "name": "Armed forces personnel as a share of the total population (OWID based on World Bank)",
+  "title": "Armed forces personnel as a share of the total population (OWID based on World Bank)",
+  "id": 2755,
+  "description": "This dataset has been constructed by Our World in Data based on two variables.\n\n– Armed forces personnel as published by the  International Institute for Strategic Studies - The Military Balance. This is made available via the World Bank World Development Indicators: http://data.worldbank.org/data-catalog/world-development-indicators\n– The Our World in Data population series. Details on how this is constructed are available here: https://ourworldindata.org/population-sources\n\nArmed forces as a share of total population is then calculated by dividing total armed forces personnel by population and multiplying by 100. \n\nThe input and output files, and script used to calculate this data is available on GitHub here: https://github.com/owid/notebooks/tree/main/HannahRitchie/armed-forces\n\n-----\nArmed forces personnel are active duty military personnel, including paramilitary forces if the training, organization, equipment, and control suggest they may be used to support or replace regular military forces.\n\nLimitations and exceptions: Data excludes personnel not on active duty, therefore it underestimates the share of the labor force working for the defense establishment. The cooperation of governments of all countries listed in “The Military Balance” has been sought by IISS and, in many cases, received. However, some data in “The Military Balance” is estimated.\n\nStatistical concept and methodology: Military data on manpower represent quantitative assessment of the personnel strengths of the world's armed forces. The IISS collects the data from a wide variety of sources. The numbers are based on the most accurate data available to, or on the best estimate that can be made by the International Institute for Strategic Studies (IISS) at the time of its annual publication. The current WDI indicator includes active armed forces and active paramilitary (but not reservists). Armed forces personnel comprise all servicemen and women on full-time duty, including conscripts and long-term assignments from the Reserves (“Reserve” describes formations and units not fully manned or operational in peacetime, but which can be mobilized by recalling reservists in an emergency). The indicator includes paramilitary forces. The source of the data (IISS) reports armed forces and paramilitary forces separately, however these figures are added for the purpose of computing this series. Home Guard units are counted as paramilitary.",
+  "sources": [
+    {
+      "name": "Our World in Data based on the International Institute for Strategic Studies (via the World Bank)",
+      "link": "https://github.com/owid/notebooks/tree/main/HannahRitchie/armed-forces",
+      "additionalInfo": "This dataset has been constructed by Our World in Data based on two variables.\n\n– Armed forces personnel as published by the  International Institute for Strategic Studies - The Military Balance. This is made available via the World Bank World Development Indicators: http://data.worldbank.org/data-catalog/world-development-indicators\n– The Our World in Data population series. Details on how this is constructed are available here: https://ourworldindata.org/population-sources\n\nArmed forces as a share of total population is then calculated by dividing total armed forces personnel by population and multiplying by 100. \n\nThe input and output files, and script used to calculate this data is available on GitHub here: https://github.com/owid/notebooks/tree/main/HannahRitchie/armed-forces\n\n-----\nArmed forces personnel are active duty military personnel, including paramilitary forces if the training, organization, equipment, and control suggest they may be used to support or replace regular military forces.\n\nLimitations and exceptions: Data excludes personnel not on active duty, therefore it underestimates the share of the labor force working for the defense establishment. The cooperation of governments of all countries listed in “The Military Balance” has been sought by IISS and, in many cases, received. However, some data in “The Military Balance” is estimated.\n\nStatistical concept and methodology: Military data on manpower represent quantitative assessment of the personnel strengths of the world's armed forces. The IISS collects the data from a wide variety of sources. The numbers are based on the most accurate data available to, or on the best estimate that can be made by the International Institute for Strategic Studies (IISS) at the time of its annual publication. The current WDI indicator includes active armed forces and active paramilitary (but not reservists). Armed forces personnel comprise all servicemen and women on full-time duty, including conscripts and long-term assignments from the Reserves (“Reserve” describes formations and units not fully manned or operational in peacetime, but which can be mobilized by recalling reservists in an emergency). The indicator includes paramilitary forces. The source of the data (IISS) reports armed forces and paramilitary forces separately, however these figures are added for the purpose of computing this series. Home Guard units are counted as paramilitary.",
+      "dataPublishedBy": "Our World in Data based on the International Institute for Strategic Studies (via the World Bank)"
+    }
+  ],
+  "owidTags": [
+    "Military Spending"
+  ],
+  "resources": [
+    {
+      "path": "Armed forces personnel as a share of the total population (OWID based on World Bank).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Armed forces personnel (IISS via World Bank (2017))",
+            "type": "any",
+            "description": "Armed forces personnel are active duty military personnel, including paramilitary forces if the training, organization, equipment, and control suggest they may be used to support or replace regular military forces.",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Total population (World Bank (2017))",
+            "type": "any",
+            "description": "Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship. The values shown are midyear estimates.",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Armed forces personnel (% of total population) (World Bank (2017))",
+            "type": "any",
+            "description": "Armed forces personnel as a share of the total population has been calculated by dividing armed forces personnel by the total population estimates, then multiplying the ratio by 100.",
+            "owidDisplaySettings": "{\"unit\": \"per 100,000 people\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
