@@ -1,0 +1,39 @@
+{
+  "name": "Nuclear Weapons Tests – Arms Control Association (2020)",
+  "title": "Nuclear Weapons Tests – Arms Control Association (2020)",
+  "id": 5534,
+  "description": "Number of nuclear weapons tests by country.",
+  "sources": [
+    {
+      "name": "Nuclear Weapons Tests – Arms Control Association (2020)",
+      "link": "https://www.armscontrol.org/factsheets/nucleartesttally",
+      "retrievedDate": "February 24, 2022",
+      "additionalInfo": "Number of nuclear weapons tests by country.",
+      "dataPublishedBy": "Arms Control Association"
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "Nuclear Weapons Tests – Arms Control Association (2020).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "nuclear_weapons_tests",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
