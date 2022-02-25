@@ -1,0 +1,40 @@
+{
+  "name": "Global Hunger Index (2021)",
+  "title": "Global Hunger Index (2021)",
+  "id": 5537,
+  "description": "The Global Hunger Index (GHI) is a tool designed to comprehensively measure and track hunger globally, regionally, and by country. To reflect the multidimensional nature of hunger, the GHI combines four component indicators into one index score. An increase in a country's GHI score indicates that the hunger situation is worsening, while a decrease in the score indicates an improvement in the hunger situation.\n\nThe four indicators used to calculate the GHI are:\n\n- Undernourishment: the proportion of undernourished people as a percentage of the population;\n\n- Child wasting: the proportion of children under the age of five who suffer from wasting (low weight for their height, reflecting acute undernutrition);\n\n- Child stunting: the proportion of children under the age of five who suffer from stunting (low height for their age, reflecting chronic undernutrition); and\n\n- Child mortality: the mortality rate of children under the age of five (partially reflecting the fatal synergy of inadequate nutrition and unhealthy environments).\n\nThe formula and weighting of these four indicators in relation to the final index score can be found at: https://www.globalhungerindex.org/pdf/en/2021.pdf\n\nThe 2021 GHI has been calculated for 135 countries for which data on the four component indicators are available and where measuring hunger is considered most relevant. GHI scores are not calculated for some higher-income countries where the prevalence of hunger is very low.\n\nWhere original source data were unavailable, the GHI was estimated based on the most recent data available. For 19 countries, individual scores could not be calculated owing to lack of data. 12 of those countries (Burundi, Comoros, Guinea, Guinea-Bissau, Moldova, Niger, South Sudan, Syria, Tajikistan, Uganda, Zambia, and Zimbabwe) were provisionally designated by severity.\nIn OWID's dataset, the GHI of these 12 countries corresponds to the mid-point of their group in the severity scale.\nFor example, for the 'moderate' group, with GHI between 10 and 20, we assign 15.",
+  "sources": [
+    {
+      "name": "Global Hunger Index (2021)",
+      "link": "https://www.globalhungerindex.org/download/all.html",
+      "retrievedDate": "2022-02-24",
+      "additionalInfo": "The Global Hunger Index (GHI) is a tool designed to comprehensively measure and track hunger globally, regionally, and by country. To reflect the multidimensional nature of hunger, the GHI combines four component indicators into one index score. An increase in a country's GHI score indicates that the hunger situation is worsening, while a decrease in the score indicates an improvement in the hunger situation.\n\nThe four indicators used to calculate the GHI are:\n\n- Undernourishment: the proportion of undernourished people as a percentage of the population;\n\n- Child wasting: the proportion of children under the age of five who suffer from wasting (low weight for their height, reflecting acute undernutrition);\n\n- Child stunting: the proportion of children under the age of five who suffer from stunting (low height for their age, reflecting chronic undernutrition); and\n\n- Child mortality: the mortality rate of children under the age of five (partially reflecting the fatal synergy of inadequate nutrition and unhealthy environments).\n\nThe formula and weighting of these four indicators in relation to the final index score can be found at: https://www.globalhungerindex.org/pdf/en/2021.pdf\n\nThe 2021 GHI has been calculated for 135 countries for which data on the four component indicators are available and where measuring hunger is considered most relevant. GHI scores are not calculated for some higher-income countries where the prevalence of hunger is very low.\n\nWhere original source data were unavailable, the GHI was estimated based on the most recent data available. For 19 countries, individual scores could not be calculated owing to lack of data. 12 of those countries (Burundi, Comoros, Guinea, Guinea-Bissau, Moldova, Niger, South Sudan, Syria, Tajikistan, Uganda, Zambia, and Zimbabwe) were provisionally designated by severity.\nIn OWID's dataset, the GHI of these 12 countries corresponds to the mid-point of their group in the severity scale.\nFor example, for the 'moderate' group, with GHI between 10 and 20, we assign 15.",
+      "dataPublishedBy": "Concern Worldwide and Welthungerhilfe.",
+      "dataPublisherSource": "Various United Nations (UN) and other multilateral agencies, including the Food and Agriculture Organization (FAO); the UN Interagency Group for Child Mortality Estimation (UN IGME); the UN International Children's Emergency Fund (UNICEF); the World Health Organization (WHO); and the World Bank."
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "Global Hunger Index (2021).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Global Hunger Index (2021)",
+            "type": "any",
+            "description": "The Global Hunger Index (GHI) is a tool designed to comprehensively measure and track hunger globally, regionally, and by country. To reflect the multidimensional nature of hunger, the GHI combines four component indicators into one index score. An increase in a country's GHI score indicates that the hunger situation is worsening, while a decrease in the score indicates an improvement in the hunger situation.",
+            "owidDisplaySettings": "{\"name\": \"Global Hunger Index\", \"includeInTable\": true, \"entityAnnotationsMap\": \"Burundi: Value represents the mid-point of its group in the GHI severity scale.\\nComoros: Value represents the mid-point of its group in the GHI severity scale.\\nGuinea: Value represents the mid-point of its group in the GHI severity scale.\\nGuinea-Bissau: Value represents the mid-point of its group in the GHI severity scale.\\nMoldova: Value represents the mid-point of its group in the GHI severity scale.\\nNiger: Value represents the mid-point of its group in the GHI severity scale.\\nSouth Sudan: Value represents the mid-point of its group in the GHI severity scale.\\nSyria: Value represents the mid-point of its group in the GHI severity scale.\\nTajikistan: Value represents the mid-point of its group in the GHI severity scale.\\nUganda: Value represents the mid-point of its group in the GHI severity scale.\\nZambia: Value represents the mid-point of its group in the GHI severity scale.\\nZimbabwe: Value represents the mid-point of its group in the GHI severity scale.\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
