@@ -1,0 +1,51 @@
+{
+  "name": "SIPRI Military Expenditure Database",
+  "title": "SIPRI Military Expenditure Database",
+  "id": 5535,
+  "description": "The SIPRI Military Expenditure Database contains consistent time series on the military spending of countries since 1949. The database is updated annually.\n\nMilitary expenditure figures are adjusted for inflation and expressed in constant (2019) US Dollars.\n\nThe availability of data varies considerably by country, but for a majority of countries that were independent at the time, data is available from at least the late 1950s. Estimates for regional military expenditure have been extended backward depending on the availability of data for countries in the region, but no estimates for total world military expenditure are available before 1988 due to the lack of data for the Soviet Union.\n\nSIPRI military expenditure data is based on open sources only.",
+  "sources": [
+    {
+      "name": "Stockholm International Peace Research Institute",
+      "link": "https://www.sipri.org/databases/milex",
+      "retrievedDate": "24 February 2022",
+      "additionalInfo": "The SIPRI Military Expenditure Database contains consistent time series on the military spending of countries since 1949. The database is updated annually.\n\nMilitary expenditure figures are adjusted for inflation and expressed in constant (2019) US Dollars.\n\nThe availability of data varies considerably by country, but for a majority of countries that were independent at the time, data is available from at least the late 1950s. Estimates for regional military expenditure have been extended backward depending on the availability of data for countries in the region, but no estimates for total world military expenditure are available before 1988 due to the lack of data for the Soviet Union.\n\nSIPRI military expenditure data is based on open sources only.",
+      "dataPublishedBy": "SIPRI Military Expenditure Database, Stockholm International Peace Research Institute (SIPRI)"
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "SIPRI Military Expenditure Database.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "military_expenditure",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Military expenditure\", \"unit\": \"Constant 2019 US Dollars\", \"shortUnit\": \"$\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "military_expenditure_share_gdp",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Military expenditure as a share of GDP\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true, \"numDecimalPlaces\": 2}"
+          },
+          {
+            "name": "military_expenditure_per_capita",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Military expenditure per capita\", \"unit\": \"Constant 2019 US Dollars\", \"shortUnit\": \"$\", \"includeInTable\": true, \"numDecimalPlaces\": 2}"
+          }
+        ]
+      }
+    }
+  ]
+}
