@@ -4,7 +4,11 @@ The UCDP Battle-related Deaths Dataset provides data on direct deaths arising fr
 
 The data is organised by year and 'dyad' (a pairing of participants who are the opposing combatants in a conflict). 
 
-We aggregate this to provide total numbers of deaths each year, broken down by the conflict type and region. Note that in this dataset the location refers not (necessarily) to where fighting and deaths took place, but rather to the location of the 'incompatibility' between the participants that defines the conflict: usually the country or territory whose possession or governance is in dispute.
+We aggregate this to provide total numbers of deaths each year, broken down by the conflict type and region. 
+
+The labels for the conflict types we have used paraphrase UCDP/PRIO's technical definitions of 'Extrasystemic', 'Internal', 'Internationalised internal' and 'Interstate'.
+
+Note that in this dataset the location refers not (necessarily) to where fighting and deaths took place, but rather to the location of the 'incompatibility' between the participants that defines the conflict: usually the country or territory whose possession or governance is in dispute.
 
 To extend the data back further in time we rely on the PRIO Battledeaths Datset, produced according to the same definitions and structure as the UCDP Battle-related Deaths Dataset. The PRIO data runs from 1946 to 2008 and is no longer maintained. We aggregated the PRIO data in the same way as the UCDP data, and then constructed a final joint series which consists of the PRIO data from 1946 to 1988 and the UCDP data from 1989 onwards.
 
