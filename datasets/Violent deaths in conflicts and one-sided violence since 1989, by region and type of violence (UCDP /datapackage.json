@@ -1,0 +1,84 @@
+{
+  "name": "Violent deaths in conflicts and one-sided violence since 1989, by region and type of violence (UCDP 2022)",
+  "title": "Violent deaths in conflicts and one-sided violence since 1989, by region and type of violence (UCDP 2022)",
+  "id": 5540,
+  "description": "This data counts civilian and military deaths in conflicts and one-sided violence. The data counts only direct violent deaths (i.e. excluding deaths from disease or famine).\n\nIt is based on the UCDP Georeferenced Event Dataset (GED) Global version 21.1. This presents deaths estimates for individual events. We aggregate deaths across years, broken down by conflict/violence type and by region.\n\n\n\n ",
+  "sources": [
+    {
+      "name": "UCDP",
+      "link": "https://ucdp.uu.se/downloads/index.html#ged_global",
+      "retrievedDate": "25/02/2022",
+      "additionalInfo": "This data counts civilian and military deaths in conflicts and one-sided violence. The data counts only direct violent deaths (i.e. excluding deaths from disease or famine).\n\nIt is based on the UCDP Georeferenced Event Dataset (GED) Global version 21.1. This presents deaths estimates for individual events. We aggregate deaths across years, broken down by conflict/violence type and by region.\n\n\n\n ",
+      "dataPublishedBy": "Sundberg, Ralph, and Erik Melander, 2013, “Introducing the UCDP Georeferenced Event Dataset”, Journal of Peace Research, vol.50, no.4, 523-532",
+      "dataPublisherSource": "Global newswire reporting; Global monitoring and translation of local news performed by the BBC; Secondary sources such as local media, NGO and IGO reports, field reports, books etc."
+    }
+  ],
+  "owidTags": [
+    "War and Peace"
+  ],
+  "resources": [
+    {
+      "path": "Violent deaths in conflicts and one-sided violence since 1989, by region and type of violence (UCDP 2022).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Deaths in state-based conflict",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths in non-state conflict",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths in one-sided violence",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths in all types of conflict",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths in state-based conflict per 100,000",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths in non-state conflict per 100,000",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths in one-sided violence per 100,000",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths in all types of conflict per 100,000",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
