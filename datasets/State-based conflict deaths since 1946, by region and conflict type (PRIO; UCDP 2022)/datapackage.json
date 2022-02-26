@@ -1,0 +1,64 @@
+{
+  "name": "State-based conflict deaths since 1946, by region and conflict type (PRIO; UCDP 2022)",
+  "title": "State-based conflict deaths since 1946, by region and conflict type (PRIO; UCDP 2022)",
+  "id": 5539,
+  "description": "The UCDP Battle-related Deaths Dataset provides data on direct deaths arising from conflicts that resulted in more than 25 deaths and involved the government of a state on at least one side. Both civilian and military deaths are included. Deaths due to disease or famine caused by conflict, as well as extra-judicial killings in custody, are excluded. This dataset begins in 1989 and aims to have global coverage.\n\nThe data is organised by year and 'dyad' (a pairing of participants who are the opposing combatants in a conflict). \n\nWe aggregate this to provide total numbers of deaths each year, broken down by the conflict type and region. Note that in this dataset the region refers not (necessarily) to where fighting and deaths took place, but rather to the location of the 'incompatibility' between the participants that defines the conflict: usually the country or territory whose possession or governance is in dispute.\n\nTo extend the data back further in time we rely on the PRIO Battledeaths Datset, produced according to the same definitions and structure as the UCDP Battle-related Deaths Dataset. The PRIO data runs from 1946 to 2008 and is no longer maintained. We aggregated the PRIO data in the same way as the UCDP data, and then constructed a final joint series which consists of the PRIO data from 1946 to 1988 and the UCDP data from 1989 onwards.\n\n\n",
+  "sources": [
+    {
+      "name": "OWID based on PRIO and UCDP",
+      "link": "https://www.prio.org/data/1; https://ucdp.uu.se/downloads/index.html#battlerelated",
+      "retrievedDate": "25/02/2022",
+      "additionalInfo": "The UCDP Battle-related Deaths Dataset provides data on direct deaths arising from conflicts that resulted in more than 25 deaths and involved the government of a state on at least one side. Both civilian and military deaths are included. Deaths due to disease or famine caused by conflict, as well as extra-judicial killings in custody, are excluded. This dataset begins in 1989 and aims to have global coverage.\n\nThe data is organised by year and 'dyad' (a pairing of participants who are the opposing combatants in a conflict). \n\nWe aggregate this to provide total numbers of deaths each year, broken down by the conflict type and region. Note that in this dataset the region refers not (necessarily) to where fighting and deaths took place, but rather to the location of the 'incompatibility' between the participants that defines the conflict: usually the country or territory whose possession or governance is in dispute.\n\nTo extend the data back further in time we rely on the PRIO Battledeaths Datset, produced according to the same definitions and structure as the UCDP Battle-related Deaths Dataset. The PRIO data runs from 1946 to 2008 and is no longer maintained. We aggregated the PRIO data in the same way as the UCDP data, and then constructed a final joint series which consists of the PRIO data from 1946 to 1988 and the UCDP data from 1989 onwards.\n\n\n",
+      "dataPublishedBy": "Pettersson, Therese, Shawn Davis, Amber Deniz, Garoun Engström, Nanar Hawach, Stina Högbladh, Margareta Sollenberg & Magnus Öberg (2021). Organized violence 1989-2020, with a special emphasis on Syria. Journal of Peace Research 58(4).; Bethany Lacina & and Nils Petter Gleditsch, 2005. „Monitoring Trends in Global Combat: A New Dataset of Battle Deaths‟, European Journal of Population 21(2–3): 145–116. ",
+      "dataPublisherSource": "Global newswire reporting; Global monitoring and translation of local news performed by the BBC; Secondary sources such as local media, NGO and IGO reports, field reports, books etc."
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "State-based conflict deaths since 1946, by region and conflict type (PRIO; UCDP 2022).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Deaths in civil conflicts",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths in colonial or imperial conflicts",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths in civil conflicts with foreign state intervention",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths in conflicts between states",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths in all state-based conflict types",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
