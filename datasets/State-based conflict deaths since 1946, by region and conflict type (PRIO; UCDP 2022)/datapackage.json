@@ -13,7 +13,9 @@
       "dataPublisherSource": "Global newswire reporting; Global monitoring and translation of local news performed by the BBC; Secondary sources such as local media, NGO and IGO reports, field reports, books etc."
     }
   ],
-  "owidTags": [],
+  "owidTags": [
+    "War and Peace"
+  ],
   "resources": [
     {
       "path": "State-based conflict deaths since 1946, by region and conflict type (PRIO; UCDP 2022).csv",
@@ -53,6 +55,36 @@
           },
           {
             "name": "Deaths in all state-based conflict types",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths in colonial or imperial conflicts per 100,000",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths in conflicts between states per 100,000",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths in civil conflicts per 100,000",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths in civil conflicts with foreign state intervention per 100,000",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Deaths in all state-based conflict types per 100,000",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
