@@ -2,13 +2,13 @@
   "name": "Nuclear warhead stockpiles – Federation of American Scientists (2022)",
   "title": "Nuclear warhead stockpiles – Federation of American Scientists (2022)",
   "id": 5543,
-  "description": "This dataset provides information on the number of nuclear warhead stockpiles by the nuclear powers, using data from the Federation of American Scientists (2022), prepared by Hans M. Kristensen, Matt Korda, and Robert Norris.",
+  "description": "This dataset provides information on the number of stockpiled nuclear warheads by the nuclear powers, using data from the Federation of American Scientists (2022), prepared by Hans M. Kristensen, Matt Korda, and Robert Norris.",
   "sources": [
     {
       "name": "Federation of American Scientists (2022)",
       "link": "https://fas.org/issues/nuclear-weapons/status-world-nuclear-forces/",
       "retrievedDate": "February 25, 2022",
-      "additionalInfo": "This dataset provides information on the number of nuclear warhead stockpiles by the nuclear powers, using data from the Federation of American Scientists (2022), prepared by Hans M. Kristensen, Matt Korda, and Robert Norris.",
+      "additionalInfo": "This dataset provides information on the number of stockpiled nuclear warheads by the nuclear powers, using data from the Federation of American Scientists (2022), prepared by Hans M. Kristensen, Matt Korda, and Robert Norris.",
       "dataPublishedBy": "Hans M. Kristensen, Matt Korda, and Robert Norris."
     }
   ],
