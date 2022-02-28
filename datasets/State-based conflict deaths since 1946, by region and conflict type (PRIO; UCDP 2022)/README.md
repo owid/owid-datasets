@@ -1,10 +1,11 @@
 # State-based conflict deaths since 1946, by region and conflict type (PRIO; UCDP 2022)
 
-The UCDP Battle-related Deaths Dataset provides data on direct deaths arising from conflicts that resulted in more than 25 deaths and involved the government of a state on at least one side. Both civilian and military deaths are included. Deaths due to disease or famine caused by conflict, as well as extra-judicial killings in custody, are excluded. This dataset begins in 1989 and aims to have global coverage.
+The UCDP Battle-related Deaths Dataset provides data on direct deaths arising from 'state-based' conflicts.  UCDP defines state-based armed conflict as: “a contested incompatibility that concerns government and/or territory where the use of armed force between two parties, of which at least one is the government of a state, results in at least 25 battle-related deaths in a calendar year.”
 
-The data is organised by year and 'dyad' (a pairing of participants who are the opposing combatants in a conflict). 
+Both civilian and military deaths are included. Deaths due to disease or famine caused by conflict, as well as extra-judicial killings in custody, are excluded.
 
-We aggregate this to provide total numbers of deaths each year, broken down by the conflict type and region. 
+The data is organised by year and conflict. We aggregate this to provide total numbers of deaths each year, broken down by the conflict type and region. 
+This dataset runs from 1989 and aims to have global coverage over this period. Accordingly, we add a zero deaths observation for year-region-conflict type combinations that do appear in the dataset.
 
 The labels for the conflict types we have used paraphrase UCDP/PRIO's technical definitions of 'Extrasystemic', 'Internal', 'Internationalised internal' and 'Interstate'.
 
