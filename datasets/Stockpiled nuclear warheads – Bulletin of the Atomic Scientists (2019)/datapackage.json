@@ -1,0 +1,39 @@
+{
+  "name": "Stockpiled nuclear warheads – Bulletin of the Atomic Scientists (2019)",
+  "title": "Stockpiled nuclear warheads – Bulletin of the Atomic Scientists (2019)",
+  "id": 123,
+  "description": "This dataset provides information on the number of stockpiled nuclear warheads by the nuclear powers, using data from the Bulletin of the Atomic Scientists' (2019) Nuclear Notebook, prepared by Hans M. Kristensen and Robert S. Norris.",
+  "sources": [
+    {
+      "name": "Bulletin of the Atomic Scientists' Nuclear Notebook",
+      "link": "https://thebulletin.org/nuclear-notebook/",
+      "additionalInfo": "This dataset provides information on the number of stockpiled nuclear warheads by the nuclear powers, using data from the Bulletin of the Atomic Scientists' (2019) Nuclear Notebook, prepared by Hans M. Kristensen and Robert S. Norris."
+    }
+  ],
+  "owidTags": [
+    "Nuclear Weapons"
+  ],
+  "resources": [
+    {
+      "path": "Stockpiled nuclear warheads – Bulletin of the Atomic Scientists (2019).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Stockpiled nuclear warheads",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{\"unit\": \"years\", \"includeInTable\": true}"
+          }
+        ]
+      }
+    }
+  ]
+}
