@@ -1,6 +1,6 @@
 {
-  "name": "Nuclear warhead stockpiles – Bulletin of the Atomic Scientists (2019)",
-  "title": "Nuclear warhead stockpiles – Bulletin of the Atomic Scientists (2019)",
+  "name": "Nuclear warhead stockpiles – Bulletin of the Atomic Scientists",
+  "title": "Nuclear warhead stockpiles – Bulletin of the Atomic Scientists",
   "id": 123,
   "description": "This dataset provides information on the number of stockpiled nuclear warheads by the nuclear powers, using data from the Bulletin of the Atomic Scientists' (2019) Nuclear Notebook, prepared by Hans M. Kristensen and Robert Norris.",
   "sources": [
@@ -16,7 +16,7 @@
   ],
   "resources": [
     {
-      "path": "Nuclear warhead stockpiles – Bulletin of the Atomic Scientists (2019).csv",
+      "path": "Nuclear warhead stockpiles – Bulletin of the Atomic Scientists.csv",
       "schema": {
         "fields": [
           {
