@@ -1,4 +1,4 @@
-# Regime populations - OWID based on Lührmann et al. (2018), V-Dem (12), OWID (2021), Gapminder (v6), HYDE (v3.2), and UN (2019)
+# Regime populations - OWID based on Lührmann et al. (2018), V-Dem (v12), OWID (2021), Gapminder (v6), HYDE (v3.2), and UN (2019)
 
 This dataset provides information on the size of populations living under different political systems.
 
