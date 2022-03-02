@@ -1,22 +1,22 @@
 {
-  "name": "Regime numbers - OWID based on Boix et al. (2013), Lührmann et al. (2018), V-Dem (11.1), OWID (2021)",
-  "title": "Regime numbers - OWID based on Boix et al. (2013), Lührmann et al. (2018), V-Dem (11.1), OWID (2021)",
+  "name": "Regime numbers - OWID based on Boix et al. (2013), Lührmann et al. (2018), V-Dem (v12), OWID (2021)",
+  "title": "Regime numbers - OWID based on Boix et al. (2013), Lührmann et al. (2018), V-Dem (v12), OWID (2021)",
   "id": 5461,
-  "description": "This dataset provides information on the number of countries having different political systems.\n\nPolitical regimes are identified using either Boix et al. (2013), or the Regimes of the World classification from Lührmann et al. (2018) using data from the Varieties of Democracy Project (v11.1), and expanding the data and refining the classification ourselves.\n\nThe classification by Boix et al. (2013) distinguishes between democracies and non-democracies.\n\nThe Regimes of the World classification distinguishes between closed autocracies, electoral autocracies, electoral democracies, and liberal democracies. You can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
+  "description": "This dataset provides information on the number of countries having different political systems.\n\nPolitical regimes are identified using either Boix et al. (2013), or the Regimes of the World classification from Lührmann et al. (2018) using data from the Varieties of Democracy Project (v12), and expanding the data and refining the classification ourselves.\n\nThe classification by Boix et al. (2013) distinguishes between democracies and non-democracies.\n\nThe Regimes of the World classification distinguishes between closed autocracies, electoral autocracies, electoral democracies, and liberal democracies. You can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
   "sources": [
     {
-      "name": "OWID based on Boix et al. (2013), Lührmann et al. (2018), V-Dem (v11.1)",
-      "link": "https://sites.google.com/site/mkmtwo/data?authuser=0; https://www.v-dem.net/en/data/data/v-dem-dataset-v111/",
-      "retrievedDate": "February 9, 2022; March 29, 2021",
-      "additionalInfo": "This dataset provides information on the number of countries having different political systems.\n\nPolitical regimes are identified using either Boix et al. (2013), or the Regimes of the World classification from Lührmann et al. (2018) using data from the Varieties of Democracy Project (v11.1), and expanding the data and refining the classification ourselves.\n\nThe classification by Boix et al. (2013) distinguishes between democracies and non-democracies.\n\nThe Regimes of the World classification distinguishes between closed autocracies, electoral autocracies, electoral democracies, and liberal democracies. You can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
+      "name": "OWID based on Boix et al. (2013), Lührmann et al. (2018), V-Dem (v12)",
+      "link": "https://sites.google.com/site/mkmtwo/data?authuser=0; http://v-dem.net/vdemds.html",
+      "retrievedDate": "February 9, 2022; March 2, 2022",
+      "additionalInfo": "This dataset provides information on the number of countries having different political systems.\n\nPolitical regimes are identified using either Boix et al. (2013), or the Regimes of the World classification from Lührmann et al. (2018) using data from the Varieties of Democracy Project (v12), and expanding the data and refining the classification ourselves.\n\nThe classification by Boix et al. (2013) distinguishes between democracies and non-democracies.\n\nThe Regimes of the World classification distinguishes between closed autocracies, electoral autocracies, electoral democracies, and liberal democracies. You can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
       "dataPublishedBy": "Our World in Data, Bastian Herre",
-      "dataPublisherSource": "Data on regimes comes from Boix et al. (2013), the Varieties of Democracy project (v11.1), using Lührmann et al's (2018) classification, and own expansions and refinements."
+      "dataPublisherSource": "Data on regimes comes from Boix et al. (2013), the Varieties of Democracy project (v12), using Lührmann et al's (2018) classification, and own expansions and refinements."
     }
   ],
   "owidTags": [],
   "resources": [
     {
-      "path": "Regime numbers - OWID based on Boix et al. (2013), Lührmann et al. (2018), V-Dem (11.1), OWID (2021).csv",
+      "path": "Regime numbers - OWID based on Boix et al. (2013), Lührmann et al. (2018), V-Dem (v12), OWID (2021).csv",
       "schema": {
         "fields": [
           {
