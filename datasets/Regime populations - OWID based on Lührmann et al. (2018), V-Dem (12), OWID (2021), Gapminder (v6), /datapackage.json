@@ -1,16 +1,16 @@
 {
-  "name": "Regime populations - OWID based on Lührmann et al. (2018), V-Dem (11.1), OWID (2021), Gapminder (v6), HYDE (v3.2), and UN (2019)",
-  "title": "Regime populations - OWID based on Lührmann et al. (2018), V-Dem (11.1), OWID (2021), Gapminder (v6), HYDE (v3.2), and UN (2019)",
+  "name": "Regime populations - OWID based on Lührmann et al. (2018), V-Dem (12), OWID (2021), Gapminder (v6), HYDE (v3.2), and UN (2019)",
+  "title": "Regime populations - OWID based on Lührmann et al. (2018), V-Dem (12), OWID (2021), Gapminder (v6), HYDE (v3.2), and UN (2019)",
   "id": 5427,
-  "description": "This dataset provides information on the size of populations living under different political systems.\n\nPopulation data comes from our own calculations based on Gapminder (v6), HYDE (v3.2), and UN (2019).\n\nPolitical regimes are identified using the Regimes of the World classification from Lührmann et al. (2018), data from the Varieties of Democracy Project (v11.1), and expanding the data and refining the classification ourselves.\n\nThe classification distinguishes between closed autocracies, electoral autocracies, electoral democracies, and liberal democracies.",
+  "description": "This dataset provides information on the size of populations living under different political systems.\n\nPopulation data comes from our own calculations based on Gapminder (v6), HYDE (v3.2), and UN (2019).\n\nPolitical regimes are identified using the Regimes of the World classification from Lührmann et al. (2018), data from the Varieties of Democracy Project (v12), and expanding the data and refining the classification ourselves.\n\nThe classification distinguishes between closed autocracies, electoral autocracies, electoral democracies, and liberal democracies.",
   "sources": [
     {
-      "name": "OWID based on Lührmann et al. (2018), V-Dem (v11.1), Gapminder (v6), HYDE (v3.2), and UN (2019)",
-      "link": "https://www.v-dem.net/en/data/data/v-dem-dataset-v111/; https://ourworldindata.org/grapher/population",
-      "retrievedDate": "March 29, 2021",
-      "additionalInfo": "This dataset provides information on the size of populations living under different political systems.\n\nPopulation data comes from our own calculations based on Gapminder (v6), HYDE (v3.2), and UN (2019).\n\nPolitical regimes are identified using the Regimes of the World classification from Lührmann et al. (2018), data from the Varieties of Democracy Project (v11.1), and expanding the data and refining the classification ourselves.\n\nThe classification distinguishes between closed autocracies, electoral autocracies, electoral democracies, and liberal democracies.",
+      "name": "OWID based on Lührmann et al. (2018), V-Dem (v12), Gapminder (v6), HYDE (v3.2), and UN (2019)",
+      "link": "http://v-dem.net/vdemds.html; https://ourworldindata.org/grapher/population",
+      "retrievedDate": "March 2, 2022",
+      "additionalInfo": "This dataset provides information on the size of populations living under different political systems.\n\nPopulation data comes from our own calculations based on Gapminder (v6), HYDE (v3.2), and UN (2019).\n\nPolitical regimes are identified using the Regimes of the World classification from Lührmann et al. (2018), data from the Varieties of Democracy Project (v12), and expanding the data and refining the classification ourselves.\n\nThe classification distinguishes between closed autocracies, electoral autocracies, electoral democracies, and liberal democracies.",
       "dataPublishedBy": "Our World in Data, Bastian Herre",
-      "dataPublisherSource": "Data on regimes comes from the Varieties of Democracy project (v11.1), using Lührmann et al's (2018) classification, and own expansions and refinements; population data comes from our own calculations based on Gapminder (v6), HYDE (v3.2), and UN (2019)."
+      "dataPublisherSource": "Data on regimes comes from the Varieties of Democracy project (v12), using Lührmann et al's (2018) classification, and own expansions and refinements; population data comes from our own calculations based on Gapminder (v6), HYDE (v3.2), and UN (2019)."
     }
   ],
   "owidTags": [
@@ -18,7 +18,7 @@
   ],
   "resources": [
     {
-      "path": "Regime populations - OWID based on Lührmann et al. (2018), V-Dem (11.1), OWID (2021), Gapminder (v6), HYDE (v3.2), and UN (2019).csv",
+      "path": "Regime populations - OWID based on Lührmann et al. (2018), V-Dem (12), OWID (2021), Gapminder (v6), HYDE (v3.2), and UN (2019).csv",
       "schema": {
         "fields": [
           {
