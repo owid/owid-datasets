@@ -28,115 +28,115 @@
             "type": "year"
           },
           {
-            "name": "Number of electoral democracies aged 1-18 years (Regimes of the World)",
+            "name": "number_electdem_18_row_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"1-18 years\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of electoral democracies aged 19-30 years (Regimes of the World)",
+            "name": "number_electdem_30_row_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"19-30 years\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of electoral democracies aged 31-60 years (Regimes of the World)",
+            "name": "number_electdem_60_row_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"31-60 years\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of electoral democracies aged 61-90 years (Regimes of the World)",
+            "name": "number_electdem_90_row_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"61-90 years\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of electoral democracies aged 91 years or older (Regimes of the World)",
+            "name": "number_electdem_91plus_row_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"91 years +\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of liberal democracies aged 1-18 years (Regimes of the World)",
+            "name": "number_libdem_18_row_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"1-18 years\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of liberal democracies aged 19-30 years (Regimes of the World)",
+            "name": "number_libdem_30_row_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"19-30 years\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of liberal democracies aged 31-60 years (Regimes of the World)",
+            "name": "number_libdem_60_row_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"31-60 years\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of liberal democracies aged 61-90 years (Regimes of the World)",
+            "name": "number_libdem_90_row_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"61-90 years\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of liberal democracies aged 91 years or older (Regimes of the World)",
+            "name": "number_libdem_91plus_row_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"91 years or older\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of closed autocracies (Regimes of the World)",
+            "name": "number_closedaut_row_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Number of electoral autocracies (Regimes of the World)",
+            "name": "number_electaut_row_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Number of electoral democracies (Regimes of the World)",
+            "name": "number_electdem_row_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Number of non-democracies (Boix et al. 2013)",
+            "name": "number_nondem_bmr_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Number of electoral democracies aged 1-18 years (Boix et al. 2013)",
+            "name": "number_electdem_18_bmr_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Number of electoral democracies aged 19-30 years (Boix et al. 2013)",
+            "name": "number_electdem_30_bmr_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Number of electoral democracies aged 31-60 years (Boix et al. 2013)",
+            "name": "number_electdem_60_bmr_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Number of electoral democracies aged 61-90 years (Boix et al. 2013)",
+            "name": "number_electdem_90_bmr_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Number of electoral democracies aged 91 years and older (Boix et al. 2013)",
+            "name": "number_electdem_91plus_bmr_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
