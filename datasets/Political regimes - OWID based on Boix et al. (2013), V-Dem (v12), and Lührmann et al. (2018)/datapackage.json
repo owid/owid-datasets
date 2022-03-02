@@ -36,13 +36,13 @@
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Was V-Dem regime information imputed from another country",
+            "name": "regime_imputed_vdem_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Country from which V-Dem regime information was imputed",
+            "name": "regime_imputed_country_vdem_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
@@ -54,91 +54,91 @@
             "owidDisplaySettings": "{\"shortUnit\": \"years\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Age of liberal democracy (Lührmann et al. 2018, V-Dem v11.1)",
+            "name": "libdem_age_row_owid",
             "type": "any",
             "description": "The identification of liberal democracies is based on the Regimes of the World classification by Lührmann et al. (2018).\n\nIn electoral democracies, citizens have the right to participate in meaningful, free and fair, and multi-party elections.\n\nIn liberal democracies, citizens have further individual and minority rights, are equal before the law, and the actions of the executive are constrained by the legislative and the courts.",
             "owidDisplaySettings": "{\"shortUnit\": \"years\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Electoral democracy, central estimate",
+            "name": "electdem_vdem_owid",
             "type": "any",
             "description": "The variable denotes the best estimate of the extent to which political leaders are elected under comprehensive suffrage in free and fair elections, and freedoms of association and expression are guaranteed. \n\nIt is based on the V-Dem variable v2x_polyarchy, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most democratic).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Electoral democracy, lower bound",
+            "name": "electdem_vdem_owid_low",
             "type": "any",
             "description": "The variable denotes the lower-bound estimate of the extent to which political leaders are elected under comprehensive suffrage in free and fair elections, and freedoms of association and expression are guaranteed. \n\nIt is based on the V-Dem variable v2x_polyarchy_codelow, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most democratic).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Electoral democracy, upper bound",
+            "name": "electdem_vdem_owid_high",
             "type": "any",
             "description": "The variable denotes the upper-bound estimate of the extent to which political leaders are elected under comprehensive suffrage in free and fair elections, and freedoms of association and expression are guaranteed. \n\nIt is based on the V-Dem variable v2x_polyarchy_codehigh, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most democratic).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Free and fair elections, central estimate",
+            "name": "electfreefair_vdem_owid",
             "type": "any",
             "description": "The variable denotes the best estimate of the extent to which registration fraud, systematic irregularities, government intimidation of the opposition, vote buying, and election violence are absent, and the election management body is autonomous and has enough staff and resources.\n\nThe variables ranges from 0 to 1 (most free and fair).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Free and fair elections, lower bound",
+            "name": "electfreefair_vdem_owid_low",
             "type": "any",
             "description": "The variable denotes the lower-bound estimate of the extent to which registration fraud, systematic irregularities, government intimidation of the opposition, vote buying, and election violence are absent, and the election management body is autonomous and has enough staff and resources.\n\nThe variables ranges from 0 to 1 (most free and fair).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Free and fair elections, upper bound",
+            "name": "electfreefair_vdem_owid_high",
             "type": "any",
             "description": "The variable denotes the upper-bound estimate of the extent to which registration fraud, systematic irregularities, government intimidation of the opposition, vote buying, and election violence are absent, and the election management body is autonomous and has enough staff and resources.\n\nThe variables ranges from 0 to 1 (most free and fair).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Suffrage",
+            "name": "suffr_vdem_owid",
             "type": "any",
             "description": "The variable denotes the share of adult citizens which have the legal right to vote in national elections.\n\nUniversal suffrage is coded as 100%, and universal male suffrage as 50%.\n\nThe variable captures legal restrictions, and not restrictions that may be in place in practice. It considers restrictions based on gender, property, tax payments, income, literacy, region, race, ethnicity, religion, and economic independence; it does not consider restrictions based on age, residence, conviction of a crime, or legal incompetence.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Elected officials",
+            "name": "electoff_vdem_owid",
             "type": "any",
             "description": "The variable measures the extent to which the legislature is chosen through popular elections, and the chief executive is elected directly or indirectly (appointed by a popularly elected legislature).\n\nA popular election can still mean that suffrage is limited and there is no competition for these offices.\n\nThe variable is based on the V-Dem variable v2x_elecoff, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (chief executive and legislature fully elected).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Freedom of expression and alternative sources of information, central estimate",
+            "name": "freeexpr_vdem_owid",
             "type": "any",
             "description": "The variable denotes the best estimate of the extent to which citizens can discuss political matters at home and in the public sphere, the press and media are free and present different political perspectives, and the freedom of academic and cultural expression.\n\nThe variables ranges from 0 to 1 (most free).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Freedom of expression and alternative sources of information, lower bound",
+            "name": "freeexpr_vdem_owid_low",
             "type": "any",
             "description": "The variable denotes the lower-bound estimate of the extent to which citizens can discuss political matters at home and in the public sphere, the press and media are free and present different political perspectives, and the freedom of academic and cultural expression.\n\nThe variables ranges from 0 to 1 (most free).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Freedom of expression and alternative sources of information, upper bound",
+            "name": "freeexpr_vdem_owid_high",
             "type": "any",
             "description": "The variable denotes the upper-bound estimate of the extent to which citizens can discuss political matters at home and in the public sphere, the press and media are free and present different political perspectives, and the freedom of academic and cultural expression.\n\nThe variables ranges from 0 to 1 (most free).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Freedom of association, central estimate",
+            "name": "freeassoc_vdem_owid",
             "type": "any",
             "description": "The variable denotes the best estimate of the extent to which parties, including opposition parties, are allowed to form and participate in elections, and the extent to which civil society organizations are allowed to form and operate freely.\n\nThe variables ranges from 0 to 1 (most free).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Freedom of association, lower bound",
+            "name": "freeassoc_vdem_owid_low",
             "type": "any",
             "description": "The variable denotes the lower-bound estimate of the extent to which parties, including opposition parties, are allowed to form and participate in elections, and the extent to which civil society organizations are allowed to form and operate freely.\n\nThe variables ranges from 0 to 1 (most free).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Freedom of association, upper bound",
+            "name": "freeassoc_vdem_owid_high",
             "type": "any",
             "description": "The variable denotes the upper-bound estimate of the extent to which parties, including opposition parties, are allowed to form and participate in elections, and the extent to which civil society organizations are allowed to form and operate freely.\n\nThe variables ranges from 0 to 1 (most free).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
@@ -150,43 +150,43 @@
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Age group of liberal democracy (Lührmann et al. 2018, V-Dem v11.1)",
+            "name": "libdem_age_group_row_owid",
             "type": "any",
             "description": "The identification of liberal democracies is based on the Regimes of the World classification by Lührmann et al. (2018).\n\nIn electoral democracies, citizens have the right to participate in meaningful, free and fair, and multi-party elections.\n\nIn liberal democracies, citizens have further individual and minority rights, are equal before the law, and the actions of the executive are constrained by the legislative and the courts.\n\nThe variable distinguishes between liberal democracies aged 1-18 years (score of 1), 19-30 years (score of 2), 31-60 years (score of 3), 61-90 years (score of 4), and 91+ years (score of 5).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Political regime (Boix et al. 2013)",
+            "name": "regime_bmr_owid",
             "type": "any",
             "description": "The variable identifies the political regime of a country using the classification by political scientists Carles Boix, Michael Miller, and Sebastian Rosato. It distinguishes between (electoral) democracies (score 1) and non-democracies (score 0).\n\nDemocracies are political systems in which political leaders are elected under broad suffrage in free and fair elections.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Political regime (Boix et al. 2013, with women's suffrage)",
+            "name": "regime_womsuffr_bmr_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Age of electoral democracy (Boix et al. 2013)",
+            "name": "electdem_age_bmr_owid",
             "type": "any",
             "description": "The identification of electoral democracies is based on the classification by Boix et al. (2013).\n\nIn electoral democracies, political leaders are elected under broad suffrage in free and fair elections.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Age group of electoral democracy (Boix et al. 2013)",
+            "name": "electdem_age_group_bmr_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Was Boix et al. (2013) regime information imputed from another country",
+            "name": "regime_imputed_bmr_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Country from which Boix et al. (2013) regime information was imputed",
+            "name": "regime_imputed_country_bmr_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
@@ -204,34 +204,52 @@
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Experience with electoral democracy (Regimes of the World, OWID)",
+            "name": "electdem_exp_row_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Experience with liberal democracy (Regimes of the World, OWID)",
+            "name": "libdem_exp_row_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Country includes information from Boix et al. (2013)",
+            "name": "bmr_country",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Observation includes information from Boix et al. (2013)",
+            "name": "bmr_obs",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "Experience with electoral democracy (BMR, OWID)",
+            "name": "electdem_exp_bmr_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "libdem_vdem_owid",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "libdem_vdem_owid_low",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "libdem_vdem_owid_high",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
           }
         ]
       }
