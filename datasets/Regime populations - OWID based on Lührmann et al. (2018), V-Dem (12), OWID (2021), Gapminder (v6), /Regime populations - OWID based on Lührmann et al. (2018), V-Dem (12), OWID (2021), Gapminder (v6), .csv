@@ -1,4 +1,4 @@
-Entity,Year,People living in closed autocracies,People living in electoral autocracies,People living in electoral democracies,People living in liberal democracies,People living in countries with missing regime data
+Entity,Year,population_closed_aut,population_electoral_aut,population_electoral_dem,population_liberal_dem,People living in countries with missing regime data
 World,1800,805811988,22000000,0,0,156929163
 World,1801,809728760,22309844,0,0,155589718
 World,1802,812600666,22624318,0,0,155873754
