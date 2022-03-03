@@ -5,12 +5,12 @@
   "description": "For those years with estimates from more than one poll, the reported figure corresponds to the average for that year.",
   "sources": [
     {
-      "name": "Pew Research Center (2022)",
+      "name": "Pew Research Center",
       "link": "https://www.pewresearch.org/politics/2021/05/17/public-trust-in-government-1958-2021/",
-      "retrievedDate": "March 3, 2022",
+      "retrievedDate": "27/07/2016",
       "additionalInfo": "For those years with estimates from more than one poll, the reported figure corresponds to the average for that year.",
       "dataPublishedBy": "Pew Research Center",
-      "dataPublisherSource": "Data from various polls"
+      "dataPublisherSource": "Polls conducted by ABC/POST, CBS/NYT, CNN, GALLUP, NES, PEW"
     }
   ],
   "owidTags": [
