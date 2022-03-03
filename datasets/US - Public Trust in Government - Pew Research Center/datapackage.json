@@ -2,12 +2,13 @@
   "name": "US - Public Trust in Government - Pew Research Center",
   "title": "US - Public Trust in Government - Pew Research Center",
   "id": 271,
-  "description": "",
+  "description": "For those years with estimates from more than one poll, the reported figure corresponds to the average for that year.",
   "sources": [
     {
       "name": "Pew Research Center",
       "link": "https://www.pewresearch.org/politics/2021/05/17/public-trust-in-government-1958-2021/",
       "retrievedDate": "27/07/2016",
+      "additionalInfo": "For those years with estimates from more than one poll, the reported figure corresponds to the average for that year.",
       "dataPublishedBy": "Pew Research Center",
       "dataPublisherSource": "Data from various polls"
     }
@@ -29,10 +30,10 @@
             "type": "year"
           },
           {
-            "name": "Trust in government (Pew Research Centre (2017))",
+            "name": "public_trust_government",
             "type": "any",
-            "description": "Percentage who trust the government in Washington always or most of the time. ",
-            "owidDisplaySettings": "{}"
+            "description": "Percentage who trust the government in Washington always or most of the time.",
+            "owidDisplaySettings": "{\"name\": \"Public trust in government\", \"zeroDay\": \"2000-01-01\", \"yearIsDay\": true, \"includeInTable\": true}"
           }
         ]
       }
