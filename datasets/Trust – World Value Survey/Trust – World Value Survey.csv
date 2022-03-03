@@ -50,8 +50,8 @@ Colombia,2014,4.12783
 Croatia,1998,22.82609
 Cyprus,2009,12.82546
 Cyprus,2014,9.02708
-Czech Republic,1993,30.22752
-Czech Republic,1998,28.5192
+Czechia,1993,30.22752
+Czechia,1998,28.5192
 Dominican Republic,1998,25.17986
 Ecuador,2014,7.1607
 Egypt,2004,37.46667
@@ -110,8 +110,6 @@ Latvia,1998,23.91667
 Lebanon,2014,9.83333
 Libya,2014,11.00614
 Lithuania,1998,21.30823
-Macedonia,1998,7.53769
-Macedonia,2004,13.27014
 Malaysia,2009,8.82598
 Malaysia,2014,8.53846
 Mali,2009,17.15576
@@ -138,6 +136,8 @@ Nigeria,1993,21.67832
 Nigeria,1998,17.25067
 Nigeria,2004,25.32146
 Nigeria,2014,14.78113
+North Macedonia,1998,7.53769
+North Macedonia,2004,13.27014
 Norway,1998,64.77374
 Norway,2009,73.73047
 Pakistan,1998,18.69031
