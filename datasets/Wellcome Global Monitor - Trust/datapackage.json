@@ -7,7 +7,7 @@
     {
       "name": "Wellcome Global Monitor (2020)",
       "link": "https://wellcome.org/reports/wellcome-global-monitor-covid-19/2020",
-      "retrievedDate": "March 2, 2022",
+      "retrievedDate": "March 3, 2022",
       "additionalInfo": "The Wellcome Global Monitor is the world’s largest study into how people around the world think and feel about science and major health challenges. It surveys over 140,000 people from more than 140 countries.\n\nSurvey respondents were asked, \"How much do you trust each of the following: other people in your neighborhood; your national government; scientists; journalists; doctors and nurses; people who work at non-governmental or non-profit organizations; healers? Do you trust them a lot, some, not much, or not at all?\"\n\nThe \"share of people who trust\" is the sum of those who responded \"a lot\", and \"some\".",
       "dataPublisherSource": "Surveys"
     }
@@ -29,46 +29,64 @@
             "type": "year"
           },
           {
-            "name": "Share of people who trust other people in their neighbourhood",
+            "name": "Trust people in neighborhood",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "Share of people who trust their national government",
+            "name": "Trust the national government in this country",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "Share of people who trust scientists in their country",
+            "name": "Trust scientists in this country",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "Share of people who trust journalists in their country",
+            "name": "Trust journalists in this country",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "Share of people who trust doctors and nurses in their country",
+            "name": "Trust doctors and nurses in this country",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "Share of people who trust people who work at non-governmental or non-profit orgnaizations",
+            "name": "Trust people who work at charitable organizations or ngos in this country",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
+            "owidDisplaySettings": "{\"name\": \"Trust people who work at charitable organizations or NGOs in this country\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "Share of people who trust traditional healers in their countries",
+            "name": "Trust traditional healers in this country",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\"}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Trust science",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Trust scientists to find accurate information about the world",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Trust scientists to do work with intention of benefiting public",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           }
         ]
       }
