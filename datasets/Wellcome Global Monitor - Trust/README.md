@@ -1,4 +1,4 @@
-# Trust in Science and Health Professionals - Wellcome Trust (2019)
+# Wellcome Global Monitor - Trust
 
 The Wellcome Global Monitor is the world’s largest study into how people around the world think and feel about science and major health challenges. It surveys over 140,000 people from more than 140 countries.
 
