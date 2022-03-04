@@ -30,10 +30,10 @@
             "type": "year"
           },
           {
-            "name": "Human Rights Score (Schnakenberg & Fariss, 2014; Fariss, 2019)",
+            "name": "Human rights protection",
             "type": "any",
-            "description": "The Human Rights Score provides a measure of the protection of the physical integrity of citizens. It aims to measure how a government protects its citizens' physical integrity, by taking into account torture, government killing, political imprisonment, extrajudicial executions, mass killings and disappearances. Its values range from  −3.8 to around 5.4 (the higher the better). It is constructed from an econometric model with data from nine sources.",
-            "owidDisplaySettings": "{\"name\": \"Human Rights Score\", \"unit\": \"Higher = better\"}"
+            "description": "The scores capture the extent to which citizens' physical integrity is protected from government killings, torture,\npolitical imprisonments, extrajudicial executions, mass killings and disappearances. Higher scores mean fewer\nsuch abuses. A score of 0 means an average score relative to all countries and years. A score of 2 is two standard deviations better than the mean across all countries and years.",
+            "owidDisplaySettings": "{\"name\": \"Human rights protection\", \"includeInTable\": true}"
           }
         ]
       }
