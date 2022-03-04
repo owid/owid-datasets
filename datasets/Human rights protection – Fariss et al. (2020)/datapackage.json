@@ -1,0 +1,42 @@
+{
+  "name": "Human rights protection – Fariss et al. (2020)",
+  "title": "Human rights protection – Fariss et al. (2020)",
+  "id": 241,
+  "description": "This dataset provides the human rights protection scores by Fariss et al. (2020), first developed by Schnakenberg and Fariss (2014).",
+  "sources": [
+    {
+      "name": "Fariss et al. (2020)",
+      "link": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RQ85GK",
+      "retrievedDate": "March 4, 2022",
+      "additionalInfo": "This dataset provides the human rights protection scores by Fariss et al. (2020), first developed by Schnakenberg and Fariss (2014).",
+      "dataPublishedBy": " Fariss CJ, Kenwick MR, Reuning K. Estimating one-sided-killings from a robust measurement model of human rights. Journal of Peace Research. 2020;57(6):801-814. doi:10.1177/0022343320965670",
+      "dataPublisherSource": "Combined information from several original datasets on human rights abuses in the form of government killings, torture, political imprisonments, extrajudicial executions, mass killings and disappearances."
+    }
+  ],
+  "owidTags": [
+    "Human Rights"
+  ],
+  "resources": [
+    {
+      "path": "Human rights protection – Fariss et al. (2020).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Human Rights Score (Schnakenberg & Fariss, 2014; Fariss, 2019)",
+            "type": "any",
+            "description": "The Human Rights Score provides a measure of the protection of the physical integrity of citizens. It aims to measure how a government protects its citizens' physical integrity, by taking into account torture, government killing, political imprisonment, extrajudicial executions, mass killings and disappearances. Its values range from  −3.8 to around 5.4 (the higher the better). It is constructed from an econometric model with data from nine sources.",
+            "owidDisplaySettings": "{\"name\": \"Human Rights Score\", \"unit\": \"Higher = better\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
