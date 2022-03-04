@@ -1,0 +1,54 @@
+{
+  "name": "Nuclear weapons proliferation total – OWID based on Bleek (2017), Nuclear Threat Initiative (2022)",
+  "title": "Nuclear weapons proliferation total – OWID based on Bleek (2017), Nuclear Threat Initiative (2022)",
+  "id": 5542,
+  "description": "This dataset provides information on the number of nuclear weapons states, using data from Bleek (2017), which we double-checked with information from the Nuclear Threat Initiative (2022) for recent years.\n\nA country is coded as considering nuclear weapons if its leaders explore whether it is possible and desirable for them to attempt to acquire nuclear weapons, or they work to increase their nuclear weapons capabilities, but without launching a dedicated program.\n\nA country is coded as pursuing nuclear weapons if it has an active program to acquire nuclear weapons or to obtain the ability to construct them on short notice.\n\nA country is coded as possessing nuclear weapons if it has a nuclear-explosive device that it can deliver. Conducting an explosive nuclear test is therefore neither sufficient nor nor necessary.\n\nYou can read more about specific countries in the profiles by Bleek (2017) and the Nuclear Threat Initiative (2022) by following the links.",
+  "sources": [
+    {
+      "name": "OWID based on Bleek (2017), Nuclear Threat Initiative (2022)",
+      "link": "https://www.belfercenter.org/sites/default/files/files/publication/When%20Did%20%28and%20Didn%27t%29%20States%20Proliferate%3F_1.pdf; https://www.nti.org/countries/",
+      "retrievedDate": "February 28, 2022",
+      "additionalInfo": "This dataset provides information on the number of nuclear weapons states, using data from Bleek (2017), which we double-checked with information from the Nuclear Threat Initiative (2022) for recent years.\n\nA country is coded as considering nuclear weapons if its leaders explore whether it is possible and desirable for them to attempt to acquire nuclear weapons, or they work to increase their nuclear weapons capabilities, but without launching a dedicated program.\n\nA country is coded as pursuing nuclear weapons if it has an active program to acquire nuclear weapons or to obtain the ability to construct them on short notice.\n\nA country is coded as possessing nuclear weapons if it has a nuclear-explosive device that it can deliver. Conducting an explosive nuclear test is therefore neither sufficient nor nor necessary.\n\nYou can read more about specific countries in the profiles by Bleek (2017) and the Nuclear Threat Initiative (2022) by following the links.",
+      "dataPublishedBy": "Our World in Data, Bastian Herre",
+      "dataPublisherSource": "Data comes from Bleek (2017), with supplementary information from the Nuclear Threat Initiative (2022) for recent years."
+    }
+  ],
+  "owidTags": [
+    "Nuclear Weapons"
+  ],
+  "resources": [
+    {
+      "path": "Nuclear weapons proliferation total – OWID based on Bleek (2017), Nuclear Threat Initiative (2022).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "number_nuclweap_consideration",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "number_nuclweap_pursuit",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "number_nuclweap_possession",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
