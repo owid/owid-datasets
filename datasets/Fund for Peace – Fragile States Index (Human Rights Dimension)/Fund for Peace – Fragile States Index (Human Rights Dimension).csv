@@ -386,15 +386,15 @@ Cyprus,2011,3.3
 Cyprus,2012,3.3
 Cyprus,2013,3.3
 Cyprus,2014,3.6
-Czech Republic,2006,3
-Czech Republic,2007,3.5
-Czech Republic,2008,3.5
-Czech Republic,2009,3.5
-Czech Republic,2010,3.3
-Czech Republic,2011,3
-Czech Republic,2012,2.7
-Czech Republic,2013,2.4
-Czech Republic,2014,2.4
+Czechia,2006,3
+Czechia,2007,3.5
+Czechia,2008,3.5
+Czechia,2009,3.5
+Czechia,2010,3.3
+Czechia,2011,3
+Czechia,2012,2.7
+Czechia,2013,2.4
+Czechia,2014,2.4
 Democratic Republic of Congo,2006,9.5
 Democratic Republic of Congo,2007,8.9
 Democratic Republic of Congo,2008,8.9
@@ -484,6 +484,14 @@ Estonia,2011,3
 Estonia,2012,2.7
 Estonia,2013,2.4
 Estonia,2014,2.5
+Eswatini,2007,7.5
+Eswatini,2008,7.5
+Eswatini,2009,7.5
+Eswatini,2010,7.7
+Eswatini,2011,8.2
+Eswatini,2012,8.3
+Eswatini,2013,8.3
+Eswatini,2014,8
 Ethiopia,2006,8
 Ethiopia,2007,8.5
 Ethiopia,2008,8.5
@@ -847,15 +855,6 @@ Luxembourg,2011,1
 Luxembourg,2012,1.3
 Luxembourg,2013,1
 Luxembourg,2014,1.3
-Macedonia,2006,5.3
-Macedonia,2007,5.3
-Macedonia,2008,5.3
-Macedonia,2009,5.3
-Macedonia,2010,5.1
-Macedonia,2011,5
-Macedonia,2012,4.6
-Macedonia,2013,4.3
-Macedonia,2014,4.2
 Madagascar,2007,5.7
 Madagascar,2008,6
 Madagascar,2009,5.9
@@ -1067,6 +1066,15 @@ North Korea,2011,9.5
 North Korea,2012,9.6
 North Korea,2013,9.7
 North Korea,2014,9.6
+North Macedonia,2006,5.3
+North Macedonia,2007,5.3
+North Macedonia,2008,5.3
+North Macedonia,2009,5.3
+North Macedonia,2010,5.1
+North Macedonia,2011,5
+North Macedonia,2012,4.6
+North Macedonia,2013,4.3
+North Macedonia,2014,4.2
 Norway,2006,1.5
 Norway,2007,1.5
 Norway,2008,1.5
@@ -1352,14 +1360,6 @@ Suriname,2011,5.6
 Suriname,2012,5.3
 Suriname,2013,5.4
 Suriname,2014,5.2
-Swaziland,2007,7.5
-Swaziland,2008,7.5
-Swaziland,2009,7.5
-Swaziland,2010,7.7
-Swaziland,2011,8.2
-Swaziland,2012,8.3
-Swaziland,2013,8.3
-Swaziland,2014,8
 Sweden,2006,1.5
 Sweden,2007,1.4
 Sweden,2008,1.4
