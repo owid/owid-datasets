@@ -1,16 +1,16 @@
 {
-  "name": "Interpersonal Trust - General Social Survey (GSS) (2016)",
-  "title": "Interpersonal Trust - General Social Survey (GSS) (2016)",
+  "name": "Interpersonal Trust - General Social Survey (GSS)",
+  "title": "Interpersonal Trust - General Social Survey (GSS)",
   "id": 2971,
   "description": "",
   "sources": [
     {
       "name": "US General Social Survey (2016)",
-      "dataPublishedBy": "General Social Survey (GSS) (2016)",
-      "dataPublisherSource": "Census Data",
       "link": "https://gssdataexplorer.norc.org",
       "retrievedDate": "22/07/16",
-      "additionalInfo": null
+      "additionalInfo": null,
+      "dataPublishedBy": "General Social Survey (GSS) (2016)",
+      "dataPublisherSource": "Census Data"
     }
   ],
   "owidTags": [
@@ -18,7 +18,7 @@
   ],
   "resources": [
     {
-      "path": "Interpersonal Trust - General Social Survey (GSS) (2016).csv",
+      "path": "Interpersonal Trust - General Social Survey (GSS).csv",
       "schema": {
         "fields": [
           {
@@ -33,7 +33,7 @@
             "name": "Interpersonal Trust (%)",
             "type": "any",
             "description": "Share of survey respondents responding to the question \"Generally speaking, would you say that most people can be trusted or that you can't be too careful in dealing with people?\" Available replies are \"Can trust\", \"Cannot trust\", \"Depends\" , \"Don't Know\" and \"No answer\".",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           }
         ]
       }
