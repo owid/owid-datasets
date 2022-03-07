@@ -2,15 +2,15 @@
   "name": "Interpersonal Trust - General Social Survey (GSS)",
   "title": "Interpersonal Trust - General Social Survey (GSS)",
   "id": 2971,
-  "description": "",
+  "description": "The General Social Survey (GSS) is a project of the independent research organization NORC at the University of Chicago, with principal funding from the National Science Foundation.",
   "sources": [
     {
-      "name": "US General Social Survey (2016)",
-      "link": "https://gssdataexplorer.norc.org",
-      "retrievedDate": "22/07/16",
-      "additionalInfo": null,
-      "dataPublishedBy": "General Social Survey (GSS) (2016)",
-      "dataPublisherSource": "Census Data"
+      "name": "US General Social Survey (2022)",
+      "link": "https://gssdataexplorer.norc.org/variables/441/vshow",
+      "retrievedDate": "7 March 2022",
+      "additionalInfo": "The General Social Survey (GSS) is a project of the independent research organization NORC at the University of Chicago, with principal funding from the National Science Foundation.",
+      "dataPublishedBy": "Davern, Michael; Bautista, Rene; Freese, Jeremy; Morgan, Stephen L.; and Tom W. Smith. General Social Surveys, 1972-2021 Cross-section [machine-readable data file, 68,846 cases]. Principal Investigator, Michael Davern; Co-Principal Investigators, Rene Bautista, Jeremy Freese, Stephen L. Morgan, and Tom W. Smith; Sponsored by National Science Foundation. – NORC ed. – Chicago: NORC, 2021: NORC at the University of Chicago [producer and distributor]. Data accessed from the GSS Data Explorer website at  gssdataexplorer.norc.org.",
+      "dataPublisherSource": "Census data"
     }
   ],
   "owidTags": [
