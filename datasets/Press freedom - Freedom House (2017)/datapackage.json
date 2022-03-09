@@ -1,0 +1,42 @@
+{
+  "name": "Press freedom - Freedom House (2017)",
+  "title": "Press freedom - Freedom House (2017)",
+  "id": 152,
+  "description": "This dataset provides information on press freedoms, using data from Freedom House's (2017) Freedom of the Press.\n\nFor the years 1979-1987, we use the worse classification across the two dimensions of print and broadcast media. \n\nFor the data covering January 1981 to August 1982 we code the year 1982, and for the data covering August 1982 to November 1983 we code the year 1983.\n\nWe show the data for Czechoslovakia as Czechia, for the USSR as Russia, and for Yugoslavia as Serbia.",
+  "sources": [
+    {
+      "name": "Freedom House, Freedom of the Press (2017)",
+      "link": "https://freedomhouse.org/sites/default/files/2020-02/FOTP1980-FOTP2017_Public-Data.xlsx",
+      "retrievedDate": "March 8, 2022",
+      "additionalInfo": "This dataset provides information on press freedoms, using data from Freedom House's (2017) Freedom of the Press.\n\nFor the years 1979-1987, we use the worse classification across the two dimensions of print and broadcast media. \n\nFor the data covering January 1981 to August 1982 we code the year 1982, and for the data covering August 1982 to November 1983 we code the year 1983.\n\nWe show the data for Czechoslovakia as Czechia, for the USSR as Russia, and for Yugoslavia as Serbia.",
+      "dataPublishedBy": "Freedom House, Freedom of the Press",
+      "dataPublisherSource": "On-the-ground research, consultations with local contacts, and information from news articles, nongovernmental organizations, and governments."
+    }
+  ],
+  "owidTags": [
+    "Press Freedom"
+  ],
+  "resources": [
+    {
+      "path": "Press freedom - Freedom House (2017).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Freedom of the Press Status",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
