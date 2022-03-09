@@ -80,67 +80,67 @@
           {
             "name": "electfreefair_vdem_owid",
             "type": "any",
-            "description": "The variable denotes the best estimate of the extent to which registration fraud, systematic irregularities, government intimidation of the opposition, vote buying, and election violence are absent, and the election management body is autonomous and has enough staff and resources.\n\nThe variables ranges from 0 to 1 (most free and fair).",
+            "description": "The variable denotes the best estimate of the extent to which registration fraud, systematic irregularities, government intimidation of the opposition, vote buying, and election violence are absent, and the election management body is autonomous and has enough staff and resources.\n\nIt is based on the V-Dem variable v2xel_frefair, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most free and fair).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "electfreefair_vdem_owid_low",
             "type": "any",
-            "description": "The variable denotes the lower-bound estimate of the extent to which registration fraud, systematic irregularities, government intimidation of the opposition, vote buying, and election violence are absent, and the election management body is autonomous and has enough staff and resources.\n\nThe variables ranges from 0 to 1 (most free and fair).",
+            "description": "The variable denotes the lower-bound estimate of the extent to which registration fraud, systematic irregularities, government intimidation of the opposition, vote buying, and election violence are absent, and the election management body is autonomous and has enough staff and resources.\n\nIt is based on the V-Dem variable v2xel_frefair_codelow, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most free and fair).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "electfreefair_vdem_owid_high",
             "type": "any",
-            "description": "The variable denotes the upper-bound estimate of the extent to which registration fraud, systematic irregularities, government intimidation of the opposition, vote buying, and election violence are absent, and the election management body is autonomous and has enough staff and resources.\n\nThe variables ranges from 0 to 1 (most free and fair).",
+            "description": "The variable denotes the upper-bound estimate of the extent to which registration fraud, systematic irregularities, government intimidation of the opposition, vote buying, and election violence are absent, and the election management body is autonomous and has enough staff and resources.\n\nIt is based on the V-Dem variable v2xel_frefair_codehigh, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most free and fair).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "suffr_vdem_owid",
             "type": "any",
-            "description": "The variable denotes the share of adult citizens which have the legal right to vote in national elections.\n\nUniversal suffrage is coded as 100%, and universal male suffrage as 50%.\n\nThe variable captures legal restrictions, and not restrictions that may be in place in practice. It considers restrictions based on gender, property, tax payments, income, literacy, region, race, ethnicity, religion, and economic independence; it does not consider restrictions based on age, residence, conviction of a crime, or legal incompetence.",
+            "description": "The variable denotes the share of adult citizens which have the legal right to vote in national elections.\n\nIt is based on the V-Dem variable v2x_suffr. We expand it to cover more years for some countries, and multiply it by 100 to denote percentages.\n\nUniversal suffrage is coded as 100%, and universal male suffrage as 50%.\n\nThe variable captures legal restrictions, and not restrictions that may be in place in practice. It considers restrictions based on gender, property, tax payments, income, literacy, region, race, ethnicity, religion, and economic independence; it does not consider restrictions based on age, residence, conviction of a crime, or legal incompetence.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "electoff_vdem_owid",
             "type": "any",
-            "description": "The variable measures the extent to which the legislature is chosen through popular elections, and the chief executive is elected directly or indirectly (appointed by a popularly elected legislature).\n\nA popular election can still mean that suffrage is limited and there is no competition for these offices.\n\nThe variable is based on the V-Dem variable v2x_elecoff, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (chief executive and legislature fully elected).",
+            "description": "The variable measures the extent to which the legislature is chosen through popular elections, and the chief executive is elected directly or indirectly (appointed by a popularly elected legislature).\n\nIt is based on the V-Dem variable v2x_elecoff, and we expand it to cover more years for some countries.\n\nA popular election can still mean that suffrage is limited and there is no competition for these offices.\n\nThe variable is based on the V-Dem variable v2x_elecoff, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (chief executive and legislature fully elected).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "freeexpr_vdem_owid",
             "type": "any",
-            "description": "The variable denotes the best estimate of the extent to which citizens can discuss political matters at home and in the public sphere, the press and media are free and present different political perspectives, and the freedom of academic and cultural expression.\n\nThe variables ranges from 0 to 1 (most free).",
+            "description": "The variable denotes the best estimate of the extent to which citizens can discuss political matters at home and in the public sphere, the press and media are free and present different political perspectives, and the freedom of academic and cultural expression.\n\nIt is based on the V-Dem variable v2x_freexp_altinf, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most free).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "freeexpr_vdem_owid_low",
             "type": "any",
-            "description": "The variable denotes the lower-bound estimate of the extent to which citizens can discuss political matters at home and in the public sphere, the press and media are free and present different political perspectives, and the freedom of academic and cultural expression.\n\nThe variables ranges from 0 to 1 (most free).",
+            "description": "The variable denotes the lower-bound estimate of the extent to which citizens can discuss political matters at home and in the public sphere, the press and media are free and present different political perspectives, and the freedom of academic and cultural expression.\n\nIt is based on the V-Dem variable v2x_freexp_altinf_codelow, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most free).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "freeexpr_vdem_owid_high",
             "type": "any",
-            "description": "The variable denotes the upper-bound estimate of the extent to which citizens can discuss political matters at home and in the public sphere, the press and media are free and present different political perspectives, and the freedom of academic and cultural expression.\n\nThe variables ranges from 0 to 1 (most free).",
+            "description": "The variable denotes the upper-bound estimate of the extent to which citizens can discuss political matters at home and in the public sphere, the press and media are free and present different political perspectives, and the freedom of academic and cultural expression.\n\nIt is based on the V-Dem variable v2x_freexp_altinf_codehigh, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most free).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "freeassoc_vdem_owid",
             "type": "any",
-            "description": "The variable denotes the best estimate of the extent to which parties, including opposition parties, are allowed to form and participate in elections, and the extent to which civil society organizations are allowed to form and operate freely.\n\nThe variables ranges from 0 to 1 (most free).",
+            "description": "The variable denotes the best estimate of the extent to which parties, including opposition parties, are allowed to form and participate in elections, and the extent to which civil society organizations are allowed to form and operate freely.\n\nIt is based on the V-Dem variable v2x_frassoc_thick, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most free).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "freeassoc_vdem_owid_low",
             "type": "any",
-            "description": "The variable denotes the lower-bound estimate of the extent to which parties, including opposition parties, are allowed to form and participate in elections, and the extent to which civil society organizations are allowed to form and operate freely.\n\nThe variables ranges from 0 to 1 (most free).",
+            "description": "The variable denotes the lower-bound estimate of the extent to which parties, including opposition parties, are allowed to form and participate in elections, and the extent to which civil society organizations are allowed to form and operate freely.\n\nIt is based on the V-Dem variable v2x_frassoc_thick_codelow, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most free).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "freeassoc_vdem_owid_high",
             "type": "any",
-            "description": "The variable denotes the upper-bound estimate of the extent to which parties, including opposition parties, are allowed to form and participate in elections, and the extent to which civil society organizations are allowed to form and operate freely.\n\nThe variables ranges from 0 to 1 (most free).",
+            "description": "The variable denotes the upper-bound estimate of the extent to which parties, including opposition parties, are allowed to form and participate in elections, and the extent to which civil society organizations are allowed to form and operate freely.\n\nIt is based on the V-Dem variable v2x_frassoc_thick_codehigh, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most free).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
@@ -236,17 +236,29 @@
           {
             "name": "libdem_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent of suffrage, the\nfreedom and fairness of elections, freedoms of association and expression, individual and minority rights, equality before the law, and executive constraints.\n\nIt is based on the V-Dem variable v2x_libdem, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "libdem_vdem_owid_low",
+            "type": "any",
+            "description": "The variable denotes the lower-bound estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, individual and minority rights, equality before the law, and executive constraints.\n\nIt is based on the V-Dem variable v2x_libdem_codelow, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "libdem_vdem_owid_high",
+            "type": "any",
+            "description": "The variable denotes the upper-bound estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, individual and minority rights, equality before the law, and executive constraints.\n\nIt is based on the V-Dem variable v2x_libdem_codehigh, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "turnout_vdem_owid",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "libdem_vdem_owid_high",
+            "name": "goveffective_vdem_wbgi",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
