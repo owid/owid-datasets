@@ -1,4 +1,4 @@
-Entity,Year,Freedom of the Press Status
+Entity,Year,Freedom of the Press
 Afghanistan,1979,0
 Afghanistan,1980,0
 Afghanistan,1982,0
@@ -1347,6 +1347,42 @@ Costa Rica,2013,2
 Costa Rica,2014,2
 Costa Rica,2015,2
 Costa Rica,2016,2
+Cote d'Ivoire,1979,0
+Cote d'Ivoire,1980,0
+Cote d'Ivoire,1982,0
+Cote d'Ivoire,1983,0
+Cote d'Ivoire,1984,0
+Cote d'Ivoire,1985,0
+Cote d'Ivoire,1986,0
+Cote d'Ivoire,1987,0
+Cote d'Ivoire,1988,0
+Cote d'Ivoire,1990,0
+Cote d'Ivoire,1991,1
+Cote d'Ivoire,1992,0
+Cote d'Ivoire,1993,0
+Cote d'Ivoire,1994,0
+Cote d'Ivoire,1995,0
+Cote d'Ivoire,1996,0
+Cote d'Ivoire,1997,0
+Cote d'Ivoire,1998,0
+Cote d'Ivoire,1999,0
+Cote d'Ivoire,2000,0
+Cote d'Ivoire,2001,0
+Cote d'Ivoire,2002,0
+Cote d'Ivoire,2003,0
+Cote d'Ivoire,2004,0
+Cote d'Ivoire,2005,0
+Cote d'Ivoire,2006,0
+Cote d'Ivoire,2007,0
+Cote d'Ivoire,2008,0
+Cote d'Ivoire,2009,0
+Cote d'Ivoire,2010,0
+Cote d'Ivoire,2011,0
+Cote d'Ivoire,2012,0
+Cote d'Ivoire,2013,1
+Cote d'Ivoire,2014,1
+Cote d'Ivoire,2015,1
+Cote d'Ivoire,2016,1
 Crimea,2014,0
 Crimea,2015,0
 Crimea,2016,0
@@ -1483,42 +1519,6 @@ Czechia,2013,2
 Czechia,2014,2
 Czechia,2015,2
 Czechia,2016,2
-Côte d'Ivoire,1979,0
-Côte d'Ivoire,1980,0
-Côte d'Ivoire,1982,0
-Côte d'Ivoire,1983,0
-Côte d'Ivoire,1984,0
-Côte d'Ivoire,1985,0
-Côte d'Ivoire,1986,0
-Côte d'Ivoire,1987,0
-Côte d'Ivoire,1988,0
-Côte d'Ivoire,1990,0
-Côte d'Ivoire,1991,1
-Côte d'Ivoire,1992,0
-Côte d'Ivoire,1993,0
-Côte d'Ivoire,1994,0
-Côte d'Ivoire,1995,0
-Côte d'Ivoire,1996,0
-Côte d'Ivoire,1997,0
-Côte d'Ivoire,1998,0
-Côte d'Ivoire,1999,0
-Côte d'Ivoire,2000,0
-Côte d'Ivoire,2001,0
-Côte d'Ivoire,2002,0
-Côte d'Ivoire,2003,0
-Côte d'Ivoire,2004,0
-Côte d'Ivoire,2005,0
-Côte d'Ivoire,2006,0
-Côte d'Ivoire,2007,0
-Côte d'Ivoire,2008,0
-Côte d'Ivoire,2009,0
-Côte d'Ivoire,2010,0
-Côte d'Ivoire,2011,0
-Côte d'Ivoire,2012,0
-Côte d'Ivoire,2013,1
-Côte d'Ivoire,2014,1
-Côte d'Ivoire,2015,1
-Côte d'Ivoire,2016,1
 Democratic Republic of Congo,1979,0
 Democratic Republic of Congo,1980,0
 Democratic Republic of Congo,1982,0
@@ -1881,6 +1881,42 @@ Estonia,2013,2
 Estonia,2014,2
 Estonia,2015,2
 Estonia,2016,2
+Eswatini,1979,0
+Eswatini,1980,0
+Eswatini,1982,0
+Eswatini,1983,0
+Eswatini,1984,0
+Eswatini,1985,0
+Eswatini,1986,0
+Eswatini,1987,0
+Eswatini,1988,0
+Eswatini,1990,0
+Eswatini,1991,1
+Eswatini,1992,1
+Eswatini,1993,0
+Eswatini,1994,0
+Eswatini,1995,0
+Eswatini,1996,0
+Eswatini,1997,0
+Eswatini,1998,0
+Eswatini,1999,0
+Eswatini,2000,0
+Eswatini,2001,0
+Eswatini,2002,0
+Eswatini,2003,0
+Eswatini,2004,0
+Eswatini,2005,0
+Eswatini,2006,0
+Eswatini,2007,0
+Eswatini,2008,0
+Eswatini,2009,0
+Eswatini,2010,0
+Eswatini,2011,0
+Eswatini,2012,0
+Eswatini,2013,0
+Eswatini,2014,0
+Eswatini,2015,0
+Eswatini,2016,0
 Ethiopia,1979,0
 Ethiopia,1980,0
 Ethiopia,1982,0
@@ -2061,6 +2097,42 @@ Gabon,2013,0
 Gabon,2014,0
 Gabon,2015,0
 Gabon,2016,0
+Gambia,1979,2
+Gambia,1980,2
+Gambia,1982,2
+Gambia,1983,2
+Gambia,1984,2
+Gambia,1985,2
+Gambia,1986,2
+Gambia,1987,2
+Gambia,1988,1
+Gambia,1990,2
+Gambia,1991,2
+Gambia,1992,2
+Gambia,1993,2
+Gambia,1994,0
+Gambia,1995,0
+Gambia,1996,0
+Gambia,1997,0
+Gambia,1998,0
+Gambia,1999,0
+Gambia,2000,0
+Gambia,2001,0
+Gambia,2002,0
+Gambia,2003,0
+Gambia,2004,0
+Gambia,2005,0
+Gambia,2006,0
+Gambia,2007,0
+Gambia,2008,0
+Gambia,2009,0
+Gambia,2010,0
+Gambia,2011,0
+Gambia,2012,0
+Gambia,2013,0
+Gambia,2014,0
+Gambia,2015,0
+Gambia,2016,0
 Georgia,1992,1
 Georgia,1993,0
 Georgia,1994,0
@@ -5503,42 +5575,6 @@ Suriname,2013,2
 Suriname,2014,2
 Suriname,2015,2
 Suriname,2016,2
-Swaziland,1979,0
-Swaziland,1980,0
-Swaziland,1982,0
-Swaziland,1983,0
-Swaziland,1984,0
-Swaziland,1985,0
-Swaziland,1986,0
-Swaziland,1987,0
-Swaziland,1988,0
-Swaziland,1990,0
-Swaziland,1991,1
-Swaziland,1992,1
-Swaziland,1993,0
-Swaziland,1994,0
-Swaziland,1995,0
-Swaziland,1996,0
-Swaziland,1997,0
-Swaziland,1998,0
-Swaziland,1999,0
-Swaziland,2000,0
-Swaziland,2001,0
-Swaziland,2002,0
-Swaziland,2003,0
-Swaziland,2004,0
-Swaziland,2005,0
-Swaziland,2006,0
-Swaziland,2007,0
-Swaziland,2008,0
-Swaziland,2009,0
-Swaziland,2010,0
-Swaziland,2011,0
-Swaziland,2012,0
-Swaziland,2013,0
-Swaziland,2014,0
-Swaziland,2015,0
-Swaziland,2016,0
 Sweden,1979,2
 Sweden,1980,2
 Sweden,1982,2
@@ -5780,42 +5816,6 @@ Thailand,2013,0
 Thailand,2014,0
 Thailand,2015,0
 Thailand,2016,0
-The Gambia,1979,2
-The Gambia,1980,2
-The Gambia,1982,2
-The Gambia,1983,2
-The Gambia,1984,2
-The Gambia,1985,2
-The Gambia,1986,2
-The Gambia,1987,2
-The Gambia,1988,1
-The Gambia,1990,2
-The Gambia,1991,2
-The Gambia,1992,2
-The Gambia,1993,2
-The Gambia,1994,0
-The Gambia,1995,0
-The Gambia,1996,0
-The Gambia,1997,0
-The Gambia,1998,0
-The Gambia,1999,0
-The Gambia,2000,0
-The Gambia,2001,0
-The Gambia,2002,0
-The Gambia,2003,0
-The Gambia,2004,0
-The Gambia,2005,0
-The Gambia,2006,0
-The Gambia,2007,0
-The Gambia,2008,0
-The Gambia,2009,0
-The Gambia,2010,0
-The Gambia,2011,0
-The Gambia,2012,0
-The Gambia,2013,0
-The Gambia,2014,0
-The Gambia,2015,0
-The Gambia,2016,0
 Timor,2000,2
 Timor,2001,2
 Timor,2002,2
