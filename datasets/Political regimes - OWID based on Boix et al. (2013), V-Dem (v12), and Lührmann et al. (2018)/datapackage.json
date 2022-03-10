@@ -262,6 +262,24 @@
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "civlib_vdem_owid",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "civlib_vdem_owid_low",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "civlib_vdem_owid_high",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
           }
         ]
       }
