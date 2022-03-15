@@ -1,0 +1,82 @@
+{
+  "name": "Ukraine-Russia contribution to global food",
+  "title": "Ukraine-Russia contribution to global food",
+  "id": 5549,
+  "description": "",
+  "sources": [
+    {
+      "name": "Calculated by Our World in Data based on the Food and Agriculture Organization of the United Nations",
+      "link": "https://www.fao.org/faostat/en/#data/FBS",
+      "retrievedDate": "15th March 2022",
+      "dataPublishedBy": "Calculated by Our World in Data based on the Food and Agriculture Organization of the United Nations"
+    }
+  ],
+  "owidTags": [
+    "Food Trade"
+  ],
+  "resources": [
+    {
+      "path": "Ukraine-Russia contribution to global food.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "russia_production",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "ukraine_production",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "russia_exports",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "ukraine_exports",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "russia_share_global_production",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "ukraine_share_global_production",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "russia_share_global_exports",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "ukraine_share_global_exports",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
