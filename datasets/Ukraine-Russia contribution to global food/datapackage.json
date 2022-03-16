@@ -31,49 +31,49 @@
             "name": "russia_production",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "ukraine_production",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "russia_exports",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "ukraine_exports",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "russia_share_global_production",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "ukraine_share_global_production",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "russia_share_global_exports",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "ukraine_share_global_exports",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           }
         ]
       }
