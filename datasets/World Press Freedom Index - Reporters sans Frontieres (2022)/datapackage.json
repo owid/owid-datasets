@@ -1,6 +1,6 @@
 {
-  "name": "Press Freedom - Reporters sans Frontieres (2022)",
-  "title": "Press Freedom - Reporters sans Frontieres (2022)",
+  "name": "World Press Freedom Index - Reporters sans Frontieres (2022)",
+  "title": "World Press Freedom Index - Reporters sans Frontieres (2022)",
   "id": 4118,
   "description": "This dataset provides information on press freedom, using data from the Reporters sans Frontieres' World Press Freedom Index.",
   "sources": [
@@ -16,7 +16,7 @@
   "owidTags": [],
   "resources": [
     {
-      "path": "Press Freedom - Reporters sans Frontieres (2022).csv",
+      "path": "World Press Freedom Index - Reporters sans Frontieres (2022).csv",
       "schema": {
         "fields": [
           {
