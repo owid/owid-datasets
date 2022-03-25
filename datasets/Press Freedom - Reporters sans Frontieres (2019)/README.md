@@ -1,3 +1,0 @@
-# Press Freedom - Reporters sans Frontieres (2019)
-
-The Index ranks countries and regions according to the level of freedom available to journalists. It is a snapshot of the media freedom situation based on an evaluation of pluralism, independence of the media, quality of legislative framework and safety of journalists in each country and region. It does not rank public policies even if governments obviously have a major impact on their country’s ranking.
