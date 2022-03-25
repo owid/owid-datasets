@@ -30,8 +30,8 @@
           {
             "name": "Press Freedom Score",
             "type": "any",
-            "description": "The degree of freedom available to journalists is determined by pooling the responses of experts to a questionnaire devised by RSF. This qualitative analysis is combined with quantitative data on abuses and acts of violence against journalists during the period evaluated. The criteria evaluated in the questionnaire are pluralism, media independence, media environment and self-censorship, legislative framework, transparency, and the quality of the infrastructure that supports the production of news and information. ",
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes a country's press freedom score. It combines data on violence against journalists with experts assessments by media professionals, lawyers, and sociologists on pluralism, media independence, media environment and self-censorship, legislative framework, transparency, and the quality of the infrastructure that supports the production of news and information.\n\n\n is determined by pooling the responses of experts to a questionnaire devised by RSF. This qualitative analysis is combined with quantitative data on abuses and acts of violence against journalists during the period evaluated. The criteria evaluated in the questionnaire are ",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           }
         ]
       }
