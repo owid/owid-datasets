@@ -11,4 +11,4 @@ We have converted primary production in exajoules to terawatt-hours using the co
 BP Statistical Review of World Energy: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html
 Shift Data Project: https://www.theshiftdataportal.org/energy
 
-Production per capita has been calculated using a population dataset that is built and maintained by Our World in Data, based on three key sources: HYDE, Gapminder, and the UN World Population Prospects.
+Production per capita has been calculated using a population dataset that is built and maintained by Our World in Data, based on different sources: https://ourworldindata.org/population-sources
