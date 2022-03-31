@@ -1,0 +1,62 @@
+{
+  "name": "Primary energy consumption BP & EIA (2022)",
+  "title": "Primary energy consumption BP & EIA (2022)",
+  "id": 5569,
+  "description": "Primary energy consumption data was compiled by Our World in Data based on two key data sources: \n1. BP Statistical Review of World Energy: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html\n2. International data from the U.S. Energy Information Administration (EIA): https://www.eia.gov/international/data/world/total-energy/more-total-energy-data\n\nBP provides the longest and most up-to-date time-series of primary energy. However, it does not provide data for all countries. We have therefore supplemented this dataset with energy data from the EIA. Where BP provides data for a given country, this data is adopted; for countries where this data is missing, we rely on EIA Energy figures.\n\nPer capita figures have been calculated using a population dataset that is built and maintained by Our World in Data, based on different sources:\nhttps://ourworldindata.org/population-sources\n\nTo calculate energy per unit of GDP, we use total real GDP figures from the Maddison Project Database, version 2020: https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2020\nThis dataset is based on Bolt, Jutta and Jan Luiten van Zanden (2020), “Maddison style estimates of the evolution of the world economy. A new 2020 update ”. GDP is measured in 2011$ which are PPP-adjusted.",
+  "sources": [
+    {
+      "name": "Our World in Data based on BP; EIA; Gapminder & UN world population; Bolt, Jutta and Jan Luiten van Zanden (2020)",
+      "retrievedDate": "31st March 2022",
+      "additionalInfo": "Primary energy consumption data was compiled by Our World in Data based on two key data sources: \n1. BP Statistical Review of World Energy: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html\n2. International data from the U.S. Energy Information Administration (EIA): https://www.eia.gov/international/data/world/total-energy/more-total-energy-data\n\nBP provides the longest and most up-to-date time-series of primary energy. However, it does not provide data for all countries. We have therefore supplemented this dataset with energy data from the EIA. Where BP provides data for a given country, this data is adopted; for countries where this data is missing, we rely on EIA Energy figures.\n\nPer capita figures have been calculated using a population dataset that is built and maintained by Our World in Data, based on different sources:\nhttps://ourworldindata.org/population-sources\n\nTo calculate energy per unit of GDP, we use total real GDP figures from the Maddison Project Database, version 2020: https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-project-database-2020\nThis dataset is based on Bolt, Jutta and Jan Luiten van Zanden (2020), “Maddison style estimates of the evolution of the world economy. A new 2020 update ”. GDP is measured in 2011$ which are PPP-adjusted.",
+      "dataPublishedBy": "Our World in Data based on BP; EIA; Gapminder & UN world population; Bolt, Jutta and Jan Luiten van Zanden (2020)"
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "Primary energy consumption BP & EIA (2022).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Primary energy consumption (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Annual change primary energy consumption (%)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Annual change primary energy consumption (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Energy per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Energy per GDP (kWh per $)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
