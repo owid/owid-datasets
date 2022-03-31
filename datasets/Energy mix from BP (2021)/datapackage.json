@@ -1,0 +1,465 @@
+{
+  "name": "Energy mix from BP (2021)",
+  "title": "Energy mix from BP (2021)",
+  "id": 5570,
+  "description": "Raw data on energy consumption is sourced from the BP Statistical Review of World Energy. Available at: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html\n\nPrimary energy in exajoules (EJ) has been converted to TWh by Our World in Data based on a conversion factor of 277.778.\n\nEach source's share of energy based on the \"substitution method\" were calculated by Our World in Data by taking all energy sources' energy normalised to EJ – this takes account of the inefficiencies in fossil fuel production and is a better approximation of \"final energy\" consumption.\n\nAdditional metrics have been calculated by Our World in Data:\n– Annual change in energy consumption by source: this is calculated as the difference from the previous year\n– % of total primary energy: calculated as each source's share of primary energy from all sources\n– Per capita energy by source: calculated as primary energy consumption by source, divided by population.\n\nPer capita figures have been calculated using a population dataset that is built and maintained by Our World in Data, based on different sources:\nhttps://ourworldindata.org/population-sources",
+  "sources": [
+    {
+      "name": "Our World in Data based on BP Statistical Review of World Energy (2021)",
+      "link": "https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html",
+      "retrievedDate": "31st March 2022",
+      "additionalInfo": "Raw data on energy consumption is sourced from the BP Statistical Review of World Energy. Available at: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html\n\nPrimary energy in exajoules (EJ) has been converted to TWh by Our World in Data based on a conversion factor of 277.778.\n\nEach source's share of energy based on the \"substitution method\" were calculated by Our World in Data by taking all energy sources' energy normalised to EJ – this takes account of the inefficiencies in fossil fuel production and is a better approximation of \"final energy\" consumption.\n\nAdditional metrics have been calculated by Our World in Data:\n– Annual change in energy consumption by source: this is calculated as the difference from the previous year\n– % of total primary energy: calculated as each source's share of primary energy from all sources\n– Per capita energy by source: calculated as primary energy consumption by source, divided by population.\n\nPer capita figures have been calculated using a population dataset that is built and maintained by Our World in Data, based on different sources:\nhttps://ourworldindata.org/population-sources",
+      "dataPublishedBy": "BP Statistical Review of World Energy"
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "Energy mix from BP (2021).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Biofuels (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Hydro (TWh – sub method)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Nuclear (TWh – sub method)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Renewables (TWh – sub method)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Solar (TWh – sub method)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Wind (TWh – sub method)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Other renewables (TWh – sub method)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Low-carbon energy (TWh – sub method)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Low-carbon energy (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Fossil Fuels (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Primary energy (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Primary energy – direct (TWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Coal (% primary direct energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Gas (% primary direct energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Oil (% primary direct energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Biofuels (% primary direct energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Nuclear (% primary direct energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Hydro (% primary direct energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Renewables (% primary direct energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Solar (% primary direct energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Wind (% primary direct energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Other renewables (% primary direct energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Fossil Fuels (% primary direct energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Low-carbon energy (% primary direct energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Coal (% sub energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Gas (% sub energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Oil (% sub energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Biofuels (% sub energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Nuclear (% sub energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Hydro (% sub energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Renewables (% sub energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Solar (% sub energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Wind (% sub energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Other renewables (% sub energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Fossil Fuels (% sub energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Low-carbon energy (% sub energy)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Coal (% growth)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Coal (TWh growth – sub method)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Oil (% growth)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Oil (TWh growth – sub method)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Gas (% growth)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Gas (TWh growth – sub method)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Biofuels (% growth)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Biofuels (TWh growth – sub method)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Fossil Fuels (% growth)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Fossil Fuels (TWh growth – sub method)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Hydro (% growth)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Hydro (TWh growth – sub method)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Nuclear (% growth)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Nuclear (TWh growth – sub method)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Renewables (% growth)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Renewables (TWh growth – sub method)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Solar (% growth)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Solar (TWh growth – sub method)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Wind (% growth)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Wind (TWh growth – sub method)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Other renewables (% growth)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Other renewables (TWh growth – sub method)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Low-carbon energy (% growth)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Low-carbon energy (TWh growth – sub method)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Coal per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Oil per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Gas per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Biofuels per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Fossil Fuels per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Hydro per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Nuclear per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Renewables per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Solar per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Wind per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Other renewables per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Low-carbon energy per capita (kWh)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
