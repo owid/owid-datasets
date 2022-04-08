@@ -1,4 +1,4 @@
-# Electricity mix from BP & EMBER (2022)
+# Electricity mix from BP & EMBER (2022) - archive
 
 Data is compiled by Our World in Data based on three main sources: 
 – BP Statistical Review of World Energy: https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html
