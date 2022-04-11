@@ -5,7 +5,7 @@
   "description": "Methane (CH4) emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
   "sources": [
     {
-      "name": "Methane emissions by sector (CAIT)",
+      "name": "CAIT Climate Data Explorer via Climate Watch",
       "link": "https://www.climatewatchdata.org/data-explorer/historical-emissions",
       "retrievedDate": "16th February 2022",
       "additionalInfo": "Methane (CH4) emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
@@ -107,7 +107,7 @@
           {
             "name": "Total excluding LUCF (per capita)",
             "type": "any",
-            "description": null,
+            "description": "Total methane emissions excluding land-use change and forestry, measured in tonnes of carbon dioxide-equivalents per capita.",
             "owidDisplaySettings": "{\"name\": \"Total excluding land-use change and forestry\", \"unit\": \"tonnes per capita\", \"shortUnit\": \"t\", \"includeInTable\": true}"
           },
           {
