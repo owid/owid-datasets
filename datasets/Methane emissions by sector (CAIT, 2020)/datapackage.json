@@ -5,11 +5,11 @@
   "description": "Methane (CH4) emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
   "sources": [
     {
-      "name": "CAIT Climate Data Explorer via. Climate Watch",
+      "name": "CAIT Climate Data Explorer via Climate Watch",
       "link": "https://www.climatewatchdata.org/data-explorer/historical-emissions",
       "retrievedDate": "26th May 2020",
       "additionalInfo": "Methane (CH4) emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
-      "dataPublishedBy": "CAIT Climate Data Explorer via. Climate Watch"
+      "dataPublishedBy": "CAIT Climate Data Explorer via Climate Watch"
     }
   ],
   "owidTags": [
