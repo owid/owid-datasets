@@ -5,7 +5,7 @@
   "description": "Total greenhouse gas emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
   "sources": [
     {
-      "name": "GHG Emissions by Country and Sector (CAIT)",
+      "name": "CAIT Climate Data Explorer via Climate Watch",
       "link": "https://www.climatewatchdata.org/data-explorer/historical-emissions",
       "retrievedDate": "16th February 2022",
       "additionalInfo": "Total greenhouse gas emissions are measured in tonnes of carbon dioxide equivalents (CO₂e), based on 100-year global warming potential factors for non-CO₂ gases.\n\nThis data is published by country and sector from the CAIT Climate Data Explorer, and downloaded from the Climate Watch Portal. Available here: https://www.climatewatchdata.org/data-explorer/historical-emissions",
