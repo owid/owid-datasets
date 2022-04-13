@@ -2,15 +2,15 @@
   "name": "Distribution of bilateral and unilateral trade partnerships - Fouquin and Hugot (CEPII 2016)",
   "title": "Distribution of bilateral and unilateral trade partnerships - Fouquin and Hugot (CEPII 2016)",
   "id": 2830,
-  "description": "",
+  "description": "To construct this chart we started from a dataset with dyadic trade estimates. For each year we took all country pairs with data and classified them as follows: \"Non-trading\" (pairs in which countries do not trade with one another); \"Bilateral\" (pairs in which both countries export to one another); and \"Unilateral\" (pairs in which only one country exports to the other).",
   "sources": [
     {
       "name": "Fouquin and Hugot (CEPII 2016)",
-      "dataPublishedBy": "Michel Fouquin & Jules Hugot , 2016. \"Two Centuries of Bilateral Trade and Gravity Data: 1827-2014,\" CEPII Working Paper 2016- 14 , May 2016 , CEPII ",
-      "dataPublisherSource": "IMF Direction of Trade Statistics data set, manuscripts",
       "link": "http://www.cepii.fr/cepii/en/bdd_modele/presentation.asp?id=32",
       "retrievedDate": "19/03/2018",
-      "additionalInfo": null
+      "additionalInfo": "To construct this chart we started from a dataset with dyadic trade estimates. For each year we took all country pairs with data and classified them as follows: \"Non-trading\" (pairs in which countries do not trade with one another); \"Bilateral\" (pairs in which both countries export to one another); and \"Unilateral\" (pairs in which only one country exports to the other).",
+      "dataPublishedBy": "Michel Fouquin & Jules Hugot , 2016. \"Two Centuries of Bilateral Trade and Gravity Data: 1827-2014,\" CEPII Working Paper 2016- 14 , May 2016 , CEPII ",
+      "dataPublisherSource": "IMF Direction of Trade Statistics data set, manuscripts"
     }
   ],
   "owidTags": [
@@ -33,19 +33,19 @@
             "name": "Non-trading (Fouquin and Hugot (CEPII 2016))",
             "type": "any",
             "description": "A pair in which countries do not trade with one-another.",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "Unilateral trade partnerships (Fouquin and Hugot (CEPII 2016))",
             "type": "any",
             "description": "A pair in which only one country exports to the other.",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "Bilateral trade partnerships (Fouquin and Hugot (CEPII 2016))",
             "type": "any",
             "description": "A pair in which both countries export to one-another.",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           }
         ]
       }

@@ -1,2 +1,3 @@
 # Distribution of bilateral and unilateral trade partnerships - Fouquin and Hugot (CEPII 2016)
 
+To construct this chart we started from a dataset with dyadic trade estimates. For each year we took all country pairs with data and classified them as follows: "Non-trading" (pairs in which countries do not trade with one another); "Bilateral" (pairs in which both countries export to one another); and "Unilateral" (pairs in which only one country exports to the other).
