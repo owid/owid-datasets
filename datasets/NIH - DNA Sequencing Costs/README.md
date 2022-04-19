@@ -1,4 +1,4 @@
-# Genome Production Costing - GSP
+# NIH - DNA Sequencing Costs
 
 Full reference: Wetterstrand KA. DNA Sequencing Costs: Data from the NHGRI Genome Sequencing Program (GSP) Available at: www.genome.gov/sequencingcostsdata [accessed 2017-07-11].
 
