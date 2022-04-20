@@ -1,4 +1,4 @@
-# HRV Transparency index - Hollyer, Rosendorff, and Vreeland (2014)
+# Government Transparency index - Hollyer, Rosendorff, and Vreeland (2014)
 
 This dataset provides information on government transparency, as per the index by Hollyer et al. (2014).
 
