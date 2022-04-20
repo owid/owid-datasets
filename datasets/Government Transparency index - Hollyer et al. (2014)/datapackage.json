@@ -5,7 +5,7 @@
   "description": "This dataset provides information on government transparency, as per the index by Hollyer et al. (2014).\n\nA government is considered more transparent if it provides data on many measures of the economy to the World Bank, even if other countries do not.",
   "sources": [
     {
-      "name": "Hollyer, Rosendorff, and Vreeland (2014)",
+      "name": "Hollyer et al. (2014)",
       "link": "http://hrvtransparency.org/",
       "retrievedDate": "April 19, 2022",
       "additionalInfo": "This dataset provides information on government transparency, as per the index by Hollyer et al. (2014).\n\nA government is considered more transparent if it provides data on many measures of the economy to the World Bank, even if other countries do not.",
