@@ -1,0 +1,54 @@
+{
+  "name": "Government Transparency index - Hollyer et al. (2014)",
+  "title": "Government Transparency index - Hollyer et al. (2014)",
+  "id": 189,
+  "description": "This dataset provides information on government transparency, as per the index by Hollyer et al. (2014).\n\nA government is considered more transparent if it provides data on many measures of the economy to the World Bank, even if other countries do not.",
+  "sources": [
+    {
+      "name": "Hollyer, Rosendorff, and Vreeland (2014)",
+      "link": "http://hrvtransparency.org/",
+      "retrievedDate": "April 19, 2022",
+      "additionalInfo": "This dataset provides information on government transparency, as per the index by Hollyer et al. (2014).\n\nA government is considered more transparent if it provides data on many measures of the economy to the World Bank, even if other countries do not.",
+      "dataPublishedBy": "Hollyer, James, Peter Rosendorff, and James Vreeland. 2014. Measuring Transparency. Political Analysis 22(4): 413-434.",
+      "dataPublisherSource": "World Bank economic data."
+    }
+  ],
+  "owidTags": [
+    "Accountability & Transparency"
+  ],
+  "resources": [
+    {
+      "path": "Government Transparency index - Hollyer et al. (2014).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "gov_transparency",
+            "type": "any",
+            "description": "The variable denotes the best estimate of the extent to which governments report economic data to the World Bank.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "gov_transparency_upper",
+            "type": "any",
+            "description": "The variable denotes the upper-bound estimate of the extent to which governments report economic data to the World Bank.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "gov_transparency_lower",
+            "type": "any",
+            "description": "The variable denotes the lower-bound estimate of the extent to which governments report economic data to the World Bank.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          }
+        ]
+      }
+    }
+  ]
+}
