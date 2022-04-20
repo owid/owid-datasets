@@ -2,15 +2,15 @@
   "name": "HRV Transparency index - Hollyer, Rosendorff, and Vreeland (2014)",
   "title": "HRV Transparency index - Hollyer, Rosendorff, and Vreeland (2014)",
   "id": 189,
-  "description": "According to the source this measure \"relies on a precise and narrow conception of transparency: the disclosure of policy-relevant information by the government to the public. In addition, our measure reflects an objective view of transparency that is readily reproducible by others.\r\n\r\nThe HRV Index focuses on the availability of credible aggregate economic data. It does so by examining patterns of missing data and treating transparency as the latent term which best reflects the tendency to disclose.\"\r\n\r\nThe data is presented in the paper: James R. Hollyer, B. Peter Rosendorff, and James R. Vreeland, 2014 “Measuring Transparency.” Political Analysis. Vol. 22. No. 1",
+  "description": "This dataset provides information on government transparency, as per the index by Hollyer et al. (2014).\n\nA government is considered more transparent if it provides data on many measures of the economy to the World Bank, even if other countries do not.\n\nYou can read more about specific countries in the profiles by Bleek (2017) and the Nuclear Threat Initiative (2022) by following the links.",
   "sources": [
     {
-      "name": "Measuring Transparency - Hollyer, Rosendorff, and Vreeland (2014)",
-      "dataPublishedBy": "HRV Transparency Project",
-      "dataPublisherSource": "Constructed by the HRV Transparency project and published in the paper: James R. Hollyer, B. Peter Rosendorff, and James R. Vreeland, 2014 “Measuring Transparency.” Political Analysis. Vol. 22. No. 1",
+      "name": "Hollyer, Rosendorff, and Vreeland (2014)",
       "link": "http://hrvtransparency.org/",
-      "retrievedDate": "03/03/2015",
-      "additionalInfo": "According to the source this measure \"relies on a precise and narrow conception of transparency: the disclosure of policy-relevant information by the government to the public. In addition, our measure reflects an objective view of transparency that is readily reproducible by others.\r\n\r\nThe HRV Index focuses on the availability of credible aggregate economic data. It does so by examining patterns of missing data and treating transparency as the latent term which best reflects the tendency to disclose.\"\r\n\r\nThe data is presented in the paper: James R. Hollyer, B. Peter Rosendorff, and James R. Vreeland, 2014 “Measuring Transparency.” Political Analysis. Vol. 22. No. 1"
+      "retrievedDate": "April 19, 2022",
+      "additionalInfo": "This dataset provides information on government transparency, as per the index by Hollyer et al. (2014).\n\nA government is considered more transparent if it provides data on many measures of the economy to the World Bank, even if other countries do not.\n\nYou can read more about specific countries in the profiles by Bleek (2017) and the Nuclear Threat Initiative (2022) by following the links.",
+      "dataPublishedBy": "Hollyer, James, Peter Rosendorff, and James Vreeland. 2014. Measuring Transparency. Political Analysis 22(4): 413-434.",
+      "dataPublisherSource": "Measurement model of the extent to which a government reports 240 measures of the economy to the World Bank"
     }
   ],
   "owidTags": [
@@ -30,10 +30,22 @@
             "type": "year"
           },
           {
-            "name": "HRV Transparency index (Hollyer, Rosendorff, and Vreeland (2014))",
+            "name": "gov_transparency",
             "type": "any",
-            "description": "Transparency index",
-            "owidDisplaySettings": {}
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "gov_transparency_upper",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "gov_transparency_lower",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
           }
         ]
       }
