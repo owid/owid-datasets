@@ -1,4 +1,4 @@
-# Rhino populations (AfRSG & other sources, 2019)
+# Rhino populations (AfRSG & other sources, 2022)
 
 Data was compiled by Our World in Data based on a number of historical sources. Data is based on best estimates: there is greater uncertainty in earlier historical data but is provided as the best estimate of the time. 
 
@@ -15,3 +15,5 @@ Emslie, R. and Brooks, M. (1999) African Rhino. Status Survey and Conservation A
 Specialist Group. IUCN, Gland, Switzerland and Cambridge, UK. ix + 92 pp.
 
 Thapa, K., Nepal, S., Thapa, G., Bhatta, S. R., & Wikramanayake, E. (2013). Past, present and future conservation of the greater one-horned rhinoceros Rhinoceros unicornis in Nepal. Oryx, 47(3), 345-351.
+
+2020 estimated from the State of the Rhino report (from the International Rhino Foundation): https://rhinos.org/about-rhinos/state-of-the-rhino/

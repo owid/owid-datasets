@@ -1,12 +1,16 @@
 Entity,Year,"Sumatran Rhino population (AfRSG & other sources, 2019)","Indian Rhino population (AfRSG & other sources, 2019)","Javan Rhino population (AfRSG & other sources, 2019)","Southern White Rhino population (AfRSG & other sources, 2019)","Northern White Rhino population (AfRSG & other sources, 2019)","White Rhino population (AfRSG & other sources, 2019)","Black Rhino population (AfRSG & other sources, 2019)"
+Angola,1895,,,,0,,,
+Angola,1929,,,,0,,,
+Angola,1948,,,,0,,,
+Angola,1968,,,,0,,,
 Angola,1980,,,,,,,300
 Angola,1984,,,,,,,90
-Angola,1987,,,,,,,0
-Angola,1991,,,,,,,50
-Angola,1992,,,,,,,50
-Angola,1993,,,,,,,10
-Angola,1995,,,,,,,0
-Angola,1997,,,,,,,0
+Angola,1987,,,,0,,,0
+Angola,1991,,,,0,,,50
+Angola,1992,,,,0,,,50
+Angola,1993,,,,0,,,10
+Angola,1995,,,,0,,,0
+Angola,1997,,,,0,,,0
 Angola,2010,,,,,,,1
 Botswana,1895,,,,0,,,
 Botswana,1929,,,,0,,,
@@ -64,11 +68,13 @@ India,2007,,2150,,,,,
 India,2009,,2363,,,,,
 India,2016,,2912,,,,,
 India,2018,,2939,,,,,
+India,2020,,2978,,,,,
 Indonesia,2007,180,,45,,,,
 Indonesia,2009,170,,40,,,,
 Indonesia,2010,,,40,,,,
 Indonesia,2012,,,58,,,,
 Indonesia,2016,76,,,,,,
+Indonesia,2017,,,59,,,,
 Indonesia,2018,59,,66,,,,
 Ivory Coast,1895,,,,0,,,
 Ivory Coast,1929,,,,0,,,
@@ -160,6 +166,7 @@ Nepal,2009,,435,,,,,
 Nepal,2011,,534,,,,,
 Nepal,2016,,645,,,,,
 Nepal,2018,,649,,,,,
+Nepal,2020,,752,,,,,
 Pakistan,1986,,2,,,,,
 Pakistan,2007,,2,,,,,
 Pakistan,2009,,2,,,,,
@@ -292,6 +299,7 @@ World,2015,,,,20053,3,20056,5214
 World,2016,76,3557,,,,,
 World,2017,,,,18064,3,18067,5495
 World,2018,59,3588,66,,2,,
+World,2020,,3730,,,,,
 Zambia,1895,,,,0,,,
 Zambia,1929,,,,0,,,
 Zambia,1948,,,,0,,,
