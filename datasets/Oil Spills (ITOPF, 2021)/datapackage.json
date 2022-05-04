@@ -2,13 +2,13 @@
   "name": "Oil Spills (ITOPF, 2021)",
   "title": "Oil Spills (ITOPF, 2021)",
   "id": 5619,
-  "description": "The International Tanker Owners Pollution Federation (ITOPF) publishes annual data on the number and quantities of oil spilt from tankers globally.\n\nThe latest report from the ITOPF is published here: https://www.itopf.org/fileadmin/uploads/itopf/data/Documents/Company_Lit/Oil_Spill_Stats_2021.pdf\n\nWe have extracted the data from the published tables of annual statistics.",
+  "description": "The International Tanker Owners Pollution Federation (ITOPF) publishes annual data on the number and quantities of oil spilt from tankers globally.\n\nThe latest report from the ITOPF is published here: https://www.itopf.org/fileadmin/uploads/itopf/data/Documents/Company_Lit/Oil_Spill_Stats_2021.pdf\n\nWe have extracted the data from the published tables of annual statistics.\n\nDecadal figures are given as the total, or annual average over the ten years starting at the decadal base year: for example, the figures for the 1990s is the 10 years from 1990 (inclusive) to 1999.",
   "sources": [
     {
       "name": "International Tanker Owners Pollution Federation (ITOPF)",
       "link": "https://www.itopf.org/knowledge-resources/data-statistics/statistics/",
       "retrievedDate": "4th May 2022",
-      "additionalInfo": "The International Tanker Owners Pollution Federation (ITOPF) publishes annual data on the number and quantities of oil spilt from tankers globally.\n\nThe latest report from the ITOPF is published here: https://www.itopf.org/fileadmin/uploads/itopf/data/Documents/Company_Lit/Oil_Spill_Stats_2021.pdf\n\nWe have extracted the data from the published tables of annual statistics.",
+      "additionalInfo": "The International Tanker Owners Pollution Federation (ITOPF) publishes annual data on the number and quantities of oil spilt from tankers globally.\n\nThe latest report from the ITOPF is published here: https://www.itopf.org/fileadmin/uploads/itopf/data/Documents/Company_Lit/Oil_Spill_Stats_2021.pdf\n\nWe have extracted the data from the published tables of annual statistics.\n\nDecadal figures are given as the total, or annual average over the ten years starting at the decadal base year: for example, the figures for the 1990s is the 10 years from 1990 (inclusive) to 1999.",
       "dataPublishedBy": "International Tanker Owners Pollution Federation (ITOPF)"
     }
   ],
@@ -31,11 +31,29 @@
           {
             "name": "number_oil_spills",
             "type": "any",
+            "description": "The global number of oil spills from tankers per year.",
+            "owidDisplaySettings": "{\"name\": \"Global number of oil spills\", \"unit\": \"oil spills\", \"shortUnit\": \"spills\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "quantity_oil_spilt",
+            "type": "any",
+            "description": "The global quantity of oil spilt from tankers per year.",
+            "owidDisplaySettings": "{\"name\": \"Global quantity of oil spilt from tankers\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
+          },
+          {
+            "name": "number_oil_spills_decadal_average",
+            "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "quantity_oil_spilt",
+            "name": "quantity_oil_spilt_decadal",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "quantity_oil_spilt_decadal_average",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
