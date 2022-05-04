@@ -1,0 +1,47 @@
+{
+  "name": "Oil Spills (ITOPF, 2021)",
+  "title": "Oil Spills (ITOPF, 2021)",
+  "id": 5619,
+  "description": "The International Tanker Owners Pollution Federation (ITOPF) publishes annual data on the number and quantities of oil spilt from tankers globally.\n\nThe latest report from the ITOPF is published here: https://www.itopf.org/fileadmin/uploads/itopf/data/Documents/Company_Lit/Oil_Spill_Stats_2021.pdf\n\nWe have extracted the data from the published tables of annual statistics.",
+  "sources": [
+    {
+      "name": "International Tanker Owners Pollution Federation (ITOPF)",
+      "link": "https://www.itopf.org/knowledge-resources/data-statistics/statistics/",
+      "retrievedDate": "4th May 2022",
+      "additionalInfo": "The International Tanker Owners Pollution Federation (ITOPF) publishes annual data on the number and quantities of oil spilt from tankers globally.\n\nThe latest report from the ITOPF is published here: https://www.itopf.org/fileadmin/uploads/itopf/data/Documents/Company_Lit/Oil_Spill_Stats_2021.pdf\n\nWe have extracted the data from the published tables of annual statistics.",
+      "dataPublishedBy": "International Tanker Owners Pollution Federation (ITOPF)"
+    }
+  ],
+  "owidTags": [
+    "Oil Spills"
+  ],
+  "resources": [
+    {
+      "path": "Oil Spills (ITOPF, 2021).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "number_oil_spills",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "quantity_oil_spilt",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
