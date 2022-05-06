@@ -1,6 +1,6 @@
 {
-  "name": "Life-cycle impacts of energy sources (UNECEA)",
-  "title": "Life-cycle impacts of energy sources (UNECEA)",
+  "name": "Life-cycle impacts of energy sources (UNECE)",
+  "title": "Life-cycle impacts of energy sources (UNECE)",
   "id": 5431,
   "description": "",
   "sources": [
@@ -15,7 +15,7 @@
   ],
   "resources": [
     {
-      "path": "Life-cycle impacts of energy sources (UNECEA).csv",
+      "path": "Life-cycle impacts of energy sources (UNECE).csv",
       "schema": {
         "fields": [
           {
