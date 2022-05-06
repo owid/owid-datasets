@@ -1,0 +1,243 @@
+{
+  "name": "Energy land use scenario analysis (OWID based on UNECE & EMBER)",
+  "title": "Energy land use scenario analysis (OWID based on UNECE & EMBER)",
+  "id": 5621,
+  "description": "This dataset was calculated by Our World in Data based on:\n\n1.  Land use intensity data sourced from the UNECE's Lifecycle Assessment of Electricity Generation Options assessment. This provides data on the amount of land needed to produce one unit of electricity across different energy sources. This is based on literature review of life-cycle assessments of electricity sources: these not only include the land used for individual power plants, but also include any land use upstream in supply chains, such as mining for fuel or raw materials.\n\n2. Electricity consumption data sourced from Ember Climate.\n\nBy multiplying annual electricity consumption for each country by the average land use of different energy sources, we have calculated the amount of land that would be needed if a country got all of its electricity from a single source. This is an unrealistic and simplistic scenario, but serves to provide a magnitude estimate of how much would be needed for energy production under different circumstances.\n\nReferences:\nUNECE (2021). Lifecycle Assessment of Electricity Generation Options. United Nations Economic Commission for Europe. Available at: https://unece.org/sed/documents/2021/10/reports/life-cycle-assessment-electricity-generation-options\n\nEmber Climate. Available at: https://ember-climate.org/",
+  "sources": [
+    {
+      "name": "Calculated by Our World in Data based on UNECE (2021). Lifecycle Assessment of Electricity Generation Options; and Ember Climate.",
+      "additionalInfo": "This dataset was calculated by Our World in Data based on:\n\n1.  Land use intensity data sourced from the UNECE's Lifecycle Assessment of Electricity Generation Options assessment. This provides data on the amount of land needed to produce one unit of electricity across different energy sources. This is based on literature review of life-cycle assessments of electricity sources: these not only include the land used for individual power plants, but also include any land use upstream in supply chains, such as mining for fuel or raw materials.\n\n2. Electricity consumption data sourced from Ember Climate.\n\nBy multiplying annual electricity consumption for each country by the average land use of different energy sources, we have calculated the amount of land that would be needed if a country got all of its electricity from a single source. This is an unrealistic and simplistic scenario, but serves to provide a magnitude estimate of how much would be needed for energy production under different circumstances.\n\nReferences:\nUNECE (2021). Lifecycle Assessment of Electricity Generation Options. United Nations Economic Commission for Europe. Available at: https://unece.org/sed/documents/2021/10/reports/life-cycle-assessment-electricity-generation-options\n\nEmber Climate. Available at: https://ember-climate.org/",
+      "dataPublishedBy": "Calculated by Our World in Data based on UNECE (2021). Lifecycle Assessment of Electricity Generation Options; and Ember Climate."
+    }
+  ],
+  "owidTags": [
+    "Energy"
+  ],
+  "resources": [
+    {
+      "path": "Energy land use scenario analysis (OWID based on UNECE & EMBER).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "land_all_coal",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_all_gas",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_all_coal_ccs",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_all_gas_ccs",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_all_hydro",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_all_nuclear",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_all_solar_silicon",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_all_solar_cadmium",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_all_concentrating_solar",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_all_wind",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_all_coal_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_all_gas_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_all_coal_ccs_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_all_gas_ccs_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_all_hydro_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_all_nuclear_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_all_solar_silicon_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_all_solar_cadmium_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_all_concentrating_solar_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_all_wind_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_actual_coal",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_actual_gas",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_actual_hydro",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_actual_nuclear",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_actual_solar",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_actual_wind",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_actual_total",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_energy_intensity",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_actual_coal_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_actual_gas_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_actual_hydro_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_actual_nuclear_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_actual_solar_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_actual_wind_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "land_actual_total_share",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
