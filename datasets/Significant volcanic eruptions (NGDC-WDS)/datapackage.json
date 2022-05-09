@@ -6,15 +6,15 @@
   "sources": [
     {
       "name": "Significant volcanic eruptions (NGDC-WDS)",
-      "dataPublishedBy": "National Geophysical Data Center / World Data Service (NGDC/WDS): Significant Volcanic Eruptions Database. National Geophysical Data Center, NOAA.",
-      "dataPublisherSource": null,
-      "link": "https://www.ngdc.noaa.gov/nndc/servlet/ShowDatasets?dataset=102557&search_look=50&display_look=50",
+      "link": "https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ngdc.mgg.hazards:G10147#:~:text=Our%20Impact-,NCEI%2FWDS%20Global%20Significant%20Volcanic%20Eruptions%20Database%2C%204360%20BC%20to,4360%20BC%20to%20the%20present.",
       "retrievedDate": "19th September 2018",
-      "additionalInfo": "The Significant Volcanic Eruption Database is a global listing of over 500 significant eruptions which includes information on the latitude, longitude, elevation, type of volcano, and last known eruption. A significant eruption is classified as one that meets at least one of the following criteria: caused fatalities, caused moderate damage (approximately $1 million or more), with a Volcanic Explosivity Index (VEI) of 6 or larger, caused a tsunami, or was associated with a major earthquake.\n\nNote that since this data is very long-term it's expected that most recent data on eruptions will be the most complete than long historic events."
+      "additionalInfo": "The Significant Volcanic Eruption Database is a global listing of over 500 significant eruptions which includes information on the latitude, longitude, elevation, type of volcano, and last known eruption. A significant eruption is classified as one that meets at least one of the following criteria: caused fatalities, caused moderate damage (approximately $1 million or more), with a Volcanic Explosivity Index (VEI) of 6 or larger, caused a tsunami, or was associated with a major earthquake.\n\nNote that since this data is very long-term it's expected that most recent data on eruptions will be the most complete than long historic events.",
+      "dataPublishedBy": "National Geophysical Data Center / World Data Service (NGDC/WDS): Significant Volcanic Eruptions Database. National Geophysical Data Center, NOAA.",
+      "dataPublisherSource": null
     }
   ],
   "owidTags": [
-    "Natural Catastrophes"
+    "Natural Disasters"
   ],
   "resources": [
     {
@@ -33,7 +33,7 @@
             "name": "Number of significant volcanic eruptions (NGDC-WDS)",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           }
         ]
       }
