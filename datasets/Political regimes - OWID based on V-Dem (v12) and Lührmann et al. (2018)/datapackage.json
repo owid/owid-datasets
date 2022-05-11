@@ -62,7 +62,7 @@
           {
             "name": "electmulpar_row_owid",
             "type": "any",
-            "description": "The variable denotes the best estimate of whether multi-party elections were held or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
+            "description": "The variable denotes the best estimate of whether national multi-party elections were held or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
@@ -74,7 +74,7 @@
           {
             "name": "electmulpar_leg_row_owid",
             "type": "any",
-            "description": "The variable denotes the best estimate of whether multi-party elections for the legislature were held or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
+            "description": "The variable denotes the best estimate of whether multi-party elections for the national legislature were held or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
@@ -86,26 +86,26 @@
           {
             "name": "electdem_dich_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of whether the country is meaningfully an electoral democracy, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts. This includes the extent to which political leaders are elected under comprehensive suffrage in free and fair elections, and freedoms of association and expression are guaranteed.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "accessjust_m_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of whether men have access to justice or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "accessjust_w_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of whether women have access to justice or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "transplaws_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of whether laws are transparent and their enforcement predictable or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "electdem_vdem_owid",
@@ -902,31 +902,31 @@
           {
             "name": "regime_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the political regime of a country using the Regimes of the World classification by political scientists Anna Lührmann, Marcus Tannenberg and Staffan Lindberg, including ambiguous categories. It distinguishes between closed autocracies (score 0), electoral autocracies (score 3), electoral democracies (score 6), and liberal democracies (score 9) as the main types.\n\nIn closed autocracies, citizens do not have the right to either choose the chief executive of the government or the legislature through multi-party elections.\n\nIn electoral autocracies, citizens have the right to choose the chief executive and the legislature through multi-party elections; but they lack some freedoms, such as the freedoms of association or expression, that make the elections meaningful, free, and fair.\n\nIn electoral democracies, citizens have the right to participate in meaningful, free and fair, and multi-party elections.\n\nIn liberal democracies, citizens have further individual and minority rights, are equal before the law, and the actions of the executive are constrained by the legislative and the courts.\n\nIt further includes intermediate categories for closed autocracies that may be electoral autocracies (score 1), electoral autocracies that may be closed autocracies (score 2), electoral autocracies that may be electoral democracies (score 4), electoral democracies that may be electoral autocracies (score 5), electoral democracies that may be liberal democracies (score 7) and liberal democracies that may be electoral democracies (score 8).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "electmulpar_high_row_owid",
             "type": "any",
-            "description": "The variable denotes the upper-bound estimate of whether multi-party elections were held or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
+            "description": "The variable denotes the upper-bound estimate of whether national multi-party elections were held or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "electmulpar_low_row_owid",
             "type": "any",
-            "description": "The variable denotes the lower-bound estimate of whether multi-party elections were held or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
+            "description": "The variable denotes the lower-bound estimate of whether national multi-party elections were held or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "electmulpar_leg_high_row_owid",
             "type": "any",
-            "description": "The variable denotes the upper-bound estimate of whether multi-party elections for the legislature were held or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
+            "description": "The variable denotes the upper-bound estimate of whether multi-party elections for the national legislature were held or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "electmulpar_leg_low_row_owid",
             "type": "any",
-            "description": "The variable denotes the lower-bound estimate of whether multi-party elections for the legislature were held or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
+            "description": "The variable denotes the lower-bound estimate of whether multi-party elections for the national legislature were held or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
@@ -968,56 +968,56 @@
           {
             "name": "accessjust_m_high_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of whether men have access to justice or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "accessjust_m_low_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of whether men have access to justice or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "accessjust_w_high_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of whether women have access to justice or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "accessjust_w_low_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of whether women have access to justice or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "transplaws_high_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of whether laws are transparent and their enforcement predictable or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "transplaws_low_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of whether laws are transparent and their enforcement predictable or not, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "lib_dich_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of whether the country has meaningfully liberal political institutions, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts. This includes the extent to which citizens have individual and minority rights, are equal before the law, and the actions of the executive are constrained by the legislative and the courts.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "lib_dich_high_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of whether the country has meaningfully liberal political institutions, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts. This includes the extent to which citizens have individual and minority rights, are equal before the law, and the actions of the executive are constrained by the legislative and the courts.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "lib_dich_low_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of whether the country has meaningfully liberal political institutions, based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts. This includes the extent to which citizens have individual and minority rights, are equal before the law, and the actions of the executive are constrained by the legislative and the courts.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_closedaut_amb_row_owid",
