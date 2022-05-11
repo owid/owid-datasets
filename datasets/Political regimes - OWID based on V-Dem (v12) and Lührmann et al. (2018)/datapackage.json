@@ -146,56 +146,56 @@
           {
             "name": "participdem_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which citizens can engage in regional and local government, civil society organizations, and direct democracy.\n\nIt is based on the V-Dem variable v2x_partipdem, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "participdem_vdem_low_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which citizens can engage in regional and local government, civil society organizations, and direct democracy.\n\nIt is based on the V-Dem variable v2x_partipdem_codelow, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "participdem_vdem_high_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which citizens can engage in regional and local government, civil society organizations, and direct democracy.\n\nIt is based on the V-Dem variable v2x_partipdem_codehigh, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "delibdem_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which political elites justify their positions, justify them with the common good, acknowledge counterarguments, consult elites in policy changes, and society deliberates policy changes.\n\nIt is based on the V-Dem variable v2x_delibdem, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "delibdem_vdem_low_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which political elites justify their positions, justify them with the common good, acknowledge counterarguments, consult elites in policy changes, and society deliberates policy changes.\n\nIt is based on the V-Dem variable v2x_delibdem_codelow, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "delibdem_vdem_high_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which political elites justify their positions, justify them with the common good, acknowledge counterarguments, consult elites in policy changes, and society deliberates policy changes.\n\nIt is based on the V-Dem variable v2x_delibdem_codehigh, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "egaldem_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which the protection of rights, access to power, and distribution of resources is equal.\n\nIt is based on the V-Dem variable v2x_egaldem, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "egaldem_vdem_low_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which the protection of rights, access to power, and distribution of resources is equal.\n\nIt is based on the V-Dem variable v2x_egaldem_codelow, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "egaldem_vdem_high_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which the protection of rights, access to power, and distribution of resources is equal.\n\nIt is based on the V-Dem variable v2x_egaldem_codehigh, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "freeexpr_vdem_owid",
@@ -266,20 +266,20 @@
           {
             "name": "lib_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent of individual and minority rights, equality before the law, and executive constraints.\n\nIt is based on the V-Dem variable v2x_lib, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most liberal).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "lib_vdem_low_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent of individual and minority rights, equality before the law, and executive constraints.\n\nIt is based on the V-Dem variable v2x_lib_codelow, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most liberal).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "lib_vdem_high_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent of individual and minority rights, equality before the law, and executive constraints.\n\nIt is based on the V-Dem variable v2x_lib_codehigh, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most liberal).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "civlib_vdem_owid",
@@ -302,224 +302,224 @@
           {
             "name": "judicial_constr_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent to which the executive respects the constitutions, complies with the judiciary and high courts, and higher and lower courts are independent.\n\nIt is based on the V-Dem variable v2x_jucon, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most constrained).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "judicial_constr_vdem_low_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which the executive respects the constitutions, complies with the judiciary and high courts, and higher and lower courts are independent.\n\nIt is based on the V-Dem variable v2x_jucon_codelow, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most constrained).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "judicial_constr_vdem_high_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which the executive respects the constitutions, complies with the judiciary and high courts, and higher and lower courts are independent.\n\nIt is based on the V-Dem variable v2x_jucon_codehigh, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most constrained).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "legis_constr_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent to which the legislature, including opposition parties, questions executive officials and oversees and investigates the executive.\n\nIt is based on the V-Dem variable v2xlg_legcon, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most constrained).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "legis_constr_vdem_low_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which the legislature, including opposition parties, questions executive officials and oversees and investigates the executive.\n\nIt is based on the V-Dem variable v2xlg_legcon_codelow, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most constrained).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "legis_constr_vdem_high_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which the legislature, including opposition parties, questions executive officials and oversees and investigates the executive.\n\nIt is based on the V-Dem variable v2xlg_legcon_codehigh, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most constrained).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "particip_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent to which citizens can engage in regional and local government, civil society organizations, and direct democracy.\n\nIt is based on the V-Dem variable v2x_partip, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most participatory).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "particip_vdem_low_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which citizens can engage in regional and local government, civil society organizations, and direct democracy.\n\nIt is based on the V-Dem variable v2x_partip_codelow, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most participatory).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "particip_vdem_high_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which citizens can engage in regional and local government, civil society organizations, and direct democracy.\n\nIt is based on the V-Dem variable v2x_partip_codehigh, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most participatory).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "civsoc_particip_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent to which major civil society organization are routinely consulted by policymakers, how many people are involved in them, women can participate, and candidate nomination for the legislature within parties is decentralized or made through primaries.\n\nIt is based on the V-Dem variable v2x_cspart, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most participation).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "civsoc_particip_vdem_low_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which major civil society organization are routinely consulted by policymakers, how many people are involved in them, women can participate, and candidate nomination for the legislature within parties is decentralized or made through primaries.\n\nIt is based on the V-Dem variable v2x_cspart_codelow, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most participation).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "civsoc_particip_vdem_high_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which major civil society organization are routinely consulted by policymakers, how many people are involved in them, women can participate, and candidate nomination for the legislature within parties is decentralized or made through primaries.\n\nIt is based on the V-Dem variable v2x_cspart_codehigh, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most participation).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "dirpop_vote_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the extent of how easy it is for citizens to vote on specific issues themselves in popular initiatives, referendums, and plebiscites.\n\nIt is based on the V-Dem variable v2xdd_dd, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (easiest).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "locelect_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent to which elected local governments exist and they operate without interference from local unelected bodies.\n\nIt is based on the V-Dem variable v2xel_locelec, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (strongest).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "locelect_vdem_low_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which elected local governments exist and they operate without interference from local unelected bodies.\n\nIt is based on the V-Dem variable v2xel_locelec_codelow, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (strongest).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "locelect_vdem_high_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which elected local governments exist and they operate without interference from local unelected bodies.\n\nIt is based on the V-Dem variable v2xel_locelec_codehigh, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (strongest).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "regelect_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent to which elected regional governments exist and they operate without interference from regional unelected bodies.\n\nIt is based on the V-Dem variable v2xel_regelec, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (strongest).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "regelect_vdem_low_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which elected regional governments exist and they operate without interference from regional unelected bodies.\n\nIt is based on the V-Dem variable v2xel_regelec_codelow, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (strongest).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "regelect_vdem_high_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which elected regional governments exist and they operate without interference from regional unelected bodies.\n\nIt is based on the V-Dem variable v2xel_regelec_codehigh, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (strongest).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "delib_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent to which political elites justify their positions, justify them with the common good, acknowledge counterarguments, consult elites in policy changes, and society deliberates policy changes.\n\nIt is based on the V-Dem variable v2x_delib, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most deliberative).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "delib_vdem_low_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which political elites justify their positions, justify them with the common good, acknowledge counterarguments, consult elites in policy changes, and society deliberates policy changes.\n\nIt is based on the V-Dem variable v2x_delib_codelow, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most deliberative).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "delib_vdem_high_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which political elites justify their positions, justify them with the common good, acknowledge counterarguments, consult elites in policy changes, and society deliberates policy changes.\n\nIt is based on the V-Dem variable v2x_delib_codehigh and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most deliberative).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "justified_polch_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent to which political elites provide complex, nuanced, and complete justifications for their views when considering important policy changes.\n\nIt is based on the V-Dem variable v2dlreason, and we expand it to cover more years for some countries.\n\nHigher scores mean more justification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "justified_polch_vdem_low_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which political elites provide complex, nuanced, and complete justifications for their views when considering important policy changes.\n\nIt is based on the V-Dem variable v2dlreason_codelow, and we expand it to cover more years for some countries.\n\nHigher scores mean more justification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "justified_polch_vdem_high_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which political elites provide complex, nuanced, and complete justifications for their views when considering important policy changes.\n\nIt is based on the V-Dem variable v2dlreason_codehigh, and we expand it to cover more years for some countries.\n\nHigher scores mean more justification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "justcomgd_polch_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent to which political elites justify their views with the common good for society, either the greatest good for the greatest number of people, or as helping the least advantaged people in society when considering important policy changes.\n\nIt is based on the V-Dem variable v2dlcommon, and we expand it to cover more years for some countries.\n\nHigher scores mean more justification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "justcomgd_polch_vdem_low_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which political elites justify their views with the common good for society, either the greatest good for the greatest number of people, or as helping the least advantaged people in society when considering important policy changes.\n\nIt is based on the V-Dem variable v2dlcommon_codelow, and we expand it to cover more years for some countries.\n\nHigher scores mean more justification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "justcomgd_polch_vdem_high_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which political elites justify their views with the common good for society, either the greatest good for the greatest number of people, or as helping the least advantaged people in society when considering important policy changes.\n\nIt is based on the V-Dem variable v2dlcommon_codehigh, and we expand it to cover more years for some countries.\n\nHigher scores mean more justification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "counterarg_polch_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent to which political elites acknowledge and respect counterarguments when considering important policy changes.\n\nIt is based on the V-Dem variable v2dlcountr, and we expand it to cover more years for some countries.\n\nHigher scores mean more respect.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "counterarg_polch_vdem_low_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which political elites acknowledge and respect counterarguments when considering important policy changes.\n\nIt is based on the V-Dem variable v2dlcountr_codelow, and we expand it to cover more years for some countries.\n\nHigher scores mean more respect.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "counterarg_polch_vdem_high_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which political elites acknowledge and respect counterarguments when considering important policy changes.\n\nIt is based on the V-Dem variable v2dlcountr_codehigh, and we expand it to cover more years for some countries.\n\nHigher scores mean more respect.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "elitecons_polch_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent to which political elites consult other elites across the political spectrum and from relevant sectors of society and business when considering important policy changes.\n\nIt is based on the V-Dem variable v2dlconslt, and we expand it to cover more years for some countries.\n\nHigher scores mean more consultation.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "elitecons_polch_vdem_low_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which political elites consult other elites across the political spectrum and from relevant sectors of society and business when considering important policy changes.\n\nIt is based on the V-Dem variable v2dlconslt_codelow, and we expand it to cover more years for some countries.\n\nHigher scores mean more consultation.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "elitecons_polch_vdem_high_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which political elites consult other elites across the political spectrum and from relevant sectors of society and business when considering important policy changes.\n\nIt is based on the V-Dem variable v2dlconslt_codehigh, and we expand it to cover more years for some countries.\n\nHigher scores mean more consultation.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "soccons_polch_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent to which ordinary people independently discuss considered important policy changes among themselves, in the media, in associations or neighborhoods, or in the streets.\n\nIt is based on the V-Dem variable v2dlengage, and we expand it to cover more years for some countries.\n\nHigher scores mean more discussion.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "soccons_polch_vdem_low_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which ordinary people independently discuss considered important policy changes among themselves, in the media, in associations or neighborhoods, or in the streets.\n\nIt is based on the V-Dem variable v2dlengage_codelow, and we expand it to cover more years for some countries.\n\nHigher scores mean more discussion.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "soccons_polch_vdem_high_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which ordinary people independently discuss considered important policy changes among themselves, in the media, in associations or neighborhoods, or in the streets.\n\nIt is based on the V-Dem variable v2dlengage_codehigh, and we expand it to cover more years for some countries.\n\nHigher scores mean more discussion.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "turnout_vdem_owid",
@@ -530,74 +530,74 @@
           {
             "name": "egal_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent to which the protection of rights, access to power, and distribution of resources is equal.\n\nIt is based on the V-Dem variable v2x_egal, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most egalitarian).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "egal_vdem_low_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which the protection of rights, access to power, and distribution of resources is equal.\n\nIt is based on the V-Dem variable v2x_egal_codelow, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most egalitarian).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "egal_vdem_high_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which the protection of rights, access to power, and distribution of resources is equal.\n\nIt is based on the V-Dem variable v2x_egal_codehigh, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most egalitarian).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "equal_rights_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent to which the state protects the rights and freedoms across social groups equally.\n\nIt is based on the V-Dem variable v2xeg_eqprotec, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most equal).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "equal_rights_vdem_low_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which the state protects the rights and freedoms across social groups equally.\n\nIt is based on the V-Dem variable v2xeg_eqprotec_codelow, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most equal).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "equal_rights_vdem_high_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which the state protects the rights and freedoms across social groups equally.\n\nIt is based on the V-Dem variable v2xeg_eqprotec_codehigh, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most equal).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "equal_access_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent to which access to power is equal across socioeconomic position, social group, and gender.\n\nIt is based on the V-Dem variable v2xeg_eqaccess, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most equal).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "equal_access_vdem_low_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which access to power is equal across socioeconomic position, social group, and gender.\n\nIt is based on the V-Dem variable v2xeg_eqaccess_codelow, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most equal).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "equal_access_vdem_high_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which access to power is equal across socioeconomic position, social group, and gender.\n\nIt is based on the V-Dem variable v2xeg_eqaccess_codehigh, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most equal).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "equal_ress_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent to which all social groups benefit from public spending, and have equal access to education, healthcare, and the welfare state.\n\nIt is based on the V-Dem variable v2xeg_eqdr, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most equal).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "equal_ress_vdem_low_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which all social groups benefit from public spending, and have equal access to education, healthcare, and the welfare state.\n\nIt is based on the V-Dem variable v2xeg_eqdr_codelow, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most equal).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "equal_ress_vdem_high_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which all social groups benefit from public spending, and have equal access to education, healthcare, and the welfare state.\n\nIt is based on the V-Dem variable v2xeg_eqdr_codehigh, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (most equal).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "goveffective_vdem_wbgi_owid",
@@ -716,122 +716,122 @@
           {
             "name": "pop_closedaut_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in closed autocracies based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_electaut_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in electoral autocracies based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_electdem_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in electoral democracies based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_libdem_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in liberal democracies based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_missreg_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in countries without regime data based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "popw_electdem_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent to which political leaders are elected under comprehensive suffrage in free and fair elections, and freedoms of association and expression are guaranteed, weighted by population. \n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "popw_electdem_l_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which political leaders are elected under comprehensive suffrage in free and fair elections, and freedoms of association and expression are guaranteed, weighted by population. \n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "popw_electdem_h_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which political leaders are elected under comprehensive suffrage in free and fair elections, and freedoms of association and expression are guaranteed, weighted by population. \n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "popw_libdem_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, individual and minority rights, equality before the law, and executive constraints, weighted by population.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "popw_libdem_l_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, individual and minority rights, equality before the law, and executive constraints, weighted by population.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "popw_libdem_h_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, individual and minority rights, equality before the law, and executive constraints, weighted by population.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "popw_participdem_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which citizens can engage in regional and local government, civil society organizations, and direct democracy, weighted by population.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "popw_participdem_l_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which citizens can engage in regional and local government, civil society organizations, and direct democracy, weighted by population.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "popw_participdem_h_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which citizens can engage in regional and local government, civil society organizations, and direct democracy, weighted by population.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "popw_delibdem_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which political elites justify their positions, justify them with the common good, acknowledge counterarguments, consult elites in policy changes, and society deliberates policy changes, weighted by population.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "popw_delibdem_l_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which political elites justify their positions, justify them with the common good, acknowledge counterarguments, consult elites in policy changes, and society deliberates policy changes, weighted by population.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "popw_delibdem_h_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which political elites justify their positions, justify them with the common good, acknowledge counterarguments, consult elites in policy changes, and society deliberates policy changes, weighted by population.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "popw_egaldem_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the best estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which the protection of rights, access to power, and distribution of resources is equal, weighted by population.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "popw_egaldem_l_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which the protection of rights, access to power, and distribution of resources is equal, weighted by population.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "popw_egaldem_h_vdem_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which the protection of rights, access to power, and distribution of resources is equal, weighted by population.\n\nThe index reaches from 0 to 1 (most democratic).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "region",
@@ -842,62 +842,62 @@
           {
             "name": "pop_electdem_18_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in electoral democracies aged 1-18, as based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_electdem_30_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in electoral democracies aged 19-30, as based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_electdem_60_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in electoral democracies aged 31-60, as based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_electdem_90_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in electoral democracies aged 61-90, as based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_electdem_91plus_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in electoral democracies aged 91 and older, as based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_libdem_18_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in liberal democracies aged 1-18, as based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_libdem_30_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in liberal democracies aged 19-30, as based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_libdem_60_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in liberal democracies aged 31-60, as based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_libdem_90_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in liberal democracies aged 61-90, as based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_libdem_91plus_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in liberal democracies aged 91 and older, as based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "regime_amb_row_owid",
@@ -1022,122 +1022,122 @@
           {
             "name": "number_closedaut_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of closed autocracies — accounting for ambiguous regimes — based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_closedaut_h_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of closed autocracies that may be electoral autocracies, based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_electaut_l_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of electoral autocracies that may be closed autocracies, based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_electaut_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of electoral autocracies — accounting for ambiguous regimes — based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_electaut_h_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of electoral autocracies that may be electoral democracies, based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_electdem_l_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of electoral democracies that may be electoral autocracies, based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_electdem_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of electoral democracies — accounting for ambiguous regimes — based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_electdem_h_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of electoral democracies that may be liberal democracies, based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_libdem_l_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of liberal democracies that may be electoral democracies, based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_libdem_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of liberal democracies — accounting for ambiguous regimes — based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_closedaut_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in closed autocracies — accounting for ambiguous categories — based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_closedaut_h_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in closed autocracies that may be electoral autocracies, based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_electaut_l_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in electoral autocracies that may be closed autocracies, based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_electaut_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in electoral autocracies — accounting for ambiguous regimes — based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_electaut_h_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in electoral autocracies that may be electoral democracies, based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_electdem_l_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in electoral democracies that may be electoral autocracies, based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_electdem_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in electoral democracies — accounting for ambiguous regimes — based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_electdem_h_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in electoral democracies that may be liberal democracies, based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_libdem_l_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in liberal democracies that may be electoral democracies, based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_libdem_amb_row_owid",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in liberal democracies — accounting for ambiguous regimes — based on the Regimes of the World-classification by Lührmann et al. (2018).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           }
         ]
       }
