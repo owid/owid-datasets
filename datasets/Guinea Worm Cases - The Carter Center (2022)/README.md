@@ -7,6 +7,6 @@ For 1986-2018:
 http://www.cartercenter.org/resources/pdfs/news/health_publications/guinea_worm/guinea-worm-cases-by-year-from-1989.pdf
 
 For 2019-2021:
-* [2019 (second half table 4)](https://www.cartercenter.org/resources/pdfs/news/health_publications/guinea_worm/wrap-up/273.pdf): 54 cases 
-* [2020 (second table on page 9)](https://www.cartercenter.org/resources/pdfs/news/health_publications/guinea_worm/wrap-up/283.pdf): 27 cases 
-* [2021 (second table on page 9)](https://www.cartercenter.org/resources/pdfs/news/health_publications/guinea_worm/wrap-up/284.pdf): 15 cases (so far)
+ - 2019 (second half table 4) -https://www.cartercenter.org/resources/pdfs/news/health_publications/guinea_worm/wrap-up/273.pdf
+ - 2020 (second table on page 9) - https://www.cartercenter.org/resources/pdfs/news/health_publications/guinea_worm/wrap-up/283.pdf
+ - 2021 (second table on page 9) - https://www.cartercenter.org/resources/pdfs/news/health_publications/guinea_worm/wrap-up/284.pdf
