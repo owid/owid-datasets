@@ -1,0 +1,69 @@
+{
+  "name": "GLOBOCAN - Lung cancer mortality rate over time, by sex",
+  "title": "GLOBOCAN - Lung cancer mortality rate over time, by sex",
+  "id": 5627,
+  "description": "",
+  "sources": [
+    {
+      "name": "GLOBOCAN - Lung cancer mortality rate over time, by sex",
+      "link": "https://gco.iarc.fr/overtime/en and https://gco.iarc.fr/today/home",
+      "retrievedDate": "2022-05-16",
+      "dataPublishedBy": "International Agency for Research on Cancer",
+      "dataPublisherSource": "WHO Mortality Database"
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "GLOBOCAN - Lung cancer mortality rate over time, by sex.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "male_mortality_rate_lung_cancer_per_100k",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "female_mortality_rate_lung_cancer_per_100k",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "modelled_male_mortality_rate_lung_cancer_per_100k",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "modelled_female_mortality_rate_lung_cancer_per_100k",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "combined_male_mortality_rate_lung_cancer_per_100k",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "combined_female_mortality_rate_lung_cancer_per_100k",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
