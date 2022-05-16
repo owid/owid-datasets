@@ -1,6 +1,7 @@
 # Year of Maternal and Neonatal Tetanus (MNT) elimination (WHO and KIWANIS, 2018)
 
-The WHO described 57 countries as at risk of maternal and neonatal tetanus in 1999 here: http://www.who.int/immunization/diseases/MNTE_initiative/en/index4.html
+The WHO described 57 countries as at risk of maternal and neonatal tetanus in 1999 and 2020 here: 
+http://web.archive.org/web/20220409111206/https://www.who.int/initiatives/maternal-and-neonatal-tetanus-elimination-(mnte)/progress-towards-global-mnt-elimination
 
 For the countries that eliminated MNT before 2011, the list of references was found here (http://www.who.int/immunization/diseases/MNTE_resources/en/) but the individual references are linked below as well:
 Bangladesh: http://www.who.int/wer/2008/wer8334.pdf?ua=1
@@ -24,6 +25,3 @@ Uganda: http://www.who.int/pmnch/media/news/2011/20110726_uganda_mnctetanus/en/
 Vietnam: http://www.who.int/wer/2006/wer8127.pdf?ua=1
 Zambia: http://www.who.int/immunization/diseases/WER_2008_Zambia.pdf?ua=1
 Zimbabwe: http://www.who.int/docstore/wer/pdf/2001/wer7614.pdf?ua=1
-
-For countries that eliminated MNT after 2010, their year of elimination was cited on the KIWANIS website here: 
-http://sites.kiwanis.org/Kiwanis/en/theELIMINATEproject/Progress/ProgressDashboard.aspx
