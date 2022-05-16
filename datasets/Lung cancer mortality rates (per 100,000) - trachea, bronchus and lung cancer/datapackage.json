@@ -1,6 +1,6 @@
 {
-  "name": "Age-standardized cancer mortality rates (per 100,000) - trachea, bronchus and lung cancer",
-  "title": "Age-standardized cancer mortality rates (per 100,000) - trachea, bronchus and lung cancer",
+  "name": "Lung cancer mortality rates (per 100,000) - trachea, bronchus and lung cancer",
+  "title": "Lung cancer mortality rates (per 100,000) - trachea, bronchus and lung cancer",
   "id": 5628,
   "description": "Age-standardized mortality rates (per 100,000 people) due to lung, bronchus or trachea cancer. The data is from the WHO Mortality database: https://platform.who.int/mortality\n\nThis dataset should be next updated by the source by May 2023. We will update it on Our World in Data soon after the new version is published. At the link above you can directly access the source page and see the latest available data.",
   "sources": [
@@ -16,7 +16,7 @@
   "owidTags": [],
   "resources": [
     {
-      "path": "Age-standardized cancer mortality rates (per 100,000) - trachea, bronchus and lung cancer.csv",
+      "path": "Lung cancer mortality rates (per 100,000) - trachea, bronchus and lung cancer.csv",
       "schema": {
         "fields": [
           {
@@ -44,6 +44,24 @@
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"Male lung cancer deaths per 100,000\", \"unit\": \"deaths per 100,000\", \"includeInTable\": true, \"numDecimalPlaces\": 2}"
+          },
+          {
+            "name": "crude_death_rate_per_100k_both_sexes",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "crude_death_rate_per_100k_female",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "crude_death_rate_per_100k_male",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
           }
         ]
       }
