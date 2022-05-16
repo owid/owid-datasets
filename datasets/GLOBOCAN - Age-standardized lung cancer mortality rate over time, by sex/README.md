@@ -1,4 +1,4 @@
-# GLOBOCAN - Lung cancer mortality rate over time, by sex
+# GLOBOCAN - Age-standardized lung cancer mortality rate over time, by sex
 
 Age-standardized lung cancer mortality rates, per 100,000 people, by sex. The data is from the Global Cancer Observatory, International Agency for Research on Cancer, WHO. 
 
