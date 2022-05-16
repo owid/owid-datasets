@@ -2,13 +2,13 @@
   "name": "Age-standardized cancer mortality rates (per 100,000) - trachea, bronchus and lung cancer",
   "title": "Age-standardized cancer mortality rates (per 100,000) - trachea, bronchus and lung cancer",
   "id": 5628,
-  "description": "",
+  "description": "Age-standardized mortality rates (per 100,000 people) due to lung, bronchus or trachea cancer. The data is from the WHO Mortality database: https://platform.who.int/mortality\n\nThis dataset should be next updated by the source by May 2023. We will update it on Our World in Data soon after the new version is published. At the link above you can directly access the source page and see the latest available data.",
   "sources": [
     {
       "name": "WHO Mortality Database",
       "link": "https://platform.who.int/mortality/themes/theme-details/mdb/noncommunicable-diseases",
       "retrievedDate": "2022-05-16",
-      "additionalInfo": "",
+      "additionalInfo": "Age-standardized mortality rates (per 100,000 people) due to lung, bronchus or trachea cancer. The data is from the WHO Mortality database: https://platform.who.int/mortality\n\nThis dataset should be next updated by the source by May 2023. We will update it on Our World in Data soon after the new version is published. At the link above you can directly access the source page and see the latest available data.",
       "dataPublishedBy": "World Health Organization",
       "dataPublisherSource": "WHO Mortality Database"
     }
