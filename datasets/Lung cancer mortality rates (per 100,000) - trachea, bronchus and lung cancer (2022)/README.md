@@ -1,4 +1,4 @@
-# Lung cancer mortality rates (per 100,000) - trachea, bronchus and lung cancer
+# Lung cancer mortality rates (per 100,000) - trachea, bronchus and lung cancer (2022)
 
 Age-standardized mortality rates (per 100,000 people) due to lung, bronchus or trachea cancer. The data is from the WHO Mortality database: https://platform.who.int/mortality
 
