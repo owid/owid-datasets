@@ -1,0 +1,52 @@
+{
+  "name": "Age-standardized cancer mortality rates (per 100,000) - trachea, bronchus and lung cancer",
+  "title": "Age-standardized cancer mortality rates (per 100,000) - trachea, bronchus and lung cancer",
+  "id": 5628,
+  "description": "",
+  "sources": [
+    {
+      "name": "WHO Mortality Database",
+      "link": "https://platform.who.int/mortality/themes/theme-details/mdb/noncommunicable-diseases",
+      "retrievedDate": "2022-05-16",
+      "additionalInfo": "",
+      "dataPublishedBy": "World Health Organization",
+      "dataPublisherSource": "WHO Mortality Database"
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "Age-standardized cancer mortality rates (per 100,000) - trachea, bronchus and lung cancer.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "age-standardized_death_rate_per_100k_both_sexes",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Lung cancer deaths per 100,000\", \"unit\": \"deaths per 100,000\", \"includeInTable\": true, \"numDecimalPlaces\": 2}"
+          },
+          {
+            "name": "age-standardized_death_rate_per_100k_female",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Female lung cancer deaths per 100,000\", \"unit\": \"deaths per 100,000\", \"includeInTable\": true, \"numDecimalPlaces\": 2}"
+          },
+          {
+            "name": "age-standardized_death_rate_per_100k_male",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Male lung cancer deaths per 100,000\", \"unit\": \"deaths per 100,000\", \"includeInTable\": true, \"numDecimalPlaces\": 2}"
+          }
+        ]
+      }
+    }
+  ]
+}
