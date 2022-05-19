@@ -13,6 +13,9 @@ Ember compile their global dataset from various sources including:
 – GEM: Annual global coal and gas capacity data.
 – IRENA: Annual global capacity data for all non-fossil fuel types, and for Other Fossil where available.
 – WRI: Annual global capacity data for Other Fossil where other sources are not available.
+– European carbon intensities rely on data from the European Environment Agency (EEA).
+– A complete list of data sources for each individual country in Ember's Global Electricity Review can be found here: https://ember-climate.org/app/uploads/2022/03/GER22-Methodology.pdf
+– A complete list of data sources for each individual country in Ember's European Electricity Review can be found here: https://ember-climate.org/app/uploads/2022/02/EER-Methodology.pdf
 
 Electricity mix data from BP provides primary energy (not just electricity) consumption data. BP provides a longer time-series (dating back to 1965) versus only 1990 from Ember. However, BP does not provide data for all countries and is not as up-to-date as Ember data. So, where data from Ember is available for a given country or year, we rely on it as the primary source. We then supplement this with data from BP where it's not available.
 
