@@ -5,7 +5,7 @@
   "description": "This dataset provides information on political regimes, using data from Freedom House's Freedom in the World (2022)\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
   "sources": [
     {
-      "name": "Political regimes - Freedom House (2022)",
+      "name": "Freedom House (2022)",
       "link": "https://freedomhouse.org/report/freedom-world",
       "retrievedDate": "March 15, 2022",
       "additionalInfo": "This dataset provides information on political regimes, using data from Freedom House's Freedom in the World (2022)\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
@@ -32,44 +32,38 @@
           {
             "name": "regime_fh",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the political regime of a country using the classification by Freedom House's Freedom in the World. It distinguishes between free countries (score 2), partly free countries (score 1), and not free countries (score 0).\n\nIt matches Freedom House's variable scorest.\n\nFree countries are understood as countries in which citizens have many political rights (free and fair elections, political pluralism and participation, functioning government) and civil liberties (freedoms of expression and association, rule of law, personal autonomy).\n\nPartly free country are countries in which citizens have some political rights and civil liberties.\n\nNot free country are countries in which citizens have few political rights and civil liberties.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "polrights_fh",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the extent of free and fair elections, political pluralism and participation, and a functioning government, based on Freedom House's Freedom in the World.\n\nIt matches Freedom House's variable scorepr.\n\nLower ratings indicate more rights.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "civlibs_fh",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the extent of freedom of expression and association, the rule of law, and personal autonomy, based on Freedom House's Freedom in the World.\n\nIt matches Freedom House's variable scorecl.\n\nLower ratings indicate more liberties.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "electdem_fh",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "polprocess_fh",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the political regime of a country using the second classification by Freedom House's Freedom in the World. It identifies whether a country is an electoral democracy (score 1) or not (score 0).\n\nElectoral democracies are understood as political systems in which citizens have the right to choose chief executive and legislature in broadly free and fair elections and have substantial other political rights and civil liberties.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "polrights_score_fh",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the fine-grained extent of free and fair elections, political pluralism and participation, and a functioning government, based on Freedom House's Freedom in the World.\n\nHigher scores indicate more rights.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "civlibs_score_fh",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the fine-grained extent of freedom of expression and association, the rule of law, and personal autonomy, based on Freedom House's Freedom in the World.\n\nHigher scores indicate more liberties.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "country_fh",
@@ -80,80 +74,86 @@
           {
             "name": "number_notfree_fh",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the number of not-free countries based on Freedom House's Freedom in the World.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_partlyfree_fh",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the number of partly-free countries based on Freedom House's Freedom in the World.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_free_fh",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the number of free countries based on Freedom House's Freedom in the World.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_nonelectdem_fh",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the number of non-democracies based on Freedom House's Freedom in the World.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_electdem_fh",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the number of electoral democracies based on Freedom House's Freedom in the World.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_notfree_fh",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the number of people living in not free countries, based on Freedom House's Freedom in the World.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_partlyfree_fh",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the number of people living in partly free countries, based on Freedom House's Freedom in the World.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_free_fh",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the number of people living in free countries, based on Freedom House's Freedom in the World.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_missreg_fh",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the number of people living in countries without regime data, based on Freedom House's Freedom in the World.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_nonelectdem_fh",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the number of people living in non-democracies, based on Freedom House's Freedom in the World.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_electdem_fh",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the number of people living in electoral democracies, based on Freedom House's Freedom in the World.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_missdem_fh",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the number of people living in countries without democracy data, based on Freedom House's Freedom in the World.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "region",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "electprocess_fh",
+            "type": "any",
+            "description": "The variable identifies the extent to which the chief executive and legislature are chosen in free and fair elections under universal suffrage, based on Freedom House's Freedom in the World.\n\nHigher scores indicate a freer electoral process.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           }
         ]
       }
