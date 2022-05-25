@@ -1,11 +1,11 @@
 {
-  "name": "Political regimes - Center for Systemic Peace (2021)",
-  "title": "Political regimes - Center for Systemic Peace (2021)",
+  "name": "Political regimes - Polity 5",
+  "title": "Political regimes - Polity 5",
   "id": 5633,
   "description": "This dataset provides information on political regimes, using data from Polity (2021).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
   "sources": [
     {
-      "name": "Center for Systemic Peace (2021)",
+      "name": "Polity 5",
       "link": "https://www.systemicpeace.org/polityproject.html",
       "retrievedDate": "March 15, 2022",
       "additionalInfo": "This dataset provides information on political regimes, using data from Polity (2021).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
@@ -17,7 +17,7 @@
   ],
   "resources": [
     {
-      "path": "Political regimes - Center for Systemic Peace (2021).csv",
+      "path": "Political regimes - Polity 5.csv",
       "schema": {
         "fields": [
           {
@@ -31,14 +31,14 @@
           {
             "name": "democracy_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Based on the assessments and index by Polity 5 (2021). It combines information on the extent to which open, multi-party, and competitive elections choose a chief executive who faces comprehensive institutional constraints, and political participation is competitive. \n\nIt ranges from -10 to 10 (fully democratic).\n\nIt matches the variable polity2 in Polity 5 (2021), with the values -66 as well as the value of -88 for Belgium in 1830 recoded as missing, as per the rules on page 17 of the Polity 5 codebook.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "regime_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the political regime of a country using the Polity 5 data by the Center for Systemic Peace. It distinguishes between autocracies (score 0), anocracies (score 1), and democracies (score 2).\n\nDemocracies have mostly democratic characteristics, understood as open, multi-party, and competitive elections choosing a chief executive who faces comprehensive institutional constraints, and competitive political participation.\n\nAnocracies have neither clearly democratic nor autocratic characteristics.\n\nAutocracies have mostly autocratic/non-democratic characteristics.\n\nIt uses the conventional coding rules (-10 to -6 as autocracies, -5 to 5 as anocracies, and 6 to 10 as democracies) of coding Polity regimes given here: https://www.systemicpeace.org/polityproject.html",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "dem_age_polity",
