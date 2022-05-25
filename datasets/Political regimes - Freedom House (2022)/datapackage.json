@@ -2,13 +2,13 @@
   "name": "Political regimes - Freedom House (2022)",
   "title": "Political regimes - Freedom House (2022)",
   "id": 5624,
-  "description": "This dataset provides information on political regimes, using data from Freedom House's Freedom in the World (2022).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
+  "description": "This dataset provides information on political regimes, using data from Freedom House's Freedom in the World (2022).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
   "sources": [
     {
       "name": "Freedom House (2022)",
       "link": "https://freedomhouse.org/report/freedom-world",
       "retrievedDate": "March 15, 2022",
-      "additionalInfo": "This dataset provides information on political regimes, using data from Freedom House's Freedom in the World (2022).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
+      "additionalInfo": "This dataset provides information on political regimes, using data from Freedom House's Freedom in the World (2022).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
       "dataPublishedBy": "Freedom House (2022). Freedom in the World.",
       "dataPublisherSource": ""
     }
