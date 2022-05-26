@@ -31,158 +31,158 @@
           {
             "name": "regime_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the political regime of a country using the classification by the Bertelsmann Transformation Index. It distinguishes between hard-line autocracies (score 1), moderate autocracies (score 2), highly defective democracies (score 3), defective democracies (score 4), and consolidating democracies (score 5).\n\nConsolidating democracies have comprehensive democratic features and minimum democratic characteristics (citizens can choose political leaders in free and fair elections and enjoy freedoms of association, expression and some further civil liberties, political power is separated, and leaders can effectively govern a state that fulfils basic functions).\n\nDefective democracies have minimum democratic characteristics, but limited other democratic features.\n\nVery defective democracies have minimum democratic characteristics, but very limited other democratic features.\n\nModerate autocracies have no minimum democratic characteristics, but possibly other broadly democratic features.\n\nHard-line autocracies have no minimum democratic characteristics, and few other democratic features.\n\nIt matches the variable cat_dem_stat in Bertelsmann Transformation Index (2022), with some errors for the year 2021 — classifying some democracies as autocracies and vice versa — corrected.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "state_basic_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable indicates the extent to which the state has the monopoly on the use of force and provides basic public services across the country.\n\nIt ranges from 1 to 10 (most functioning).\n\nIt matches the variable core_stateness in Bertelsmann Transformation Index (2022).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "electfreefair_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable indicates the extent to which elections are free from irregularities, the rights to vote, run for office, and campaign are unrestricted, registration is easy, and campaigning and media access are fair.\n\nScore of 1: National elections, if held at all, are entirely unfree and unfair.\nScore of 4: General elections are held, but serious irregularities during voting process and ballot count occur. The rights to vote, campaign and run for office are restricted, and elections have de facto only limited influence over who governs. \nScore of 7: General, multi-party elections are held, conducted properly and accepted as the means of filling political posts. However, there are some constraints on the fairness of the elections with regard to registration, campaigning or media access.\nScore of 10: There are no constraints on free and fair elections.\nThe remaining scores are intermediate categories.\n\nIt matches the variable elect in Bertelsmann Transformation Index (2022).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "effective_power_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable indicates the extent to which no individual or group holds de facto veto power over democratically elected political leaders.\n\nScore of 1: Political decision-makers are not elected or elected bodies have no influence at all. \nScore of 4: Democratically elected political representatives have limited power to govern. Strong veto groups are able to undermine fundamental elements of democratic procedures. \nScore of 7: Democratically elected political representatives have considerable power to govern. However, individual power groups can set their own domains apart or enforce special-interest policies.\nScore of 10: Democratically elected political representatives have the effective power to govern. No individual or group is holding any de facto veto power.\nThe remaining scores are intermediate categories.\n\nIt matches the variable power in Bertelsmann Transformation Index (2022).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "freeassoc_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable indicates the extent to which residents and civic groups are free from government interference to associate and assemble.\n\nScore of 1: Association and assembly rights are denied. Independent civic groups do not exist or are prohibited. \nScore of 4: Association and assembly rights are often subject to interference or government restrictions. Residents and civic groups that do not support the government often cannot exercise these rights. \nScore of 7: Association and assembly rights are occasionally subject to interference or government restrictions, but generally there are no outright prohibitions of independent political or civic groups. \nScore of 10: Association and assembly rights are guaranteed against interference or government restrictions. Residents and civic groups can fully exercise these rights. \nThe remaining scores are intermediate categories.\n\nIt matches the variable assembly in Bertelsmann Transformation Index (2022).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "freeexpr_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable indicates the extent to which individuals, groups, and the press can express their views free from government interference. \n\nScore of 1: Freedom of expression is denied. Independent media do not exist or are prohibited. \nScore of 4: Freedom of expression is often subject to interference or government restrictions. Distortion and manipulation shape matters of public debate. \nScore of 7: Freedom of expression is occasionally subject to interference or government restrictions, but there are generally no incidents of blatant intrusions like outright state censorship or media shutdowns.\nScore of 10: Freedom of expression is guaranteed against interference or government restrictions. Individuals, groups and the press can fully exercise these rights. \nThe remaining scores are intermediate categories.\n\nIt matches the variable express in Bertelsmann Transformation Index (2022).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "sep_power_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable indicates the extent of mutual checks and balances on political powers.\n\nScore of 1: There is no separation of powers, neither de jure nor de facto. \nScore of 4: The separation of powers is formally established but weak in practice. One branch, generally the executive, has largely undermined checks and balances. \nScore of 7: The separation of powers is in place and functioning. Checks and balances are occasionally subject to interference, but a restoration of balance is sought. \nScore of 10: There is a clear separation of powers with mutual checks and balances. \nThe remaining scores are intermediate categories.\n\nIt matches the variable separation in Bertelsmann Transformation Index (2022).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "civ_rights_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable indicates the extent to which civil rights are codified in law, and the state prosecutes any violations and works to prevent discrimination.\n\nScore of 1: Civil rights are systematically violated. There are no mechanisms and institutions to protect residents against violations of their rights. \nScore of 4: Civil rights are codified by law, but even the most fundamental rights (i.e., to life, liberty and physical integrity) are violated in practice. Mechanisms and institutions to prosecute, punish and redress violations of civil rights are largely ineffective. \nScore of 7: Civil rights are codified by law, but are not properly respected and protected. Mechanisms and institutions to prosecute, punish and redress violations of civil rights are in place, but are not consistently effective. \nScore of 10: Civil rights are codified by law and respected by all state institutions, which actively prevent discrimination. Residents are effectively protected by mechanisms and institutions established to prosecute, punish and redress violations of their rights. \nThe remaining scores are intermediate categories.\n\nIt matches the variable civ_rights in Bertelsmann Transformation Index (2022).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "democracy_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable captures the extent of democratic features — political participation, rule of law, stable democratic institutions, political and social integration, and a capable state.\n\nIt ranges from 1 to 10 (most democratic).\n\nIt matches the variable dem_stat in Bertelsmann Transformation Index (2022).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "state_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable indicates the extent to which the state has the monopoly on the use of force, provides basic public services across the country, citizens accept the state as legitimate, religious dogmas do not interfere, and citizenship is accessible. \n\nIt ranges from countries with poor stateness (scores of 1-2.49), flawed stateness (scores of 2.5 to 4.49), fair stateness (scores of 4.5 to 6.49), and sound stateness (scores of 6.5 to 8.49) to countries with excellent stateness (score 8.5 to 10).\n\nIt matches the variable stateness in Bertelsmann Transformation Index (2022).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "political_participation_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable indicates the extent to which elections are free and fair, democratically elected leaders have the effective power to govern, and citizen have the freedoms of association and expression.\n\nIt ranges from countries with poor political participation (scores of 1 to 2.49), over flawed political participation (scores of 2.5 to 4.49), fair political participation (scores of 4.5 to 6.49), and sound political participation (scores of 6.5 to 8.49), to countries with excellent political participation (scores of 8.5 to 10).\n\nIt matches the variable pol_part in Bertelsmann Transformation Index (2022).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "rule_of_law_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable indicates the extent to which political power is separated, the judiciary is independent, office abuse is prosecuted, and civil rights are enforced.\n\nIt ranges from countries with poor rule of law (scores of 1 to 2.49), over flawed rule of law (scores of 2.5 to 4.49), fair rule of law (scores of 4.5 to 6.49), and sound rule of law (scores of 6.5 to 8.49), to countries with excellent rule of law (scores of 8.5 to 10).\n\nIt matches the variable ruleoflaw in Bertelsmann Transformation Index (2022).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "stability_dem_inst_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable indicates the extent to which democratic institutions are effective and efficient and all relevant actors accept them.\n\nIt ranges from countries with poor stability (scores of 1 to 2.49), over flawed stability (scores of 2.5 to 4.49), fair political participation (scores of 4.5 to 6.49), and sound stability (scores of 6.5 to 8.49), to countries with excellent stability (scores of 8.5 to 10).\n\nIt matches the variable stab_dem in Bertelsmann Transformation Index (2022).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pol_soc_integr_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable indicates the extent to which the party system is stable and rooted in society, interest groups are numerous and diverse, regular citizens approve of democratic norms and procedures, and societal trust is high.\n\nIt ranges from countries with poor integration (scores of 1 to 2.49), over flawed integration (scores of 2.5 to 4.49), fair integration (scores of 4.5 to 6.49), and sound integration (scores of 6.5 to 8.49), to countries with excellent political and social integration (scores of 8.5 to 10).\n\nIt matches the variable integ in Bertelsmann Transformation Index (2022).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_hardaut_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of hard-line autocracies based on BTI's classification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_modaut_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of moderate autocracies based on BTI's classification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_hdefdem_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of highly defective democracies based on BTI's classification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_defdem_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of defective democracies based on BTI's classification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_consdem_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of consolidating democracies based on BTI's classification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_hardaut_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in hard-line autocracies, identified based on BTI's classification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_modaut_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in moderate autocracies, identified based on BTI's classification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_hdefdem_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in highly defective democracies, identified based on BTI's classification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_defdem_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in defective democracies, identified based on BTI's classification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_consdem_bti",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"entityAnnotationsMap\": \"The variable denotes the number of people living in consolidating democracies, identified based on BTI's classification.\"}"
           },
           {
             "name": "pop_missreg_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in countries without BTI regime data.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "popw_democracy_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes BTI's average democratic status, weighted by population.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "region",
