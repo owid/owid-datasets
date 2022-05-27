@@ -2,12 +2,13 @@
   "name": "Political regimes - Economist Intelligence Unit (2022)",
   "title": "Political regimes - Economist Intelligence Unit (2022)",
   "id": 5635,
-  "description": "",
+  "description": "This dataset provides information on political regimes, using data from the Economist Intelligence Unit's Democracy Index (2022).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
   "sources": [
     {
       "name": "Economist Intelligence Unit (2022) via gapminder",
       "link": "http://www.gapm.io/dxlsdemocrix (for years 2006-2020); https://www.eiu.com/n/campaigns/democracy-index-2021/ (for year 2021)",
       "retrievedDate": "May 11, 2022",
+      "additionalInfo": "This dataset provides information on political regimes, using data from the Economist Intelligence Unit's Democracy Index (2022).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
       "dataPublishedBy": "Economist Intelligence Unit. 2022. Democracy Index 2021: The China challenge."
     }
   ],
