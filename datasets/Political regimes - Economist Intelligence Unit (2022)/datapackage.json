@@ -31,104 +31,104 @@
           {
             "name": "regime_eiu",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the political regime of a country using the classification by the Economist Intelligence Unit. It distinguishes between authoritarian regimes (score 0), hybrid regimes (score 1), flawed democracies (score 2), and full democracies (score 3).\n\nFull democracies have comprehensive democratic features, with a high extent to which citizens can choose their political leaders in free and fair elections, enjoy civil liberties, prefer democracy over other political systems, can and do participate in politics, and have a functioning government that acts on their behalf.\n\nFlawed democracies have some weaknesses in democratic institutions and culture.\n\nHybrid regimes have serious weaknesses in democratic institutions and culture.\n\nAuthoritarian regimes have few democratic institutions and little democratic culture.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "democracy_eiu",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable captures the extent to which citizens can choose their political leaders in free and fair elections, enjoy civil liberties, prefer democracy over other political systems, can and do participate in politics, and have a functioning government that acts on their behalf.\n\nIt ranges from 0 to 10 (most democratic).\n\nIt matches the variable DemocracyindexEIU in gapminder, with a few missing countries for 2020 and all for 2021 added.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "elect_freefair_eiu",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable captures the extent to which all citizens can choose their political leaders in free and fair elections.\n\nIt ranges from 0 to 10 (most free).\n\nIt matches the variable ElectoralpluralismindexEIU in gapminder, with a few missing countries for 2020 and all for 2021 added.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "funct_gov_eiu",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable captures the extent to which citizens have a functioning government that acts on their behalf.\n\nIt ranges from 0 to 10 (most functioning).\n\nIt matches the variable GovernmentindexEIU in gapminder, with a few missing countries for 2020 and all for 2021 added.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pol_part_eiu",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable captures the extent to which citizens can and do participate in politics.\n\nIt ranges from 0 to 10 (most active).\n\nIt matches the variable PoliticalparticipationindexEI in gapminder, with a few missing countries for 2020 and all for 2021 added.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "dem_culture_eiu",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable captures the extent to which citizens prefer democracy over other political systems.\n\nIt ranges from 0 to 10 (strongest preference for democracy).\n\nIt matches the variable PoliticalcultureindexEIU in gapminder, with a few missing countries for 2020 and all for 2021 added.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "civlib_eiu",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable captures the extent to which citizens enjoy civil liberties.\n\nIt ranges from 0 to 10 (most liberties).\n\nIt matches the variable CivillibertiesindexEIU in gapminder, with a few missing countries for 2020 and all for 2021 added.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_autreg_eiu",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of authoritarian regimes, identified based on EIU's classification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_hybreg_eiu",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of hybrid regimes, identified based on EIU's classification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_flawdem_eiu",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of flawed democracies, identified based on EIU's classification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_fulldem_eiu",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of full democracies, identified based on EIU's classification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_autreg_eiu",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in authoritarian regimes, identified based on EIU's classification.",
+            "owidDisplaySettings": "{\"includeInTable\": true, \"entityAnnotationsMap\": \"\"}"
           },
           {
             "name": "pop_hybreg_eiu",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in hybrid regimes, identified based on EIU's classification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_flawdem_eiu",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in flawed democracies, identified based on EIU's classification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_fulldem_eiu",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in full democracies, identified based on EIU's classification.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_missreg_eiu",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in countries without EIU regime data.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "popw_democracy_eiu",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes EIU's average democracy level, weighted by population.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "region",
