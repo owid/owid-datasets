@@ -43,158 +43,158 @@
           {
             "name": "dem_age_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The identification of democracies is based on the conventional classification of the Polity data (-10 to -6 as autocracies, -5 to 5 as anocracies, and 6 to 10 as democracies) given here: https://www.systemicpeace.org/polityproject.html\n\nDemocracies are understood here as having broadly open, multi-party, and competitive elections choosing a chief executive who faces comprehensive institutional constraints, and competitive political participation.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "dem_age_group_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the number of years a country was a democracy since 1800.\n\nThe identification of democracies is based on the conventional classification of the Polity data (-10 to -6 as autocracies, -5 to 5 as anocracies, and 6 to 10 as democracies) given here: https://www.systemicpeace.org/polityproject.html\n\nDemocracies are understood here as having broadly open, multi-party, and competitive elections choosing a chief executive who faces comprehensive institutional constraints, and competitive political participation.\n\nThe variable distinguishes between autocracies (score of 0), anocracies (score of 1), democracies aged 1-18 years (score of 2), 19-30 years (score of 3), 31-60 years (score of 4), 61-90 years (score of 5), and 91+ years (score of 6).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "exec_reccomp_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable indicates the extent to which executive recruitment is competitive. It ranges from executive power being seized (score of 0), over the executive being selected by elites (score of 1), and dual selection-election or transitional arrangements (score of 2), to the executive being elected (score of 4).\n\nIt matches the variable xrcomp in Polity 5 (2021), with the values of -88, -77, and -66 recoded as missing values.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "exec_recopen_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable indicates the extent to which recruitment for the executive is open. It ranges from executive power being seized (score of 0), over hereditary succession (score of 1), dual hereditary-open arrangements with the chief minister designated (score of 2), and dual hereditary-open arrangements with the chief minister being elected (score of 3), to executive recruitment being open (score of 4).\n\nIt matches the variable xropen in Polity 5 (2021), with the values of -88, -77, and -66 recoded as missing values.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "exec_constr_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable indicates the extent to which the executive is constrained. It ranges from unconstrained executives (score of 1), over slight or moderate constraints (score of 3), and substantial constraints (score of 5), to an executive that is subordinated to or on par with other authorities (score of 7). The remaining categories are intermediate ones.\n\nIt matches the variable xconst in Polity 5 (2021), with the values of -88, -77, and -66 recoded as missing values.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "polpart_reg_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable indicates the extent to which political participation is regulated, ranging from highly unstable political participation (score of 1), over political participation with multiple identities (score of 2), sectarian political participation (score of 3), and restricted political participation (score of 4), to unrestricted and stable political participation (score of 5).\n\nIt matches the variable parreg in Polity 5 (2021), with the values of -88, -77, and -66 recoded as missing values.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "polpart_comp_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable indicates the extent to which political participation is competitive. It ranges from unregulated political participation (score of 0), over repressed political participation (score of 1), suppressed political participation (score of 2), factional political participation (score of 3), and transitional arrangements (score of 4), to competitive political participation (score of 5).\n\nIt matches the variable parcomp in Polity 5 (2021), with the values of -88, -77, and -66 recoded as missing values.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "dem_exp_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the number of years a country was a democracy since 1800.\n\nThe identification of democracies is based on the conventional classification of the Polity data (-10 to -6 as autocracies, -5 to 5 as anocracies, and 6 to 10 as democracies) given here: https://www.systemicpeace.org/polityproject.html\n\nDemocracies are understood here as having broadly open, multi-party, and competitive elections choosing a chief executive who faces comprehensive institutional constraints, and competitive political participation.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_aut_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of autocracies as identified based on Polity 5.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_ano_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of anocracies as identified based on Polity 5.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_dem_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of democracies as identified based on Polity 5.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_dem_18_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of democracies aged 1-18 as identified based on Polity 5.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_dem_30_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of democracies aged 19-30 as identified based on Polity 5.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_dem_60_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of democracies aged 31-60 as identified based on Polity 5.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_dem_90_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of democracies aged 61-90 as identified based on Polity 5.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_dem_91plus_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of democracies aged 91 and older as identified based on Polity 5.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_aut_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in autocracies as identified based on Polity 5.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_ano_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in anocracies as identified based on Polity 5.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_dem_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in democracies as identified based on Polity 5.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_missreg_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in countries without Polity 5 regime data.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_dem_18_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in democracies aged 1-18 as identified based on Polity 5.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_dem_30_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in democracies aged 19-30 as identified based on Polity 5.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_dem_60_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in democracies aged 31-60 as identified based on Polity 5.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_dem_90_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in democracies aged 61-90 as identified based on Polity 5.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_dem_91plus_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in democracies aged 91 and older as identified based on Polity 5.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "popw_democracy_polity",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the extent of democracy as identified based on Polity 5, weighted by population.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "region",
