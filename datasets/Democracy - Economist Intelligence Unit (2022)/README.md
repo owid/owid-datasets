@@ -1,4 +1,4 @@
-# Political regimes - Economist Intelligence Unit (2022)
+# Democracy - Economist Intelligence Unit (2022)
 
 This dataset provides information on political regimes, using data from the Economist Intelligence Unit's Democracy Index (2022).
 

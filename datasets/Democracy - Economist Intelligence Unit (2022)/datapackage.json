@@ -1,6 +1,6 @@
 {
-  "name": "Political regimes - Economist Intelligence Unit (2022)",
-  "title": "Political regimes - Economist Intelligence Unit (2022)",
+  "name": "Democracy - Economist Intelligence Unit (2022)",
+  "title": "Democracy - Economist Intelligence Unit (2022)",
   "id": 5635,
   "description": "This dataset provides information on political regimes, using data from the Economist Intelligence Unit's Democracy Index (2022).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
   "sources": [
@@ -17,7 +17,7 @@
   ],
   "resources": [
     {
-      "path": "Political regimes - Economist Intelligence Unit (2022).csv",
+      "path": "Democracy - Economist Intelligence Unit (2022).csv",
       "schema": {
         "fields": [
           {
@@ -38,18 +38,18 @@
             "name": "democracy_eiu",
             "type": "any",
             "description": "The variable captures the extent to which citizens can choose their political leaders in free and fair elections, enjoy civil liberties, prefer democracy over other political systems, can and do participate in politics, and have a functioning government that acts on their behalf.\n\nIt ranges from 0 to 10 (most democratic).\n\nIt matches the variable DemocracyindexEIU in gapminder, with a few missing countries for 2020 and all for 2021 added.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Democracy\", \"includeInTable\": true}"
           },
           {
             "name": "elect_freefair_eiu",
             "type": "any",
-            "description": "The variable captures the extent to which all citizens can choose their political leaders in free and fair elections.\n\nIt ranges from 0 to 10 (most free).\n\nIt matches the variable ElectoralpluralismindexEIU in gapminder, with a few missing countries for 2020 and all for 2021 added.",
+            "description": "The variable captures the extent to which all citizens can choose their political leaders in free and fair elections.\n\nHigher values indicate more pluralism.\n\nIt matches the variable ElectoralpluralismindexEIU in gapminder, with a few missing countries for 2020 and all for 2021 added.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "funct_gov_eiu",
             "type": "any",
-            "description": "The variable captures the extent to which citizens have a functioning government that acts on their behalf.\n\nIt ranges from 0 to 10 (most functioning).\n\nIt matches the variable GovernmentindexEIU in gapminder, with a few missing countries for 2020 and all for 2021 added.",
+            "description": "The variable captures the extent to which citizens have a functioning government that acts on their behalf.\n\nIt ranges from 0 to 10 (most effective).\n\nIt matches the variable GovernmentindexEIU in gapminder, with a few missing countries for 2020 and all for 2021 added.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
