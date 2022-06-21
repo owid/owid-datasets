@@ -1,6 +1,6 @@
 {
-  "name": "Political regimes - Bertelsmann Transformation Index (2022)",
-  "title": "Political regimes - Bertelsmann Transformation Index (2022)",
+  "name": "Democracy - Bertelsmann Transformation Index (2022)",
+  "title": "Democracy - Bertelsmann Transformation Index (2022)",
   "id": 5634,
   "description": "This dataset provides information on political regimes, using data from Bertelsmann Foundation's Bertelsmann Transformation Index (2022).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
   "sources": [
@@ -17,7 +17,7 @@
   ],
   "resources": [
     {
-      "path": "Political regimes - Bertelsmann Transformation Index (2022).csv",
+      "path": "Democracy - Bertelsmann Transformation Index (2022).csv",
       "schema": {
         "fields": [
           {
@@ -80,7 +80,7 @@
             "name": "democracy_bti",
             "type": "any",
             "description": "The variable captures the extent of democratic features — political participation, rule of law, stable democratic institutions, political and social integration, and a capable state.\n\nIt ranges from 1 to 10 (most democratic).\n\nIt matches the variable dem_stat in Bertelsmann Transformation Index (2022).",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Democratic features\", \"includeInTable\": true}"
           },
           {
             "name": "state_bti",
@@ -169,8 +169,8 @@
           {
             "name": "pop_consdem_bti",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"includeInTable\": true, \"entityAnnotationsMap\": \"The variable denotes the number of people living in consolidating democracies, identified based on BTI's classification.\"}"
+            "description": "The variable denotes the number of people living in consolidating democracies, identified based on BTI's classification.",
+            "owidDisplaySettings": "{\"includeInTable\": true, \"entityAnnotationsMap\": \"\"}"
           },
           {
             "name": "pop_missreg_bti",

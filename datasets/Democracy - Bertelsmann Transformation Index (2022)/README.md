@@ -1,4 +1,4 @@
-# Political regimes - Bertelsmann Transformation Index (2022)
+# Democracy - Bertelsmann Transformation Index (2022)
 
 This dataset provides information on political regimes, using data from Bertelsmann Foundation's Bertelsmann Transformation Index (2022).
 
