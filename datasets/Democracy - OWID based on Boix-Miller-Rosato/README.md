@@ -1,4 +1,4 @@
-# Political regimes - OWID based on Boix et al. (2013)
+# Democracy - OWID based on Boix-Miller-Rosato
 
 This dataset provides information on political regimes, using data from Boix et al. (2013).
 
