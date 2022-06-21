@@ -1,4 +1,4 @@
-# Political regimes - Freedom House (2022)
+# Democracy - Freedom House (2022)
 
 This dataset provides information on political regimes, using data from Freedom House's Freedom in the World (2022).
 
