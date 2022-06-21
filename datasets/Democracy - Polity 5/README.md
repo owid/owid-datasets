@@ -1,4 +1,4 @@
-# Political regimes - Polity 5
+# Democracy - Polity 5
 
 This dataset provides information on political regimes, using data from Polity (2021).
 
