@@ -45,7 +45,7 @@
             "name": "base_pairs_per_dollar",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": "{\"name\": \"Number of base pairs sequenced per US$ (GSP)\", \"unit\": \"current US$\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Number of base pairs sequenced per US$ (GSP)\", \"unit\": \"base pairs\", \"shortUnit\": \"\", \"includeInTable\": true}"
           }
         ]
       }
