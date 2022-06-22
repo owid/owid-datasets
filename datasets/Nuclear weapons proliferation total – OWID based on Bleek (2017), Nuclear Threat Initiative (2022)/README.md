@@ -9,3 +9,5 @@ A country is coded as pursuing nuclear weapons if it has an active program to ac
 A country is coded as possessing nuclear weapons if it has a nuclear-explosive device that it can deliver. Conducting an explosive nuclear test is therefore neither sufficient nor nor necessary.
 
 You can read more about specific countries in the profiles by Bleek (2017) and the Nuclear Threat Initiative (2022) by following the links.
+
+You can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/nuclear_weapons
