@@ -1,4 +1,4 @@
-Entity,Year,Cost per Mb DNA sequence (GSP),Cost per genome (GSP),Number of base pairs sequenced per US$ (GSP)
+Entity,Year,cost_per_mb,cost_per_genome,base_pairs_per_dollar
 Genome,2001,5292.39288459743,95263071.9227537,188.95044676488826
 Genome,2002,3413.8011945854346,61448421.502537824,292.928598650115
 Genome,2003,2230.9752350179665,40157554.2303234,448.23446908049016

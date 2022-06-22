@@ -2,7 +2,7 @@
 
 Full reference: Wetterstrand KA. DNA Sequencing Costs: Data from the NHGRI Genome Sequencing Program (GSP) Available at: www.genome.gov/sequencingcostsdata [accessed 2017-07-11].
 
-The NHGRI program describe genome sequencing costs relative to two metrics, quoted below:
+The NHGRI program describes genome sequencing costs relative to two metrics, quoted below:
 
 "(1) "Cost per Megabase of DNA Sequence" - the cost of determining one megabase (Mb; a million bases) of DNA sequence of a specified quality;
 
