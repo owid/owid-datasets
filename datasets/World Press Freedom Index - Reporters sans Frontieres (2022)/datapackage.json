@@ -2,13 +2,13 @@
   "name": "World Press Freedom Index - Reporters sans Frontieres (2022)",
   "title": "World Press Freedom Index - Reporters sans Frontieres (2022)",
   "id": 4118,
-  "description": "This dataset provides information on press freedom, using data from the Reporters sans Frontieres' World Press Freedom Index.",
+  "description": "This dataset provides information on press freedom, using data from the Reporters sans Frontieres' World Press Freedom Index.\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/nuclear_weapons",
   "sources": [
     {
       "name": "Reporters sans Frontieres (2022)",
       "link": "https://rsf.org/en/ranking",
       "retrievedDate": "March 21, 2022",
-      "additionalInfo": "This dataset provides information on press freedom, using data from the Reporters sans Frontieres' World Press Freedom Index.",
+      "additionalInfo": "This dataset provides information on press freedom, using data from the Reporters sans Frontieres' World Press Freedom Index.\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/nuclear_weapons",
       "dataPublishedBy": "Reporters sans Frontieres",
       "dataPublisherSource": "Expert assessments and data on violence against journalists."
     }
