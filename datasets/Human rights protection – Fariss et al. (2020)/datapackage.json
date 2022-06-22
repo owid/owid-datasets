@@ -2,13 +2,13 @@
   "name": "Human rights protection – Fariss et al. (2020)",
   "title": "Human rights protection – Fariss et al. (2020)",
   "id": 241,
-  "description": "This dataset provides the human rights protection scores by Fariss et al. (2020), first developed by Schnakenberg and Fariss (2014).",
+  "description": "This dataset provides the human rights protection scores by Fariss et al. (2020), first developed by Schnakenberg and Fariss (2014).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/human_rights",
   "sources": [
     {
       "name": "Fariss et al. (2020)",
       "link": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RQ85GK",
       "retrievedDate": "March 4, 2022",
-      "additionalInfo": "This dataset provides the human rights protection scores by Fariss et al. (2020), first developed by Schnakenberg and Fariss (2014).",
+      "additionalInfo": "This dataset provides the human rights protection scores by Fariss et al. (2020), first developed by Schnakenberg and Fariss (2014).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/human_rights",
       "dataPublishedBy": " Fariss CJ, Kenwick MR, Reuning K. Estimating one-sided-killings from a robust measurement model of human rights. Journal of Peace Research. 2020;57(6):801-814. doi:10.1177/0022343320965670",
       "dataPublisherSource": "Combined information from several original datasets on human rights abuses in the form of government killings, torture, political imprisonments, extrajudicial executions, mass killings and disappearances."
     }
@@ -32,7 +32,7 @@
           {
             "name": "Human rights protection",
             "type": "any",
-            "description": "The scores capture the extent to which citizens' physical integrity is protected from government killings, torture,\npolitical imprisonments, extrajudicial executions, mass killings and disappearances. Higher scores mean fewer\nsuch abuses. A score of 0 means an average score relative to all countries and years. A score of 2 is two standard deviations better than the mean across all countries and years.",
+            "description": "",
             "owidDisplaySettings": "{\"name\": \"Human rights protection\", \"includeInTable\": true}"
           }
         ]
