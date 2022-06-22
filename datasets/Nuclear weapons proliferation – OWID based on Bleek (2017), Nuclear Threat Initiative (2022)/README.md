@@ -15,3 +15,5 @@ A country is coded as possessing nuclear weapons if it has a nuclear-explosive d
 Belarus, Kazakhstan, and Ukraine are not coded as possessing nuclear weapons because they never had operational control of the nuclear weapons left over from the Soviet Union.
 
 You can read more about specific countries in the profiles by Bleek (2017) and the Nuclear Threat Initiative (2022) by following the links.
+
+You can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/nuclear_weapons
