@@ -206,7 +206,7 @@
             "name": "democracy_recod_polity",
             "type": "any",
             "description": "Based on the assessments and index by Polity 5 (2021). It combines information on the extent to which open, multi-party, and competitive elections choose a chief executive who faces comprehensive institutional constraints, and political participation is competitive. \n\nIt ranges from 0 to 20 (fully democratic).\n\nIt matches the variable polity2 in Polity 5 (2021), with the values rescaled to range from 0 to 20 instead of -10 to 10, and with the values -66 as well as the value of -88 for Belgium in 1830 recoded as missing, as per the rules on page 17 of the Polity 5 codebook.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Democracy\", \"includeInTable\": true}"
           }
         ]
       }
