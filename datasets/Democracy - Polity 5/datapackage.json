@@ -38,13 +38,13 @@
             "name": "regime_polity",
             "type": "any",
             "description": "The variable identifies the political regime of a country using the Polity 5 data by the Center for Systemic Peace. It distinguishes between autocracies (score 0), anocracies (score 1), and democracies (score 2).\n\nDemocracies have mostly democratic characteristics, understood as open, multi-party, and competitive elections choosing a chief executive who faces comprehensive institutional constraints, and competitive political participation.\n\nAnocracies have neither clearly democratic nor autocratic characteristics.\n\nAutocracies have mostly autocratic/non-democratic characteristics.\n\nIt uses the conventional coding rules (-10 to -6 as autocracies, -5 to 5 as anocracies, and 6 to 10 as democracies) of coding Polity regimes given here: https://www.systemicpeace.org/polityproject.html",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Political regime\", \"includeInTable\": true}"
           },
           {
             "name": "dem_age_polity",
             "type": "any",
             "description": "The identification of democracies is based on the conventional classification of the Polity data (-10 to -6 as autocracies, -5 to 5 as anocracies, and 6 to 10 as democracies) given here: https://www.systemicpeace.org/polityproject.html\n\nDemocracies are understood here as having broadly open, multi-party, and competitive elections choosing a chief executive who faces comprehensive institutional constraints, and competitive political participation.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Age of democracy\", \"includeInTable\": true}"
           },
           {
             "name": "dem_age_group_polity",
@@ -56,37 +56,37 @@
             "name": "exec_reccomp_polity",
             "type": "any",
             "description": "The variable indicates the extent to which executive recruitment is competitive. It ranges from executive power being seized (score of 0), over the executive being selected by elites (score of 1), and dual selection-election or transitional arrangements (score of 2), to the executive being elected (score of 4).\n\nIt matches the variable xrcomp in Polity 5 (2021), with the values of -88, -77, and -66 recoded as missing values.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Competitiveness of executive recruitment\", \"includeInTable\": true}"
           },
           {
             "name": "exec_recopen_polity",
             "type": "any",
             "description": "The variable indicates the extent to which recruitment for the executive is open. It ranges from executive power being seized (score of 0), over hereditary succession (score of 1), dual hereditary-open arrangements with the chief minister designated (score of 2), and dual hereditary-open arrangements with the chief minister being elected (score of 3), to executive recruitment being open (score of 4).\n\nIt matches the variable xropen in Polity 5 (2021), with the values of -88, -77, and -66 recoded as missing values.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Openness of executive recruitment\", \"includeInTable\": true}"
           },
           {
             "name": "exec_constr_polity",
             "type": "any",
             "description": "The variable indicates the extent to which the executive is constrained. It ranges from unconstrained executives (score of 1), over slight or moderate constraints (score of 3), and substantial constraints (score of 5), to an executive that is subordinated to or on par with other authorities (score of 7). The remaining categories are intermediate ones.\n\nIt matches the variable xconst in Polity 5 (2021), with the values of -88, -77, and -66 recoded as missing values.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Constraints on the executive\", \"includeInTable\": true}"
           },
           {
             "name": "polpart_reg_polity",
             "type": "any",
             "description": "The variable indicates the extent to which political participation is regulated, ranging from highly unstable political participation (score of 1), over political participation with multiple identities (score of 2), sectarian political participation (score of 3), and restricted political participation (score of 4), to unrestricted and stable political participation (score of 5).\n\nIt matches the variable parreg in Polity 5 (2021), with the values of -88, -77, and -66 recoded as missing values.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Regulation of political participation\", \"includeInTable\": true}"
           },
           {
             "name": "polpart_comp_polity",
             "type": "any",
             "description": "The variable indicates the extent to which political participation is competitive. It ranges from unregulated political participation (score of 0), over repressed political participation (score of 1), suppressed political participation (score of 2), factional political participation (score of 3), and transitional arrangements (score of 4), to competitive political participation (score of 5).\n\nIt matches the variable parcomp in Polity 5 (2021), with the values of -88, -77, and -66 recoded as missing values.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Competitiveness of political participation\", \"includeInTable\": true}"
           },
           {
             "name": "dem_exp_polity",
             "type": "any",
             "description": "The variable identifies the number of years a country was a democracy since 1800.\n\nThe identification of democracies is based on the conventional classification of the Polity data (-10 to -6 as autocracies, -5 to 5 as anocracies, and 6 to 10 as democracies) given here: https://www.systemicpeace.org/polityproject.html\n\nDemocracies are understood here as having broadly open, multi-party, and competitive elections choosing a chief executive who faces comprehensive institutional constraints, and competitive political participation.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Experience with democracy\", \"includeInTable\": true}"
           },
           {
             "name": "number_aut_polity",
@@ -194,13 +194,19 @@
             "name": "popw_democracy_polity",
             "type": "any",
             "description": "The variable denotes the extent of democracy as identified based on Polity 5, weighted by population.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Democracy weighted by population\", \"includeInTable\": true}"
           },
           {
             "name": "region",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "democracy_recod_polity",
+            "type": "any",
+            "description": "Based on the assessments and index by Polity 5 (2021). It combines information on the extent to which open, multi-party, and competitive elections choose a chief executive who faces comprehensive institutional constraints, and political participation is competitive. \n\nIt ranges from 0 to 20 (fully democratic).\n\nIt matches the variable polity2 in Polity 5 (2021), with the values rescaled to range from 0 to 20 instead of -10 to 10, and with the values -66 as well as the value of -88 for Belgium in 1830 recoded as missing, as per the rules on page 17 of the Polity 5 codebook.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           }
         ]
       }
