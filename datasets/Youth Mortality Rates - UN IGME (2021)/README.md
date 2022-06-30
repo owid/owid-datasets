@@ -20,4 +20,4 @@ We define and calculate the 'youth mortality' for different age cut-offs based o
     - Under-5 mortality rates (the share of newborns who die before reaching the age of five)
     -  5-24 mortality rates (the share of children aged 5 who die before reaching the age of 24).
 
-All of these metrics are available from the UN IGME (2021).
+All of these metrics are available from the UN IGME (2021). This dataset should be next updated by the source in December 2022. We will update it on Our World in Data soon after the new version is published. At the link above you can directly access the source page and see the latest available data.
