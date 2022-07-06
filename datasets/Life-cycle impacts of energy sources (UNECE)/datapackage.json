@@ -69,18 +69,6 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "agricutural_land_use_energy",
-            "type": "any",
-            "description": "Land use is measured as the total amount of land needed per unit of electricity production. This includes direct land use – the land used by a power plant, or solar farm – plus indirect land use from the mining of fuels and materials. This is measured in per megawatt-hour of electricity production.",
-            "owidDisplaySettings": "{\"name\": \"Agricultural land use per unit of electricity \", \"unit\": \"m² per MWh\", \"shortUnit\": \"m²\", \"includeInTable\": true}"
-          },
-          {
-            "name": "urban_land_use_energy",
-            "type": "any",
-            "description": "Land use is measured as the total amount of land needed per unit of electricity production. This includes direct land use – the land used by a power plant, or solar farm – plus indirect land use from the mining of fuels and materials. This is measured in per megawatt-hour of electricity production.",
-            "owidDisplaySettings": "{\"name\": \"Urban land use per unit of electricity\", \"unit\": \"m² per MWh\", \"shortUnit\": \"m²\", \"includeInTable\": true}"
-          },
-          {
             "name": "land_use_energy",
             "type": "any",
             "description": "Land use is measured as the total amount of land needed per unit of electricity production. This includes direct land use – the land used by a power plant, or solar farm – plus indirect land use from the mining of fuels and materials. This is measured in per megawatt-hour of electricity production.",
