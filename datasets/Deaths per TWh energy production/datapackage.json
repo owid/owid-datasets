@@ -1,0 +1,39 @@
+{
+  "name": "Deaths per TWh energy production",
+  "title": "Deaths per TWh energy production",
+  "id": 5198,
+  "description": "Death rates from energy production is measured as the number of deaths by energy source per terawatt-hour (TWh) of electricity production. \n\nData on death rates from fossil fuels is sourced from Markandya, A., & Wilkinson, P. (2007).\n\nData on death rates from solar and wind is sourced from Sovacool et al. (2016) based on a database of accidents from these sources.\n\nWe estimate deaths rates for nuclear energy based on the latest death toll figures from Chernobyl and Fukushima as described in our article here: https://ourworldindata.org/what-was-the-death-toll-from-chernobyl-and-fukushima\n\nWe estimate death rates from hydropower based on an updated list of historical hydropower accidents, dating back to 1965, sourced primarily from the underlying database included in Sovacool et al. (2016). For more information, see our article: https://ourworldindata.org/safest-sources-of-energy",
+  "sources": [
+    {
+      "name": "Deaths per TWh energy production",
+      "additionalInfo": "Death rates from energy production is measured as the number of deaths by energy source per terawatt-hour (TWh) of electricity production. \n\nData on death rates from fossil fuels is sourced from Markandya, A., & Wilkinson, P. (2007).\n\nData on death rates from solar and wind is sourced from Sovacool et al. (2016) based on a database of accidents from these sources.\n\nWe estimate deaths rates for nuclear energy based on the latest death toll figures from Chernobyl and Fukushima as described in our article here: https://ourworldindata.org/what-was-the-death-toll-from-chernobyl-and-fukushima\n\nWe estimate death rates from hydropower based on an updated list of historical hydropower accidents, dating back to 1965, sourced primarily from the underlying database included in Sovacool et al. (2016). For more information, see our article: https://ourworldindata.org/safest-sources-of-energy",
+      "dataPublishedBy": "Sovacool et al. (2016); and Markandya, A., & Wilkinson, P. (2007)"
+    }
+  ],
+  "owidTags": [
+    "Energy"
+  ],
+  "resources": [
+    {
+      "path": "Deaths per TWh energy production.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Deaths per TWh of electricity production",
+            "type": "any",
+            "description": "Death rates from energy sources is measured as the number of deaths from air pollution and accidents per terawatt-hour (TWh) of energy production.",
+            "owidDisplaySettings": "{\"name\": \"Deaths per terawatt-hour of electricity production\", \"unit\": \"deaths per terawatt-hour\", \"includeInTable\": true}"
+          }
+        ]
+      }
+    }
+  ]
+}
