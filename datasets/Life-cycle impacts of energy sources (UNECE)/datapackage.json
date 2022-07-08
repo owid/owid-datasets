@@ -2,11 +2,12 @@
   "name": "Life-cycle impacts of energy sources (UNECE)",
   "title": "Life-cycle impacts of energy sources (UNECE)",
   "id": 5431,
-  "description": "",
+  "description": "This dataset was updated on 8th July 2022 with the latest figures from the UNECE. You can find details of this correction and update from the UNECE here: https://unece.org/sites/default/files/2022-07/Corrigendum%20to%20UNECE%20LCA%20report%20-%20land%20use.pdf",
   "sources": [
     {
       "name": "UNECE (2021). Life Cycle Assessment of Electricity Generation Options. United Nations Economic Commission for Europe.",
       "link": "https://unece.org/sed/documents/2021/10/reports/life-cycle-assessment-electricity-generation-options",
+      "additionalInfo": "This dataset was updated on 8th July 2022 with the latest figures from the UNECE. You can find details of this correction and update from the UNECE here: https://unece.org/sites/default/files/2022-07/Corrigendum%20to%20UNECE%20LCA%20report%20-%20land%20use.pdf",
       "dataPublishedBy": "UNECE (2021). Life Cycle Assessment of Electricity Generation Options. United Nations Economic Commission for Europe."
     }
   ],
@@ -130,12 +131,6 @@
           },
           {
             "name": "uranium_use",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "deaths_per_twh",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
