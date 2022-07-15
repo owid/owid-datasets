@@ -1,0 +1,222 @@
+{
+  "name": "Penn World Table version 10.0",
+  "title": "Penn World Table version 10.0",
+  "id": 5653,
+  "description": "PWT version 10.0 is a database with information on GDP and its composition, employment, productivity and trade, covering 183 countries between 1950 and 2019.",
+  "sources": [
+    {
+      "name": "Feenstra et al. (2015), Penn World Table v10.0",
+      "link": "https://www.rug.nl/ggdc/productivity/pwt",
+      "retrievedDate": "06-07-2022",
+      "additionalInfo": "PWT version 10.0 is a database with information on GDP and its composition, employment, productivity and trade, covering 183 countries between 1950 and 2019.",
+      "dataPublishedBy": "Feenstra, R. C., Inklaar, R. and Timmer, M.P. (2015), \"The Next Generation of the Penn World Table\". American Economic Review, 105(10), 3150-3182",
+      "dataPublisherSource": "National accounts, ICP PPP estimations, multiple other sources"
+    }
+  ],
+  "owidTags": [
+    "Economic Growth"
+  ],
+  "resources": [
+    {
+      "path": "Penn World Table version 10.0.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "GDP (expenditure, multiple price benchmarks)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"GDP\", \"unit\": \"International-$ (at 2017 prices)\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "GDP (output, multiple price benchmarks)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"GDP\", \"unit\": \"International-$ (at 2017 prices)\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Population",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Population\", \"unit\": \"People\", \"shortUnit\": \"p\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Number of people in work",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Number of people in work\", \"unit\": \"People in work\", \"shortUnit\": \"p\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Annual working hours per worker",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Annual working hours\", \"unit\": \"Hours\", \"shortUnit\": \"h\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Consumption of households and government (single price benchmark)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Consumption of households and government\", \"unit\": \"International-$ (at 2017 prices)\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Domestic absorption (consumption plus investment) (single price benchmark)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Consumption plus investment\", \"unit\": \"International-$ (at 2017 prices)\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "GDP (expenditure, single price benchmark)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"GDP\", \"unit\": \"International-$ (at 2017 prices)\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "GDP (output, single price benchmark)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"GDP\", \"unit\": \"International-$ (at 2017 prices)\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Capital stock (single price benchmark)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Capital stock\", \"unit\": \"International-$ (at 2017 prices)\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "GDP (using national accounts growth rates)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"GDP\", \"unit\": \"International-$ (at 2017 prices)\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Consumption of households and government (using national accounts)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Consumption of households and government\", \"unit\": \"International-$ (at 2017 prices)\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Domestic absorption (consumption plus investment) (using national accounts)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Consumption plus investment\", \"unit\": \"International-$ (at 2017 prices)\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Capital stock (using national accounts)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Capital stock\", \"unit\": \"International-$ (at 2017 prices)\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Total factor productivity index (using national accounts) (2017=1)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"TFP index\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Share of labour compensation in GDP",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Share of labour compensation in GDP\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Real internal rate of return",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Real internal rate of return\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Average depreciation rate of the capital stock",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Average depreciation rate of the capital stock\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Share of household consumption in GDP",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Share of household consumption in GDP\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Share of gross capital formation in GDP",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Share of gross capital formation in GDP\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Share of government consumption in GDP",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Share of government consumption in GDP\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Share of merchandise exports in GDP",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Share of merchandise exports in GDP\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Share of merchandise imports in GDP",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Share of merchandise imports in GDP\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Share of residual trade and GDP statistical discrepancy in GDP",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Share of residual trade and GDP statistical discrepancy in GDP\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "GDP per capita (expenditure, multiple price benchmarks)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"GDP per capita\", \"unit\": \"International-$ (at 2017 prices)\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "GDP per capita (output, multiple price benchmarks)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"GDP per capita\", \"unit\": \"International-$ (at 2017 prices)\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "GDP per capita (expenditure, single price benchmark)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"GDP per capita\", \"unit\": \"International-$ (at 2017 prices)\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "GDP per capita (output, single price benchmark)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"GDP per capita\", \"unit\": \"International-$ (at 2017 prices)\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "GDP per capita (using national accounts growth rates)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"GDP per capita\", \"unit\": \"International-$ (at 2017 prices)\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Productivity: output per hour worked",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Productivity: output per hour worked\", \"unit\": \"International-$ (at 2017 prices) per hour\", \"shortUnit\": \"$/h\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Trade openness (share of exports and imports in GDP)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"name\": \"Trade openness\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          }
+        ]
+      }
+    }
+  ]
+}
