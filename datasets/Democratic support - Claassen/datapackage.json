@@ -1,0 +1,53 @@
+{
+  "name": "Democratic support - Claassen",
+  "title": "Democratic support - Claassen",
+  "id": 5658,
+  "description": "This dataset provides information on citizens' support for democracy, using data from Claassen (2022).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
+  "sources": [
+    {
+      "name": "Claassen (2022)",
+      "link": "http://chrisclaassen.com/data.html",
+      "retrievedDate": "July 12, 2022",
+      "additionalInfo": "This dataset provides information on citizens' support for democracy, using data from Claassen (2022).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
+      "dataPublishedBy": "Claassen, Christopher. 2019. Estimating Smooth Country-Year Panels of Public Opinion. Political Analysis 27(1): 1–20."
+    }
+  ],
+  "owidTags": [
+    "Democracy"
+  ],
+  "resources": [
+    {
+      "path": "Democratic support - Claassen.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "democracy_support_claassen",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "democracy_support_high_claassen",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "democracy_support_low_claassen",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
