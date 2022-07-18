@@ -1,0 +1,53 @@
+{
+  "name": "Democratic satisfaction - Claassen",
+  "title": "Democratic satisfaction - Claassen",
+  "id": 5659,
+  "description": "This dataset provides information on citizens' satisfaction with democracy, using data from Claassen (2022).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
+  "sources": [
+    {
+      "name": "Claassen (2022)",
+      "link": "http://chrisclaassen.com/data.html",
+      "retrievedDate": "July 12, 2022",
+      "additionalInfo": "This dataset provides information on citizens' satisfaction with democracy, using data from Claassen (2022).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
+      "dataPublishedBy": "Claassen, Christopher, and Pedro Magalhães. 2022. Effective Government and Evaluations of Democracy. Comparative Political Studies 55(5): 869-894."
+    }
+  ],
+  "owidTags": [
+    "Democracy"
+  ],
+  "resources": [
+    {
+      "path": "Democratic satisfaction - Claassen.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "democracy_satisf_claassen",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "democracy_satisf_high_claassen",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "democracy_satisf_low_claassen",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
