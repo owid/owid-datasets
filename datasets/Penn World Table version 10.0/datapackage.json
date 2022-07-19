@@ -5,7 +5,7 @@
   "description": "PWT version 10.0 is a database with information on GDP and its composition, employment, productivity and trade, covering 183 countries between 1950 and 2019.",
   "sources": [
     {
-      "name": "Feenstra et al. (2015), Penn World Table v10.0",
+      "name": "Feenstra et al. (2015), Penn World Table 10.0",
       "link": "https://www.rug.nl/ggdc/productivity/pwt",
       "retrievedDate": "06-07-2022",
       "additionalInfo": "PWT version 10.0 is a database with information on GDP and its composition, employment, productivity and trade, covering 183 countries between 1950 and 2019.",
