@@ -2,13 +2,13 @@
   "name": "Democracy - OWID based on Varieties of Democracy (v12) and Regimes of the World",
   "title": "Democracy - OWID based on Varieties of Democracy (v12) and Regimes of the World",
   "id": 5600,
-  "description": "This dataset provides information on political regimes, using data from the Varieties of Democracy project (v11.1), and the Regimes of the World classification by Lührmann et al. (2018).\n\nWe expand the countries and years covered, and refine the coding of the Regimes of the World classification. You can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
+  "description": "This dataset provides information on political regimes, using data from the Varieties of Democracy project (v12), and the Regimes of the World classification by Lührmann et al. (2018).\n\nWe expand the countries and years covered, and refine the coding of the Regimes of the World classification. You can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
   "sources": [
     {
       "name": "OWID based on V-Dem (v12) and Lührmann et al. (2018)",
       "link": "http://v-dem.net/vdemds.html",
       "retrievedDate": "March 2, 2022",
-      "additionalInfo": "This dataset provides information on political regimes, using data from the Varieties of Democracy project (v11.1), and the Regimes of the World classification by Lührmann et al. (2018).\n\nWe expand the countries and years covered, and refine the coding of the Regimes of the World classification. You can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
+      "additionalInfo": "This dataset provides information on political regimes, using data from the Varieties of Democracy project (v12), and the Regimes of the World classification by Lührmann et al. (2018).\n\nWe expand the countries and years covered, and refine the coding of the Regimes of the World classification. You can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
       "dataPublishedBy": "Our World in Data, Bastian Herre",
       "dataPublisherSource": "Data comes from the Varieties of Democracy project (v12), sometimes using Lührmann et al's (2018) Regimes of the World classification, and own expansions and refinements."
     }
@@ -33,13 +33,13 @@
             "name": "regime_row_owid",
             "type": "any",
             "description": "The variable identifies the political regime of a country using the Regimes of the World classification by political scientists Anna Lührmann, Marcus Tannenberg and Staffan Lindberg. It distinguishes between closed autocracies (score 0), electoral autocracies (score 1), electoral democracies (score 2), and liberal democracies (score 3).\n\nIn closed autocracies, citizens do not have the right to either choose the chief executive of the government or the legislature through multi-party elections.\n\nIn electoral autocracies, citizens have the right to choose the chief executive and the legislature through multi-party elections; but they lack some freedoms, such as the freedoms of association or expression, that make the elections meaningful, free, and fair.\n\nIn electoral democracies, citizens have the right to participate in meaningful, free and fair, and multi-party elections.\n\nIn liberal democracies, citizens have further individual and minority rights, are equal before the law, and the actions of the executive are constrained by the legislative and the courts.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Political regime\", \"includeInTable\": true}"
           },
           {
             "name": "electdem_age_row_owid",
             "type": "any",
             "description": "The identification of electoral democracies is based on the Regimes of the World classification by Lührmann et al. (2018).\n\nIn electoral democracies, citizens have the right to participate in meaningful, free and fair, and multi-party elections.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Age of electoral democracy\", \"includeInTable\": true}"
           },
           {
             "name": "electdem_age_group_row_owid",
@@ -51,7 +51,7 @@
             "name": "libdem_age_row_owid",
             "type": "any",
             "description": "The identification of liberal democracies is based on the Regimes of the World classification by Lührmann et al. (2018).\n\nIn electoral democracies, citizens have the right to participate in meaningful, free and fair, and multi-party elections.\n\nIn liberal democracies, citizens have further individual and minority rights, are equal before the law, and the actions of the executive are constrained by the legislative and the courts.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Age of liberal democracy\", \"includeInTable\": true}"
           },
           {
             "name": "libdem_age_group_row_owid",
@@ -237,7 +237,7 @@
             "name": "suffr_vdem_owid",
             "type": "any",
             "description": "The variable denotes the share of adult citizens which have the legal right to vote in national elections.\n\nIt is based on the V-Dem variable v2x_suffr. We expand it to cover more years for some countries, and multiply it by 100 to denote percentages.\n\nUniversal suffrage is coded as 100%, and universal male suffrage as 50%.\n\nThe variable captures legal restrictions, and not restrictions that may be in place in practice. It considers restrictions based on gender, property, tax payments, income, literacy, region, race, ethnicity, religion, and economic independence; it does not consider restrictions based on age, residence, conviction of a crime, or legal incompetence.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Share of adult citizens who have the right to vote\", \"includeInTable\": true}"
           },
           {
             "name": "electfreefair_vdem_owid",
@@ -261,7 +261,7 @@
             "name": "electoff_vdem_owid",
             "type": "any",
             "description": "The variable measures the extent to which the legislature is chosen through popular elections, and the chief executive is elected directly or indirectly (appointed by a popularly elected legislature).\n\nIt is based on the V-Dem variable v2x_elecoff, and we expand it to cover more years for some countries.\n\nA popular election can still mean that suffrage is limited and there is no competition for these offices.\n\nThe variable is based on the V-Dem variable v2x_elecoff, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (chief executive and legislature fully elected).",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Elected political leaders\", \"includeInTable\": true}"
           },
           {
             "name": "lib_vdem_owid",
@@ -375,7 +375,7 @@
             "name": "dirpop_vote_vdem_owid",
             "type": "any",
             "description": "The variable denotes the extent of how easy it is for citizens to vote on specific issues themselves in popular initiatives, referendums, and plebiscites.\n\nIt is based on the V-Dem variable v2xdd_dd, and we expand it to cover more years for some countries.\n\nThe index reaches from 0 to 1 (easiest).",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Direct popular voting\", \"includeInTable\": true}"
           },
           {
             "name": "locelect_vdem_owid",
@@ -525,7 +525,7 @@
             "name": "turnout_vdem_owid",
             "type": "any",
             "description": "The variable denotes the voter turnout as a share of all registered voters in the national election according to official results.\n\nIt is based on the V-Dem variable v2eltrnout, and we expand it to cover more years for some countries.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Voter turnout\", \"includeInTable\": true}"
           },
           {
             "name": "egal_vdem_owid",
@@ -621,13 +621,13 @@
             "name": "electdem_exp_row_owid",
             "type": "any",
             "description": "The variable identifies the number of years a country was an electoral democracy since 1789.\n\nThe identification of electoral democracies is based on the Regimes of the World classification by Lührmann et al. (2018).\n\nIn electoral democracies, citizens have the right to participate in meaningful, free and fair, and multi-party elections.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Experience with electoral democracy\", \"includeInTable\": true}"
           },
           {
             "name": "libdem_exp_row_owid",
             "type": "any",
             "description": "The variable identifies the number of years a country was a liberal democracy since 1789.\n\nThe identification of liberal democracies is based on the Regimes of the World classification by Lührmann et al. (2018).\n\nIn electoral democracies, citizens have the right to participate in meaningful, free and fair, and multi-party elections.\n\nIn liberal democracies, citizens have further individual and minority rights, are equal before the law, and the actions of the executive are constrained by the legislative and the courts.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Experience with liberal democracy\", \"includeInTable\": true}"
           },
           {
             "name": "number_closedaut_row_owid",
@@ -747,7 +747,7 @@
             "name": "popw_electdem_vdem_owid",
             "type": "any",
             "description": "The variable denotes the best estimate of the extent to which political leaders are elected under comprehensive suffrage in free and fair elections, and freedoms of association and expression are guaranteed, weighted by population. \n\nThe index reaches from 0 to 1 (most democratic).",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Electoral democracy weighted by population\", \"includeInTable\": true}"
           },
           {
             "name": "popw_electdem_l_vdem_owid",
@@ -765,7 +765,7 @@
             "name": "popw_libdem_vdem_owid",
             "type": "any",
             "description": "The variable denotes the best estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, individual and minority rights, equality before the law, and executive constraints, weighted by population.\n\nThe index reaches from 0 to 1 (most democratic).",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Liberal democracy weighted by population\", \"includeInTable\": true}"
           },
           {
             "name": "popw_libdem_l_vdem_owid",
@@ -783,7 +783,7 @@
             "name": "popw_participdem_vdem_owid",
             "type": "any",
             "description": "The variable denotes the best estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which citizens can engage in regional and local government, civil society organizations, and direct democracy, weighted by population.\n\nThe index reaches from 0 to 1 (most democratic).",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Participatory democracy weighted by population\", \"includeInTable\": true}"
           },
           {
             "name": "popw_participdem_l_vdem_owid",
@@ -801,7 +801,7 @@
             "name": "popw_delibdem_vdem_owid",
             "type": "any",
             "description": "The variable denotes the best estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which political elites justify their positions, justify them with the common good, acknowledge counterarguments, consult elites in policy changes, and society deliberates policy changes, weighted by population.\n\nThe index reaches from 0 to 1 (most democratic).",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Deliberative democracy weighted by population\", \"includeInTable\": true}"
           },
           {
             "name": "popw_delibdem_l_vdem_owid",
@@ -819,7 +819,7 @@
             "name": "popw_egaldem_vdem_owid",
             "type": "any",
             "description": "The variable denotes the best estimate of the extent of suffrage, the freedom and fairness of elections, freedoms of association and expression, as well as the extent to which the protection of rights, access to power, and distribution of resources is equal, weighted by population.\n\nThe index reaches from 0 to 1 (most democratic).",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Egalitarian democracy weighted by population\", \"includeInTable\": true}"
           },
           {
             "name": "popw_egaldem_l_vdem_owid",
@@ -903,7 +903,7 @@
             "name": "regime_amb_row_owid",
             "type": "any",
             "description": "The variable identifies the political regime of a country using the Regimes of the World classification by political scientists Anna Lührmann, Marcus Tannenberg and Staffan Lindberg, including ambiguous categories. It distinguishes between closed autocracies (score 0), electoral autocracies (score 3), electoral democracies (score 6), and liberal democracies (score 9) as the main types.\n\nIn closed autocracies, citizens do not have the right to either choose the chief executive of the government or the legislature through multi-party elections.\n\nIn electoral autocracies, citizens have the right to choose the chief executive and the legislature through multi-party elections; but they lack some freedoms, such as the freedoms of association or expression, that make the elections meaningful, free, and fair.\n\nIn electoral democracies, citizens have the right to participate in meaningful, free and fair, and multi-party elections.\n\nIn liberal democracies, citizens have further individual and minority rights, are equal before the law, and the actions of the executive are constrained by the legislative and the courts.\n\nIt further includes intermediate categories for closed autocracies that may be electoral autocracies (score 1), electoral autocracies that may be closed autocracies (score 2), electoral autocracies that may be electoral democracies (score 4), electoral democracies that may be electoral autocracies (score 5), electoral democracies that may be liberal democracies (score 7) and liberal democracies that may be electoral democracies (score 8).",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Political regime\", \"includeInTable\": true}"
           },
           {
             "name": "electmulpar_high_row_owid",
@@ -1143,7 +1143,7 @@
             "name": "regime_redux_row_owid",
             "type": "any",
             "description": "The variable identifies the political regime of a country using the Regimes of the World classification by political scientists Anna Lührmann, Marcus Tannenberg and Staffan Lindberg. It distinguishes between closed autocracies (score 0), electoral autocracies (score 1), and electoral democracies (score 2, including liberal democracies).\n\nIn closed autocracies, citizens do not have the right to either choose the chief executive of the government or the legislature through multi-party elections.\n\nIn electoral autocracies, citizens have the right to choose the chief executive and the legislature through multi-party elections; but they lack some freedoms, such as the freedoms of association or expression, that make the elections meaningful, free, and fair.\n\nIn electoral democracies, citizens have the right to participate in meaningful, free and fair, and multi-party elections.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Electoral democracy\", \"includeInTable\": true}"
           }
         ]
       }
