@@ -38,7 +38,7 @@
             "name": "regime_ert",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Political regime\", \"includeInTable\": true}"
           },
           {
             "name": "regime_trep_outcome_ert",
