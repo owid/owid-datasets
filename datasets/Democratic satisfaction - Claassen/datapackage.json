@@ -31,20 +31,20 @@
           {
             "name": "democracy_satisf_claassen",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the central estimate of the extent to which citizens are satisfied with democracy in their own country. It combines responses across more than one thousand nationally-representative surveys on how citizens' satisfaction with democracy.\n\nAn examples of a survey questions is: \"On the whole, how satisfied or dissatisfied are you with the way democracy works in [own country]?\"\n\nResponses above the median were considered as satisfaction with democracy. Dissatisfied respondents may have actively expressed dissatisfaction with democracy, may have given an indifferent answer, may have answered \"I don't know\", or may not have responded at all.\n\nThe variable matches Claassen's variable satis.\n\nHigher scores indicate more satisfaction. Positive scores mean that citizen satisfaction with democracy is higher than the average across all countries and years. A score of 1 means that citizen support lies one standard deviation above the average support.",
+            "owidDisplaySettings": "{\"name\": \"Citizen satisfaction with democracy\", \"includeInTable\": true}"
           },
           {
             "name": "democracy_satisf_high_claassen",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the upper-bound estimate of the extent to which citizens are satisfied with democracy in their own country. It combines responses across more than one thousand nationally-representative surveys on how citizens' satisfaction with democracy.\n\nAn examples of a survey questions is: \"On the whole, how satisfied or dissatisfied are you with the way democracy works in [own country]?\"\n\nResponses above the median were considered as satisfaction with democracy. Dissatisfied respondents may have actively expressed dissatisfaction with democracy, may have given an indifferent answer, may have answered \"I don't know\", or may not have responded at all.\n\nThe variable matches Claassen's variable satis_u95.\n\nHigher scores indicate more satisfaction. Positive scores mean that citizen satisfaction with democracy is higher than the average across all countries and years. A score of 1 means that citizen support lies one standard deviation above the average support.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "democracy_satisf_low_claassen",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the lower-bound estimate of the extent to which citizens are satisfied with democracy in their own country. It combines responses across more than one thousand nationally-representative surveys on how citizens' satisfaction with democracy.\n\nAn examples of a survey questions is: \"On the whole, how satisfied or dissatisfied are you with the way democracy works in [own country]?\"\n\nResponses above the median were considered as satisfaction with democracy. Dissatisfied respondents may have actively expressed dissatisfaction with democracy, may have given an indifferent answer, may have answered \"I don't know\", or may not have responded at all.\n\nThe variable matches Claassen's variable satis_l95.\n\nHigher scores indicate more satisfaction. Positive scores mean that citizen satisfaction with democracy is higher than the average across all countries and years. A score of 1 means that citizen support lies one standard deviation above the average support.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           }
         ]
       }
