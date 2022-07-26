@@ -1,0 +1,119 @@
+{
+  "name": "Plastic waste trade (UN Comtrade, 2022)",
+  "title": "Plastic waste trade (UN Comtrade, 2022)",
+  "id": 5665,
+  "description": "This dataset measures the global trade of plastic waste. \n\nThe data is sourced from the commodity category '3915 – Waste, parings and scrap, of plastics' from the UN's Comtrade Database.\n\nThese results are also published in the UNCTAD report, published at: https://unctad.org/system/files/official-document/ser-rp-2020d12_en.pdf\n\nThe metrics 'Exports', 'Imports', 'Re-Exports' and 'Re-Imports' are taken directly from the UN Comtrade Database.\n\nWe have calculated several additional metrics:\n\n1. 'Net exports'. This is calculated as 'Exports' minus 'Imports'.\n2. All of these metrics in per capita terms. These are calculated by dividing by each country's population\n3. Share of the global total for each metric. These are calculated by dividing each country's figures by the total of all available countrires (i.e. the world total) in each year.",
+  "sources": [
+    {
+      "name": "United Nations Comtrade Database",
+      "link": "https://comtrade.un.org/data/",
+      "additionalInfo": "This dataset measures the global trade of plastic waste. \n\nThe data is sourced from the commodity category '3915 – Waste, parings and scrap, of plastics' from the UN's Comtrade Database.\n\nThese results are also published in the UNCTAD report, published at: https://unctad.org/system/files/official-document/ser-rp-2020d12_en.pdf\n\nThe metrics 'Exports', 'Imports', 'Re-Exports' and 'Re-Imports' are taken directly from the UN Comtrade Database.\n\nWe have calculated several additional metrics:\n\n1. 'Net exports'. This is calculated as 'Exports' minus 'Imports'.\n2. All of these metrics in per capita terms. These are calculated by dividing by each country's population\n3. Share of the global total for each metric. These are calculated by dividing each country's figures by the total of all available countrires (i.e. the world total) in each year.",
+      "dataPublishedBy": "United Nations Comtrade Database"
+    }
+  ],
+  "owidTags": [
+    "Waste",
+    "Plastic Pollution"
+  ],
+  "resources": [
+    {
+      "path": "Plastic waste trade (UN Comtrade, 2022).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "plastic_waste_exports",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "plastic_waste_imports",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "plastic_waste_reexports",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "plastic_waste_reimports",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "plastic_waste_net_exports",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "plastic_waste_exports_per_capita",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "plastic_waste_imports_per_capita",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "net_exports_per_capita",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "plastic_waste_reexports_per_capita",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "plastic_waste_reimports_per_capita",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "share_global_plastic_waste_exports",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "share_global_plastic_waste_imports",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "share_global_plastic_waste_reexports",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "share_global_plastic_waste_reimports",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
