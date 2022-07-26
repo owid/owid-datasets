@@ -32,73 +32,73 @@
             "name": "plastic_waste_exports",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Plastic waste exports\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 0.001}"
           },
           {
             "name": "plastic_waste_imports",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Plastic waste imports\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 0.001}"
           },
           {
             "name": "plastic_waste_reexports",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Plastic waste re-exports\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 0.001}"
           },
           {
             "name": "plastic_waste_reimports",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Plastic waste re-imports\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 0.001}"
           },
           {
             "name": "plastic_waste_net_exports",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Net exports of plastic waste are calculated as plastic waste exports minus imports. Negative values indicate a country is a net importer of plastic waste; positive values indicate it is a net exporter.",
+            "owidDisplaySettings": "{\"name\": \"Plastic waste net exports\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 0.001}"
           },
           {
             "name": "plastic_waste_exports_per_capita",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Plastic waste exports per capita\", \"unit\": \"kilograms\", \"shortUnit\": \"kg\", \"includeInTable\": true}"
           },
           {
             "name": "plastic_waste_imports_per_capita",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Plastic waste imports per capita\", \"unit\": \"kilograms\", \"shortUnit\": \"kg\", \"includeInTable\": true}"
           },
           {
             "name": "net_exports_per_capita",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Net exports of plastic waste are calculated as plastic waste exports minus imports. Negative values indicate a country is a net importer of plastic waste; positive values indicate it is a net exporter.",
+            "owidDisplaySettings": "{\"name\": \"Plastic waste net exports per capita\", \"unit\": \"kilograms\", \"shortUnit\": \"kg\", \"includeInTable\": true}"
           },
           {
             "name": "plastic_waste_reexports_per_capita",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Plastic waste re-exports per capita\", \"unit\": \"kilograms\", \"shortUnit\": \"kg\", \"includeInTable\": true}"
           },
           {
             "name": "plastic_waste_reimports_per_capita",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Plastic waste re-imports per capita\", \"unit\": \"kilograms\", \"shortUnit\": \"kg\", \"includeInTable\": true}"
           },
           {
             "name": "share_global_plastic_waste_exports",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Share of global plastic waste exports\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "share_global_plastic_waste_imports",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"name\": \"Share of global plastic waste imports\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "share_global_plastic_waste_reexports",
