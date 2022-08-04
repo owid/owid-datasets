@@ -12,4 +12,4 @@ We have calculated several additional metrics:
 
 1. 'Net exports'. This is calculated as 'Exports' minus 'Imports'.
 2. All of these metrics in per capita terms. These are calculated by dividing by each country's population
-3. Share of the global total for each metric. These are calculated by dividing each country's figures by the total of all available countrires (i.e. the world total) in each year.
+3. Share of the global total for each metric. These are calculated by dividing each country's figures by the total of all available countries (i.e. the world total) in each year.
