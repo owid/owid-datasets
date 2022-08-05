@@ -24,151 +24,145 @@
             "type": "year"
           },
           {
-            "name": "ghg_kcal",
+            "name": "ghg_kg",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "ghg_protein",
+            "name": "ghg_1000kcal",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "ghg_fat",
+            "name": "ghg_100gprotein",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "land_use_100g",
+            "name": "ghg_100gfat",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "land_use_kcal",
+            "name": "land_use_kg",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "land_use_protein",
+            "name": "land_use_1000kcal",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "land_use_fat",
+            "name": "land_use_100gprotein",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "eutrophication_100g",
+            "name": "land_use_100gfat",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "eutrophication_kcal",
+            "name": "eutrophication_kg",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "eutrophication_protein",
+            "name": "eutrophication_1000kcal",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "eutrophication_fat",
+            "name": "eutrophication_100gprotein",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "water_scarcity_100g",
+            "name": "eutrophication_100gfat",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "water_scarcity_kcal",
+            "name": "water_scarcity_kg",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "water_scarcity_protein",
+            "name": "water_scarcity_1000kcal",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "water_scarcity_fat",
+            "name": "water_scarcity_100gprotein",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "biodiversity_100g",
+            "name": "water_scarcity_100gfat",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "biodiversity_kcal",
+            "name": "water_kg",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "biodiversity_protein",
+            "name": "water_1000kcal",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "biodiversity_fat",
+            "name": "water_100gprotein",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "water_100g",
+            "name": "water_100gfat",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "water_kcal",
+            "name": "biodiversity_kg",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "water_protein",
+            "name": "biodiversity_1000kcal",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "water_fat",
+            "name": "biodiversity_100gprotein",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "nutriscore",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "ghg_100g",
+            "name": "biodiversity_100gfat",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
