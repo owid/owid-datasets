@@ -9,7 +9,9 @@
       "additionalInfo": ""
     }
   ],
-  "owidTags": [],
+  "owidTags": [
+    "Environmental impacts of food production"
+  ],
   "resources": [
     {
       "path": "Environmental impacts of food (Clark et al. 2022).csv",
