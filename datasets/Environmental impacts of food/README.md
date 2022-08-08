@@ -1,2 +1,0 @@
-# Environmental impacts of food
-

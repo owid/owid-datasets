@@ -1,18 +1,18 @@
 {
-  "name": "Environmental impacts of food",
-  "title": "Environmental impacts of food",
+  "name": "Environmental impacts of food (Clark et al. 2022)",
+  "title": "Environmental impacts of food (Clark et al. 2022)",
   "id": 5677,
   "description": "",
   "sources": [
     {
-      "name": "Environmental impacts of food",
+      "name": "Environmental impacts of food (Clark et al. 2022)",
       "additionalInfo": ""
     }
   ],
   "owidTags": [],
   "resources": [
     {
-      "path": "Environmental impacts of food.csv",
+      "path": "Environmental impacts of food (Clark et al. 2022).csv",
       "schema": {
         "fields": [
           {
