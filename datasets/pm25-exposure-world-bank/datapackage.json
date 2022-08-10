@@ -30,10 +30,10 @@
             "type": "year"
           },
           {
-            "name": "pm2.5_exposure",
+            "name": "pm25_exposure",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           }
         ]
       }
