@@ -1,0 +1,60 @@
+{
+  "name": "Maternal Mortality Ratio (Gapminder (2010), WHO (2019) and OECD (2022))",
+  "title": "Maternal Mortality Ratio (Gapminder (2010), WHO (2019) and OECD (2022))",
+  "id": 522,
+  "description": "Claudia Hanson has reconstructed the historical estimates for Gapminder in 2010. The work is documented here: https://web.archive.org/web/20220327041441/https://www.gapminder.org/documentation/documentation/gapdoc010.pdf and can be accessed here: https://docs.google.com/spreadsheets/d/14ZtQy9kd0pMRKWg_zKsTg3qKHoGtflj-Ekal9gIPZ4A/pub#\n\nGapminder has reconstructed the historical data for the following 13 countries: Australia, Belgium, Denmark, Finland, Germany, Ireland, Japan, Malaysia, Netherlands, Sri Lanka, Sweden, the United Kingdom, and the United States. \n\nThe OECD data is available for all 38 OECD members between 1960 and 2020, although coverage varies markedly between countries. The data is available here: https://stats.oecd.org/index.aspx?queryid=30116.\n\nThe original source of the World Bank data is: WHO, UNICEF, UNFPA, World Bank Group, and the United Nations Population Division. Trends in Maternal Mortality: 1990 to 2017. Geneva, World Health Organization, 2019. The data is available here: https://data.worldbank.org/indicator/SH.STA.MMRT.\n\nWe combined time-series for countries which had available in both the Gapminder and OECD datasets. When there were overlapping datapoints between the OECD and Gapminder datasets we preferentially used the Gapminder data.\n\nMalaysia and Sri Lanka both had data from Gapminder and WHO, however, we found that the values for these two time-series were not well-aligned so we used only the WHO data.\n\nFor the United States there are missing data in both the OECD and Gapminder datasets between 2008 and 2017. For these years we supplement the time-series with the WHO dataset.",
+  "sources": [
+    {
+      "name": "Gapminder (2010), WHO (2019) and OECD (2022)",
+      "link": "https://www.gapminder.org/documentation/documentation/gapdoc010.pdf; https://data.worldbank.org/indicator/SH.STA.MMRT; https://stats.oecd.org/index.aspx?queryid=30116",
+      "retrievedDate": "2022-08-16",
+      "additionalInfo": "Claudia Hanson has reconstructed the historical estimates for Gapminder in 2010. The work is documented here: https://web.archive.org/web/20220327041441/https://www.gapminder.org/documentation/documentation/gapdoc010.pdf and can be accessed here: https://docs.google.com/spreadsheets/d/14ZtQy9kd0pMRKWg_zKsTg3qKHoGtflj-Ekal9gIPZ4A/pub#\n\nGapminder has reconstructed the historical data for the following 13 countries: Australia, Belgium, Denmark, Finland, Germany, Ireland, Japan, Malaysia, Netherlands, Sri Lanka, Sweden, the United Kingdom, and the United States. \n\nThe OECD data is available for all 38 OECD members between 1960 and 2020, although coverage varies markedly between countries. The data is available here: https://stats.oecd.org/index.aspx?queryid=30116.\n\nThe original source of the World Bank data is: WHO, UNICEF, UNFPA, World Bank Group, and the United Nations Population Division. Trends in Maternal Mortality: 1990 to 2017. Geneva, World Health Organization, 2019. The data is available here: https://data.worldbank.org/indicator/SH.STA.MMRT.\n\nWe combined time-series for countries which had available in both the Gapminder and OECD datasets. When there were overlapping datapoints between the OECD and Gapminder datasets we preferentially used the Gapminder data.\n\nMalaysia and Sri Lanka both had data from Gapminder and WHO, however, we found that the values for these two time-series were not well-aligned so we used only the WHO data.\n\nFor the United States there are missing data in both the OECD and Gapminder datasets between 2008 and 2017. For these years we supplement the time-series with the WHO dataset.",
+      "dataPublishedBy": "Gapminder; OECD; World Bank",
+      "dataPublisherSource": "Census data; country reporting; historical vital registration"
+    }
+  ],
+  "owidTags": [
+    "Maternal Health"
+  ],
+  "resources": [
+    {
+      "path": "Maternal Mortality Ratio (Gapminder (2010), WHO (2019) and OECD (2022)).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Maternal Mortality Ratio (Gapminder (2010) and World Bank (2015))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{\"unit\": \"deaths\"}"
+          },
+          {
+            "name": "maternal_mortality_rate_who_2019",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "maternal_mortality_rate_oecd",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "maternal_mortality_rate_gapminder",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
