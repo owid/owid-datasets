@@ -1,0 +1,502 @@
+{
+  "name": "World Bank Poverty and Inequality Platform (PIP)",
+  "title": "World Bank Poverty and Inequality Platform (PIP)",
+  "id": 5689,
+  "description": "The Poverty and Inequality Platform (PIP) is an interactive computational tool that offers users quick access to the World Bank’s estimates of poverty, inequality, and shared prosperity. PIP provides a comprehensive view of global, regional, and country-level trends for more than 150 economies around the world.",
+  "sources": [
+    {
+      "name": "World Bank Poverty and Inequality Platform (PIP)",
+      "link": "https://pip.worldbank.org/",
+      "retrievedDate": "26-08-2022",
+      "additionalInfo": "The Poverty and Inequality Platform (PIP) is an interactive computational tool that offers users quick access to the World Bank’s estimates of poverty, inequality, and shared prosperity. PIP provides a comprehensive view of global, regional, and country-level trends for more than 150 economies around the world.",
+      "dataPublishedBy": "World Bank PIP",
+      "dataPublisherSource": "Income and consumption surveys from each country"
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "World Bank Poverty and Inequality Platform (PIP).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Mean income or expenditure per day",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{\"unit\": \"international-$ at 2011 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Median income or expenditure per day",
+            "type": "any",
+            "description": "The level of income or expenditure per day below which half of the population live.",
+            "owidDisplaySettings": "{\"unit\": \"international-$ at 2011 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "$1 - total number of people below poverty line",
+            "type": "any",
+            "description": "Number of people living in households with expenditure or income per person below $1 a day",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "$1.90 - total number of people below poverty line",
+            "type": "any",
+            "description": "Number of people living in households with expenditure or income per person below $1.90 a day",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "$3.20 - total number of people below poverty line",
+            "type": "any",
+            "description": "Number of people living in households with expenditure or income per person below $3.20 a day",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "$5.50 - total number of people below poverty line",
+            "type": "any",
+            "description": "Number of people living in households with expenditure or income per person below $5.50 a day",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "$10 - total number of people below poverty line",
+            "type": "any",
+            "description": "Number of people living in households with expenditure or income per person below $10 a day",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "$20 - total number of people below poverty line",
+            "type": "any",
+            "description": "Number of people living in households with expenditure or income per person below $20 a day",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "$30 - total number of people below poverty line",
+            "type": "any",
+            "description": "Number of people living in households with expenditure or income per person below $30 a day",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "$40 - total number of people below poverty line",
+            "type": "any",
+            "description": "Number of people living in households with expenditure or income per person below $40 a day",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "$1 a day - share of population below poverty line",
+            "type": "any",
+            "description": "% of population living in households with expenditure or income per person below $1 a day",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "$1.90 a day - share of population below poverty line",
+            "type": "any",
+            "description": "% of population living in households with expenditure or income per person below $1.90 a day",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "$3.20 a day - share of population below poverty line",
+            "type": "any",
+            "description": "% of population living in households with expenditure or income per person below $3.20 a day",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "$5.50 a day - share of population below poverty line",
+            "type": "any",
+            "description": "% of population living in households with expenditure or income per person below $5.50 a day",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "$10 a day - share of population below poverty line",
+            "type": "any",
+            "description": "% of population living in households with expenditure or income per person below $10 a day",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "$20 a day - share of population below poverty line",
+            "type": "any",
+            "description": "% of population living in households with expenditure or income per person below $20 a day",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "$30 a day - share of population below poverty line",
+            "type": "any",
+            "description": "% of population living in households with expenditure or income per person below $30 a day",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "$40 a day - share of population below poverty line",
+            "type": "any",
+            "description": "% of population living in households with expenditure or income per person below $40 a day",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "$1 a day - poverty gap index",
+            "type": "any",
+            "description": "The average shortfall of income or expenditure from a poverty line of $1 a day – where the average is calculated across the whole population, treating the nonpoor as having a shortfall of zero. It is expressed as a percentage of the poverty line.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "$1.90 a day - poverty gap index",
+            "type": "any",
+            "description": "The average shortfall of income or expenditure from a poverty line of $1.90 a day – where the average is calculated across the whole population, treating the nonpoor as having a shortfall of zero. It is expressed as a percentage of the poverty line.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "$3.20 a day - poverty gap index",
+            "type": "any",
+            "description": "The average shortfall of income or expenditure from a poverty line of $3.20 a day – where the average is calculated across the whole population, treating the nonpoor as having a shortfall of zero. It is expressed as a percentage of the poverty line.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "$5.50 a day - poverty gap index",
+            "type": "any",
+            "description": "The average shortfall of income or expenditure from a poverty line of $5.50 a day – where the average is calculated across the whole population, treating the nonpoor as having a shortfall of zero. It is expressed as a percentage of the poverty line.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "$10 a day - poverty gap index",
+            "type": "any",
+            "description": "The average shortfall of income or expenditure from a poverty line of $10 a day – where the average is calculated across the whole population, treating the nonpoor as having a shortfall of zero. It is expressed as a percentage of the poverty line.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "$20 a day - poverty gap index",
+            "type": "any",
+            "description": "The average shortfall of income or expenditure from a poverty line of $20 a day – where the average is calculated across the whole population, treating the nonpoor as having a shortfall of zero. It is expressed as a percentage of the poverty line.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "$30 a day - poverty gap index",
+            "type": "any",
+            "description": "The average shortfall of income or expenditure from a poverty line of $30 a day – where the average is calculated across the whole population, treating the nonpoor as having a shortfall of zero. It is expressed as a percentage of the poverty line.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "$40 a day - poverty gap index",
+            "type": "any",
+            "description": "The average shortfall of income or expenditure from a poverty line of $40 a day – where the average is calculated across the whole population, treating the nonpoor as having a shortfall of zero. It is expressed as a percentage of the poverty line.",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "40% of median - total number of people below poverty line",
+            "type": "any",
+            "description": "Number of people living in households with expenditure or income per person below 40% of the median",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "50% of median - total number of people below poverty line",
+            "type": "any",
+            "description": "Number of people living in households with expenditure or income per person below 50% of the median",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "60% of median - total number of people below poverty line",
+            "type": "any",
+            "description": "Number of people living in households with expenditure or income per person below 60% of the median",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "40% of median - share of population below poverty line",
+            "type": "any",
+            "description": "% of population living in households with expenditure or income per person below 40% of the median",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "50% of median - share of population below poverty line",
+            "type": "any",
+            "description": "% of population living in households with expenditure or income per person below 50% of the median",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "60% of median - share of population below poverty line",
+            "type": "any",
+            "description": "% of population living in households with expenditure or income per person below 60% of the median",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "P10 - the level of income or expenditure per day below which 10% of the population falls",
+            "type": "any",
+            "description": "The level of income or expenditure per day below which 10% of the population live.",
+            "owidDisplaySettings": "{\"unit\": \"international-$ at 2011 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "P90 - the level of income or expenditure per day above which 10% of the population falls",
+            "type": "any",
+            "description": "The level of income or expenditure per day below which 90% of the population live.",
+            "owidDisplaySettings": "{\"unit\": \"international-$ at 2011 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Gini coefficient",
+            "type": "any",
+            "description": "The Gini coefficient measures inequality on a scale between 0 and 1, where higher values indicate greater inequality.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "$1 a day - total shortfall",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$1.90 a day - total shortfall",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$3.20 a day - total shortfall",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$5.50 a day - total shortfall",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$10 a day - total shortfall",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$20 a day - total shortfall",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$30 a day - total shortfall",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$40 a day - total shortfall",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$1 - total number of people above poverty line",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$1.90 - total number of people above poverty line",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$3.20 - total number of people above poverty line",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$5.50 - total number of people above poverty line",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$10 - total number of people above poverty line",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$20 - total number of people above poverty line",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$30 - total number of people above poverty line",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$40 - total number of people above poverty line",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$1 - share of population above poverty line",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$1.90 - share of population above poverty line",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$3.20 - share of population above poverty line",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$5.50 - share of population above poverty line",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$10 - share of population above poverty line",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$20 - share of population above poverty line",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$30 - share of population above poverty line",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$40 - share of population above poverty line",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$0-$1 - total number of people between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$1-$1.90 - total number of people between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$1.90-$3.20 - total number of people between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$3.20-$5.50 - total number of people between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$5.50-$10 - total number of people between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$10-$20 - total number of people between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$20-$30 - total number of people between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$30-$40 - total number of people between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$40-inf - total number of people between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$0-$1 - share of population between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$1-$1.90 - share of population between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$1.90-$3.20 - share of population between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$3.20-$5.50 - share of population between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$5.50-$10 - share of population between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$10-$20 - share of population between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$20-$30 - share of population between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$30-$40 - share of population between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$40-inf - share of population between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Number of surveys in the past decade",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
