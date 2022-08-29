@@ -7,7 +7,7 @@
     {
       "name": "World Bank Poverty and Inequality Platform",
       "link": "https://pip.worldbank.org/",
-      "retrievedDate": "26-08-2022",
+      "retrievedDate": "29-08-2022",
       "additionalInfo": "The Poverty and Inequality Platform (PIP) is an interactive computational tool that offers users quick access to the World Bank’s estimates of poverty, inequality, and shared prosperity. PIP provides a comprehensive view of global, regional, and country-level trends for more than 150 economies around the world.",
       "dataPublishedBy": "World Bank PIP",
       "dataPublisherSource": "World Bank. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments."
@@ -382,12 +382,6 @@
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "$0-$1 - total number of people between poverty lines",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "$1-$1.90 - total number of people between poverty lines",
             "type": "any",
             "description": null,
@@ -430,18 +424,6 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "$40-inf - total number of people between poverty lines",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "$0-$1 - share of population between poverty lines",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
-          },
-          {
             "name": "$1-$1.90 - share of population between poverty lines",
             "type": "any",
             "description": null,
@@ -479,12 +461,6 @@
           },
           {
             "name": "$30-$40 - share of population between poverty lines",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
-          },
-          {
-            "name": "$40-inf - share of population between poverty lines",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
