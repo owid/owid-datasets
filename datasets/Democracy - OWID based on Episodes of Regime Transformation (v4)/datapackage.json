@@ -32,98 +32,98 @@
           {
             "name": "regime_dich_ert",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the political regime of a country using the classification by the Episodes of Regime Transformation-project. It distinguishes between autocracies (score 0) and democracies (score 1).",
+            "owidDisplaySettings": "{\"name\": \"Political regime\", \"includeInTable\": true}"
           },
           {
             "name": "regime_ert",
             "type": "any",
-            "description": null,
+            "description": "The variable identifies the political regime of a country using the classification by the Episodes of Regime Transformation-project. It distinguishes between hardening autocracies (score 0), stable autocracies (score 1), liberalizing autocracies (score 2), eroding democracies (score 3), stable democracies (score 4), and deepening democracies (score 5).",
             "owidDisplaySettings": "{\"name\": \"Political regime\", \"includeInTable\": true}"
           },
           {
             "name": "regime_trep_outcome_ert",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the regime transformation episode outcome of a country using the classification by the Episodes of Regime Transformation-project. It distinguishes between hardened autocracies (score 0), reverted autocratic liberalizations (score 1), liberalized autocracies (score 2), preempted democratizations (score 3), democratizations (score 4), democratic breakdowns (score 5), preempted democratic breakdowns (score 6), diminished democracies (score 7), averted democratic erosion (score 8), deepened democracies (score 9), still ongoing autocratization episodes (score 10), and still ongoing democratization episodes (score 11).",
+            "owidDisplaySettings": "{\"name\": \"Regime transformation episode outcome\", \"includeInTable\": true}"
           },
           {
             "name": "number_hardaut_ert",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of hardening autocracies based on the classification by the Episodes of Regime Transformation-project.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_staut_ert",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of stable autocracies based on the classification by the Episodes of Regime Transformation-project.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_libaut_ert",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of liberalizing autocracies based on the classification by the Episodes of Regime Transformation-project.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_erodem_ert",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of eroding democracies based on the classification by the Episodes of Regime Transformation-project.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_stdem_ert",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of stable democracies based on the classification by the Episodes of Regime Transformation-project.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "number_deepdem_ert",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of deepening democracies based on the classification by the Episodes of Regime Transformation-project.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_hardaut_ert",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in hardening autocracies based on the classification by the Episodes of Regime Transformation-project.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_staut_ert",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in stable autocracies based on the classification by the Episodes of Regime Transformation-project.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_libaut_ert",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in liberalizing autocracies based on the classification by the Episodes of Regime Transformation-project.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_erodem_ert",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in eroding democracies based on the classification by the Episodes of Regime Transformation-project.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_stdem_ert",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in stable democracies based on the classification by the Episodes of Regime Transformation-project.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_deepdem_ert",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in deepening democracies based on the classification by the Episodes of Regime Transformation-project.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "pop_missreg_ert",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable denotes the number of people living in countries with missing regime type based on the classification by the Episodes of Regime Transformation-project.",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "region",
@@ -134,43 +134,43 @@
           {
             "name": "regime_trich_ert",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The variable identifies the political regime of a country using the classification by the Episodes of Regime Transformation-project. It distinguishes between autocratizing regimes (score 0), stable regimes (score 1), and democratizing regimes (score 2).",
+            "owidDisplaySettings": "{\"name\": \"Political regime\", \"includeInTable\": true}"
           },
           {
             "name": "number_autreg_ert",
             "type": "any",
-            "description": null,
+            "description": "The variable denotes the number of autocratizing regimes based on the classification by the Episodes of Regime Transformation-project.",
             "owidDisplaySettings": "{\"name\": \"Autocratizing countries\", \"includeInTable\": true}"
           },
           {
             "name": "number_streg_ert",
             "type": "any",
-            "description": null,
+            "description": "The variable denotes the number of stable regimes based on the classification by the Episodes of Regime Transformation-project.",
             "owidDisplaySettings": "{\"name\": \"Stable regimes\", \"includeInTable\": true}"
           },
           {
             "name": "number_demreg_ert",
             "type": "any",
-            "description": null,
+            "description": "The variable denotes the number of democratizing regimes based on the classification by the Episodes of Regime Transformation-project.",
             "owidDisplaySettings": "{\"name\": \"Democratizing countries\", \"includeInTable\": true}"
           },
           {
             "name": "pop_autreg_ert",
             "type": "any",
-            "description": null,
+            "description": "The variable denotes the number of people living in autocratizing regimes based on the classification by the Episodes of Regime Transformation-project.",
             "owidDisplaySettings": "{\"name\": \"People living in autocratizing countries\", \"includeInTable\": true}"
           },
           {
             "name": "pop_streg_ert",
             "type": "any",
-            "description": null,
+            "description": "The variable denotes the number of people living in stable regimes based on the classification by the Episodes of Regime Transformation-project.",
             "owidDisplaySettings": "{\"name\": \"People living in stable regimes\", \"includeInTable\": true}"
           },
           {
             "name": "pop_demreg_ert",
             "type": "any",
-            "description": null,
+            "description": "The variable denotes the number of people living in democratizing regimes based on the classification by the Episodes of Regime Transformation-project.",
             "owidDisplaySettings": "{\"name\": \"People living in democratizing countries\", \"includeInTable\": true}"
           }
         ]
