@@ -7,7 +7,7 @@
     {
       "name": "World Bank Poverty and Inequality Platform",
       "link": "https://pip.worldbank.org/",
-      "retrievedDate": "29-08-2022",
+      "retrievedDate": "31-08-2022",
       "additionalInfo": "The Poverty and Inequality Platform (PIP) is an interactive computational tool that offers users quick access to the World Bank’s estimates of poverty, inequality, and shared prosperity. PIP provides a comprehensive view of global, regional, and country-level trends for more than 150 economies around the world.",
       "dataPublishedBy": "World Bank Poverty and Inequality Platform",
       "dataPublisherSource": "World Bank. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments."
@@ -469,7 +469,25 @@
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "Number of surveys in the past decade",
+            "name": "$1.90-$10 - total number of people between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$10-$30 - total number of people between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$1.90-$10 - share of population between poverty lines",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$10-$30 - share of population between poverty lines",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
