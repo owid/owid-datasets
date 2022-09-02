@@ -1,4 +1,4 @@
-# Global extreme poverty: Present and past since 1820 (Moatsos, 2021)
+# Global extreme poverty: Present and past since 1820 (Moatsos in OECD, 2021)
 
 The share in extreme poverty, estimated by Michail Moatsos based on the 'cost of basic needs'-approach.
 

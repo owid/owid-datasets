@@ -1,12 +1,13 @@
 {
-  "name": "Global extreme poverty: Present and past since 1820 (Moatsos, 2021)",
-  "title": "Global extreme poverty: Present and past since 1820 (Moatsos, 2021)",
+  "name": "Global extreme poverty: Present and past since 1820 (Moatsos in OECD, 2021)",
+  "title": "Global extreme poverty: Present and past since 1820 (Moatsos in OECD, 2021)",
   "id": 5756,
   "description": "The share in extreme poverty, estimated by Michail Moatsos based on the 'cost of basic needs'-approach.\n\nThe ‘cost of basic needs’-approach was recommended by the ‘World Bank Commission on Global Poverty’, headed by Tony Atkinson, as a complementary method in measuring poverty.\n\nTony Atkinson – and after his death his colleagues – turned this report into a book that was published as Anthony B. Atkinson (2019) – Measuring Poverty around the World. You find more information on Atkinson’s website.\n\nThe CBN-approach Moatsos’ work is based on was suggested by Allen in Robert Allen (2017) – Absolute poverty: When necessity displaces desire. In American Economic Review, Vol. 107/12, pp. 3690-3721, https://doi.org/10.1257/aer.20161080 \n\nMoatsos describes the methodology as follows: “In this approach, poverty lines are calculated for every year and country separately, rather than using a single global line. The second step is to gather the necessary data to operationalise this approach, alongside imputation methods in cases where not all the necessary data are available. The third step is to devise a method for aggregating countries’ poverty estimates on a global scale to account for countries that lack some of the relevant data.” In his publication – linked above – you find much more detail on all of the shown poverty data.\n\nThe share of poverty for the $1.90, $5, $10 and $30 poverty lines are also included.",
   "sources": [
     {
       "name": "Moatsos (2021)",
       "link": "https://www.oecd-ilibrary.org/sites/3d96efc5-en/1/3/9/index.html?itemId=/content/publication/3d96efc5-en&_csp_=2c2e680562193998e9d20ed6a45a9242&itemIGO=oecd&itemContentType=book",
+      "retrievedDate": "02-09-2022",
       "additionalInfo": "The share in extreme poverty, estimated by Michail Moatsos based on the 'cost of basic needs'-approach.\n\nThe ‘cost of basic needs’-approach was recommended by the ‘World Bank Commission on Global Poverty’, headed by Tony Atkinson, as a complementary method in measuring poverty.\n\nTony Atkinson – and after his death his colleagues – turned this report into a book that was published as Anthony B. Atkinson (2019) – Measuring Poverty around the World. You find more information on Atkinson’s website.\n\nThe CBN-approach Moatsos’ work is based on was suggested by Allen in Robert Allen (2017) – Absolute poverty: When necessity displaces desire. In American Economic Review, Vol. 107/12, pp. 3690-3721, https://doi.org/10.1257/aer.20161080 \n\nMoatsos describes the methodology as follows: “In this approach, poverty lines are calculated for every year and country separately, rather than using a single global line. The second step is to gather the necessary data to operationalise this approach, alongside imputation methods in cases where not all the necessary data are available. The third step is to devise a method for aggregating countries’ poverty estimates on a global scale to account for countries that lack some of the relevant data.” In his publication – linked above – you find much more detail on all of the shown poverty data.\n\nThe share of poverty for the $1.90, $5, $10 and $30 poverty lines are also included.",
       "dataPublishedBy": "Michail Moatsos (2021) – Global extreme poverty: Present and past since 1820. Published in OECD (2021), How Was Life? Volume II: New Perspectives on Well-being and Global Inequality since 1820, OECD Publishing, Paris, https://doi.org/10.1787/3d96efc5-en.",
       "dataPublisherSource": ""
@@ -15,7 +16,7 @@
   "owidTags": [],
   "resources": [
     {
-      "path": "Global extreme poverty: Present and past since 1820 (Moatsos, 2021).csv",
+      "path": "Global extreme poverty: Present and past since 1820 (Moatsos in OECD, 2021).csv",
       "schema": {
         "fields": [
           {
