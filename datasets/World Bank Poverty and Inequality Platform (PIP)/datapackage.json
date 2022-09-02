@@ -10,7 +10,7 @@
       "retrievedDate": "31-08-2022",
       "additionalInfo": "The Poverty and Inequality Platform (PIP) is an interactive computational tool that offers users quick access to the World Bank’s estimates of poverty, inequality, and shared prosperity. PIP provides a comprehensive view of global, regional, and country-level trends for more than 150 economies around the world.",
       "dataPublishedBy": "World Bank Poverty and Inequality Platform",
-      "dataPublisherSource": "World Bank. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments."
+      "dataPublisherSource": "World Bank Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments."
     }
   ],
   "owidTags": [
@@ -46,49 +46,49 @@
             "name": "$1 - total number of people below poverty line",
             "type": "any",
             "description": "Number of people living in households with expenditure or income per person below $1 a day",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$1.90 - total number of people below poverty line",
             "type": "any",
             "description": "Number of people living in households with expenditure or income per person below $1.90 a day",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$3.20 - total number of people below poverty line",
             "type": "any",
             "description": "Number of people living in households with expenditure or income per person below $3.20 a day",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$5.50 - total number of people below poverty line",
             "type": "any",
             "description": "Number of people living in households with expenditure or income per person below $5.50 a day",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$10 - total number of people below poverty line",
             "type": "any",
             "description": "Number of people living in households with expenditure or income per person below $10 a day",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$20 - total number of people below poverty line",
             "type": "any",
             "description": "Number of people living in households with expenditure or income per person below $20 a day",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$30 - total number of people below poverty line",
             "type": "any",
             "description": "Number of people living in households with expenditure or income per person below $30 a day",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$40 - total number of people below poverty line",
             "type": "any",
             "description": "Number of people living in households with expenditure or income per person below $40 a day",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$1 a day - share of population below poverty line",
@@ -190,19 +190,19 @@
             "name": "40% of median - total number of people below poverty line",
             "type": "any",
             "description": "Number of people living in households with expenditure or income per person below 40% of the median",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "50% of median - total number of people below poverty line",
             "type": "any",
             "description": "Number of people living in households with expenditure or income per person below 50% of the median",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "60% of median - total number of people below poverty line",
             "type": "any",
             "description": "Number of people living in households with expenditure or income per person below 60% of the median",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "40% of median - share of population below poverty line",
@@ -292,49 +292,49 @@
             "name": "$1 - total number of people above poverty line",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$1.90 - total number of people above poverty line",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$3.20 - total number of people above poverty line",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$5.50 - total number of people above poverty line",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$10 - total number of people above poverty line",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$20 - total number of people above poverty line",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$30 - total number of people above poverty line",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$40 - total number of people above poverty line",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$1 - share of population above poverty line",
@@ -388,43 +388,43 @@
             "name": "$1-$1.90 - total number of people between poverty lines",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$1.90-$3.20 - total number of people between poverty lines",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$3.20-$5.50 - total number of people between poverty lines",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$5.50-$10 - total number of people between poverty lines",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$10-$20 - total number of people between poverty lines",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$20-$30 - total number of people between poverty lines",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$30-$40 - total number of people between poverty lines",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$1-$1.90 - share of population between poverty lines",
@@ -472,13 +472,13 @@
             "name": "$1.90-$10 - total number of people between poverty lines",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$10-$30 - total number of people between poverty lines",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "$1.90-$10 - share of population between poverty lines",
