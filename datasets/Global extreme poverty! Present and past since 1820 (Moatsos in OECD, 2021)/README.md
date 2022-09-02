@@ -10,4 +10,4 @@ The CBN-approach Moatsos’ work is based on was suggested by Allen in Robert Al
 
 Moatsos describes the methodology as follows: “In this approach, poverty lines are calculated for every year and country separately, rather than using a single global line. The second step is to gather the necessary data to operationalise this approach, alongside imputation methods in cases where not all the necessary data are available. The third step is to devise a method for aggregating countries’ poverty estimates on a global scale to account for countries that lack some of the relevant data.” In his publication – linked above – you find much more detail on all of the shown poverty data.
 
-The share of poverty for the $1.90, $5, $10 and $30 poverty lines are also included.
+The share in poverty for the $1.90, $5, $10 and $30 poverty lines are also included.
