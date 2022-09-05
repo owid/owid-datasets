@@ -1,0 +1,199 @@
+{
+  "name": "Vegetable oil yields (FAO)",
+  "title": "Vegetable oil yields (FAO)",
+  "id": 5755,
+  "description": "Data on vegetable oil production and land use by crop type is sourced directly from the UN Food and Agriculture Organization (FAO) database.\n\nOur World in Data have calculated each crop's share of total vegetable oil production and land use based on this data.\n\nLand use data is sourced as the 'Area harvested' variable from its crops database: http://www.fao.org/faostat/en/#data/QC\n\nOil production data is sourced from its Food Balances Sheets as the variable 'Production Quantity':http://www.fao.org/faostat/en/#data/FBS\n\nOur World in Data has also calculated oil yields per crop by dividing oil production by land area used to grow the crop. This is measured in tonnes per hectare. Note that this calculates the oil yield per hectare, which is different from the yield of the total crop: this is because not all of the crop can be used for oil.",
+  "sources": [
+    {
+      "name": "Calculated by Our World in Data based on data from the UN Food and Agriculture Organization (FAO)",
+      "link": "http://www.fao.org/faostat/en/#data",
+      "retrievedDate": "2nd September 2022",
+      "additionalInfo": "Data on vegetable oil production and land use by crop type is sourced directly from the UN Food and Agriculture Organization (FAO) database.\n\nOur World in Data have calculated each crop's share of total vegetable oil production and land use based on this data.\n\nLand use data is sourced as the 'Area harvested' variable from its crops database: http://www.fao.org/faostat/en/#data/QC\n\nOil production data is sourced from its Food Balances Sheets as the variable 'Production Quantity':http://www.fao.org/faostat/en/#data/FBS\n\nOur World in Data has also calculated oil yields per crop by dividing oil production by land area used to grow the crop. This is measured in tonnes per hectare. Note that this calculates the oil yield per hectare, which is different from the yield of the total crop: this is because not all of the crop can be used for oil.",
+      "dataPublishedBy": "UN Food and Agriculture Organization (FAO)"
+    }
+  ],
+  "owidTags": [
+    "Forests",
+    "Land Use",
+    "Crop Yields"
+  ],
+  "resources": [
+    {
+      "path": "Vegetable oil yields (FAO).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "palm_oil_yield",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "sunflower_oil_yield",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "rapeseed_oil_yield",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "soybean_oil_yield",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "olive_oil_yield",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "coconut_oil_yield",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "groundnut_oil_yield",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "cottonseed_oil_yield",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "sesame_oil_yield",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "area_one_tonne_palm",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "area_one_tonne_sunflower",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "area_one_tonne_rapeseed",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "area_one_tonne_soybean",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "area_one_tonne_olive",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "area_one_tonne_coconut",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "area_one_tonne_groundnut",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "area_one_tonne_cottonseed",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "area_one_tonne_sesame",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "area_global_demand_palm",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "area_global_demand_sunflower",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "area_global_demand_rapeseed",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "area_global_demand_soybean",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "area_global_demand_olive",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "area_global_demand_coconut",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "area_global_demand_groundnut",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "area_global_demand_cottonseed",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "area_global_demand_sesame",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
