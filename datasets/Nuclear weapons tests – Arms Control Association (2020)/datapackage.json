@@ -1,6 +1,6 @@
 {
-  "name": "Nuclear Weapons Tests – Arms Control Association (2020)",
-  "title": "Nuclear Weapons Tests – Arms Control Association (2020)",
+  "name": "Nuclear weapons tests – Arms Control Association (2020)",
+  "title": "Nuclear weapons tests – Arms Control Association (2020)",
   "id": 5534,
   "description": "This datasets provides the number of nuclear weapons tests by country using data from the Arms Control Association (2020).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/nuclear_weapons",
   "sources": [
@@ -17,7 +17,7 @@
   ],
   "resources": [
     {
-      "path": "Nuclear Weapons Tests – Arms Control Association (2020).csv",
+      "path": "Nuclear weapons tests – Arms Control Association (2020).csv",
       "schema": {
         "fields": [
           {
