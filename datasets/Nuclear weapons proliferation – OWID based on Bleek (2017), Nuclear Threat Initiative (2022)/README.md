@@ -10,7 +10,7 @@ A country is coded as considering nuclear weapons if its leaders explore whether
 
 A country is coded as pursuing nuclear weapons if it has an active program to acquire nuclear weapons or to obtain the ability to construct them on short notice.
 
-A country is coded as possessing nuclear weapons if it has a nuclear-explosive device that it can deliver. Conducting an explosive nuclear test is therefore neither sufficient nor nor necessary.
+A country is coded as possessing nuclear weapons if it has a nuclear-explosive device that it can deliver. Conducting an explosive nuclear test is therefore neither sufficient nor necessary.
 
 Belarus, Kazakhstan, and Ukraine are not coded as possessing nuclear weapons because they never had operational control of the nuclear weapons left over from the Soviet Union.
 
