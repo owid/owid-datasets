@@ -2,19 +2,19 @@
   "name": "Precipitation anomaly in US (NOAA)",
   "title": "Precipitation anomaly in US (NOAA)",
   "id": 2958,
-  "description": "Data shows US precipitation patterns, based on rainfall and snowfall measurements from land-based weather stations worldwide. \n\nThis indicator shows annual anomalies, or differences, compared with the average precipitation from 1901 to 2000. At each weather station, annual precipitation anomalies were calculated from total annual precipitation in inches. Anomalies for the contiguous 48 states and Alaska have been determined by calculating average precipitation anomalies for areas within each state based on station density and topography. These regional anomalies are then averaged together in proportion to their area to develop national results.",
+  "description": "Data shows US precipitation patterns, based on rainfall and snowfall measurements from land-based weather stations worldwide. \n\nThis indicator shows annual anomalies, or differences, compared with the average precipitation from 1901 to 2000. At each weather station, annual precipitation anomalies were calculated from total annual precipitation. Anomalies for the contiguous 48 states and Alaska have been determined by calculating average precipitation anomalies for areas within each state based on station density and topography. These regional anomalies are then averaged together in proportion to their area to develop national results.",
   "sources": [
     {
       "name": "Precipitation anomaly in US (NOAA)",
-      "dataPublishedBy": "United States Environmental Protection Agency (EPA)",
-      "dataPublisherSource": "\tNational Oceanic & Atmospheric Administration (NOAA)",
       "link": "https://www.epa.gov/climate-indicators/climate-change-indicators-us-and-global-precipitation",
       "retrievedDate": "19th September 2018",
-      "additionalInfo": "Data shows US precipitation patterns, based on rainfall and snowfall measurements from land-based weather stations worldwide. \n\nThis indicator shows annual anomalies, or differences, compared with the average precipitation from 1901 to 2000. At each weather station, annual precipitation anomalies were calculated from total annual precipitation in inches. Anomalies for the contiguous 48 states and Alaska have been determined by calculating average precipitation anomalies for areas within each state based on station density and topography. These regional anomalies are then averaged together in proportion to their area to develop national results."
+      "additionalInfo": "Data shows US precipitation patterns, based on rainfall and snowfall measurements from land-based weather stations worldwide. \n\nThis indicator shows annual anomalies, or differences, compared with the average precipitation from 1901 to 2000. At each weather station, annual precipitation anomalies were calculated from total annual precipitation. Anomalies for the contiguous 48 states and Alaska have been determined by calculating average precipitation anomalies for areas within each state based on station density and topography. These regional anomalies are then averaged together in proportion to their area to develop national results.",
+      "dataPublishedBy": "United States Environmental Protection Agency (EPA)",
+      "dataPublisherSource": "\tNational Oceanic & Atmospheric Administration (NOAA)"
     }
   ],
   "owidTags": [
-    "Natural Catastrophes"
+    "Natural Disasters"
   ],
   "resources": [
     {
@@ -33,7 +33,7 @@
             "name": "Annual precipitation anomaly (inches)",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           }
         ]
       }
