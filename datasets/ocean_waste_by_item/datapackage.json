@@ -1,0 +1,76 @@
+{
+  "name": "ocean_waste_by_item",
+  "title": "ocean_waste_by_item",
+  "id": 5759,
+  "description": "",
+  "sources": [
+    {
+      "name": "Morales-Caselles et al. (2021). An inshore–offshore sorting system revealed from global classification of ocean litter.",
+      "link": "https://www.nature.com/articles/s41893-021-00720-8",
+      "dataPublishedBy": "Morales-Caselles, C., Viejo, J., Martí, E., González-Fernández, D., Pragnell-Raasch, H., González-Gordillo, J. I., ... & Cózar, A. (2021). An inshore–offshore sorting system revealed from global classification of ocean litter. Nature Sustainability, 4(6), 484-493."
+    }
+  ],
+  "owidTags": [
+    "Waste",
+    "Plastic Pollution"
+  ],
+  "resources": [
+    {
+      "path": "ocean_waste_by_item.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Deep Seafloor",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Nearshore Seafloor",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Nearshore Waters",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Offshore Waters",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "River Waters",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Riverbed",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Shoreline",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
