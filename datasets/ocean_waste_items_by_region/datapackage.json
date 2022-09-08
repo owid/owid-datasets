@@ -1,0 +1,143 @@
+{
+  "name": "ocean_waste_items_by_region",
+  "title": "ocean_waste_items_by_region",
+  "id": 5760,
+  "description": "This study included samples more than 12 million litter items retrieved from 7 major river and ocean environments globally. To build such a large inventories of macro-litter items, the authors compiled a total of 36 datasets providing counts of litter by item typology in river waters and riverbed, shoreline, nearshore waters (<100 km from shoreline) and nearshore seafloor (<100 m depth, <100 km from shoreline), open waters (>100 km from shoreline) and deep seafloor (>100 m depth, >100 km from shoreline).\n\nThese litter items were classified according to their material composition, type of product and probable origin.\n\nOn average, 80% of the items were made of plastic, followed by metal (7% ± 7%), glass (5% ± 6%) and fabric (3% ± 3%).\n\nThis data by region is shown as the share of items in nearshore waters (<100 km from the shoreline).",
+  "sources": [
+    {
+      "name": "Morales-Caselles et al. (2021). An inshore–offshore sorting system revealed from global classification of ocean litter.",
+      "link": "https://www.nature.com/articles/s41893-021-00720-8",
+      "additionalInfo": "This study included samples more than 12 million litter items retrieved from 7 major river and ocean environments globally. To build such a large inventories of macro-litter items, the authors compiled a total of 36 datasets providing counts of litter by item typology in river waters and riverbed, shoreline, nearshore waters (<100 km from shoreline) and nearshore seafloor (<100 m depth, <100 km from shoreline), open waters (>100 km from shoreline) and deep seafloor (>100 m depth, >100 km from shoreline).\n\nThese litter items were classified according to their material composition, type of product and probable origin.\n\nOn average, 80% of the items were made of plastic, followed by metal (7% ± 7%), glass (5% ± 6%) and fabric (3% ± 3%).\n\nThis data by region is shown as the share of items in nearshore waters (<100 km from the shoreline).",
+      "dataPublishedBy": "Morales-Caselles, C., Viejo, J., Martí, E., González-Fernández, D., Pragnell-Raasch, H., González-Gordillo, J. I., ... & Cózar, A. (2021). An inshore–offshore sorting system revealed from global classification of ocean litter. Nature Sustainability, 4(6), 484-493."
+    }
+  ],
+  "owidTags": [
+    "Waste",
+    "Plastic Pollution"
+  ],
+  "resources": [
+    {
+      "path": "ocean_waste_items_by_region.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Bottle lids",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Cans (drink)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Cans (food)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Clothing",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Fishing net",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Fishing related",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Fishing weights",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Food containers",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Glass bottles",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Industrial packaging",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Plastic bags",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Plastic bottles",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Plastic lids",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Rope & nets (fabric)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Synthetic rope",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Tyres",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Wood",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Wrappers",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
