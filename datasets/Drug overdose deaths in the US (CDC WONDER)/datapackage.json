@@ -1,0 +1,90 @@
+{
+  "name": "Drug overdose deaths in the US (CDC WONDER)",
+  "title": "Drug overdose deaths in the US (CDC WONDER)",
+  "id": 852,
+  "description": "",
+  "sources": [
+    {
+      "name": "US Centers for Disease Control and Prevention WONDER",
+      "link": "https://www.drugabuse.gov/related-topics/trends-statistics/overdose-death-rates",
+      "retrievedDate": "",
+      "additionalInfo": "",
+      "dataPublishedBy": "US Centers for Disease Control and Prevention WONDER",
+      "dataPublisherSource": ""
+    }
+  ],
+  "owidTags": [
+    "Substance Use"
+  ],
+  "resources": [
+    {
+      "path": "Drug overdose deaths in the US (CDC WONDER).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Total Overdose Deaths (CDC WONDER (2017))",
+            "type": "any",
+            "description": "Deaths per 100,000 people of total overdose deaths.",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Opioid Pain Relievers (CDC WONDER (2017))",
+            "type": "any",
+            "description": "Deaths per 100,000 people attributed to opioid pain relievers.",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Benzodiazepines (CDC WONDER (2017))",
+            "type": "any",
+            "description": "Deaths per 100,000 people attributed to benzodiazepines.",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Cocaine (CDC WONDER (2017))",
+            "type": "any",
+            "description": "Death per rate of 100,000 people attributed to cocaine use.",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Heroin (CDC WONDER (2017))",
+            "type": "any",
+            "description": "Death per rate of 100,000 people attributed to heroin use.",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Any Opioids (CDC WONDER (2017))",
+            "type": "any",
+            "description": "Deaths per 100,000 people attributed to any opioids.",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Synthetic Opioids other than Methadone (CDC WONDER (2017))",
+            "type": "any",
+            "description": "Deaths per 100,000 people attributed to synthetic opioids other than methadone.",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Psychostimulants death rates (US CDC WONDER)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "Antidepressants death rates (US CDC WONDER)",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
