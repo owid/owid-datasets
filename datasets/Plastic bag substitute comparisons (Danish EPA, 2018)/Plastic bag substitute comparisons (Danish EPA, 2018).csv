@@ -1,11 +1,11 @@
-Entity,Year,Greenhouse gas emissions,All environmental indicators
-Biopolymer,2018,0,42
-Bleached paper,2018,1,43
-Composite,2018,23,870
-Conventional cotton,2018,52,7100
-Organic cotton,2018,149,20000
-"Polyester PET, recycled",2018,2,35
-"Polypropylene, non-woven, recycled",2018,6,52
-"Polypropylene, woven, recycled",2018,5,45
-Recycled PET,2018,8,84
-Unbleached paper,2018,0,43
+Entity,Year,Greenhouse gas emissions,All environmental indicators,All environmental indicators (max),Ozone depletion,Particulate matter,Ozone formation,Terrestrial acidification,Terrestrial eutrophication,Water use,Freshwater eutrophication
+Biopolymer,2018,0,8,42,9.7,9.9,0.6,7.8,26.9,-2.3,41.8
+Bleached paper,2018,1,9,43,18.2,27.4,1.7,5.9,28.4,13.6,43
+Composite,2018,23,225,870,874,299,36.1,142.1,739,275.3,592.6
+Conventional cotton,2018,52,840,7100,7069,394,67.2,265,1057,1358,1178
+Organic cotton,2018,149,2375,20000,20000,1118,193,755,3005,3830,3326
+"Polyester PET, recycled",2018,2,8,35,14.6,8.2,0.9,3.6,12.8,21.6,35.1
+"Polypropylene, non-woven, recycled",2018,6,12,52,34.7,9.4,5.6,6,18.7,37.2,29.5
+"Polypropylene, woven, recycled",2018,5,10,45,30,7.7,4.5,4.8,15.6,31.9,25.9
+Recycled PET,2018,8,25,84,44.7,25.5,5.5,12.6,38.2,68.5,96
+Unbleached paper,2018,0,11,43,7.9,15.3,0.6,3.6,21.6,13.6,43
