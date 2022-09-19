@@ -81,19 +81,19 @@
             "name": "P0-P10 - share of the bottom 10%",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Share of the bottom 10%\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "P0-P40 - share of the bottom 40%",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Share of the bottom 40%\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "P0-P50 - share of the bottom 50%",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Share of the bottom 50%\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "P10-P20 - share of national income",
@@ -126,10 +126,10 @@
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "P50-P90 - share of middle 40%",
+            "name": "P50-P90 - share of the middle 40%",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Share of the middle 40%\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "P60-P70 - share of national income",
@@ -153,31 +153,31 @@
             "name": "P90-P100 - share of the top 10%",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Share of the top 10%\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "P99.999-P100 - share of the top 0.001%",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Share of the top 0.001%\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "P99.99-P100 - share of the top 0.01%",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Share of the top 0.01%\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "P99.9-P100 - share of the top 0.1%",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Share of the top 0.1%\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "P99-P100 - share of the top 1%",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Share of the top 1%\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Mean income",
