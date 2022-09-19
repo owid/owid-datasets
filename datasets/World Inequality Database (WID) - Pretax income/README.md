@@ -1,4 +1,4 @@
-# World Inequality Database (WID)
+# World Inequality Database (WID) - Pretax income
 
 The World Inequality Database (WID) is an extensive database on the distribution of income and wealth, both between and within countries. It is primarily maintained by the World Inequality Lab (WIL), located at the Paris School of Economics (PSE). But it is fundamentally the result of a coordinated, collaborative effort involving hundreds of researchers throughout the world over the past twenty years.
 
