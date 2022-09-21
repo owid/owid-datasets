@@ -19,3 +19,7 @@ United Nations (1991). World Population Prospects 1990. United Nations, New York
 United Nations (1998). World Population Prospects: the 1998 Revision. Volume I: Comprehensive Tables. United Nations, New York.
 
 United Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision.
+
+United Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019.
+
+United Nations, Department of Economic and Social Affairs, Population Division (2022). World Population Prospects 2022.

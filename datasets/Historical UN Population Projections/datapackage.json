@@ -2,13 +2,13 @@
   "name": "Historical UN Population Projections",
   "title": "Historical UN Population Projections",
   "id": 702,
-  "description": "Global population projections are based on historical World Population Prospects Editions published by the United Nations (UN) across a number of periodic publications.\r\n\r\nThe following UN Population Prospects have been included:\r\n\r\nUnited Nations (1973). World Population Prospects as Assessed in 1968. United Nations, New York.\r\n\r\nUnited Nations. World Population Prospects as Assessed in 1973. United Nations, New York.\r\n\r\nUnited Nations. World Population Prospects as Assessed in 1980. United Nations, New York.\r\n\r\nUnited Nations (1985). World Population Prospects: estimates and projections as assessed in 1982. United Nations, New York.\r\n\r\nUnited Nations (1986). World Population Prospects: estimates and projections as assessed in 1984. United Nations, New York.\r\n\r\nUnited Nations (1991). World Population Prospects 1990. United Nations, New York.\r\n\r\nUnited Nations (1998). World Population Prospects: the 1998 Revision. Volume I: Comprehensive Tables. United Nations, New York.\r\n\r\nUnited Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision.",
+  "description": "Global population projections are based on historical World Population Prospects Editions published by the United Nations (UN) across a number of periodic publications.\n\nThe following UN Population Prospects have been included:\n\nUnited Nations (1973). World Population Prospects as Assessed in 1968. United Nations, New York.\n\nUnited Nations. World Population Prospects as Assessed in 1973. United Nations, New York.\n\nUnited Nations. World Population Prospects as Assessed in 1980. United Nations, New York.\n\nUnited Nations (1985). World Population Prospects: estimates and projections as assessed in 1982. United Nations, New York.\n\nUnited Nations (1986). World Population Prospects: estimates and projections as assessed in 1984. United Nations, New York.\n\nUnited Nations (1991). World Population Prospects 1990. United Nations, New York.\n\nUnited Nations (1998). World Population Prospects: the 1998 Revision. Volume I: Comprehensive Tables. United Nations, New York.\n\nUnited Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision.\n\nUnited Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019.\n\nUnited Nations, Department of Economic and Social Affairs, Population Division (2022). World Population Prospects 2022.",
   "sources": [
     {
       "name": "Historical UN population projections",
       "link": null,
       "retrievedDate": null,
-      "additionalInfo": "Global population projections are based on historical World Population Prospects Editions published by the United Nations (UN) across a number of periodic publications.\r\n\r\nThe following UN Population Prospects have been included:\r\n\r\nUnited Nations (1973). World Population Prospects as Assessed in 1968. United Nations, New York.\r\n\r\nUnited Nations. World Population Prospects as Assessed in 1973. United Nations, New York.\r\n\r\nUnited Nations. World Population Prospects as Assessed in 1980. United Nations, New York.\r\n\r\nUnited Nations (1985). World Population Prospects: estimates and projections as assessed in 1982. United Nations, New York.\r\n\r\nUnited Nations (1986). World Population Prospects: estimates and projections as assessed in 1984. United Nations, New York.\r\n\r\nUnited Nations (1991). World Population Prospects 1990. United Nations, New York.\r\n\r\nUnited Nations (1998). World Population Prospects: the 1998 Revision. Volume I: Comprehensive Tables. United Nations, New York.\r\n\r\nUnited Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision.",
+      "additionalInfo": "Global population projections are based on historical World Population Prospects Editions published by the United Nations (UN) across a number of periodic publications.\n\nThe following UN Population Prospects have been included:\n\nUnited Nations (1973). World Population Prospects as Assessed in 1968. United Nations, New York.\n\nUnited Nations. World Population Prospects as Assessed in 1973. United Nations, New York.\n\nUnited Nations. World Population Prospects as Assessed in 1980. United Nations, New York.\n\nUnited Nations (1985). World Population Prospects: estimates and projections as assessed in 1982. United Nations, New York.\n\nUnited Nations (1986). World Population Prospects: estimates and projections as assessed in 1984. United Nations, New York.\n\nUnited Nations (1991). World Population Prospects 1990. United Nations, New York.\n\nUnited Nations (1998). World Population Prospects: the 1998 Revision. Volume I: Comprehensive Tables. United Nations, New York.\n\nUnited Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision.\n\nUnited Nations, Department of Economic and Social Affairs, Population Division (2019). World Population Prospects 2019.\n\nUnited Nations, Department of Economic and Social Affairs, Population Division (2022). World Population Prospects 2022.",
       "dataPublishedBy": null,
       "dataPublisherSource": "Historical world population projections, census data"
     }
@@ -54,16 +54,16 @@
             "owidDisplaySettings": "{}"
           },
           {
+            "name": "Latest observed data",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
             "name": "UN 2017 Revision",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "UN 2017 Projection",
-            "type": "any",
-            "description": "",
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "UN 1968 Revision",
@@ -81,6 +81,18 @@
             "name": "UN 1980 Revision",
             "type": "any",
             "description": "",
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "UN 2019 Revision",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "UN 2022 Revision",
+            "type": "any",
+            "description": null,
             "owidDisplaySettings": "{}"
           }
         ]
