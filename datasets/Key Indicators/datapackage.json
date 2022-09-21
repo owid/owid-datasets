@@ -13,19 +13,27 @@
       "dataPublisherSource": null
     },
     {
-      "name": "Food and Agriculture Organization of the United Nations; HYDE (v3.2); Gapminder (v6); UN (2022)",
-      "link": "http://data.worldbank.org/data-catalog/world-development-indicators ; https://dataportaal.pbl.nl/downloads/HYDE/ ; https://www.gapminder.org/data/documentation/gd003/ ; https://population.un.org/wpp/Download/Standard/Population/",
-      "retrievedDate": "August 8, 2021",
+      "name": "UN (2022); HYDE (v3.2); Gapminder (v6); Food and Agriculture Organization of the United Nations",
+      "link": "https://population.un.org/wpp/Download/Standard/Population/ ; https://dataportaal.pbl.nl/downloads/HYDE/ ; https://www.gapminder.org/data/documentation/gd003/ ; http://data.worldbank.org/data-catalog/world-development-indicators",
+      "retrievedDate": "September 10, 2022",
       "additionalInfo": "The most important handful of indicators for use directly and in transforming other statistics.",
-      "dataPublishedBy": "World Bank ; HYDE (v3.2) ; Gapminder (v6) ; United Nations - Population Division (2022)",
+      "dataPublishedBy": "United Nations - Population Division (2022) ; HYDE (v3.2) ; Gapminder (v6) ; World Bank",
       "dataPublisherSource": null
     },
     {
-      "name": "Food and Agriculture Organization of the United Nations",
-      "link": "http://data.worldbank.org/data-catalog/world-development-indicators",
-      "retrievedDate": "August 8, 2021",
-      "additionalInfo": "Country land area.\n",
-      "dataPublishedBy": "World Bank",
+      "name": "Gapminder (v6); UN (2022); HYDE (v3.2)",
+      "link": "https://www.gapminder.org/data/documentation/gd003/ ; https://population.un.org/wpp/Download/Standard/Population/ ; https://dataportaal.pbl.nl/downloads/HYDE/",
+      "retrievedDate": "October 8, 2021",
+      "additionalInfo": "Our World in Data builds and maintains a long-run dataset on population by country, region, and for the world, based on three key sources: HYDE, Gapminder, and the UN World Population Prospects.\nYou can find more information on these sources and how our time series is constructed on this page: <a href=\"https://ourworldindata.org/population-sources\">What sources do we rely on for population estimates?</a>\n",
+      "dataPublishedBy": "Gapminder (v6) ; United Nations - Population Division (2022) ; HYDE (v3.2)",
+      "dataPublisherSource": null
+    },
+    {
+      "name": "Gapminder (v6); UN (2022); HYDE (v3.2); Food and Agriculture Organization of the United Nations",
+      "link": "https://www.gapminder.org/data/documentation/gd003/ ; https://population.un.org/wpp/Download/Standard/Population/ ; https://dataportaal.pbl.nl/downloads/HYDE/ ; http://data.worldbank.org/data-catalog/world-development-indicators",
+      "retrievedDate": "October 8, 2021",
+      "additionalInfo": "Our World in Data builds and maintains a long-run dataset on population by country, region, and for the world, based on three key sources: HYDE, Gapminder, and the UN World Population Prospects. This combines historical population estimates with median scenario projections to 2100. You can find more information on these sources and how our time series is constructed on this page: <a href=\"https://ourworldindata.org/population-sources\">What sources do we rely on for population estimates?</a>\n\nWe combine this population dataset with the <a href=\"https://ourworldindata.org/grapher/land-area-km\">land area estimates published by the World Bank</a>, to produce a long-run dataset of population density.\n\nIn all sources that we rely on, population estimates and land area estimates are based on today’s geographical borders.\n",
+      "dataPublishedBy": "Gapminder (v6) ; United Nations - Population Division (2022) ; HYDE (v3.2) ; World Bank",
       "dataPublisherSource": null
     }
   ],
