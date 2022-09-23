@@ -28,6 +28,7 @@ China,2015,10034379.0
 China,2016,7286907.0
 China,2017,5940525.0
 China,2018,3949103.0
+China,2019,1252245.0
 East Asia and Pacific,1990,977088368.0
 East Asia and Pacific,1991,959416121.0
 East Asia and Pacific,1992,927808316.0
@@ -57,6 +58,7 @@ East Asia and Pacific,2015,42092020.0
 East Asia and Pacific,2016,35440679.0
 East Asia and Pacific,2017,30207381.0
 East Asia and Pacific,2018,25022207.0
+East Asia and Pacific,2019,18331413.0
 East Asia and Pacific excluding China,1990,224819729.0
 East Asia and Pacific excluding China,1991,224476683.0
 East Asia and Pacific excluding China,1992,225460155.0
@@ -86,6 +88,7 @@ East Asia and Pacific excluding China,2015,32057641.0
 East Asia and Pacific excluding China,2016,28153772.0
 East Asia and Pacific excluding China,2017,24266856.0
 East Asia and Pacific excluding China,2018,21073104.0
+East Asia and Pacific excluding China,2019,17079168.0
 Europe and Central Asia,1990,10570492.0
 Europe and Central Asia,1991,12855458.0
 Europe and Central Asia,1992,19640156.0
@@ -115,6 +118,7 @@ Europe and Central Asia,2015,7475922.0
 Europe and Central Asia,2016,6457513.0
 Europe and Central Asia,2017,6467244.0
 Europe and Central Asia,2018,4903270.0
+Europe and Central Asia,2019,5213034.0
 High income countries,1990,4070622.0
 High income countries,1991,4057982.0
 High income countries,1992,4194210.0
@@ -144,6 +148,7 @@ High income countries,2015,7930903.0
 High income countries,2016,6906909.0
 High income countries,2017,7673933.0
 High income countries,2018,6674078.0
+High income countries,2019,6657896.0
 India,1990,428532540.0
 India,1991,434487636.0
 India,1992,440642216.0
@@ -164,15 +169,16 @@ India,2006,439807768.0
 India,2007,427066277.0
 India,2008,416464877.0
 India,2009,410075497.0
-India,2010,369067750.0
-India,2011,297161584.0
-India,2012,273111678.0
-India,2013,245321295.0
-India,2014,219412159.0
-India,2015,190999148.0
-India,2016,163154156.0
-India,2017,142810367.0
-India,2018,123443521.0
+India,2010,372001136.0
+India,2011,304607935.0
+India,2012,281963673.0
+India,2013,275088486.0
+India,2014,265394775.0
+India,2015,250405896.0
+India,2016,241295659.0
+India,2017,195046454.0
+India,2018,155439302.0
+India,2019,129363459.0
 Latin America and the Caribbean,1990,68124083.0
 Latin America and the Caribbean,1991,65498048.0
 Latin America and the Caribbean,1992,66850300.0
@@ -202,6 +208,7 @@ Latin America and the Caribbean,2015,24027199.0
 Latin America and the Caribbean,2016,25514231.0
 Latin America and the Caribbean,2017,25603214.0
 Latin America and the Caribbean,2018,25337029.0
+Latin America and the Caribbean,2019,26049414.0
 Middle East and North Africa,1990,14476419.0
 Middle East and North Africa,1991,23409295.0
 Middle East and North Africa,1992,19222412.0
@@ -231,6 +238,7 @@ Middle East and North Africa,2015,17521484.0
 Middle East and North Africa,2016,20004752.0
 Middle East and North Africa,2017,22744407.0
 Middle East and North Africa,2018,29103108.0
+Middle East and North Africa,2019,32767907.0
 South Asia,1990,561301855.0
 South Asia,1991,566191316.0
 South Asia,1992,557949282.0
@@ -251,15 +259,16 @@ South Asia,2006,517350296.0
 South Asia,2007,497894888.0
 South Asia,2008,483706846.0
 South Asia,2009,473227709.0
-South Asia,2010,425014222.0
-South Asia,2011,348309927.0
-South Asia,2012,322485600.0
-South Asia,2013,291636780.0
-South Asia,2014,262735763.0
-South Asia,2015,231179655.0
-South Asia,2016,199694107.0
-South Asia,2017,172136963.0
-South Asia,2018,148164264.0
+South Asia,2010,428000796.0
+South Asia,2011,355893744.0
+South Asia,2012,331504510.0
+South Asia,2013,321977966.0
+South Asia,2014,309624071.0
+South Asia,2015,291778472.0
+South Asia,2016,279428464.0
+South Asia,2017,225452398.0
+South Asia,2018,180829237.0
+South Asia,2019,154797077.0
 South Asia excluding India,1990,132769315.0
 South Asia excluding India,1991,131703680.0
 South Asia excluding India,1992,117307066.0
@@ -280,15 +289,16 @@ South Asia excluding India,2006,77542528.0
 South Asia excluding India,2007,70828611.0
 South Asia excluding India,2008,67241969.0
 South Asia excluding India,2009,63152212.0
-South Asia excluding India,2010,55946472.0
-South Asia excluding India,2011,51148343.0
-South Asia excluding India,2012,49373922.0
-South Asia excluding India,2013,46315485.0
-South Asia excluding India,2014,43323604.0
-South Asia excluding India,2015,40180507.0
-South Asia excluding India,2016,36539951.0
-South Asia excluding India,2017,29326596.0
-South Asia excluding India,2018,24720743.0
+South Asia excluding India,2010,55999660.0
+South Asia excluding India,2011,51285809.0
+South Asia excluding India,2012,49540837.0
+South Asia excluding India,2013,46889480.0
+South Asia excluding India,2014,44229296.0
+South Asia excluding India,2015,41372576.0
+South Asia excluding India,2016,38132805.0
+South Asia excluding India,2017,30405944.0
+South Asia excluding India,2018,25389935.0
+South Asia excluding India,2019,25433618.0
 Sub-Saharan Africa,1990,280583869.0
 Sub-Saharan Africa,1991,297556239.0
 Sub-Saharan Africa,1992,313958935.0
@@ -318,3 +328,4 @@ Sub-Saharan Africa,2015,411486589.0
 Sub-Saharan Africa,2016,417779542.0
 Sub-Saharan Africa,2017,419828419.0
 Sub-Saharan Africa,2018,419828171.0
+Sub-Saharan Africa,2019,424313686.0
