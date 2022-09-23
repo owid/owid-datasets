@@ -1,6 +1,6 @@
 # Number of people living in extreme poverty, by world region (World Bank PIP)
 
-PovcalNet provides regional aggregate figures for the number of people living below the international poverty line of int-$ 1.90 using 2011 PPPs.
+PIP provides regional aggregate figures for the number of people living below the international poverty line of int-$ 1.90 using 2011 PPPs.
 
 Unfortunately, for certain regions and years the data survey coverage is too low and the results are suppressed.  From 1990 onwards  it is only for South Asia and South Saharan Africa (on different years) that regional estimates are sometimes missing.
 
