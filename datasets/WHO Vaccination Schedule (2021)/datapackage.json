@@ -2,13 +2,13 @@
   "name": "WHO Vaccination Schedule (2021)",
   "title": "WHO Vaccination Schedule (2021)",
   "id": 5740,
-  "description": "This dataset should be next updated by the source by November 2022. We will update it on Our World in Data soon after the new version is published. At the link above you can directly access the source page and see the latest available data.",
+  "description": "This dataset shows vaccines that are administered through national immunization schedules. Although countries report having introduced select vaccines in national immunization schedules, it does not mean children are vaccinated.\n\nThis dataset should be next updated by the source by November 2022. We will update it on Our World in Data soon after the new version is published. At the link above you can directly access the source page and see the latest available data.",
   "sources": [
     {
       "name": "WHO and UNICEF (2021)",
       "link": "https://immunizationdata.who.int/listing.html?topic=vaccine-schedule&location=",
       "retrievedDate": "2022-08-25",
-      "additionalInfo": "This dataset should be next updated by the source by November 2022. We will update it on Our World in Data soon after the new version is published. At the link above you can directly access the source page and see the latest available data.",
+      "additionalInfo": "This dataset shows vaccines that are administered through national immunization schedules. Although countries report having introduced select vaccines in national immunization schedules, it does not mean children are vaccinated.\n\nThis dataset should be next updated by the source by November 2022. We will update it on Our World in Data soon after the new version is published. At the link above you can directly access the source page and see the latest available data.",
       "dataPublishedBy": "WHO/UNICEF Joint Reporting Form on Immunization (JRF), WHO Regional and Country offices",
       "dataPublisherSource": "National immunization programme"
     }
@@ -34,10 +34,10 @@
             "owidDisplaySettings": "{\"name\": \"Hepatitis B\", \"includeInTable\": true}"
           },
           {
-            "name": "Vaccination schedule for Hepatitis birth dose vaccine",
+            "name": "Vaccination schedule for Hepatitis B birth dose vaccine",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Hepatitis birth dose\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Hepatitis B birth dose\", \"includeInTable\": true}"
           },
           {
             "name": "Vaccination schedule for haemophilus influenzae type B vaccine",
