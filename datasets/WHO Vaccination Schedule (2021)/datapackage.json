@@ -2,13 +2,13 @@
   "name": "WHO Vaccination Schedule (2021)",
   "title": "WHO Vaccination Schedule (2021)",
   "id": 5740,
-  "description": "This dataset shows vaccines that are administered through national immunization schedules: where countries provide and recommend vaccines through routine services. This does not mean all children are vaccinated – countries vary in their vaccination coverage. \n\nThe 'Not administered' category does not necessarily mean the vaccines are unavailable – they may be optional or available commercially, but they are not included in the national immunization schedule.\n\nThis dataset should be next updated by the source by November 2022. We will update it on Our World in Data soon after the new version is published. At the link above you can directly access the source page and see the latest available data.",
+  "description": "This dataset shows vaccines that are administered through national immunization schedules: where countries provide and recommend vaccines through routine services. This does not mean all children are vaccinated – countries vary in their vaccination coverage. \n\nThe category 'Not routinely administered' does not necessarily mean the vaccines are unavailable – they may be optional or available commercially, but they are not included in the national immunization schedule.\n\nThis dataset should be next updated by the source by November 2022. We will update it on Our World in Data soon after the new version is published. At the link above you can directly access the source page and see the latest available data.",
   "sources": [
     {
       "name": "WHO and UNICEF (2021)",
       "link": "https://immunizationdata.who.int/listing.html?topic=vaccine-schedule&location=",
       "retrievedDate": "2022-08-25",
-      "additionalInfo": "This dataset shows vaccines that are administered through national immunization schedules: where countries provide and recommend vaccines through routine services. This does not mean all children are vaccinated – countries vary in their vaccination coverage. \n\nThe 'Not administered' category does not necessarily mean the vaccines are unavailable – they may be optional or available commercially, but they are not included in the national immunization schedule.\n\nThis dataset should be next updated by the source by November 2022. We will update it on Our World in Data soon after the new version is published. At the link above you can directly access the source page and see the latest available data.",
+      "additionalInfo": "This dataset shows vaccines that are administered through national immunization schedules: where countries provide and recommend vaccines through routine services. This does not mean all children are vaccinated – countries vary in their vaccination coverage. \n\nThe category 'Not routinely administered' does not necessarily mean the vaccines are unavailable – they may be optional or available commercially, but they are not included in the national immunization schedule.\n\nThis dataset should be next updated by the source by November 2022. We will update it on Our World in Data soon after the new version is published. At the link above you can directly access the source page and see the latest available data.",
       "dataPublishedBy": "WHO/UNICEF Joint Reporting Form on Immunization (JRF), WHO Regional and Country offices",
       "dataPublisherSource": "National immunization programme"
     }
@@ -36,7 +36,7 @@
           {
             "name": "Vaccination schedule for Hepatitis B birth dose vaccine",
             "type": "any",
-            "description": null,
+            "description": "The World Health Organization (WHO) recommends that “all infants should receive their first dose of hepatitis B vaccine as soon as possible after birth, preferably within 24 hours”.",
             "owidDisplaySettings": "{\"name\": \"Hepatitis B birth dose\", \"includeInTable\": true}"
           },
           {
@@ -60,13 +60,13 @@
           {
             "name": "Vaccination schedule for measles-containing-vaccine second-dose (MCV2) vaccine",
             "type": "any",
-            "description": null,
+            "description": "'Measles-containing-vaccine second-dose' refers to a second dose of a vaccine formulation that contains the measles vaccine, for example, the MMR (measles, mumps and rubella) vaccine.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "Vaccination schedule for mumps vaccine",
             "type": "any",
-            "description": null,
+            "description": "'Mumps vaccine' refers to a vaccine formulation that contains the mumps vaccine, for example, the MMR (measles, mumps and rubella) vaccine.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
@@ -84,8 +84,8 @@
           {
             "name": "Vaccination schedule for rubella vaccine",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "description": "'Rubella vaccine' refers to a vaccine formulation that contains the rubella vaccine, for example, the MMR (measles, mumps and rubella) vaccine.",
+            "owidDisplaySettings": "{\"includeInTable\": true, \"entityAnnotationsMap\": \"\"}"
           }
         ]
       }
