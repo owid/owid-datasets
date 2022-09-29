@@ -527,6 +527,42 @@
             "type": "any",
             "description": "The income or expenditure of the richest decile (tenth of the population) as a share of total income or expenditure.",
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "$21.70 - total number of people below poverty line",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$21.70 a day - share of population below poverty line",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$21.70 a day - poverty gap index",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$21.70 a day - total shortfall",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$21.70 - total number of people above poverty line",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "$21.70 - share of population above poverty line",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
           }
         ]
       }
