@@ -28,12 +28,6 @@
             "type": "year"
           },
           {
-            "name": "cereal_area",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
             "name": "cereals_land",
             "type": "any",
             "description": null,
@@ -83,36 +77,6 @@
           },
           {
             "name": "barley_land",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "main_crops_land",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "other_crops_land",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "main_crops_production",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "other_crops_production",
-            "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
-          },
-          {
-            "name": "other_crops_yield",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
@@ -419,6 +383,36 @@
           },
           {
             "name": "oilcrops_biofuel_share_cropland",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "cereal_other_yield",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "cereal_main_land",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "cereal_other_land",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "cereal_main_production",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "cereal_other_production",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
