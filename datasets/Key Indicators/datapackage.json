@@ -5,7 +5,7 @@
   "description": "The most important handful of indicators for use directly and in transforming other statistics.",
   "sources": [
     {
-      "name": "HYDE (v3.2); Gapminder (v6); Food and Agriculture Organization of the United Nations; UN (2022)",
+      "name": "HYDE (v3.2); Gapminder (v6); UN (2022)",
       "link": "https://dataportaal.pbl.nl/downloads/HYDE/ ; https://www.gapminder.org/data/documentation/gd003/ ; http://data.worldbank.org/data-catalog/world-development-indicators ; https://population.un.org/wpp/Download/Standard/Population/",
       "retrievedDate": "October 8, 2021",
       "additionalInfo": "The most important handful of indicators for use directly and in transforming other statistics.",
@@ -36,7 +36,13 @@
       "dataPublisherSource": null
     }
   ],
-  "owidTags": [],
+  "owidTags": [
+    "Population Growth",
+    "Fertility Rate",
+    "Migration",
+    "Population Growth & Vital Statistics",
+    "Mortality by Age"
+  ],
   "resources": [
     {
       "path": "Key Indicators.csv",
