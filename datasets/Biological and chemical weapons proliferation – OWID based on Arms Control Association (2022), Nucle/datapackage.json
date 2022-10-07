@@ -2,13 +2,13 @@
   "name": "Biological and chemical weapons proliferation – OWID based on Arms Control Association (2022), Nuclear Threat Initiative (2022), Center for Nonproliferation Studies (2008) and the UN (2022)",
   "title": "Biological and chemical weapons proliferation – OWID based on Arms Control Association (2022), Nuclear Threat Initiative (2022), Center for Nonproliferation Studies (2008) and the UN (2022)",
   "id": 5679,
-  "description": "This dataset provides information on countries activities' on biological and chemical weapons, using information from Arms Control Association (2022), Nuclear Threat Initiative (2022), Center for Nonproliferation Studies (2008) and the UN (2022).\n\nYou can download the code and complete dataset, including supplementary variables and country profiles with additional information, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/biological_chemical_weapons",
+  "description": "This dataset provides information on countries activities' on biological and chemical weapons, using information from Arms Control Association (2022), Nuclear Threat Initiative (2022), Center for Nonproliferation Studies (2008), the UN (2022), and a few supplementary sources.\n\nYou can download the code and complete dataset, including supplementary variables and country profiles with additional information, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/biological_chemical_weapons",
   "sources": [
     {
       "name": "OWID based on ACA (2022), NTI (2022), CNS (2008), and UN (2022)",
       "link": "https://www.armscontrol.org/factsheets/cbwprolif; https://www.nti.org/countries/; https://nonproliferation.org/wp-content/uploads/2016/03/2008-Chemical-and-Biological-Weapons_-Possession-and-Programs-Past-and-Present.pdf; https://treaties.unoda.org/t/bwc; https://treaties.unoda.org/t/cwc",
       "retrievedDate": "September 5, 2022",
-      "additionalInfo": "This dataset provides information on countries activities' on biological and chemical weapons, using information from Arms Control Association (2022), Nuclear Threat Initiative (2022), Center for Nonproliferation Studies (2008) and the UN (2022).\n\nYou can download the code and complete dataset, including supplementary variables and country profiles with additional information, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/biological_chemical_weapons",
+      "additionalInfo": "This dataset provides information on countries activities' on biological and chemical weapons, using information from Arms Control Association (2022), Nuclear Threat Initiative (2022), Center for Nonproliferation Studies (2008), the UN (2022), and a few supplementary sources.\n\nYou can download the code and complete dataset, including supplementary variables and country profiles with additional information, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/biological_chemical_weapons",
       "dataPublishedBy": "Our World in Data, Bastian Herre",
       "dataPublisherSource": "Information comes from Arms Control Association (2022), Nuclear Threat Initiative (2022), Center for Nonproliferation Studies (2008) and the UN (2022)"
     }
@@ -68,13 +68,13 @@
           {
             "name": "chemweapons_status_current",
             "type": "any",
-            "description": "The variable identifies whether a country pursues, possesses, or has recently used chemical weapons, using information from Arms Control Association (2022), Nuclear Threat Initiative (2022), Center for Nonproliferation Studies (2008) and the UN (2022).\n\nA country is coded as pursuing chemical weapons if it is increasing its capabilities or has a dedicated program. A country is coded as possessing chemical weapons if it has weapons which it can deliver. 'Recent' means the country used or allegedly used them within the last decade.\n\nThe variable also identifies when a country was alleged by another country of pursuing, possessing, or using chemical weapons, but these allegations have not been confirmed by the country itself or impartial observers.",
+            "description": "The variable identifies whether a country pursues, possesses, or has recently used chemical weapons, using information from Arms Control Association (2022), Nuclear Threat Initiative (2022), Center for Nonproliferation Studies (2008) and the UN (2022).\n\nA country is coded as having recently used chemical weapons if it did so in the previous ten years. A country is coded as pursuing chemical weapons if it is increasing its capabilities or has a dedicated program. A country is coded as possessing chemical weapons if it has weapons which it can deliver. 'Recent' means the country used or allegedly used them within the last decade.\n\nThe variable also identifies when a country was alleged by another country of pursuing, possessing, or using chemical weapons, but these allegations have not been confirmed by the country itself or impartial observers.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "chemweapons_status_current_num",
             "type": "any",
-            "description": "The variable identifies whether a country pursues, possesses, or has recently used chemical weapons, using information from Arms Control Association (2022), Nuclear Threat Initiative (2022), Center for Nonproliferation Studies (2008) and the UN (2022).\n\nA country is coded as pursuing chemical weapons if it is increasing its capabilities or has a dedicated program. A country is coded as possessing chemical weapons if it has weapons which it can deliver. 'Recent' means the country used or allegedly used them within the last decade.\n\nThe variable also identifies when a country was alleged by another country of pursuing, possessing, or using chemical weapons, but these allegations have not been confirmed by the country itself or impartial observers.\n\nA country receives a score of 0 if it neither pursues nor possesses chemical weapons, a score of 1 if it allegedly pursues them, score of 2 if it possesses them, a score of 3 if it allegedly recently used them, and a score of 4 if it recently used them.",
+            "description": "The variable identifies whether a country pursues, possesses, or has recently used chemical weapons, using information from Arms Control Association (2022), Nuclear Threat Initiative (2022), Center for Nonproliferation Studies (2008) and the UN (2022).\n\nA country is coded as having recently used chemical weapons if it did so in the previous ten years. A country is coded as pursuing chemical weapons if it is increasing its capabilities or has a dedicated program. A country is coded as possessing chemical weapons if it has weapons which it can deliver. 'Recent' means the country used or allegedly used them within the last decade.\n\nThe variable also identifies when a country was alleged by another country of pursuing, possessing, or using chemical weapons, but these allegations have not been confirmed by the country itself or impartial observers.\n\nA country receives a score of 0 if it neither pursues nor possesses chemical weapons, a score of 1 if it allegedly pursues them, score of 2 if it possesses them, a score of 3 if it allegedly recently used them, and a score of 4 if it recently used them.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
@@ -170,13 +170,13 @@
           {
             "name": "num_chemweapons_curr_alleuse",
             "type": "any",
-            "description": "The variable identifies the number of countries that recently allegedly used chemical weapons.",
+            "description": "The variable identifies the number of countries that recently allegedly used chemical weapons. 'Recent' means in the previous ten years.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "num_chemweapons_curr_use",
             "type": "any",
-            "description": "The variable identifies the number of countries that recently used chemical weapons.",
+            "description": "The variable identifies the number of countries that recently used chemical weapons.  'Recent' means in the previous ten years.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
