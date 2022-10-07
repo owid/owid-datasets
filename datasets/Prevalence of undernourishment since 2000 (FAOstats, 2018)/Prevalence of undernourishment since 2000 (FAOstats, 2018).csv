@@ -669,6 +669,23 @@ Estonia,2013,2.9,
 Estonia,2014,2.9,
 Estonia,2015,2.9,
 Estonia,2016,2.8,
+Eswatini,2000,19.2,0.2
+Eswatini,2001,17.4,0.2
+Eswatini,2002,16,0.2
+Eswatini,2003,15.3,0.2
+Eswatini,2004,15.5,0.2
+Eswatini,2005,17,0.2
+Eswatini,2006,19.1,0.2
+Eswatini,2007,21.2,0.2
+Eswatini,2008,22.6,0.3
+Eswatini,2009,23.3,0.3
+Eswatini,2010,23.2,0.3
+Eswatini,2011,22.7,0.3
+Eswatini,2012,22.1,0.3
+Eswatini,2013,21.5,0.3
+Eswatini,2014,21.3,0.3
+Eswatini,2015,21,0.3
+Eswatini,2016,20.7,0.3
 Ethiopia,2000,52,34.6
 Ethiopia,2001,49,33.5
 Ethiopia,2002,46.7,32.9
@@ -686,23 +703,23 @@ Ethiopia,2013,26.9,25.5
 Ethiopia,2014,24.7,24
 Ethiopia,2015,22.8,22.8
 Ethiopia,2016,21.4,21.9
-Extreme Fragility,2000,,67.1
-Extreme Fragility,2001,,66.8
-Extreme Fragility,2002,,66.7
-Extreme Fragility,2003,,66.2
-Extreme Fragility,2004,,65.7
-Extreme Fragility,2005,,64.8
-Extreme Fragility,2006,,64.6
-Extreme Fragility,2007,,64
-Extreme Fragility,2008,,63.1
-Extreme Fragility,2009,,61.9
-Extreme Fragility,2010,,61.2
-Extreme Fragility,2011,,61.1
-Extreme Fragility,2012,,71.1
-Extreme Fragility,2013,,72.5
-Extreme Fragility,2014,,73.8
-Extreme Fragility,2015,,75.5
-Extreme Fragility,2016,,76.8
+Extreme Fragility,2000,24.3,67.1
+Extreme Fragility,2001,23.5,66.8
+Extreme Fragility,2002,22.8,66.7
+Extreme Fragility,2003,22.0,66.2
+Extreme Fragility,2004,21.2,65.7
+Extreme Fragility,2005,20.3,64.8
+Extreme Fragility,2006,19.6,64.6
+Extreme Fragility,2007,18.9,64
+Extreme Fragility,2008,18.1,63.1
+Extreme Fragility,2009,17.3,61.9
+Extreme Fragility,2010,16.7,61.2
+Extreme Fragility,2011,16.2,61.1
+Extreme Fragility,2012,18.4,71.1
+Extreme Fragility,2013,18.3,72.5
+Extreme Fragility,2014,18.1,73.8
+Extreme Fragility,2015,18.1,75.5
+Extreme Fragility,2016,17.9,76.8
 Fiji,2000,4.8,
 Fiji,2001,4.7,
 Fiji,2002,4.6,
@@ -720,40 +737,40 @@ Fiji,2013,4.4,
 Fiji,2014,4.4,
 Fiji,2015,4.4,
 Fiji,2016,4.4,
-Fragile,2000,,216.4
-Fragile,2001,,217.2
-Fragile,2002,,219.4
-Fragile,2003,,217.5
-Fragile,2004,,213.5
-Fragile,2005,,209.1
-Fragile,2006,,206.1
-Fragile,2007,,204.7
-Fragile,2008,,204.8
-Fragile,2009,,205.7
-Fragile,2010,,206.6
-Fragile,2011,,208.3
-Fragile,2012,,211.2
-Fragile,2013,,215.1
-Fragile,2014,,221.6
-Fragile,2015,,231.1
-Fragile,2016,,243.3
-Fragile (+ extreme fragility),2000,,283.5
-Fragile (+ extreme fragility),2001,,284
-Fragile (+ extreme fragility),2002,,286.1
-Fragile (+ extreme fragility),2003,,283.7
-Fragile (+ extreme fragility),2004,,279.2
-Fragile (+ extreme fragility),2005,,273.9
-Fragile (+ extreme fragility),2006,,270.7
-Fragile (+ extreme fragility),2007,,268.7
-Fragile (+ extreme fragility),2008,,267.9
-Fragile (+ extreme fragility),2009,,267.6
-Fragile (+ extreme fragility),2010,,267.8
-Fragile (+ extreme fragility),2011,,269.4
-Fragile (+ extreme fragility),2012,,282.3
-Fragile (+ extreme fragility),2013,,287.6
-Fragile (+ extreme fragility),2014,,295.4
-Fragile (+ extreme fragility),2015,,306.6
-Fragile (+ extreme fragility),2016,,320.1
+Fragile,2000,22.6,216.4
+Fragile,2001,22.2,217.2
+Fragile,2002,22.0,219.4
+Fragile,2003,21.3,217.5
+Fragile,2004,20.5,213.5
+Fragile,2005,19.7,209.1
+Fragile,2006,19.0,206.1
+Fragile,2007,18.5,204.7
+Fragile,2008,18.1,204.8
+Fragile,2009,17.8,205.7
+Fragile,2010,17.5,206.6
+Fragile,2011,17.3,208.3
+Fragile,2012,17.2,211.2
+Fragile,2013,17.1,215.1
+Fragile,2014,17.3,221.6
+Fragile,2015,17.6,231.1
+Fragile,2016,18.2,243.3
+Fragile (+ extreme fragility),2000,23.0,283.5
+Fragile (+ extreme fragility),2001,22.5,284
+Fragile (+ extreme fragility),2002,22.2,286.1
+Fragile (+ extreme fragility),2003,21.5,283.7
+Fragile (+ extreme fragility),2004,20.7,279.2
+Fragile (+ extreme fragility),2005,19.8,273.9
+Fragile (+ extreme fragility),2006,19.1,270.7
+Fragile (+ extreme fragility),2007,18.6,268.7
+Fragile (+ extreme fragility),2008,18.1,267.9
+Fragile (+ extreme fragility),2009,17.7,267.6
+Fragile (+ extreme fragility),2010,17.3,267.8
+Fragile (+ extreme fragility),2011,17.0,269.4
+Fragile (+ extreme fragility),2012,17.5,282.3
+Fragile (+ extreme fragility),2013,17.4,287.6
+Fragile (+ extreme fragility),2014,17.5,295.4
+Fragile (+ extreme fragility),2015,17.7,306.6
+Fragile (+ extreme fragility),2016,18.1,320.1
 French Polynesia,2000,4.6,
 French Polynesia,2001,4.3,
 French Polynesia,2002,4,
@@ -1266,23 +1283,6 @@ Macao,2013,12.2,
 Macao,2014,11.9,
 Macao,2015,11.6,
 Macao,2016,11.4,
-Macedonia,2000,7.9,0.2
-Macedonia,2001,8.8,0.2
-Macedonia,2002,8.4,0.2
-Macedonia,2003,7.7,0.2
-Macedonia,2004,6.7,0.1
-Macedonia,2005,6.1,0.1
-Macedonia,2006,5.3,0.1
-Macedonia,2007,4.5,
-Macedonia,2008,4.1,
-Macedonia,2009,4.1,
-Macedonia,2010,4.4,
-Macedonia,2011,4.6,
-Macedonia,2012,4.6,
-Macedonia,2013,4.5,
-Macedonia,2014,4.4,
-Macedonia,2015,4.2,
-Macedonia,2016,4.1,
 Madagascar,2000,34.4,5.4
 Madagascar,2001,35.5,5.8
 Madagascar,2002,37,6.2
@@ -1623,6 +1623,23 @@ North Korea,2013,41.7,10.4
 North Korea,2014,42.3,10.6
 North Korea,2015,42.8,10.8
 North Korea,2016,43.4,11
+North Macedonia,2000,7.9,0.2
+North Macedonia,2001,8.8,0.2
+North Macedonia,2002,8.4,0.2
+North Macedonia,2003,7.7,0.2
+North Macedonia,2004,6.7,0.1
+North Macedonia,2005,6.1,0.1
+North Macedonia,2006,5.3,0.1
+North Macedonia,2007,4.5,
+North Macedonia,2008,4.1,
+North Macedonia,2009,4.1,
+North Macedonia,2010,4.4,
+North Macedonia,2011,4.6,
+North Macedonia,2012,4.6,
+North Macedonia,2013,4.5,
+North Macedonia,2014,4.4,
+North Macedonia,2015,4.2,
+North Macedonia,2016,4.1,
 Oceania,2000,5.4,1.7
 Oceania,2001,5.3,1.7
 Oceania,2002,5.3,1.7
@@ -2022,23 +2039,6 @@ Suriname,2013,8.1,
 Suriname,2014,7.8,
 Suriname,2015,7.6,
 Suriname,2016,7.6,
-Swaziland,2000,19.2,0.2
-Swaziland,2001,17.4,0.2
-Swaziland,2002,16,0.2
-Swaziland,2003,15.3,0.2
-Swaziland,2004,15.5,0.2
-Swaziland,2005,17,0.2
-Swaziland,2006,19.1,0.2
-Swaziland,2007,21.2,0.2
-Swaziland,2008,22.6,0.3
-Swaziland,2009,23.3,0.3
-Swaziland,2010,23.2,0.3
-Swaziland,2011,22.7,0.3
-Swaziland,2012,22.1,0.3
-Swaziland,2013,21.5,0.3
-Swaziland,2014,21.3,0.3
-Swaziland,2015,21,0.3
-Swaziland,2016,20.7,0.3
 Taiwan,2000,3.7,0.8
 Taiwan,2001,4,0.9
 Taiwan,2002,4.3,1
