@@ -1,0 +1,45 @@
+{
+  "name": "National poverty lines (Jolliffe et al., 2022)",
+  "title": "National poverty lines (Jolliffe et al., 2022)",
+  "id": 5800,
+  "description": "National poverty lines per day in 2017 PPPs.  Figures correspond to the poverty lines that are implied by national poverty headcounts from national sources and consumption (or income) distributions from World Bank PIP used for international poverty estimates.",
+  "sources": [
+    {
+      "name": "Jolliffe et al. (2022)",
+      "link": "https://openknowledge.worldbank.org/handle/10986/37061",
+      "retrievedDate": "2022-10-04",
+      "additionalInfo": "National poverty lines per day in 2017 PPPs.  Figures correspond to the poverty lines that are implied by national poverty headcounts from national sources and consumption (or income) distributions from World Bank PIP used for international poverty estimates.",
+      "dataPublishedBy": "Jolliffe, D.M., Mahler, D. G., Lakner, C., Atamanov, A., Tetteh-Baah, S. K. (2022). Assessing the Impact of the 2017 PPPs on the International Poverty Line and Global Poverty. Washington, DC: World Bank."
+    }
+  ],
+  "owidTags": [],
+  "resources": [
+    {
+      "path": "National poverty lines (Jolliffe et al., 2022).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Income group",
+            "type": "any",
+            "description": "Income group as defined in the paper (historical).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "Harmonized national poverty line",
+            "type": "any",
+            "description": "Harmonized national poverty line per capita per day, 2017 prices.",
+            "owidDisplaySettings": "{\"name\": \"National poverty line\", \"unit\": \"international-$ at 2017 prices\", \"shortUnit\": \"$\", \"includeInTable\": true, \"entityAnnotationsMap\": \"\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
