@@ -5,11 +5,11 @@
   "description": "This dataset provides information on countries activities' on biological and chemical weapons, using information from Arms Control Association (2022), Nuclear Threat Initiative (2022), Center for Nonproliferation Studies (2008), the UN (2022), and a few supplementary sources.\n\nYou can download the code and complete dataset, including supplementary variables and country profiles with additional information, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/biological_chemical_weapons",
   "sources": [
     {
-      "name": "Our World in Data based on ACA (2022); NTI (2022); CNS (2008); and UN (2022)",
+      "name": "Our World in Data based on ACA (2022), NTI (2022), CNS (2008), UN (2022)",
       "link": "https://www.armscontrol.org/factsheets/cbwprolif; https://www.nti.org/countries/; https://nonproliferation.org/wp-content/uploads/2016/03/2008-Chemical-and-Biological-Weapons_-Possession-and-Programs-Past-and-Present.pdf; https://treaties.unoda.org/t/bwc; https://treaties.unoda.org/t/cwc",
       "retrievedDate": "2022-09-05",
       "additionalInfo": "This dataset provides information on countries activities' on biological and chemical weapons, using information from Arms Control Association (2022), Nuclear Threat Initiative (2022), Center for Nonproliferation Studies (2008), the UN (2022), and a few supplementary sources.\n\nYou can download the code and complete dataset, including supplementary variables and country profiles with additional information, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/biological_chemical_weapons",
-      "dataPublishedBy": "Our World in Data based on ACA (2022); NTI (2022); CNS (2008); and UN (2022)",
+      "dataPublishedBy": "Our World in Data based on ACA (2022), NTI (2022), CNS (2008), UN (2022)",
       "dataPublisherSource": "Information comes from Arms Control Association (2022), Nuclear Threat Initiative (2022), Center for Nonproliferation Studies (2008) and the UN (2022)"
     }
   ],
