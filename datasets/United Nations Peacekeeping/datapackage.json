@@ -7,7 +7,7 @@
     {
       "name": "United Nations Peacekeeping",
       "link": "https://peacekeeping.un.org/en/data",
-      "retrievedDate": "24th February 2022",
+      "retrievedDate": "2022-02-24",
       "additionalInfo": "All data is taken directly from the United Nations, with the exception for the historical size of the peacekeeping force (1947-1991), which is instead taken from the Global Policy Forum. Available at: https://www.globalpolicy.org/security-council/peacekeeping/peacekeeping-data.html\n\nThe data for the size and breakdown of the peacekeeping force from the United Nations is taken as the value reported in the December report at the end of the year (with the exception for 1998, which is taken in November).\n\nFor example, summaries from 2010 onwards are given here: https://peacekeeping.un.org/sites/default/files/00-front_page_msr_december_2021.pdf. We have taken figures from December in that report as the figures for a given year.",
       "dataPublishedBy": "United Nations & Global Policy Forum",
       "dataPublisherSource": "United Nations"
@@ -33,7 +33,7 @@
             "name": "Number of peacekeeping missions (United Nations Peacekeeping)",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": "{\"unit\": \"per hour work (in manufacturing)\"}"
+            "owidDisplaySettings": "{\"unit\": \"\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Size of total peacekeeping force (United Nations Peacekeeping)",
@@ -48,10 +48,10 @@
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "Military Observers (peacekeepers) (United Nations Peacekeeping)",
+            "name": "Military Observers and staff officers (peacekeepers) (United Nations Peacekeeping)",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "Troops (peacekeepers) (United Nations Peacekeeping)",
