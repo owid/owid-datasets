@@ -1,6 +1,6 @@
 # Living Planet Index – WWF (2022)
 
-The Living Planet Index (LPI) is a measure of the state of global biological diversity based on population trends of vertebrate species from around the world. The index represents 38,427 populations of 5,268 species. All indices are weighted by species richness, giving species-rich taxonomic groups in terrestrial, marine and freshwater systems more weight than groups with fewer species. Using a method developed by ZSL and WWF, these species population trends are aggregated to produce indices of the state of biodiversity.
+The Living Planet Index (LPI) is a measure of the state of global biological diversity based on population trends of vertebrate species from around the world. The index represents 31,821 populations of 5,230 species. All indices are weighted by species richness, giving species-rich taxonomic groups in terrestrial, marine and freshwater systems more weight than groups with fewer species. Using a method developed by ZSL and WWF, these species population trends are aggregated to produce indices of the state of biodiversity.
 
 The index value is measured relative to species' populations in 1970 (i.e. 1970 = 1).
 
