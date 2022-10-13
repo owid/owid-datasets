@@ -1,4 +1,4 @@
-Entity,Year,Living Planet Index,"Lower CI, Living Planet Index (95% CI)","Upper CI, Living Planet Index (95% CI)"
+Entity,Year,living_planet_index_average,living_planet_index_lower,living_planet_index_upper
 Africa,1970,1.0,1.0,1.0
 Africa,1971,0.954619689,0.877905669,1.049108031
 Africa,1972,0.946834134,0.814798388,1.108678393

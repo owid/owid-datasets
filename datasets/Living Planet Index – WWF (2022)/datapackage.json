@@ -9,7 +9,7 @@
       "link": "http://stats.livingplanetindex.org/",
       "retrievedDate": "",
       "additionalInfo": "The Living Planet Index (LPI) is a measure of the state of global biological diversity based on population trends of vertebrate species from around the world. The index represents 38,427 populations of 5,268 species. All indices are weighted by species richness, giving species-rich taxonomic groups in terrestrial, marine and freshwater systems more weight than groups with fewer species. Using a method developed by ZSL and WWF, these species population trends are aggregated to produce indices of the state of biodiversity.\n\nThe index value is measured relative to species' populations in 1970 (i.e. 1970 = 1).\n\nTo calculate an LPI, a generalised additive modelling framework is used to determine the underlying trend in each population time-series. Average rates of change are then calculated and aggregated to the species level. For the global LPI, the method of aggregation has recently been revised to include a weighting system which gives trends from more species-rich systems, realms and groups more weight in the final index.",
-      "dataPublishedBy": "World Wildlife Fund (WWF) and Zoological Society of London"
+      "dataPublishedBy": "World Wildlife Fund (WWF) and Zoological Society of London (2022). Living Planet Report 2022 – Building a nature-positive society. Almond, R.E.A., Grooten, M., Juffe Bignoli, D. & Petersen, T. (Eds). WWF, Gland, Switzerland."
     }
   ],
   "owidTags": [
@@ -29,19 +29,19 @@
             "type": "year"
           },
           {
-            "name": "Living Planet Index",
+            "name": "living_planet_index_average",
             "type": "any",
             "description": "The Living Planet Index (LPI) is a measure of the state of global biological diversity based on population trends of vertebrate species from around the world. The index value is measured relative to species' populations in 1970 (i.e. 1970 = 1).",
             "owidDisplaySettings": "{\"name\": \"Living Planet Index\", \"unit\": \"(1970 = 1)\", \"includeInTable\": true}"
           },
           {
-            "name": "Lower CI, Living Planet Index (95% CI)",
+            "name": "living_planet_index_lower",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"Lower CI\", \"unit\": \"(1970 = 1)\", \"includeInTable\": true}"
           },
           {
-            "name": "Upper CI, Living Planet Index (95% CI)",
+            "name": "living_planet_index_upper",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{\"name\": \"Upper CI\", \"unit\": \"(1970 = 1)\", \"includeInTable\": true}"
