@@ -2,13 +2,13 @@
   "name": "World Bank Poverty and Inequality Platform (PIP)",
   "title": "World Bank Poverty and Inequality Platform (PIP)",
   "id": 5689,
-  "description": "The Poverty and Inequality Platform (PIP) is an interactive computational tool that offers users quick access to the World Bank’s estimates of poverty, inequality, and shared prosperity. PIP provides a comprehensive view of global, regional, and country-level trends for more than 150 economies around the world.\n\nVersion 20220909_2011_02_02_PROD\n\nAbout this data\nWhere is this data sourced from?\n\nThis dataset is collated and adapted from the World Bank's Poverty and Inequality Platform (PIP, https://pip.worldbank.org/home).\n\nThe World Bank's PIP data is a large collection of household surveys where steps have been taken by the World Bank to harmonize definitions and methods across countries and over time.\n\nAbout the comparability of household surveys\n\nThere is no global survey of incomes. To understand how incomes across the world compare, researchers need to rely on available national surveys.\nSuch surveys are designed with cross-country comparability in mind, but because the surveys reflect the circumstances and priorities of individual countries at the time of the survey, there are some important differences.\n\nIncome vs expenditure surveys\n\nOne important issue is that the survey data included within the PIP database tends to measure people's income in high-income countries, and people's consumption expenditure in poorer countries. The two concepts are closely related: the income of a household equals their consumption plus any saving (or minus any borrowing). But they can nonetheless give quite different indications of households' welfare, especially among richer households who tend to save more, or older households that are dissaving in retirement.\n\nOther comparability issues\n\nThere are a number of other ways in which comparability across surveys can be limited. The PIP Methodology Handbook (https://worldbank.github.io/PIP-Methodology/index.html) provides a good summary of the comparability and data quality issues affecting this data and how it tries to address them.\n\nIn collating this survey data the World Bank takes a range of steps to harmonize it where possible, but comparability issues remain. These affect comparisons both across countries and within individual countries over time.\n\nGlobal and regional poverty estimates\n\nAlong with data for individual countries derived from household surveys, the World Bank also provides global and regional poverty estimates. Since surveys are not conducted annually in every country, in order to produce these aggregate estimates for a given year, the World Bank takes the surveys falling closest to that year for each country and 'lines-up' the data to the year being estimated by projecting it forwards or backwards.\n\nThis lining-up is generally done on the assumption that household incomes or expenditure grow in line with the growth rates observed in national accounts data. You can read more about the interpolation methods used by the World Bank in Chapter 5 (https://worldbank.github.io/PIP-Methodology/lineupestimates.html) of the Poverty and Inequality Platform Methodology Handbook.\n\nHow does the data account for inflation and for differences in the cost of living across countries?\n\nTo account for inflation and price differences across countries, the data is measured in 2011 international-$.\n\nThe international-$ is a hypothetical currency that results from price adjustments across time and place. It is defined as having the same purchasing power as one US-$ would in the United States in a given base year -- in this case 2011. One int.-$ buys the same quantity of goods and services no matter where or when it is spent.\nThere are many challenges to making such adjustments and they are far from perfect. Angus Deaton (Deaton, 2010: https://rpds.princeton.edu/sites/g/files/toruqf1956/files/media/deaton_price_indexes_inequality_and_the_measurement_of_world_poverty_aer.pdf) provides a good discussion of the difficulties involved in price adjustments and how this relates to global poverty measurement.\nBut in a world where price differences across countries and over time are large it is important to attempt to account for these differences as well as possible, and this is what these adjustments do.\n\nAbsolute vs relative poverty lines\n\nThis dataset provides poverty estimates for a range of absolute and relative poverty lines.\nAn absolute poverty line represents a fixed standard of living; a threshold that is held constant across time. Within the World Bank's poverty data, absolute poverty lines also aim to represent a standard of living that is fixed across countries (by converting local currencies to international-$). The International Poverty Line of $1.90 per day is the best known absolute poverty line and is used by the World Bank and the UN to measure extreme poverty around the world.\n\nRelative poverty lines instead rise and fall in absolute terms as average incomes change within a given country. In most cases they are set at a certain fraction of the median income. Because of this, relative poverty can be considered a metric of inequality -- it measures how spread out the bottom half of the income distribution is.\n\nThe idea behind measuring poverty in relative terms is that a person's well-being depends not on their own absolute standard of living but on how that standard compares with some reference group, or whether it enables them to participate in the norms and customs of their society. For instance, joining a friend's birthday celebration without shame might require more resources in a rich society if the norm is to go for an expensive meal out, or give costly presents.\nOur dataset includes three commonly-used relative poverty lines: 40%, 50%, and 60% of the median.\n\nSuch lines are most commonly used in rich countries, and are the main way poverty is measured by the OECD (https://data.oecd.org/inequality/poverty-rate.htm) and the European Union (https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:At-risk-of-poverty_rate).\nMore recently, relative poverty measures have come to be applied in a global context. The share of people living below 50 per cent of median income is, for instance, one of the UN's Sustainable Development Goal indicators (https://sdg-tracker.org/inequality#10.2). And the World Bank now produces estimates of global poverty using a Societal Poverty Line (https://datatopics.worldbank.org/world-development-indicators/stories/societal-poverty-a-global-measure-of-relative-poverty.html) that combines absolute and relative components.\n\nWhen comparing relative poverty rates around the world, however, it is important to keep in mind that -- since  average incomes are so far apart (https://ourworldindata.org/explorers/poverty-explorer?tab=map&facet=none&hideControls=false&Metric=Median&Poverty+line=%241.90+a+day&Household+survey+data+type=Show+data+from+both+income+and+expenditure+surveys&country=IND~MOZ~BRA~MDG~GHA) -- such relative poverty lines relate to very different standards of living in rich and poor countries.\n\nDoes the data account for non-market income, such as food grown by subsistence farmers?\n\nMany poor people today, as in the past, rely on subsistence farming rather than a monetary income gained from selling goods or their labor on the market. To take this into account and make a fair comparison of their living standards, the statisticians that produce these figures estimate the monetary value of their home production and add it to their income/expenditure.",
+  "description": "The Poverty and Inequality Platform (PIP) is an interactive computational tool that offers users quick access to the World Bank’s estimates of poverty, inequality, and shared prosperity. PIP provides a comprehensive view of global, regional, and country-level trends for more than 150 economies around the world.\n\nVersion 20220909_2017_01_02_PROD\n\nAbout this data\nWhere is this data sourced from?\n\nThis dataset is collated and adapted from the World Bank's Poverty and Inequality Platform (PIP, https://pip.worldbank.org/home).\n\nThe World Bank's PIP data is a large collection of household surveys where steps have been taken by the World Bank to harmonize definitions and methods across countries and over time.\n\nAbout the comparability of household surveys\n\nThere is no global survey of incomes. To understand how incomes across the world compare, researchers need to rely on available national surveys.\nSuch surveys are designed with cross-country comparability in mind, but because the surveys reflect the circumstances and priorities of individual countries at the time of the survey, there are some important differences.\n\nIncome vs expenditure surveys\n\nOne important issue is that the survey data included within the PIP database tends to measure people's income in high-income countries, and people's consumption expenditure in poorer countries. The two concepts are closely related: the income of a household equals their consumption plus any saving (or minus any borrowing). But they can nonetheless give quite different indications of households' welfare, especially among richer households who tend to save more, or older households that are dissaving in retirement.\n\nOther comparability issues\n\nThere are a number of other ways in which comparability across surveys can be limited. The PIP Methodology Handbook (https://worldbank.github.io/PIP-Methodology/index.html) provides a good summary of the comparability and data quality issues affecting this data and how it tries to address them.\n\nIn collating this survey data the World Bank takes a range of steps to harmonize it where possible, but comparability issues remain. These affect comparisons both across countries and within individual countries over time.\n\nGlobal and regional poverty estimates\n\nAlong with data for individual countries derived from household surveys, the World Bank also provides global and regional poverty estimates. Since surveys are not conducted annually in every country, in order to produce these aggregate estimates for a given year, the World Bank takes the surveys falling closest to that year for each country and 'lines-up' the data to the year being estimated by projecting it forwards or backwards.\n\nThis lining-up is generally done on the assumption that household incomes or expenditure grow in line with the growth rates observed in national accounts data. You can read more about the interpolation methods used by the World Bank in Chapter 5 (https://worldbank.github.io/PIP-Methodology/lineupestimates.html) of the Poverty and Inequality Platform Methodology Handbook.\n\nHow does the data account for inflation and for differences in the cost of living across countries?\n\nTo account for inflation and price differences across countries, the data is measured in 2017 international-$.\n\nThe international-$ is a hypothetical currency that results from price adjustments across time and place. It is defined as having the same purchasing power as one US-$ would in the United States in a given base year -- in this case 2017. One int.-$ buys the same quantity of goods and services no matter where or when it is spent.\nThere are many challenges to making such adjustments and they are far from perfect. Angus Deaton (Deaton, 2010: https://rpds.princeton.edu/sites/g/files/toruqf1956/files/media/deaton_price_indexes_inequality_and_the_measurement_of_world_poverty_aer.pdf) provides a good discussion of the difficulties involved in price adjustments and how this relates to global poverty measurement.\nBut in a world where price differences across countries and over time are large it is important to attempt to account for these differences as well as possible, and this is what these adjustments do.\n\nAbsolute vs relative poverty lines\n\nThis dataset provides poverty estimates for a range of absolute and relative poverty lines.\nAn absolute poverty line represents a fixed standard of living; a threshold that is held constant across time. Within the World Bank's poverty data, absolute poverty lines also aim to represent a standard of living that is fixed across countries (by converting local currencies to international-$). The International Poverty Line of $1.90 per day is the best known absolute poverty line and is used by the World Bank and the UN to measure extreme poverty around the world.\n\nRelative poverty lines instead rise and fall in absolute terms as average incomes change within a given country. In most cases they are set at a certain fraction of the median income. Because of this, relative poverty can be considered a metric of inequality -- it measures how spread out the bottom half of the income distribution is.\n\nThe idea behind measuring poverty in relative terms is that a person's well-being depends not on their own absolute standard of living but on how that standard compares with some reference group, or whether it enables them to participate in the norms and customs of their society. For instance, joining a friend's birthday celebration without shame might require more resources in a rich society if the norm is to go for an expensive meal out, or give costly presents.\nOur dataset includes three commonly-used relative poverty lines: 40%, 50%, and 60% of the median.\n\nSuch lines are most commonly used in rich countries, and are the main way poverty is measured by the OECD (https://data.oecd.org/inequality/poverty-rate.htm) and the European Union (https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:At-risk-of-poverty_rate).\nMore recently, relative poverty measures have come to be applied in a global context. The share of people living below 50 per cent of median income is, for instance, one of the UN's Sustainable Development Goal indicators (https://sdg-tracker.org/inequality#10.2). And the World Bank now produces estimates of global poverty using a Societal Poverty Line (https://datatopics.worldbank.org/world-development-indicators/stories/societal-poverty-a-global-measure-of-relative-poverty.html) that combines absolute and relative components.\n\nWhen comparing relative poverty rates around the world, however, it is important to keep in mind that -- since  average incomes are so far apart (https://ourworldindata.org/explorers/poverty-explorer?tab=map&facet=none&hideControls=false&Metric=Median&Poverty+line=%241.90+a+day&Household+survey+data+type=Show+data+from+both+income+and+expenditure+surveys&country=IND~MOZ~BRA~MDG~GHA) -- such relative poverty lines relate to very different standards of living in rich and poor countries.\n\nDoes the data account for non-market income, such as food grown by subsistence farmers?\n\nMany poor people today, as in the past, rely on subsistence farming rather than a monetary income gained from selling goods or their labor on the market. To take this into account and make a fair comparison of their living standards, the statisticians that produce these figures estimate the monetary value of their home production and add it to their income/expenditure.",
   "sources": [
     {
       "name": "World Bank Poverty and Inequality Platform",
       "link": "https://pip.worldbank.org/",
       "retrievedDate": "2022-10-03",
-      "additionalInfo": "The Poverty and Inequality Platform (PIP) is an interactive computational tool that offers users quick access to the World Bank’s estimates of poverty, inequality, and shared prosperity. PIP provides a comprehensive view of global, regional, and country-level trends for more than 150 economies around the world.\n\nVersion 20220909_2011_02_02_PROD\n\nAbout this data\nWhere is this data sourced from?\n\nThis dataset is collated and adapted from the World Bank's Poverty and Inequality Platform (PIP, https://pip.worldbank.org/home).\n\nThe World Bank's PIP data is a large collection of household surveys where steps have been taken by the World Bank to harmonize definitions and methods across countries and over time.\n\nAbout the comparability of household surveys\n\nThere is no global survey of incomes. To understand how incomes across the world compare, researchers need to rely on available national surveys.\nSuch surveys are designed with cross-country comparability in mind, but because the surveys reflect the circumstances and priorities of individual countries at the time of the survey, there are some important differences.\n\nIncome vs expenditure surveys\n\nOne important issue is that the survey data included within the PIP database tends to measure people's income in high-income countries, and people's consumption expenditure in poorer countries. The two concepts are closely related: the income of a household equals their consumption plus any saving (or minus any borrowing). But they can nonetheless give quite different indications of households' welfare, especially among richer households who tend to save more, or older households that are dissaving in retirement.\n\nOther comparability issues\n\nThere are a number of other ways in which comparability across surveys can be limited. The PIP Methodology Handbook (https://worldbank.github.io/PIP-Methodology/index.html) provides a good summary of the comparability and data quality issues affecting this data and how it tries to address them.\n\nIn collating this survey data the World Bank takes a range of steps to harmonize it where possible, but comparability issues remain. These affect comparisons both across countries and within individual countries over time.\n\nGlobal and regional poverty estimates\n\nAlong with data for individual countries derived from household surveys, the World Bank also provides global and regional poverty estimates. Since surveys are not conducted annually in every country, in order to produce these aggregate estimates for a given year, the World Bank takes the surveys falling closest to that year for each country and 'lines-up' the data to the year being estimated by projecting it forwards or backwards.\n\nThis lining-up is generally done on the assumption that household incomes or expenditure grow in line with the growth rates observed in national accounts data. You can read more about the interpolation methods used by the World Bank in Chapter 5 (https://worldbank.github.io/PIP-Methodology/lineupestimates.html) of the Poverty and Inequality Platform Methodology Handbook.\n\nHow does the data account for inflation and for differences in the cost of living across countries?\n\nTo account for inflation and price differences across countries, the data is measured in 2011 international-$.\n\nThe international-$ is a hypothetical currency that results from price adjustments across time and place. It is defined as having the same purchasing power as one US-$ would in the United States in a given base year -- in this case 2011. One int.-$ buys the same quantity of goods and services no matter where or when it is spent.\nThere are many challenges to making such adjustments and they are far from perfect. Angus Deaton (Deaton, 2010: https://rpds.princeton.edu/sites/g/files/toruqf1956/files/media/deaton_price_indexes_inequality_and_the_measurement_of_world_poverty_aer.pdf) provides a good discussion of the difficulties involved in price adjustments and how this relates to global poverty measurement.\nBut in a world where price differences across countries and over time are large it is important to attempt to account for these differences as well as possible, and this is what these adjustments do.\n\nAbsolute vs relative poverty lines\n\nThis dataset provides poverty estimates for a range of absolute and relative poverty lines.\nAn absolute poverty line represents a fixed standard of living; a threshold that is held constant across time. Within the World Bank's poverty data, absolute poverty lines also aim to represent a standard of living that is fixed across countries (by converting local currencies to international-$). The International Poverty Line of $1.90 per day is the best known absolute poverty line and is used by the World Bank and the UN to measure extreme poverty around the world.\n\nRelative poverty lines instead rise and fall in absolute terms as average incomes change within a given country. In most cases they are set at a certain fraction of the median income. Because of this, relative poverty can be considered a metric of inequality -- it measures how spread out the bottom half of the income distribution is.\n\nThe idea behind measuring poverty in relative terms is that a person's well-being depends not on their own absolute standard of living but on how that standard compares with some reference group, or whether it enables them to participate in the norms and customs of their society. For instance, joining a friend's birthday celebration without shame might require more resources in a rich society if the norm is to go for an expensive meal out, or give costly presents.\nOur dataset includes three commonly-used relative poverty lines: 40%, 50%, and 60% of the median.\n\nSuch lines are most commonly used in rich countries, and are the main way poverty is measured by the OECD (https://data.oecd.org/inequality/poverty-rate.htm) and the European Union (https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:At-risk-of-poverty_rate).\nMore recently, relative poverty measures have come to be applied in a global context. The share of people living below 50 per cent of median income is, for instance, one of the UN's Sustainable Development Goal indicators (https://sdg-tracker.org/inequality#10.2). And the World Bank now produces estimates of global poverty using a Societal Poverty Line (https://datatopics.worldbank.org/world-development-indicators/stories/societal-poverty-a-global-measure-of-relative-poverty.html) that combines absolute and relative components.\n\nWhen comparing relative poverty rates around the world, however, it is important to keep in mind that -- since  average incomes are so far apart (https://ourworldindata.org/explorers/poverty-explorer?tab=map&facet=none&hideControls=false&Metric=Median&Poverty+line=%241.90+a+day&Household+survey+data+type=Show+data+from+both+income+and+expenditure+surveys&country=IND~MOZ~BRA~MDG~GHA) -- such relative poverty lines relate to very different standards of living in rich and poor countries.\n\nDoes the data account for non-market income, such as food grown by subsistence farmers?\n\nMany poor people today, as in the past, rely on subsistence farming rather than a monetary income gained from selling goods or their labor on the market. To take this into account and make a fair comparison of their living standards, the statisticians that produce these figures estimate the monetary value of their home production and add it to their income/expenditure.",
+      "additionalInfo": "The Poverty and Inequality Platform (PIP) is an interactive computational tool that offers users quick access to the World Bank’s estimates of poverty, inequality, and shared prosperity. PIP provides a comprehensive view of global, regional, and country-level trends for more than 150 economies around the world.\n\nVersion 20220909_2017_01_02_PROD\n\nAbout this data\nWhere is this data sourced from?\n\nThis dataset is collated and adapted from the World Bank's Poverty and Inequality Platform (PIP, https://pip.worldbank.org/home).\n\nThe World Bank's PIP data is a large collection of household surveys where steps have been taken by the World Bank to harmonize definitions and methods across countries and over time.\n\nAbout the comparability of household surveys\n\nThere is no global survey of incomes. To understand how incomes across the world compare, researchers need to rely on available national surveys.\nSuch surveys are designed with cross-country comparability in mind, but because the surveys reflect the circumstances and priorities of individual countries at the time of the survey, there are some important differences.\n\nIncome vs expenditure surveys\n\nOne important issue is that the survey data included within the PIP database tends to measure people's income in high-income countries, and people's consumption expenditure in poorer countries. The two concepts are closely related: the income of a household equals their consumption plus any saving (or minus any borrowing). But they can nonetheless give quite different indications of households' welfare, especially among richer households who tend to save more, or older households that are dissaving in retirement.\n\nOther comparability issues\n\nThere are a number of other ways in which comparability across surveys can be limited. The PIP Methodology Handbook (https://worldbank.github.io/PIP-Methodology/index.html) provides a good summary of the comparability and data quality issues affecting this data and how it tries to address them.\n\nIn collating this survey data the World Bank takes a range of steps to harmonize it where possible, but comparability issues remain. These affect comparisons both across countries and within individual countries over time.\n\nGlobal and regional poverty estimates\n\nAlong with data for individual countries derived from household surveys, the World Bank also provides global and regional poverty estimates. Since surveys are not conducted annually in every country, in order to produce these aggregate estimates for a given year, the World Bank takes the surveys falling closest to that year for each country and 'lines-up' the data to the year being estimated by projecting it forwards or backwards.\n\nThis lining-up is generally done on the assumption that household incomes or expenditure grow in line with the growth rates observed in national accounts data. You can read more about the interpolation methods used by the World Bank in Chapter 5 (https://worldbank.github.io/PIP-Methodology/lineupestimates.html) of the Poverty and Inequality Platform Methodology Handbook.\n\nHow does the data account for inflation and for differences in the cost of living across countries?\n\nTo account for inflation and price differences across countries, the data is measured in 2017 international-$.\n\nThe international-$ is a hypothetical currency that results from price adjustments across time and place. It is defined as having the same purchasing power as one US-$ would in the United States in a given base year -- in this case 2017. One int.-$ buys the same quantity of goods and services no matter where or when it is spent.\nThere are many challenges to making such adjustments and they are far from perfect. Angus Deaton (Deaton, 2010: https://rpds.princeton.edu/sites/g/files/toruqf1956/files/media/deaton_price_indexes_inequality_and_the_measurement_of_world_poverty_aer.pdf) provides a good discussion of the difficulties involved in price adjustments and how this relates to global poverty measurement.\nBut in a world where price differences across countries and over time are large it is important to attempt to account for these differences as well as possible, and this is what these adjustments do.\n\nAbsolute vs relative poverty lines\n\nThis dataset provides poverty estimates for a range of absolute and relative poverty lines.\nAn absolute poverty line represents a fixed standard of living; a threshold that is held constant across time. Within the World Bank's poverty data, absolute poverty lines also aim to represent a standard of living that is fixed across countries (by converting local currencies to international-$). The International Poverty Line of $1.90 per day is the best known absolute poverty line and is used by the World Bank and the UN to measure extreme poverty around the world.\n\nRelative poverty lines instead rise and fall in absolute terms as average incomes change within a given country. In most cases they are set at a certain fraction of the median income. Because of this, relative poverty can be considered a metric of inequality -- it measures how spread out the bottom half of the income distribution is.\n\nThe idea behind measuring poverty in relative terms is that a person's well-being depends not on their own absolute standard of living but on how that standard compares with some reference group, or whether it enables them to participate in the norms and customs of their society. For instance, joining a friend's birthday celebration without shame might require more resources in a rich society if the norm is to go for an expensive meal out, or give costly presents.\nOur dataset includes three commonly-used relative poverty lines: 40%, 50%, and 60% of the median.\n\nSuch lines are most commonly used in rich countries, and are the main way poverty is measured by the OECD (https://data.oecd.org/inequality/poverty-rate.htm) and the European Union (https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:At-risk-of-poverty_rate).\nMore recently, relative poverty measures have come to be applied in a global context. The share of people living below 50 per cent of median income is, for instance, one of the UN's Sustainable Development Goal indicators (https://sdg-tracker.org/inequality#10.2). And the World Bank now produces estimates of global poverty using a Societal Poverty Line (https://datatopics.worldbank.org/world-development-indicators/stories/societal-poverty-a-global-measure-of-relative-poverty.html) that combines absolute and relative components.\n\nWhen comparing relative poverty rates around the world, however, it is important to keep in mind that -- since  average incomes are so far apart (https://ourworldindata.org/explorers/poverty-explorer?tab=map&facet=none&hideControls=false&Metric=Median&Poverty+line=%241.90+a+day&Household+survey+data+type=Show+data+from+both+income+and+expenditure+surveys&country=IND~MOZ~BRA~MDG~GHA) -- such relative poverty lines relate to very different standards of living in rich and poor countries.\n\nDoes the data account for non-market income, such as food grown by subsistence farmers?\n\nMany poor people today, as in the past, rely on subsistence farming rather than a monetary income gained from selling goods or their labor on the market. To take this into account and make a fair comparison of their living standards, the statisticians that produce these figures estimate the monetary value of their home production and add it to their income/expenditure.",
       "dataPublishedBy": "World Bank Poverty and Inequality Platform",
       "dataPublisherSource": "World Bank Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments."
     }
@@ -34,13 +34,13 @@
             "name": "Mean income or expenditure per day",
             "type": "any",
             "description": "The mean level of income or expenditure per day.",
-            "owidDisplaySettings": "{\"unit\": \"international-$ at 2011 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"international-$ at 2017 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
           },
           {
             "name": "Median income or expenditure per day",
             "type": "any",
             "description": "The level of income or expenditure per day below which half of the population live.",
-            "owidDisplaySettings": "{\"unit\": \"international-$ at 2011 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"international-$ at 2017 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
           },
           {
             "name": "$1 - total number of people below poverty line",
@@ -49,21 +49,21 @@
             "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "$1.90 - total number of people below poverty line",
+            "name": "$2.15 - total number of people below poverty line",
             "type": "any",
-            "description": "Number of people living in households with an income or expenditure per person below $1.90 a day",
+            "description": "Number of people living in households with an income or expenditure per person below $2.15 a day",
             "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "$3.20 - total number of people below poverty line",
+            "name": "$3.65 - total number of people below poverty line",
             "type": "any",
-            "description": "Number of people living in households with an income or expenditure per person below $3.20 a day",
+            "description": "Number of people living in households with an income or expenditure per person below $3.65 a day",
             "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "$5.50 - total number of people below poverty line",
+            "name": "$6.85 - total number of people below poverty line",
             "type": "any",
-            "description": "Number of people living in households with an income or expenditure per person below $5.50 a day",
+            "description": "Number of people living in households with an income or expenditure per person below $6.85 a day",
             "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
@@ -97,21 +97,21 @@
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "$1.90 a day - share of population below poverty line",
+            "name": "$2.15 a day - share of population below poverty line",
             "type": "any",
-            "description": "% of population living in households with an income or expenditure per person below $1.90 a day",
+            "description": "% of population living in households with an income or expenditure per person below $2.15 a day",
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "$3.20 a day - share of population below poverty line",
+            "name": "$3.65 a day - share of population below poverty line",
             "type": "any",
-            "description": "% of population living in households with an income or expenditure per person below $3.20 a day",
+            "description": "% of population living in households with an income or expenditure per person below $3.65 a day",
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "$5.50 a day - share of population below poverty line",
+            "name": "$6.85 a day - share of population below poverty line",
             "type": "any",
-            "description": "% of population living in households with an income or expenditure per person below $5.50 a day",
+            "description": "% of population living in households with an income or expenditure per person below $6.85 a day",
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
@@ -145,21 +145,21 @@
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "$1.90 a day - poverty gap index",
+            "name": "$2.15 a day - poverty gap index",
             "type": "any",
-            "description": "The poverty gap index calculated at a poverty line of $1.90 a day.\n\nThe poverty gap index is a measure that reflects both the depth and prevalence of poverty. It is defined as the mean shortfall of the total population from the poverty line counting the non-poor as having zero shortfall and expressed as a percentage of the poverty line. \n\nIt is worth unpacking that definition a little. For those below the poverty line, the shortfall corresponds to the amount of money required in order to reach the poverty line. For those at or above the poverty line, the shortfall is counted as zero. The average shortfall is then calculated across the total population – both poor and non-poor – and then expressed as a share of the poverty line.\n\nUnlike the more commonly-used metric of the headcount ratio, the poverty gap index is thus sensitive not only to whether a person’s income falls below the poverty line or not, but also by how much – i.e. to the depth of poverty they experience.",
+            "description": "The poverty gap index calculated at a poverty line of $2.15 a day.\n\nThe poverty gap index is a measure that reflects both the depth and prevalence of poverty. It is defined as the mean shortfall of the total population from the poverty line counting the non-poor as having zero shortfall and expressed as a percentage of the poverty line. \n\nIt is worth unpacking that definition a little. For those below the poverty line, the shortfall corresponds to the amount of money required in order to reach the poverty line. For those at or above the poverty line, the shortfall is counted as zero. The average shortfall is then calculated across the total population – both poor and non-poor – and then expressed as a share of the poverty line.\n\nUnlike the more commonly-used metric of the headcount ratio, the poverty gap index is thus sensitive not only to whether a person’s income falls below the poverty line or not, but also by how much – i.e. to the depth of poverty they experience.",
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "$3.20 a day - poverty gap index",
+            "name": "$3.65 a day - poverty gap index",
             "type": "any",
-            "description": "The poverty gap index calculated at a poverty line of $3.20 a day.\n\nThe poverty gap index is a measure that reflects both the depth and prevalence of poverty. It is defined as the mean shortfall of the total population from the poverty line counting the non-poor as having zero shortfall and expressed as a percentage of the poverty line. \n\nIt is worth unpacking that definition a little. For those below the poverty line, the shortfall corresponds to the amount of money required in order to reach the poverty line. For those at or above the poverty line, the shortfall is counted as zero. The average shortfall is then calculated across the total population – both poor and non-poor – and then expressed as a share of the poverty line.\n\nUnlike the more commonly-used metric of the headcount ratio, the poverty gap index is thus sensitive not only to whether a person’s income falls below the poverty line or not, but also by how much – i.e. to the depth of poverty they experience.",
+            "description": "The poverty gap index calculated at a poverty line of $3.65 a day.\n\nThe poverty gap index is a measure that reflects both the depth and prevalence of poverty. It is defined as the mean shortfall of the total population from the poverty line counting the non-poor as having zero shortfall and expressed as a percentage of the poverty line. \n\nIt is worth unpacking that definition a little. For those below the poverty line, the shortfall corresponds to the amount of money required in order to reach the poverty line. For those at or above the poverty line, the shortfall is counted as zero. The average shortfall is then calculated across the total population – both poor and non-poor – and then expressed as a share of the poverty line.\n\nUnlike the more commonly-used metric of the headcount ratio, the poverty gap index is thus sensitive not only to whether a person’s income falls below the poverty line or not, but also by how much – i.e. to the depth of poverty they experience.",
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "$5.50 a day - poverty gap index",
+            "name": "$6.85 a day - poverty gap index",
             "type": "any",
-            "description": "The poverty gap index calculated at a poverty line of $5.50 a day.\n\nThe poverty gap index is a measure that reflects both the depth and prevalence of poverty. It is defined as the mean shortfall of the total population from the poverty line counting the non-poor as having zero shortfall and expressed as a percentage of the poverty line. \n\nIt is worth unpacking that definition a little. For those below the poverty line, the shortfall corresponds to the amount of money required in order to reach the poverty line. For those at or above the poverty line, the shortfall is counted as zero. The average shortfall is then calculated across the total population – both poor and non-poor – and then expressed as a share of the poverty line.\n\nUnlike the more commonly-used metric of the headcount ratio, the poverty gap index is thus sensitive not only to whether a person’s income falls below the poverty line or not, but also by how much – i.e. to the depth of poverty they experience.",
+            "description": "The poverty gap index calculated at a poverty line of $6.85 a day.\n\nThe poverty gap index is a measure that reflects both the depth and prevalence of poverty. It is defined as the mean shortfall of the total population from the poverty line counting the non-poor as having zero shortfall and expressed as a percentage of the poverty line. \n\nIt is worth unpacking that definition a little. For those below the poverty line, the shortfall corresponds to the amount of money required in order to reach the poverty line. For those at or above the poverty line, the shortfall is counted as zero. The average shortfall is then calculated across the total population – both poor and non-poor – and then expressed as a share of the poverty line.\n\nUnlike the more commonly-used metric of the headcount ratio, the poverty gap index is thus sensitive not only to whether a person’s income falls below the poverty line or not, but also by how much – i.e. to the depth of poverty they experience.",
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
@@ -226,13 +226,13 @@
             "name": "P10",
             "type": "any",
             "description": "The level of income or expenditure per day below which 10% of the population falls.",
-            "owidDisplaySettings": "{\"unit\": \"international-$ at 2011 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"international-$ at 2017 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
           },
           {
             "name": "P90",
             "type": "any",
             "description": "The level of income or expenditure per day below which 90% of the population falls.",
-            "owidDisplaySettings": "{\"unit\": \"international-$ at 2011 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"international-$ at 2017 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
           },
           {
             "name": "Gini coefficient",
@@ -244,49 +244,49 @@
             "name": "$1 a day - total shortfall",
             "type": "any",
             "description": "The total shortfall from a poverty line of $1 a day.\n\nThis is the amount of money that would be theoretically needed to lift the income or expenditure of all people in poverty up to the poverty line. However this is not a measure of the actual cost of eliminating poverty, since it does not take into account the costs involved in making the necessary transfers nor any changes in behaviour they would bring about.",
-            "owidDisplaySettings": "{\"unit\": \"international-$ at 2011 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"international-$ at 2017 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
           },
           {
-            "name": "$1.90 a day - total shortfall",
+            "name": "$2.15 a day - total shortfall",
             "type": "any",
-            "description": "The total shortfall from a poverty line of $1.90 a day.\n\nThis is the amount of money that would be theoretically needed to lift the income or expenditure of all people in poverty up to the poverty line. However this is not a measure of the actual cost of eliminating poverty, since it does not take into account the costs involved in making the necessary transfers nor any changes in behaviour they would bring about.",
-            "owidDisplaySettings": "{\"unit\": \"international-$ at 2011 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+            "description": "The total shortfall from a poverty line of $2.15 a day.\n\nThis is the amount of money that would be theoretically needed to lift the income or expenditure of all people in poverty up to the poverty line. However this is not a measure of the actual cost of eliminating poverty, since it does not take into account the costs involved in making the necessary transfers nor any changes in behaviour they would bring about.",
+            "owidDisplaySettings": "{\"unit\": \"international-$ at 2017 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
           },
           {
-            "name": "$3.20 a day - total shortfall",
+            "name": "$3.65 a day - total shortfall",
             "type": "any",
-            "description": "The total shortfall from a poverty line of $3.20 a day.\n\nThis is the amount of money that would be theoretically needed to lift the income or expenditure of all people in poverty up to the poverty line. However this is not a measure of the actual cost of eliminating poverty, since it does not take into account the costs involved in making the necessary transfers nor any changes in behaviour they would bring about.",
-            "owidDisplaySettings": "{\"unit\": \"international-$ at 2011 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+            "description": "The total shortfall from a poverty line of $3.65 a day.\n\nThis is the amount of money that would be theoretically needed to lift the income or expenditure of all people in poverty up to the poverty line. However this is not a measure of the actual cost of eliminating poverty, since it does not take into account the costs involved in making the necessary transfers nor any changes in behaviour they would bring about.",
+            "owidDisplaySettings": "{\"unit\": \"international-$ at 2017 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
           },
           {
-            "name": "$5.50 a day - total shortfall",
+            "name": "$6.85 a day - total shortfall",
             "type": "any",
-            "description": "The total shortfall from a poverty line of $5.50 a day.\n\nThis is the amount of money that would be theoretically needed to lift the income or expenditure of all people in poverty up to the poverty line. However this is not a measure of the actual cost of eliminating poverty, since it does not take into account the costs involved in making the necessary transfers nor any changes in behaviour they would bring about.",
-            "owidDisplaySettings": "{\"unit\": \"international-$ at 2011 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+            "description": "The total shortfall from a poverty line of $6.85 a day.\n\nThis is the amount of money that would be theoretically needed to lift the income or expenditure of all people in poverty up to the poverty line. However this is not a measure of the actual cost of eliminating poverty, since it does not take into account the costs involved in making the necessary transfers nor any changes in behaviour they would bring about.",
+            "owidDisplaySettings": "{\"unit\": \"international-$ at 2017 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
           },
           {
             "name": "$10 a day - total shortfall",
             "type": "any",
             "description": "The total shortfall from a poverty line of $10 a day.\n\nThis is the amount of money that would be theoretically needed to lift the income or expenditure of all people in poverty up to the poverty line. However this is not a measure of the actual cost of eliminating poverty, since it does not take into account the costs involved in making the necessary transfers nor any changes in behaviour they would bring about.",
-            "owidDisplaySettings": "{\"unit\": \"international-$ at 2011 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"international-$ at 2017 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
           },
           {
             "name": "$20 a day - total shortfall",
             "type": "any",
             "description": "The total shortfall from a poverty line of $20 a day.\n\nThis is the amount of money that would be theoretically needed to lift the income or expenditure of all people in poverty up to the poverty line. However this is not a measure of the actual cost of eliminating poverty, since it does not take into account the costs involved in making the necessary transfers nor any changes in behaviour they would bring about.",
-            "owidDisplaySettings": "{\"unit\": \"international-$ at 2011 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"international-$ at 2017 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
           },
           {
             "name": "$30 a day - total shortfall",
             "type": "any",
             "description": "The total shortfall from a poverty line of $30 a day.\n\nThis is the amount of money that would be theoretically needed to lift the income or expenditure of all people in poverty up to the poverty line. However this is not a measure of the actual cost of eliminating poverty, since it does not take into account the costs involved in making the necessary transfers nor any changes in behaviour they would bring about.",
-            "owidDisplaySettings": "{\"unit\": \"international-$ at 2011 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"international-$ at 2017 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
           },
           {
             "name": "$40 a day - total shortfall",
             "type": "any",
             "description": "The total shortfall from a poverty line of $40 a day.\n\nThis is the amount of money that would be theoretically needed to lift the income or expenditure of all people in poverty up to the poverty line. However this is not a measure of the actual cost of eliminating poverty, since it does not take into account the costs involved in making the necessary transfers nor any changes in behaviour they would bring about.",
-            "owidDisplaySettings": "{\"unit\": \"international-$ at 2011 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"international-$ at 2017 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
           },
           {
             "name": "$1 - total number of people above poverty line",
@@ -295,21 +295,21 @@
             "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "$1.90 - total number of people above poverty line",
+            "name": "$2.15 - total number of people above poverty line",
             "type": "any",
-            "description": "Number of people living in households with an income or expenditure per person above $1.90 a day",
+            "description": "Number of people living in households with an income or expenditure per person above $2.15 a day",
             "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "$3.20 - total number of people above poverty line",
+            "name": "$3.65 - total number of people above poverty line",
             "type": "any",
-            "description": "Number of people living in households with an income or expenditure per person above $3.20 a day",
+            "description": "Number of people living in households with an income or expenditure per person above $3.65 a day",
             "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "$5.50 - total number of people above poverty line",
+            "name": "$6.85 - total number of people above poverty line",
             "type": "any",
-            "description": "Number of people living in households with an income or expenditure per person above $5.50 a day",
+            "description": "Number of people living in households with an income or expenditure per person above $6.85 a day",
             "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
@@ -343,21 +343,21 @@
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "$1.90 - share of population above poverty line",
+            "name": "$2.15 - share of population above poverty line",
             "type": "any",
-            "description": "% of population living in households with an income or expenditure per person above $1.90 a day",
+            "description": "% of population living in households with an income or expenditure per person above $2.15 a day",
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "$3.20 - share of population above poverty line",
+            "name": "$3.65 - share of population above poverty line",
             "type": "any",
-            "description": "% of population living in households with an income or expenditure per person above $3.20 a day",
+            "description": "% of population living in households with an income or expenditure per person above $3.65 a day",
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "$5.50 - share of population above poverty line",
+            "name": "$6.85 - share of population above poverty line",
             "type": "any",
-            "description": "% of population living in households with an income or expenditure per person above $5.50 a day",
+            "description": "% of population living in households with an income or expenditure per person above $6.85 a day",
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
@@ -385,27 +385,27 @@
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "$1-$1.90 - total number of people between poverty lines",
+            "name": "$1-$2.15 - total number of people between poverty lines",
             "type": "any",
-            "description": "Number of people living in households with an income or expenditure per person between $1 and $1.90 a day",
+            "description": "Number of people living in households with an income or expenditure per person between $1 and $2.15 a day",
             "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "$1.90-$3.20 - total number of people between poverty lines",
+            "name": "$2.15-$3.65 - total number of people between poverty lines",
             "type": "any",
-            "description": "Number of people living in households with an income or expenditure per person between $1.90 and $3.20 a day",
+            "description": "Number of people living in households with an income or expenditure per person between $2.15 and $3.65 a day",
             "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "$3.20-$5.50 - total number of people between poverty lines",
+            "name": "$3.65-$6.85 - total number of people between poverty lines",
             "type": "any",
-            "description": "Number of people living in households with an income or expenditure per person between $3.20 and $5.50 a day",
+            "description": "Number of people living in households with an income or expenditure per person between $3.65 and $6.85 a day",
             "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "$5.50-$10 - total number of people between poverty lines",
+            "name": "$6.85-$10 - total number of people between poverty lines",
             "type": "any",
-            "description": "Number of people living in households with an income or expenditure per person between $5.50 and $10 a day",
+            "description": "Number of people living in households with an income or expenditure per person between $6.85 and $10 a day",
             "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
@@ -427,27 +427,27 @@
             "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "$1-$1.90 - share of population between poverty lines",
+            "name": "$1-$2.15 - share of population between poverty lines",
             "type": "any",
-            "description": "% of population living in households with an income or expenditure per person between $1 and $1.90 a day",
+            "description": "% of population living in households with an income or expenditure per person between $1 and $2.15 a day",
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "$1.90-$3.20 - share of population between poverty lines",
+            "name": "$2.15-$3.65 - share of population between poverty lines",
             "type": "any",
-            "description": "% of population living in households with an income or expenditure per person between $1.90 and $3.20 a day",
+            "description": "% of population living in households with an income or expenditure per person between $2.15 and $3.65 a day",
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "$3.20-$5.50 - share of population between poverty lines",
+            "name": "$3.65-$6.85 - share of population between poverty lines",
             "type": "any",
-            "description": "% of population living in households with an income or expenditure per person between $3.20 and $5.50 a day",
+            "description": "% of population living in households with an income or expenditure per person between $3.65 and $6.85 a day",
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "$5.50-$10 - share of population between poverty lines",
+            "name": "$6.85-$10 - share of population between poverty lines",
             "type": "any",
-            "description": "% of population living in households with an income or expenditure per person between $5.50 and $10 a day",
+            "description": "% of population living in households with an income or expenditure per person between $6.85 and $10 a day",
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
@@ -469,9 +469,9 @@
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "$1.90-$10 - total number of people between poverty lines",
+            "name": "$2.15-$10 - total number of people between poverty lines",
             "type": "any",
-            "description": "Number of people living in households with an income or expenditure per person between $1.90 and $10 a day",
+            "description": "Number of people living in households with an income or expenditure per person between $2.15 and $10 a day",
             "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
@@ -481,9 +481,9 @@
             "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "$1.90-$10 - share of population between poverty lines",
+            "name": "$2.15-$10 - share of population between poverty lines",
             "type": "any",
-            "description": "% of population living in households with an income or expenditure per person between $1.90 and $10 a day",
+            "description": "% of population living in households with an income or expenditure per person between $2.15 and $10 a day",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
@@ -529,37 +529,37 @@
             "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
-            "name": "$21.70 - total number of people below poverty line",
+            "name": "$24.35 - total number of people below poverty line",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "$21.70 a day - share of population below poverty line",
+            "name": "$24.35 a day - share of population below poverty line",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "$21.70 a day - poverty gap index",
+            "name": "$24.35 a day - poverty gap index",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "$21.70 a day - total shortfall",
+            "name": "$24.35 a day - total shortfall",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "$21.70 - total number of people above poverty line",
+            "name": "$24.35 - total number of people above poverty line",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"
           },
           {
-            "name": "$21.70 - share of population above poverty line",
+            "name": "$24.35 - share of population above poverty line",
             "type": "any",
             "description": null,
             "owidDisplaySettings": "{}"

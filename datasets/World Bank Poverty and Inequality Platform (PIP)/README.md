@@ -2,7 +2,7 @@
 
 The Poverty and Inequality Platform (PIP) is an interactive computational tool that offers users quick access to the World Bank’s estimates of poverty, inequality, and shared prosperity. PIP provides a comprehensive view of global, regional, and country-level trends for more than 150 economies around the world.
 
-Version 20220909_2011_02_02_PROD
+Version 20220909_2017_01_02_PROD
 
 About this data
 Where is this data sourced from?
@@ -34,9 +34,9 @@ This lining-up is generally done on the assumption that household incomes or exp
 
 How does the data account for inflation and for differences in the cost of living across countries?
 
-To account for inflation and price differences across countries, the data is measured in 2011 international-$.
+To account for inflation and price differences across countries, the data is measured in 2017 international-$.
 
-The international-$ is a hypothetical currency that results from price adjustments across time and place. It is defined as having the same purchasing power as one US-$ would in the United States in a given base year -- in this case 2011. One int.-$ buys the same quantity of goods and services no matter where or when it is spent.
+The international-$ is a hypothetical currency that results from price adjustments across time and place. It is defined as having the same purchasing power as one US-$ would in the United States in a given base year -- in this case 2017. One int.-$ buys the same quantity of goods and services no matter where or when it is spent.
 There are many challenges to making such adjustments and they are far from perfect. Angus Deaton (Deaton, 2010: https://rpds.princeton.edu/sites/g/files/toruqf1956/files/media/deaton_price_indexes_inequality_and_the_measurement_of_world_poverty_aer.pdf) provides a good discussion of the difficulties involved in price adjustments and how this relates to global poverty measurement.
 But in a world where price differences across countries and over time are large it is important to attempt to account for these differences as well as possible, and this is what these adjustments do.
 
