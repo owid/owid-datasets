@@ -2,13 +2,13 @@
   "name": "World Bank Poverty and Inequality Platform (PIP)",
   "title": "World Bank Poverty and Inequality Platform (PIP)",
   "id": 5689,
-  "description": "The Poverty and Inequality Platform (PIP) is an interactive computational tool that offers users quick access to the World Bank’s estimates of poverty, inequality, and shared prosperity. PIP provides a comprehensive view of global, regional, and country-level trends for more than 150 economies around the world.\n\nVersion 20220909_2017_01_02_PROD\n\nYou can read more information about the data and methodology in <a href=\"https://github.com/owid/poverty-data\">GitHub</a>.",
+  "description": "The Poverty and Inequality Platform (PIP) is an interactive computational tool that offers users quick access to the World Bank’s estimates of poverty, inequality, and shared prosperity. PIP provides a comprehensive view of global, regional, and country-level trends for more than 150 economies around the world.\n\nVersion 20220909_2017_01_02_PROD\n\nYou can read more information about PIP data and methodology in <a href=\"https://github.com/owid/poverty-data\">GitHub</a>.",
   "sources": [
     {
       "name": "World Bank Poverty and Inequality Platform",
       "link": "https://pip.worldbank.org/",
       "retrievedDate": "2022-10-03",
-      "additionalInfo": "The Poverty and Inequality Platform (PIP) is an interactive computational tool that offers users quick access to the World Bank’s estimates of poverty, inequality, and shared prosperity. PIP provides a comprehensive view of global, regional, and country-level trends for more than 150 economies around the world.\n\nVersion 20220909_2017_01_02_PROD\n\nYou can read more information about the data and methodology in <a href=\"https://github.com/owid/poverty-data\">GitHub</a>.",
+      "additionalInfo": "The Poverty and Inequality Platform (PIP) is an interactive computational tool that offers users quick access to the World Bank’s estimates of poverty, inequality, and shared prosperity. PIP provides a comprehensive view of global, regional, and country-level trends for more than 150 economies around the world.\n\nVersion 20220909_2017_01_02_PROD\n\nYou can read more information about PIP data and methodology in <a href=\"https://github.com/owid/poverty-data\">GitHub</a>.",
       "dataPublishedBy": "World Bank Poverty and Inequality Platform",
       "dataPublisherSource": "World Bank Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments."
     }

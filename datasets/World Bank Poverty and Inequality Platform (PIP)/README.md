@@ -4,4 +4,4 @@ The Poverty and Inequality Platform (PIP) is an interactive computational tool t
 
 Version 20220909_2017_01_02_PROD
 
-You can read more information about the data and methodology in <a href="https://github.com/owid/poverty-data">GitHub</a>.
+You can read more information about PIP data and methodology in <a href="https://github.com/owid/poverty-data">GitHub</a>.
