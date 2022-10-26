@@ -1,6 +1,6 @@
 {
-  "name": "Democracy - OWID based on Varieties of Democracy (v12) and Regimes of the World",
-  "title": "Democracy - OWID based on Varieties of Democracy (v12) and Regimes of the World",
+  "name": "Democracy and Human rights - OWID based on Varieties of Democracy (v12) and Regimes of the World",
+  "title": "Democracy and Human rights - OWID based on Varieties of Democracy (v12) and Regimes of the World",
   "id": 5600,
   "description": "This dataset provides information on democracy and human rights, using data from the Varieties of Democracy project (v12), and the Regimes of the World classification by Lührmann et al. (2018).\n\nWe expand the countries and years covered, and refine the coding of the Regimes of the World classification. You can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
   "sources": [
@@ -18,7 +18,7 @@
   ],
   "resources": [
     {
-      "path": "Democracy - OWID based on Varieties of Democracy (v12) and Regimes of the World.csv",
+      "path": "Democracy and Human rights - OWID based on Varieties of Democracy (v12) and Regimes of the World.csv",
       "schema": {
         "fields": [
           {
