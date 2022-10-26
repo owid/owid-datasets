@@ -2,13 +2,13 @@
   "name": "Democracy - OWID based on Varieties of Democracy (v12) and Regimes of the World",
   "title": "Democracy - OWID based on Varieties of Democracy (v12) and Regimes of the World",
   "id": 5600,
-  "description": "This dataset provides information on political regimes, using data from the Varieties of Democracy project (v12), and the Regimes of the World classification by Lührmann et al. (2018).\n\nWe expand the countries and years covered, and refine the coding of the Regimes of the World classification. You can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
+  "description": "This dataset provides information on democracy and human rights, using data from the Varieties of Democracy project (v12), and the Regimes of the World classification by Lührmann et al. (2018).\n\nWe expand the countries and years covered, and refine the coding of the Regimes of the World classification. You can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
   "sources": [
     {
       "name": "OWID based on V-Dem (v12) and Lührmann et al. (2018)",
       "link": "http://v-dem.net/vdemds.html",
       "retrievedDate": "March 2, 2022",
-      "additionalInfo": "This dataset provides information on political regimes, using data from the Varieties of Democracy project (v12), and the Regimes of the World classification by Lührmann et al. (2018).\n\nWe expand the countries and years covered, and refine the coding of the Regimes of the World classification. You can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
+      "additionalInfo": "This dataset provides information on democracy and human rights, using data from the Varieties of Democracy project (v12), and the Regimes of the World classification by Lührmann et al. (2018).\n\nWe expand the countries and years covered, and refine the coding of the Regimes of the World classification. You can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
       "dataPublishedBy": "Our World in Data, Bastian Herre",
       "dataPublisherSource": "Data comes from the Varieties of Democracy project (v12), sometimes using Lührmann et al's (2018) Regimes of the World classification, and own expansions and refinements."
     }
@@ -260,7 +260,7 @@
           {
             "name": "electoff_vdem_owid",
             "type": "any",
-            "description": "The variable measures the extent to which the legislature is chosen through popular elections, and the chief executive is elected directly or indirectly (appointed by a popularly elected legislature).\n\nIt is based on the V-Dem variable v2x_elecoff, and we expand it to cover more years for some countries.\n\nA popular election can still mean that suffrage is limited and there is no competition for these offices.\n\nThe variable is based on the V-Dem variable v2x_elecoff, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (chief executive and legislature fully elected).",
+            "description": "The variable measures the extent to which the legislature is chosen through broad elections, and the chief executive is elected directly or indirectly (appointed by a popularly elected legislature).\n\nIt is based on the V-Dem variable v2x_elecoff, and we expand it to cover more years for some countries.\n\nA popular election can still mean that suffrage is limited and there is no competition for these offices.\n\nThe variable is based on the V-Dem variable v2x_elecoff, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (chief executive and legislature fully elected).",
             "owidDisplaySettings": "{\"name\": \"Elected political leaders\", \"includeInTable\": true}"
           },
           {
@@ -282,19 +282,19 @@
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "civlib_vdem_owid",
+            "name": "indiv_libs_vdem_owid",
             "type": "any",
             "description": "The variable denotes the best estimate of the extent to which extent to which citizens enjoy physical integrity rights, freedoms of religion, of movement, and from forced labor, as well as access to justice, laws are transparent and public administration is impartial.\n\nIt is based on the V-Dem variable v2xcl_rol, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most rights).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "civlib_vdem_low_owid",
+            "name": "indiv_libs_vdem_low_owid",
             "type": "any",
             "description": "The variable denotes the lower-bound estimate of the extent to which extent to which citizens enjoy physical integrity rights, freedoms of religion, of movement, and from forced labor, as well as access to justice, laws are transparent and public administration is impartial.\n\nIt is based on the V-Dem variable v2xcl_rol_codelow, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most rights).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
-            "name": "civlib_vdem_high_owid",
+            "name": "indiv_libs_vdem_high_owid",
             "type": "any",
             "description": "The variable denotes the upper-bound estimate of the extent to which extent to which citizens enjoy physical integrity rights, freedoms of religion, of movement, and from forced labor, as well as access to justice, laws are transparent and public administration is impartial.\n\nIt is based on the V-Dem variable v2xcl_rol_codehigh, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most rights).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
@@ -1144,6 +1144,150 @@
             "type": "any",
             "description": "The variable identifies the political regime of a country using the Regimes of the World classification by political scientists Anna Lührmann, Marcus Tannenberg and Staffan Lindberg. It distinguishes between closed autocracies (score 0), electoral autocracies (score 1), and electoral democracies (score 2, including liberal democracies).\n\nIn closed autocracies, citizens do not have the right to either choose the chief executive of the government or the legislature through multi-party elections.\n\nIn electoral autocracies, citizens have the right to choose the chief executive and the legislature through multi-party elections; but they lack some freedoms, such as the freedoms of association or expression, that make the elections meaningful, free, and fair.\n\nIn electoral democracies, citizens have the right to participate in meaningful, free and fair, and multi-party elections.",
             "owidDisplaySettings": "{\"name\": \"Electoral democracy\", \"includeInTable\": true}"
+          },
+          {
+            "name": "civ_libs_vdem_owid",
+            "type": "any",
+            "description": "The variable denotes the central estimate of the extent to which people are free from government torture, political killings, and forced labor, they have property rights, and enjoy the freedoms of movement, religion, expression, and association.\n\nIt is based on the V-Dem variable v2x_civlib and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most rights).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "civ_libs_vdem_low_owid",
+            "type": "any",
+            "description": "The variable denotes the lower-bound estimate of the extent to which people are free from government torture, political killings, and forced labor, they have property rights, and enjoy the freedoms of movement, religion, expression, and association.\n\nIt is based on the V-Dem variable v2x_civlib_codelow and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most rights).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "civ_libs_vdem_high_owid",
+            "type": "any",
+            "description": "The variable denotes the upper-bound estimate of the extent to which people are free from government torture, political killings, and forced labor, they have property rights, and enjoy the freedoms of movement, religion, expression, and association.\n\nIt is based on the V-Dem variable v2x_civlib_codehigh and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most rights).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "phys_integr_libs_vdem_owid",
+            "type": "any",
+            "description": "The variable denotes the central estimate of the extent to which people are free from government torture and political killings.\n\nIt is based on the V-Dem variable v2x_clphy and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most rights).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "phys_integr_libs_vdem_low_owid",
+            "type": "any",
+            "description": "The variable denotes the lower-bound estimate of the extent to which people are free from government torture and political killings.\n\nIt is based on the V-Dem variable v2x_clph_codelow and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most rights).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "phys_integr_libs_vdem_high_owid",
+            "type": "any",
+            "description": "The variable denotes the upper-bound estimate of the extent to which people are free from government torture and political killings.\n\nIt is based on the V-Dem variable v2x_clph_codehigh and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most rights).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "pol_libs_vdem_owid",
+            "type": "any",
+            "description": "The variable denotes the central estimate of the extent to which people enjoy the freedoms of expression and association.\n\nIt is based on the V-Dem variable v2x_clpol and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most liberties).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "pol_libs_vdem_low_owid",
+            "type": "any",
+            "description": "The variable denotes the lower-bound estimate of the extent to which people enjoy the freedoms of expression and association.\n\nIt is based on the V-Dem variable v2x_clpol_codelow and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most liberties).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "pol_libs_vdem_high_owid",
+            "type": "any",
+            "description": "The variable denotes the upper-bound estimate of the extent to which people enjoy the freedoms of expression and association.\n\nIt is based on the V-Dem variable v2x_clpol_codehigh and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most liberties).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "priv_libs_vdem_owid",
+            "type": "any",
+            "description": "The variable denotes the central estimate of  the extent to which people are free from forced labor, have property rights, and enjoy the freedoms of movement and religion.\n\nIt is based on the V-Dem variable v2x_clpriv and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most liberties).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "priv_libs_vdem_low_owid",
+            "type": "any",
+            "description": "The variable denotes the lower-bound estimate of  the extent to which people are free from forced labor, have property rights, and enjoy the freedoms of movement and religion.\n\nIt is based on the V-Dem variable v2x_clpriv_codelow and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most liberties).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "priv_libs_vdem_high_owid",
+            "type": "any",
+            "description": "The variable denotes the upper-bound estimate of  the extent to which people are free from forced labor, have property rights, and enjoy the freedoms of movement and religion.\n\nIt is based on the V-Dem variable v2x_clpriv_codehigh and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most liberties).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "popw_civ_libs_vdem_owid",
+            "type": "any",
+            "description": "The variable denotes the central estimate of the extent to which people are free from government torture, political killings, and forced labor, they have property rights, and enjoy the freedoms of movement, religion, expression, and association, weighted by population.\n\nThe variables ranges from 0 to 1 (most rights).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "popw_civ_libs_vdem_high_owid",
+            "type": "any",
+            "description": "The variable denotes the upper-bound estimate of the extent to which people are free from government torture, political killings, and forced labor, they have property rights, and enjoy the freedoms of movement, religion, expression, and association, weighted by population.\n\nThe variables ranges from 0 to 1 (most rights).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "popw_civ_libs_vdem_low_owid",
+            "type": "any",
+            "description": "The variable denotes the lower-bound estimate of the extent to which people are free from government torture, political killings, and forced labor, they have property rights, and enjoy the freedoms of movement, religion, expression, and association, weighted by population.\n\nThe variables ranges from 0 to 1 (most rights).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "popw_physinteg_libs_vdem_owid",
+            "type": "any",
+            "description": "The variable denotes the central estimate of the extent to which people are free from government torture and political killings, weighted by population.\n\nThe variables ranges from 0 to 1 (most rights).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "popw_physinteg_libs_vdem_h_owid",
+            "type": "any",
+            "description": "The variable denotes the upper-bound estimate of the extent to which people are free from government torture and political killings, weighted by population.\n\nThe variables ranges from 0 to 1 (most rights).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "popw_physinteg_libs_vdem_l_owid",
+            "type": "any",
+            "description": "The variable denotes the lower-bound estimate of the extent to which people are free from government torture and political killings, weighted by population.\n\nThe variables ranges from 0 to 1 (most rights).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "popw_pol_libs_vdem_owid",
+            "type": "any",
+            "description": "The variable denotes the central estimate of the extent to which people enjoy the freedoms of expression and association, weighted by population.\n\nThe variables ranges from 0 to 1 (most liberties).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "popw_pol_libs_vdem_high_owid",
+            "type": "any",
+            "description": "The variable denotes the upper-bound estimate of the extent to which people enjoy the freedoms of expression and association, weighted by population.\n\nThe variables ranges from 0 to 1 (most liberties).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "popw_pol_libs_vdem_low_owid",
+            "type": "any",
+            "description": "The variable denotes the lower-bound estimate of the extent to which people enjoy the freedoms of expression and association, weighted by population.\n\nThe variables ranges from 0 to 1 (most liberties).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "popw_priv_libs_vdem_owid",
+            "type": "any",
+            "description": "The variable denotes the central estimate of  the extent to which people are free from forced labor, have property rights, and enjoy the freedoms of movement and religion, weighted by population.\n\nThe variables ranges from 0 to 1 (most liberties).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "popw_priv_libs_vdem_high_owid",
+            "type": "any",
+            "description": "The variable denotes the upper-bound estimate of  the extent to which people are free from forced labor, have property rights, and enjoy the freedoms of movement and religion, weighted by population.\n\nThe variables ranges from 0 to 1 (most liberties).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
+          },
+          {
+            "name": "popw_priv_libs_vdem_low_owid",
+            "type": "any",
+            "description": "The variable denotes the lower-bound estimate of  the extent to which people are free from forced labor, have property rights, and enjoy the freedoms of movement and religion, weighted by population.\n\nThe variables ranges from 0 to 1 (most liberties).",
+            "owidDisplaySettings": "{\"includeInTable\": true}"
           }
         ]
       }
