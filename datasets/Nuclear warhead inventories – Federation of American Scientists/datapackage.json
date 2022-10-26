@@ -29,7 +29,7 @@
           {
             "name": "nuclear_weapons_depl_strat",
             "type": "any",
-            "description": "The variable denotes the estimated number of deployed strategic nuclear warheads.\n\nDeployed warheads are those on ballistic missiles or bomber bases.\n\nStrategic warheads are those for use away from the battlefield, such as military bases, arms industries, or infrastructure.",
+            "description": "The variable denotes the estimated number of deployed strategic nuclear warheads.\n\nDeployed warheads are those on ballistic missiles or bomber bases.\n\nStrategic warheads are those for use away from the battlefield, such as against military bases, arms industries, or infrastructure.",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
