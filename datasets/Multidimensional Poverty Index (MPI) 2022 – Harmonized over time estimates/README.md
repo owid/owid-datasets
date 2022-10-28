@@ -1,4 +1,4 @@
-# Multidimensional Poverty Index (MPI) 2021 – Harmonized over time estimates
+# Multidimensional Poverty Index (MPI) 2022 – Harmonized over time estimates
 
 The global Multidimensional Poverty Index (MPI) is an international measure of acute multidimensional poverty covering over 100 developing countries. It complements traditional monetary poverty measures by capturing the acute deprivations in health, education, and living standards that a person faces simultaneously.
 
