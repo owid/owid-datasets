@@ -2,13 +2,13 @@
   "name": "Democracy and Human rights - OWID based on Varieties of Democracy (v12) and Regimes of the World",
   "title": "Democracy and Human rights - OWID based on Varieties of Democracy (v12) and Regimes of the World",
   "id": 5600,
-  "description": "This dataset provides information on democracy and human rights, using data from the Varieties of Democracy project (v12), and the Regimes of the World classification by Lührmann et al. (2018).\n\nWe expand the countries and years covered, and refine the coding of the Regimes of the World classification. You can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
+  "description": "This dataset provides information on democracy and human rights, using data from the Varieties of Democracy project (v12), and the Regimes of the World classification by Lührmann et al. (2018).\n\nWe expand the countries and years covered, and refine the coding of the Regimes of the World classification. You can read a detailed description of the data in these posts: https://ourworldindata.org/regimes-of-the-world-data\nhttps://ourworldindata.org/vdem-electoral-democracy-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
   "sources": [
     {
       "name": "OWID based on V-Dem (v12) and Lührmann et al. (2018)",
       "link": "http://v-dem.net/vdemds.html",
       "retrievedDate": "March 2, 2022",
-      "additionalInfo": "This dataset provides information on democracy and human rights, using data from the Varieties of Democracy project (v12), and the Regimes of the World classification by Lührmann et al. (2018).\n\nWe expand the countries and years covered, and refine the coding of the Regimes of the World classification. You can read a detailed description of the data in this post: https://ourworldindata.org/regimes-of-the-world-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
+      "additionalInfo": "This dataset provides information on democracy and human rights, using data from the Varieties of Democracy project (v12), and the Regimes of the World classification by Lührmann et al. (2018).\n\nWe expand the countries and years covered, and refine the coding of the Regimes of the World classification. You can read a detailed description of the data in these posts: https://ourworldindata.org/regimes-of-the-world-data\nhttps://ourworldindata.org/vdem-electoral-democracy-data\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
       "dataPublishedBy": "Our World in Data, Bastian Herre",
       "dataPublisherSource": "Data comes from the Varieties of Democracy project (v12), sometimes using Lührmann et al's (2018) Regimes of the World classification, and own expansions and refinements."
     }
@@ -200,19 +200,19 @@
           {
             "name": "freeexpr_vdem_owid",
             "type": "any",
-            "description": "The variable denotes the best estimate of the extent to which citizens can discuss political matters at home and in the public sphere, the press and media are free and present different political perspectives, and the freedom of academic and cultural expression.\n\nIt is based on the V-Dem variable v2x_freexp_altinf, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most free).",
+            "description": "The variable denotes the best estimate of the extent to which people can discuss political matters at home and in the public sphere, the press and media are free and present different political perspectives, and the freedom of academic and cultural expression.\n\nIt is based on the V-Dem variable v2x_freexp_altinf, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most free).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "freeexpr_vdem_low_owid",
             "type": "any",
-            "description": "The variable denotes the lower-bound estimate of the extent to which citizens can discuss political matters at home and in the public sphere, the press and media are free and present different political perspectives, and the freedom of academic and cultural expression.\n\nIt is based on the V-Dem variable v2x_freexp_altinf_codelow, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most free).",
+            "description": "The variable denotes the lower-bound estimate of the extent to which people can discuss political matters at home and in the public sphere, the press and media are free and present different political perspectives, and the freedom of academic and cultural expression.\n\nIt is based on the V-Dem variable v2x_freexp_altinf_codelow, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most free).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
             "name": "freeexpr_vdem_high_owid",
             "type": "any",
-            "description": "The variable denotes the upper-bound estimate of the extent to which citizens can discuss political matters at home and in the public sphere, the press and media are free and present different political perspectives, and the freedom of academic and cultural expression.\n\nIt is based on the V-Dem variable v2x_freexp_altinf_codehigh, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most free).",
+            "description": "The variable denotes the upper-bound estimate of the extent to which people can discuss political matters at home and in the public sphere, the press and media are free and present different political perspectives, and the freedom of academic and cultural expression.\n\nIt is based on the V-Dem variable v2x_freexp_altinf_codehigh, and we expand it to cover more years for some countries.\n\nThe variables ranges from 0 to 1 (most free).",
             "owidDisplaySettings": "{\"includeInTable\": true}"
           },
           {
