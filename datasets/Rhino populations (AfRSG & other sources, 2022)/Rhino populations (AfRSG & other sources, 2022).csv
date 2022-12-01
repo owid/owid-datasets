@@ -1,4 +1,4 @@
-Entity,Year,"Sumatran Rhino population (AfRSG & other sources, 2019)","Indian Rhino population (AfRSG & other sources, 2019)","Javan Rhino population (AfRSG & other sources, 2019)","Southern White Rhino population (AfRSG & other sources, 2019)","Northern White Rhino population (AfRSG & other sources, 2019)","White Rhino population (AfRSG & other sources, 2019)","Black Rhino population (AfRSG & other sources, 2019)"
+Entity,Year,"Sumatran Rhino population (AfRSG & other sources, 2019)","Indian Rhino population (AfRSG & other sources, 2022)","Javan Rhino population (AfRSG & other sources, 2022)","Southern White Rhino population (AfRSG & other sources, 2019)","Northern White Rhino population (AfRSG & other sources, 2019)","White Rhino population (AfRSG & other sources, 2019)","Black Rhino population (AfRSG & other sources, 2019)"
 Angola,1895,,,,0,,,
 Angola,1929,,,,0,,,
 Angola,1948,,,,0,,,
@@ -27,6 +27,7 @@ Botswana,1997,,,,23,,,0
 Botswana,2005,,,,99,,,5
 Botswana,2010,,,,135,,,7
 Botswana,2017,,,,452,,,50
+Botswana,2021,,,,242,,242,23
 Cameroon,1980,,,,,,,110
 Cameroon,1984,,,,,,,110
 Cameroon,1987,,,,,,,30
@@ -56,6 +57,22 @@ Democratic Republic of Congo,1991,,,,,30,,
 Democratic Republic of Congo,1995,,,,,31,,
 Democratic Republic of Congo,1998,,,,,25,,
 Democratic Republic of Congo,2005,,,,,4,,
+Eswatini,1895,,,,0,,,
+Eswatini,1929,,,,0,,,
+Eswatini,1948,,,,0,,,
+Eswatini,1968,,,,0,,,
+Eswatini,1980,,,,,,,0
+Eswatini,1984,,,,60,,,0
+Eswatini,1987,,,,80,,,6
+Eswatini,1991,,,,60,,,6
+Eswatini,1992,,,,46,,,6
+Eswatini,1993,,,,33,,,4
+Eswatini,1995,,,,41,,,9
+Eswatini,1997,,,,50,,,10
+Eswatini,2005,,,,75,,,16
+Eswatini,2010,,,,88,,,17
+Eswatini,2017,,,,66,,,21
+Eswatini,2021,,,,98,,98,48
 Ethiopia,1980,,,,,,,20
 Ethiopia,1984,,,,,,,10
 Ethiopia,1991,,,,,,,0
@@ -69,6 +86,7 @@ India,2009,,2363,,,,,
 India,2016,,2912,,,,,
 India,2018,,2939,,,,,
 India,2020,,2978,,,,,
+India,2021,,3262,,,,,
 Indonesia,2007,180,,45,,,,
 Indonesia,2009,170,,40,,,,
 Indonesia,2010,,,40,,,,
@@ -76,6 +94,7 @@ Indonesia,2012,,,58,,,,
 Indonesia,2016,76,,,,,,
 Indonesia,2017,,,59,,,,
 Indonesia,2018,59,,66,,,,
+Indonesia,2021,,,76,,,,
 Ivory Coast,1895,,,,0,,,
 Ivory Coast,1929,,,,0,,,
 Ivory Coast,1948,,,,0,,,
@@ -103,6 +122,9 @@ Kenya,2005,,,,234,,,540
 Kenya,2010,,,,,4,,594
 Kenya,2017,,,,510,3,,745
 Kenya,2018,,,,,2,,
+Kenya,2019,,,,,2,,
+Kenya,2020,,,,,2,,
+Kenya,2021,,,,871,2,873,938
 Malawi,1980,,,,,,,40
 Malawi,1984,,,,,,,20
 Malawi,1987,,,,,,,25
@@ -114,6 +136,7 @@ Malawi,1997,,,,,,,3
 Malawi,2005,,,,,,,10
 Malawi,2010,,,,,,,24
 Malawi,2017,,,,,,,28
+Malawi,2021,,,,,,,56
 Malaysia,2007,100,,,,,,
 Malaysia,2009,50,,,,,,
 Malaysia,2016,0,,,,,,
@@ -133,6 +156,7 @@ Mozambique,1997,,,,,,,13
 Mozambique,2005,,,,7,,,
 Mozambique,2010,,,,6,,,1
 Mozambique,2017,,,,29,,,1
+Mozambique,2022,,,,20,,20,7
 Namibia,1895,,,,0,,,
 Namibia,1929,,,,0,,,
 Namibia,1948,,,,0,,,
@@ -148,6 +172,7 @@ Namibia,1997,,,,141,,,707
 Namibia,2005,,,,293,,,1141
 Namibia,2010,,,,469,,,1750
 Namibia,2017,,,,975,,,1857
+Namibia,2021,,,,1234,,1234,2156
 Nepal,1950,,800,,,,,
 Nepal,1957,,400,,,,,
 Nepal,1959,,300,,,,,
@@ -164,15 +189,16 @@ Nepal,2007,,413,,,,,
 Nepal,2008,,444,,,,,
 Nepal,2009,,435,,,,,
 Nepal,2011,,534,,,,,
-Nepal,2016,,645,,,,,
+Nepal,2015,,645,,,,,
 Nepal,2018,,649,,,,,
-Nepal,2020,,752,,,,,
+Nepal,2021,,752,,,,,
 Pakistan,1986,,2,,,,,
 Pakistan,2007,,2,,,,,
 Pakistan,2009,,2,,,,,
 Pakistan,2016,,0,,,,,
 Pakistan,2018,,0,,,,,
 Pakistan,2020,,0,,,,,
+Pakistan,2021,,0,,,,,
 Rwanda,1980,,,,,,,30
 Rwanda,1984,,,,,,,15
 Rwanda,1987,,,,,,,15
@@ -202,6 +228,7 @@ South Africa,1997,,,,7913,,,1043
 South Africa,2005,,,,13521,,,1379
 South Africa,2010,,,,18796,,,1915
 South Africa,2017,,,,15625,,,2046
+South Africa,2021,,,,12968,,,2056
 Sudan,1960,,,,,1000,,
 Sudan,1971,,,,,400,,
 Sudan,1980,,,,,,,300
@@ -213,21 +240,6 @@ Sudan,1991,,,,,0,,0
 Sudan,1993,,,,,,,0
 Sudan,1995,,,,,0,,0
 Sudan,1998,,,,,0,,
-Swaziland,1895,,,,0,,,
-Swaziland,1929,,,,0,,,
-Swaziland,1948,,,,0,,,
-Swaziland,1968,,,,0,,,
-Swaziland,1980,,,,,,,0
-Swaziland,1984,,,,60,,,0
-Swaziland,1987,,,,80,,,6
-Swaziland,1991,,,,60,,,6
-Swaziland,1992,,,,46,,,6
-Swaziland,1993,,,,33,,,4
-Swaziland,1995,,,,41,,,9
-Swaziland,1997,,,,50,,,10
-Swaziland,2005,,,,75,,,16
-Swaziland,2010,,,,88,,,17
-Swaziland,2017,,,,66,,,21
 Tanzania,1980,,,,,,,3795
 Tanzania,1984,,,,,,,3130
 Tanzania,1987,,,,,,,275
@@ -239,6 +251,7 @@ Tanzania,1997,,,,,,,46
 Tanzania,2005,,,,,,,101
 Tanzania,2010,,,,,,,113
 Tanzania,2017,,,,,,,160
+Tanzania,2021,,,,,,,212
 Uganda,1960,,,,,80,,
 Uganda,1971,,,,,2,,
 Uganda,1976,,,,,2,,
@@ -253,6 +266,7 @@ Uganda,1998,,,,,0,,
 Uganda,2005,,,,4,,,
 Uganda,2010,,,,9,,,
 Uganda,2017,,,,22,,,0
+Uganda,2021,,,,35,,35,
 Vietnam,2007,,,5,,,,
 Vietnam,2009,,,1,,,,
 Vietnam,2010,,,0,,,,
@@ -264,6 +278,7 @@ Vietnam,2015,,,0,,,,
 Vietnam,2016,,,0,,,,
 Vietnam,2017,,,0,,,,
 Vietnam,2018,,,0,,,,
+Vietnam,2019,,,0,,,,
 World,1895,,,,20,,,
 World,1910,,40,,,,,
 World,1929,,,,150,,,
@@ -289,18 +304,19 @@ World,1991,,,,5565,30,5595,3450
 World,1992,,,,5790,,,2475
 World,1993,,,,6760,,,2550
 World,1995,300,,50,7530,31,7561,2410
-World,2000,,,45,,,,
+World,2000,,2454,45,,,,
 World,2005,,,40,14543,4,14547,3726
 World,2007,280,2565,50,,,,
-World,2009,220,2800,41,,,,
+World,2009,220,2801,41,,,,
 World,2010,,,40,20160,4,20164,4880
 World,2012,,,,21316,4,21320,4845
-World,2013,100,,58,,,,
+World,2013,100,3345,58,,,,
 World,2015,,,,20053,3,20056,5214
 World,2016,76,3557,,,,,
 World,2017,,,,18064,3,18067,5495
 World,2018,59,3588,66,,2,,
 World,2020,,3730,,,,,
+World,2021,,4014,76,15940,2,15942,6195
 Zambia,1895,,,,0,,,
 Zambia,1929,,,,0,,,
 Zambia,1948,,,,0,,,
@@ -331,3 +347,4 @@ Zimbabwe,1997,,,,167,,,339
 Zimbabwe,2005,,,,308,,,527
 Zimbabwe,2010,,,,290,,,431
 Zimbabwe,2017,,,,367,,,520
+Zimbabwe,2021,,,,417,,417,616

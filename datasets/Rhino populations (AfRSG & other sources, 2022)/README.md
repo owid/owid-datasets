@@ -16,4 +16,4 @@ Specialist Group. IUCN, Gland, Switzerland and Cambridge, UK. ix + 92 pp.
 
 Thapa, K., Nepal, S., Thapa, G., Bhatta, S. R., & Wikramanayake, E. (2013). Past, present and future conservation of the greater one-horned rhinoceros Rhinoceros unicornis in Nepal. Oryx, 47(3), 345-351.
 
-2020 estimated from the State of the Rhino report (from the International Rhino Foundation): https://rhinos.org/about-rhinos/state-of-the-rhino/
+2020 and 2021 estimates from the State of the Rhino report (from the International Rhino Foundation): https://rhinos.org/about-rhinos/state-of-the-rhino/ (2020) and https://rhinos.org/wp-content/uploads/2022/09/IRF-State-of-the-Rhino-2022.pdf (2021).
