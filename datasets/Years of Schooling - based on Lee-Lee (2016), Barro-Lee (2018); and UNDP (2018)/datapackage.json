@@ -1,0 +1,41 @@
+{
+  "name": "Years of Schooling - based on Lee-Lee (2016), Barro-Lee (2018); and UNDP (2018)",
+  "title": "Years of Schooling - based on Lee-Lee (2016), Barro-Lee (2018); and UNDP (2018)",
+  "id": 4129,
+  "description": "This series combines figures from three published datasets: Lee-Lee (2016); Barro-Lee (2018) and UNDP HDR (2018).\n\nFor the period 1870-1949 inclusive, the estimates correspond to population aged 25-64, and are taken from Lee-Lee (2016).\n\nFor the period 1950-1990 inclusive, the estimates correspond to population aged 25+, and are taken from Barro-Lee (2018).\n\nFor the period 1991-2017 inclusive, the estimated correspond to population aged 25+, and are taken from the UNDP, HDR (2018). \n\nFull references:\nLee, Jong-Wha and Hanol Lee, 2016, “Human Capital in the Long Run,” Journal of Development Economics, vol. 122, pp. 147-169.\n\nBarro, Robert and Jong-Wha Lee, 2013, \"A New Data Set of Educational Attainment in the World, 1950-2010.\" Journal of Development Economics, vol 104, pp.184-198.\n\nUnited Nations Development Programme, Human Development Report (2018 Statistical Update).",
+  "sources": [
+    {
+      "name": "Lee-Lee (2016), Barro-Lee (2018) and UNDP, HDR (2018)",
+      "link": "http://www.barrolee.com/Lee_Lee_LRdata_dn.htm; http://www.barrolee.com/data/yrsch2.htm; and http://hdr.undp.org/en/indicators/103006",
+      "retrievedDate": "24/05/19",
+      "additionalInfo": "This series combines figures from three published datasets: Lee-Lee (2016); Barro-Lee (2018) and UNDP HDR (2018).\n\nFor the period 1870-1949 inclusive, the estimates correspond to population aged 25-64, and are taken from Lee-Lee (2016).\n\nFor the period 1950-1990 inclusive, the estimates correspond to population aged 25+, and are taken from Barro-Lee (2018).\n\nFor the period 1991-2017 inclusive, the estimated correspond to population aged 25+, and are taken from the UNDP, HDR (2018). \n\nFull references:\nLee, Jong-Wha and Hanol Lee, 2016, “Human Capital in the Long Run,” Journal of Development Economics, vol. 122, pp. 147-169.\n\nBarro, Robert and Jong-Wha Lee, 2013, \"A New Data Set of Educational Attainment in the World, 1950-2010.\" Journal of Development Economics, vol 104, pp.184-198.\n\nUnited Nations Development Programme, Human Development Report (2018 Statistical Update).",
+      "dataPublishedBy": "Lee-Lee (2016); Barro-Lee (2018) and UNDP HDR (2018). See dataset description for full references."
+    }
+  ],
+  "owidTags": [
+    "Global Rise of Education"
+  ],
+  "resources": [
+    {
+      "path": "Years of Schooling - based on Lee-Lee (2016), Barro-Lee (2018); and UNDP (2018).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Average Total Years of Schooling for Adult Population (Lee-Lee (2016), Barro-Lee (2018) and UNDP (2018))",
+            "type": "any",
+            "description": "Mean years of total schooling across all education levels.",
+            "owidDisplaySettings": "{\"name\": \"Average total years of schooling for adult population\"}"
+          }
+        ]
+      }
+    }
+  ]
+}
