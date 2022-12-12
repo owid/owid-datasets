@@ -7,6 +7,7 @@
     {
       "name": "UK Office for National Statistics; Department for Environment, Food & Rural Affairs",
       "link": "https://www.gov.uk/government/statistics/butterflies-in-the-wider-countryside-uk",
+      "retrievedDate": "2022-12-12",
       "additionalInfo": "Butterfly population indices are compiled by Butterfly Conservation (BC) and the UK Centre for Ecology & Hydrology (UKCEH) from data collated through the UK Butterfly Monitoring Scheme (UKBMS) including from the Wider Countryside Butterfly Survey (WCBS).\n\nData is collected for 26 habitat specialist butterflies (low mobility species restricted to semi-natural habitats) and 25 more widespread butterflies (which use both semi-natural and general countryside habitats) using data collected at 5,737 sample locations.\n\nThe year-to-year fluctuations in butterfly numbers are often linked to natural environmental variation, especially weather conditions. Therefore, in order to identify underlying patterns in population trends, the assessment of change is based on smoothed indices.",
       "dataPublishedBy": "UK Office for National Statistics; Department for Environment, Food & Rural Affairs"
     }
@@ -30,50 +31,50 @@
           {
             "name": "butterfly_population_unsmoothed_index",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "UK butterfly populations are measured relative to their numbers in 1976 (where 1976 = 100). The base year for farmland and woodland species is 1990. This is because prior to this date, there are insufficient data for a number of species included within the 2 indices.",
+            "owidDisplaySettings": "{\"name\": \"UK butterfly populations, unsmoothed index\", \"unit\": \"(1976 = 100)\", \"includeInTable\": true}"
           },
           {
             "name": "butterfly_population_smoothed_index",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "The year-to-year fluctuations in butterfly numbers are often linked to natural environmental variation, especially weather conditions. Therefore, in order to identify underlying patterns in population trends, the assessment of change is based on smoothed indices.",
+            "owidDisplaySettings": "{\"name\": \"UK butterfly populations, smoothed index\", \"includeInTable\": true}"
           },
           {
             "name": "no_species_longterm_increase",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Number of butterfly species in the UK that have seen an increase in population size over the long-term (from 1976 to 2019).",
+            "owidDisplaySettings": "{\"name\": \"Increase\", \"includeInTable\": true}"
           },
           {
             "name": "no_species_longterm_decrease",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Number of butterfly species in the UK that have seen a decrease in population size over the long-term (from 1976 to 2019).",
+            "owidDisplaySettings": "{\"name\": \"Decrease\", \"includeInTable\": true}"
           },
           {
             "name": "no_species_longterm_nochange",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Number of butterfly species in the UK that have seen little change in population size over the long-term (from 1976 to 2019).",
+            "owidDisplaySettings": "{\"name\": \"Little change\", \"includeInTable\": true}"
           },
           {
             "name": "no_species_shortterm_increase",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Number of butterfly species in the UK that have seen an increase in population size over the short-term (from 2014 to 2019).",
+            "owidDisplaySettings": "{\"name\": \"Increase\", \"includeInTable\": true}"
           },
           {
             "name": "no_species_shortterm_decrease",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Number of butterfly species in the UK that have seen a decrease in population size over the short-term (from 2014 to 2019).",
+            "owidDisplaySettings": "{\"name\": \"Decrease\", \"includeInTable\": true}"
           },
           {
             "name": "no_species_shortterm_nochange",
             "type": "any",
-            "description": null,
-            "owidDisplaySettings": "{}"
+            "description": "Number of butterfly species in the UK that have seen little change in population size over the short-term (from 2014 to 2019).",
+            "owidDisplaySettings": "{\"name\": \"Little change\", \"includeInTable\": true}"
           }
         ]
       }
