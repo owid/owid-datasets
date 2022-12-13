@@ -4,7 +4,7 @@ Data was compiled by Our World in Data based on a number of historical sources. 
 
 The main data source for rhino populations is the African and Asian Rhino Specialist Groups (AfRSG). AfRSG periodically produce the latest estimates of rhino populations in Africa and Asia, in update reports of their status. The available literature from AfRSG can be accessed at: http://www.rhinoresourcecenter.com/index.php?s=1&act=refs.
 
-Where a range of values are reported in the above document we report the central value. 
+Where a range of values are reported in the above document we report the central value. This is only the case for rhino population estimates in Indonesia, Malaysia and Vietnam.
 
 Citation of the latest report is as follows:
 Burgess, Gayle & Ferreira, Sam & Talukdar, Bibhab & Knight, Michael & Baruch-Mordo, Sharon & Ellis, Susie. (2022). African and Asian Rhinoceroses: Status, Conservation and Trade: Report from the IUCN Species Survival Commission (IUCN SSC) African and Asian Rhino Specialist Groups and TRAFFIC (CITES CoP19 Doc 75). 
