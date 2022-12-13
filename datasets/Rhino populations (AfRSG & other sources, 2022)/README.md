@@ -13,8 +13,8 @@ Where estimates from AfRSG is available, we have used its data. However, we have
 
 Pusparini, W., Sievert, P. R., Fuller, T. K., Randhir, T. O., & Andayani, N. (2015). Rhinos in the parks: an island-wide survey of the last wild population of the Sumatran rhinoceros. PloS one, 10(9), e0136643.
 
-Emslie, R. and Brooks, M. (1999) African Rhino. Status Survey and Conservation Action Plan. IUCN/SSC African Rhino
-Specialist Group. IUCN, Gland, Switzerland and Cambridge, UK. ix + 92 pp.
+For values before 1998: 
+Emslie, R. and Brooks, M. (1999) African Rhino. Status Survey and Conservation Action Plan. IUCN/SSC African Rhino Specialist Group. IUCN, Gland, Switzerland and Cambridge, UK. ix + 92 pp.
 
 Thapa, K., Nepal, S., Thapa, G., Bhatta, S. R., & Wikramanayake, E. (2013). Past, present and future conservation of the greater one-horned rhinoceros Rhinoceros unicornis in Nepal. Oryx, 47(3), 345-351.
 
