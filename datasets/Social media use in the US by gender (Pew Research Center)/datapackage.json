@@ -1,6 +1,6 @@
 {
-  "name": "Use of social media in the US by gender (Pew Research Center)",
-  "title": "Use of social media in the US by gender (Pew Research Center)",
+  "name": "Social media use in the US by gender (Pew Research Center)",
+  "title": "Social media use in the US by gender (Pew Research Center)",
   "id": 4195,
   "description": "Respondents who did not give an answer are excluded from the estimates.",
   "sources": [
@@ -19,7 +19,7 @@
   ],
   "resources": [
     {
-      "path": "Use of social media in the US by gender (Pew Research Center).csv",
+      "path": "Social media use in the US by gender (Pew Research Center).csv",
       "schema": {
         "fields": [
           {
