@@ -1,0 +1,62 @@
+{
+  "name": "Internet use in the US by age (Pew Research Center)",
+  "title": "Internet use in the US by age (Pew Research Center)",
+  "id": 5835,
+  "description": "Respondents who did not give an answer are excluded from the estimates. Data for each year is based on a pooled analysis of all surveys conducted during that year.",
+  "sources": [
+    {
+      "name": "Internet use in the US by age (Pew Research Center)",
+      "link": "https://www.pewresearch.org/internet/fact-sheet/internet-broadband/",
+      "retrievedDate": "2022-12-20",
+      "additionalInfo": "Respondents who did not give an answer are excluded from the estimates. Data for each year is based on a pooled analysis of all surveys conducted during that year.",
+      "dataPublishedBy": "Pew Research Center",
+      "dataPublisherSource": "Surveys of U.S. adults conducted 2000-2021"
+    }
+  ],
+  "owidTags": [
+    "Technology Adoption",
+    "Internet",
+    "Social Media"
+  ],
+  "resources": [
+    {
+      "path": "Internet use in the US by age (Pew Research Center).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "18-29",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "30-49",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "50-64",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          },
+          {
+            "name": "65+",
+            "type": "any",
+            "description": null,
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
