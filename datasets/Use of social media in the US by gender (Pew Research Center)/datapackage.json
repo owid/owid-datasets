@@ -5,12 +5,12 @@
   "description": "Respondents who did not give an answer are excluded from the estimates.",
   "sources": [
     {
-      "name": "Pew Research Center (2019)",
-      "link": "https://www.pewresearch.org/fact-tank/2018/12/10/social-media-outpaces-print-newspapers-in-the-u-s-as-a-news-source/",
-      "retrievedDate": "29 August 2019",
+      "name": "Pew Research Center (2021)",
+      "link": "https://www.pewresearch.org/internet/fact-sheet/social-media/",
+      "retrievedDate": "2022-12-20",
       "additionalInfo": "Respondents who did not give an answer are excluded from the estimates.",
       "dataPublishedBy": "Pew Research Center",
-      "dataPublisherSource": "Survey conducted Jan. 8 - Feb. 7, 2019"
+      "dataPublisherSource": "Survey of U.S. adults conducted Jan. 25-Feb. 8, 2021."
     }
   ],
   "owidTags": [
