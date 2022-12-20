@@ -1,16 +1,16 @@
 {
-  "name": "Use of different social media sites by demographic groups",
-  "title": "Use of different social media sites by demographic groups",
+  "name": "Use of social media in the US by gender (Pew Research Center)",
+  "title": "Use of social media in the US by gender (Pew Research Center)",
   "id": 4195,
   "description": "Respondents who did not give an answer are excluded from the estimates.",
   "sources": [
     {
       "name": "Pew Research Center (2019)",
+      "link": "https://www.pewresearch.org/fact-tank/2018/12/10/social-media-outpaces-print-newspapers-in-the-u-s-as-a-news-source/",
+      "retrievedDate": "29 August 2019",
       "additionalInfo": "Respondents who did not give an answer are excluded from the estimates.",
       "dataPublishedBy": "Pew Research Center",
-      "dataPublisherSource": "Survey conducted Jan. 8 - Feb. 7, 2019",
-      "link": "https://www.pewresearch.org/fact-tank/2018/12/10/social-media-outpaces-print-newspapers-in-the-u-s-as-a-news-source/",
-      "retrievedDate": "29 August 2019"
+      "dataPublisherSource": "Survey conducted Jan. 8 - Feb. 7, 2019"
     }
   ],
   "owidTags": [
@@ -19,7 +19,7 @@
   ],
   "resources": [
     {
-      "path": "Use of different social media sites by demographic groups.csv",
+      "path": "Use of social media in the US by gender (Pew Research Center).csv",
       "schema": {
         "fields": [
           {
