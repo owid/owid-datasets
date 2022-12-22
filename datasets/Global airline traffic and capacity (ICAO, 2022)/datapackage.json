@@ -1,14 +1,14 @@
 {
-  "name": "Global airline traffic and capacity (ICAO, 2020)",
-  "title": "Global airline traffic and capacity (ICAO, 2020)",
+  "name": "Global airline traffic and capacity (ICAO, 2022)",
+  "title": "Global airline traffic and capacity (ICAO, 2022)",
   "id": 5164,
-  "description": "Global airline traffic and capacity data is sourced from 'Airlines for America': https://www.airlines.org/dataset/world-airlines-traffic-and-capacity\n\nThe source notes that:\n\"Traffic and operations data below reflects the systemwide scheduled activity of passenger and cargo airlines operating worldwide, as recorded by ICAO; domestic operations within the former USSR are excluded prior to 1970.\"\n",
+  "description": "The source notes that \"Traffic and operations data below reflects the systemwide scheduled activity of passenger and cargo airlines operating worldwide, as recorded by ICAO; domestic operations within the former USSR are excluded prior to 1970.\"",
   "sources": [
     {
-      "name": "International Civil Aviation Organization (ICAO) via Airlines for America",
-      "link": "https://www.airlines.org/dataset/world-airlines-traffic-and-capacity",
-      "retrievedDate": "7th September 2020",
-      "additionalInfo": "Global airline traffic and capacity data is sourced from 'Airlines for America': https://www.airlines.org/dataset/world-airlines-traffic-and-capacity\n\nThe source notes that:\n\"Traffic and operations data below reflects the systemwide scheduled activity of passenger and cargo airlines operating worldwide, as recorded by ICAO; domestic operations within the former USSR are excluded prior to 1970.\"\n",
+      "name": "International Civil Aviation Organization via Airlines for America (2022)",
+      "link": "https://www.airlines.org/dataset/world-airlines-traffic-and-capacity/",
+      "retrievedDate": "2022-12-22",
+      "additionalInfo": "The source notes that \"Traffic and operations data below reflects the systemwide scheduled activity of passenger and cargo airlines operating worldwide, as recorded by ICAO; domestic operations within the former USSR are excluded prior to 1970.\"",
       "dataPublishedBy": "Airlines for America",
       "dataPublisherSource": "International Civil Aviation Organization (ICAO)"
     }
@@ -18,7 +18,7 @@
   ],
   "resources": [
     {
-      "path": "Global airline traffic and capacity (ICAO, 2020).csv",
+      "path": "Global airline traffic and capacity (ICAO, 2022).csv",
       "schema": {
         "fields": [
           {
