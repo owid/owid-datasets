@@ -33,61 +33,49 @@
             "name": "Aircraft Departures",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Global aircraft departures\", \"unit\": \"departures\", \"includeInTable\": true, \"conversionFactor\": 1000, \"numDecimalPlaces\": 0}"
+            "owidDisplaySettings": "{\"name\": \"Global aircraft departures\", \"unit\": \"departures\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Aircraft travel distance",
+            "name": "Aircraft KMs",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Aircraft travel distance\", \"unit\": \"kilometers\", \"shortUnit\": \"km\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+            "owidDisplaySettings": "{\"name\": \"Aircraft travel distance\", \"unit\": \"kilometers\", \"shortUnit\": \"km\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Available seat kilometers; ASKs",
+            "name": "ASKs",
             "type": "any",
             "description": "In the airline industry available kilometers is a measure of passenger carrying capacity. It is equal to the number of seats available multiplied by the number of kilometers flown. An available seat km is the fundamental unit of production for a passenger-carrying airline.",
-            "owidDisplaySettings": "{\"name\": \"Available seat kilometers\", \"unit\": \"available seat kilometers\", \"shortUnit\": \"km\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+            "owidDisplaySettings": "{\"name\": \"Available seat kilometers\", \"unit\": \"available seat kilometers\", \"shortUnit\": \"km\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Cargo revenue tonne kilometres; RTKs",
+            "name": "Cargo RTKs",
             "type": "any",
             "description": "The number of revenue tonnes of cargo (freight and mail) carried multiplied by the\ndistance flown.",
-            "owidDisplaySettings": "{\"name\": \"Cargo revenue tonne kilometers\", \"unit\": \"tonne kilometers\", \"shortUnit\": \"t-km\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+            "owidDisplaySettings": "{\"name\": \"Cargo revenue tonne kilometers\", \"unit\": \"tonne kilometers\", \"shortUnit\": \"t-km\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Freight revenue tonne kilometres; RTKs",
-            "type": "any",
-            "description": "The number of revenue tonnes of freight carried multiplied by the distance flown.",
-            "owidDisplaySettings": "{\"name\": \"Freight revenue tonne kilometers\", \"unit\": \"tonnes kilometers\", \"shortUnit\": \"t-km\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
-          },
-          {
-            "name": "Freight tonnes",
+            "name": "Freight Tonnes",
             "type": "any",
             "description": "The number of revenue tonnes of freight transported by air.",
-            "owidDisplaySettings": "{\"name\": \"Freight tonnes\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+            "owidDisplaySettings": "{\"name\": \"Freight tonnes\", \"unit\": \"tonnes\", \"shortUnit\": \"t\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Mail revenue tonne kilometers; RTKs",
-            "type": "any",
-            "description": "The number of revenue tonnes of mail carried multiplied by the distance flown.",
-            "owidDisplaySettings": "{\"name\": \"Mail revenue tonne kilometers\", \"unit\": \"tonnes kilometers\", \"shortUnit\": \"t-km\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
-          },
-          {
-            "name": "Number of passengers",
+            "name": "Passengers",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"Global number of airline passengers\", \"unit\": \"passengers\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+            "owidDisplaySettings": "{\"name\": \"Global number of airline passengers\", \"unit\": \"passengers\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Passenger load factor (passengers / available seats)",
+            "name": "PLF",
             "type": "any",
             "description": "The passenger load factor (PLF) measures the ratio of actual passengers to the available seats. It effectively measures the percentage of available seats that are taken by actual passengers.",
             "owidDisplaySettings": "{\"name\": \"Global airline passenger load factor\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true, \"conversionFactor\": 100, \"numDecimalPlaces\": 0}"
           },
           {
-            "name": "Revenue passenger kilometers",
+            "name": "RPKs",
             "type": "any",
             "description": "The number of revenue passengers carried multiplied by the distance flown.",
-            "owidDisplaySettings": "{\"name\": \"Airline revenue passenger kilometers\", \"unit\": \"kilometers\", \"shortUnit\": \"km\", \"includeInTable\": true, \"conversionFactor\": 1000000, \"numDecimalPlaces\": 0}"
+            "owidDisplaySettings": "{\"name\": \"Airline revenue passenger kilometers\", \"unit\": \"kilometers\", \"shortUnit\": \"km\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           }
         ]
       }
