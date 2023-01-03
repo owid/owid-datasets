@@ -1,2 +1,7 @@
 # Books - Buringh and Van Zanden (2009)
 
+The unit of analysis for the estimates of manuscripts is the number of individual manuscripts. The unit of analysis for the estimates of printed books is (new) ‘title’ or ‘edition’. The authors corrected the numbers to account for the underrepresentation of estimates for different geographical regions and different times. The authors consider their estimates to be conservative and note that the “figures should be interpreted as low estimates”.
+
+Titles are either books (which have by definition more than 49 pages) or pamphlets (less than 50 pages). The authors define a title as ‘a printed publication which forms a separate whole, whether issued in one or several volumes. Different language versions of the same title published in a particular country should be considered as individual titles’; this includes first editions and reeditions. The authors give the following example: ‘The first printing of Gutenberg’s Bible is one title, and new editions of the Bible will again be counted, but a reprint of exactly the same manuscript would not be included.’
+
+Buringh and Van Zanden note that the aggregation of the data to country levels obscures inequalities within countries – ‘if we could isolate data on, for example, northern Italy or the north of France (including Paris), these regions rank much higher in output per capita’.

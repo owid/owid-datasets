@@ -2,11 +2,12 @@
   "name": "Books - Buringh and Van Zanden (2009)",
   "title": "Books - Buringh and Van Zanden (2009)",
   "id": 5350,
-  "description": "",
+  "description": "The unit of analysis for the estimates of manuscripts is the number of individual manuscripts. The unit of analysis for the estimates of printed books is (new) ‘title’ or ‘edition’. The authors corrected the numbers to account for the underrepresentation of estimates for different geographical regions and different times. The authors consider their estimates to be conservative and note that the “figures should be interpreted as low estimates”.\n\nTitles are either books (which have by definition more than 49 pages) or pamphlets (less than 50 pages). The authors define a title as ‘a printed publication which forms a separate whole, whether issued in one or several volumes. Different language versions of the same title published in a particular country should be considered as individual titles’; this includes first editions and reeditions. The authors give the following example: ‘The first printing of Gutenberg’s Bible is one title, and new editions of the Bible will again be counted, but a reprint of exactly the same manuscript would not be included.’\n\nBuringh and Van Zanden note that the aggregation of the data to country levels obscures inequalities within countries – ‘if we could isolate data on, for example, northern Italy or the north of France (including Paris), these regions rank much higher in output per capita’.",
   "sources": [
     {
       "name": "Buringh and Van Zanden (2009)",
       "link": "https://www.jstor.org/stable/40263962",
+      "additionalInfo": "The unit of analysis for the estimates of manuscripts is the number of individual manuscripts. The unit of analysis for the estimates of printed books is (new) ‘title’ or ‘edition’. The authors corrected the numbers to account for the underrepresentation of estimates for different geographical regions and different times. The authors consider their estimates to be conservative and note that the “figures should be interpreted as low estimates”.\n\nTitles are either books (which have by definition more than 49 pages) or pamphlets (less than 50 pages). The authors define a title as ‘a printed publication which forms a separate whole, whether issued in one or several volumes. Different language versions of the same title published in a particular country should be considered as individual titles’; this includes first editions and reeditions. The authors give the following example: ‘The first printing of Gutenberg’s Bible is one title, and new editions of the Bible will again be counted, but a reprint of exactly the same manuscript would not be included.’\n\nBuringh and Van Zanden note that the aggregation of the data to country levels obscures inequalities within countries – ‘if we could isolate data on, for example, northern Italy or the north of France (including Paris), these regions rank much higher in output per capita’.",
       "dataPublishedBy": "Eltjo Buringh and Jan Luiten Van Zanden (2009) – Charting the “Rise of the West”: Manuscripts and Printed Books in Europe, a Long-Term Perspective from the Sixth through Eighteenth Centuries. In The Journal of Economic History The Journal of Economic History Vol. 69, No. 2 (Jun., 2009), pp. 409-445."
     }
   ],
@@ -30,19 +31,19 @@
             "name": "Manuscript production per century",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"unit\": \"manuscripts\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Production of printed books per half century",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"books\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "Annual per capita consumption of books",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{}"
+            "owidDisplaySettings": "{\"unit\": \"books\", \"includeInTable\": true}"
           }
         ]
       }
