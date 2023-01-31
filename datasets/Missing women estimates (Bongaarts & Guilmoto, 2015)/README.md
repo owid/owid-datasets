@@ -4,4 +4,4 @@ Missing women are defined as the number of additional women who would be alive i
 
 Missing female births and excess female mortality are calculated based on the difference between observed and expected sex ratios.
 
-Authors have calculated this historically from 1970 to today in five-year intervals, with projections through to 2100.
+Authors have calculated this historically from 1970 to today in five-year intervals, with projections through to 2050.
