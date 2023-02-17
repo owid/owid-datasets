@@ -1,0 +1,42 @@
+{
+  "name": "US Corn Yields - USDA (2023)",
+  "title": "US Corn Yields - USDA (2023)",
+  "id": 661,
+  "description": "This data is sourced from the USDA-NASS database. This reports survey data on corn yields in bushels per acre. To convert these values to tonnes per hectare, we have used a conversion factor of 0.06725.",
+  "sources": [
+    {
+      "name": "USDA National Agricultural Statistics Service Information",
+      "link": "https://quickstats.nass.usda.gov",
+      "retrievedDate": null,
+      "additionalInfo": "This data is sourced from the USDA-NASS database. This reports survey data on corn yields in bushels per acre. To convert these values to tonnes per hectare, we have used a conversion factor of 0.06725.",
+      "dataPublishedBy": "USDA National Agricultural Statistics Service Information",
+      "dataPublisherSource": null
+    }
+  ],
+  "owidTags": [
+    "Land Use and Yields in Agriculture"
+  ],
+  "resources": [
+    {
+      "path": "US Corn Yields - USDA (2023).csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Corn yield (USDA (2017) & FAO (2017))",
+            "type": "any",
+            "description": "",
+            "owidDisplaySettings": "{}"
+          }
+        ]
+      }
+    }
+  ]
+}
