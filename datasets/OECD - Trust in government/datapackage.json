@@ -5,11 +5,11 @@
   "description": "Trust in government refers to the share of people who report having confidence in the national government. The data shown reflect the share of respondents answering “yes” (the other response categories being “no”, and “don’t know”) to the survey question: “In this country, do you have confidence in… national government? Due to small sample sizes, country averages for horizontal inequalities (by age, gender, and education) are pooled between 2010-18 to improve the accuracy of the estimates. The sample is ex-ante designed to be nationally representative of the population aged 15 and over. This indicator is measured as a percentage of all survey respondents.\n\nWe show this metric as the population-weighted average of all OECD member states.",
   "sources": [
     {
-      "name": "OECD (2022)",
+      "name": "OECD (2023)",
       "link": "https://data.oecd.org/gga/trust-in-government.htm",
       "retrievedDate": "2023-03-01",
       "additionalInfo": "Trust in government refers to the share of people who report having confidence in the national government. The data shown reflect the share of respondents answering “yes” (the other response categories being “no”, and “don’t know”) to the survey question: “In this country, do you have confidence in… national government? Due to small sample sizes, country averages for horizontal inequalities (by age, gender, and education) are pooled between 2010-18 to improve the accuracy of the estimates. The sample is ex-ante designed to be nationally representative of the population aged 15 and over. This indicator is measured as a percentage of all survey respondents.\n\nWe show this metric as the population-weighted average of all OECD member states.",
-      "dataPublishedBy": "OECD (2022), Trust in government (indicator). doi: 10.1787/1de9675e-en (Accessed on 03 March 2022)"
+      "dataPublishedBy": "OECD (2023) Trust in government (indicator). doi: 10.1787/1de9675e-en"
     }
   ],
   "owidTags": [
