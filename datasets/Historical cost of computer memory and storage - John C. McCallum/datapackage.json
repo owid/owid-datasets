@@ -7,7 +7,8 @@
     {
       "name": "John C. McCallum (2022)",
       "link": "https://jcmit.net/index.htm",
-      "retrievedDate": "20 April 2022"
+      "retrievedDate": "2022-04-20",
+      "dataPublishedBy": "John C. McCallum (2022)"
     }
   ],
   "owidTags": [
@@ -30,25 +31,25 @@
             "name": "memory",
             "type": "any",
             "description": "Computer memory operates at a higher speed than storage but is more expensive and lower in capacity.",
-            "owidDisplaySettings": "{\"name\": \"Memory\", \"unit\": \"US dollar per megabyte\", \"shortUnit\": \"$/MB\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Memory\", \"unit\": \"current US$ per megabyte\", \"shortUnit\": \"$/MB\", \"includeInTable\": true}"
           },
           {
             "name": "disk_drives",
             "type": "any",
             "description": "Disk drives record changes to a surface layer of one or more rotating disks. Notable types are the hard disk drive (HDD) containing a non-removable disk, the floppy disk drive (FDD) and its removable floppy disk, and various optical disc drives (ODD) and associated optical disc media.",
-            "owidDisplaySettings": "{\"name\": \"Disk\", \"unit\": \"US dollar per megabyte\", \"shortUnit\": \"$/MB\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Disk\", \"unit\": \"current US$ per megabyte\", \"shortUnit\": \"$/MB\", \"includeInTable\": true}"
           },
           {
             "name": "ssd",
             "type": "any",
             "description": "A solid-state drive (SSD) uses integrated circuit assemblies to store data persistently. Compared with electromechanical drives, SSDs are typically more resistant to physical shock, run silently, and have higher input/output operations per second and lower latency.",
-            "owidDisplaySettings": "{\"name\": \"Solid state\", \"unit\": \"US dollar per megabyte\", \"shortUnit\": \"$/MB\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Solid state\", \"unit\": \"current US$ per megabyte\", \"shortUnit\": \"$/MB\", \"includeInTable\": true}"
           },
           {
             "name": "flash",
             "type": "any",
             "description": "Flash memory is an electronic non-volatile computer memory storage medium that can be electrically erased and reprogrammed.",
-            "owidDisplaySettings": "{\"name\": \"Flash\", \"unit\": \"US dollar per megabyte\", \"shortUnit\": \"$/MB\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Flash\", \"unit\": \"current US$ per megabyte\", \"shortUnit\": \"$/MB\", \"includeInTable\": true}"
           }
         ]
       }
