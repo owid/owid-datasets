@@ -10,11 +10,11 @@
       "retrievedDate": "2022-12-20",
       "additionalInfo": "Respondents who did not give an answer are excluded from the estimates. Data for each year is based on a pooled analysis of all surveys conducted during that year.",
       "dataPublishedBy": "Pew Research Center",
-      "dataPublisherSource": "Surveys of U.S. adults conducted 2000-2021"
+      "dataPublisherSource": "Surveys of US adults"
     }
   ],
   "owidTags": [
-    "Technology Adoption",
+    "Technological Progress",
     "Internet",
     "Social Media"
   ],
@@ -35,25 +35,25 @@
             "name": "18-29",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"18-29\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"18-29\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "30-49",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"30-49\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"30-49\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "50-64",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"50-64\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"50-64\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           },
           {
             "name": "65+",
             "type": "any",
             "description": null,
-            "owidDisplaySettings": "{\"name\": \"65+\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"65+\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true, \"numDecimalPlaces\": 0}"
           }
         ]
       }
