@@ -1,16 +1,16 @@
 {
-  "name": "Democracy - OWID based on Episodes of Regime Transformation (v4)",
-  "title": "Democracy - OWID based on Episodes of Regime Transformation (v4)",
+  "name": "Democracy - OWID based on Episodes of Regime Transformation (v13)",
+  "title": "Democracy - OWID based on Episodes of Regime Transformation (v13)",
   "id": 5664,
-  "description": "This dataset provides information on political regimes, using data from the Episodes of Regime Transformation project (v4).\n\nWe slightly adapt their classification. You can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
+  "description": "This dataset provides information on political regimes, using data from the Episodes of Regime Transformation project (v13).\n\nWe slightly adapt their classification. You can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
   "sources": [
     {
-      "name": "Episodes of Regime Transformation (v4)",
+      "name": "Episodes of Regime Transformation (v13)",
       "link": "https://github.com/vdeminstitute/ERT/blob/master/inst/ERT.csv",
-      "retrievedDate": "July 5, 2022",
-      "additionalInfo": "This dataset provides information on political regimes, using data from the Episodes of Regime Transformation project (v4).\n\nWe slightly adapt their classification. You can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
+      "retrievedDate": "March 3, 2023",
+      "additionalInfo": "This dataset provides information on political regimes, using data from the Episodes of Regime Transformation project (v13).\n\nWe slightly adapt their classification. You can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
       "dataPublishedBy": "Our World in Data, Bastian Herre",
-      "dataPublisherSource": "Data comes from the Episodes of Regime Transformation project (v4)."
+      "dataPublisherSource": "Data comes from the Episodes of Regime Transformation project (v13)."
     }
   ],
   "owidTags": [
@@ -18,7 +18,7 @@
   ],
   "resources": [
     {
-      "path": "Democracy - OWID based on Episodes of Regime Transformation (v4).csv",
+      "path": "Democracy - OWID based on Episodes of Regime Transformation (v13).csv",
       "schema": {
         "fields": [
           {
