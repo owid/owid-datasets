@@ -1,4 +1,4 @@
-# Ozone depleting emissions since 1960 (Scientific Assessment 2014)
+# Ozone depleting emissions since 1960 (Scientific Assessment, 2014)
 
 Figures represent emissions of ozone-depleting substances, with substances weighted by their potential to destroy ozone (their ozone-depleting potential). This gives a total value of emissions normalised to their CFC11-equivalents. 
 
