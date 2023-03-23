@@ -1,4 +1,4 @@
-# Ozone and chlorine projections to 2100 (Scientific Assessment 2014)
+# Ozone and chlorine projections to 2100 (Scientific Assessment, 2014)
 
 Figures represent stratospheric ozone, and effective stratospheric chlorine (ESC) based on historical measurement and future projections from chemistry-climate models.
 
