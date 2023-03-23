@@ -2,13 +2,13 @@
   "name": "Drug overdose deaths in the US (CDC WONDER)",
   "title": "Drug overdose deaths in the US (CDC WONDER)",
   "id": 852,
-  "description": "The National Center for Health Statistics (NCHS) at the Centers for Disease Control and Prevention collects information on deaths involving drugs commonly associated with fatal overdose. This information is available in a searchable database called. <a href=\"https://wonder.cdc.gov/\">CDC Wonder</a>",
+  "description": "The National Center for Health Statistics (NCHS) at the Centers for Disease Control and Prevention collects information on deaths involving drugs commonly associated with fatal overdose. This information is available in a searchable database called <a href=\"https://wonder.cdc.gov/\">CDC Wonder</a>.",
   "sources": [
     {
       "name": "US Centers for Disease Control and Prevention WONDER",
       "link": "https://www.drugabuse.gov/related-topics/trends-statistics/overdose-death-rates",
       "retrievedDate": "",
-      "additionalInfo": "The National Center for Health Statistics (NCHS) at the Centers for Disease Control and Prevention collects information on deaths involving drugs commonly associated with fatal overdose. This information is available in a searchable database called. <a href=\"https://wonder.cdc.gov/\">CDC Wonder</a>",
+      "additionalInfo": "The National Center for Health Statistics (NCHS) at the Centers for Disease Control and Prevention collects information on deaths involving drugs commonly associated with fatal overdose. This information is available in a searchable database called <a href=\"https://wonder.cdc.gov/\">CDC Wonder</a>.",
       "dataPublishedBy": "US Centers for Disease Control and Prevention WONDER",
       "dataPublisherSource": ""
     }
