@@ -1,4 +1,4 @@
-# Ozone depletion impacts on skin cancer incidence - Slaper et al.
+# Ozone depletion impacts on skin cancer incidence (Slaper et al., 1996)
 
 The authors modelled the number of excess skin cancer cases they would expect among fair-skinned populations in the United States and Northwest Europe as a result of stratospheric ozone depletion.
 
