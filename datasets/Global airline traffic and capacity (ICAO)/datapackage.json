@@ -5,9 +5,9 @@
   "description": "The source notes that \"Traffic and operations data below reflects the systemwide scheduled activity of passenger and cargo airlines operating worldwide, as recorded by ICAO; domestic operations within the former USSR are excluded prior to 1970.\"",
   "sources": [
     {
-      "name": "International Civil Aviation Organization via Airlines for America (2022)",
+      "name": "International Civil Aviation Organization via Airlines for America (2023)",
       "link": "https://www.airlines.org/dataset/world-airlines-traffic-and-capacity/",
-      "retrievedDate": "2022-12-22",
+      "retrievedDate": "2023-04-03",
       "additionalInfo": "The source notes that \"Traffic and operations data below reflects the systemwide scheduled activity of passenger and cargo airlines operating worldwide, as recorded by ICAO; domestic operations within the former USSR are excluded prior to 1970.\"",
       "dataPublishedBy": "Airlines for America",
       "dataPublisherSource": "International Civil Aviation Organization (ICAO)"
