@@ -2,37 +2,38 @@
   "name": "Key Indicators",
   "title": "Key Indicators",
   "id": 5774,
-  "description": "The most important handful of indicators for use directly and in transforming other statistics.",
+  "description": "Country land area.\n",
   "sources": [
-    {
-      "name": "HYDE (v3.2); Gapminder (v6); UN (2022)",
-      "link": "https://dataportaal.pbl.nl/downloads/HYDE/ ; https://www.gapminder.org/data/documentation/gd003/ ; http://data.worldbank.org/data-catalog/world-development-indicators ; https://population.un.org/wpp/Download/Standard/Population/",
-      "retrievedDate": "October 8, 2021",
-      "additionalInfo": "The most important handful of indicators for use directly and in transforming other statistics.",
-      "dataPublishedBy": "HYDE (v3.2) ; Gapminder (v6) ; World Bank ; United Nations - Population Division (2022)"
-    },
     {
       "name": "Food and Agriculture Organization of the United Nations",
       "link": "http://data.worldbank.org/data-catalog/world-development-indicators",
-      "retrievedDate": "August 8, 2021",
+      "retrievedDate": "2021-08-08",
       "additionalInfo": "Country land area.\n",
       "dataPublishedBy": "World Bank",
       "dataPublisherSource": null
     },
     {
-      "name": "Gapminder (v6); UN (2022); Food and Agriculture Organization of the United Nations; HYDE (v3.2)",
-      "link": "https://www.gapminder.org/data/documentation/gd003/ ; https://population.un.org/wpp/Download/Standard/Population/ ; http://data.worldbank.org/data-catalog/world-development-indicators ; https://dataportaal.pbl.nl/downloads/HYDE/",
-      "retrievedDate": "October 8, 2021",
+      "name": "UN (2022); Gapminder (2019); Food and Agriculture Organization of the United Nations; HYDE (2017); Gapminder (Systema Globalis)",
+      "link": "https://population.un.org/wpp/Download/Standard/Population/ ; https://docs.google.com/spreadsheets/d/14_suWY8fCPEXV0MH7ZQMZ-KndzMVsSsA5HdR-7WqAC0/edit#gid=501532268 ; http://data.worldbank.org/data-catalog/world-development-indicators ; https://dataportaal.pbl.nl/downloads/HYDE/ ; https://github.com/open-numbers/ddf--gapminder--systema_globalis",
+      "retrievedDate": "September 10, 2022",
       "additionalInfo": "The most important handful of indicators for use directly and in transforming other statistics.",
-      "dataPublishedBy": "Gapminder (v6); United Nations - Population Division (2022); World Bank; HYDE (v3.2)",
+      "dataPublishedBy": "UN, World Population Prospects (2022); Gapminder (v6); World Bank; HYDE (v3.2); Gapminder (Systema Globalis)",
       "dataPublisherSource": null
     },
     {
-      "name": "Gapminder (v6); UN (2022); HYDE (v3.2); Food and Agriculture Organization of the United Nations",
-      "link": "https://www.gapminder.org/data/documentation/gd003/ ; https://population.un.org/wpp/Download/Standard/Population/ ; https://dataportaal.pbl.nl/downloads/HYDE/ ; http://data.worldbank.org/data-catalog/world-development-indicators",
+      "name": "Gapminder (2019); UN (2022); HYDE (2017); Gapminder (Systema Globalis)",
+      "link": "https://docs.google.com/spreadsheets/d/14_suWY8fCPEXV0MH7ZQMZ-KndzMVsSsA5HdR-7WqAC0/edit#gid=501532268 ; https://population.un.org/wpp/Download/Standard/Population/ ; https://dataportaal.pbl.nl/downloads/HYDE/ ; https://github.com/open-numbers/ddf--gapminder--systema_globalis",
       "retrievedDate": "October 8, 2021",
-      "additionalInfo": "Our World in Data builds and maintains a long-run dataset on population by country, region, and for the world, based on three key sources: HYDE, Gapminder, and the UN World Population Prospects. This combines historical population estimates with median scenario projections to 2100. You can find more information on these sources and how our time series is constructed on this page: <a href=\"https://ourworldindata.org/population-sources\">What sources do we rely on for population estimates?</a>\n\nWe combine this population dataset with the <a href=\"https://ourworldindata.org/grapher/land-area-km\">land area estimates published by the World Bank</a>, to produce a long-run dataset of population density.\n\nIn all sources that we rely on, population estimates and land area estimates are based on today’s geographical borders.\n",
-      "dataPublishedBy": "Gapminder (v6); United Nations - Population Division (2022); HYDE (v3.2); World Bank",
+      "additionalInfo": "Our World in Data builds and maintains a long-run dataset on population by country, region, and for the world, based on three key sources: HYDE, Gapminder, and the UN World Population Prospects.\nYou can find more information on these sources and how our time series is constructed on this page: <a href=\"https://ourworldindata.org/population-sources\">What sources do we rely on for population estimates?</a>\n",
+      "dataPublishedBy": "Gapminder (v6); UN, World Population Prospects (2022); HYDE (v3.2); Gapminder (Systema Globalis)",
+      "dataPublisherSource": null
+    },
+    {
+      "name": "Gapminder (2019); UN (2022); HYDE (2017); Gapminder (Systema Globalis); Food and Agriculture Organization of the United Nations",
+      "link": "https://docs.google.com/spreadsheets/d/14_suWY8fCPEXV0MH7ZQMZ-KndzMVsSsA5HdR-7WqAC0/edit#gid=501532268 ; https://population.un.org/wpp/Download/Standard/Population/ ; https://dataportaal.pbl.nl/downloads/HYDE/ ; https://github.com/open-numbers/ddf--gapminder--systema_globalis ; http://data.worldbank.org/data-catalog/world-development-indicators",
+      "retrievedDate": "October 8, 2021",
+      "additionalInfo": "Our World in Data builds and maintains a long-run dataset on population by country, region, and for the world, based on three key sources: HYDE, Gapminder, and the UN World Population Prospects. This combines historical population estimates with median scenario projections to 2100. You can find more information on these sources and how our time series is constructed on this page: <a href=\"https://ourworldindata.org/population-sources\">What sources do we rely on for population estimates?</a>\n\nWe combine this population dataset with the <a href=\"https://ourworldindata.org/grapher/land-area-km\">land area estimates published by the World Bank</a>, to produce a long-run dataset of population density.\n\nIn all sources that we rely on, population estimates and land area estimates are based on today's geographical borders.\n",
+      "dataPublishedBy": "Gapminder (v6); UN, World Population Prospects (2022); HYDE (v3.2); Gapminder (Systema Globalis); World Bank",
       "dataPublisherSource": null
     }
   ],
@@ -65,43 +66,43 @@
           {
             "name": "Population",
             "type": "any",
-            "description": "Population by country, available from 10,000 BCE to 2100 based on Gapminder data, HYDE, and UN Population Division (2022) estimates.\n\n10,000 BCE - 1799: Historical estimates by HYDE (v3.2).\n1800-1949: Historical estimates by Gapminder.\n1950-2021: Population records by the United Nations - Population Division (2022).\n2022-2100: Projections based on Medium variant by the United Nations - Population Division (2022).\n",
+            "description": "Population by country, available from 10,000 BCE to 2100 based on Gapminder data, HYDE, and UN Population Division (2022) estimates.\n\n* 10,000 BCE - 1799: Historical estimates by HYDE (v3.2). Includes some datapoints from Gapminder (Systema Globalis).\n* 1800-1949: Historical estimates by Gapminder. Includes some datapoints from HYDE (v3.2) and Gapminder (Systema Globalis).\n* 1950-2021: Population records by the United Nations - Population Division (2022). Includes some datapoints from HYDE (v3.2), Gapminder (Systema Globalis) and Gapminder (v6).\n* 2022-2100: Projections based on Medium variant by the United Nations - Population Division (2022).\n",
             "owidDisplaySettings": "{\"name\": \"Population\", \"unit\": \"persons\", \"shortUnit\": null, \"includeInTable\": true}"
           },
           {
             "name": "Share of world population",
             "type": "any",
-            "description": "Share of the world's population by country, available from 10,000 BCE to 2100 based on Gapminder data, HYDE, and UN Population Division (2022) estimates.\n\n10,000 BCE - 1799: Historical estimates by HYDE (v3.2).\n1800-1949: Historical estimates by Gapminder.\n1950-2021: Population records by the United Nations - Population Division (2022).\n2022-2100: Projections based on Medium variant by the United Nations - Population Division (2022).\n",
-            "owidDisplaySettings": "{\"name\": \"Share of world population\", \"unit\": \"%\", \"shortUnit\": null, \"includeInTable\": true, \"conversionFactor\": 100}"
+            "description": "Share of the world's population by country, available from 10,000 BCE to 2100 based on Gapminder data, HYDE, and UN Population Division (2022) estimates.\n\n* 10,000 BCE - 1799: Historical estimates by HYDE (v3.2). Includes some datapoints Gapminder (Systema Globalis).\n* 1800-1949: Historical estimates by Gapminder. Includes some datapoints from HYDE (v3.2) and Gapminder (Systema Globalis).\n* 1950-2021: Population records by the United Nations - Population Division (2022). Includes some datapoints from HYDE (v3.2), Gapminder (Systema Globalis) and Gapminder (v6).\n* 2022-2100: Projections based on Medium variant by the United Nations - Population Division (2022).\n",
+            "owidDisplaySettings": "{\"name\": \"Share of world population\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Population (historical estimates)",
             "type": "any",
-            "description": "Population by country, available from 10,000 BCE to 2021 based on Gapminder data, HYDE, and UN Population Division (2022) estimates.\n\n10,000 BCE - 1799: Historical estimates by HYDE (v3.2).\n1800-1949: Historical estimates by Gapminder.\n1950-2021: Population records by the United Nations - Population Division (2022).\n2022-2100: Projections based on Medium variant by the United Nations - Population Division (2022).\n",
+            "description": "Population by country, available from 10,000 BCE to 2021\n\n10,000 BCE - 1799: Historical estimates by HYDE (v3.2).\n1800-1949: Historical estimates by Gapminder.\n1950-2022: Population records by the United Nations - Population Division (2022).",
             "owidDisplaySettings": "{\"name\": \"Population\", \"unit\": \"persons\", \"shortUnit\": null, \"includeInTable\": true}"
           },
           {
             "name": "Population (future projections)",
             "type": "any",
-            "description": "Population by country, available from 2022 to 2100 based on Gapminder data, HYDE, and UN Population Division (2022) estimates.\n\n10,000 BCE - 1799: Historical estimates by HYDE (v3.2).\n1800-1949: Historical estimates by Gapminder.\n1950-2021: Population records by the United Nations - Population Division (2022).\n2022-2100: Projections based on Medium variant by the United Nations - Population Division (2022).\n",
+            "description": "Population by country, available from 2022 to 2100\n\n2022-2100: Projections based on Medium variant by the United Nations - Population Division (2022).",
             "owidDisplaySettings": "{\"name\": \"Population (future projections)\", \"unit\": \"persons\", \"shortUnit\": null, \"includeInTable\": true}"
           },
           {
             "name": "Share of world population (historical estimates)",
             "type": "any",
-            "description": "Share of the world's population by country, available from 10,000 BCE to 2021 based on Gapminder data, HYDE, and UN Population Division (2022) estimates.\n\n10,000 BCE - 1799: Historical estimates by HYDE (v3.2).\n1800-1949: Historical estimates by Gapminder.\n1950-2021: Population records by the United Nations - Population Division (2022).\n2022-2100: Projections based on Medium variant by the United Nations - Population Division (2022).\n",
-            "owidDisplaySettings": "{\"name\": \"Share of world population\", \"unit\": \"%\", \"shortUnit\": null, \"includeInTable\": true, \"conversionFactor\": 100}"
+            "description": "Share of the world's population by country, available from 10,000 BCE to 2021\n\n10,000 BCE - 1799: Historical estimates by HYDE (v3.2).\n1800-1949: Historical estimates by Gapminder.\n1950-2022: Population records by the United Nations - Population Division (2022).",
+            "owidDisplaySettings": "{\"name\": \"Share of world population\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Share of world population (future projections)",
             "type": "any",
-            "description": "Share of the world's population by country, available from 2022 to 2100 based on Gapminder data, HYDE, and UN Population Division (2022) estimates.\n\n10,000 BCE - 1799: Historical estimates by HYDE (v3.2).\n1800-1949: Historical estimates by Gapminder.\n1950-2021: Population records by the United Nations - Population Division (2022).\n2022-2100: Projections based on Medium variant by the United Nations - Population Division (2022).\n",
-            "owidDisplaySettings": "{\"name\": \"Share of world population (future projections)\", \"unit\": \"%\", \"shortUnit\": null, \"includeInTable\": true, \"conversionFactor\": 100}"
+            "description": "Share of the world's population by country, available from 2022 to 2100\n\n2022-2100: Projections based on Medium variant by the United Nations - Population Division (2022).",
+            "owidDisplaySettings": "{\"name\": \"Share of world population (future projections)\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
           },
           {
             "name": "Population density",
             "type": "any",
-            "description": "Population density by country, available from 10,000 BCE to 2100 based on Gapminder data, HYDE, and UN Population Division (2022) estimates. Estimated by dividing a country's population by its land area (from FAO via World Bank).\n\n10,000 BCE - 1799: Historical estimates by HYDE (v3.2).\n1800-1949: Historical estimates by Gapminder.\n1950-2021: Population records by the United Nations - Population Division (2022).\n2022-2100: Projections based on Medium variant by the United Nations - Population Division (2022).\n",
+            "description": "Population density by country, available from 10,000 BCE to 2100 based on Gapminder data, HYDE, and UN Population Division (2022) estimates. Estimated by dividing a country's population by its land area (from FAO via World Bank).\n\n* 10,000 BCE - 1799: Historical estimates by HYDE (v3.2). Includes some datapoints from Gapminder (Systema Globalis).\n* 1800-1949: Historical estimates by Gapminder. Includes some datapoints from HYDE (v3.2) and Gapminder (Systema Globalis).\n* 1950-2021: Population records by the United Nations - Population Division (2022). Includes some datapoints from HYDE (v3.2), Gapminder (Systema Globalis) and Gapminder (v6).\n* 2022-2100: Projections based on Medium variant by the United Nations - Population Division (2022).\n",
             "owidDisplaySettings": "{\"name\": \"Population density\", \"unit\": \"people per km²\", \"shortUnit\": null, \"includeInTable\": true}"
           }
         ]
