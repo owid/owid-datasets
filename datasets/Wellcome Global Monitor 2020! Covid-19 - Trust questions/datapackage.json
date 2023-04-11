@@ -1,6 +1,6 @@
 {
-  "name": "Wellcome Global Monitor 2020: Covid-19",
-  "title": "Wellcome Global Monitor 2020: Covid-19",
+  "name": "Wellcome Global Monitor 2020: Covid-19 - Trust questions",
+  "title": "Wellcome Global Monitor 2020: Covid-19 - Trust questions",
   "id": 4154,
   "description": "The Wellcome Global Monitor is a large global study into how people think and feel about science and health challenges. It surveys over 140,000 people from more than 140 countries.",
   "sources": [
@@ -18,7 +18,7 @@
   ],
   "resources": [
     {
-      "path": "Wellcome Global Monitor 2020: Covid-19.csv",
+      "path": "Wellcome Global Monitor 2020: Covid-19 - Trust questions.csv",
       "schema": {
         "fields": [
           {
