@@ -13,14 +13,6 @@
       "dataPublisherSource": null
     },
     {
-      "name": "UN (2022); Gapminder (2019); Food and Agriculture Organization of the United Nations; HYDE (2017); Gapminder (Systema Globalis)",
-      "link": "https://population.un.org/wpp/Download/Standard/Population/ ; https://docs.google.com/spreadsheets/d/14_suWY8fCPEXV0MH7ZQMZ-KndzMVsSsA5HdR-7WqAC0/edit#gid=501532268 ; http://data.worldbank.org/data-catalog/world-development-indicators ; https://dataportaal.pbl.nl/downloads/HYDE/ ; https://github.com/open-numbers/ddf--gapminder--systema_globalis",
-      "retrievedDate": "September 10, 2022",
-      "additionalInfo": "The most important handful of indicators for use directly and in transforming other statistics.",
-      "dataPublishedBy": "UN, World Population Prospects (2022); Gapminder (v6); World Bank; HYDE (v3.2); Gapminder (Systema Globalis)",
-      "dataPublisherSource": null
-    },
-    {
       "name": "Gapminder (2019); UN (2022); HYDE (2017); Gapminder (Systema Globalis)",
       "link": "https://docs.google.com/spreadsheets/d/14_suWY8fCPEXV0MH7ZQMZ-KndzMVsSsA5HdR-7WqAC0/edit#gid=501532268 ; https://population.un.org/wpp/Download/Standard/Population/ ; https://dataportaal.pbl.nl/downloads/HYDE/ ; https://github.com/open-numbers/ddf--gapminder--systema_globalis",
       "retrievedDate": "October 8, 2021",
@@ -34,6 +26,14 @@
       "retrievedDate": "October 8, 2021",
       "additionalInfo": "Our World in Data builds and maintains a long-run dataset on population by country, region, and for the world, based on three key sources: HYDE, Gapminder, and the UN World Population Prospects. This combines historical population estimates with median scenario projections to 2100. You can find more information on these sources and how our time series is constructed on this page: <a href=\"https://ourworldindata.org/population-sources\">What sources do we rely on for population estimates?</a>\n\nWe combine this population dataset with the <a href=\"https://ourworldindata.org/grapher/land-area-km\">land area estimates published by the World Bank</a>, to produce a long-run dataset of population density.\n\nIn all sources that we rely on, population estimates and land area estimates are based on today's geographical borders.\n",
       "dataPublishedBy": "Gapminder (v6); UN, World Population Prospects (2022); HYDE (v3.2); Gapminder (Systema Globalis); World Bank",
+      "dataPublisherSource": null
+    },
+    {
+      "name": "Gapminder (2019); Food and Agriculture Organization of the United Nations; HYDE (2017); Gapminder (Systema Globalis); UN (2022)",
+      "link": "https://docs.google.com/spreadsheets/d/14_suWY8fCPEXV0MH7ZQMZ-KndzMVsSsA5HdR-7WqAC0/edit#gid=501532268 ; http://data.worldbank.org/data-catalog/world-development-indicators ; https://dataportaal.pbl.nl/downloads/HYDE/ ; https://github.com/open-numbers/ddf--gapminder--systema_globalis ; https://population.un.org/wpp/Download/Standard/Population/",
+      "retrievedDate": "October 8, 2021",
+      "additionalInfo": "The most important handful of indicators for use directly and in transforming other statistics.",
+      "dataPublishedBy": "Gapminder (v6); World Bank; HYDE (v3.2); Gapminder (Systema Globalis); UN, World Population Prospects (2022)",
       "dataPublisherSource": null
     }
   ],
