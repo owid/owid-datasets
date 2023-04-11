@@ -1,0 +1,96 @@
+{
+  "name": "Wellcome Global Monitor 2020: Covid-19",
+  "title": "Wellcome Global Monitor 2020: Covid-19",
+  "id": 4154,
+  "description": "The Wellcome Global Monitor is a large global study into how people think and feel about science and health challenges. It surveys over 140,000 people from more than 140 countries.",
+  "sources": [
+    {
+      "name": "Wellcome Global Monitor (2020)",
+      "link": "https://wellcome.org/reports/wellcome-global-monitor-covid-19/2020",
+      "retrievedDate": "2023-04-11",
+      "additionalInfo": "The Wellcome Global Monitor is a large global study into how people think and feel about science and health challenges. It surveys over 140,000 people from more than 140 countries.",
+      "dataPublishedBy": "Wellcome Global Monitor (2020)",
+      "dataPublisherSource": "Surveys"
+    }
+  ],
+  "owidTags": [
+    "Trust"
+  ],
+  "resources": [
+    {
+      "path": "Wellcome Global Monitor 2020: Covid-19.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Entity",
+            "type": "string"
+          },
+          {
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "name": "Trust people in neighborhood",
+            "type": "any",
+            "description": "Survey respondents were asked, \"How much do you trust each of the following: other people in your neighborhood; your national government; scientists; journalists; doctors and nurses; people who work at non-governmental or non-profit organizations; healers? Do you trust them a lot, some, not much, or not at all?\"\n\nThe \"share of people who trust\" is the sum of those who responded \"a lot\" and \"some.\"",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Trust the national government in this country",
+            "type": "any",
+            "description": "Survey respondents were asked, \"How much do you trust each of the following: other people in your neighborhood; your national government; scientists; journalists; doctors and nurses; people who work at non-governmental or non-profit organizations; healers? Do you trust them a lot, some, not much, or not at all?\"\n\nThe \"share of people who trust\" is the sum of those who responded \"a lot\" and \"some.\"",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Trust scientists in this country",
+            "type": "any",
+            "description": "Survey respondents were asked, \"How much do you trust each of the following: other people in your neighborhood; your national government; scientists; journalists; doctors and nurses; people who work at non-governmental or non-profit organizations; healers? Do you trust them a lot, some, not much, or not at all?\"\n\nThe \"share of people who trust\" is the sum of those who responded \"a lot\" and \"some.\"",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Trust journalists in this country",
+            "type": "any",
+            "description": "Survey respondents were asked, \"How much do you trust each of the following: other people in your neighborhood; your national government; scientists; journalists; doctors and nurses; people who work at non-governmental or non-profit organizations; healers? Do you trust them a lot, some, not much, or not at all?\"\n\nThe \"share of people who trust\" is the sum of those who responded \"a lot\" and \"some.\"",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Trust doctors and nurses in this country",
+            "type": "any",
+            "description": "Survey respondents were asked, \"How much do you trust each of the following: other people in your neighborhood; your national government; scientists; journalists; doctors and nurses; people who work at non-governmental or non-profit organizations; healers? Do you trust them a lot, some, not much, or not at all?\"\n\nThe \"share of people who trust\" is the sum of those who responded \"a lot\" and \"some.\"",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Trust people who work at charitable organizations or ngos in this country",
+            "type": "any",
+            "description": "Survey respondents were asked, \"How much do you trust each of the following: other people in your neighborhood; your national government; scientists; journalists; doctors and nurses; people who work at non-governmental or non-profit organizations; healers? Do you trust them a lot, some, not much, or not at all?\"\n\nThe \"share of people who trust\" is the sum of those who responded \"a lot\" and \"some.\"",
+            "owidDisplaySettings": "{\"name\": \"Trust people who work at charitable organizations or NGOs in this country\", \"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Trust traditional healers in this country",
+            "type": "any",
+            "description": "Survey respondents were asked, \"How much do you trust each of the following: other people in your neighborhood; your national government; scientists; journalists; doctors and nurses; people who work at non-governmental or non-profit organizations; healers? Do you trust them a lot, some, not much, or not at all?\"\n\nThe \"share of people who trust\" is the sum of those who responded \"a lot\" and \"some.\"",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Trust science",
+            "type": "any",
+            "description": "Survey respondents were asked, \"How much do you trust each of the following: other people in your neighborhood; your national government; scientists; journalists; doctors and nurses; people who work at non-governmental or non-profit organizations; healers? Do you trust them a lot, some, not much, or not at all?\"\n\nThe \"share of people who trust\" is the sum of those who responded \"a lot\" and \"some.\"",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Trust scientists to find accurate information about the world",
+            "type": "any",
+            "description": "Survey respondents were asked, \"How much do you trust each of the following: other people in your neighborhood; your national government; scientists; journalists; doctors and nurses; people who work at non-governmental or non-profit organizations; healers? Do you trust them a lot, some, not much, or not at all?\"\n\nThe \"share of people who trust\" is the sum of those who responded \"a lot\" and \"some.\"",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          },
+          {
+            "name": "Trust scientists to do work with intention of benefiting public",
+            "type": "any",
+            "description": "Survey respondents were asked, \"How much do you trust each of the following: other people in your neighborhood; your national government; scientists; journalists; doctors and nurses; people who work at non-governmental or non-profit organizations; healers? Do you trust them a lot, some, not much, or not at all?\"\n\nThe \"share of people who trust\" is the sum of those who responded \"a lot\" and \"some.\"",
+            "owidDisplaySettings": "{\"unit\": \"%\", \"shortUnit\": \"%\", \"includeInTable\": true}"
+          }
+        ]
+      }
+    }
+  ]
+}
