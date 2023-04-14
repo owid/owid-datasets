@@ -1,4 +1,4 @@
-# Historical world population: comparison of different sources
+# Historical world population comparison (various sources)
 
 Among others these are the original source:
 
