@@ -1,4 +1,4 @@
-# Historical UN Population Projections
+# Historical World Population Prospects (UN, various years)
 
 Global population projections are based on historical World Population Prospects Editions published by the United Nations (UN) across a number of periodic publications.
 
