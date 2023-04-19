@@ -2,13 +2,13 @@
   "name": "Key Indicators",
   "title": "Key Indicators",
   "id": 5774,
-  "description": "Country land area.\n",
+  "description": "THIS DATASET IS DEPRECATED",
   "sources": [
     {
       "name": "Food and Agriculture Organization of the United Nations",
       "link": "http://data.worldbank.org/data-catalog/world-development-indicators",
       "retrievedDate": "2021-08-08",
-      "additionalInfo": "Country land area.\n",
+      "additionalInfo": "THIS DATASET IS DEPRECATED",
       "dataPublishedBy": "World Bank",
       "dataPublisherSource": null
     },
@@ -37,13 +37,7 @@
       "dataPublisherSource": null
     }
   ],
-  "owidTags": [
-    "Population Growth",
-    "Fertility Rate",
-    "Migration",
-    "Population Growth & Vital Statistics",
-    "Mortality by Age"
-  ],
+  "owidTags": [],
   "resources": [
     {
       "path": "Key Indicators.csv",

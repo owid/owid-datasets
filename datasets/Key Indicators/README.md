@@ -1,3 +1,3 @@
 # Key Indicators
 
-Country land area.
+THIS DATASET IS DEPRECATED
