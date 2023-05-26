@@ -2,13 +2,13 @@
   "name": "Democracy - OWID based on Boix-Miller-Rosato",
   "title": "Democracy - OWID based on Boix-Miller-Rosato",
   "id": 5618,
-  "description": "This dataset provides information on political regimes, using data from Boix et al. (2013).\n\nWe slightly expand the countries and years covered.\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
+  "description": "This dataset provides information on political regimes, using data from Boix et al. (2013).\n\nWe slightly expand the countries and years covered.\n\nYou can read a description of the data in this post: https://ourworldindata.org/democracies-measurement\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
   "sources": [
     {
       "name": "Political regimes - OWID based on Boix et al. (2013)",
       "link": "https://sites.google.com/site/mkmtwo/data?authuser=0",
       "retrievedDate": "February 9, 2022",
-      "additionalInfo": "This dataset provides information on political regimes, using data from Boix et al. (2013).\n\nWe slightly expand the countries and years covered.\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
+      "additionalInfo": "This dataset provides information on political regimes, using data from Boix et al. (2013).\n\nWe slightly expand the countries and years covered.\n\nYou can read a description of the data in this post: https://ourworldindata.org/democracies-measurement\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/political_regimes",
       "dataPublishedBy": "Our World in Data, Bastian Herre",
       "dataPublisherSource": "Data comes from Boix et al. (2013), with own expansions and refinements."
     }
@@ -33,13 +33,13 @@
             "name": "regime_bmr_owid",
             "type": "any",
             "description": "The variable identifies the political regime of a country using the classification by political scientists Carles Boix, Michael Miller, and Sebastian Rosato. It distinguishes between (electoral) democracies (score 1) and non-democracies (score 0).\n\nIt is based on the variable democracy_omitteddata.\n\nDemocracies are political systems in which political leaders are elected under broad suffrage in free and fair elections.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Political regime\", \"includeInTable\": true}"
           },
           {
             "name": "dem_age_bmr_owid",
             "type": "any",
             "description": "The identification of democracies is based on the classification by Boix et al. (2013).\n\nDemocracies are understood here as political systems in which political leaders are elected under broad suffrage in free and fair elections.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Age of democracy\", \"includeInTable\": true}"
           },
           {
             "name": "dem_age_group_bmr_owid",
@@ -51,13 +51,13 @@
             "name": "regime_womsuffr_bmr_owid",
             "type": "any",
             "description": "The variable identifies the political regime of a country using the classification by political scientists Carles Boix, Michael Miller, and Sebastian Rosato. It distinguishes between (electoral) democracies (score 1) and non-democracies (score 0).\n\nIt is based on the variable democracy_femalesuffrage.\n\nDemocracies are political systems in which political leaders are elected under broad suffrage for both men and women in free and fair elections.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Political regime\", \"includeInTable\": true}"
           },
           {
             "name": "dem_ws_age_bmr_owid",
             "type": "any",
             "description": "The identification of democracies is based on the classification by Boix et al. (2013).\n\nDemocracies are understood here as political systems in which political leaders are elected under broad suffrage for both men and women in free and fair elections.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Age of democracy\", \"includeInTable\": true}"
           },
           {
             "name": "dem_ws_age_group_bmr_owid",
@@ -81,13 +81,13 @@
             "name": "dem_exp_bmr_owid",
             "type": "any",
             "description": "The variable identifies the number of years a country was a democracy since 1800.\n\nThe identification of democracies is based on the classification by Boix et al. (2013).\n\nDemocracies are understood here as political systems in which political leaders are elected under broad suffrage in free and fair elections.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Experience with democracy\", \"includeInTable\": true}"
           },
           {
             "name": "dem_ws_exp_bmr_owid",
             "type": "any",
             "description": "The variable identifies the number of years a country was a democracy since 1800.\n\nThe identification of democracies is based on the classification by Boix et al. (2013).\n\nDemocracies are understood here as political systems in which political leaders are elected under broad suffrage for both men and women in free and fair elections.",
-            "owidDisplaySettings": "{\"includeInTable\": true}"
+            "owidDisplaySettings": "{\"name\": \"Experience with democracy\", \"includeInTable\": true}"
           },
           {
             "name": "number_nondem_bmr_owid",
