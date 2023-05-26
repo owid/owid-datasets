@@ -2,13 +2,13 @@
   "name": "Democracy - Polity 5",
   "title": "Democracy - Polity 5",
   "id": 5633,
-  "description": "This dataset provides information on political regimes, using data from Polity (2021).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
+  "description": "This dataset provides information on political regimes, using data from Polity (2021).\n\nYou can read a description of the data in this post: https://ourworldindata.org/democracies-measurement\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
   "sources": [
     {
       "name": "Polity 5",
       "link": "https://www.systemicpeace.org/polityproject.html",
       "retrievedDate": "March 15, 2022",
-      "additionalInfo": "This dataset provides information on political regimes, using data from Polity (2021).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
+      "additionalInfo": "This dataset provides information on political regimes, using data from Polity (2021).\n\nYou can read a description of the data in this post: https://ourworldindata.org/democracies-measurement\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
       "dataPublishedBy": "Marshall, Monty G. and Ted Robert Gurr. 2021. Polity 5: Political Regime Characteristics and Transitions, 1800-2018. Center for Systemic Peace."
     }
   ],
