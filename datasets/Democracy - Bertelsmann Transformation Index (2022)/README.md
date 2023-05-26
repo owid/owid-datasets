@@ -4,4 +4,6 @@ This dataset provides information on political regimes, using data from Bertelsm
 
 The BTI covers 138 countries and territories that are not consolidated democracies.
 
+You can read a description of the data in this post: https://ourworldindata.org/democracies-measurement
+
 You can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy

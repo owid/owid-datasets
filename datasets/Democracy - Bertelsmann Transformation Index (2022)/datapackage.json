@@ -2,13 +2,13 @@
   "name": "Democracy - Bertelsmann Transformation Index (2022)",
   "title": "Democracy - Bertelsmann Transformation Index (2022)",
   "id": 5634,
-  "description": "This dataset provides information on political regimes, using data from Bertelsmann Foundation's Bertelsmann Transformation Index (2022, BTI).\n\nThe BTI covers 138 countries and territories that are not consolidated democracies.\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
+  "description": "This dataset provides information on political regimes, using data from Bertelsmann Foundation's Bertelsmann Transformation Index (2022, BTI).\n\nThe BTI covers 138 countries and territories that are not consolidated democracies.\n\nYou can read a description of the data in this post: https://ourworldindata.org/democracies-measurement\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
   "sources": [
     {
       "name": "Bertelsmann Transformation Index (2022)",
       "link": "https://bti-project.org/en/downloads",
       "retrievedDate": "March 15, 2022",
-      "additionalInfo": "This dataset provides information on political regimes, using data from Bertelsmann Foundation's Bertelsmann Transformation Index (2022, BTI).\n\nThe BTI covers 138 countries and territories that are not consolidated democracies.\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
+      "additionalInfo": "This dataset provides information on political regimes, using data from Bertelsmann Foundation's Bertelsmann Transformation Index (2022, BTI).\n\nThe BTI covers 138 countries and territories that are not consolidated democracies.\n\nYou can read a description of the data in this post: https://ourworldindata.org/democracies-measurement\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
       "dataPublishedBy": "Bertelsmann Foundation. 2022. Bertelsmann Transformation Index 2022."
     }
   ],
