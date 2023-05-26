@@ -2,13 +2,13 @@
   "name": "Democracy - Economist Intelligence Unit (2023)",
   "title": "Democracy - Economist Intelligence Unit (2023)",
   "id": 5635,
-  "description": "This dataset provides information on political regimes, using data from the Economist Intelligence Unit's Democracy Index (2023).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
+  "description": "This dataset provides information on political regimes, using data from the Economist Intelligence Unit's Democracy Index (2023).\n\nYou can read a description of the data in this post: https://ourworldindata.org/democracies-measurement\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
   "sources": [
     {
       "name": "Economist Intelligence Unit (2023), Economist Intelligence Unit (2021) via gapminder",
       "link": "http://www.gapm.io/dxlsdemocrix (for years 2006-2020); https://www.eiu.com/n/campaigns/democracy-index-2021/ (for year 2021); https://www.eiu.com/n/campaigns/democracy-index-2022/ (for year 2022)",
       "retrievedDate": "February 2, 2023",
-      "additionalInfo": "This dataset provides information on political regimes, using data from the Economist Intelligence Unit's Democracy Index (2023).\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
+      "additionalInfo": "This dataset provides information on political regimes, using data from the Economist Intelligence Unit's Democracy Index (2023).\n\nYou can read a description of the data in this post: https://ourworldindata.org/democracies-measurement\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/democracy",
       "dataPublishedBy": "Economist Intelligence Unit. 2023. Democracy Index 2022: Frontline democracy and the battle for Ukraine."
     }
   ],
