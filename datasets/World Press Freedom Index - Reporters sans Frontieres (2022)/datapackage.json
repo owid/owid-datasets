@@ -6,7 +6,7 @@
   "sources": [
     {
       "name": "Reporters sans Frontieres (2022)",
-      "link": "https://rsf.org/en/ranking",
+      "link": "https://rsf.org/en/index",
       "retrievedDate": "March 21, 2022",
       "additionalInfo": "This dataset provides information on press freedom, using data from the Reporters sans Frontieres' World Press Freedom Index.\n\nYou can download the code and complete dataset, including supplementary variables, from GitHub: https://github.com/owid/notebooks/tree/main/BastianHerre/human_rights",
       "dataPublishedBy": "Reporters sans Frontieres",
