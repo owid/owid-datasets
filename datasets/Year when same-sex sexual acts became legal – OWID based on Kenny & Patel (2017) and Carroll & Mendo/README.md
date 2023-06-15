@@ -1,4 +1,4 @@
-# Year when same-sex sexual acts became legal – OWID based on Carroll and Mendos (2017) via Kenny & Patel (2017)
+# Year when same-sex sexual acts became legal – OWID based on Kenny & Patel (2017) and Carroll & Mendos (2017)
 
 Data based on Figure 2 in <em>Kenny, C., & Patel, D. (2017). Norms and Reform: Legalizing Homosexuality Improves Attitudes. Center for Global Development Working Paper, (465).</em>
 
