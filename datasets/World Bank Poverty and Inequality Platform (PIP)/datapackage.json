@@ -5,7 +5,7 @@
   "description": "The Poverty and Inequality Platform (PIP) is an interactive computational tool that offers users quick access to the World Bank’s estimates of poverty, inequality, and shared prosperity. PIP provides a comprehensive view of global, regional, and country-level trends for more than 150 economies around the world.\n\nVersion 20220909_2017_01_02_PROD\n\nYou can read more information about PIP data and methodology in <a href=\"https://github.com/owid/poverty-data\">GitHub</a>.",
   "sources": [
     {
-      "name": "World Bank Poverty and Inequality Platform",
+      "name": "World Bank Poverty and Inequality Platform (2022)",
       "link": "https://pip.worldbank.org/",
       "retrievedDate": "2022-10-03",
       "additionalInfo": "The Poverty and Inequality Platform (PIP) is an interactive computational tool that offers users quick access to the World Bank’s estimates of poverty, inequality, and shared prosperity. PIP provides a comprehensive view of global, regional, and country-level trends for more than 150 economies around the world.\n\nVersion 20220909_2017_01_02_PROD\n\nYou can read more information about PIP data and methodology in <a href=\"https://github.com/owid/poverty-data\">GitHub</a>.",
@@ -249,7 +249,7 @@
           {
             "name": "$2.15 a day - total shortfall",
             "type": "any",
-            "description": "The total shortfall from a poverty line of $2.15 a day.\n\nThis is the amount of money that would be theoretically needed to lift the income or expenditure of all people in poverty up to the poverty line. However this is not a measure of the actual cost of eliminating poverty, since it does not take into account the costs involved in making the necessary transfers nor any changes in behaviour they would bring about.",
+            "description": "The total shortfall from a poverty line of $2.15 a day.\n\nThis is the amount of money that would be theoretically needed to lift the income or expenditure of all people in poverty up to the poverty line. However this is not a measure of the actual cost of eliminating poverty, since it does not take into account the costs involved in making the necessary transfers nor any changes in behaviour they would bring about.\n\nWe calculate the total annual shortfall from the poverty line ('poverty gap') from estimates of the poverty gap index produced by the World Bank using the following formula: Total annual poverty gap = Poverty gap index x total population (including both poor and non-poor) x $2.15 x 365.",
             "owidDisplaySettings": "{\"unit\": \"international-$ at 2017 prices\", \"shortUnit\": \"$\", \"includeInTable\": true}"
           },
           {
