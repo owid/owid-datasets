@@ -5,7 +5,7 @@
   "description": "This is a calculation from PIP data to get the number of surveys in the past decade, the sum of surveys for the current year and the 9 years before.",
   "sources": [
     {
-      "name": "World Bank Poverty and Inequality Platform",
+      "name": "World Bank Poverty and Inequality Platform (2022)",
       "link": "https://pip.worldbank.org/",
       "retrievedDate": "2022-10-03",
       "additionalInfo": "This is a calculation from PIP data to get the number of surveys in the past decade, the sum of surveys for the current year and the 9 years before.",
