@@ -5,16 +5,16 @@
   "description": "",
   "sources": [
     {
-      "name": "Atkinson, Hasell, Morelli, and Roser (2017)",
-      "dataPublishedBy": "Atkinson, Hasell, Morelli, and Roser (2017), “The Chartbook of Economic Inequality\"",
-      "dataPublisherSource": "Selected national statistical office data",
+      "name": "Chartbook of Economic Inequality (2017)",
       "link": "https://www.chartbookofeconomicinequality.com",
       "retrievedDate": "27/02/18",
-      "additionalInfo": null
+      "additionalInfo": null,
+      "dataPublishedBy": "Atkinson, Hasell, Morelli, and Roser (2017), “The Chartbook of Economic Inequality\"",
+      "dataPublisherSource": "Selected national statistical office data"
     }
   ],
   "owidTags": [
-    "Income Inequality"
+    "Economic inequality"
   ],
   "resources": [
     {
@@ -33,7 +33,7 @@
             "name": "Gini coefficient, equivalized income after tax and transfers",
             "type": "any",
             "description": "Whilst most of these figures refer to disposable household income, for some countries the unit of analysis is different (e.g. family)",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           }
         ]
       }
