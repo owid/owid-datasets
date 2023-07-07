@@ -5,17 +5,15 @@
   "description": "This dataset is produced using 'A5. Service Sector 1270-1870' sheet in BoE dataset. For each variables, output figures are indexed those in year 1700 (i.e. 1700 = 100), and they are measured on a log scale.",
   "sources": [
     {
-      "name": "Output of key services sectors in England - using Bank of England (2017)",
-      "dataPublishedBy": "Bank of England (BoE) 2017",
-      "dataPublisherSource": "Broadberry, S., Campbell, B. M., Klein, A., Overton, M., & Van Leeuwen, B. (2015). British economic growth, 1270–1870. Cambridge University Press.",
+      "name": "Broadberry, S., Campbell, B. M., Klein, A., Overton, M., & Van Leeuwen, B. (2015)",
       "link": "http://www.bankofengland.co.uk/research/Pages/datasets/default.aspx#threecenturies",
       "retrievedDate": "25/08/2017",
-      "additionalInfo": "This dataset is produced using 'A5. Service Sector 1270-1870' sheet in BoE dataset. For each variables, output figures are indexed those in year 1700 (i.e. 1700 = 100), and they are measured on a log scale."
+      "additionalInfo": "This dataset is produced using 'A5. Service Sector 1270-1870' sheet in BoE dataset. For each variables, output figures are indexed those in year 1700 (i.e. 1700 = 100), and they are measured on a log scale.",
+      "dataPublishedBy": "Bank of England (BoE) 2017",
+      "dataPublisherSource": "Broadberry, S., Campbell, B. M., Klein, A., Overton, M., & Van Leeuwen, B. (2015). British economic growth, 1270–1870. Cambridge University Press."
     }
   ],
-  "owidTags": [
-    "Uncategorized"
-  ],
+  "owidTags": [],
   "resources": [
     {
       "path": "Output of key services sectors in England - using Bank of England (2017).csv",
@@ -33,31 +31,31 @@
             "name": "Government Services",
             "type": "any",
             "description": "Total output of the government services sector, indexed to the year 1700, in log scale. It shows how much production took place in government services sector relative to that in 1700 when measured on a log scale.",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "Trade and Transport",
             "type": "any",
             "description": "Total output of the trade and transport sector, indexed to the year 1700, in log scale. It shows how much production took place in trade and transport sector relative to that in 1700 when measured on a log scale.",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "Financial Services",
             "type": "any",
             "description": "Total output of the financial services sector, indexed to the year 1700, in log scale. It shows how much production took place in financial services sector relative to that in 1700 when measured on a log scale.",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "Housing and Domestic Services",
             "type": "any",
             "description": "Total output of the housing and domestic services sector, indexed to the year 1700, in log scale. It shows how much production took place in housing and domestic services sector relative to that in 1700 when measured on a log scale.",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           },
           {
             "name": "Total Services",
             "type": "any",
             "description": "Total services output, indexed to the year 1700, in log scale. It shows how much services output was produced relative to that in 1700 when measured on a log scale.\n",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           }
         ]
       }
