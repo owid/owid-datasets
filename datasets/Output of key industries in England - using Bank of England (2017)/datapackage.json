@@ -5,17 +5,15 @@
   "description": "This dataset is produced using 'A4. Ind Production 1270-1870' sheet in BoE dataset. For each variables, output figures are indexed those in year 1700 (i.e. 1700 = 100), and they are measured on a log scale.",
   "sources": [
     {
-      "name": "Output of key industries in England - using Bank of England (2017)",
-      "dataPublishedBy": "Bank of England (BoE) 2017",
-      "dataPublisherSource": "Broadberry, S., Campbell, B. M., Klein, A., Overton, M., & Van Leeuwen, B. (2015). British economic growth, 1270–1870. Cambridge University Press.",
+      "name": "Broadberry, S., Campbell, B. M., Klein, A., Overton, M., & Van Leeuwen, B. (2015)",
       "link": "http://www.bankofengland.co.uk/research/Pages/datasets/default.aspx#threecenturies",
       "retrievedDate": "25/08/2017",
-      "additionalInfo": "This dataset is produced using 'A4. Ind Production 1270-1870' sheet in BoE dataset. For each variables, output figures are indexed those in year 1700 (i.e. 1700 = 100), and they are measured on a log scale."
+      "additionalInfo": "This dataset is produced using 'A4. Ind Production 1270-1870' sheet in BoE dataset. For each variables, output figures are indexed those in year 1700 (i.e. 1700 = 100), and they are measured on a log scale.",
+      "dataPublishedBy": "Bank of England (BoE) 2017",
+      "dataPublisherSource": "Broadberry, S., Campbell, B. M., Klein, A., Overton, M., & Van Leeuwen, B. (2015). British economic growth, 1270–1870. Cambridge University Press."
     }
   ],
-  "owidTags": [
-    "Uncategorized"
-  ],
+  "owidTags": [],
   "resources": [
     {
       "path": "Output of key industries in England - using Bank of England (2017).csv",
@@ -33,49 +31,49 @@
             "name": "Tin",
             "type": "any",
             "description": "Total output of tin, indexed to the year 1700 in log scale. It shows how much tin was produced relative to that in 1700 when measured on a log scale. ",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 1}"
           },
           {
             "name": "Iron",
             "type": "any",
             "description": "Total output of iron, indexed to the year 1700 in log scale. It shows how much iron was produced relative to that in 1700 when measured on a log scale. ",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 1}"
           },
           {
             "name": "Coal",
             "type": "any",
             "description": "Total output of coal, indexed to the year 1700 in log scale. It shows how much coal was produced relative to that in 1700 when measured on a log scale. ",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 1}"
           },
           {
             "name": "Wool/Textiles",
             "type": "any",
             "description": "Total output of wool/textiles, indexed to the year 1700 in log scale. It shows how much wool/textiles was produced relative to that in 1700 when measured on a log scale. ",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 1}"
           },
           {
             "name": "Leather",
             "type": "any",
             "description": "Total output of leather, indexed to the year 1700 in log scale. It shows how much leather was produced relative to that in 1700 when measured on a log scale. ",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 1}"
           },
           {
             "name": "Foodstuffs",
             "type": "any",
             "description": "Total output of foodstuffs, indexed to the year 1700 in log scale. It shows how much foodstuffs was produced relative to that in 1700 when measured on a log scale. ",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 1}"
           },
           {
             "name": "Construction",
             "type": "any",
             "description": "Total construction output, indexed to the year 1700 in log scale. It shows how much construction was done relative to that in 1700 when measured on a log scale. ",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 1}"
           },
           {
             "name": "Printed books",
             "type": "any",
             "description": "Total output of printed books, indexed to the year 1700 in log scale. It shows how many books were printed relative to that in 1700 when measured on a log scale. ",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{\"includeInTable\": true, \"numDecimalPlaces\": 1}"
           }
         ]
       }
