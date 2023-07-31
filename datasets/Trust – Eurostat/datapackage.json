@@ -5,12 +5,12 @@
   "description": "",
   "sources": [
     {
-      "name": "Trust – Eurostat (2015)",
-      "dataPublishedBy": "Eurostat (2015)",
-      "dataPublisherSource": "Eurostat census data.",
+      "name": "Eurostat (2015)",
       "link": "http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=ilc_pw03&lang=en",
       "retrievedDate": "24/09/2017",
-      "additionalInfo": null
+      "additionalInfo": null,
+      "dataPublishedBy": "Eurostat (2015)",
+      "dataPublisherSource": "Eurostat census data."
     }
   ],
   "owidTags": [
@@ -33,13 +33,13 @@
             "name": "Trust in others (Eurostat (2015))",
             "type": "any",
             "description": "Variable of a general nature and refers to the respondent's opinion/feeling. Trust in others does not refer to a specific group of people. On the scale of 0 (You do no trust any other person) to 10 (Most people can be trusted). ",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{\"unit\": \"\", \"includeInTable\": true, \"numDecimalPlaces\": 1}"
           },
           {
             "name": "Trust in police (Eurostat (2015))",
             "type": "any",
             "description": "Trust in institutions (the police), 0 corresponds to 'No trust at all' and 10 'Complete trust' in the concerned institution. The term police refers to the police as an institution. ",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           }
         ]
       }
