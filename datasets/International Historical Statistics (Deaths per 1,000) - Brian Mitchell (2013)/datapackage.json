@@ -13,9 +13,7 @@
       "dataPublisherSource": "Collection of data sets taken from primary sources, including both official national and international abstracts dating back to 1750."
     }
   ],
-  "owidTags": [
-    "Life Expectancy"
-  ],
+  "owidTags": [],
   "resources": [
     {
       "path": "International Historical Statistics (Deaths per 1,000) - Brian Mitchell (2013).csv",
