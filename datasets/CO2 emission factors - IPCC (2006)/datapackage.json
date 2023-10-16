@@ -6,14 +6,15 @@
   "sources": [
     {
       "name": "CO2 emission factors - IPCC (2006)",
-      "dataPublishedBy": "Intergovernmental Panel on Climate Change (IPCC). Guidelines for National Greenhouse Gas Inventories (2006).",
-      "dataPublisherSource": null,
       "link": "https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_2_Ch2_Stationary_Combustion.pdf",
       "retrievedDate": "15/10/2017",
-      "additionalInfo": "Figures represent the carbon dioxide emission factors as used in offical greenhouse gas reporting methodologies, defined by the Intergovernmental Panel on Climate Change (IPCC).\r\n\r\nData has been converted from kilograms per terajoule to kilograms per MWh (kg/MWh) using a conversion factor of 277.778."
+      "additionalInfo": "Figures represent the carbon dioxide emission factors as used in offical greenhouse gas reporting methodologies, defined by the Intergovernmental Panel on Climate Change (IPCC).\r\n\r\nData has been converted from kilograms per terajoule to kilograms per MWh (kg/MWh) using a conversion factor of 277.778.",
+      "dataPublishedBy": "Intergovernmental Panel on Climate Change (IPCC). Guidelines for National Greenhouse Gas Inventories (2006).",
+      "dataPublisherSource": null
     }
   ],
   "owidTags": [
+    "CO2 & Greenhouse Gas Emissions",
     "Fossil Fuels"
   ],
   "resources": [
@@ -33,7 +34,7 @@
             "name": "CO₂ Emissions Factor (IPCC (2006))",
             "type": "any",
             "description": "",
-            "owidDisplaySettings": {}
+            "owidDisplaySettings": "{}"
           }
         ]
       }
